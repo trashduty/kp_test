@@ -1,45 +1,35 @@
-name: Test KenPom Scrape
+name: Generate KenPom Plot
 
 on:
-  workflow_dispatch:  # manual trigger only (safe)
+  schedule:
+    - cron: "0 8 */2 * *"  # every 2 days at 08:00 UTC
+  workflow_dispatch:
 
 jobs:
-  scrape:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update -y
-          sudo apt-get install -y libcurl4-openssl-dev
+      - name: Install system deps
+        run: sudo apt-get update -y && sudo apt-get install -y libcurl4-openssl-dev
 
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
 
       - name: Install R packages
         run: |
-          Rscript -e 'install.packages(c("httr2", "readr"), repos="https://cloud.r-project.org")'
+          Rscript -e 'install.packages(c("tidyverse","ggimage"), repos="https://cloud.r-project.org")'
 
-      - name: Run KenPom scrape test
-        env:
-          KP_USER: ${{ secrets.KP_USER }}
-          KP_PASS: ${{ secrets.KP_PASS }}
+      - name: Run KenPom plot script
         run: |
-          Rscript kenpom_scrape_test.R
+          Rscript kenpom_plot.R
 
-      - name: Commit and push CSVs
+      - name: Commit and push results
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add kenpom_offense.csv kenpom_defense.csv kenpom_scrape_log.txt
-          git commit -m "Auto-download KenPom CSVs"
+          git add four_factors.csv kenpom_top100_eff.png
+          git commit -m "Auto-update KenPom Top 100 plot"
           git push
-
-      - name: Upload KenPom log
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: kenpom-scrape-log
-          path: kenpom_scrape_log.txt
