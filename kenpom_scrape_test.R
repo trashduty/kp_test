@@ -1,74 +1,71 @@
-# kenpom_scrape_test.R
-# Downloads KenPom offense/defense CSVs with error logging
+# kenpom_plot.R
 
-log_file <- "kenpom_scrape_log.txt"
-writeLines(paste("Run started at", Sys.time()), log_file)
+library(tidyverse)
+library(ggimage)
 
-safe_log <- function(msg) {
-  message(msg)
-  cat(paste(Sys.time(), "-", msg, "\n"), file = log_file, append = TRUE)
-}
+message("Starting KenPom merge + plot process...")
 
-safe_log("Loading libraries...")
+# --- Load offense & defense CSVs you uploaded ---
+off <- read_csv("offense26.csv", show_col_types = FALSE)
+def <- read_csv("defense26.csv", show_col_types = FALSE)
 
-suppressPackageStartupMessages({
-  if (!require(httr2)) install.packages("httr2")
-  if (!require(readr)) install.packages("readr")
-})
+message("Loaded offense (", nrow(off), " rows) and defense (", nrow(def), " rows).")
 
-library(httr2)
-library(readr)
+# --- Join on team column ---
+eff_stats <- off %>%
+  rename_with(~paste0(., "_O"), -Team) %>%
+  inner_join(def %>% rename_with(~paste0(., "_D"), -Team),
+             by = c("Team" = "Team"))
 
-safe_log("Libraries loaded successfully.")
+# --- Compute simple efficiency stats ---
+eff_stats <- eff_stats %>%
+  mutate(AdjOE = `AdjEM_O`, AdjDE = `AdjEM_D`) %>%
+  mutate(NetEfficiency = AdjOE - AdjDE)
 
-# --- 1. Define URLs ---
-urls <- list(
-  offense = "https://kenpom.com/getdata.php?file=offense26",
-  defense = "https://kenpom.com/getdata.php?file=defense26"
-)
+# --- Save merged dataset for reference ---
+write_csv(eff_stats, "four_factors.csv")
 
-# --- 2. Credentials ---
-kp_user <- Sys.getenv("KP_USER")
-kp_pass <- Sys.getenv("KP_PASS")
+# --- Load logos/colors crosswalk ---
+ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |>
+  distinct(current_team, .keep_all = TRUE)
 
-if (kp_user == "" || kp_pass == "") {
-  safe_log("ERROR: Missing KenPom credentials.")
-  stop("KenPom credentials not found in environment variables.")
-}
+# --- Filter Top 100 (skip first row header if KenPom format includes summary row) ---
+eff_stats_selected <- eff_stats |>
+  slice(2:101) |>
+  left_join(ncaa_teams, by = c("Team" = "current_team"))
 
-# --- 3. Download function with error capture ---
-download_kenpom <- function(url, output_path) {
-  safe_log(paste("Attempting download:", url))
-  tryCatch({
-    req <- request(url) |>
-      req_auth_basic(kp_user, kp_pass) |>
-      req_perform()
+message("Filtered top 100 teams.")
 
-    if (req_status(req) != 200) {
-      safe_log(paste("ERROR:", url, "returned status", req_status(req)))
-      stop("Request failed with status ", req_status(req))
-    }
+# --- Calculate means for quadrant lines ---
+mean_adjOE <- mean(eff_stats_selected$AdjOE, na.rm = TRUE)
+mean_adjDE <- mean(eff_stats_selected$AdjDE, na.rm = TRUE)
 
-    writeBin(resp_body_raw(req), output_path)
-    safe_log(paste("Saved:", output_path))
-  },
-  error = function(e) {
-    safe_log(paste("ERROR downloading", url, ":", e$message))
-  })
-}
+# --- Create plot ---
+p <- eff_stats_selected |>
+  ggplot(aes(x = AdjOE, y = AdjDE)) +
+  annotate("rect", xmin = mean_adjOE, xmax = Inf, ymin = -Inf, ymax = mean_adjDE,
+           alpha = 0.1, fill = "green") +
+  annotate("rect", xmin = -Inf, xmax = mean_adjOE, ymin = mean_adjDE, ymax = Inf,
+           alpha = 0.1, fill = "red") +
+  geom_hline(yintercept = mean_adjDE, linetype = "dashed") +
+  geom_vline(xintercept = mean_adjOE, linetype = "dashed") +
+  geom_image(aes(image = logo), size = 0.05, asp = 16/9) +
+  theme_bw() +
+  labs(
+    x = "Adjusted Offensive Efficiency",
+    y = "Adjusted Defensive Efficiency",
+    title = "Men's CBB Landscape | Top 100 Teams",
+    subtitle = "Using data from KenPom.com"
+  ) +
+  theme(
+    plot.title = element_text(size = 25, face = "bold", hjust = 0.5),
+    plot.subtitle = element_text(hjust = 0.5),
+    axis.title = element_text(size = 25)
+  ) +
+  scale_x_continuous(breaks = scales::pretty_breaks(n = 6)) +
+  scale_y_reverse(breaks = scales::pretty_breaks(n = 6))
 
-# --- 4. Run downloads ---
-download_kenpom(urls$offense, "kenpom_offense.csv")
-download_kenpom(urls$defense, "kenpom_defense.csv")
+# --- Save plot ---
+ggsave("kenpom_top100_eff.png", plot = p, width = 14, height = 10, dpi = "retina")
 
-# --- 5. Validate results ---
-if (file.exists("kenpom_offense.csv")) {
-  off <- read_csv("kenpom_offense.csv", show_col_types = FALSE)
-  safe_log(paste("Offense rows:", nrow(off)))
-}
-if (file.exists("kenpom_defense.csv")) {
-  def <- read_csv("kenpom_defense.csv", show_col_types = FALSE)
-  safe_log(paste("Defense rows:", nrow(def)))
-}
-
-safe_log("Script completed successfully.")
+message("Plot saved successfully.")
