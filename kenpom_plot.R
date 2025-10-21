@@ -16,7 +16,7 @@ ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE
 # --- Join logos/colors ---
 eff_stats_selected <- eff_stats |>
   slice(2:101) |>  # skip KenPom header row if present
-  left_join(ncaa_teams, by = c("Team" = "team_name")) |>
+  left_join(ncaa_teams, by = c("team_name" = "current_team")) |>
   mutate(NetEfficiency = adj_oe - adj_de)
 
 message("Merged top 100 teams and joined logos.")
