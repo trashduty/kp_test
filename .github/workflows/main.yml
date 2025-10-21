@@ -36,3 +36,10 @@ jobs:
           git add kenpom_offense.csv kenpom_defense.csv kenpom_scrape_log.txt
           git commit -m "Auto-download KenPom CSVs"
           git push
+
+      - name: Upload KenPom log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: kenpom-scrape-log
+          path: kenpom_scrape_log.txt
