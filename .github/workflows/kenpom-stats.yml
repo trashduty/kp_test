@@ -39,7 +39,7 @@ jobs:
         python scrape_kenpom_stats.py
 
     - name: Upload CSV as artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: kenpom-stats
         path: kenpom_stats.csv
