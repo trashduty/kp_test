@@ -64,35 +64,36 @@ try:
     stats_table = wait.until(EC.presence_of_element_located((By.ID, "ratings-table")))
     table_html = stats_table.get_attribute("outerHTML")
 
-    print("[4/5] Reading HTML table into pandas...")
-    df = pd.read_html(StringIO(table_html))[0]
+    print("[4/5] Reading HTML table into pandas (multi-level headers)...")
+    df = pd.read_html(StringIO(table_html), header=[0, 1])[0]
 
-    # Show all detected column names
-    print("✅ Columns in scraped table:", list(df.columns))
+    # Flatten multi-level columns
+    df.columns = [' '.join(col).strip() for col in df.columns.values]
 
-    # Detect the team name column dynamically
+    # Detect the 'Team' column (which includes rank)
     team_col = next((col for col in df.columns if "Team" in str(col)), None)
 
     if not team_col:
-        print("❌ Could not detect a 'Team' column in the table.")
-        print("🧪 Columns found:", df.columns.tolist())
+        print("❌ Could not detect 'Team' column.")
+        print("Columns:", df.columns.tolist())
         sys.exit(1)
 
     print(f"✅ Detected team column as: {team_col}")
 
-    # Clean team names (remove ranks like "1 Purdue")
+    # Drop rows where team_col equals "Team" (duplicate headers)
+    df = df[df[team_col] != "Team"].copy()
+
+    # Clean team names: remove leading rank numbers like "1 Purdue"
     df[team_col] = df[team_col].str.replace(r"^\d+\s+", "", regex=True)
 
     # Rename for consistency
     df.rename(columns={team_col: "Team"}, inplace=True)
 
-    if df.empty:
-        print("⚠️ Warning: Extracted table is empty. No file will be saved.")
-    else:
-        output_path = os.path.abspath("kenpom_stats.csv")
-        df.to_csv(output_path, index=False)
-        print(f"[5/5] ✅ Saved CSV to: {output_path}")
-        print("✅ Rows extracted:", len(df))
+    # Save cleaned CSV
+    output_path = os.path.abspath("kenpom_stats.csv")
+    df.to_csv(output_path, index=False)
+    print(f"[5/5] ✅ Saved cleaned CSV to: {output_path}")
+    print(f"📊 Total rows saved: {len(df)}")
 
 except Exception as e:
     print(f"❌ Error occurred: {e}")
