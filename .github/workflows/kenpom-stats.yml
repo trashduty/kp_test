@@ -1,0 +1,45 @@
+name: Scrape KenPom Stats
+
+on:
+  workflow_dispatch:  # Run manually from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y unzip xvfb libxi6 libgconf-2-4 libnss3 libxss1 libappindicator1 libindicator7 fonts-liberation
+        wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+        sudo dpkg -i google-chrome-stable_current_amd64.deb || sudo apt-get -f install -y
+        wget -O chromedriver.zip https://storage.googleapis.com/chrome-for-testing-public/120.0.6099.71/linux64/chromedriver-linux64.zip
+        unzip chromedriver.zip
+        sudo mv chromedriver-linux64/chromedriver /usr/local/bin/chromedriver
+        sudo chmod +x /usr/local/bin/chromedriver
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Add secrets to .env
+      run: |
+        echo "KENPOM_USERNAME=${{ secrets.KENPOM_USERNAME }}" >> .env
+        echo "KENPOM_PASSWORD=${{ secrets.KENPOM_PASSWORD }}" >> .env
+
+    - name: Run KenPom Stats Scraper
+      run: |
+        python scrape_kenpom_stats.py
+
+    - name: Upload CSV as artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: kenpom-stats
+        path: kenpom_stats.csv
