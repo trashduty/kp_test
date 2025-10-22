@@ -8,3 +8,4 @@ pytz>=2024.2
 rapidfuzz>=3.11.0
 requests>=2.32.3
 selenium>=4.28.0
+rich
