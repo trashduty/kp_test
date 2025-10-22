@@ -25,16 +25,24 @@ jobs:
 
     - name: Install matching ChromeDriver
       run: |
-        CHROME_VERSION=$(google-chrome --version | grep -oP "\d+\.\d+\.\d+")
-        echo "Detected Chrome version: $CHROME_VERSION"
-        
-        DRIVER_VERSION=$(curl -s "https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json" | \
-          jq -r ".channels.Stable.versions[] | select(.version | startswith(\"$CHROME_VERSION\")) | .version" | head -n 1)
-          
-        echo "Using ChromeDriver version: $DRIVER_VERSION"
-        
+        CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+\.\d+')
+        echo "🧭 Detected Chrome version: $CHROME_VERSION"
+
+        MAJOR_VERSION=$(echo "$CHROME_VERSION" | cut -d '.' -f 1)
+
+        DRIVER_JSON=$(curl -s https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json)
+
+        DRIVER_VERSION=$(echo "$DRIVER_JSON" | jq -r ".versions[] | select(.version | startswith(\"$MAJOR_VERSION\")) | .version" | head -n 1)
+
+        if [ -z "$DRIVER_VERSION" ]; then
+          echo "❌ No matching ChromeDriver found for Chrome $CHROME_VERSION"
+          exit 1
+        fi
+
+        echo "✅ Using ChromeDriver version: $DRIVER_VERSION"
+
         DRIVER_URL="https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/$DRIVER_VERSION/linux64/chromedriver-linux64.zip"
-        
+
         wget -O chromedriver.zip "$DRIVER_URL"
         unzip chromedriver.zip
         sudo mv chromedriver-linux64/chromedriver /usr/local/bin/chromedriver
