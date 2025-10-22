@@ -1,7 +1,7 @@
 name: Scrape KenPom Stats
 
 on:
-  workflow_dispatch:  # You can also schedule this if needed
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -43,6 +43,9 @@ jobs:
     - name: Run KenPom Stats Scraper
       run: |
         python scrape_kenpom_stats.py
+
+    - name: List current files (debug)
+      run: ls -la
 
     - name: Upload CSV as artifact
       uses: actions/upload-artifact@v4
