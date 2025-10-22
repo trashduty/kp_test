@@ -28,15 +28,23 @@ jobs:
         CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+\.\d+')
         echo "🧭 Detected Chrome version: $CHROME_VERSION"
 
-        MAJOR_VERSION=$(echo "$CHROME_VERSION" | cut -d '.' -f 1)
-
-        DRIVER_JSON=$(curl -s https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json)
-
-        DRIVER_VERSION=$(echo "$DRIVER_JSON" | jq -r ".versions[] | select(.version | startswith(\"$MAJOR_VERSION\")) | .version" | head -n 1)
+        # Try exact match
+        DRIVER_VERSION=$(curl -s https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json | \
+          jq -r --arg ver "$CHROME_VERSION" '.versions[] | select(.version == $ver) | .version')
 
         if [ -z "$DRIVER_VERSION" ]; then
-          echo "❌ No matching ChromeDriver found for Chrome $CHROME_VERSION"
-          exit 1
+          echo "❌ No exact ChromeDriver match found for Chrome $CHROME_VERSION"
+          echo "🔁 Attempting to use major version fallback..."
+
+          MAJOR_VERSION=$(echo "$CHROME_VERSION" | cut -d '.' -f 1)
+
+          DRIVER_VERSION=$(curl -s https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json | \
+            jq -r '.versions[] | select(.version | startswith("'"$MAJOR_VERSION"'.")).version' | head -n 1)
+
+          if [ -z "$DRIVER_VERSION" ]; then
+            echo "❌ Still no compatible ChromeDriver found for Chrome $CHROME_VERSION"
+            exit 1
+          fi
         fi
 
         echo "✅ Using ChromeDriver version: $DRIVER_VERSION"
