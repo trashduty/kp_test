@@ -16,19 +16,30 @@ jobs:
       with:
         python-version: '3.10'
 
-    - name: Install Chrome and dependencies
+    - name: Install Chrome and system dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y unzip xvfb libxi6 libnss3 libxss1 libayatana-appindicator3-1 fonts-liberation
+        sudo apt-get install -y unzip xvfb curl wget jq libxi6 libnss3 libxss1 libayatana-appindicator3-1 fonts-liberation
         wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
         sudo dpkg -i google-chrome-stable_current_amd64.deb || sudo apt-get -f install -y
 
-    - name: Install ChromeDriver
+    - name: Install matching ChromeDriver
       run: |
-        wget -O chromedriver.zip https://storage.googleapis.com/chrome-for-testing-public/120.0.6099.71/linux64/chromedriver-linux64.zip
+        CHROME_VERSION=$(google-chrome --version | grep -oP "\d+\.\d+\.\d+")
+        echo "Detected Chrome version: $CHROME_VERSION"
+        
+        DRIVER_VERSION=$(curl -s "https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json" | \
+          jq -r ".channels.Stable.versions[] | select(.version | startswith(\"$CHROME_VERSION\")) | .version" | head -n 1)
+          
+        echo "Using ChromeDriver version: $DRIVER_VERSION"
+        
+        DRIVER_URL="https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/$DRIVER_VERSION/linux64/chromedriver-linux64.zip"
+        
+        wget -O chromedriver.zip "$DRIVER_URL"
         unzip chromedriver.zip
         sudo mv chromedriver-linux64/chromedriver /usr/local/bin/chromedriver
         sudo chmod +x /usr/local/bin/chromedriver
+        chromedriver --version
 
     - name: Install Python dependencies
       run: |
