@@ -43,7 +43,7 @@ jobs:
         python -c "from kenpom import fetch_kenpom_team_stats; fetch_kenpom_team_stats()"
 
     - name: Upload output CSV
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: kenpom-stats
         path: master_kenpom_stats.csv
