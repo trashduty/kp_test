@@ -38,11 +38,38 @@ jobs:
       - name: 🧰 Set up R
         uses: r-lib/actions/setup-r@v2
 
-      - name: 📦 Install R dependencies (and fix library path)
+      - name: 📦 Install R dependencies (safe mode)
         run: |
-          mkdir -p "$R_LIBS_USER"
-          echo "R_LIBS_USER=$R_LIBS_USER"
-          Rscript -e 'install.packages(c("tidyverse", "ggimage", "scales"), lib = Sys.getenv("R_LIBS_USER"), repos = "https://cloud.r-project.org")'
+          Rscript -e '
+            packages <- c("tidyverse", "ggimage", "scales")
+            lib <- Sys.getenv("R_LIBS_USER")
+            if (!dir.exists(lib)) dir.create(lib, recursive = TRUE)
+            to_install <- setdiff(packages, rownames(installed.packages(lib.loc = lib)))
+            if (length(to_install)) install.packages(to_install, lib = lib, repos = "https://cloud.r-project.org")
+          '
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
+
+      - name: 🐛 Debug R libraries installed
+        run: |
+          Rscript -e '
+            cat("📚 .libPaths():\n")
+            print(.libPaths())
+            cat("\n📦 Installed Packages:\n")
+            print(installed.packages(lib.loc = Sys.getenv("R_LIBS_USER"))[, "Package"])
+          '
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
+
+      - name: ✅ Confirm tidyverse installed
+        run: |
+          Rscript -e '
+            if (!"tidyverse" %in% rownames(installed.packages(lib.loc = Sys.getenv("R_LIBS_USER")))) {
+              stop("tidyverse is not installed!")
+            } else {
+              cat("✅ tidyverse is installed\n")
+            }
+          '
         env:
           R_LIBS_USER: /home/runner/work/_temp/Library
 
