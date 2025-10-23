@@ -1,12 +1,12 @@
-name: Scrape KenPom Stats
+name: Scrape KenPom and Generate Plot
 
 on:
-  workflow_dispatch:  # allows manual run
+  workflow_dispatch:  # manual trigger
   schedule:
-    - cron: '0 6 * * *'  # runs every day at 6:00 AM UTC
+    - cron: '0 6 * * *'  # daily at 6 AM UTC
 
 permissions:
-  contents: write  # required for pushing changes
+  contents: write  # required for pushing results
 
 jobs:
   scrape:
@@ -21,23 +21,45 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: 📦 Install dependencies
+      - name: 📦 Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: 🔐 Setup environment variables
+      - name: 🔐 Set up environment variables
         run: |
           echo "KENPOM_USERNAME=${{ secrets.KENPOM_USERNAME }}" >> $GITHUB_ENV
           echo "KENPOM_PASSWORD=${{ secrets.KENPOM_PASSWORD }}" >> $GITHUB_ENV
 
-      - name: 🕷️ Run scraper
+      - name: 🕷️ Run Python scraper
         run: python scrape_kenpom_stats.py
 
-      - name: 💾 Commit and push updated CSV
+      # 🧰 --- R SETUP & PLOT GENERATION ---
+      - name: 🧰 Set up R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: 📦 Install R dependencies (and fix library path)
+        run: |
+          mkdir -p "$R_LIBS_USER"
+          echo "R_LIBS_USER=$R_LIBS_USER"
+          Rscript -e 'install.packages(c("tidyverse", "ggimage", "scales"), lib = Sys.getenv("R_LIBS_USER"), repos = "https://cloud.r-project.org")'
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
+
+      - name: 📊 Run R script to generate plot
+        run: |
+          Rscript generate_kenpom_plot.R
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
+
+      - name: 📊 Generate efficiency plot
+        run: Rscript generate_kenpom_plot.R
+
+      # 💾 --- COMMIT RESULTS BACK TO REPO ---
+      - name: 💾 Commit CSV and plot image
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add kenpom_stats.csv
-          git commit -m "🤖 Update KenPom stats [skip ci]" || echo "No changes to commit"
+          git add kenpom_stats.csv kenpom_top100_eff.png
+          git commit -m "🤖 Update KenPom stats & plot [skip ci]" || echo "No changes to commit"
           git push
