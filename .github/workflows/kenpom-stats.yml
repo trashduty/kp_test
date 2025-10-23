@@ -52,9 +52,6 @@ jobs:
         env:
           R_LIBS_USER: /home/runner/work/_temp/Library
 
-      - name: 📊 Generate efficiency plot
-        run: Rscript generate_kenpom_plot.R
-
       # 💾 --- COMMIT RESULTS BACK TO REPO ---
       - name: 💾 Commit CSV and plot image
         run: |
