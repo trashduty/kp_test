@@ -11,7 +11,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-# Load credentials
+# Load login credentials
 load_dotenv()
 USERNAME = os.getenv("KENPOM_USERNAME")
 PASSWORD = os.getenv("KENPOM_PASSWORD")
@@ -20,7 +20,7 @@ if not USERNAME or not PASSWORD:
     print("❌ Missing KENPOM_USERNAME or KENPOM_PASSWORD")
     sys.exit(1)
 
-# Setup Chrome
+# Configure headless Chrome
 chrome_options = Options()
 chrome_options.add_argument("--headless")
 chrome_options.add_argument("--no-sandbox")
@@ -32,13 +32,13 @@ chrome_options.add_experimental_option("useAutomationExtension", False)
 
 driver = webdriver.Chrome(options=chrome_options)
 
-# Hide automation footprint
+# Hide Selenium detection
 driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
     "source": "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
 })
 
 try:
-    print("[1/5] Logging in to KenPom...")
+    print("[1/6] Logging into KenPom...")
     driver.get("https://kenpom.com/")
     wait = WebDriverWait(driver, 20)
 
@@ -48,48 +48,37 @@ try:
     password_input.send_keys(PASSWORD)
     password_input.send_keys(Keys.RETURN)
     time.sleep(3)
-    print("[2/5] ✅ Logged in")
+    print("[2/6] ✅ Logged in")
 
-    print("[3/5] Navigating to stats page...")
+    print("[3/6] Navigating to stats page...")
     driver.get("https://kenpom.com/stats.php")
     time.sleep(4)
 
     stats_table = wait.until(EC.presence_of_element_located((By.ID, "ratings-table")))
     table_html = stats_table.get_attribute("outerHTML")
 
-    print("[4/5] Reading table into pandas...")
+    print("[4/6] Reading table into pandas (multi-level header)...")
     df = pd.read_html(StringIO(table_html), header=[0, 1])[0]
 
-    # Flatten header: ("Offense", "eFG%") → "Offense eFG%"
-    df.columns = [' '.join(col).strip() if not col[0].startswith("Unnamed") else col[1]
-                  for col in df.columns.values]
+    # Flatten multi-index headers
+    df.columns = [
+        ' '.join(col).strip() if not col[0].startswith("Unnamed") else col[1]
+        for col in df.columns.values
+    ]
 
-    # Identify team column
-    team_col = next((c for c in df.columns if "Team" in c), None)
-    if not team_col:
-        print("❌ 'Team' column not found")
-        sys.exit(1)
-
-    # Rename team column for consistency
-    df.rename(columns={team_col: "Team"}, inplace=True)
-
-    # Remove ranking prefix (e.g. "1 Purdue" → "Purdue")
-    df["Team"] = df["Team"].astype(str).str.replace(r"^\d+\s+", "", regex=True)
-
-    # Save raw CSV
+    # Save full version first
     output_path = os.path.abspath("kenpom_stats.csv")
     df.to_csv(output_path, index=False)
-    print(f"[5/5] ✅ Raw CSV saved to {output_path}")
+    print("[5/6] Raw CSV written")
 
-    # Reload and drop rows where 'Team' is empty or NaN
-    df_cleaned = pd.read_csv(output_path)
-    df_cleaned = df_cleaned[df_cleaned["Team"].notna() & df_cleaned["Team"].str.strip().ne("")]
+    # Drop first 7 rows (garbage repeated headers)
+    df_cleaned = df.iloc[7:].copy()
+    df_cleaned.reset_index(drop=True, inplace=True)
     df_cleaned.to_csv(output_path, index=False)
-
-    print(f"✅ Cleaned CSV written to same file. Final rows: {len(df_cleaned)}")
+    print(f"[6/6] ✅ Cleaned and saved to: {output_path} (rows: {len(df_cleaned)})")
 
 except Exception as e:
-    print(f"❌ Error: {e}")
+    print(f"❌ Error occurred: {e}")
     sys.exit(1)
 
 finally:
