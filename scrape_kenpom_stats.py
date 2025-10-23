@@ -11,7 +11,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-# Load login credentials
+# Load credentials
 load_dotenv()
 USERNAME = os.getenv("KENPOM_USERNAME")
 PASSWORD = os.getenv("KENPOM_PASSWORD")
@@ -38,7 +38,7 @@ driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
 })
 
 try:
-    print("[1/6] Logging into KenPom...")
+    print("[1/6] Logging in to KenPom...")
     driver.get("https://kenpom.com/")
     wait = WebDriverWait(driver, 20)
 
@@ -60,22 +60,24 @@ try:
     print("[4/6] Reading table into pandas (multi-level header)...")
     df = pd.read_html(StringIO(table_html), header=[0, 1])[0]
 
-    # Flatten multi-index headers
+    # Flatten multi-level column headers
     df.columns = [
         ' '.join(col).strip() if not col[0].startswith("Unnamed") else col[1]
         for col in df.columns.values
     ]
 
-    # Save full version first
-    output_path = os.path.abspath("kenpom_stats.csv")
-    df.to_csv(output_path, index=False)
-    print("[5/6] Raw CSV written")
+    # Save raw output (optional debug step — can be removed)
+    raw_path = os.path.abspath("kenpom_stats_raw.csv")
+    df.to_csv(raw_path, index=False)
+    print(f"[5/6] Raw table saved to {raw_path}")
 
-    # Drop first 7 rows (garbage repeated headers)
-    df_cleaned = df.iloc[7:].copy()
-    df_cleaned.reset_index(drop=True, inplace=True)
-    df_cleaned.to_csv(output_path, index=False)
-    print(f"[6/6] ✅ Cleaned and saved to: {output_path} (rows: {len(df_cleaned)})")
+    # ✅ Clean step: remove first 7 junk rows
+    df_cleaned = df.iloc[7:].reset_index(drop=True)
+
+    # Final output
+    final_path = os.path.abspath("kenpom_stats.csv")
+    df_cleaned.to_csv(final_path, index=False)
+    print(f"[6/6] ✅ Cleaned file saved to: {final_path} (rows: {len(df_cleaned)})")
 
 except Exception as e:
     print(f"❌ Error occurred: {e}")
