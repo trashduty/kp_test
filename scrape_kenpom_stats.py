@@ -52,7 +52,7 @@ try:
     print("[2/6] ✅ Login successful")
 
     print("[3/6] Navigating to stats page...")
-    driver.get("https://kenpom.com/stats.php")
+    driver.get("https://kenpom.com/index.php")
     time.sleep(4)
 
     stats_table = wait.until(EC.presence_of_element_located((By.ID, "ratings-table")))
