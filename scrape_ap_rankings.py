@@ -30,28 +30,24 @@ def scrape_ap_top25():
             print("❌ Could not find ranking tables on the page")
             sys.exit(1)
         
+        print(f"[DEBUG] Found {len(tables)} table(s) on the page")
         print("[2/3] Parsing AP Top 25 data...")
         
         # Parse the first table (usually AP Poll)
         table = tables[0]
         rows = table.find_all('tr')
+        print(f"[DEBUG] Found {len(rows)} rows in the first table")
         
-        for row in rows[1:]:  # Skip header
-            cols = row.find_all('td')
-            if len(cols) >= 2:
-                # Extract team name - usually in second column
-                team_cell = cols[1] if len(cols) > 1 else cols[0]
-                team_link = team_cell.find('a')
-                
-                if team_link:
-                    team_name = team_link.get_text(strip=True)
+        for idx, row in enumerate(rows[1:], 1):  # Skip header
+            # Look for team name in 'hide-mobile' span elements
+            # ESPN's structure has team names in <span class="hide-mobile">
+            hide_mobile_span = row.find('span', class_='hide-mobile')
+            
+            if hide_mobile_span:
+                team_name = hide_mobile_span.get_text(strip=True)
+                if team_name:
                     teams.append(team_name)
-                else:
-                    # Fallback to text content
-                    team_name = team_cell.get_text(strip=True)
-                    # Skip headers and empty cells
-                    if team_name and not any(header in team_name.upper() for header in ['RANK', 'TEAM', 'RECORD', 'POINTS', 'PREVIOUS']):
-                        teams.append(team_name)
+                    print(f"[DEBUG] Row {idx}: Found team '{team_name}'")
             
             # Stop after 25 teams
             if len(teams) >= 25:
@@ -59,10 +55,16 @@ def scrape_ap_top25():
         
         if len(teams) == 0:
             print("❌ No teams found in AP rankings")
+            print("[DEBUG] No team names extracted. Check if 'hide-mobile' spans exist in the HTML.")
             sys.exit(1)
         
-        # Take only top 25 if we got more
-        teams = teams[:25]
+        # Validate that we got exactly 25 teams
+        if len(teams) < 25:
+            print(f"❌ Error: Expected 25 teams but only found {len(teams)}. AP Top 25 must have exactly 25 teams.")
+            sys.exit(1)
+        elif len(teams) > 25:
+            print(f"[DEBUG] Found {len(teams)} teams, truncating to top 25")
+            teams = teams[:25]
         
         # Create DataFrame
         df = pd.DataFrame({'Team': teams})
