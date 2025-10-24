@@ -55,18 +55,16 @@ def scrape_ap_top25():
         
         if len(teams) == 0:
             print("❌ No teams found in AP rankings")
-            print("[DEBUG] Tried looking for 'hide-mobile' spans but found none")
+            print("[DEBUG] No team names extracted. Check if 'hide-mobile' spans exist in the HTML.")
             sys.exit(1)
         
         # Validate that we got exactly 25 teams
-        if len(teams) != 25:
-            print(f"⚠️ Warning: Expected 25 teams but got {len(teams)}")
-            if len(teams) < 25:
-                print("❌ Error: Not enough teams found. AP Top 25 must have exactly 25 teams.")
-                sys.exit(1)
-        
-        # Take only top 25 if we got more
-        teams = teams[:25]
+        if len(teams) < 25:
+            print(f"❌ Error: Expected 25 teams but only found {len(teams)}. AP Top 25 must have exactly 25 teams.")
+            sys.exit(1)
+        elif len(teams) > 25:
+            print(f"[DEBUG] Found {len(teams)} teams, truncating to top 25")
+            teams = teams[:25]
         
         # Create DataFrame
         df = pd.DataFrame({'Team': teams})
