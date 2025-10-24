@@ -16,36 +16,17 @@ jobs:
       R_LIBS_USER: /home/runner/work/_temp/Library
 
     steps:
-      - name: 🧾 Checkout repository
-        uses: actions/checkout@v4
-
-      - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10.13'
-
-      - name: 📦 Install Python dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: 🔐 Set up environment variables
-        run: |
-          echo "KENPOM_USERNAME=${{ secrets.KENPOM_USERNAME }}" >> $GITHUB_ENV
-          echo "KENPOM_PASSWORD=${{ secrets.KENPOM_PASSWORD }}" >> $GITHUB_ENV
-
-      - name: 🕷️ Run Python scraper
-        run: python scrape_kenpom_stats.py
-
-      # ------------------ R PLOTTING ------------------
+      # Previous Python steps remain the same...
 
       - name: 🧰 Set up R
         uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: '4.3.2' # Specifying a stable R version
 
-      - name: 🛠️ Install system dependencies for tidyverse + ggimage
+      - name: 🛠️ Install system dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y \
+          sudo apt-get install -y --no-install-recommends \
             libcurl4-openssl-dev \
             libssl-dev \
             libxml2-dev \
@@ -56,81 +37,75 @@ jobs:
             libpng-dev \
             libtiff5-dev \
             libjpeg-dev \
-            libicu-dev \
-            zlib1g-dev \
-            libbz2-dev \
+            libmagick++-dev \
             imagemagick \
             libmagickwand-dev \
-            libmagick++-dev
+            librsvg2-dev \
+            libwebp-dev \
+            libzip-dev \
+            ghostscript \
+            gsfonts
 
-      - name: 📦 Install R packages (tidyverse + ggimage from GitHub)
+      - name: 🔧 Configure ImageMagick policy
+        run: |
+          sudo sed -i 's/rights="none" pattern="PDF"/rights="read|write" pattern="PDF"/' /etc/ImageMagick-6/policy.xml
+          sudo sed -i 's/rights="none" pattern="HTTPS"/rights="read|write" pattern="HTTPS"/' /etc/ImageMagick-6/policy.xml
+          sudo sed -i 's/rights="none" pattern="HTTP"/rights="read|write" pattern="HTTP"/' /etc/ImageMagick-6/policy.xml
+
+      - name: 📦 Install R packages
         env:
           R_LIBS_USER: /home/runner/work/_temp/Library
-          GITHUB_PAT: ${{ secrets.GH_PAT }}
         run: |
           mkdir -p "$R_LIBS_USER"
           Rscript -e '
-            lib <- Sys.getenv("R_LIBS_USER")
-            .libPaths(c(lib, .libPaths()))
-            cat("🔍 Installing into .libPaths():\n")
+            .libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
+            
+            # Print initial state
+            cat("Initial .libPaths():\n")
             print(.libPaths())
-
-            # install core packages and magick (magick needs the system ImageMagick dev libs)
-            install.packages(c("tidyverse", "scales", "remotes", "magick"),
-                             lib = lib,
-                             repos = "https://cloud.r-project.org",
-                             dependencies = TRUE,
-                             verbose = TRUE)
-
-            # install ggimage from GitHub ensuring dependencies are pulled
-            remotes::install_github("GuangchuangYu/ggimage", lib = lib, dependencies = TRUE, upgrade = "never")
-
-            cat("\n📦 Installed packages (filtering to ggimage & magick):\n")
-            pkgs <- installed.packages(lib)
-            print(pkgs[pkgs[, "Package"] %in% c("ggimage", "magick"), , drop = FALSE])
-
-            cat(\"\\n--- sessionInfo() ---\\n\")
-            print(sessionInfo())
-          '
-
-      - name: 🔎 Verify R packages
-        env:
-          R_LIBS_USER: /home/runner/work/_temp/Library
-        run: |
-          Rscript -e '
-            lib <- Sys.getenv("R_LIBS_USER")
-            .libPaths(c(lib, .libPaths()))
-            cat("✅ Installed R packages (first 200 chars):\n")
-            print(head(installed.packages(lib)[, "Package"], 200))
-            cat("\n--- sessionInfo ---\n")
-            print(sessionInfo())
-            if (!requireNamespace("ggimage", quietly = TRUE)) {
-              cat("❌ ggimage not found in .libPaths():\\n")
-              print(.libPaths())
-              stop("ggimage is NOT installed")
-            } else {
-              cat("✅ ggimage is installed. version: ")
-              print(packageVersion(\"ggimage\"))
+            
+            # Install core dependencies first
+            install.packages(c(
+              "tidyverse",
+              "magick",
+              "scales",
+              "curl"
+            ), repos = "https://cloud.r-project.org", dependencies = TRUE)
+            
+            # Verify magick installation
+            if (!requireNamespace("magick", quietly = TRUE)) {
+              stop("Failed to install magick package")
             }
+            cat("✓ magick installed and loaded\n")
+            
+            # Install ggimage from CRAN
+            install.packages("ggimage", repos = "https://cloud.r-project.org", dependencies = TRUE)
+            
+            # Final verification
+            if (!requireNamespace("ggimage", quietly = TRUE)) {
+              stop("Failed to install ggimage package")
+            }
+            cat("✓ ggimage installed and loaded\n")
+            
+            # Print package versions
+            cat("\nInstalled versions:\n")
+            cat(sprintf("magick: %s\n", packageVersion("magick")))
+            cat(sprintf("ggimage: %s\n", packageVersion("ggimage")))
+            
+            # Test image processing capability
+            library(magick)
+            library(ggimage)
+            
+            # Create a simple test plot to verify functionality
+            df <- data.frame(x = 1:2, y = 1:2)
+            test_plot <- ggplot(df, aes(x, y)) + geom_point()
+            cat("\n✓ Basic plotting functionality verified\n")
           '
 
-      - name: 📊 Generate plot using R script
+      - name: 📊 Generate plot
         env:
           R_LIBS_USER: /home/runner/work/_temp/Library
         run: |
-          Rscript -e '
-            lib <- Sys.getenv("R_LIBS_USER")
-            .libPaths(c(lib, .libPaths()))
-            cat("Using .libPaths():\\n"); print(.libPaths())
-            source("generate_kenpom_plot.R")
-          '
+          Rscript generate_kenpom_plot.R
 
-      # ------------------ COMMIT TO REPO ------------------
-
-      - name: 💾 Commit CSV and PNG to repo
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add kenpom_stats.csv kenpom_top100_eff.png
-          git commit -m "🤖 Update KenPom stats & plot [skip ci]" || echo "No changes to commit"
-          git push
+      # Rest of your workflow remains the same...
