@@ -10,7 +10,11 @@ def scrape_ap_top25():
     
     try:
         print("[1/3] Fetching AP Top 25 from ESPN...")
-        response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=10)
+        response = requests.get(
+            url, 
+            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}, 
+            timeout=10
+        )
         response.raise_for_status()
         
         soup = BeautifulSoup(response.content, 'html.parser')
@@ -23,39 +27,35 @@ def scrape_ap_top25():
         tables = soup.find_all('table')
         
         if not tables:
-            print("⚠️ Could not find ranking tables on the page, trying alternative parsing...")
-            # Try to find divs or other elements containing rankings
-            ranking_divs = soup.find_all('div', class_='rankings')
-            if not ranking_divs:
-                print("❌ Could not find ranking data on the page")
-                sys.exit(1)
+            print("❌ Could not find ranking tables on the page")
+            sys.exit(1)
         
         print("[2/3] Parsing AP Top 25 data...")
         
         # Parse the first table (usually AP Poll)
-        if tables:
-            table = tables[0]
-            rows = table.find_all('tr')
-            
-            for row in rows[1:]:  # Skip header
-                cols = row.find_all('td')
-                if len(cols) >= 2:
-                    # Extract team name - usually in second column
-                    team_cell = cols[1] if len(cols) > 1 else cols[0]
-                    team_link = team_cell.find('a')
-                    
-                    if team_link:
-                        team_name = team_link.get_text(strip=True)
-                        teams.append(team_name)
-                    else:
-                        # Fallback to text content
-                        team_name = team_cell.get_text(strip=True)
-                        if team_name and team_name not in ['Rank', 'Team', 'RK', 'TEAM', 'Record', 'Points']:
-                            teams.append(team_name)
+        table = tables[0]
+        rows = table.find_all('tr')
+        
+        for row in rows[1:]:  # Skip header
+            cols = row.find_all('td')
+            if len(cols) >= 2:
+                # Extract team name - usually in second column
+                team_cell = cols[1] if len(cols) > 1 else cols[0]
+                team_link = team_cell.find('a')
                 
-                # Stop after 25 teams
-                if len(teams) >= 25:
-                    break
+                if team_link:
+                    team_name = team_link.get_text(strip=True)
+                    teams.append(team_name)
+                else:
+                    # Fallback to text content
+                    team_name = team_cell.get_text(strip=True)
+                    # Skip headers and empty cells
+                    if team_name and not any(header in team_name.upper() for header in ['RANK', 'TEAM', 'RECORD', 'POINTS', 'PREVIOUS']):
+                        teams.append(team_name)
+            
+            # Stop after 25 teams
+            if len(teams) >= 25:
+                break
         
         if len(teams) == 0:
             print("❌ No teams found in AP rankings")

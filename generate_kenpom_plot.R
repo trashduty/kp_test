@@ -128,8 +128,9 @@ for (conf in conferences) {
   conf_data <- eff_stats_all |> filter(Conf == conf)
   
   if (nrow(conf_data) > 0) {
-    # Create filename-safe conference name
+    # Create filename-safe conference name by replacing spaces and special chars
     conf_safe <- tolower(conf)
+    conf_safe <- gsub("[^a-z0-9]", "", conf_safe)
     filename <- sprintf("plots/conferences/kenpom_%s_eff.png", conf_safe)
     
     p_conf <- create_plot(
