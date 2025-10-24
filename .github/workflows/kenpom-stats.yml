@@ -63,16 +63,19 @@ jobs:
       - name: 📦 Install R packages (tidyverse + ggimage from GitHub)
         run: |
           mkdir -p "$R_LIBS_USER"
+          export GITHUB_PAT=${{ secrets.GH_PAT }}
           Rscript -e '
             lib <- Sys.getenv("R_LIBS_USER")
             .libPaths(c(lib, .libPaths()))
 
-            # Install tidyverse, scales, remotes from CRAN
+            # Install from CRAN
             install.packages(c("tidyverse", "scales", "remotes"), lib = lib, repos = "https://cloud.r-project.org", verbose = TRUE)
 
             # Install ggimage from GitHub
             remotes::install_github("GuangchuangYu/ggimage", lib = lib)
           '
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
 
       - name: 🔎 Verify R packages
         run: |
@@ -82,6 +85,8 @@ jobs:
             cat("✅ Installed R packages:\n")
             print(installed.packages(lib)[, "Package"])
           '
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
 
       - name: 📊 Generate plot using R script
         run: |
@@ -90,6 +95,8 @@ jobs:
             .libPaths(c(lib, .libPaths()))
             source("generate_kenpom_plot.R")
           '
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
 
       # ------------------ COMMIT TO REPO ------------------
 
