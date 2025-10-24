@@ -58,50 +58,72 @@ jobs:
             libjpeg-dev \
             libicu-dev \
             zlib1g-dev \
-            libbz2-dev
-      
+            libbz2-dev \
+            imagemagick \
+            libmagickwand-dev \
+            libmagick++-dev
+
       - name: 📦 Install R packages (tidyverse + ggimage from GitHub)
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
+          GITHUB_PAT: ${{ secrets.GH_PAT }}
         run: |
           mkdir -p "$R_LIBS_USER"
-          export GITHUB_PAT=${{ secrets.GH_PAT }}
           Rscript -e '
             lib <- Sys.getenv("R_LIBS_USER")
-           .libPaths(c(lib, .libPaths()))
+            .libPaths(c(lib, .libPaths()))
             cat("🔍 Installing into .libPaths():\n")
             print(.libPaths())
 
-            install.packages(c("tidyverse", "scales", "remotes"), lib = lib, repos = "https://cloud.r-project.org", verbose = TRUE)
+            # install core packages and magick (magick needs the system ImageMagick dev libs)
+            install.packages(c("tidyverse", "scales", "remotes", "magick"),
+                             lib = lib,
+                             repos = "https://cloud.r-project.org",
+                             dependencies = TRUE,
+                             verbose = TRUE)
 
-            remotes::install_github("GuangchuangYu/ggimage", lib = lib)
+            # install ggimage from GitHub ensuring dependencies are pulled
+            remotes::install_github("GuangchuangYu/ggimage", lib = lib, dependencies = TRUE, upgrade = "never")
 
-            cat("\n📦 Installed packages (filtering to ggimage):\n")
+            cat("\n📦 Installed packages (filtering to ggimage & magick):\n")
             pkgs <- installed.packages(lib)
-            print(pkgs[pkgs[, "Package"] == "ggimage", ])
-          '
-        env:
-          R_LIBS_USER: /home/runner/work/_temp/Library
+            print(pkgs[pkgs[, "Package"] %in% c("ggimage", "magick"), , drop = FALSE])
 
+            cat(\"\\n--- sessionInfo() ---\\n\")
+            print(sessionInfo())
+          '
 
       - name: 🔎 Verify R packages
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
         run: |
           Rscript -e '
             lib <- Sys.getenv("R_LIBS_USER")
             .libPaths(c(lib, .libPaths()))
-            cat("✅ Installed R packages:\n")
-            print(installed.packages(lib)[, "Package"])
+            cat("✅ Installed R packages (first 200 chars):\n")
+            print(head(installed.packages(lib)[, "Package"], 200))
+            cat("\n--- sessionInfo ---\n")
+            print(sessionInfo())
+            if (!requireNamespace("ggimage", quietly = TRUE)) {
+              cat("❌ ggimage not found in .libPaths():\\n")
+              print(.libPaths())
+              stop("ggimage is NOT installed")
+            } else {
+              cat("✅ ggimage is installed. version: ")
+              print(packageVersion(\"ggimage\"))
+            }
           '
-        env:
-          R_LIBS_USER: /home/runner/work/_temp/Library
 
       - name: 📊 Generate plot using R script
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
         run: |
           Rscript -e '
             lib <- Sys.getenv("R_LIBS_USER")
             .libPaths(c(lib, .libPaths()))
+            cat("Using .libPaths():\\n"); print(.libPaths())
             source("generate_kenpom_plot.R")
           '
-        env:
-          R_LIBS_USER: /home/runner/work/_temp/Library
 
       # ------------------ COMMIT TO REPO ------------------
 
