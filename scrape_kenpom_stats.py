@@ -67,6 +67,27 @@ try:
         for col in df.columns.values
     ]
 
+    # Rename duplicated or ambiguous columns
+    rename_map = {
+        "ORtg": "ORtg",
+        "ORtg.1": "ORtg Rank",
+        "DRtg": "DRtg",
+        "DRtg.1": "DRtg Rank",
+        "AdjT": "AdjT",
+        "AdjT.1": "AdjT Rank",
+        "Luck": "Luck",
+        "Luck.1": "Luck Rank",
+        "Strength of Schedule NetRtg": "SOS NetRtg",
+        "Strength of Schedule NetRtg.1": "SOS NetRtg Rank",
+        "Strength of Schedule ORtg": "SOS ORtg",
+        "Strength of Schedule ORtg.1": "SOS ORtg Rank",
+        "Strength of Schedule DRtg": "SOS DRtg",
+        "Strength of Schedule DRtg.1": "SOS DRtg Rank",
+        "NCSOS NetRtg": "NCSOS NetRtg",
+        "NCSOS NetRtg.1": "NCSOS NetRtg Rank",
+    }
+    df.rename(columns=rename_map, inplace=True)
+
     # Save raw version (optional)
     raw_path = os.path.abspath("kenpom_stats_raw.csv")
     df.to_csv(raw_path, index=False)
