@@ -1,3 +1,6 @@
+# Force R to use the correct library path set by GitHub Actions
+.libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
+
 # Load libraries
 library(tidyverse)
 library(ggimage)
