@@ -59,23 +59,28 @@ jobs:
             libicu-dev \
             zlib1g-dev \
             libbz2-dev
-
+      
       - name: 📦 Install R packages (tidyverse + ggimage from GitHub)
         run: |
           mkdir -p "$R_LIBS_USER"
           export GITHUB_PAT=${{ secrets.GH_PAT }}
           Rscript -e '
             lib <- Sys.getenv("R_LIBS_USER")
-            .libPaths(c(lib, .libPaths()))
+           .libPaths(c(lib, .libPaths()))
+            cat("🔍 Installing into .libPaths():\n")
+            print(.libPaths())
 
-            # Install from CRAN
             install.packages(c("tidyverse", "scales", "remotes"), lib = lib, repos = "https://cloud.r-project.org", verbose = TRUE)
 
-            # Install ggimage from GitHub
             remotes::install_github("GuangchuangYu/ggimage", lib = lib)
+
+            cat("\n📦 Installed packages (filtering to ggimage):\n")
+            pkgs <- installed.packages(lib)
+            print(pkgs[pkgs[, "Package"] == "ggimage", ])
           '
         env:
           R_LIBS_USER: /home/runner/work/_temp/Library
+
 
       - name: 🔎 Verify R packages
         run: |
