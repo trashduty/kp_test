@@ -25,19 +25,19 @@ ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE
 eff_stats_selected <- eff_stats |> 
   slice(1:100) |>  # now row 1 is first team
   left_join(ncaa_teams, by = c("Team" = "current_team")) |> 
-  mutate(NetEfficiency = `AdjOE` - `AdjDE`)
+  mutate(NetEfficiency = `ORtg` - `DRtg`)
 
 # Means for quadrant lines
-mean_adjOE <- mean(eff_stats_selected$`AdjOE`, na.rm = TRUE)
-mean_adjDE <- mean(eff_stats_selected$`AdjDE`, na.rm = TRUE)
+mean_ORtg <- mean(eff_stats_selected$`ORtg`, na.rm = TRUE)
+mean_DRtg <- mean(eff_stats_selected$`DRtg`, na.rm = TRUE)
 
 # Plot
 p <- eff_stats_selected |> 
-  ggplot(aes(x = `AdjOE`, y = `AdjDE`)) +
-  annotate("rect", xmin = mean_adjOE, xmax = Inf, ymin = -Inf, ymax = mean_adjDE, alpha = 0.1, fill = "green") +
-  annotate("rect", xmin = -Inf, xmax = mean_adjOE, ymin = mean_adjDE, ymax = Inf, alpha = 0.1, fill = "red") +
-  geom_hline(yintercept = mean_adjDE, linetype = "dashed") +
-  geom_vline(xintercept = mean_adjOE, linetype = "dashed") +
+  ggplot(aes(x = `ORtg`, y = `DRtg`)) +
+  annotate("rect", xmin = mean_ORtg, xmax = Inf, ymin = -Inf, ymax = mean_DRtg, alpha = 0.1, fill = "green") +
+  annotate("rect", xmin = -Inf, xmax = mean_ORtg, ymin = mean_DRtg, ymax = Inf, alpha = 0.1, fill = "red") +
+  geom_hline(yintercept = mean_DRtg, linetype = "dashed") +
+  geom_vline(xintercept = mean_ORtg, linetype = "dashed") +
   geom_image(aes(image = logo), size = 0.05, asp = 16/9) +
   theme_bw() +
   labs(
