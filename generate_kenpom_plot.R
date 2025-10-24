@@ -3,7 +3,18 @@
 
 # Load libraries
 library(tidyverse)
-library(ggimage)
+
+cat("🔎 .libPaths():\n")
+print(.libPaths())
+
+cat("🔍 Checking if 'ggimage' is installed...\n")
+if (!requireNamespace("ggimage", quietly = TRUE)) {
+  stop("❌ ggimage is NOT installed in the visible lib paths.")
+} else {
+  cat("✅ ggimage is installed. Proceeding to load.\n")
+  library(ggimage)
+}
+
 
 # Load data
 eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE)
