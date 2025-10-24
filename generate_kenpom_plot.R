@@ -15,25 +15,35 @@ if (!requireNamespace("ggimage", quietly = TRUE)) {
   library(ggimage)
 }
 
+# Load and clean data
+eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
+  rename(
+    ORtg = `ORtg...6`,
+    ORtg_rank = `ORtg...7`,
+    DRtg = `DRtg...8`,
+    DRtg_rank = `DRtg...9`,
+    AdjT = `AdjT...10`,
+    AdjT_rank = `AdjT...11`,
+    Luck = `Luck...12`,
+    Luck_rank = `Luck...13`
+  )
 
-# Load data
-eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE)
 ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |>
   distinct(current_team, .keep_all = TRUE)
 
 # Select teams
 eff_stats_selected <- eff_stats |> 
-  slice(1:100) |>  # now row 1 is first team
+  slice(1:100) |>  
   left_join(ncaa_teams, by = c("Team" = "current_team")) |> 
-  mutate(NetEfficiency = `ORtg` - `DRtg`)
+  mutate(NetEfficiency = ORtg - DRtg)
 
 # Means for quadrant lines
-mean_ORtg <- mean(eff_stats_selected$`ORtg`, na.rm = TRUE)
-mean_DRtg <- mean(eff_stats_selected$`DRtg`, na.rm = TRUE)
+mean_ORtg <- mean(eff_stats_selected$ORtg, na.rm = TRUE)
+mean_DRtg <- mean(eff_stats_selected$DRtg, na.rm = TRUE)
 
 # Plot
 p <- eff_stats_selected |> 
-  ggplot(aes(x = `ORtg`, y = `DRtg`)) +
+  ggplot(aes(x = ORtg, y = DRtg)) +
   annotate("rect", xmin = mean_ORtg, xmax = Inf, ymin = -Inf, ymax = mean_DRtg, alpha = 0.1, fill = "green") +
   annotate("rect", xmin = -Inf, xmax = mean_ORtg, ymin = mean_DRtg, ymax = Inf, alpha = 0.1, fill = "red") +
   geom_hline(yintercept = mean_DRtg, linetype = "dashed") +
