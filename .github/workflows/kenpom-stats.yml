@@ -16,12 +16,33 @@ jobs:
       R_LIBS_USER: /home/runner/work/_temp/Library
 
     steps:
-      # Previous Python steps remain the same...
+      - name: 🧾 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1  # This ensures we get the latest code
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10.13'
+
+      - name: 📦 Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🔐 Set up environment variables
+        run: |
+          echo "KENPOM_USERNAME=${{ secrets.KENPOM_USERNAME }}" >> $GITHUB_ENV
+          echo "KENPOM_PASSWORD=${{ secrets.KENPOM_PASSWORD }}" >> $GITHUB_ENV
+
+      - name: 🕷️ Run Python scraper
+        run: python scrape_kenpom_stats.py
 
       - name: 🧰 Set up R
         uses: r-lib/actions/setup-r@v2
         with:
-          r-version: '4.3.2' # Specifying a stable R version
+          r-version: '4.3.2'
 
       - name: 🛠️ Install system dependencies
         run: |
@@ -59,53 +80,28 @@ jobs:
           mkdir -p "$R_LIBS_USER"
           Rscript -e '
             .libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
-            
-            # Print initial state
-            cat("Initial .libPaths():\n")
-            print(.libPaths())
-            
-            # Install core dependencies first
             install.packages(c(
               "tidyverse",
               "magick",
+              "ggimage",
               "scales",
               "curl"
             ), repos = "https://cloud.r-project.org", dependencies = TRUE)
-            
-            # Verify magick installation
-            if (!requireNamespace("magick", quietly = TRUE)) {
-              stop("Failed to install magick package")
-            }
-            cat("✓ magick installed and loaded\n")
-            
-            # Install ggimage from CRAN
-            install.packages("ggimage", repos = "https://cloud.r-project.org", dependencies = TRUE)
-            
-            # Final verification
-            if (!requireNamespace("ggimage", quietly = TRUE)) {
-              stop("Failed to install ggimage package")
-            }
-            cat("✓ ggimage installed and loaded\n")
-            
-            # Print package versions
-            cat("\nInstalled versions:\n")
-            cat(sprintf("magick: %s\n", packageVersion("magick")))
-            cat(sprintf("ggimage: %s\n", packageVersion("ggimage")))
-            
-            # Test image processing capability
-            library(magick)
-            library(ggimage)
-            
-            # Create a simple test plot to verify functionality
-            df <- data.frame(x = 1:2, y = 1:2)
-            test_plot <- ggplot(df, aes(x, y)) + geom_point()
-            cat("\n✓ Basic plotting functionality verified\n")
           '
 
       - name: 📊 Generate plot
         env:
           R_LIBS_USER: /home/runner/work/_temp/Library
         run: |
+          # Debug: List files in current directory
+          ls -la
+          # Run the R script
           Rscript generate_kenpom_plot.R
 
-      # Rest of your workflow remains the same...
+      - name: 💾 Commit CSV and PNG to repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add kenpom_stats.csv kenpom_top100_eff.png
+          git commit -m "🤖 Update KenPom stats & plot [skip ci]" || echo "No changes to commit"
+          git push
