@@ -102,10 +102,17 @@ jobs:
           # Run the R script
           Rscript generate_kenpom_plot.R
 
+      - name: 📋 Copy plots to docs directory for GitHub Pages
+        run: |
+          # Create docs/plots directory if it doesn't exist
+          mkdir -p docs/plots/conferences
+          # Copy all plots to docs directory
+          cp -r plots/* docs/plots/
+
       - name: 💾 Commit CSV and PNG to repo
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add kenpom_stats.csv ap_top25.csv plots/
+          git add kenpom_stats.csv ap_top25.csv plots/ docs/plots/
           git commit -m "🤖 Update KenPom stats & plots [skip ci]" || echo "No changes to commit"
           git push
