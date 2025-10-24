@@ -1,9 +1,9 @@
 name: Scrape KenPom and Generate Plot
 
 on:
-  workflow_dispatch:  # manual trigger
+  workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *'  # daily at 6 AM UTC
+    - cron: '0 6 * * *'
 
 permissions:
   contents: write
@@ -11,8 +11,8 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
     env:
-      # Define R_LIBS_USER at the job level for consistent package location
       R_LIBS_USER: /home/runner/work/_temp/Library
 
     steps:
@@ -37,66 +37,58 @@ jobs:
       - name: 🕷️ Run Python scraper
         run: python scrape_kenpom_stats.py
 
+      # ------------------ R PLOTTING ------------------
+
       - name: 🧰 Set up R
         uses: r-lib/actions/setup-r@v2
 
-      - name: 🧱 Install system dependencies for R packages
+      - name: 🛠️ Install system dependencies for tidyverse
         run: |
           sudo apt-get update
-          sudo apt-get install -y libcurl4-openssl-dev libssl-dev libxml2-dev
+          sudo apt-get install -y \
+            libcurl4-openssl-dev \
+            libssl-dev \
+            libxml2-dev \
+            libfontconfig1-dev \
+            libfreetype6-dev \
+            libharfbuzz-dev \
+            libfribidi-dev \
+            libpng-dev \
+            libtiff5-dev \
+            libjpeg-dev \
+            libicu-dev \
+            zlib1g-dev \
+            libbz2-dev
 
-      - name: 💾 Cache R packages
-        uses: actions/cache@v4
-        with:
-          path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-r-${{ hashFiles('**/generate_kenpom_plot.R') }}
-          restore-keys: |
-            ${{ runner.os }}-r-
-
-      - name: 📦 Install R dependencies (persistent + verbose)
+      - name: 📦 Install R packages (tidyverse, ggimage)
         run: |
-          # Use the R_LIBS_USER environment variable for installation.
-          # The -e '...' Rscript execution automatically inherits the environment variables.
-          # The 'lib=lib' ensures installation goes to the correct path.
+          mkdir -p "$R_LIBS_USER"
           Rscript -e '
             lib <- Sys.getenv("R_LIBS_USER")
-            if (!dir.exists(lib)) dir.create(lib, recursive = TRUE)
-            cat("📦 Installing required R packages into:", lib, "\n")
-            install.packages(c("tidyverse", "ggimage", "scales"), repos = "https://cloud.r-project.org", lib = lib)
+            .libPaths(c(lib, .libPaths()))
+            cat("Installing to:\n", .libPaths(), "\n")
+            install.packages(c("tidyverse", "ggimage", "scales"), lib = lib, repos = "https://cloud.r-project.org", verbose = TRUE)
           '
 
-      - name: 🐛 Debug installed R packages and paths
+      - name: 🔎 Verify R packages installed
         run: |
-          # This step is critical for debugging. We explicitly set .libPaths()
-          # to include R_LIBS_USER before checking installed packages.
           Rscript -e '
             lib <- Sys.getenv("R_LIBS_USER")
-            .libPaths(c(lib, .libPaths())) # Explicitly add the custom lib path
-            cat("📚 .libPaths():\n")
-            print(.libPaths())
-            cat("\n📦 Installed packages across all lib paths:\n")
-            pkgs <- installed.packages(lib.loc = .libPaths())
-            print(unique(pkgs[, "LibPath"]))
-            print(pkgs[pkgs[, "Package"] %in% c("tidyverse", "ggimage", "scales"), ])
+            .libPaths(c(lib, .libPaths()))
+            print(installed.packages(lib)[, "Package"])
           '
 
-      - name: ✅ Test loading tidyverse directly
+      - name: 📊 Generate plot using R script
         run: |
-          # The fix: Explicitly set .libPaths() to include the custom library path
-          # before attempting to load the package.
           Rscript -e '
             lib <- Sys.getenv("R_LIBS_USER")
-            .libPaths(c(lib, .libPaths())) # Explicitly add the custom lib path
-            cat("Trying to load tidyverse from paths:", .libPaths(), "\n")
-            library(tidyverse)
-            cat("✅ tidyverse loaded successfully!\n")
+            .libPaths(c(lib, .libPaths()))
+            source("generate_kenpom_plot.R")
           '
 
-      - name: 📊 Run R script to generate plot
-        run: |
-          Rscript generate_kenpom_plot.R
+      # ------------------ GIT COMMIT ------------------
 
-      - name: 💾 Commit CSV and plot image
+      - name: 💾 Commit CSV and PNG to repo
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
