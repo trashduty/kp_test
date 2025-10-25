@@ -84,13 +84,8 @@ jobs:
           mkdir -p "$R_LIBS_USER"
           Rscript -e '
             .libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
-            install.packages(c(
-              "tidyverse",
-              "magick",
-              "ggimage",
-              "scales",
-              "curl"
-            ), repos = "https://cloud.r-project.org", dependencies = TRUE)
+            options(repos = c(CRAN = "https://cloud.r-project.org"))
+            install.packages(c("tidyverse", "ggimage", "scales"))
           '
 
       - name: 📊 Generate plot
