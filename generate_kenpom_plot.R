@@ -40,6 +40,13 @@ standardize_team_name <- function(name) {
     "UMass" = "Massachusetts"
   )
   
+  # Debug print to see what's happening
+  cat(sprintf("Standardizing: %s -> %s\n", 
+              name, 
+              ifelse(name %in% names(name_mapping), 
+                    name_mapping[name], 
+                    name)))
+  
   # Look up the standardized name, if not found, return original
   ifelse(name %in% names(name_mapping), 
          name_mapping[name], 
@@ -145,16 +152,30 @@ for(conf in conferences) {
 
 # 3. AP Top 25 Plot (using top 100 means)
 if (!is.null(ap_teams)) {
-  # Debug print
-  cat("\nAP Top 25 Teams after standardization:\n")
-  print(ap_teams$Team)
+  # Debug print original AP teams
+  cat("\nOriginal AP Top 25 Teams:\n")
+  print(ap_teams)
   
+  # Debug print after KenPom join
+  cat("\nAfter joining with KenPom stats:\n")
   eff_stats_ap25 <- eff_stats |> 
-    inner_join(ap_teams, by = "Team") |>
+    inner_join(ap_teams, by = "Team")
+  print(eff_stats_ap25$Team)
+  
+  # Debug print NCAA teams data for these teams
+  cat("\nLooking up these teams in NCAA logos data:\n")
+  for(team in eff_stats_ap25$Team) {
+    cat(sprintf("Team: %s, Logo found: %s\n", 
+                team, 
+                ifelse(team %in% ncaa_teams$current_team, "YES", "NO")))
+  }
+  
+  # Final join with logos
+  eff_stats_ap25 <- eff_stats_ap25 |>
     left_join(ncaa_teams, by = c("Team" = "current_team"))
   
-  # Debug print
-  cat("\nTeams missing logos:\n")
+  # Debug print teams missing logos
+  cat("\nTeams missing logos after final join:\n")
   missing_logos <- eff_stats_ap25 |> 
     filter(is.na(logo)) |>
     select(Team)
