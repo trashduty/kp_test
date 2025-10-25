@@ -1,108 +1,49 @@
-name: Scrape KenPom and Generate Plot
+name: KenPom Data Collection and Visualization
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *'
-
-permissions:
-  contents: write
+    - cron: '0 6 * * *'  # Run at 6:00 UTC daily
+  workflow_dispatch:      # Allow manual trigger
 
 jobs:
-  scrape:
+  update-data:
     runs-on: ubuntu-latest
     
     env:
       RENV_PATHS_ROOT: ~/.local/share/renv
-
+      R_LIBS_USER: /home/runner/work/_temp/Library
+    
     steps:
-      - name: 🧾 Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1  # This ensures we get the latest code
-
-      - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10.13'
-          cache: 'pip'
-
-      - name: 📦 Install Python dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: 🔐 Set up environment variables
-        run: |
-          echo "KENPOM_USERNAME=${{ secrets.KENPOM_USERNAME }}" >> $GITHUB_ENV
-          echo "KENPOM_PASSWORD=${{ secrets.KENPOM_PASSWORD }}" >> $GITHUB_ENV
-
-      - name: 🕷️ Run Python scraper
-        run: python scrape_kenpom_stats.py
-
-      - name: 🏀 Scrape AP Top 25 rankings
-        run: python scrape_ap_rankings.py
-        continue-on-error: true  # Don't fail if ESPN is temporarily unavailable
-
-      - name: 🧰 Set up R
+      - uses: actions/checkout@v3
+      
+      - name: Setup R
         uses: r-lib/actions/setup-r@v2
         with:
           r-version: '4.3.2'
-          use-public-rspm: true
-
-      - name: 🛠️ Install system dependencies
+      
+      # Install system dependencies for packages
+      - name: Install system dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends \
-            libcurl4-openssl-dev \
-            libssl-dev \
-            libxml2-dev \
-            libfontconfig1-dev \
-            libfreetype6-dev \
-            libharfbuzz-dev \
-            libfribidi-dev \
-            libpng-dev \
-            libtiff5-dev \
-            libjpeg-dev \
-            libmagick++-dev \
-            imagemagick \
-            libmagickwand-dev \
-            librsvg2-dev \
-            libwebp-dev \
-            libzip-dev \
-            ghostscript \
-            gsfonts
+          sudo apt-get install -y libcurl4-openssl-dev libssl-dev libxml2-dev libfontconfig1-dev libharfbuzz-dev libfribidi-dev
 
-      - name: 🔧 Configure ImageMagick policy
+      # Install packages directly (simpler approach)
+      - name: Install R dependencies
         run: |
-          sudo sed -i 's/rights="none" pattern="PDF"/rights="read|write" pattern="PDF"/' /etc/ImageMagick-6/policy.xml
-          sudo sed -i 's/rights="none" pattern="HTTPS"/rights="read|write" pattern="HTTPS"/' /etc/ImageMagick-6/policy.xml
-          sudo sed -i 's/rights="none" pattern="HTTP"/rights="read|write" pattern="HTTP"/' /etc/ImageMagick-6/policy.xml
-
-      - name: 📦 Get R package cache
-        uses: actions/cache@v4
-        with:
-          path: ${{ env.RENV_PATHS_ROOT }}
-          key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-renv-
-
-      - name: 🔄 Set up renv
+          install.packages(c('tidyverse', 'rvest', 'ggimage', 'scales'))
         shell: Rscript {0}
-        run: |
-          if (!requireNamespace("renv", quietly = TRUE)) {
-            install.packages("renv", repos = "https://cloud.r-project.org")
-          }
-          renv::restore()
 
-      - name: 📊 Generate plot
-        run: |
-          # Debug: List files in current directory
-          ls -la
-          # Run the R script
-          Rscript generate_kenpom_plot.R
+      # Run R scripts
+      - name: Run KenPom scraper
+        run: Rscript scrape_kenpom.R
+        
+      - name: Run AP Top 25 scraper
+        run: Rscript scrape_ap25.R
+        
+      - name: Generate plots
+        run: Rscript generate_kenpom_plot.R
 
-      # After generating plots, copy them to docs/plots
+      # Copy plots to docs directory
       - name: 📁 Copy plots to docs directory
         run: |
           mkdir -p docs/plots/conferences
@@ -110,6 +51,7 @@ jobs:
           cp plots/kenpom_ap25_eff.png docs/plots/
           cp plots/conferences/* docs/plots/conferences/
 
+      # Commit and push changes
       - name: 💾 Commit files to repo
         run: |
           git config --global user.name "github-actions[bot]"
@@ -117,3 +59,11 @@ jobs:
           git add docs/ kenpom_stats.csv ap_top25.csv
           git commit -m "🤖 Update plots and website [skip ci]" || echo "No changes to commit"
           git push
+
+      # Cache R packages
+      - name: Cache R packages
+        uses: actions/cache@v3
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-r-${{ hashFiles('**/DESCRIPTION') }}
+          restore-keys: ${{ runner.os }}-r-
