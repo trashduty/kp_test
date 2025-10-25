@@ -3,213 +3,84 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="KenPom College Basketball Efficiency Statistics - Interactive plots showing offensive and defensive efficiency ratings">
-    <title>KenPom Efficiency Plots - College Basketball Analytics</title>
+    <title>KenPom Visualization Dashboard</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>🏀 KenPom Efficiency Plots</h1>
-            <p class="subtitle">College Basketball Offensive vs Defensive Efficiency Ratings</p>
-            <p class="last-updated">Automatically updated daily at 6:00 AM UTC</p>
-        </header>
+    <header>
+        <h1>KenPom Basketball Analytics</h1>
+        <p>Updated daily with the latest statistics</p>
+    </header>
 
-        <!-- Main Top 100 Plot Section -->
-        <section class="section">
-            <h2>Top 100 Teams</h2>
-            <div class="plot-container">
-                <div class="plot-item">
-                    <div class="plot-title">KenPom Top 100 Efficiency</div>
-                    <img src="plots/kenpom_top100_eff.png" alt="KenPom Top 100 Efficiency Plot" loading="lazy">
-                </div>
-            </div>
+    <main>
+        <section class="plot-container">
+            <h2>Top 100 Teams Overview</h2>
+            <img src="./plots/kenpom_top100_eff.png" alt="Top 100 Teams Plot" onerror="handleImageError(this)">
         </section>
 
-        <!-- Conference Plots Section -->
-        <section class="section">
-            <h2>Conference Efficiency Plots</h2>
+        <section class="plot-container">
+            <h2>AP Top 25 Teams</h2>
+            <img src="./plots/kenpom_ap25_eff.png" alt="AP Top 25 Teams Plot" onerror="handleImageError(this)">
+        </section>
+
+        <section class="conferences">
+            <h2>Conference Breakdowns</h2>
             <div class="conference-grid">
-                <!-- Power 5 Conferences -->
-                <div class="plot-item">
-                    <div class="plot-title">ACC</div>
-                    <img src="plots/conferences/kenpom_acc_eff.png" alt="ACC Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Big Ten</div>
-                    <img src="plots/conferences/kenpom_b10_eff.png" alt="Big Ten Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Big 12</div>
-                    <img src="plots/conferences/kenpom_b12_eff.png" alt="Big 12 Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Big East</div>
-                    <img src="plots/conferences/kenpom_be_eff.png" alt="Big East Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">SEC</div>
-                    <img src="plots/conferences/kenpom_sec_eff.png" alt="SEC Efficiency Plot" loading="lazy">
-                </div>
-
-                <!-- Other Major Conferences -->
-                <div class="plot-item">
-                    <div class="plot-title">Atlantic 10</div>
-                    <img src="plots/conferences/kenpom_a10_eff.png" alt="Atlantic 10 Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">American Athletic</div>
-                    <img src="plots/conferences/kenpom_amer_eff.png" alt="American Athletic Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Mountain West</div>
-                    <img src="plots/conferences/kenpom_mwc_eff.png" alt="Mountain West Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">West Coast Conference</div>
-                    <img src="plots/conferences/kenpom_wcc_eff.png" alt="WCC Efficiency Plot" loading="lazy">
-                </div>
-
-                <!-- Mid-Major Conferences -->
-                <div class="plot-item">
-                    <div class="plot-title">Atlantic Sun</div>
-                    <img src="plots/conferences/kenpom_asun_eff.png" alt="ASUN Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">America East</div>
-                    <img src="plots/conferences/kenpom_ae_eff.png" alt="America East Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Big Sky</div>
-                    <img src="plots/conferences/kenpom_bsky_eff.png" alt="Big Sky Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Big South</div>
-                    <img src="plots/conferences/kenpom_bsth_eff.png" alt="Big South Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Big West</div>
-                    <img src="plots/conferences/kenpom_bw_eff.png" alt="Big West Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Colonial Athletic</div>
-                    <img src="plots/conferences/kenpom_caa_eff.png" alt="CAA Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Conference USA</div>
-                    <img src="plots/conferences/kenpom_cusa_eff.png" alt="C-USA Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Horizon League</div>
-                    <img src="plots/conferences/kenpom_horz_eff.png" alt="Horizon Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Ivy League</div>
-                    <img src="plots/conferences/kenpom_ivy_eff.png" alt="Ivy League Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Metro Atlantic Athletic</div>
-                    <img src="plots/conferences/kenpom_maac_eff.png" alt="MAAC Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Mid-American</div>
-                    <img src="plots/conferences/kenpom_mac_eff.png" alt="MAC Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Mid-Eastern Athletic</div>
-                    <img src="plots/conferences/kenpom_meac_eff.png" alt="MEAC Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Missouri Valley</div>
-                    <img src="plots/conferences/kenpom_mvc_eff.png" alt="MVC Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Northeast</div>
-                    <img src="plots/conferences/kenpom_nec_eff.png" alt="NEC Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Ohio Valley</div>
-                    <img src="plots/conferences/kenpom_ovc_eff.png" alt="OVC Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Patriot League</div>
-                    <img src="plots/conferences/kenpom_pl_eff.png" alt="Patriot League Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Southern</div>
-                    <img src="plots/conferences/kenpom_sc_eff.png" alt="Southern Conference Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Southland</div>
-                    <img src="plots/conferences/kenpom_slnd_eff.png" alt="Southland Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Summit League</div>
-                    <img src="plots/conferences/kenpom_sum_eff.png" alt="Summit League Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">Sun Belt</div>
-                    <img src="plots/conferences/kenpom_sb_eff.png" alt="Sun Belt Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">SWAC</div>
-                    <img src="plots/conferences/kenpom_swac_eff.png" alt="SWAC Efficiency Plot" loading="lazy">
-                </div>
-                <div class="plot-item">
-                    <div class="plot-title">WAC</div>
-                    <img src="plots/conferences/kenpom_wac_eff.png" alt="WAC Efficiency Plot" loading="lazy">
-                </div>
+                <!-- Conference plots will be dynamically listed here -->
             </div>
         </section>
+    </main>
 
-        <!-- Embedding Instructions -->
-        <section class="section embed-section">
-            <h3>📋 Embedding Instructions</h3>
-            <p>You can embed these plots on your own website or blog using the following methods:</p>
+    <footer>
+        <p>Data source: KenPom.com | Updated: <span id="last-updated"></span></p>
+    </footer>
 
-            <h4 style="margin-top: 20px; margin-bottom: 10px;">Method 1: Direct Image Embed</h4>
-            <p>Use this HTML to embed any plot directly:</p>
-            <div class="code-block">
-<code>&lt;img src="https://trashduty.github.io/kp_test/plots/kenpom_top100_eff.png" 
-     alt="KenPom Top 100 Efficiency Plot" 
-     style="max-width: 100%; height: auto;"&gt;</code>
-            </div>
+    <script>
+        // Update the last-updated date
+        document.getElementById('last-updated').textContent = new Date().toISOString().split('T')[0];
 
-            <h4 style="margin-top: 20px; margin-bottom: 10px;">Method 2: Conference Plot</h4>
-            <p>To embed a specific conference plot:</p>
-            <div class="code-block">
-<code>&lt;img src="https://trashduty.github.io/kp_test/plots/conferences/kenpom_acc_eff.png" 
-     alt="ACC Efficiency Plot" 
-     style="max-width: 100%; height: auto;"&gt;</code>
-            </div>
+        // Error handling for images
+        function handleImageError(img) {
+            console.error(`Failed to load image: ${img.src}`);
+            img.style.display = 'none';
+            const error = document.createElement('p');
+            error.className = 'error-message';
+            error.textContent = `Plot currently unavailable`;
+            img.parentNode.appendChild(error);
+        }
 
-            <h4 style="margin-top: 20px; margin-bottom: 10px;">Method 3: Markdown (for blogs/wikis)</h4>
-            <p>For Markdown-based platforms:</p>
-            <div class="code-block">
-<code>![KenPom Top 100](https://trashduty.github.io/kp_test/plots/kenpom_top100_eff.png)</code>
-            </div>
+        // Dynamically load conference plots
+        fetch('./plots/conferences/')
+            .then(response => response.text())
+            .then(html => {
+                const plots = html.match(/href=".*\.png"/g) || [];
+                const grid = document.querySelector('.conference-grid');
+                plots.forEach(plot => {
+                    const name = plot.match(/kenpom_(.*)_eff\.png/)[1].toUpperCase();
+                    const div = document.createElement('div');
+                    div.className = 'conference-plot';
+                    div.innerHTML = `
+                        <h3>${name}</h3>
+                        <img src="./plots/conferences/${plot.match(/"(.*)"/)[1]}" 
+                             alt="${name} Conference Plot"
+                             onerror="handleImageError(this)">
+                    `;
+                    grid.appendChild(div);
+                });
+            })
+            .catch(error => console.error('Error loading conference plots:', error));
+    </script>
 
-            <h4 style="margin-top: 20px; margin-bottom: 10px;">Available Plot URLs</h4>
-            <p>Replace the conference abbreviation in the URL pattern:</p>
-            <div class="code-block">
-<code>Top 100: https://trashduty.github.io/kp_test/plots/kenpom_top100_eff.png
-Conferences: https://trashduty.github.io/kp_test/plots/conferences/kenpom_[CONF]_eff.png
-
-Conference codes: acc, b10, b12, be, sec, a10, amer, mwc, wcc, asun, ae, 
-bsky, bsth, bw, caa, cusa, horz, ivy, maac, mac, meac, mvc, nec, ovc, 
-pl, sc, slnd, sum, sb, swac, wac</code>
-            </div>
-
-            <div class="note">
-                <strong>Note:</strong> These plots are automatically updated daily at 6:00 AM UTC. 
-                Any embedded images will automatically reflect the latest data when the page is refreshed.
-            </div>
-        </section>
-
-        <footer>
-            <p>Data sourced from <a href="https://kenpom.com" target="_blank">KenPom.com</a></p>
-            <p>Plots generated automatically via GitHub Actions | <a href="https://github.com/trashduty/kp_test" target="_blank">View Repository</a></p>
-        </footer>
-    </div>
+    <style>
+        .error-message {
+            color: #721c24;
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+            border-radius: 4px;
+            padding: 10px;
+            margin-top: 10px;
+            text-align: center;
+        }
+    </style>
 </body>
 </html>
