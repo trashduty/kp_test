@@ -13,7 +13,7 @@ print(.libPaths())
 standardize_team_name <- function(name) {
   # Create a mapping of variations to standard names
   name_mapping <- c(
-    "Iowa St." = "Iowa State",
+    "Iowa State" = "Iowa St.",
     "St. John's" = "St. John's",
     "UConn" = "Connecticut",
     "Florida St." = "Florida State",
