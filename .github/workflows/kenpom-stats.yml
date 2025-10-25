@@ -11,6 +11,9 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    
+    env:
+      RENV_PATHS_ROOT: ~/.local/share/renv
 
     steps:
       - name: 🧾 Checkout repository
@@ -91,8 +94,6 @@ jobs:
             install.packages("renv", repos = "https://cloud.r-project.org")
           }
           renv::restore()
-        env:
-          RENV_PATHS_ROOT: ~/.local/share/renv
 
       - name: 📊 Generate plot
         run: |
