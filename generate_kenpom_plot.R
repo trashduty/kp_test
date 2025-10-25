@@ -9,6 +9,43 @@ library(scales)
 cat("🔎 .libPaths():\n")
 print(.libPaths())
 
+# Function to standardize team names
+standardize_team_name <- function(name) {
+  # Create a mapping of variations to standard names
+  name_mapping <- c(
+    "Iowa St." = "Iowa State",
+    "St. John's" = "St. John's",
+    "UConn" = "Connecticut",
+    "Florida St." = "Florida State",
+    "Michigan St." = "Michigan State",
+    "Mississippi St." = "Mississippi State",
+    "Kansas St." = "Kansas State",
+    "NC State" = "N.C. State",
+    "TCU" = "Texas Christian",
+    "San Diego St." = "San Diego State",
+    "Arizona St." = "Arizona State",
+    "Boise St." = "Boise State",
+    "Ohio St." = "Ohio State",
+    "Utah St." = "Utah State",
+    "LSU" = "Louisiana State",
+    "UCF" = "Central Florida",
+    "SMU" = "Southern Methodist",
+    "USC" = "Southern California",
+    "UNLV" = "Nevada Las Vegas",
+    "BYU" = "Brigham Young",
+    "UNC" = "North Carolina",
+    "VCU" = "Virginia Commonwealth",
+    "UAB" = "Alabama Birmingham",
+    "Ole Miss" = "Mississippi",
+    "UMass" = "Massachusetts"
+  )
+  
+  # Look up the standardized name, if not found, return original
+  ifelse(name %in% names(name_mapping), 
+         name_mapping[name], 
+         name)
+}
+
 # Function to create base plot with specific means
 create_base_plot <- function(data, means_data, title_prefix = "") {
   # Calculate means using provided data
@@ -44,7 +81,7 @@ create_base_plot <- function(data, means_data, title_prefix = "") {
     )
 }
 
-# Load data
+# Load and standardize KenPom data
 eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
   rename(
     ORtg = `ORtg...6`,
@@ -55,16 +92,17 @@ eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
     AdjT_rank = `AdjT...11`,
     Luck = `Luck...12`,
     Luck_rank = `Luck...13`
-  )
+  ) |>
+  mutate(Team = sapply(Team, standardize_team_name))
 
 ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |>
   distinct(current_team, .keep_all = TRUE)
 
-# Load AP Top 25 data if available
-ap_teams <- tryCatch(
-  read_csv("ap_top25.csv", show_col_types = FALSE),
-  error = function(e) NULL
-)
+# Load and standardize AP Top 25 data if available
+ap_teams <- tryCatch({
+  read_csv("ap_top25.csv", show_col_types = FALSE) |>
+    mutate(Team = sapply(Team, standardize_team_name))
+}, error = function(e) NULL)
 
 # 1. Top 100 Plot (using top 100 means)
 eff_stats_top100 <- eff_stats |> 
@@ -107,9 +145,20 @@ for(conf in conferences) {
 
 # 3. AP Top 25 Plot (using top 100 means)
 if (!is.null(ap_teams)) {
+  # Debug print
+  cat("\nAP Top 25 Teams after standardization:\n")
+  print(ap_teams$Team)
+  
   eff_stats_ap25 <- eff_stats |> 
     inner_join(ap_teams, by = "Team") |>
     left_join(ncaa_teams, by = c("Team" = "current_team"))
+  
+  # Debug print
+  cat("\nTeams missing logos:\n")
+  missing_logos <- eff_stats_ap25 |> 
+    filter(is.na(logo)) |>
+    select(Team)
+  print(missing_logos)
   
   # Use top 100 means for AP Top 25 plot
   top_100_means <- eff_stats |> slice(1:100)
