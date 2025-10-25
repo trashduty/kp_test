@@ -25,7 +25,7 @@ create_base_plot <- function(data, means_data, title_prefix = "") {
              alpha = 0.1, fill = "red") +
     geom_hline(yintercept = mean_DRtg, linetype = "dashed") +
     geom_vline(xintercept = mean_ORtg, linetype = "dashed") +
-    geom_image(aes(image = logo), size = 0.05, asp = 16/9) +
+    geom_image(aes(image = logo), size = 0.04, asp = 16/9) +
     theme_bw() +
     theme(
       plot.title = element_text(size = 25, face = "bold", hjust = 0.5),
