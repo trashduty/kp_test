@@ -1,7 +1,13 @@
+# Force R to use the correct library path set by GitHub Actions
+.libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
+
 # Load libraries
 library(tidyverse)
 library(ggimage)
 library(scales)
+
+cat("🔎 .libPaths():\n")
+print(.libPaths())
 
 # Function to standardize team names
 standardize_team_name <- function(name) {
@@ -12,20 +18,14 @@ standardize_team_name <- function(name) {
     "UConn" = "Connecticut",
     "Florida St." = "Florida State",
     "Michigan State" = "Michigan St.",  # Changed to match logo file
-    "Mississippi St." = "Mississippi State",
-    "Kansas St." = "Kansas State",
-    "NC State" = "N.C. State",
-    "TCU" = "Texas Christian",
-    "San Diego St." = "San Diego State",
+    "Mississippi State" = "Mississippi St.",
+    "Kansas State" = "Kansas St.",
+    "N.C. State" = "NC State",
+    "San Diego State" = "San Diego St.",
     "Arizona St." = "Arizona State",
-    "Boise St." = "Boise State",
-    "Ohio St." = "Ohio State",
-    "Utah St." = "Utah State",
-    "LSU" = "Louisiana State",
-    "UCF" = "Central Florida",
-    "SMU" = "Southern Methodist",
-    "USC" = "Southern California",
-    "UNLV" = "Nevada Las Vegas",
+    "Boise State" = "Boise St.",
+    "Ohio State" = "Ohio St.",
+    "Utah State" = "Utah St.",
     "BYU" = "BYU",  # Changed to match logo file
     "UNC" = "North Carolina",
     "VCU" = "Virginia Commonwealth",
