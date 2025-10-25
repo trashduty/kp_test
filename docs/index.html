@@ -26,7 +26,32 @@
         <section class="conferences">
             <h2>Conference Breakdowns</h2>
             <div class="conference-grid">
-                <!-- Conference plots will be dynamically listed here -->
+                <!-- Static list of major conferences -->
+                <div class="conference-plot">
+                    <h3>ACC</h3>
+                    <img src="./plots/conferences/kenpom_acc_eff.png" alt="ACC Conference Plot" onerror="handleImageError(this)">
+                </div>
+                <div class="conference-plot">
+                    <h3>Big 12</h3>
+                    <img src="./plots/conferences/kenpom_big_12_eff.png" alt="Big 12 Conference Plot" onerror="handleImageError(this)">
+                </div>
+                <div class="conference-plot">
+                    <h3>Big East</h3>
+                    <img src="./plots/conferences/kenpom_big_east_eff.png" alt="Big East Conference Plot" onerror="handleImageError(this)">
+                </div>
+                <div class="conference-plot">
+                    <h3>Big Ten</h3>
+                    <img src="./plots/conferences/kenpom_big_ten_eff.png" alt="Big Ten Conference Plot" onerror="handleImageError(this)">
+                </div>
+                <div class="conference-plot">
+                    <h3>Pac 12</h3>
+                    <img src="./plots/conferences/kenpom_pac_12_eff.png" alt="Pac 12 Conference Plot" onerror="handleImageError(this)">
+                </div>
+                <div class="conference-plot">
+                    <h3>SEC</h3>
+                    <img src="./plots/conferences/kenpom_sec_eff.png" alt="SEC Conference Plot" onerror="handleImageError(this)">
+                </div>
+                <!-- Add other conferences as needed -->
             </div>
         </section>
     </main>
@@ -48,27 +73,6 @@
             error.textContent = `Plot currently unavailable`;
             img.parentNode.appendChild(error);
         }
-
-        // Dynamically load conference plots
-        fetch('./plots/conferences/')
-            .then(response => response.text())
-            .then(html => {
-                const plots = html.match(/href=".*\.png"/g) || [];
-                const grid = document.querySelector('.conference-grid');
-                plots.forEach(plot => {
-                    const name = plot.match(/kenpom_(.*)_eff\.png/)[1].toUpperCase();
-                    const div = document.createElement('div');
-                    div.className = 'conference-plot';
-                    div.innerHTML = `
-                        <h3>${name}</h3>
-                        <img src="./plots/conferences/${plot.match(/"(.*)"/)[1]}" 
-                             alt="${name} Conference Plot"
-                             onerror="handleImageError(this)">
-                    `;
-                    grid.appendChild(div);
-                });
-            })
-            .catch(error => console.error('Error loading conference plots:', error));
     </script>
 
     <style>
@@ -80,6 +84,22 @@
             padding: 10px;
             margin-top: 10px;
             text-align: center;
+        }
+        .conference-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+        .conference-plot {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .conference-plot img {
+            max-width: 100%;
+            height: auto;
         }
     </style>
 </body>
