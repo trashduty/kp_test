@@ -12,9 +12,6 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
 
-    env:
-      R_LIBS_USER: /home/runner/work/_temp/Library
-
     steps:
       - name: 🧾 Checkout repository
         uses: actions/checkout@v4
@@ -25,6 +22,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.10.13'
+          cache: 'pip'
 
       - name: 📦 Install Python dependencies
         run: |
@@ -47,6 +45,7 @@ jobs:
         uses: r-lib/actions/setup-r@v2
         with:
           r-version: '4.3.2'
+          use-public-rspm: true
 
       - name: 🛠️ Install system dependencies
         run: |
@@ -77,25 +76,25 @@ jobs:
           sudo sed -i 's/rights="none" pattern="HTTPS"/rights="read|write" pattern="HTTPS"/' /etc/ImageMagick-6/policy.xml
           sudo sed -i 's/rights="none" pattern="HTTP"/rights="read|write" pattern="HTTP"/' /etc/ImageMagick-6/policy.xml
 
-      - name: 📦 Install R packages
-        env:
-          R_LIBS_USER: /home/runner/work/_temp/Library
+      - name: 📦 Get R package cache
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.RENV_PATHS_ROOT }}
+          key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-renv-
+
+      - name: 🔄 Set up renv
+        shell: Rscript {0}
         run: |
-          mkdir -p "$R_LIBS_USER"
-          Rscript -e '
-            .libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
-            install.packages(c(
-              "tidyverse",
-              "magick",
-              "ggimage",
-              "scales",
-              "curl"
-            ), repos = "https://cloud.r-project.org", dependencies = TRUE)
-          '
+          if (!requireNamespace("renv", quietly = TRUE)) {
+            install.packages("renv", repos = "https://cloud.r-project.org")
+          }
+          renv::restore()
+        env:
+          RENV_PATHS_ROOT: ~/.local/share/renv
 
       - name: 📊 Generate plot
-        env:
-          R_LIBS_USER: /home/runner/work/_temp/Library
         run: |
           # Debug: List files in current directory
           ls -la

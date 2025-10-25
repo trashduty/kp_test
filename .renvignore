@@ -1,0 +1,9 @@
+.git/
+.github/
+docs/
+plots/
+*.py
+*.csv
+*.png
+requirements.txt
+README.md

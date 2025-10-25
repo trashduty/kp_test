@@ -40,3 +40,15 @@ Thumbs.db
 *.tmp
 *_raw.csv
 /tmp/
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/sandbox/
+renv/staging/
