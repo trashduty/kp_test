@@ -9,49 +9,11 @@ library(scales)
 cat("🔎 .libPaths():\n")
 print(.libPaths())
 
-# Function to standardize team names
-standardize_team_name <- function(name) {
-  # Create a mapping of variations to standard names
-  name_mapping <- c(
-    "Iowa State" = "Iowa St.",
-    "St. John's" = "St. John's",
-    "UConn" = "Connecticut",
-    "Florida St." = "Florida State",
-    "Michigan State" = "Michigan St.",  # Changed to match logo file
-    "Mississippi State" = "Mississippi St.",
-    "Kansas State" = "Kansas St.",
-    "N.C. State" = "NC State",
-    "San Diego State" = "San Diego St.",
-    "Arizona St." = "Arizona State",
-    "Boise State" = "Boise St.",
-    "Ohio State" = "Ohio St.",
-    "Utah State" = "Utah St.",
-    "BYU" = "BYU",  # Changed to match logo file
-    "UNC" = "North Carolina",
-    "VCU" = "Virginia Commonwealth",
-    "UAB" = "Alabama Birmingham",
-    "Ole Miss" = "Mississippi",
-    "UMass" = "Massachusetts"
-  )
-  
-  # Debug print
-  cat(sprintf("Standardizing: %s -> %s\n", 
-              name, 
-              ifelse(name %in% names(name_mapping), 
-                    name_mapping[name], 
-                    name)))
-  
-  # Look up the standardized name, if not found, return original
-  ifelse(name %in% names(name_mapping), 
-         name_mapping[name], 
-         name)
-}
-
-# Function to create base plot with specific means
-create_base_plot <- function(data, means_data, title_prefix = "") {
-  # Calculate means using provided data
-  mean_ORtg <- mean(means_data$ORtg, na.rm = TRUE)
-  mean_DRtg <- mean(means_data$DRtg, na.rm = TRUE)
+# Function to create base plot using ALL teams' means
+create_base_plot <- function(data, full_data, title_prefix = "") {
+  # Calculate means using ALL teams
+  mean_ORtg <- mean(full_data$ORtg, na.rm = TRUE)
+  mean_DRtg <- mean(full_data$DRtg, na.rm = TRUE)
   
   # Current timestamp
   timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")
@@ -63,7 +25,7 @@ create_base_plot <- function(data, means_data, title_prefix = "") {
              alpha = 0.1, fill = "red") +
     geom_hline(yintercept = mean_DRtg, linetype = "dashed") +
     geom_vline(xintercept = mean_ORtg, linetype = "dashed") +
-    geom_image(aes(image = logo), size = 0.04, asp = 16/9) +
+    geom_image(aes(image = logo), size = 0.05, asp = 16/9) +
     theme_bw() +
     theme(
       plot.title = element_text(size = 25, face = "bold", hjust = 0.5),
@@ -76,13 +38,13 @@ create_base_plot <- function(data, means_data, title_prefix = "") {
     labs(
       x = "Adjusted Offensive Efficiency",
       y = "Adjusted Defensive Efficiency",
-      title = paste0(title_prefix),
+      title = paste0(title_prefix, " | ", format(Sys.time(), "%Y-%m-%d")),
       subtitle = "Using data from kenpom.com",
       caption = timestamp
     )
 }
 
-# Load and standardize KenPom data
+# Load data
 eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
   rename(
     ORtg = `ORtg...6`,
@@ -93,35 +55,28 @@ eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
     AdjT_rank = `AdjT...11`,
     Luck = `Luck...12`,
     Luck_rank = `Luck...13`
-  ) |>
-  mutate(Team = sapply(Team, standardize_team_name))
+  )
 
-# Load NCAA teams data
 ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |>
   distinct(current_team, .keep_all = TRUE)
 
-# Debug print available team names
-cat("\nFirst few NCAA team names in logo file:\n")
-print(head(ncaa_teams$current_team, 20))
+# Load AP Top 25 data if available
+ap_teams <- tryCatch(
+  read_csv("ap_top25.csv", show_col_types = FALSE),
+  error = function(e) NULL
+)
 
-# Load and standardize AP Top 25 data if available
-ap_teams <- tryCatch({
-  read_csv("ap_top25.csv", show_col_types = FALSE) |>
-    mutate(Team = sapply(Team, standardize_team_name))
-}, error = function(e) NULL)
-
-# 1. Top 100 Plot (using top 100 means)
+# 1. Top 100 Plot (only plot top 100, but use all teams for means)
 eff_stats_top100 <- eff_stats |> 
   slice(1:100) |>  
   left_join(ncaa_teams, by = c("Team" = "current_team"))
 
-# Use top 100 means for this plot
-p1 <- create_base_plot(eff_stats_top100, eff_stats_top100, 
+p1 <- create_base_plot(eff_stats_top100, eff_stats, 
                       "Men's CBB Landscape | Top 100 Teams")
 
 ggsave("plots/kenpom_top100_eff.png", plot = p1, width = 14, height = 10, dpi = "retina")
 
-# 2. Individual Conference Plots (using conference-specific means)
+# 2. Individual Conference Plots
 # Create plots directory if it doesn't exist
 dir.create("plots/conferences", showWarnings = FALSE, recursive = TRUE)
 
@@ -137,8 +92,7 @@ for(conf in conferences) {
   
   # Only create plot if conference has teams
   if(nrow(conf_data) > 0) {
-    # Use conference-specific means
-    p_conf <- create_base_plot(conf_data, conf_data,
+    p_conf <- create_base_plot(conf_data, eff_stats,
                               paste("Men's CBB Landscape |", conf, "Conference"))
     
     # Save plot with conference name in filename
@@ -149,44 +103,13 @@ for(conf in conferences) {
   }
 }
 
-# 3. AP Top 25 Plot (using top 100 means)
+# 3. AP Top 25 Plot (if data available)
 if (!is.null(ap_teams)) {
-  # Debug print original AP teams
-  cat("\nOriginal AP Top 25 Teams:\n")
-  print(ap_teams)
-  
-  # Debug print after KenPom join
-  cat("\nAfter joining with KenPom stats:\n")
   eff_stats_ap25 <- eff_stats |> 
-    inner_join(ap_teams, by = "Team")
-  print(eff_stats_ap25$Team)
-  
-  # Debug print NCAA teams data for these teams
-  cat("\nLooking up these teams in NCAA logos data:\n")
-  for(team in eff_stats_ap25$Team) {
-    cat(sprintf("Team: %s, Logo found: %s\n", 
-                team, 
-                ifelse(team %in% ncaa_teams$current_team, "YES", "NO")))
-  }
-  
-  # Final join with logos
-  eff_stats_ap25 <- eff_stats_ap25 |>
+    inner_join(ap_teams, by = "Team") |>
     left_join(ncaa_teams, by = c("Team" = "current_team"))
   
-  # Debug print teams missing logos
-  cat("\nTeams missing logos after final join:\n")
-  missing_logos <- eff_stats_ap25 |> 
-    filter(is.na(logo)) |>
-    select(Team)
-  print(missing_logos)
-  
-  # Debug print final data
-  cat("\nFinal data for plotting:\n")
-  print(eff_stats_ap25 |> select(Team, logo))
-  
-  # Use top 100 means for AP Top 25 plot
-  top_100_means <- eff_stats |> slice(1:100)
-  p3 <- create_base_plot(eff_stats_ap25, top_100_means,
+  p3 <- create_base_plot(eff_stats_ap25, eff_stats,
                         "Men's CBB Landscape | AP Top 25 Teams")
   
   ggsave("plots/kenpom_ap25_eff.png", plot = p3, width = 14, height = 10, dpi = "retina")
