@@ -9,11 +9,11 @@ library(scales)
 cat("🔎 .libPaths():\n")
 print(.libPaths())
 
-# Function to create base plot using ALL teams' means
-create_base_plot <- function(data, full_data, title_prefix = "") {
-  # Calculate means using ALL teams
-  mean_ORtg <- mean(full_data$ORtg, na.rm = TRUE)
-  mean_DRtg <- mean(full_data$DRtg, na.rm = TRUE)
+# Function to create base plot with specific means
+create_base_plot <- function(data, means_data, title_prefix = "") {
+  # Calculate means using provided data
+  mean_ORtg <- mean(means_data$ORtg, na.rm = TRUE)
+  mean_DRtg <- mean(means_data$DRtg, na.rm = TRUE)
   
   # Current timestamp
   timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")
@@ -38,7 +38,7 @@ create_base_plot <- function(data, full_data, title_prefix = "") {
     labs(
       x = "Adjusted Offensive Efficiency",
       y = "Adjusted Defensive Efficiency",
-      title = paste0(title_prefix, " | ", format(Sys.time(), "%Y-%m-%d")),
+      title = paste0(title_prefix),
       subtitle = "Using data from kenpom.com",
       caption = timestamp
     )
@@ -66,17 +66,18 @@ ap_teams <- tryCatch(
   error = function(e) NULL
 )
 
-# 1. Top 100 Plot (only plot top 100, but use all teams for means)
+# 1. Top 100 Plot (using top 100 means)
 eff_stats_top100 <- eff_stats |> 
   slice(1:100) |>  
   left_join(ncaa_teams, by = c("Team" = "current_team"))
 
-p1 <- create_base_plot(eff_stats_top100, eff_stats, 
+# Use top 100 means for this plot
+p1 <- create_base_plot(eff_stats_top100, eff_stats_top100, 
                       "Men's CBB Landscape | Top 100 Teams")
 
 ggsave("plots/kenpom_top100_eff.png", plot = p1, width = 14, height = 10, dpi = "retina")
 
-# 2. Individual Conference Plots
+# 2. Individual Conference Plots (using conference-specific means)
 # Create plots directory if it doesn't exist
 dir.create("plots/conferences", showWarnings = FALSE, recursive = TRUE)
 
@@ -92,7 +93,8 @@ for(conf in conferences) {
   
   # Only create plot if conference has teams
   if(nrow(conf_data) > 0) {
-    p_conf <- create_base_plot(conf_data, eff_stats,
+    # Use conference-specific means
+    p_conf <- create_base_plot(conf_data, conf_data,
                               paste("Men's CBB Landscape |", conf, "Conference"))
     
     # Save plot with conference name in filename
@@ -103,13 +105,15 @@ for(conf in conferences) {
   }
 }
 
-# 3. AP Top 25 Plot (if data available)
+# 3. AP Top 25 Plot (using top 100 means)
 if (!is.null(ap_teams)) {
   eff_stats_ap25 <- eff_stats |> 
     inner_join(ap_teams, by = "Team") |>
     left_join(ncaa_teams, by = c("Team" = "current_team"))
   
-  p3 <- create_base_plot(eff_stats_ap25, eff_stats,
+  # Use top 100 means for AP Top 25 plot
+  top_100_means <- eff_stats |> slice(1:100)
+  p3 <- create_base_plot(eff_stats_ap25, top_100_means,
                         "Men's CBB Landscape | AP Top 25 Teams")
   
   ggsave("plots/kenpom_ap25_eff.png", plot = p3, width = 14, height = 10, dpi = "retina")
