@@ -85,7 +85,7 @@ jobs:
           Rscript -e '
             .libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
             options(repos = c(CRAN = "https://cloud.r-project.org"))
-            install.packages(c("tidyverse", "ggimage", "scales"))
+            install.packages(c("tidyverse", "ggimage", "scales"), dependencies = TRUE)
           '
 
       - name: 📊 Generate plot
