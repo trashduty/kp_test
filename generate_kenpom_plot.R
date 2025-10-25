@@ -17,7 +17,7 @@ standardize_team_name <- function(name) {
     "St. John's" = "St. John's",
     "UConn" = "Connecticut",
     "Florida St." = "Florida State",
-    "Michigan St." = "Michigan State",
+    "Michigan State" = "Michigan St.",  # Changed to match logo file
     "Mississippi St." = "Mississippi State",
     "Kansas St." = "Kansas State",
     "NC State" = "N.C. State",
@@ -32,7 +32,7 @@ standardize_team_name <- function(name) {
     "SMU" = "Southern Methodist",
     "USC" = "Southern California",
     "UNLV" = "Nevada Las Vegas",
-    "BYU" = "Brigham Young",
+    "BYU" = "BYU",  # Changed to match logo file
     "UNC" = "North Carolina",
     "VCU" = "Virginia Commonwealth",
     "UAB" = "Alabama Birmingham",
@@ -40,7 +40,7 @@ standardize_team_name <- function(name) {
     "UMass" = "Massachusetts"
   )
   
-  # Debug print to see what's happening
+  # Debug print
   cat(sprintf("Standardizing: %s -> %s\n", 
               name, 
               ifelse(name %in% names(name_mapping), 
@@ -102,8 +102,13 @@ eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
   ) |>
   mutate(Team = sapply(Team, standardize_team_name))
 
+# Load NCAA teams data
 ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |>
   distinct(current_team, .keep_all = TRUE)
+
+# Debug print available team names
+cat("\nFirst few NCAA team names in logo file:\n")
+print(head(ncaa_teams$current_team, 20))
 
 # Load and standardize AP Top 25 data if available
 ap_teams <- tryCatch({
@@ -180,6 +185,10 @@ if (!is.null(ap_teams)) {
     filter(is.na(logo)) |>
     select(Team)
   print(missing_logos)
+  
+  # Debug print final data
+  cat("\nFinal data for plotting:\n")
+  print(eff_stats_ap25 |> select(Team, logo))
   
   # Use top 100 means for AP Top 25 plot
   top_100_means <- eff_stats |> slice(1:100)
