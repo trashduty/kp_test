@@ -132,8 +132,8 @@ ggsave("plots/kenpom_top100_eff.png", plot = p1, width = 14, height = 10, dpi = 
 # Create plots directory if it doesn't exist
 dir.create("plots/conferences", showWarnings = FALSE, recursive = TRUE)
 
-# Get all conferences
-conferences <- unique(eff_stats$Conf)
+# Get all conferences and sort alphabetically
+conferences <- sort(unique(eff_stats$Conf))
 
 # Generate plot for each conference
 for(conf in conferences) {

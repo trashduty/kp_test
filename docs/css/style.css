@@ -200,6 +200,25 @@ footer a:hover {
     margin-top: 20px;
 }
 
+/* Power 5 conference styling */
+.power5-grid {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    padding: 25px;
+    border-radius: 12px;
+    border: 2px solid #667eea;
+}
+
+.power5-item {
+    background: linear-gradient(135deg, #ffffff 0%, #f9f9f9 100%);
+    border: 2px solid #667eea;
+}
+
+.power5-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 24px rgba(102, 126, 234, 0.3);
+    border-color: #764ba2;
+}
+
 /* Error message styling */
 .error-message {
     color: #721c24;
@@ -238,5 +257,9 @@ footer a:hover {
 @media (max-width: 768px) {
     .conference-grid {
         grid-template-columns: 1fr;
+    }
+    
+    .power5-grid {
+        padding: 15px;
     }
 }
