@@ -7,100 +7,142 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <header>
-        <h1>KenPom Basketball Analytics</h1>
-        <p>Updated daily with the latest statistics</p>
-    </header>
+    <div class="container">
+        <header>
+            <h1>KenPom Basketball Analytics</h1>
+            <p class="subtitle">Updated daily with the latest statistics</p>
+            <p class="last-updated">Last updated: <span id="last-updated"></span></p>
+        </header>
 
-    <main>
-        <section class="plot-container">
-            <h2>Top 100 Teams Overview</h2>
-            <img src="./plots/kenpom_top100_eff.png" alt="Top 100 Teams Plot" onerror="handleImageError(this)">
-        </section>
+        <main>
+            <section class="section">
+                <h2>Top 100 Teams Overview</h2>
+                <div class="plot-container">
+                    <div class="plot-item">
+                        <img src="plots/kenpom_top100_eff.png" alt="Top 100 Teams Efficiency Plot" onerror="handleImageError(this)">
+                    </div>
+                </div>
+            </section>
 
-        <section class="plot-container">
-            <h2>AP Top 25 Teams</h2>
-            <img src="./plots/kenpom_ap25_eff.png" alt="AP Top 25 Teams Plot" onerror="handleImageError(this)">
-        </section>
+            <section class="section">
+                <h2>AP Top 25 Teams</h2>
+                <div class="plot-container">
+                    <div class="plot-item">
+                        <img src="plots/kenpom_ap25_eff.png" alt="AP Top 25 Teams Efficiency Plot" onerror="handleImageError(this)">
+                    </div>
+                </div>
+            </section>
 
-        <section class="conferences">
-            <h2>Conference Breakdowns</h2>
-            <div class="conference-grid">
-                <!-- Static list of major conferences -->
-                <div class="conference-plot">
-                    <h3>ACC</h3>
-                    <img src="./plots/conferences/kenpom_acc_eff.png" alt="ACC Conference Plot" onerror="handleImageError(this)">
+            <section class="section">
+                <h2>Conference Breakdowns</h2>
+                <div class="conference-grid">
+                    <div class="plot-item">
+                        <h3 class="plot-title">ACC</h3>
+                        <img src="plots/conferences/kenpom_acc_eff.png" alt="ACC Conference Efficiency Plot" onerror="handleImageError(this)">
+                    </div>
+                    <div class="plot-item">
+                        <h3 class="plot-title">Big 12</h3>
+                        <img src="plots/conferences/kenpom_b12_eff.png" alt="Big 12 Conference Efficiency Plot" onerror="handleImageError(this)">
+                    </div>
+                    <div class="plot-item">
+                        <h3 class="plot-title">Big East</h3>
+                        <img src="plots/conferences/kenpom_be_eff.png" alt="Big East Conference Efficiency Plot" onerror="handleImageError(this)">
+                    </div>
+                    <div class="plot-item">
+                        <h3 class="plot-title">Big Ten</h3>
+                        <img src="plots/conferences/kenpom_b10_eff.png" alt="Big Ten Conference Efficiency Plot" onerror="handleImageError(this)">
+                    </div>
+                    <div class="plot-item">
+                        <h3 class="plot-title">SEC</h3>
+                        <img src="plots/conferences/kenpom_sec_eff.png" alt="SEC Conference Efficiency Plot" onerror="handleImageError(this)">
+                    </div>
+                    <div class="plot-item">
+                        <h3 class="plot-title">Atlantic 10</h3>
+                        <img src="plots/conferences/kenpom_a10_eff.png" alt="Atlantic 10 Conference Efficiency Plot" onerror="handleImageError(this)">
+                    </div>
+                    <div class="plot-item">
+                        <h3 class="plot-title">American Athletic</h3>
+                        <img src="plots/conferences/kenpom_amer_eff.png" alt="American Athletic Conference Efficiency Plot" onerror="handleImageError(this)">
+                    </div>
+                    <div class="plot-item">
+                        <h3 class="plot-title">Mountain West</h3>
+                        <img src="plots/conferences/kenpom_mwc_eff.png" alt="Mountain West Conference Efficiency Plot" onerror="handleImageError(this)">
+                    </div>
+                    <div class="plot-item">
+                        <h3 class="plot-title">West Coast</h3>
+                        <img src="plots/conferences/kenpom_wcc_eff.png" alt="West Coast Conference Efficiency Plot" onerror="handleImageError(this)">
+                    </div>
+                    <div class="plot-item">
+                        <h3 class="plot-title">MAC</h3>
+                        <img src="plots/conferences/kenpom_mac_eff.png" alt="MAC Conference Efficiency Plot" onerror="handleImageError(this)">
+                    </div>
+                    <div class="plot-item">
+                        <h3 class="plot-title">Conference USA</h3>
+                        <img src="plots/conferences/kenpom_cusa_eff.png" alt="Conference USA Efficiency Plot" onerror="handleImageError(this)">
+                    </div>
+                    <div class="plot-item">
+                        <h3 class="plot-title">Ivy League</h3>
+                        <img src="plots/conferences/kenpom_ivy_eff.png" alt="Ivy League Conference Efficiency Plot" onerror="handleImageError(this)">
+                    </div>
                 </div>
-                <div class="conference-plot">
-                    <h3>Big 12</h3>
-                    <img src="./plots/conferences/kenpom_big_12_eff.png" alt="Big 12 Conference Plot" onerror="handleImageError(this)">
-                </div>
-                <div class="conference-plot">
-                    <h3>Big East</h3>
-                    <img src="./plots/conferences/kenpom_big_east_eff.png" alt="Big East Conference Plot" onerror="handleImageError(this)">
-                </div>
-                <div class="conference-plot">
-                    <h3>Big Ten</h3>
-                    <img src="./plots/conferences/kenpom_big_ten_eff.png" alt="Big Ten Conference Plot" onerror="handleImageError(this)">
-                </div>
-                <div class="conference-plot">
-                    <h3>Pac 12</h3>
-                    <img src="./plots/conferences/kenpom_pac_12_eff.png" alt="Pac 12 Conference Plot" onerror="handleImageError(this)">
-                </div>
-                <div class="conference-plot">
-                    <h3>SEC</h3>
-                    <img src="./plots/conferences/kenpom_sec_eff.png" alt="SEC Conference Plot" onerror="handleImageError(this)">
-                </div>
-                <!-- Add other conferences as needed -->
-            </div>
-        </section>
-    </main>
+            </section>
+        </main>
 
-    <footer>
-        <p>Data source: KenPom.com | Updated: <span id="last-updated"></span></p>
-    </footer>
+        <footer>
+            <p>Data source: <a href="https://kenpom.com" target="_blank">KenPom.com</a></p>
+            <p>This site is updated daily with the latest college basketball analytics</p>
+        </footer>
+    </div>
 
     <script>
         // Update the last-updated date
-        document.getElementById('last-updated').textContent = new Date().toISOString().split('T')[0];
+        document.getElementById('last-updated').textContent = new Date().toLocaleDateString('en-US', { 
+            year: 'numeric', 
+            month: 'long', 
+            day: 'numeric' 
+        });
 
         // Error handling for images
         function handleImageError(img) {
             console.error(`Failed to load image: ${img.src}`);
             img.style.display = 'none';
-            const error = document.createElement('p');
-            error.className = 'error-message';
-            error.textContent = `Plot currently unavailable`;
-            img.parentNode.appendChild(error);
+            
+            // Remove loading state
+            const plotItem = img.closest('.plot-item');
+            if (plotItem) {
+                plotItem.classList.remove('loading');
+            }
+            
+            // Check if error message already exists
+            const existingError = img.parentNode.querySelector('.error-message');
+            if (!existingError) {
+                const error = document.createElement('div');
+                error.className = 'error-message';
+                error.textContent = 'Plot currently unavailable';
+                img.parentNode.appendChild(error);
+            }
         }
-    </script>
 
-    <style>
-        .error-message {
-            color: #721c24;
-            background-color: #f8d7da;
-            border: 1px solid #f5c6cb;
-            border-radius: 4px;
-            padding: 10px;
-            margin-top: 10px;
-            text-align: center;
-        }
-        .conference-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-            padding: 20px;
-        }
-        .conference-plot {
-            background: white;
-            padding: 15px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-        .conference-plot img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
+        // Add loading state for images
+        document.addEventListener('DOMContentLoaded', function() {
+            const images = document.querySelectorAll('.plot-item img');
+            images.forEach(img => {
+                const plotItem = img.closest('.plot-item');
+                
+                // Add loading class
+                if (plotItem && !img.complete) {
+                    plotItem.classList.add('loading');
+                }
+                
+                img.addEventListener('load', function() {
+                    this.classList.add('loaded');
+                    // Remove loading class
+                    if (plotItem) {
+                        plotItem.classList.remove('loading');
+                    }
+                });
+            });
+        });
+    </script>
 </body>
 </html>

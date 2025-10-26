@@ -9,7 +9,8 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #f5f5f5;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
     padding: 20px;
 }
 
@@ -18,8 +19,8 @@ body {
     margin: 0 auto;
     background-color: white;
     padding: 30px;
-    border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
 }
 
 /* Header styles */
@@ -27,19 +28,20 @@ header {
     text-align: center;
     margin-bottom: 40px;
     padding-bottom: 20px;
-    border-bottom: 3px solid #0066cc;
+    border-bottom: 3px solid #667eea;
 }
 
 h1 {
-    color: #0066cc;
+    color: #667eea;
     font-size: 2.5em;
     margin-bottom: 10px;
+    font-weight: 700;
 }
 
 .subtitle {
     color: #666;
     font-size: 1.1em;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .last-updated {
@@ -75,25 +77,33 @@ h1 {
     border-radius: 8px;
     padding: 20px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
-    transition: transform 0.2s, box-shadow 0.2s;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
 }
 
 .plot-item:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
 
 .plot-item img {
     width: 100%;
     height: auto;
     border-radius: 4px;
+    display: block;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.plot-item img.loaded {
+    opacity: 1;
 }
 
 .plot-title {
     font-size: 1.2em;
     font-weight: 600;
     color: #333;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     text-align: center;
 }
 
@@ -185,9 +195,44 @@ footer a:hover {
 /* Conference grid for better organization */
 .conference-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+    gap: 25px;
     margin-top: 20px;
+}
+
+/* Error message styling */
+.error-message {
+    color: #721c24;
+    background-color: #f8d7da;
+    border: 1px solid #f5c6cb;
+    border-radius: 6px;
+    padding: 15px;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 0.95em;
+    font-weight: 500;
+}
+
+/* Loading spinner for images */
+.plot-item.loading::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    margin: -20px 0 0 -20px;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #667eea;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    z-index: 10;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }
 
 @media (max-width: 768px) {
