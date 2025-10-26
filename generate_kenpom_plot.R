@@ -88,7 +88,7 @@ create_base_plot <- function(data, means_data, title_prefix = "") {
     )
 }
 
-# Load and standardize KenPom data
+# Load KenPom data (no standardization - keep original team names)
 eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
   rename(
     ORtg = `ORtg...6`,
@@ -99,8 +99,7 @@ eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
     AdjT_rank = `AdjT...11`,
     Luck = `Luck...12`,
     Luck_rank = `Luck...13`
-  ) |>
-  mutate(Team = sapply(Team, standardize_team_name))
+  )
 
 # Load NCAA teams data
 ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |>
@@ -111,12 +110,14 @@ cat("\nFirst few NCAA team names in logo file:\n")
 print(head(ncaa_teams$current_team, 20))
 
 # Load and standardize AP Top 25 data if available
+# Standardization is ONLY applied to AP data to convert AP format (e.g., "Iowa State")
+# to KenPom format (e.g., "Iowa St.") for joining with eff_stats
 ap_teams <- tryCatch({
   read_csv("ap_top25.csv", show_col_types = FALSE) |>
     mutate(Team = sapply(Team, standardize_team_name))
 }, error = function(e) NULL)
 
-# 1. Top 100 Plot (using top 100 means)
+# 1. Top 100 Plot (using top 100 means, original team names)
 eff_stats_top100 <- eff_stats |> 
   slice(1:100) |>  
   left_join(ncaa_teams, by = c("Team" = "current_team"))
@@ -127,7 +128,7 @@ p1 <- create_base_plot(eff_stats_top100, eff_stats_top100,
 
 ggsave("plots/kenpom_top100_eff.png", plot = p1, width = 14, height = 10, dpi = "retina")
 
-# 2. Individual Conference Plots (using conference-specific means)
+# 2. Individual Conference Plots (using conference-specific means, original team names)
 # Create plots directory if it doesn't exist
 dir.create("plots/conferences", showWarnings = FALSE, recursive = TRUE)
 
@@ -136,7 +137,7 @@ conferences <- unique(eff_stats$Conf)
 
 # Generate plot for each conference
 for(conf in conferences) {
-  # Filter data for current conference
+  # Filter data for current conference (uses original KenPom team names)
   conf_data <- eff_stats |> 
     filter(Conf == conf) |>
     left_join(ncaa_teams, by = c("Team" = "current_team"))
@@ -155,13 +156,15 @@ for(conf in conferences) {
   }
 }
 
-# 3. AP Top 25 Plot (using top 100 means)
+# 3. AP Top 25 Plot (using top 100 means, standardized team names for AP data only)
 if (!is.null(ap_teams)) {
   # Debug print original AP teams
   cat("\nOriginal AP Top 25 Teams:\n")
   print(ap_teams)
   
   # Debug print after KenPom join
+  # Note: eff_stats uses original KenPom names (e.g., "Iowa St.")
+  # ap_teams has been standardized to match (e.g., "Iowa State" → "Iowa St.")
   cat("\nAfter joining with KenPom stats:\n")
   eff_stats_ap25 <- eff_stats |> 
     inner_join(ap_teams, by = "Team")
