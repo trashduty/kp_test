@@ -107,6 +107,12 @@
             console.error(`Failed to load image: ${img.src}`);
             img.style.display = 'none';
             
+            // Remove loading state
+            const plotItem = img.closest('.plot-item');
+            if (plotItem) {
+                plotItem.classList.remove('loading');
+            }
+            
             // Check if error message already exists
             const existingError = img.parentNode.querySelector('.error-message');
             if (!existingError) {
@@ -119,10 +125,21 @@
 
         // Add loading state for images
         document.addEventListener('DOMContentLoaded', function() {
-            const images = document.querySelectorAll('img');
+            const images = document.querySelectorAll('.plot-item img');
             images.forEach(img => {
+                const plotItem = img.closest('.plot-item');
+                
+                // Add loading class
+                if (plotItem && !img.complete) {
+                    plotItem.classList.add('loading');
+                }
+                
                 img.addEventListener('load', function() {
                     this.classList.add('loaded');
+                    // Remove loading class
+                    if (plotItem) {
+                        plotItem.classList.remove('loading');
+                    }
                 });
             });
         });

@@ -78,6 +78,7 @@ h1 {
     padding: 20px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
 }
 
 .plot-item:hover {
@@ -213,9 +214,9 @@ footer a:hover {
 }
 
 /* Loading spinner for images */
-.plot-item::before {
+.plot-item.loading::before {
     content: '';
-    display: none;
+    display: block;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -226,6 +227,7 @@ footer a:hover {
     border-top: 4px solid #667eea;
     border-radius: 50%;
     animation: spin 1s linear infinite;
+    z-index: 10;
 }
 
 @keyframes spin {
