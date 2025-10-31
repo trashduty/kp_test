@@ -199,7 +199,7 @@ if (!is.null(ap_teams)) {
   p3 <- create_base_plot(eff_stats_ap25, top_100_means,
                         "Men's CBB Landscape | AP Top 25 Teams") +
     # Add rankings text layer for AP Top 25 plot
-    geom_text(aes(label = Rank), 
+    geom_text(aes(x = ORtg, y = DRtg, label = Rank), 
               color = "red",
               size = 4,
               fontface = "bold",
