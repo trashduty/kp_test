@@ -114,7 +114,10 @@ print(head(ncaa_teams$current_team, 20))
 # to KenPom format (e.g., "Iowa St.") for joining with eff_stats
 ap_teams <- tryCatch({
   read_csv("ap_top25.csv", show_col_types = FALSE) |>
-    mutate(Team = sapply(Team, standardize_team_name))
+    mutate(
+      Rank = row_number(),  # Add ranking 1-25 based on row position
+      Team = sapply(Team, standardize_team_name)
+    )
 }, error = function(e) NULL)
 
 # 1. Top 100 Plot (using top 100 means, original team names)
@@ -196,7 +199,12 @@ if (!is.null(ap_teams)) {
   # Use top 100 means for AP Top 25 plot
   top_100_means <- eff_stats |> slice(1:100)
   p3 <- create_base_plot(eff_stats_ap25, top_100_means,
-                        "Men's CBB Landscape | AP Top 25 Teams")
+                        "Men's CBB Landscape | AP Top 25 Teams") +
+    geom_text(aes(x = ORtg, y = DRtg, label = Rank),
+              color = "red",
+              fontface = "bold",
+              size = 4,
+              vjust = 2.5)  # Position text above logos
   
   ggsave("plots/kenpom_ap25_eff.png", plot = p3, width = 14, height = 10, dpi = "retina")
 }
