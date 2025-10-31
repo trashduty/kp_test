@@ -198,13 +198,50 @@ if (!is.null(ap_teams)) {
   
   # Use top 100 means for AP Top 25 plot
   top_100_means <- eff_stats |> slice(1:100)
+  
+  # Identify teams with overlapping stats (identical ORtg and DRtg)
+  # Group by ORtg and DRtg to find duplicates
+  overlapping_teams <- eff_stats_ap25 |>
+    group_by(ORtg, DRtg) |>
+    filter(n() > 1) |>
+    arrange(ORtg, DRtg, Rank) |>
+    mutate(overlap_position = row_number()) |>
+    ungroup()
+  
+  # Pre-compute non-overlapping teams for efficiency
+  non_overlapping_teams <- anti_join(eff_stats_ap25, overlapping_teams, by = "Team")
+  
+  # Base plot with text for non-overlapping teams
   p3 <- create_base_plot(eff_stats_ap25, top_100_means,
                         "Men's CBB Landscape | AP Top 25 Teams") +
-    geom_text(aes(x = ORtg, y = DRtg - 1.5, label = Rank),
+    geom_text(data = non_overlapping_teams,
+              aes(x = ORtg, y = DRtg - 1.5, label = Rank),
               color = "red",
               fontface = "bold",
-              size = 4
+              size = 4,
               vjust = 1.2)  # Position text above logos (y-axis is reversed)
+  
+  # Add text layers for overlapping teams with horizontal offsets
+  if (nrow(overlapping_teams) > 0) {
+    # Add first team in each overlap group (normal position)
+    p3 <- p3 +
+      geom_text(data = overlapping_teams |> filter(overlap_position == 1),
+                aes(x = ORtg, y = DRtg - 1.5, label = Rank),
+                color = "red",
+                fontface = "bold",
+                size = 4,
+                vjust = 1.2)
+    
+    # Add subsequent teams with horizontal offset
+    p3 <- p3 +
+      geom_text(data = overlapping_teams |> filter(overlap_position > 1),
+                aes(x = ORtg, y = DRtg - 1.5, label = Rank),
+                color = "red",
+                fontface = "bold",
+                size = 4,
+                vjust = 1.2,
+                hjust = -0.5)  # Offset horizontally for overlapping teams
+  }
   
   ggsave("plots/kenpom_ap25_eff.png", plot = p3, width = 14, height = 10, dpi = "retina")
 }
