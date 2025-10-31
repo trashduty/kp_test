@@ -200,11 +200,10 @@ if (!is.null(ap_teams)) {
   top_100_means <- eff_stats |> slice(1:100)
   p3 <- create_base_plot(eff_stats_ap25, top_100_means,
                         "Men's CBB Landscape | AP Top 25 Teams") +
-    geom_text(aes(x = ORtg, y = DRtg, label = Rank),
+    geom_text(aes(x = ORtg, y = DRtg - 1.5, label = Rank),
               color = "red",
               fontface = "bold",
-              size = 4,
-              vjust = 2.5)  # Position text above logos
+              size = 4)  # Position text above logos (y-axis is reversed)
   
   ggsave("plots/kenpom_ap25_eff.png", plot = p3, width = 14, height = 10, dpi = "retina")
 }
