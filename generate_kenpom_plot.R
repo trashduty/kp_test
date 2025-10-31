@@ -205,14 +205,16 @@ if (!is.null(ap_teams)) {
     group_by(ORtg, DRtg) |>
     filter(n() > 1) |>
     arrange(ORtg, DRtg, Rank) |>
-    mutate(overlap_group = cur_group_id(),
-           overlap_position = row_number()) |>
+    mutate(overlap_position = row_number()) |>
     ungroup()
+  
+  # Pre-compute non-overlapping teams for efficiency
+  non_overlapping_teams <- anti_join(eff_stats_ap25, overlapping_teams, by = "Team")
   
   # Base plot with text for non-overlapping teams
   p3 <- create_base_plot(eff_stats_ap25, top_100_means,
                         "Men's CBB Landscape | AP Top 25 Teams") +
-    geom_text(data = ~ anti_join(., overlapping_teams, by = "Team"),
+    geom_text(data = non_overlapping_teams,
               aes(x = ORtg, y = DRtg - 1.5, label = Rank),
               color = "red",
               fontface = "bold",
