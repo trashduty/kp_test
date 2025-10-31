@@ -203,7 +203,8 @@ if (!is.null(ap_teams)) {
     geom_text(aes(x = ORtg, y = DRtg - 1.5, label = Rank),
               color = "red",
               fontface = "bold",
-              size = 4)  # Position text above logos (y-axis is reversed)
+              size = 4
+              vjust = 1.2)  # Position text above logos (y-axis is reversed)
   
   ggsave("plots/kenpom_ap25_eff.png", plot = p3, width = 14, height = 10, dpi = "retina")
 }
