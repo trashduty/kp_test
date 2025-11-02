@@ -1,0 +1,120 @@
+name: Daily Plots - Matchups and Championship Odds
+
+on:
+  schedule:
+    - cron: '0 18 * * *'  # Runs at 6:00 PM UTC daily
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  update-daily-plots:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    env:
+      R_LIBS_USER: /home/runner/work/_temp/Library
+      
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        
+    - name: Install Python dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas requests numpy rich python-dotenv pytz selenium
+    
+    - name: Set up R
+      uses: r-lib/actions/setup-r@v2
+      with:
+        r-version: '4.3.2'
+    
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y --no-install-recommends \
+          libcurl4-openssl-dev \
+          libssl-dev \
+          libxml2-dev \
+          libfontconfig1-dev \
+          libharfbuzz-dev \
+          libfribidi-dev \
+          libfreetype6-dev \
+          libpng-dev \
+          libtiff5-dev \
+          libjpeg-dev \
+          libmagick++-dev \
+          chromium-browser \
+          chromium-chromedriver
+    
+    - name: Set up Chrome driver
+      run: |
+        export CHROME_BIN=/usr/bin/chromium-browser
+        export CHROMEDRIVER_BIN=/usr/bin/chromedriver
+        echo "CHROME_BIN=$CHROME_BIN" >> $GITHUB_ENV
+        echo "CHROMEDRIVER_BIN=$CHROMEDRIVER_BIN" >> $GITHUB_ENV
+    
+    - name: Install R packages
+      run: |
+        mkdir -p ${{ env.R_LIBS_USER }}
+        Rscript -e '
+          .libPaths(Sys.getenv("R_LIBS_USER"))
+          install.packages(c(
+            "tidyverse",
+            "ggimage",
+            "scales",
+            "httr",
+            "jsonlite",
+            "magick"
+          ), repos = "https://cloud.r-project.org")
+        '
+    
+    - name: Scrape KenPom stats
+      run: python scrape_kenpom_stats.py
+      env:
+        KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
+        KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
+    
+    - name: Scrape daily matchups
+      run: python scrape_daily_matchups.py
+      env:
+        KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
+        KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
+      continue-on-error: true
+    
+    - name: Fetch championship odds
+      run: python fetch_odds.py
+      env:
+        ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      continue-on-error: true
+    
+    - name: Generate daily matchups plot
+      run: Rscript daily_matchups_plot.R
+      env:
+        TZ: UTC
+        _R_CHECK_SYSTEM_CLOCK_: FALSE
+        NOT_CRAN: true
+      continue-on-error: true
+    
+    - name: Generate championship odds plot
+      run: Rscript march_madness_odds_plot.R
+      env:
+        TZ: UTC
+        _R_CHECK_SYSTEM_CLOCK_: FALSE
+        NOT_CRAN: true
+      continue-on-error: true
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add docs/plots/*.png championship_odds.csv daily_matchups*.csv || echo "No files to add"
+        git commit -m "Update daily plots and data ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))" || echo "No changes to commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
