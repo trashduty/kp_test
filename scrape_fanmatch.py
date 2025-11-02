@@ -111,7 +111,8 @@ try:
             
             for part in parts:
                 # Remove rankings (numbers or "NR") at the beginning using regex
-                # Pattern: ^(NR|\d+)\s+ means start with NR or digits followed by spaces
+                # Pattern: ^(NR|\d+)\s+ matches 'NR' or one or more digits at the start
+                # of the string followed by one or more whitespace characters, then removes them
                 part = part.strip()
                 part = re.sub(r'^(NR|\d+)\s+', '', part)
                 part = part.strip()
