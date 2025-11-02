@@ -115,4 +115,4 @@ p <- eff_stats_joined %>%
   scale_y_reverse(breaks = scales::pretty_breaks(n = 8))
 
 # Save the plot in docs directory for GitHub Pages
-ggsave('docs/mm_winner_plot.png', p, width = 14, height = 10, dpi = "retina")
+ggsave('docs/plots/mm_winner_plot.png', p, width = 14, height = 10, dpi = "retina")
