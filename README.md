@@ -28,6 +28,8 @@ docs/
 │   └── style.css       # Styling for the page
 └── plots/              # Plot images (automatically updated)
     ├── kenpom_top100_eff.png
+    ├── kenpom_ap25_eff.png
+    ├── march_madness_championship_odds.png
     └── conferences/
         ├── kenpom_acc_eff.png
         ├── kenpom_b10_eff.png
@@ -36,28 +38,43 @@ docs/
 
 ## 🔄 Automatic Updates
 
-The plots are automatically updated daily at 6:00 AM UTC via GitHub Actions:
+The plots are automatically updated daily via GitHub Actions:
 
-1. The workflow scrapes KenPom statistics
-2. Generates new plots using R
-3. Copies plots to both `plots/` and `docs/plots/` directories
-4. Commits and pushes the changes to the repository
-5. GitHub Pages automatically rebuilds and serves the updated plots
+### KenPom Plots (6:00 AM UTC)
+1. Scrapes KenPom statistics
+2. Scrapes AP Top 25 rankings
+3. Generates efficiency plots using R
+4. Commits and pushes the changes
+
+### March Madness Championship Odds (12:00 PM UTC)
+1. Scrapes KenPom statistics
+2. Fetches championship odds from The Odds API
+3. Generates March Madness contenders plot with odds overlay
+4. Commits and pushes the updated plot
 
 ## 🔗 Embedding Plots
 
 You can embed these plots on external websites:
 
-### HTML
+### Top 100 Plot
 ```html
 <img src="https://trashduty.github.io/kp_test/plots/kenpom_top100_eff.png" 
      alt="KenPom Top 100 Efficiency Plot" 
      style="max-width: 100%; height: auto;">
 ```
 
-### Markdown
-```markdown
-![KenPom Top 100](https://trashduty.github.io/kp_test/plots/kenpom_top100_eff.png)
+### AP Top 25 Plot
+```html
+<img src="https://trashduty.github.io/kp_test/plots/kenpom_ap25_eff.png" 
+     alt="AP Top 25 Efficiency Plot" 
+     style="max-width: 100%; height: auto;">
+```
+
+### March Madness Championship Odds Plot
+```html
+<img src="https://trashduty.github.io/kp_test/plots/march_madness_championship_odds.png" 
+     alt="March Madness Championship Odds" 
+     style="max-width: 100%; height: auto;">
 ```
 
 ### Conference Plots
@@ -75,9 +92,10 @@ You can embed these plots on external websites:
 
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 - **Auto-updating**: Plots refresh daily without manual intervention
-- **Clean Layout**: Organized by Top 100 and Conference sections
+- **Clean Layout**: Organized by Top 100, AP Top 25, March Madness, and Conference sections
 - **Easy Embedding**: Simple URLs for external use
 - **Lazy Loading**: Images load efficiently for better performance
+- **Championship Odds**: Integrated odds data from The Odds API for March Madness contenders
 
 ## 🛠️ Customization
 
@@ -87,9 +105,11 @@ To customize the appearance:
 2. Edit `docs/index.html` to modify layout or add/remove sections
 3. Commit and push changes - GitHub Pages will automatically rebuild
 
-## 📊 Data Source
+## 📊 Data Sources
 
-All data is sourced from [KenPom.com](https://kenpom.com), the leading college basketball analytics site.
+- **Efficiency Metrics**: [KenPom.com](https://kenpom.com) - the leading college basketball analytics site
+- **Championship Odds**: [The Odds API](https://the-odds-api.com) - real-time sports betting odds
+- **AP Rankings**: [ESPN](https://www.espn.com/mens-college-basketball/rankings) - AP Top 25 polls
 
 ## 📄 License
 
