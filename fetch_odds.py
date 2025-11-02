@@ -1,121 +1,90 @@
 import os
 import sys
-import json
 import pandas as pd
 import requests
 from datetime import datetime
+import pytz
+from rich.console import Console
+from rich.logging import RichHandler
+import logging
 from dotenv import load_dotenv
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(message)s",
+    datefmt="[%X]",
+    handlers=[RichHandler(rich_tracebacks=True)]
+)
+logger = logging.getLogger("rich")
+console = Console()
 
 # Load environment variables
 load_dotenv()
-API_KEY = os.getenv("ODDS_API_KEY")
 
-if not API_KEY:
-    print("❌ Missing ODDS_API_KEY in environment variables.")
-    sys.exit(1)
+def get_championship_odds():
+    """
+    Fetches championship odds from the OddsAPI using the correct endpoint
+    """
+    key = os.getenv("ODDS_API_KEY")
+    if not key:
+        logger.error("[red]✗[/red] ODDSAPI key not found in environment variables.")
+        raise ValueError("ODDSAPI key not found in environment variables.")
 
-# The Odds API configuration
-SPORT = "basketball_ncaab"
-REGIONS = "us"
-MARKETS = "outrights"  # Championship futures
-ODDS_FORMAT = "american"
+    base_url = "https://api.the-odds-api.com/v4/sports"
+    odds_url = f"{base_url}/basketball_ncaab_championship_winner/odds/?apiKey={key}&regions=us&oddsFormat=american"
 
-def fetch_championship_odds():
-    """Fetch NCAA Basketball championship odds from The Odds API."""
-    
-    url = f"https://api.the-odds-api.com/v4/sports/{SPORT}/odds"
-    
-    params = {
-        'api_key': API_KEY,
-        'regions': REGIONS,
-        'markets': MARKETS,
-        'oddsFormat': ODDS_FORMAT
-    }
-    
     try:
-        print(f"[1/3] Fetching championship odds from The Odds API...")
-        response = requests.get(url, params=params, timeout=30)
+        logger.info("[cyan]Fetching championship odds data...[/cyan]")
+        response = requests.get(odds_url)
         response.raise_for_status()
-        
         data = response.json()
         
-        # Check remaining requests
-        remaining_requests = response.headers.get('x-requests-remaining')
-        used_requests = response.headers.get('x-requests-used')
-        print(f"[INFO] API requests remaining: {remaining_requests}, used: {used_requests}")
-        
         if not data:
-            print("❌ No odds data received from API")
-            sys.exit(1)
-        
-        print(f"[2/3] Processing championship odds data...")
-        
-        # Process the data to extract championship odds
-        odds_list = []
-        
-        for event in data:
-            # Look for championship/outright markets
-            if 'bookmakers' in event:
-                for bookmaker in event['bookmakers']:
-                    if 'markets' in bookmaker:
-                        for market in bookmaker['markets']:
-                            if market['key'] == 'outrights':
-                                for outcome in market['outcomes']:
-                                    team_name = outcome['name']
-                                    odds = outcome['price']  # American odds format
-                                    
-                                    # Convert American odds to implied probability
-                                    if odds > 0:
-                                        implied_prob = 100 / (odds + 100) * 100
-                                    else:
-                                        implied_prob = abs(odds) / (abs(odds) + 100) * 100
-                                    
-                                    odds_list.append({
-                                        'Team': team_name,
-                                        'Bookmaker': bookmaker['title'],
-                                        'Odds': odds,
-                                        'ImpliedProbability': round(implied_prob, 2)
-                                    })
-        
-        if not odds_list:
-            print("❌ No championship odds found in the data")
-            sys.exit(1)
-        
-        # Create DataFrame and aggregate by team (take average across bookmakers)
-        df = pd.DataFrame(odds_list)
-        
-        # Group by team and calculate average implied probability
-        df_agg = df.groupby('Team').agg({
-            'ImpliedProbability': 'mean',
-            'Odds': 'first'  # Just take first bookmaker's odds for display
-        }).reset_index()
-        
-        df_agg['ImpliedProbability'] = df_agg['ImpliedProbability'].round(2)
-        df_agg = df_agg.sort_values('ImpliedProbability', ascending=False)
+            logger.error("[red]✗[/red] No odds data returned from API")
+            return pd.DataFrame()
+
+        # Process the championship odds data
+        odds_records = []
+        for bookmaker in data:
+            outcomes = bookmaker['bookmakers'][0]['markets'][0]['outcomes']
+            for outcome in outcomes:
+                odds_records.append({
+                    'Team': outcome['name'],
+                    'Odds': outcome['price']
+                })
+
+        odds_df = pd.DataFrame(odds_records)
         
         # Save to CSV
-        output_path = os.path.abspath("championship_odds.csv")
-        df_agg.to_csv(output_path, index=False)
+        odds_df.to_csv('championship_odds.csv', index=False)
+        logger.info(f"[green]✓[/green] Successfully saved championship odds for {len(odds_df)} teams")
         
-        print(f"[3/3] ✅ Championship odds saved to {output_path} ({len(df_agg)} teams)")
-        print(f"\nTop 10 championship favorites:")
-        print(df_agg.head(10).to_string(index=False))
-        
-        # Also save detailed data with all bookmakers
-        detailed_path = os.path.abspath("championship_odds_detailed.csv")
-        pd.DataFrame(odds_list).to_csv(detailed_path, index=False)
-        print(f"\n[INFO] Detailed odds (all bookmakers) saved to {detailed_path}")
-        
-        return df_agg
-        
-    except requests.RequestException as e:
-        print(f"❌ Error fetching odds data: {e}")
-        sys.exit(1)
-    except Exception as e:
-        print(f"❌ Error processing odds data: {e}")
-        import traceback
-        traceback.print_exc()
-        sys.exit(1)
+        return odds_df
+
+    except requests.exceptions.HTTPError as http_err:
+        logger.error(f"[red]✗[/red] HTTP error occurred: {http_err}")
+        return None
+    except Exception as err:
+        logger.error(f"[red]✗[/red] Error occurred: {err}")
+        return None
 
 if __name__ == "__main__":
-    fetch_championship_odds()
+    logger.info("=== Starting odds data fetch ===")
+    
+    try:
+        # Fetch championship odds
+        logger.info("[1/1] Fetching championship odds from The Odds API...")
+        championship_odds = get_championship_odds()
+        
+        if championship_odds is None:
+            logger.error("[red]✗[/red] Failed to fetch championship odds")
+            sys.exit(1)
+            
+        logger.info("[green]✓[/green] Successfully completed odds data fetch")
+        
+    except Exception as e:
+        logger.error(f"[red]✗[/red] Error in odds fetch script: {str(e)}")
+        sys.exit(1)
+        
+    logger.info("=== Odds data fetch completed successfully ===")
