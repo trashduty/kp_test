@@ -33,14 +33,27 @@ chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
 chrome_options.add_experimental_option("useAutomationExtension", False)
 
 # Initialize WebDriver
-# Try to use chromedriver from environment or default location
-chromedriver_path = os.getenv("CHROMEDRIVER_BIN", "/usr/bin/chromedriver")
-try:
-    service = Service(chromedriver_path)
-    driver = webdriver.Chrome(service=service, options=chrome_options)
-except Exception as e:
-    # Fallback to default behavior if service initialization fails
-    print(f"Warning: Could not initialize with service at {chromedriver_path}, trying default: {e}")
+# Try to use chromedriver from environment or common locations
+chromedriver_path = os.getenv("CHROMEDRIVER_BIN")
+if not chromedriver_path:
+    # Try common paths for chromedriver
+    common_paths = ["/usr/bin/chromedriver", "/usr/local/bin/chromedriver"]
+    for path in common_paths:
+        if os.path.exists(path):
+            chromedriver_path = path
+            break
+
+if chromedriver_path:
+    try:
+        service = Service(chromedriver_path)
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+        print(f"Using chromedriver at: {chromedriver_path}")
+    except Exception as e:
+        # Fallback to default behavior if service initialization fails
+        print(f"Warning: Could not initialize with service at {chromedriver_path}, trying default: {e}")
+        driver = webdriver.Chrome(options=chrome_options)
+else:
+    # Let selenium find chromedriver automatically
     driver = webdriver.Chrome(options=chrome_options)
 
 # Prevent Selenium detection
@@ -103,11 +116,16 @@ try:
     
     print(f"Using column '{matchup_col}' for matchup data")
     
+    # Validate that the column contains matchup-like data
+    sample_value = str(df[matchup_col].iloc[0]) if len(df) > 0 else ""
+    if not any(delimiter in sample_value for delimiter in [' vs ', ' @ ', ' vs. ', ' at ']):
+        print(f"Warning: First value in '{matchup_col}' doesn't appear to contain matchup data: {sample_value}")
+    
     for idx, row in df.iterrows():
         matchup_text = str(row[matchup_col])
         
-        # Skip header rows or invalid entries
-        if matchup_text in ['nan', 'NaN', 'None', ''] or 'Matchup' in matchup_text:
+        # Skip header rows or invalid entries using proper pandas methods
+        if pd.isna(row[matchup_col]) or matchup_text == '' or 'Matchup' in matchup_text:
             continue
         
         # Parse team names from matchup text
