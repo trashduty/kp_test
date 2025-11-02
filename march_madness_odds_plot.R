@@ -116,6 +116,9 @@ mean_DRtg <- mean(march_madness_teams$DRtg, na.rm = TRUE)
 # Current timestamp
 timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")
 
+# Define constants for plot positioning
+ODDS_TEXT_OFFSET <- -1.5  # Vertical offset for odds text above logos
+
 cat("\n🎨 Creating March Madness Championship Odds plot...\n")
 
 # Create the plot
@@ -132,7 +135,7 @@ p <- ggplot(march_madness_teams, aes(x = ORtg, y = DRtg)) +
   geom_image(aes(image = logo), size = 0.04, asp = 16/9) +
   # Add championship odds above logos (for teams that have odds)
   geom_text(data = march_madness_teams |> filter(!is.na(ImpliedProbability)),
-            aes(x = ORtg, y = DRtg - 1.5, 
+            aes(x = ORtg, y = DRtg + ODDS_TEXT_OFFSET, 
                 label = paste0(round(ImpliedProbability, 1), "%")),
             color = "darkblue",
             fontface = "bold",
