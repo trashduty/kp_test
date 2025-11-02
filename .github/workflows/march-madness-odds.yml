@@ -1,0 +1,106 @@
+name: March Madness Championship Odds Plot
+
+on:
+  workflow_dispatch:  # Manual trigger
+  schedule:
+    - cron: '0 12 * * *'  # Daily at 12:00 PM UTC
+
+permissions:
+  contents: write
+
+jobs:
+  generate-odds-plot:
+    runs-on: ubuntu-latest
+
+    env:
+      R_LIBS_USER: /home/runner/work/_temp/Library
+
+    steps:
+      - name: 🧾 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10.13'
+
+      - name: 📦 Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🔐 Set up environment variables
+        run: |
+          echo "KENPOM_USERNAME=${{ secrets.KENPOM_USERNAME }}" >> $GITHUB_ENV
+          echo "KENPOM_PASSWORD=${{ secrets.KENPOM_PASSWORD }}" >> $GITHUB_ENV
+          echo "ODDS_API_KEY=${{ secrets.ODDS_API_KEY }}" >> $GITHUB_ENV
+
+      - name: 🕷️ Scrape KenPom stats
+        run: python scrape_kenpom_stats.py
+
+      - name: 🎲 Fetch championship odds from OddsAPI
+        run: python fetch_odds.py
+
+      - name: 🧰 Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: '4.3.2'
+
+      - name: 🛠️ Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            libcurl4-openssl-dev \
+            libssl-dev \
+            libxml2-dev \
+            libfontconfig1-dev \
+            libfreetype6-dev \
+            libharfbuzz-dev \
+            libfribidi-dev \
+            libpng-dev \
+            libtiff5-dev \
+            libjpeg-dev \
+            libmagick++-dev \
+            imagemagick \
+            libmagickwand-dev \
+            librsvg2-dev \
+            libwebp-dev \
+            libzip-dev \
+            ghostscript \
+            gsfonts
+
+      - name: 🔧 Configure ImageMagick policy
+        run: |
+          sudo sed -i 's/rights="none" pattern="PDF"/rights="read|write" pattern="PDF"/' /etc/ImageMagick-6/policy.xml
+          sudo sed -i 's/rights="none" pattern="HTTPS"/rights="read|write" pattern="HTTPS"/' /etc/ImageMagick-6/policy.xml
+          sudo sed -i 's/rights="none" pattern="HTTP"/rights="read|write" pattern="HTTP"/' /etc/ImageMagick-6/policy.xml
+
+      - name: 📦 Install R packages
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
+        run: |
+          mkdir -p "$R_LIBS_USER"
+          Rscript -e '
+            .libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
+            options(repos = c(CRAN = "https://cloud.r-project.org"))
+            install.packages(c("tidyverse", "ggimage", "scales"), dependencies = TRUE)
+          '
+
+      - name: 📊 Generate March Madness Championship Odds plot
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
+        run: |
+          # Debug: List files in current directory
+          ls -la
+          # Run the R script
+          Rscript march_madness_odds_plot.R
+
+      - name: 💾 Commit files to repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add plots/march_madness_championship_odds.png docs/plots/march_madness_championship_odds.png championship_odds.csv championship_odds_detailed.csv kenpom_stats.csv
+          git commit -m "🏀 Update March Madness Championship Odds plot [skip ci]" || echo "No changes to commit"
+          git push

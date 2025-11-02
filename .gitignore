@@ -40,6 +40,7 @@ Thumbs.db
 *.tmp
 *_raw.csv
 /tmp/
+championship_odds_detailed.csv
 
 # R
 .Rhistory
