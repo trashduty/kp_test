@@ -1,6 +1,7 @@
 import os
 import sys
 import time
+import re
 import pandas as pd
 from datetime import datetime, timedelta
 from io import StringIO
@@ -90,6 +91,43 @@ try:
     final_path = os.path.join("kenpom-data", f"fanmatch-{tomorrow_str}.csv")
     df_cleaned.to_csv(final_path, index=False)
     print(f"[7/7] ✅ Cleaned CSV saved: {final_path} (Rows: {len(df_cleaned)})")
+
+    # Extract team names from Game column for daily matchups
+    print("\n[8/9] Extracting team names from Game column...")
+    teams = []
+    
+    if 'Game' in df_cleaned.columns:
+        for game in df_cleaned['Game']:
+            if pd.isna(game):
+                continue
+            
+            # Split by "vs." or "at" to get both teams
+            if ' vs. ' in game:
+                parts = game.split(' vs. ')
+            elif ' at ' in game:
+                parts = game.split(' at ')
+            else:
+                continue
+            
+            for part in parts:
+                # Remove rankings (numbers or "NR") at the beginning using regex
+                # Pattern: ^(NR|\d+)\s+ matches 'NR' or one or more digits at the start
+                # of the string followed by one or more whitespace characters, then removes them
+                part = part.strip()
+                part = re.sub(r'^(NR|\d+)\s+', '', part)
+                part = part.strip()
+                if part:
+                    teams.append(part)
+    
+    # Create DataFrame with unique teams
+    if teams:
+        matchups_df = pd.DataFrame({'Team': sorted(set(teams))})
+        matchups_path = "daily_matchups.csv"
+        matchups_df.to_csv(matchups_path, index=False)
+        print(f"[9/9] ✅ Daily matchups saved: {matchups_path} (Teams: {len(matchups_df)})")
+        print(f"\nExtracted teams: {', '.join(matchups_df['Team'].head(10).tolist())}...")
+    else:
+        print("[9/9] ⚠️ No teams extracted from Game column")
 
     # Print preview of games
     print("\nTomorrow's Games Preview:")

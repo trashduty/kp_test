@@ -90,6 +90,7 @@ cat(sprintf("\nMean ORtg (all teams): %.2f\n", mean_ORtg))
 cat(sprintf("Mean DRtg (all teams): %.2f\n", mean_DRtg))
 
 # Filter to only teams playing tomorrow and join with logos
+# Note: inner_join automatically filters out NR (non-ranked) teams that aren't in KenPom stats
 eff_stats_matchups <- eff_stats |>
   inner_join(daily_matchups, by = "Team") |>
   left_join(ncaa_teams, by = c("Team" = "current_team"))
