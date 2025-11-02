@@ -8,11 +8,13 @@ on:
 jobs:
   update-plot:
     runs-on: ubuntu-latest
-    env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    permissions: # Explicitly define permissions
+      contents: write
       
     steps:
     - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}  # Use the default token
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -47,28 +49,17 @@ jobs:
     
     - name: Install R packages
       run: |
-        # Create library directory
         mkdir -p ${{ env.R_LIBS_USER }}
-        
-        # Install packages with explicit library path
         Rscript -e '
-          # Set library path
           .libPaths(Sys.getenv("R_LIBS_USER"))
-          
-          # Install remotes first
-          install.packages("remotes", repos = "https://cloud.r-project.org")
-          
-          # Install required packages
           install.packages(c(
             "tidyverse",
+            "ggimage",
             "scales",
             "httr",
             "jsonlite",
             "magick"
           ), repos = "https://cloud.r-project.org")
-          
-          # Install ggimage from GitHub
-          remotes::install_github("GuangchuangYu/ggimage")
         '
     
     - name: Fetch championship odds
@@ -83,16 +74,12 @@ jobs:
         _R_CHECK_SYSTEM_CLOCK_: FALSE
         NOT_CRAN: true
     
-    - name: Upload plot as artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: march-madness-plot
-        path: mm_winner_plot.png
-    
     - name: Commit and push changes
       run: |
-        git config --local user.email "actions@github.com"
-        git config --local user.name "GitHub Actions"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
         git add championship_odds.csv mm_winner_plot.png
         git commit -m "Update March Madness plot and odds ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))" || echo "No changes to commit"
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
