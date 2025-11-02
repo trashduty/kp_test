@@ -42,27 +42,34 @@ jobs:
           libfreetype6-dev \
           libpng-dev \
           libtiff5-dev \
-          libjpeg-dev
+          libjpeg-dev \
+          libmagick++-dev
     
     - name: Install R packages
       run: |
-        # Force R to use the correct library path
+        # Create library directory
         mkdir -p ${{ env.R_LIBS_USER }}
-        echo ".libPaths('${{ env.R_LIBS_USER }}')" > .Rprofile
         
-        # Install required packages
+        # Install packages with explicit library path
         Rscript -e '
+          # Set library path
+          .libPaths(Sys.getenv("R_LIBS_USER"))
+          
+          # Install remotes first
+          install.packages("remotes", repos = "https://cloud.r-project.org")
+          
+          # Install required packages
           install.packages(c(
             "tidyverse",
-            "ggimage",
             "scales",
             "httr",
             "jsonlite",
             "magick"
-          ), 
-          repos = "https://cloud.r-project.org",
-          lib = Sys.getenv("R_LIBS_USER")
-        )'
+          ), repos = "https://cloud.r-project.org")
+          
+          # Install ggimage from GitHub
+          remotes::install_github("GuangchuangYu/ggimage")
+        '
     
     - name: Fetch championship odds
       run: python fetch_odds.py
