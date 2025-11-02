@@ -3,35 +3,45 @@ library(tidyverse)
 library(ggimage)
 library(ggplot2)
 library(readr)
+library(httr)
+library(jsonlite)
 
 # Load data and crosswalk
 eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE)
 ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE)
 crosswalk <- read_csv("2026 Crosswalk.csv", show_col_types = FALSE)
 
-# Function to get championship odds from the OddsAPI data
+# Function to get championship odds from the OddsAPI
 get_championship_odds <- function() {
-  odds_data <- read_csv("CBB_Output.csv", show_col_types = FALSE)
+  api_url <- "https://api.the-odds-api.com/v4/sports/basketball_ncaab_championship_winner/odds/"
+  response <- GET(api_url, 
+                 query = list(apiKey = "9c8e92e73335bb6a206e6b657f41cb13",
+                            regions = "us",
+                            oddsFormat = "american"))
   
-  # Filter for championship markets and get highest odds for each team
-  championship_odds <- odds_data %>%
-    filter(grepl("championship", tolower(Game))) %>%
-    group_by(Team) %>%
-    summarize(Odds = max(`Opening Moneyline`, na.rm = TRUE))
-  
-  # Join with crosswalk to convert API team names to KenPom names
-  championship_odds <- championship_odds %>%
-    left_join(crosswalk, by = c("Team" = "API")) %>%
-    select(kenpom, Odds)
-  
-  return(championship_odds)
+  if (status_code(response) == 200) {
+    data <- fromJSON(rawToChar(response$content))
+    odds_data <- data$bookmakers[[1]]$markets[[1]]$outcomes %>%
+      as.data.frame() %>%
+      select(name, price) %>%
+      rename(Team = name, Odds = price)
+    
+    # Join with crosswalk
+    odds_data <- odds_data %>%
+      left_join(crosswalk, by = c("Team" = "API")) %>%
+      select(kenpom, Odds)
+    
+    return(odds_data)
+  } else {
+    warning("Failed to fetch odds data")
+    return(data.frame(kenpom = character(), Odds = numeric()))
+  }
 }
 
-# Get current timestamp
-timestamp <- format(as.POSIXct("2025-11-02 01:48:49"), "%Y-%m-%d %H:%M:%S UTC")
+# Get current timestamp from provided date
+timestamp <- format(as.POSIXct("2025-11-02 01:58:04"), "%Y-%m-%d %H:%M:%S UTC")
 
 # Join datasets and filter for updated criteria
-# Using the ranks from columns following the first ORtg and DRtg columns
 eff_stats_joined <- eff_stats %>% 
   left_join(ncaa_teams, by = c("Team" = "Team")) %>% 
   filter(eff_stats[,7] < 68, eff_stats[,8] < 55)  # Using correct rank columns
