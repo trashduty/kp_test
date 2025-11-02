@@ -1,54 +1,30 @@
-# Load necessary libraries
+# Force R to use the correct library path set by GitHub Actions
+.libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
+
+# Load libraries
 library(tidyverse)
 library(ggimage)
-library(ggplot2)
-library(readr)
+library(scales)
 library(httr)
 library(jsonlite)
+
+# Get current timestamp
+timestamp <- format(as.POSIXct("2025-11-02 02:49:49"), "%Y-%m-%d %H:%M:%S UTC")
 
 # Load data and crosswalk
 eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE)
 ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE)
 crosswalk <- read_csv("2026 Crosswalk.csv", show_col_types = FALSE)
 
-# Function to get championship odds from the OddsAPI
-get_championship_odds <- function() {
-  api_url <- "https://api.the-odds-api.com/v4/sports/basketball_ncaab_championship_winner/odds/"
-  response <- GET(api_url, 
-                 query = list(apiKey = "9c8e92e73335bb6a206e6b657f41cb13",
-                            regions = "us",
-                            oddsFormat = "american"))
-  
-  if (status_code(response) == 200) {
-    data <- fromJSON(rawToChar(response$content))
-    odds_data <- data$bookmakers[[1]]$markets[[1]]$outcomes %>%
-      as.data.frame() %>%
-      select(name, price) %>%
-      rename(Team = name, Odds = price)
-    
-    # Join with crosswalk
-    odds_data <- odds_data %>%
-      left_join(crosswalk, by = c("Team" = "API")) %>%
-      select(kenpom, Odds)
-    
-    return(odds_data)
-  } else {
-    warning("Failed to fetch odds data")
-    return(data.frame(kenpom = character(), Odds = numeric()))
-  }
-}
-
-# Get current timestamp from provided date
-timestamp <- format(as.POSIXct("2025-11-02 01:58:04"), "%Y-%m-%d %H:%M:%S UTC")
+# Load championship odds
+championship_odds <- read_csv("championship_odds.csv", show_col_types = FALSE) %>%
+  left_join(crosswalk, by = c("Team" = "API")) %>%
+  select(kenpom, Odds)
 
 # Join datasets and filter for updated criteria
 eff_stats_joined <- eff_stats %>% 
   left_join(ncaa_teams, by = c("Team" = "Team")) %>% 
-  filter(eff_stats[,7] < 68, eff_stats[,8] < 55)  # Using correct rank columns
-
-# Get championship odds and join with filtered data
-championship_odds <- get_championship_odds()
-eff_stats_joined <- eff_stats_joined %>%
+  filter(eff_stats[,7] < 68, eff_stats[,8] < 55) %>%  # Using correct rank columns
   left_join(championship_odds, by = c("Team" = "kenpom"))
 
 # Create the plot
