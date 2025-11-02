@@ -7,6 +7,7 @@ from io import StringIO
 from dotenv import load_dotenv
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
@@ -32,7 +33,15 @@ chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
 chrome_options.add_experimental_option("useAutomationExtension", False)
 
 # Initialize WebDriver
-driver = webdriver.Chrome(options=chrome_options)
+# Try to use chromedriver from environment or default location
+chromedriver_path = os.getenv("CHROMEDRIVER_BIN", "/usr/bin/chromedriver")
+try:
+    service = Service(chromedriver_path)
+    driver = webdriver.Chrome(service=service, options=chrome_options)
+except Exception as e:
+    # Fallback to default behavior if service initialization fails
+    print(f"Warning: Could not initialize with service at {chromedriver_path}, trying default: {e}")
+    driver = webdriver.Chrome(options=chrome_options)
 
 # Prevent Selenium detection
 driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
