@@ -1,178 +1,78 @@
-# Force R to use the correct library path set by GitHub Actions
-.libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
-
-# Load libraries
+# Load necessary libraries
 library(tidyverse)
 library(ggimage)
-library(scales)
+library(ggplot2)
+library(readr)
 
-cat("🔎 .libPaths():\n")
-print(.libPaths())
+# Load data and crosswalk
+eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE)
+ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE)
+crosswalk <- read_csv("2026 Crosswalk.csv", show_col_types = FALSE)
 
-# Load KenPom data
-eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
-  rename(
-    ORtg = `ORtg...6`,
-    ORtg_rank = `ORtg...7`,
-    DRtg = `DRtg...8`,
-    DRtg_rank = `DRtg...9`,
-    AdjT = `AdjT...10`,
-    AdjT_rank = `AdjT...11`,
-    Luck = `Luck...12`,
-    Luck_rank = `Luck...13`
-  )
-
-# Load NCAA teams data for logos
-ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |>
-  distinct(current_team, .keep_all = TRUE)
-
-# Load championship odds
-championship_odds <- tryCatch({
-  read_csv("championship_odds.csv", show_col_types = FALSE)
-}, error = function(e) {
-  cat("⚠️  Warning: Could not load championship_odds.csv\n")
-  print(e)
-  NULL
-})
-
-# Load team name crosswalk
-crosswalk <- tryCatch({
-  read_csv("team_name_crosswalk.csv", show_col_types = FALSE)
-}, error = function(e) {
-  cat("⚠️  Warning: Could not load team_name_crosswalk.csv\n")
-  print(e)
-  NULL
-})
-
-if (is.null(championship_odds)) {
-  cat("❌ Cannot create March Madness plot without championship odds data\n")
-  quit(status = 1)
+# Function to get championship odds from the OddsAPI data
+get_championship_odds <- function() {
+  odds_data <- read_csv("CBB_Output.csv", show_col_types = FALSE)
+  
+  # Filter for championship markets and get highest odds for each team
+  championship_odds <- odds_data %>%
+    filter(grepl("championship", tolower(Game))) %>%
+    group_by(Team) %>%
+    summarize(Odds = max(`Opening Moneyline`, na.rm = TRUE))
+  
+  # Join with crosswalk to convert API team names to KenPom names
+  championship_odds <- championship_odds %>%
+    left_join(crosswalk, by = c("Team" = "API")) %>%
+    select(kenpom, Odds)
+  
+  return(championship_odds)
 }
 
-cat("\n📊 Championship Odds Data:\n")
-print(head(championship_odds, 10))
+# Get current timestamp
+timestamp <- format(as.POSIXct("2025-11-02 01:48:49"), "%Y-%m-%d %H:%M:%S UTC")
 
-# If crosswalk exists, standardize OddsAPI team names to KenPom format
-if (!is.null(crosswalk)) {
-  cat("\n🔄 Applying team name crosswalk...\n")
-  
-  # Create a lookup vector from the crosswalk
-  name_lookup <- setNames(crosswalk$KenPom_Name, crosswalk$OddsAPI_Name)
-  
-  # Apply the crosswalk to championship odds
-  championship_odds <- championship_odds |>
-    mutate(
-      Team_Original = Team,
-      Team = ifelse(Team %in% names(name_lookup), 
-                   name_lookup[Team], 
-                   Team)
-    )
-  
-  cat("\n✅ Crosswalk applied. Sample mappings:\n")
-  print(championship_odds |> 
-        filter(Team_Original != Team) |> 
-        select(Team_Original, Team) |> 
-        head(10))
-}
+# Join datasets and filter for updated criteria
+# Using the ranks from columns following the first ORtg and DRtg columns
+eff_stats_joined <- eff_stats %>% 
+  left_join(ncaa_teams, by = c("Team" = "Team")) %>% 
+  filter(eff_stats[,7] < 68, eff_stats[,8] < 55)  # Using correct rank columns
 
-# Filter teams based on ORtg_rank and DRtg_rank
-# Select top teams (e.g., top 50 in both offensive and defensive efficiency)
-# This creates a March Madness contender plot
-ORTG_RANK_THRESHOLD <- 75
-DRTG_RANK_THRESHOLD <- 75
-
-cat(sprintf("\n🎯 Filtering teams with ORtg_rank <= %d AND DRtg_rank <= %d\n", 
-            ORTG_RANK_THRESHOLD, DRTG_RANK_THRESHOLD))
-
-march_madness_teams <- eff_stats |>
-  filter(ORtg_rank <= ORTG_RANK_THRESHOLD & DRtg_rank <= DRTG_RANK_THRESHOLD) |>
-  left_join(ncaa_teams, by = c("Team" = "current_team"))
-
-cat(sprintf("\n✅ Filtered to %d teams\n", nrow(march_madness_teams)))
-
-# Join with championship odds
-march_madness_teams <- march_madness_teams |>
-  left_join(championship_odds |> select(Team, ImpliedProbability), 
-            by = "Team")
-
-# Debug: Show teams with and without odds
-teams_with_odds <- march_madness_teams |> 
-  filter(!is.na(ImpliedProbability))
-teams_without_odds <- march_madness_teams |> 
-  filter(is.na(ImpliedProbability))
-
-cat(sprintf("\n📈 Teams with championship odds: %d\n", nrow(teams_with_odds)))
-cat(sprintf("⚠️  Teams without championship odds: %d\n", nrow(teams_without_odds)))
-
-if (nrow(teams_without_odds) > 0) {
-  cat("\nTeams missing odds:\n")
-  print(teams_without_odds$Team)
-}
-
-# Calculate means using the filtered dataset
-mean_ORtg <- mean(march_madness_teams$ORtg, na.rm = TRUE)
-mean_DRtg <- mean(march_madness_teams$DRtg, na.rm = TRUE)
-
-# Current timestamp
-timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")
-
-# Define constants for plot positioning
-ODDS_TEXT_OFFSET <- -1.5  # Vertical offset for odds text above logos
-
-cat("\n🎨 Creating March Madness Championship Odds plot...\n")
+# Get championship odds and join with filtered data
+championship_odds <- get_championship_odds()
+eff_stats_joined <- eff_stats_joined %>%
+  left_join(championship_odds, by = c("Team" = "kenpom"))
 
 # Create the plot
-p <- ggplot(march_madness_teams, aes(x = ORtg, y = DRtg)) +
-  # Add quadrant backgrounds
-  annotate("rect", xmin = mean_ORtg, xmax = Inf, ymin = -Inf, ymax = mean_DRtg, 
-           alpha = 0.1, fill = "green") +
-  annotate("rect", xmin = -Inf, xmax = mean_ORtg, ymin = mean_DRtg, ymax = Inf, 
-           alpha = 0.1, fill = "red") +
-  # Add mean lines
-  geom_hline(yintercept = mean_DRtg, linetype = "dashed") +
-  geom_vline(xintercept = mean_ORtg, linetype = "dashed") +
+p <- eff_stats_joined %>% 
+  ggplot(aes(x = eff_stats[,7], y = eff_stats[,8])) +  # Using correct rank columns
+  # Add solid green vertical line from (57, top) to (57, 44)
+  geom_segment(aes(x = 57, xend = 57, y = min(eff_stats[,8]), yend = 44), 
+               color = "green", size = 1.5) +
+  # Add solid green horizontal line from (left, 44) to (57, 44)
+  geom_segment(aes(x = min(eff_stats[,7]), xend = 57, y = 44, yend = 44), 
+               color = "green", size = 1.5) +
+  # Add red dashed vertical line from (21, top) to (21, 44)
+  geom_segment(aes(x = 21, xend = 21, y = min(eff_stats[,8]), yend = 44), 
+               color = "red", linetype = "dashed", size = 1.5) +
   # Add team logos
-  geom_image(aes(image = logo), size = 0.04, asp = 16/9) +
-  # Add championship odds above logos (for teams that have odds)
-  geom_text(data = march_madness_teams |> filter(!is.na(ImpliedProbability)),
-            aes(x = ORtg, y = DRtg + ODDS_TEXT_OFFSET, 
-                label = paste0(round(ImpliedProbability, 1), "%")),
-            color = "darkblue",
-            fontface = "bold",
-            size = 3.5,
-            vjust = 1.2) +
-  # Styling
+  geom_image(aes(image = logo), size = 0.05, asp = 16/9) +
+  # Add championship odds as text above logos
+  geom_text(aes(label = Odds), hjust = 0.5, vjust = 0.8, size = 3, color = "red") +
   theme_bw() +
+  labs(
+    x = "Offensive Efficiency Rank",
+    y = "Defensive Efficiency Rank",
+    title = "2026 March Madness Winner Watch List",
+    subtitle = "Using data from kenpom.com",
+    caption = timestamp  # Add timestamp
+  ) +
   theme(
     plot.title = element_text(size = 25, face = "bold", hjust = 0.5),
-    plot.subtitle = element_text(hjust = 0.5, size = 12),
+    plot.subtitle = element_text(hjust = 0.5),
     axis.title = element_text(size = 25),
-    plot.caption = element_text(size = 10, hjust = 1)
+    plot.caption = element_text(size = 10, hjust = 1)  # Right-aligned timestamp
   ) +
-  scale_x_continuous(breaks = pretty_breaks(n = 6)) +
-  scale_y_reverse(breaks = pretty_breaks(n = 6)) +
-  labs(
-    x = "Adjusted Offensive Efficiency",
-    y = "Adjusted Defensive Efficiency",
-    title = "March Madness Championship Contenders",
-    subtitle = "Championship odds shown above team logos | Data from KenPom.com & The Odds API",
-    caption = timestamp
-  )
+  scale_x_reverse(breaks = scales::pretty_breaks(n = 6)) +  # Reversed for rankings
+  scale_y_reverse(breaks = scales::pretty_breaks(n = 8))  # Reversed for rankings
 
 # Save the plot
-output_dir <- "plots"
-dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
-
-output_path <- file.path(output_dir, "march_madness_championship_odds.png")
-ggsave(output_path, plot = p, width = 14, height = 10, dpi = "retina")
-
-cat(sprintf("\n✅ Plot saved to %s\n", output_path))
-
-# Also copy to docs/plots for GitHub Pages
-docs_output_dir <- "docs/plots"
-dir.create(docs_output_dir, showWarnings = FALSE, recursive = TRUE)
-
-docs_output_path <- file.path(docs_output_dir, "march_madness_championship_odds.png")
-file.copy(output_path, docs_output_path, overwrite = TRUE)
-
-cat(sprintf("✅ Plot copied to %s\n", docs_output_path))
+ggsave('mm_winner_plot.png', p, width = 14, height = 10, dpi = "retina")
