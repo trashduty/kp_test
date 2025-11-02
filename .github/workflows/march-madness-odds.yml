@@ -8,13 +8,13 @@ on:
 jobs:
   update-plot:
     runs-on: ubuntu-latest
-    permissions: # Explicitly define permissions
+    permissions:
       contents: write
       
     steps:
     - uses: actions/checkout@v3
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}  # Use the default token
+        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -78,7 +78,7 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add championship_odds.csv mm_winner_plot.png
+        git add championship_odds.csv docs/mm_winner_plot.png
         git commit -m "Update March Madness plot and odds ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))" || echo "No changes to commit"
         git push
       env:
