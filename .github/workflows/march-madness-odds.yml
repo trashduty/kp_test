@@ -101,6 +101,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add plots/march_madness_championship_odds.png docs/plots/march_madness_championship_odds.png championship_odds.csv championship_odds_detailed.csv kenpom_stats.csv
+          git add plots/march_madness_championship_odds.png docs/plots/march_madness_championship_odds.png championship_odds.csv kenpom_stats.csv
           git commit -m "🏀 Update March Madness Championship Odds plot [skip ci]" || echo "No changes to commit"
           git push
