@@ -85,26 +85,33 @@ try:
     # Check what column contains the matchup information
     matchup_col = None
     for col in df.columns:
-        if 'matchup' in col.lower() or df.columns[0]:  # Usually first column
+        if 'matchup' in col.lower():
             matchup_col = col
             break
     
     if matchup_col is None:
         matchup_col = df.columns[0]  # Default to first column
     
+    print(f"Using column '{matchup_col}' for matchup data")
+    
     for idx, row in df.iterrows():
         matchup_text = str(row[matchup_col])
         
+        # Skip header rows or invalid entries
+        if matchup_text in ['nan', 'NaN', 'None', ''] or 'Matchup' in matchup_text:
+            continue
+        
         # Parse team names from matchup text
-        # Common formats: "Team1 vs Team2", "Team1 @ Team2", "Team1 Team2"
-        if ' vs ' in matchup_text.lower():
+        # Common formats: "Team1 vs Team2", "Team1 @ Team2", "Team1 vs. Team2"
+        teams = []
+        if ' vs. ' in matchup_text:
+            teams = matchup_text.split(' vs. ')
+        elif ' vs ' in matchup_text:
             teams = matchup_text.split(' vs ')
         elif ' @ ' in matchup_text:
             teams = matchup_text.split(' @ ')
-        else:
-            # Try to parse other formats
-            # For now, just store the whole matchup text
-            teams = [matchup_text, '']
+        elif ' at ' in matchup_text:
+            teams = matchup_text.split(' at ')
         
         if len(teams) >= 2:
             matchups.append({
@@ -112,6 +119,16 @@ try:
                 'team2': teams[1].strip(),
                 'matchup': matchup_text
             })
+        else:
+            # If no delimiter found, try to use the whole text as a single team
+            # This might happen if table structure is different
+            if matchup_text.strip():
+                print(f"Warning: Could not parse matchup format: {matchup_text}")
+                matchups.append({
+                    'team1': matchup_text.strip(),
+                    'team2': '',
+                    'matchup': matchup_text
+                })
     
     # Create DataFrame with matchups
     matchups_df = pd.DataFrame(matchups)
@@ -122,10 +139,12 @@ try:
         all_teams = pd.concat([matchups_df['team1'], matchups_df['team2']]).unique().tolist()
         all_teams = [t for t in all_teams if t and t != '']
     
+    print(f"\nExtracted {len(all_teams)} unique teams from {len(matchups_df)} matchups")
+    
     # Create a simple CSV with teams playing tomorrow
     teams_df = pd.DataFrame({'Team': all_teams})
     
-    # Save to CSV
+    # Save to CSV (even if empty, so the R script doesn't error)
     final_path = os.path.abspath("daily_matchups.csv")
     teams_df.to_csv(final_path, index=False)
     print(f"[5/5] ✅ Daily matchups saved: {final_path} ({len(teams_df)} teams)")
@@ -134,6 +153,9 @@ try:
     matchups_path = os.path.abspath("daily_matchups_full.csv")
     matchups_df.to_csv(matchups_path, index=False)
     print(f"[5/5] ✅ Full matchup details saved: {matchups_path} ({len(matchups_df)} matchups)")
+    
+    if len(teams_df) == 0:
+        print("\n⚠️ Warning: No teams found in matchups. This might indicate the page structure has changed.")
 
 except Exception as e:
     print(f"❌ Error: {e}")
