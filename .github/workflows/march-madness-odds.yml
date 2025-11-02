@@ -8,7 +8,9 @@ on:
 jobs:
   update-plot:
     runs-on: ubuntu-latest
-    
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      
     steps:
     - uses: actions/checkout@v3
     
@@ -27,9 +29,40 @@ jobs:
       with:
         r-version: '4.x'
     
-    - name: Install required R packages
+    - name: Install system dependencies
       run: |
-        Rscript -e 'install.packages(c("tidyverse", "ggimage", "scales", "httr", "jsonlite"), repos="https://cloud.r-project.org")'
+        sudo apt-get update
+        sudo apt-get install -y --no-install-recommends \
+          libcurl4-openssl-dev \
+          libssl-dev \
+          libxml2-dev \
+          libfontconfig1-dev \
+          libharfbuzz-dev \
+          libfribidi-dev \
+          libfreetype6-dev \
+          libpng-dev \
+          libtiff5-dev \
+          libjpeg-dev
+    
+    - name: Install R packages
+      run: |
+        # Force R to use the correct library path
+        mkdir -p ${{ env.R_LIBS_USER }}
+        echo ".libPaths('${{ env.R_LIBS_USER }}')" > .Rprofile
+        
+        # Install required packages
+        Rscript -e '
+          install.packages(c(
+            "tidyverse",
+            "ggimage",
+            "scales",
+            "httr",
+            "jsonlite",
+            "magick"
+          ), 
+          repos = "https://cloud.r-project.org",
+          lib = Sys.getenv("R_LIBS_USER")
+        )'
     
     - name: Fetch championship odds
       run: python fetch_odds.py
@@ -38,6 +71,10 @@ jobs:
     
     - name: Generate plot
       run: Rscript march_madness_odds_plot.R
+      env:
+        TZ: UTC
+        _R_CHECK_SYSTEM_CLOCK_: FALSE
+        NOT_CRAN: true
     
     - name: Upload plot as artifact
       uses: actions/upload-artifact@v4
