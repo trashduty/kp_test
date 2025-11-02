@@ -9,7 +9,10 @@ library(httr)
 library(jsonlite)
 
 # Set timestamp
-timestamp <- "2025-11-02 05:30:36 UTC"
+timestamp <- "2025-11-02 06:46:22 UTC"
+
+# Create docs directory if it doesn't exist
+dir.create("docs", showWarnings = FALSE)
 
 # Load data frames and immediately print their column names
 cat("\n=== Loading kenpom_stats.csv ===\n")
@@ -50,17 +53,20 @@ championship_odds <- championship_odds %>%
   left_join(crosswalk, by = c("Team" = "API")) %>%
   select(kenpom, Odds)
 
-cat("\n=== Processed championship odds data ===\n")
-print(head(championship_odds))
-
 # Join datasets and filter for updated criteria
 eff_stats_joined <- eff_stats %>% 
   filter(ORtg_rank < 68, DRtg_rank < 55) %>%
   left_join(ncaa_teams, by = c("Team" = "current_team")) %>%
   left_join(championship_odds, by = c("Team" = "kenpom"))
 
-cat("\n=== Joined data preview ===\n")
-print(head(select(eff_stats_joined, Team, ORtg_rank, DRtg_rank, logo, Odds)))
+# Calculate text positions - move text below logos
+text_offset <- 3  # Adjust this value to control how far below the logos the text appears
+eff_stats_joined <- eff_stats_joined %>%
+  mutate(
+    text_y = DRtg_rank + text_offset,  # Position text below logos
+    segment_xend = ORtg_rank,  # Line will be vertical
+    segment_yend = DRtg_rank + (text_offset * 0.8)  # Line ends just before text
+  )
 
 # Create the plot
 p <- eff_stats_joined %>% 
@@ -74,10 +80,23 @@ p <- eff_stats_joined %>%
   # Add red dashed vertical line from (21, top) to (21, 44)
   geom_segment(aes(x = 21, xend = 21, y = min(eff_stats$DRtg_rank), yend = 44), 
                color = "red", linetype = "dashed", size = 1.5) +
+  # Add connecting lines from logos to text
+  geom_segment(
+    aes(xend = segment_xend, yend = segment_yend),
+    color = "gray50",
+    size = 0.5
+  ) +
   # Add team logos
   geom_image(aes(image = logo), size = 0.05, asp = 16/9) +
-  # Add championship odds as text above logos
-  geom_text(aes(label = Odds), hjust = 0.5, vjust = 0.8, size = 3, color = "red") +
+  # Add championship odds as text below logos with connecting lines
+  geom_text(
+    aes(y = text_y, label = Odds),
+    size = 5,  # Increased text size
+    fontface = "bold",
+    color = "black",
+    bg.color = "white",  # Add white background to text
+    bg.r = 0.2  # Control the size of the background
+  ) +
   theme_bw() +
   labs(
     x = "Offensive Efficiency Rank",
@@ -95,5 +114,5 @@ p <- eff_stats_joined %>%
   scale_x_reverse(breaks = scales::pretty_breaks(n = 6)) +
   scale_y_reverse(breaks = scales::pretty_breaks(n = 8))
 
-# Save the plot
-ggsave('mm_winner_plot.png', p, width = 14, height = 10, dpi = "retina")
+# Save the plot in docs directory for GitHub Pages
+ggsave('docs/mm_winner_plot.png', p, width = 14, height = 10, dpi = "retina")
