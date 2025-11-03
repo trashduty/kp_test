@@ -6,48 +6,19 @@ library(tidyverse)
 library(ggimage)
 library(scales)
 
-cat("🔎 .libPaths():\n")
-print(.libPaths())
+# Get tomorrow's date in different formats
+tomorrow <- Sys.Date() + 1
+tomorrow_str <- format(tomorrow, "%Y-%m-%d")
+tomorrow_formatted <- format(tomorrow, "%B %d, %Y")  # Month Day, Year format
 
-# Function to standardize team names
-standardize_team_name <- function(name) {
-  # Create a mapping of variations to standard names
-  name_mapping <- c(
-    "Iowa State" = "Iowa St.",
-    "St. John's" = "St. John's",
-    "UConn" = "Connecticut",
-    "Florida St." = "Florida State",
-    "Michigan State" = "Michigan St.",
-    "Mississippi St." = "Mississippi State",
-    "Kansas St." = "Kansas State",
-    "NC State" = "N.C. State",
-    "TCU" = "Texas Christian",
-    "San Diego St." = "San Diego State",
-    "Arizona St." = "Arizona State",
-    "Boise St." = "Boise State",
-    "Ohio St." = "Ohio State",
-    "Utah St." = "Utah State",
-    "LSU" = "Louisiana State",
-    "UCF" = "Central Florida",
-    "SMU" = "Southern Methodist",
-    "USC" = "Southern California",
-    "UNLV" = "Nevada Las Vegas",
-    "BYU" = "BYU",
-    "UNC" = "North Carolina",
-    "VCU" = "Virginia Commonwealth",
-    "UAB" = "Alabama Birmingham",
-    "Ole Miss" = "Mississippi",
-    "UMass" = "Massachusetts"
-  )
-  
-  # Look up the standardized name, if not found, return original
-  ifelse(name %in% names(name_mapping), 
-         name_mapping[name], 
-         name)
-}
+# Set timestamp
+timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")
 
-# Load KenPom data for all teams (for calculating means)
-eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
+# Create docs/plots directory if it doesn't exist
+dir.create("docs/plots", recursive = TRUE, showWarnings = FALSE)
+
+# Load and prepare KenPom stats (all teams for calculating means)
+eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) %>%
   rename(
     ORtg = `ORtg...6`,
     ORtg_rank = `ORtg...7`,
@@ -59,85 +30,79 @@ eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
     Luck_rank = `Luck...13`
   )
 
-# Load NCAA teams data for logos
-ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |>
-  distinct(current_team, .keep_all = TRUE)
-
-# Load daily matchups (teams playing tomorrow)
-daily_matchups <- tryCatch({
-  read_csv("daily_matchups.csv", show_col_types = FALSE)
-}, error = function(e) {
-  cat("⚠️ No daily_matchups.csv found. Creating empty dataframe.\n")
-  data.frame(Team = character(0))
-})
-
-# Standardize team names in matchups to match KenPom format
-if (nrow(daily_matchups) > 0) {
-  daily_matchups <- daily_matchups |>
-    mutate(Team = sapply(Team, standardize_team_name))
-}
-
-cat(sprintf("\nFound %d teams playing tomorrow:\n", nrow(daily_matchups)))
-if (nrow(daily_matchups) > 0) {
-  print(daily_matchups$Team)
-}
-
-# Calculate means using ALL teams in KenPom data
+# Calculate means using ALL teams
 mean_ORtg <- mean(eff_stats$ORtg, na.rm = TRUE)
 mean_DRtg <- mean(eff_stats$DRtg, na.rm = TRUE)
 
-cat(sprintf("\nMean ORtg (all teams): %.2f\n", mean_ORtg))
-cat(sprintf("Mean DRtg (all teams): %.2f\n", mean_DRtg))
+cat("\nMean ORtg (all teams):", mean_ORtg, "\n")
+cat("Mean DRtg (all teams):", mean_DRtg, "\n")
 
-# Filter to only teams playing tomorrow and join with logos
-# Note: inner_join automatically filters out NR (non-ranked) teams that aren't in KenPom stats
-eff_stats_matchups <- eff_stats |>
-  inner_join(daily_matchups, by = "Team") |>
+# Load NCAA teams data for logos
+ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE)
+
+# Load matchups data
+if (file.exists("daily_matchups.csv")) {
+  matchups <- read_csv("daily_matchups.csv", show_col_types = FALSE)
+  # Get all teams playing tomorrow (excluding NR teams)
+  teams_playing <- c(matchups$Team1, matchups$Team2) %>%
+    unique() %>%
+    .[!grepl("^NR ", .)]  # Remove teams starting with "NR"
+} else {
+  warning("⚠️ No daily_matchups.csv found. Creating empty dataframe.")
+  teams_playing <- character(0)
+}
+
+cat("\nFound", length(teams_playing), "teams playing tomorrow:\n")
+print(teams_playing)
+
+# Filter stats for teams playing tomorrow and join with logos
+matchup_stats <- eff_stats %>%
+  filter(Team %in% teams_playing) %>%
   left_join(ncaa_teams, by = c("Team" = "current_team"))
 
-cat(sprintf("\nSuccessfully matched %d teams with stats and logos\n", nrow(eff_stats_matchups)))
+cat("\nSuccessfully matched", nrow(matchup_stats), "teams with stats and logos\n")
 
-# Only create plot if we have matchup data
-if (nrow(eff_stats_matchups) > 0) {
-  # Current timestamp
-  timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")
-  
+if (nrow(matchup_stats) > 0) {
   # Create the plot
-  p <- ggplot(eff_stats_matchups, aes(x = ORtg, y = DRtg)) +
-    # Add quadrant shading using all teams' means
-    annotate("rect", xmin = mean_ORtg, xmax = Inf, ymin = -Inf, ymax = mean_DRtg, 
+  p <- ggplot() +
+    # Add quadrant shading based on all teams' means
+    annotate("rect", xmin = mean_ORtg, xmax = max(eff_stats$ORtg), 
+             ymin = min(eff_stats$DRtg), ymax = mean_DRtg,
              alpha = 0.1, fill = "green") +
-    annotate("rect", xmin = -Inf, xmax = mean_ORtg, ymin = mean_DRtg, ymax = Inf, 
+    annotate("rect", xmin = min(eff_stats$ORtg), xmax = mean_ORtg, 
+             ymin = mean_DRtg, ymax = max(eff_stats$DRtg),
              alpha = 0.1, fill = "red") +
+    # Add reference lines at means
     geom_hline(yintercept = mean_DRtg, linetype = "dashed") +
     geom_vline(xintercept = mean_ORtg, linetype = "dashed") +
-    geom_image(aes(image = logo), size = 0.04, asp = 16/9) +
+    # Add team logos only for teams playing tomorrow
+    geom_image(data = matchup_stats, 
+              aes(x = ORtg, y = DRtg, image = logo), 
+              size = 0.05, asp = 16/9) +
+    # Set plot limits based on all teams' data
+    scale_x_continuous(limits = c(min(eff_stats$ORtg), max(eff_stats$ORtg)),
+                       breaks = pretty_breaks(n = 6)) +
+    scale_y_reverse(limits = c(max(eff_stats$DRtg), min(eff_stats$DRtg)),
+                    breaks = pretty_breaks(n = 8)) +
     theme_bw() +
-    theme(
-      plot.title = element_text(size = 25, face = "bold", hjust = 0.5),
-      plot.subtitle = element_text(hjust = 0.5),
-      axis.title = element_text(size = 25),
-      plot.caption = element_text(size = 10, hjust = 1)
-    ) +
-    scale_x_continuous(breaks = pretty_breaks(n = 6)) +
-    scale_y_reverse(breaks = pretty_breaks(n = 6)) +
     labs(
       x = "Adjusted Offensive Efficiency",
       y = "Adjusted Defensive Efficiency",
-      title = "Tomorrow's College Basketball Matchups",
-      subtitle = "Using data from kenpom.com",
+      title = paste("College Basketball Matchups For", tomorrow_formatted),
+      subtitle = paste(length(teams_playing), "Teams Playing"),
       caption = timestamp
+    ) +
+    theme(
+      plot.title = element_text(size = 25, face = "bold", hjust = 0.5),
+      plot.subtitle = element_text(size = 18, hjust = 0.5),
+      axis.title = element_text(size = 16),
+      plot.caption = element_text(size = 10, hjust = 1)
     )
-  
-  # Create docs/plots directory if it doesn't exist
-  dir.create("docs/plots", showWarnings = FALSE, recursive = TRUE)
-  
-  # Save plot with date in filename
-  date_str <- format(Sys.time(), "%Y-%m-%d")
-  filename <- sprintf("docs/plots/daily_matchups_%s.png", date_str)
-  ggsave(filename, plot = p, width = 14, height = 10, dpi = "retina")
-  
-  cat(sprintf("\n✅ Plot saved to: %s\n", filename))
+
+  # Save the plot
+  output_file <- file.path("docs", "plots", paste0("daily_matchups_", tomorrow_str, ".png"))
+  ggsave(output_file, p, width = 14, height = 10, dpi = "retina")
+  cat("\nPlot saved to:", output_file, "\n")
 } else {
-  cat("\n⚠️ No teams with matchup data found. Skipping plot generation.\n")
+  warning("⚠️ No teams with matchup data found. Skipping plot generation.")
 }
