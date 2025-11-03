@@ -11,13 +11,17 @@ tomorrow <- Sys.Date() + 1
 tomorrow_str <- format(tomorrow, "%Y-%m-%d")
 tomorrow_formatted <- format(tomorrow, "%B %d, %Y")  # Month Day, Year format
 
+cat("\nCreating plot for date:", tomorrow_formatted, "\n")
+
 # Set timestamp
 timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")
 
 # Create docs/plots directory if it doesn't exist
 dir.create("docs/plots", recursive = TRUE, showWarnings = FALSE)
+cat("Created/verified docs/plots directory\n")
 
-# Load and prepare KenPom stats (all teams for calculating means)
+# Load and prepare KenPom stats
+cat("\nLoading KenPom stats...\n")
 eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) %>%
   rename(
     ORtg = `ORtg...6`,
@@ -29,6 +33,7 @@ eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) %>%
     Luck = `Luck...12`,
     Luck_rank = `Luck...13`
   )
+cat("Loaded", nrow(eff_stats), "teams from KenPom stats\n")
 
 # Calculate means using ALL teams
 mean_ORtg <- mean(eff_stats$ORtg, na.rm = TRUE)
@@ -38,11 +43,17 @@ cat("\nMean ORtg (all teams):", mean_ORtg, "\n")
 cat("Mean DRtg (all teams):", mean_DRtg, "\n")
 
 # Load NCAA teams data for logos
+cat("\nLoading NCAA teams data...\n")
 ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE)
+cat("Loaded", nrow(ncaa_teams), "teams with logos\n")
 
 # Load matchups data
+cat("\nLoading matchups data...\n")
 if (file.exists("daily_matchups.csv")) {
   matchups <- read_csv("daily_matchups.csv", show_col_types = FALSE)
+  cat("Matchups data contents:\n")
+  print(matchups)
+  
   # Get all teams playing tomorrow (excluding NR teams)
   teams_playing <- c(matchups$Team1, matchups$Team2) %>%
     unique() %>%
@@ -61,8 +72,13 @@ matchup_stats <- eff_stats %>%
   left_join(ncaa_teams, by = c("Team" = "current_team"))
 
 cat("\nSuccessfully matched", nrow(matchup_stats), "teams with stats and logos\n")
+if (nrow(matchup_stats) > 0) {
+  cat("Sample of matched teams:\n")
+  print(head(matchup_stats %>% select(Team, ORtg, DRtg, logo)))
+}
 
 if (nrow(matchup_stats) > 0) {
+  cat("\nCreating plot...\n")
   # Create the plot
   p <- ggplot() +
     # Add quadrant shading based on all teams' means
@@ -101,8 +117,9 @@ if (nrow(matchup_stats) > 0) {
 
   # Save the plot
   output_file <- file.path("docs", "plots", paste0("daily_matchups_", tomorrow_str, ".png"))
+  cat("\nSaving plot to:", output_file, "\n")
   ggsave(output_file, p, width = 14, height = 10, dpi = "retina")
-  cat("\nPlot saved to:", output_file, "\n")
+  cat("Plot saved successfully\n")
 } else {
   warning("⚠️ No teams with matchup data found. Skipping plot generation.")
 }
