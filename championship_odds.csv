@@ -1,6 +1,6 @@
 Team,Odds
-Purdue Boilermakers,950
 Houston Cougars,950
+Purdue Boilermakers,1100
 Duke Blue Devils,1100
 Kentucky Wildcats,1400
 Florida Gators,1700
@@ -8,18 +8,18 @@ Michigan Wolverines,1700
 UConn Huskies,1700
 Louisville Cardinals,2000
 Texas Tech Red Raiders,2000
+Kansas Jayhawks,2000
 Illinois Fighting Illini,2000
 St. John's Red Storm,2000
 BYU Cougars,2000
-Kansas Jayhawks,2200
 UCLA Bruins,2500
 Arkansas Razorbacks,2700
 Arizona Wildcats,2700
 Tennessee Volunteers,3000
+North Carolina Tar Heels,3000
 Alabama Crimson Tide,3000
 Iowa State Cyclones,3500
 Gonzaga Bulldogs,3500
-North Carolina Tar Heels,4000
 Auburn Tigers,5000
 NC State Wolfpack,5000
 Creighton Bluejays,5000
@@ -31,7 +31,6 @@ Baylor Bears,6000
 Ohio State Buckeyes,8000
 Oregon Ducks,8000
 Indiana Hoosiers,8000
-Missouri Tigers,8000
 USC Trojans,8000
 Virginia Cavaliers,8000
 Miami Hurricanes,10000
@@ -46,6 +45,7 @@ LSU Tigers,15000
 Syracuse Orange,15000
 SMU Mustangs,15000
 Washington Huskies,15000
+Missouri Tigers,15000
 Villanova Wildcats,15000
 Texas A&M Aggies,15000
 Xavier Musketeers,15000
