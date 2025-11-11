@@ -1,339 +1,83 @@
-Team
-Abilene Christian
-Air Force
-Akron
-Alabama
-Alabama A&M
-Albany
-American
-Appalachian St.
-Arizona
-Arkansas
-Arkansas Pine Bluff
-Arkansas St.
-Arlington Baptist
-Army
-Auburn
-Austin Peay
-BYU
-Ball St.
-Baylor
-Bellarmine
-Belmont
-Bethesda
-Bethune Cookman
-Biblical Studies
-Binghamton
-Blue Mountain
-Boise St.
-Boston College
-Boston University
-Bowling Green
-Bradley
-Bryan
-Bryant
-Bucknell
-Buffalo
-CSUN
-Cal Baptist
-Cal Poly
-Cal St. Bakersfield
-Cal St. Fullerton
-Cal Tech
-California
-California Santa Cruz
-Campbell
-Canisius
-Central Arkansas
-Central Connecticut
-Central Michigan
-Champion Christian
-Charleston
-Charleston Southern
-Charlotte
-Chattanooga
-Chicago St.
-Cincinnati
-Cincinnati Clermont
-Clemson
-Cleveland St.
-Coastal Carolina
-Colgate
-Colorado
-Colorado College
-Colorado St.
-Connecticut
-Coppin St.
-Davidson
-Dayton
-DePaul
-DeSales
-Delaware
-Denver
-Detroit Mercy
-Drake
-Drexel
-Duquesne
-East Texas A&M
-Eastern Michigan
-Eastern Washington
-Erskine
-Evangel
-FIU
-Fairfield
-Fairleigh Dickinson
-Farmingdale St.
-Fisk
-Florida
-Florida A&M
-Florida Atlantic
-Florida Gulf Coast
-Florida National
-Franklin
-Fresno Pacific
-Fresno St.
-Furman
-Gardner Webb
-George Mason
-George Washington
-Georgetown
-Georgia
-Georgia St.
-Georgia Tech
-Georgian Court
-Gonzaga
-Grambling St.
-Grand Canyon
-Green Bay
-Hampton
-Hawaii Pacific
-High Point
-Hofstra
-Holy Cross
-Houston
-Houston Christian
-Howard
-Huston Tillotson
-IU Indy
-Idaho
-Illinois
-Illinois Chicago
-Incarnate Word
-Indiana St.
-Iowa St.
-Jackson St.
-Jacksonville
-Jacksonville St.
-James Madison
-Johnson & Wales NC
-Kansas
-Kansas City
-Kennesaw St.
-Kent St.
-Kentucky Christian
-LIU
-La Sierra
-La Verne
-Lafayette
-Lamar
-Le Moyne
-LeTourneau
-Lehigh
-Liberty
-Life Pacific
-Lincoln CA
-Lipscomb
-Longwood
-Louisiana
-Louisiana Monroe
-Louisville
-Loyola Chicago
-Loyola MD
-Loyola Marymount
-Maine
-Marist
-Marquette
-Marshall
-Mary Baldwin
-Maryland
-Maryland Eastern Shore
-Massachusetts
-McKendree
-McMurry
-McNeese
-Menlo
-Mercer
-Mercyhurst
-Merrimack
-Miami FL
-Miami OH
-Michigan
-Michigan St.
-Midway
-Millsaps
-Milwaukee
-Minnesota
-Mississippi
-Mississippi Valley St.
-Missouri
-Montana
-Montana St.
-Morehead St.
-Morgan St.
-Mount Olive
-Murray St.
-N.C. State
-Navy
-Nebraska
-Nebraska Omaha
-New College of Florida
-New Hampshire
-New Haven
-New Mexico Highlands
-New Orleans
-Niagara
-Nobel
-Norfolk St.
-North Carolina
-North Carolina Central
-North Dakota
-North Dakota St.
-North Texas
-Northeastern
-Northern Arizona
-Northern Colorado
-Northern Illinois
-Northern Kentucky
-Northern St.
-Northern Vermont Joh
-Northwest Indian
-Northwestern
-Northwestern St.
-Notre Dame
-Oakland
-Oakwood
-Ohio
-Ohio St.
-Oklahoma
-Oklahoma Christian
-Old Dominion
-Oregon St.
-Paine
-Penn St.
-Pepperdine
-Pittsburgh
-Portland
-Prairie View A&M
-Presbyterian
-Providence
-Purdue Fort Wayne
-Queens
-Quinnipiac
-Radford
-Rhode Island
-Rider
-Rivier
-SMU
-SUNY Cobleskill
-SUNY Maritime
-Saint Francis
-Saint Joseph's
-Saint Louis
-Saint Mary's
-Saint Peter's
-Sam Houston St.
-Samford
-San Francisco
-San Jose St.
-Seattle
-Seton Hall
-Siena
-South Alabama
-South Carolina St.
-South Dakota
-South Dakota St.
-South Florida
-Southeast Missouri
-Southeastern Louisiana
-Southern
-Southern Arkansas
-Southern Illinois
-Southern Miss
-St. Bonaventure
-St. John's
-St. Thomas
-Stephen F. Austin
-Stetson
-Stonehill
-Stony Brook
-Syracuse
-TCU
-Tarleton St.
-Tennessee
-Tennessee St.
-Tennessee Tech
-Texas A&M
-Texas A&M Corpus Chris
-Texas A&M San Antonio
-Texas Permian Basin
-Texas Southern
-Texas St.
-The Citadel
-Thomas ME
-Toledo
-Towson
-Trinity TX
-Troy
-Tulane
-Tulsa
-Tusculum
-UAB
-UC Davis
-UC Irvine
-UC Riverside
-UC San Diego
-UCF
-UCLA
-UMass Lowell
-UNC Wilmington
-UNT Dallas
-USC
-USC Upstate
-UT Arlington
-UT Rio Grande Valley
-UTEP
-Union
-Utah
-Utah St.
-Utah Tech
-VCU
-VMI
-Vanderbilt
-Vermont
-Villanova
-Virginia
-Virginia Tech
-Wagner
-Wake Forest
-Washington
-Washington Adventist
-Washington St.
-Weber St.
-West Coast Baptist
-West Georgia
-Western Carolina
-Western Illinois
-Western Kentucky
-Western Michigan
-Western New England
-Westminster UT
-Widener
-Willamette
-William & Mary
-Winthrop
-Wisconsin
-Wofford
-Wright St.
-Wyoming
-Xavier
-Youngstown St.
+Team1,Team2
+Kentucky,Louisville
+Texas Tech,Illinois
+Memphis,Mississippi
+Dayton,Cincinnati
+Creighton,Gonzaga
+Wake Forest,Michigan
+Loyola Marymount,UTEP
+Davidson,Charlotte
+Florida St.,Florida
+Stephen F. Austin,Rice
+CSUN,North Dakota St.
+La Salle,Temple
+Tulane,Louisiana
+Arkansas St.,Missouri St.
+Yale,Quinnipiac
+Winthrop,Coastal Carolina
+Northeastern,Harvard
+Toledo,Wright St.
+Bucknell,Princeton
+UC Santa Barbara,Sacramento St.
+Lipscomb,UNC Asheville
+Drexel,Colgate
+Georgia Southern,Florida Gulf Coast
+Iona,Kansas City
+Murray St.,SMU
+Norfolk St.,Old Dominion
+LIU,Air Force
+Austin Peay,Wyoming
+UMBC,Morgan St.
+Merrimack,Tarleton St.
+Mount St. Mary's,Saint Francis
+Montana,UNLV
+Northwestern St.,North Alabama
+William & Mary,Richmond
+Western Illinois,Cal St. Bakersfield
+Queens,Duquesne
+NJIT,Loyola MD
+Navy,Penn St.
+Ohio,Saint Mary's
+UT Rio Grande Valley,Boise St.
+Wagner,Fordham
+Radford,North Carolina
+Jacksonville,High Point
+Hampton,Virginia
+Stonehill,Rhode Island
+Appalachian St.,Ohio St.
+UC Riverside,New Mexico
+Ball St.,Wisconsin
+Wofford,Auburn
+Alabama St.,UAB
+Sacred Heart,Villanova
+Penn,Providence
+Buffalo,DePaul
+Delaware,BYU
+Northern Arizona,Arizona
+Duke,Army
+Texas A&M Corpus Chris,Kansas
+Eastern Illinois,Notre Dame
+Morehead St.,Clemson
+Central Connecticut,Boston College
+Florida A&M,UCF
+Alcorn St.,Maryland
+Central Arkansas,Arkansas
+Chicago St.,Butler
+Maryland Eastern Shore,Nebraska
+Arkansas Pine Bluff,Oklahoma
+St. Joseph's NY Long I,Stony Brook
+Catawba,George Mason
+Wilson,Towson
+IU Columbus,IU Indy
+SUNY Delhi,Albany
+Bethesda,Southern Utah
+Coastal Georgia,Bethune Cookman
+Southwestern Adventist,Abilene Christian
+Mayville St.,North Dakota
+St. Francis IL,Illinois Chicago
+Southwestern Christian,Incarnate Word
+Pensacola Christian,Troy
+Cleary,Detroit Mercy
+Lincoln CA,Pepperdine
+Oakwood,Tennessee St.
+New Mexico Highlands,New Mexico St.
