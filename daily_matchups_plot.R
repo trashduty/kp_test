@@ -94,7 +94,7 @@ if (nrow(matchup_stats) > 0) {
     # Add team logos only for teams playing today
     geom_image(data = matchup_stats, 
               aes(x = ORtg, y = DRtg, image = logo), 
-              size = 0.05, asp = 16/9) +
+              size = 0.025, asp = 16/9) +
     # Set plot limits based on all teams' data
     scale_x_continuous(limits = c(min(eff_stats$ORtg), max(eff_stats$ORtg)),
                        breaks = pretty_breaks(n = 6)) +
