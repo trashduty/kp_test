@@ -6,12 +6,12 @@ library(tidyverse)
 library(ggimage)
 library(scales)
 
-# Get tomorrow's date in different formats
-tomorrow <- Sys.Date() + 1
-tomorrow_str <- format(tomorrow, "%Y-%m-%d")
-tomorrow_formatted <- format(tomorrow, "%B %d, %Y")  # Month Day, Year format
+# Get today's date in different formats
+today <- Sys.Date()
+today_str <- format(today, "%Y-%m-%d")
+today_formatted <- format(today, "%B %d, %Y")  # Month Day, Year format
 
-cat("\nCreating plot for date:", tomorrow_formatted, "\n")
+cat("\nCreating plot for date:", today_formatted, "\n")
 
 # Set timestamp
 timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")
@@ -54,7 +54,7 @@ if (file.exists("daily_matchups.csv")) {
   cat("Matchups data contents:\n")
   print(matchups)
   
-  # Get all teams playing tomorrow (excluding NR teams)
+  # Get all teams playing today
   teams_playing <- c(matchups$Team1, matchups$Team2) %>%
     unique() %>%
     .[!grepl("^NR ", .)]  # Remove teams starting with "NR"
@@ -63,10 +63,10 @@ if (file.exists("daily_matchups.csv")) {
   teams_playing <- character(0)
 }
 
-cat("\nFound", length(teams_playing), "teams playing tomorrow:\n")
+cat("\nFound", length(teams_playing), "teams playing today:\n")
 print(teams_playing)
 
-# Filter stats for teams playing tomorrow and join with logos
+# Filter stats for teams playing today and join with logos
 matchup_stats <- eff_stats %>%
   filter(Team %in% teams_playing) %>%
   left_join(ncaa_teams, by = c("Team" = "current_team"))
@@ -91,7 +91,7 @@ if (nrow(matchup_stats) > 0) {
     # Add reference lines at means
     geom_hline(yintercept = mean_DRtg, linetype = "dashed") +
     geom_vline(xintercept = mean_ORtg, linetype = "dashed") +
-    # Add team logos only for teams playing tomorrow
+    # Add team logos only for teams playing today
     geom_image(data = matchup_stats, 
               aes(x = ORtg, y = DRtg, image = logo), 
               size = 0.05, asp = 16/9) +
@@ -104,7 +104,7 @@ if (nrow(matchup_stats) > 0) {
     labs(
       x = "Adjusted Offensive Efficiency",
       y = "Adjusted Defensive Efficiency",
-      title = paste("College Basketball Matchups For", tomorrow_formatted),
+      title = paste("College Basketball Matchups For", today_formatted),
       subtitle = paste(length(teams_playing), "Teams Playing"),
       caption = timestamp
     ) +
@@ -116,7 +116,7 @@ if (nrow(matchup_stats) > 0) {
     )
 
   # Save the plot
-  output_file <- file.path("docs", "plots", paste0("daily_matchups_", tomorrow_str, ".png"))
+  output_file <- file.path("docs", "plots", paste0("daily_matchups_", today_str, ".png"))
   cat("\nSaving plot to:", output_file, "\n")
   ggsave(output_file, p, width = 14, height = 10, dpi = "retina")
   cat("Plot saved successfully\n")
