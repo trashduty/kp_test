@@ -53,12 +53,12 @@ try:
     time.sleep(3)
     print("[2/7] ✅ Login successful")
 
-    # Get tomorrow's date for the FanMatch URL
-    tomorrow = datetime.now() + timedelta(days=1)
-    tomorrow_str = tomorrow.strftime("%Y-%m-%d")
+    # Get today's date for the FanMatch URL
+    today = datetime.now()
+    today_str = today.strftime("%Y-%m-%d")
     
-    print(f"[3/7] Navigating to FanMatch page for {tomorrow_str}...")
-    driver.get(f"https://kenpom.com/fanmatch.php?d={tomorrow_str}")
+    print(f"[3/7] Navigating to FanMatch page for {today_str}...")
+    driver.get(f"https://kenpom.com/fanmatch.php?d={today_str}")
     time.sleep(4)
 
     # Create kenpom-data directory if it doesn't exist
@@ -68,7 +68,7 @@ try:
     fanmatch_table = wait.until(EC.presence_of_element_located((By.ID, "fanmatch-table")))
     
     # Save the raw HTML
-    html_path = os.path.join("kenpom-data", f"fanmatch-{tomorrow_str}.html")
+    html_path = os.path.join("kenpom-data", f"fanmatch-{today_str}.html")
     with open(html_path, 'w', encoding='utf-8') as f:
         f.write(driver.page_source)
     print(f"[5/7] ✅ Raw HTML saved: {html_path}")
@@ -88,13 +88,13 @@ try:
         raise ValueError("❌ Could not find any columns in the FanMatch table.")
 
     # Save processed version
-    final_path = os.path.join("kenpom-data", f"fanmatch-{tomorrow_str}.csv")
+    final_path = os.path.join("kenpom-data", f"fanmatch-{today_str}.csv")
     df_cleaned.to_csv(final_path, index=False)
     print(f"[7/7] ✅ Cleaned CSV saved: {final_path} (Rows: {len(df_cleaned)})")
 
-    # Extract team names from Game column for daily matchups
-    print("\n[8/9] Extracting team names from Game column...")
-    teams = []
+    # Extract team matchups from Game column for daily matchups
+    print("\n[8/9] Extracting team matchups from Game column...")
+    matchups = []
     
     if 'Game' in df_cleaned.columns:
         for game in df_cleaned['Game']:
@@ -109,28 +109,32 @@ try:
             else:
                 continue
             
-            for part in parts:
+            if len(parts) == 2:
+                team1 = parts[0].strip()
+                team2 = parts[1].strip()
+                
                 # Remove rankings (numbers or "NR") at the beginning using regex
                 # Pattern: ^(NR|\d+)\s+ matches 'NR' or one or more digits at the start
                 # of the string followed by one or more whitespace characters, then removes them
-                part = part.strip()
-                part = re.sub(r'^(NR|\d+)\s+', '', part)
-                part = part.strip()
-                if part:
-                    teams.append(part)
+                team1 = re.sub(r'^(NR|\d+)\s+', '', team1).strip()
+                team2 = re.sub(r'^(NR|\d+)\s+', '', team2).strip()
+                
+                if team1 and team2:
+                    matchups.append({'Team1': team1, 'Team2': team2})
     
-    # Create DataFrame with unique teams
-    if teams:
-        matchups_df = pd.DataFrame({'Team': sorted(set(teams))})
+    # Create DataFrame with team matchups
+    if matchups:
+        matchups_df = pd.DataFrame(matchups)
         matchups_path = "daily_matchups.csv"
         matchups_df.to_csv(matchups_path, index=False)
-        print(f"[9/9] ✅ Daily matchups saved: {matchups_path} (Teams: {len(matchups_df)})")
-        print(f"\nExtracted teams: {', '.join(matchups_df['Team'].head(10).tolist())}...")
+        print(f"[9/9] ✅ Daily matchups saved: {matchups_path} (Matchups: {len(matchups_df)})")
+        print(f"\nExtracted matchups (first 5):")
+        print(matchups_df.head())
     else:
-        print("[9/9] ⚠️ No teams extracted from Game column")
+        print("[9/9] ⚠️ No matchups extracted from Game column")
 
     # Print preview of games
-    print("\nTomorrow's Games Preview:")
+    print("\nToday's Games Preview:")
     print(df_cleaned.head())
 
 except Exception as e:
