@@ -1,8 +1,8 @@
 Team,Odds
 Houston Cougars,950
-Purdue Boilermakers,1000
 Duke Blue Devils,1000
-UConn Huskies,1400
+Purdue Boilermakers,1100
+UConn Huskies,1100
 Kentucky Wildcats,1600
 Louisville Cardinals,1600
 Arizona Wildcats,1700
@@ -10,18 +10,18 @@ Illinois Fighting Illini,1700
 Gonzaga Bulldogs,1700
 Florida Gators,2000
 Texas Tech Red Raiders,2000
-Michigan Wolverines,2000
 St. John's Red Storm,2000
 BYU Cougars,2000
 Alabama Crimson Tide,2000
 Arkansas Razorbacks,3000
-UCLA Bruins,3000
 Tennessee Volunteers,3000
+Michigan Wolverines,3000
 North Carolina Tar Heels,3000
+Iowa State Cyclones,3000
 Kansas Jayhawks,3500
+UCLA Bruins,5000
 Indiana Hoosiers,5000
 Vanderbilt Commodores,5000
-Iowa State Cyclones,5000
 NC State Wolfpack,5000
 Baylor Bears,5000
 Wisconsin Badgers,6000
@@ -39,7 +39,6 @@ Ole Miss Rebels,10000
 San Diego St Aztecs,10000
 Mississippi St Bulldogs,10000
 Texas Longhorns,10000
-Maryland Terrapins,10000
 Kansas St Wildcats,15000
 LSU Tigers,15000
 Syracuse Orange,15000
@@ -48,7 +47,7 @@ Washington Huskies,15000
 Villanova Wildcats,15000
 Texas A&M Aggies,15000
 Virginia Tech Hokies,15000
-Marquette Golden Eagles,15000
+Maryland Terrapins,15000
 Butler Bulldogs,20000
 Georgetown Hoyas,20000
 Providence Friars,20000
@@ -56,6 +55,7 @@ Clemson Tigers,20000
 Memphis Tigers,20000
 Notre Dame Fighting Irish,20000
 Nebraska Cornhuskers,20000
+Northwestern Wildcats,20000
 West Virginia Mountaineers,20000
 Saint Mary's Gaels,20000
 Oklahoma St Cowboys,20000
@@ -66,12 +66,12 @@ Minnesota Golden Gophers,20000
 Utah State Aggies,20000
 South Carolina Gamecocks,20000
 Wake Forest Demon Deacons,20000
+Marquette Golden Eagles,20000
 Cincinnati Bearcats,25000
 TCU Horned Frogs,30000
 Pittsburgh Panthers,30000
 California Golden Bears,30000
 DePaul Blue Demons,30000
-Northwestern Wildcats,30000
 Stanford Cardinal,30000
 Penn State Nittany Lions,30000
 Georgia Bulldogs,30000
