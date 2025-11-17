@@ -9,7 +9,7 @@ library(httr)
 library(jsonlite)
 
 # Set timestamp
-timestamp <- "2025-11-02 06:46:22 UTC"
+timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")
 
 # Create docs directory if it doesn't exist
 dir.create("docs", showWarnings = FALSE)
