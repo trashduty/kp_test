@@ -21,13 +21,13 @@ jobs:
       with:
         python-version: '3.10'
 
+    - name: Setup ChromeDriver
+      uses: nanasess/setup-chromedriver@v2
+
     - name: Setup Chrome and ChromeDriver
       uses: browser-actions/setup-chrome@v1
       with:
-        chrome-version: stable
-
-    - name: Setup ChromeDriver
-      uses: nanasess/setup-chromedriver@v2
+        chrome-version: 131
 
     - name: Install Python dependencies
       run: |
