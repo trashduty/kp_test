@@ -83,6 +83,16 @@ jobs:
         KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
         KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
     
+    - name: Upload error screenshots
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: error-screenshots
+        path: |
+          error_screenshot.png
+          error_screenshot_*.png
+        if-no-files-found: ignore
+    
     - name: Generate plots
       run: |
         Rscript daily_matchups_plot.R
