@@ -26,6 +26,9 @@ chrome_options.add_argument("--headless")
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
 chrome_options.add_argument("--disable-gpu")
+chrome_options.add_argument("--disable-software-rasterizer")
+chrome_options.add_argument("--disable-extensions")
+chrome_options.add_argument("--window-size=1920,1080")
 chrome_options.add_argument("user-agent=Mozilla/5.0")
 chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
 chrome_options.add_experimental_option("useAutomationExtension", False)
@@ -41,19 +44,19 @@ driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
 try:
     print("[1/6] Logging into KenPom...")
     driver.get("https://kenpom.com/")
-    wait = WebDriverWait(driver, 20)
+    wait = WebDriverWait(driver, 30)
 
     email_input = wait.until(EC.presence_of_element_located((By.NAME, "email")))
     password_input = driver.find_element(By.NAME, "password")
     email_input.send_keys(USERNAME)
     password_input.send_keys(PASSWORD)
     password_input.send_keys(Keys.RETURN)
-    time.sleep(3)
+    time.sleep(5)
     print("[2/6] ✅ Login successful")
 
     print("[3/6] Navigating to stats page...")
     driver.get("https://kenpom.com/index.php")
-    time.sleep(4)
+    time.sleep(6)
 
     stats_table = wait.until(EC.presence_of_element_located((By.ID, "ratings-table")))
     table_html = stats_table.get_attribute("outerHTML")
@@ -107,6 +110,13 @@ try:
 
 except Exception as e:
     print(f"❌ Error: {e}")
+    # Take a screenshot for debugging
+    try:
+        screenshot_path = os.path.abspath("error_screenshot.png")
+        driver.save_screenshot(screenshot_path)
+        print(f"📸 Screenshot saved to: {screenshot_path}")
+    except Exception as screenshot_error:
+        print(f"⚠️ Could not save screenshot: {screenshot_error}")
     sys.exit(1)
 
 finally:
