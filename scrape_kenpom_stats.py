@@ -1,6 +1,7 @@
 import os
 import sys
 import time
+import random
 import pandas as pd
 from io import StringIO
 from dotenv import load_dotenv
@@ -8,6 +9,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
@@ -20,7 +22,7 @@ if not USERNAME or not PASSWORD:
     print("❌ Missing KENPOM_USERNAME or KENPOM_PASSWORD in environment variables.")
     sys.exit(1)
 
-# Configure headless Chrome
+# Configure headless Chrome with realistic settings
 chrome_options = Options()
 chrome_options.add_argument("--headless")
 chrome_options.add_argument("--no-sandbox")
@@ -29,34 +31,128 @@ chrome_options.add_argument("--disable-gpu")
 chrome_options.add_argument("--disable-software-rasterizer")
 chrome_options.add_argument("--disable-extensions")
 chrome_options.add_argument("--window-size=1920,1080")
-chrome_options.add_argument("user-agent=Mozilla/5.0")
-chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+chrome_options.add_argument("--start-maximized")
+chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+
+# Use a realistic, full Chrome user agent string
+chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36")
+
+# Additional preferences to appear more human-like
+chrome_options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
 chrome_options.add_experimental_option("useAutomationExtension", False)
+chrome_options.add_experimental_option("prefs", {
+    "profile.default_content_setting_values.notifications": 2,
+    "credentials_enable_service": False,
+    "profile.password_manager_enabled": False
+})
 
 # Initialize WebDriver
 driver = webdriver.Chrome(options=chrome_options)
 
-# Prevent Selenium detection
+# Enhanced stealth mode - hide automation markers
 driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
-    "source": "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
+    "source": """
+        // Override the navigator.webdriver property
+        Object.defineProperty(navigator, 'webdriver', {
+            get: () => undefined
+        });
+        
+        // Override navigator properties to appear more human
+        Object.defineProperty(navigator, 'plugins', {
+            get: () => [1, 2, 3, 4, 5]
+        });
+        
+        Object.defineProperty(navigator, 'languages', {
+            get: () => ['en-US', 'en']
+        });
+        
+        // Add window.chrome object
+        window.chrome = {
+            runtime: {}
+        };
+        
+        // Override permissions API
+        const originalQuery = window.navigator.permissions.query;
+        window.navigator.permissions.query = (parameters) => (
+            parameters.name === 'notifications' ?
+                Promise.resolve({ state: Notification.permission }) :
+                originalQuery(parameters)
+        );
+    """
 })
+
+def random_delay(min_seconds=2, max_seconds=4):
+    """Add random delay to simulate human behavior"""
+    time.sleep(random.uniform(min_seconds, max_seconds))
+
+def scroll_page(driver):
+    """Scroll the page to simulate human behavior"""
+    try:
+        # Scroll down slowly
+        for i in range(3):
+            scroll_amount = random.randint(300, 500)
+            driver.execute_script(f"window.scrollBy(0, {scroll_amount});")
+            time.sleep(random.uniform(0.3, 0.7))
+        
+        # Scroll back to top
+        driver.execute_script("window.scrollTo(0, 0);")
+        time.sleep(random.uniform(0.5, 1.0))
+    except Exception as e:
+        print(f"⚠️ Could not scroll page: {e}")
+
+def random_mouse_movement(driver):
+    """Move mouse randomly to simulate human behavior"""
+    try:
+        action = ActionChains(driver)
+        body = driver.find_element(By.TAG_NAME, "body")
+        # Move to a random position
+        action.move_to_element_with_offset(body, random.randint(100, 500), random.randint(100, 500)).perform()
+        time.sleep(random.uniform(0.1, 0.3))
+    except Exception as e:
+        print(f"⚠️ Could not move mouse: {e}")
 
 try:
     print("[1/6] Logging into KenPom...")
     driver.get("https://kenpom.com/")
     wait = WebDriverWait(driver, 30)
 
+    # Add random delay and mouse movement after page load
+    random_delay(2, 3)
+    random_mouse_movement(driver)
+
     email_input = wait.until(EC.presence_of_element_located((By.NAME, "email")))
     password_input = driver.find_element(By.NAME, "password")
-    email_input.send_keys(USERNAME)
-    password_input.send_keys(PASSWORD)
+    
+    # Type credentials with slight delays to simulate human typing
+    for char in USERNAME:
+        email_input.send_keys(char)
+        time.sleep(random.uniform(0.05, 0.15))
+    
+    random_delay(0.5, 1)
+    
+    for char in PASSWORD:
+        password_input.send_keys(char)
+        time.sleep(random.uniform(0.05, 0.15))
+    
+    random_delay(0.5, 1)
     password_input.send_keys(Keys.RETURN)
-    time.sleep(5)
+    
+    # Wait with random delay after login
+    random_delay(3, 5)
     print("[2/6] ✅ Login successful")
 
     print("[3/6] Navigating to stats page...")
+    
+    # Add mouse movement before navigation
+    random_mouse_movement(driver)
+    random_delay(1, 2)
+    
     driver.get("https://kenpom.com/index.php")
-    time.sleep(6)
+    
+    # Wait and simulate human behavior after page load
+    random_delay(3, 4)
+    scroll_page(driver)
+    random_delay(2, 3)
 
     stats_table = wait.until(EC.presence_of_element_located((By.ID, "ratings-table")))
     table_html = stats_table.get_attribute("outerHTML")
