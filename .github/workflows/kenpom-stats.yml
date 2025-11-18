@@ -31,17 +31,45 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: 🌐 Install Google Chrome
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+
+      - name: 🚗 Install ChromeDriver
+        uses: nanasess/setup-chromedriver@v2
+
+      - name: ✅ Verify Chrome and ChromeDriver versions
+        run: |
+          google-chrome --version
+          chromedriver --version
+
       - name: 🔐 Set up environment variables
         run: |
           echo "KENPOM_USERNAME=${{ secrets.KENPOM_USERNAME }}" >> $GITHUB_ENV
           echo "KENPOM_PASSWORD=${{ secrets.KENPOM_PASSWORD }}" >> $GITHUB_ENV
 
       - name: 🕷️ Run Python scraper
+        env:
+          KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
+          KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
         run: python scrape_kenpom_stats.py
 
       - name: 🏀 Scrape AP Top 25 rankings
         run: python scrape_ap_rankings.py
         continue-on-error: true  # Don't fail if ESPN is temporarily unavailable
+
+      - name: 📸 Upload debug artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: kenpom-debug
+          path: |
+            error_screenshot.png
+            kenpom_stats_raw.csv
+            kenpom_stats.csv
+            kenpom-data/**
+          if-no-files-found: ignore
 
       - name: 🧰 Set up R
         uses: r-lib/actions/setup-r@v2
