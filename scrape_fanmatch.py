@@ -143,17 +143,18 @@ try:
     random_delay(3, 5)
     print("[2/7] ✅ Login successful")
 
-    # Get today's date for the FanMatch URL
-    today = datetime.now()
-    today_str = today.strftime("%Y-%m-%d")
+    # Get tomorrow's date for the FanMatch URL
+    # This will scrape the next day's games
+    tomorrow = datetime.now() + timedelta(days=1)
+    tomorrow_str = tomorrow.strftime("%Y-%m-%d")
     
-    print(f"[3/7] Navigating to FanMatch page for {today_str}...")
+    print(f"[3/7] Navigating to FanMatch page for {tomorrow_str}...")
     
     # Add mouse movement before navigation
     random_mouse_movement(driver)
     random_delay(1, 2)
     
-    driver.get(f"https://kenpom.com/fanmatch.php?d={today_str}")
+    driver.get(f"https://kenpom.com/fanmatch.php?d={tomorrow_str}")
     
     # Wait and simulate human behavior after page load
     random_delay(4, 6)
@@ -167,7 +168,7 @@ try:
     fanmatch_table = wait.until(EC.presence_of_element_located((By.ID, "fanmatch-table")))
     
     # Save the raw HTML
-    html_path = os.path.join("kenpom-data", f"fanmatch-{today_str}.html")
+    html_path = os.path.join("kenpom-data", f"fanmatch-{tomorrow_str}.html")
     with open(html_path, 'w', encoding='utf-8') as f:
         f.write(driver.page_source)
     print(f"[5/7] ✅ Raw HTML saved: {html_path}")
@@ -187,7 +188,7 @@ try:
         raise ValueError("❌ Could not find any columns in the FanMatch table.")
 
     # Save processed version
-    final_path = os.path.join("kenpom-data", f"fanmatch-{today_str}.csv")
+    final_path = os.path.join("kenpom-data", f"fanmatch-{tomorrow_str}.csv")
     df_cleaned.to_csv(final_path, index=False)
     print(f"[7/7] ✅ Cleaned CSV saved: {final_path} (Rows: {len(df_cleaned)})")
 
@@ -233,7 +234,7 @@ try:
         print("[9/9] ⚠️ No matchups extracted from Game column")
 
     # Print preview of games
-    print("\nToday's Games Preview:")
+    print("\nTomorrow's Games Preview:")
     print(df_cleaned.head())
 
 except Exception as e:
