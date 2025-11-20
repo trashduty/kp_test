@@ -11,11 +11,7 @@ today <- Sys.Date()
 today_str <- format(today, "%Y-%m-%d")
 today_formatted <- format(today, "%B %d, %Y")  # Month Day, Year format
 
-# Get tomorrow's date for the plot title
-tomorrow <- today + 1
-tomorrow_formatted <- format(tomorrow, "%B %d, %Y")  # Month Day, Year format
-
-cat("\nCreating plot for date:", tomorrow_formatted, "\n")
+cat("\nCreating plot for date:", today_formatted, "\n")
 
 # Set timestamp
 timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")
@@ -108,7 +104,7 @@ if (nrow(matchup_stats) > 0) {
     labs(
       x = "Adjusted Offensive Efficiency",
       y = "Adjusted Defensive Efficiency",
-      title = paste("College Basketball Matchups For", tomorrow_formatted),
+      title = paste("College Basketball Matchups For", today_formatted),
       subtitle = paste(length(teams_playing), "Teams Playing"),
       caption = timestamp
     ) +
