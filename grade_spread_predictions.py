@@ -62,12 +62,12 @@ def fetch_graded_results_from_github():
     headers = {}
     github_token = os.getenv("GITHUB_TOKEN")
     if github_token:
-        headers["Authorization"] = f"token {github_token}"
+        headers["Authorization"] = f"Bearer {github_token}"
         logger.info("[cyan]Using GitHub token for authentication[/cyan]")
     
     try:
         logger.info("[cyan]Fetching graded_results.csv from trashduty/cbb repository...[/cyan]")
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, timeout=30)
         response.raise_for_status()
         
         # GitHub API returns file content as base64 encoded
@@ -130,10 +130,26 @@ def filter_spread_predictions(df):
 def calculate_spread_coverage(row):
     """
     Calculate if the team covered the spread
+    
+    Args:
+        row: A pandas Series containing the following columns:
+            - team: Name of the team being evaluated
+            - home_team: Name of the home team in the game
+            - away_team: Name of the away team in the game
+            - home_score: Final score of the home team
+            - away_score: Final score of the away team
+            - opening_spread: The opening point spread for the game
+    
     Returns:
-        0 = did not cover
-        1 = covered
-        2 = push
+        int: Coverage result
+            - 0 = did not cover
+            - 1 = covered
+            - 2 = push (actual spread equals opening spread)
+    
+    Examples:
+        Home team (Duke) with actual spread 5 > opening spread 3.5: Returns 1 (covered)
+        Away team (UNC) with actual spread 5 > opening spread 3.5: Returns 0 (did not cover)
+        Home team with actual spread 3 == opening spread 3: Returns 2 (push)
     """
     team = row['team']
     home_team = row['home_team']
