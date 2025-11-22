@@ -145,7 +145,7 @@ try:
 
     # Get today's date for the FanMatch URL
     # This will scrape the next day's games
-    today = datetime.now() + timedelta(days=1)
+    today = datetime.now() + timedelta(days=0)
     today_str = today.strftime("%Y-%m-%d")
     
     print(f"[3/7] Navigating to FanMatch page for {today_str}...")
