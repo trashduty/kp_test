@@ -43,6 +43,8 @@ Thumbs.db
 championship_odds_detailed.csv
 error_screenshot.png
 error_fanmatch_screenshot.png
+graded_results.csv
+filtered_graded_results.csv
 
 # R
 .Rhistory
