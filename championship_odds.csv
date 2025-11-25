@@ -1,11 +1,11 @@
 Team,Odds
 Purdue Boilermakers,950
 Duke Blue Devils,1000
-Houston Cougars,1100
+Houston Cougars,1200
 Arizona Wildcats,1300
 UConn Huskies,1300
+Gonzaga Bulldogs,1300
 Louisville Cardinals,1500
-Gonzaga Bulldogs,1500
 Alabama Crimson Tide,1700
 Florida Gators,2200
 Kentucky Wildcats,2200
@@ -26,12 +26,13 @@ NC State Wolfpack,5000
 Wisconsin Badgers,6000
 Indiana Hoosiers,6000
 Baylor Bears,6000
+Auburn Tigers,8000
 Ohio State Buckeyes,10000
 Iowa Hawkeyes,10000
 Oregon Ducks,10000
+Syracuse Orange,10000
 Missouri Tigers,10000
 Ole Miss Rebels,10000
-Auburn Tigers,10000
 Creighton Bluejays,10000
 USC Trojans,10000
 Virginia Cavaliers,10000
@@ -51,7 +52,6 @@ Providence Friars,20000
 Clemson Tigers,20000
 Memphis Tigers,20000
 Notre Dame Fighting Irish,20000
-Syracuse Orange,20000
 Nebraska Cornhuskers,20000
 SMU Mustangs,20000
 West Virginia Mountaineers,20000
