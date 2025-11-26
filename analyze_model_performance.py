@@ -1,11 +1,12 @@
 import os
 import sys
+import html
 import pandas as pd
 import requests
 import base64
 import traceback
 from io import StringIO
-from datetime import datetime
+from datetime import datetime, timezone
 from rich.console import Console
 from rich.logging import RichHandler
 from rich.table import Table
@@ -821,6 +822,13 @@ def generate_plain_text_output(analysis_data, timestamp):
     return "\n".join(lines)
 
 
+def escape_html(value):
+    """
+    Escape HTML special characters to prevent XSS
+    """
+    return html.escape(str(value))
+
+
 def generate_html_output(analysis_data, timestamp):
     """
     Generate HTML output from analysis data
@@ -969,31 +977,31 @@ def generate_html_output(analysis_data, timestamp):
     <div class="container">
         <header>
             <h1>Model Performance Analysis Report</h1>
-            <p class="timestamp">Generated: {timestamp}</p>
+            <p class="timestamp">Generated: {escape_html(timestamp)}</p>
         </header>
 
         <section>
             <h2>1. Overall Spread Records</h2>
             <div class="summary-item">
                 <span class="summary-label">Favorites Record:</span>
-                <span class="summary-value">{analysis_data['spread_records']['favorites']['record']}</span>
+                <span class="summary-value">{escape_html(analysis_data['spread_records']['favorites']['record'])}</span>
             </div>
             <div class="summary-item">
                 <span class="summary-label">Underdogs Record:</span>
-                <span class="summary-value">{analysis_data['spread_records']['underdogs']['record']}</span>
+                <span class="summary-value">{escape_html(analysis_data['spread_records']['underdogs']['record'])}</span>
             </div>
-            <p class="note">Note: {analysis_data['spread_records']['note']}</p>
+            <p class="note">Note: {escape_html(analysis_data['spread_records']['note'])}</p>
         </section>
 
         <section>
             <h2>2. Overall Totals Records</h2>
             <div class="summary-item">
                 <span class="summary-label">Overs Record:</span>
-                <span class="summary-value">{analysis_data['totals_records']['overs']['record']}</span>
+                <span class="summary-value">{escape_html(analysis_data['totals_records']['overs']['record'])}</span>
             </div>
             <div class="summary-item">
                 <span class="summary-label">Unders Record:</span>
-                <span class="summary-value">{analysis_data['totals_records']['unders']['record']}</span>
+                <span class="summary-value">{escape_html(analysis_data['totals_records']['unders']['record'])}</span>
             </div>
         </section>
 
@@ -1011,9 +1019,9 @@ def generate_html_output(analysis_data, timestamp):
 '''
     for row in analysis_data['spread_by_edge_all']:
         html += f'''                    <tr>
-                        <td>{row['tier']}</td>
-                        <td>{row['record']}</td>
-                        <td>{row['pct']}</td>
+                        <td>{escape_html(row['tier'])}</td>
+                        <td>{escape_html(row['record'])}</td>
+                        <td>{escape_html(row['pct'])}</td>
                     </tr>
 '''
     html += '''                </tbody>
@@ -1034,9 +1042,9 @@ def generate_html_output(analysis_data, timestamp):
 '''
     for row in analysis_data['spread_by_edge_consensus']:
         html += f'''                    <tr>
-                        <td>{row['tier']}</td>
-                        <td>{row['record']}</td>
-                        <td>{row['pct']}</td>
+                        <td>{escape_html(row['tier'])}</td>
+                        <td>{escape_html(row['record'])}</td>
+                        <td>{escape_html(row['pct'])}</td>
                     </tr>
 '''
     html += '''                </tbody>
@@ -1059,9 +1067,9 @@ def generate_html_output(analysis_data, timestamp):
 '''
     for row in analysis_data['spread_by_point_spread']['favorites']:
         html += f'''                        <tr>
-                            <td>{row['range']}</td>
-                            <td>{row['record']}</td>
-                            <td>{row['pct']}</td>
+                            <td>{escape_html(row['range'])}</td>
+                            <td>{escape_html(row['record'])}</td>
+                            <td>{escape_html(row['pct'])}</td>
                         </tr>
 '''
     html += '''                    </tbody>
@@ -1081,9 +1089,9 @@ def generate_html_output(analysis_data, timestamp):
 '''
     for row in analysis_data['spread_by_point_spread']['underdogs']:
         html += f'''                        <tr>
-                            <td>{row['range']}</td>
-                            <td>{row['record']}</td>
-                            <td>{row['pct']}</td>
+                            <td>{escape_html(row['range'])}</td>
+                            <td>{escape_html(row['record'])}</td>
+                            <td>{escape_html(row['pct'])}</td>
                         </tr>
 '''
     html += '''                    </tbody>
@@ -1107,9 +1115,9 @@ def generate_html_output(analysis_data, timestamp):
 '''
     for row in analysis_data['ou_by_edge_all']['overs']:
         html += f'''                        <tr>
-                            <td>{row['tier']}</td>
-                            <td>{row['record']}</td>
-                            <td>{row['pct']}</td>
+                            <td>{escape_html(row['tier'])}</td>
+                            <td>{escape_html(row['record'])}</td>
+                            <td>{escape_html(row['pct'])}</td>
                         </tr>
 '''
     html += '''                    </tbody>
@@ -1129,9 +1137,9 @@ def generate_html_output(analysis_data, timestamp):
 '''
     for row in analysis_data['ou_by_edge_all']['unders']:
         html += f'''                        <tr>
-                            <td>{row['tier']}</td>
-                            <td>{row['record']}</td>
-                            <td>{row['pct']}</td>
+                            <td>{escape_html(row['tier'])}</td>
+                            <td>{escape_html(row['record'])}</td>
+                            <td>{escape_html(row['pct'])}</td>
                         </tr>
 '''
     html += '''                    </tbody>
@@ -1155,9 +1163,9 @@ def generate_html_output(analysis_data, timestamp):
 '''
     for row in analysis_data['ou_by_edge_consensus']['overs']:
         html += f'''                        <tr>
-                            <td>{row['tier']}</td>
-                            <td>{row['record']}</td>
-                            <td>{row['pct']}</td>
+                            <td>{escape_html(row['tier'])}</td>
+                            <td>{escape_html(row['record'])}</td>
+                            <td>{escape_html(row['pct'])}</td>
                         </tr>
 '''
     html += '''                    </tbody>
@@ -1177,9 +1185,9 @@ def generate_html_output(analysis_data, timestamp):
 '''
     for row in analysis_data['ou_by_edge_consensus']['unders']:
         html += f'''                        <tr>
-                            <td>{row['tier']}</td>
-                            <td>{row['record']}</td>
-                            <td>{row['pct']}</td>
+                            <td>{escape_html(row['tier'])}</td>
+                            <td>{escape_html(row['record'])}</td>
+                            <td>{escape_html(row['pct'])}</td>
                         </tr>
 '''
     html += f'''                    </tbody>
@@ -1191,11 +1199,11 @@ def generate_html_output(analysis_data, timestamp):
             <h2>8. Overall Model Totals Record</h2>
             <div class="summary-item">
                 <span class="summary-label">Overs (over_cover_probability &gt; 0.5):</span>
-                <span class="summary-value">{analysis_data['model_totals']['overs']['record']}</span>
+                <span class="summary-value">{escape_html(analysis_data['model_totals']['overs']['record'])}</span>
             </div>
             <div class="summary-item">
                 <span class="summary-label">Unders (under_cover_probability &gt; 0.5):</span>
-                <span class="summary-value">{analysis_data['model_totals']['unders']['record']}</span>
+                <span class="summary-value">{escape_html(analysis_data['model_totals']['unders']['record'])}</span>
             </div>
         </section>
 
@@ -1213,9 +1221,9 @@ def generate_html_output(analysis_data, timestamp):
 '''
     for row in analysis_data['moneyline_all']:
         html += f'''                    <tr>
-                        <td>{row['tier']}</td>
-                        <td>{row['record']}</td>
-                        <td>{row['pct']}</td>
+                        <td>{escape_html(row['tier'])}</td>
+                        <td>{escape_html(row['record'])}</td>
+                        <td>{escape_html(row['pct'])}</td>
                     </tr>
 '''
     html += '''                </tbody>
@@ -1236,9 +1244,9 @@ def generate_html_output(analysis_data, timestamp):
 '''
     for row in analysis_data['moneyline_consensus']:
         html += f'''                    <tr>
-                        <td>{row['tier']}</td>
-                        <td>{row['record']}</td>
-                        <td>{row['pct']}</td>
+                        <td>{escape_html(row['tier'])}</td>
+                        <td>{escape_html(row['record'])}</td>
+                        <td>{escape_html(row['pct'])}</td>
                     </tr>
 '''
     html += '''                </tbody>
@@ -1305,7 +1313,7 @@ def main():
         analyze_moneyline_performance_by_probability(df, consensus_only=True)
         
         # Collect analysis data for file output
-        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC")
+        timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
         analysis_data = {
             'spread_records': collect_overall_spread_records(df),
             'totals_records': collect_overall_totals_records(df),
