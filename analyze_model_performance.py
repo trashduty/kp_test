@@ -3,6 +3,7 @@ import sys
 import pandas as pd
 import requests
 import base64
+import traceback
 from io import StringIO
 from rich.console import Console
 from rich.logging import RichHandler
@@ -18,6 +19,9 @@ logging.basicConfig(
 )
 logger = logging.getLogger("rich")
 console = Console()
+
+# Constants
+GRADED_RESULTS_COMMIT = "56448b2e6e4f76970b6dfa5bb03bdfb4a2972552"
 
 """
 Model Performance Analysis Script
@@ -50,7 +54,7 @@ def fetch_graded_results_from_github():
     Falls back to local file if API access fails
     """
     # Try raw GitHub URL first (more reliable)
-    raw_url = "https://raw.githubusercontent.com/trashduty/cbb/56448b2e6e4f76970b6dfa5bb03bdfb4a2972552/graded_results.csv"
+    raw_url = f"https://raw.githubusercontent.com/trashduty/cbb/{GRADED_RESULTS_COMMIT}/graded_results.csv"
     
     try:
         logger.info("[cyan]Fetching graded_results.csv from trashduty/cbb repository...[/cyan]")
@@ -74,7 +78,7 @@ def fetch_via_api():
     Try to fetch using GitHub API with base64 decoding
     """
     url = "https://api.github.com/repos/trashduty/cbb/contents/graded_results.csv"
-    params = {'ref': '56448b2e6e4f76970b6dfa5bb03bdfb4a2972552'}
+    params = {'ref': GRADED_RESULTS_COMMIT}
     
     headers = {}
     github_token = os.getenv("GITHUB_TOKEN")
@@ -442,7 +446,6 @@ def main():
     
     try:
         # Fetch data from GitHub
-        logger.info("Fetching graded_results.csv from GitHub...")
         df = fetch_graded_results_from_github()
         
         if df is None:
@@ -467,7 +470,6 @@ def main():
         
     except Exception as e:
         logger.error(f"[red]✗[/red] Error in analysis script: {str(e)}")
-        import traceback
         traceback.print_exc()
         sys.exit(1)
 
