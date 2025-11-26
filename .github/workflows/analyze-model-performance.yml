@@ -1,0 +1,43 @@
+name: Analyze Model Performance
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'graded_results.csv'
+  workflow_dispatch:
+  schedule:
+    - cron: '0 12 * * *'  # Run daily at noon UTC
+
+permissions:
+  contents: read
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧾 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 📊 Run model performance analysis
+        run: python analyze_model_performance.py
+
+      - name: 📸 Upload analysis logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: analysis-logs
+          path: |
+            *.log
+          if-no-files-found: ignore
