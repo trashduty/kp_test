@@ -1291,7 +1291,6 @@ def generate_html_output(analysis_data, timestamp):
         </section>
 
         <footer>
-            <p>Data source: <a href="https://github.com/trashduty/cbb">trashduty/cbb</a> repository</p>
             <p>Analysis generated automatically by GitHub Actions</p>
         </footer>
     </div>
