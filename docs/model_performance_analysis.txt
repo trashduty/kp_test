@@ -1,25 +1,10 @@
 ================================================================================
 Model Performance Analysis Report
-Generated: 2025-11-26 23:31:29 UTC
+Generated: 2025-11-27 04:29:20 UTC
 ================================================================================
 
 ================================================================================
-1. Overall Spread Records
-================================================================================
-
-Favorites Record: 61-74 (45.2%)
-Underdogs Record: 74-61 (54.8%)
-Note: 135 favorite bets, 135 underdog bets
-
-================================================================================
-2. Overall Totals Records
-================================================================================
-
-Overs Record: 126-144 (46.7%)
-Unders Record: 144-126 (53.3%)
-
-================================================================================
-3. Model Spread Performance by Edge (All Games)
+1. Model Spread Performance by Edge (All Games)
 ================================================================================
 
 Edge Tier       Record       Win %     
@@ -30,7 +15,7 @@ Edge Tier       Record       Win %
 4%+             11-7         61.1%     
 
 ================================================================================
-4. Model Spread Performance by Edge (Consensus Only)
+2. Model Spread Performance by Edge (Consensus Only)
 ================================================================================
 
 Edge Tier       Record       Win %     
@@ -41,7 +26,7 @@ Edge Tier       Record       Win %
 4%+             8-7          53.3%     
 
 ================================================================================
-5. Model Spread Performance by Point Spread Ranges
+3. Model Spread Performance by Point Spread Ranges
 ================================================================================
 
 Favorites (opening_spread < 0):
@@ -69,7 +54,7 @@ Point Spread Range   Record       Win %
 30+                  6-8          42.9%     
 
 ================================================================================
-6. Model Over/Under Performance by Edge (All Games)
+4. Model Over/Under Performance by Edge (All Games)
 ================================================================================
 
 Overs Performance:
@@ -91,7 +76,7 @@ Edge Tier       Record       Win %
 4%+             4-2          66.7%     
 
 ================================================================================
-7. Model Over/Under Performance by Edge (Consensus Only)
+5. Model Over/Under Performance by Edge (Consensus Only)
 ================================================================================
 
 Overs Performance:
@@ -113,14 +98,14 @@ Edge Tier       Record       Win %
 4%+             2-2          50.0%     
 
 ================================================================================
-8. Overall Model Totals Record
+6. Overall Model Totals Record
 ================================================================================
 
 Overs (over_cover_probability > 0.5): 36-32 (52.9%)
 Unders (under_cover_probability > 0.5): 92-60 (60.5%)
 
 ================================================================================
-9. Moneyline Performance by Win Probability (All Games)
+7. Moneyline Performance by Win Probability (All Games)
 ================================================================================
 
 Win Probability Tier   Record       Win %     
@@ -136,7 +121,7 @@ Win Probability Tier   Record       Win %
 90%+                   25-1         96.2%     
 
 ================================================================================
-10. Moneyline Performance by Win Probability (Consensus Only)
+8. Moneyline Performance by Win Probability (Consensus Only)
 ================================================================================
 
 Win Probability Tier   Record       Win %     

@@ -36,16 +36,14 @@ Model Performance Analysis Script
 This script analyzes model performance from the trashduty/cbb repository's graded_results.csv file.
 
 The script calculates and displays comprehensive summary statistics including:
-1. Overall Spread Records (Favorites vs Underdogs)
-2. Overall Totals Records (Overs vs Unders)
-3. Model Spread Performance by Edge (All Games)
-4. Model Spread Performance by Edge (Consensus Only)
-5. Model Spread Performance by Point Spread Ranges
-6. Model Over/Under Performance by Edge (All Games)
-7. Model Over/Under Performance by Edge (Consensus Only)
-8. Overall Model Totals Record
-9. Moneyline Performance by Win Probability (All Games)
-10. Moneyline Performance by Win Probability (Consensus Only)
+1. Model Spread Performance by Edge (All Games)
+2. Model Spread Performance by Edge (Consensus Only)
+3. Model Spread Performance by Point Spread Ranges
+4. Model Over/Under Performance by Edge (All Games)
+5. Model Over/Under Performance by Edge (Consensus Only)
+6. Overall Model Totals Record
+7. Moneyline Performance by Win Probability (All Games)
+8. Moneyline Performance by Win Probability (Consensus Only)
 
 Usage:
     python analyze_model_performance.py
@@ -148,56 +146,11 @@ def print_section_header(title):
     console.print(f"[bold cyan]{'=' * 80}[/bold cyan]\n")
 
 
-def analyze_overall_spread_records(df):
-    """
-    Section 1: Overall Spread Records
-    Analyze Favorites vs Underdogs performance
-    """
-    print_section_header("1. Overall Spread Records")
-    
-    # Remove rows with NaN spread_covered values
-    df_clean = df.dropna(subset=['spread_covered'])
-    
-    # Favorites: opening_spread < 0
-    favorites = df_clean[df_clean['opening_spread'] < 0].copy()
-    fav_wins = (favorites['spread_covered'] == 1).sum()
-    fav_losses = (favorites['spread_covered'] == 0).sum()
-    
-    # Underdogs: opening_spread > 0
-    underdogs = df_clean[df_clean['opening_spread'] > 0].copy()
-    dog_wins = (underdogs['spread_covered'] == 1).sum()
-    dog_losses = (underdogs['spread_covered'] == 0).sum()
-    
-    console.print(f"[bold]Favorites Record:[/bold] {format_win_loss_pct(fav_wins, fav_losses)}")
-    console.print(f"[bold]Underdogs Record:[/bold] {format_win_loss_pct(dog_wins, dog_losses)}")
-    console.print(f"\nNote: {len(favorites)} favorite bets, {len(underdogs)} underdog bets")
-
-
-def analyze_overall_totals_records(df):
-    """
-    Section 2: Overall Totals Records
-    """
-    print_section_header("2. Overall Totals Records")
-    
-    # Remove rows with NaN values
-    df_clean = df.dropna(subset=['over_hit', 'under_hit'])
-    
-    # Count overs and unders
-    over_wins = (df_clean['over_hit'] == 1).sum()
-    over_losses = (df_clean['over_hit'] == 0).sum()
-    
-    under_wins = (df_clean['under_hit'] == 1).sum()
-    under_losses = (df_clean['under_hit'] == 0).sum()
-    
-    console.print(f"[bold]Overs Record:[/bold] {format_win_loss_pct(over_wins, over_losses)}")
-    console.print(f"[bold]Unders Record:[/bold] {format_win_loss_pct(under_wins, under_losses)}")
-
-
 def analyze_spread_performance_by_edge(df, consensus_only=False):
     """
-    Section 3 & 4: Model Spread Performance by Edge
+    Section 1 & 2: Model Spread Performance by Edge
     """
-    title = "4. Model Spread Performance by Edge (Consensus Only)" if consensus_only else "3. Model Spread Performance by Edge (All Games)"
+    title = "2. Model Spread Performance by Edge (Consensus Only)" if consensus_only else "1. Model Spread Performance by Edge (All Games)"
     print_section_header(title)
     
     # Remove rows with NaN values
@@ -237,9 +190,9 @@ def analyze_spread_performance_by_edge(df, consensus_only=False):
 
 def analyze_spread_performance_by_point_spread(df):
     """
-    Section 5: Model Spread Performance by Point Spread Ranges
+    Section 3: Model Spread Performance by Point Spread Ranges
     """
-    print_section_header("5. Model Spread Performance by Point Spread Ranges")
+    print_section_header("3. Model Spread Performance by Point Spread Ranges")
     
     # Filter for games where spread_cover_probability > 0.5 and remove NaN values
     confident_picks = df.dropna(subset=['spread_cover_probability', 'spread_covered', 'opening_spread']).copy()
@@ -306,9 +259,9 @@ def analyze_spread_performance_by_point_spread(df):
 
 def analyze_over_under_performance_by_edge(df, consensus_only=False):
     """
-    Section 6 & 7: Model Over/Under Performance by Edge
+    Section 4 & 5: Model Over/Under Performance by Edge
     """
-    title = "7. Model Over/Under Performance by Edge (Consensus Only)" if consensus_only else "6. Model Over/Under Performance by Edge (All Games)"
+    title = "5. Model Over/Under Performance by Edge (Consensus Only)" if consensus_only else "4. Model Over/Under Performance by Edge (All Games)"
     print_section_header(title)
     
     # Define edge tiers
@@ -376,9 +329,9 @@ def analyze_over_under_performance_by_edge(df, consensus_only=False):
 
 def analyze_overall_model_totals_record(df):
     """
-    Section 8: Overall Model Totals Record
+    Section 6: Overall Model Totals Record
     """
-    print_section_header("8. Overall Model Totals Record")
+    print_section_header("6. Overall Model Totals Record")
     
     # Remove rows with NaN values and filter for confident picks
     df_clean = df.dropna(subset=['over_cover_probability', 'under_cover_probability', 'over_hit', 'under_hit'])
@@ -399,9 +352,9 @@ def analyze_overall_model_totals_record(df):
 
 def analyze_moneyline_performance_by_probability(df, consensus_only=False):
     """
-    Section 9 & 10: Moneyline Performance by Win Probability
+    Section 7 & 8: Moneyline Performance by Win Probability
     """
-    title = "10. Moneyline Performance by Win Probability (Consensus Only)" if consensus_only else "9. Moneyline Performance by Win Probability (All Games)"
+    title = "8. Moneyline Performance by Win Probability (Consensus Only)" if consensus_only else "7. Moneyline Performance by Win Probability (All Games)"
     print_section_header(title)
     
     # Filter for consensus if needed
@@ -441,45 +394,6 @@ def analyze_moneyline_performance_by_probability(df, consensus_only=False):
             table.add_row(label, "0-0", "0.0%")
     
     console.print(table)
-
-
-def collect_overall_spread_records(df):
-    """
-    Collect overall spread records data for output
-    """
-    df_clean = df.dropna(subset=['spread_covered'])
-    
-    favorites = df_clean[df_clean['opening_spread'] < 0].copy()
-    fav_wins = (favorites['spread_covered'] == 1).sum()
-    fav_losses = (favorites['spread_covered'] == 0).sum()
-    
-    underdogs = df_clean[df_clean['opening_spread'] > 0].copy()
-    dog_wins = (underdogs['spread_covered'] == 1).sum()
-    dog_losses = (underdogs['spread_covered'] == 0).sum()
-    
-    return {
-        'favorites': {'wins': fav_wins, 'losses': fav_losses, 'record': format_win_loss_pct(fav_wins, fav_losses)},
-        'underdogs': {'wins': dog_wins, 'losses': dog_losses, 'record': format_win_loss_pct(dog_wins, dog_losses)},
-        'note': f"{len(favorites)} favorite bets, {len(underdogs)} underdog bets"
-    }
-
-
-def collect_overall_totals_records(df):
-    """
-    Collect overall totals records data for output
-    """
-    df_clean = df.dropna(subset=['over_hit', 'under_hit'])
-    
-    over_wins = (df_clean['over_hit'] == 1).sum()
-    over_losses = (df_clean['over_hit'] == 0).sum()
-    
-    under_wins = (df_clean['under_hit'] == 1).sum()
-    under_losses = (df_clean['under_hit'] == 0).sum()
-    
-    return {
-        'overs': {'wins': over_wins, 'losses': over_losses, 'record': format_win_loss_pct(over_wins, over_losses)},
-        'unders': {'wins': under_wins, 'losses': under_losses, 'record': format_win_loss_pct(under_wins, under_losses)}
-    }
 
 
 def collect_spread_performance_by_edge(df, consensus_only=False):
@@ -683,28 +597,9 @@ def generate_plain_text_output(analysis_data, timestamp):
     lines.append("=" * 80)
     lines.append("")
     
-    # Section 1: Overall Spread Records
+    # Section 1: Model Spread Performance by Edge (All Games)
     lines.append("=" * 80)
-    lines.append("1. Overall Spread Records")
-    lines.append("=" * 80)
-    lines.append("")
-    lines.append(f"Favorites Record: {analysis_data['spread_records']['favorites']['record']}")
-    lines.append(f"Underdogs Record: {analysis_data['spread_records']['underdogs']['record']}")
-    lines.append(f"Note: {analysis_data['spread_records']['note']}")
-    lines.append("")
-    
-    # Section 2: Overall Totals Records
-    lines.append("=" * 80)
-    lines.append("2. Overall Totals Records")
-    lines.append("=" * 80)
-    lines.append("")
-    lines.append(f"Overs Record: {analysis_data['totals_records']['overs']['record']}")
-    lines.append(f"Unders Record: {analysis_data['totals_records']['unders']['record']}")
-    lines.append("")
-    
-    # Section 3: Model Spread Performance by Edge (All Games)
-    lines.append("=" * 80)
-    lines.append("3. Model Spread Performance by Edge (All Games)")
+    lines.append("1. Model Spread Performance by Edge (All Games)")
     lines.append("=" * 80)
     lines.append("")
     lines.append(f"{'Edge Tier':<15} {'Record':<12} {'Win %':<10}")
@@ -713,9 +608,9 @@ def generate_plain_text_output(analysis_data, timestamp):
         lines.append(f"{row['tier']:<15} {row['record']:<12} {row['pct']:<10}")
     lines.append("")
     
-    # Section 4: Model Spread Performance by Edge (Consensus Only)
+    # Section 2: Model Spread Performance by Edge (Consensus Only)
     lines.append("=" * 80)
-    lines.append("4. Model Spread Performance by Edge (Consensus Only)")
+    lines.append("2. Model Spread Performance by Edge (Consensus Only)")
     lines.append("=" * 80)
     lines.append("")
     lines.append(f"{'Edge Tier':<15} {'Record':<12} {'Win %':<10}")
@@ -724,9 +619,9 @@ def generate_plain_text_output(analysis_data, timestamp):
         lines.append(f"{row['tier']:<15} {row['record']:<12} {row['pct']:<10}")
     lines.append("")
     
-    # Section 5: Model Spread Performance by Point Spread Ranges
+    # Section 3: Model Spread Performance by Point Spread Ranges
     lines.append("=" * 80)
-    lines.append("5. Model Spread Performance by Point Spread Ranges")
+    lines.append("3. Model Spread Performance by Point Spread Ranges")
     lines.append("=" * 80)
     lines.append("")
     lines.append("Favorites (opening_spread < 0):")
@@ -744,9 +639,9 @@ def generate_plain_text_output(analysis_data, timestamp):
         lines.append(f"{row['range']:<20} {row['record']:<12} {row['pct']:<10}")
     lines.append("")
     
-    # Section 6: Model Over/Under Performance by Edge (All Games)
+    # Section 4: Model Over/Under Performance by Edge (All Games)
     lines.append("=" * 80)
-    lines.append("6. Model Over/Under Performance by Edge (All Games)")
+    lines.append("4. Model Over/Under Performance by Edge (All Games)")
     lines.append("=" * 80)
     lines.append("")
     lines.append("Overs Performance:")
@@ -764,9 +659,9 @@ def generate_plain_text_output(analysis_data, timestamp):
         lines.append(f"{row['tier']:<15} {row['record']:<12} {row['pct']:<10}")
     lines.append("")
     
-    # Section 7: Model Over/Under Performance by Edge (Consensus Only)
+    # Section 5: Model Over/Under Performance by Edge (Consensus Only)
     lines.append("=" * 80)
-    lines.append("7. Model Over/Under Performance by Edge (Consensus Only)")
+    lines.append("5. Model Over/Under Performance by Edge (Consensus Only)")
     lines.append("=" * 80)
     lines.append("")
     lines.append("Overs Performance:")
@@ -784,18 +679,18 @@ def generate_plain_text_output(analysis_data, timestamp):
         lines.append(f"{row['tier']:<15} {row['record']:<12} {row['pct']:<10}")
     lines.append("")
     
-    # Section 8: Overall Model Totals Record
+    # Section 6: Overall Model Totals Record
     lines.append("=" * 80)
-    lines.append("8. Overall Model Totals Record")
+    lines.append("6. Overall Model Totals Record")
     lines.append("=" * 80)
     lines.append("")
     lines.append(f"Overs (over_cover_probability > 0.5): {analysis_data['model_totals']['overs']['record']}")
     lines.append(f"Unders (under_cover_probability > 0.5): {analysis_data['model_totals']['unders']['record']}")
     lines.append("")
     
-    # Section 9: Moneyline Performance by Win Probability (All Games)
+    # Section 7: Moneyline Performance by Win Probability (All Games)
     lines.append("=" * 80)
-    lines.append("9. Moneyline Performance by Win Probability (All Games)")
+    lines.append("7. Moneyline Performance by Win Probability (All Games)")
     lines.append("=" * 80)
     lines.append("")
     lines.append(f"{'Win Probability Tier':<22} {'Record':<12} {'Win %':<10}")
@@ -804,9 +699,9 @@ def generate_plain_text_output(analysis_data, timestamp):
         lines.append(f"{row['tier']:<22} {row['record']:<12} {row['pct']:<10}")
     lines.append("")
     
-    # Section 10: Moneyline Performance by Win Probability (Consensus Only)
+    # Section 8: Moneyline Performance by Win Probability (Consensus Only)
     lines.append("=" * 80)
-    lines.append("10. Moneyline Performance by Win Probability (Consensus Only)")
+    lines.append("8. Moneyline Performance by Win Probability (Consensus Only)")
     lines.append("=" * 80)
     lines.append("")
     lines.append(f"{'Win Probability Tier':<22} {'Record':<12} {'Win %':<10}")
@@ -981,32 +876,7 @@ def generate_html_output(analysis_data, timestamp):
         </header>
 
         <section>
-            <h2>1. Overall Spread Records</h2>
-            <div class="summary-item">
-                <span class="summary-label">Favorites Record:</span>
-                <span class="summary-value">{escape_html(analysis_data['spread_records']['favorites']['record'])}</span>
-            </div>
-            <div class="summary-item">
-                <span class="summary-label">Underdogs Record:</span>
-                <span class="summary-value">{escape_html(analysis_data['spread_records']['underdogs']['record'])}</span>
-            </div>
-            <p class="note">Note: {escape_html(analysis_data['spread_records']['note'])}</p>
-        </section>
-
-        <section>
-            <h2>2. Overall Totals Records</h2>
-            <div class="summary-item">
-                <span class="summary-label">Overs Record:</span>
-                <span class="summary-value">{escape_html(analysis_data['totals_records']['overs']['record'])}</span>
-            </div>
-            <div class="summary-item">
-                <span class="summary-label">Unders Record:</span>
-                <span class="summary-value">{escape_html(analysis_data['totals_records']['unders']['record'])}</span>
-            </div>
-        </section>
-
-        <section>
-            <h2>3. Model Spread Performance by Edge (All Games)</h2>
+            <h2>1. Model Spread Performance by Edge (All Games)</h2>
             <table>
                 <thead>
                     <tr>
@@ -1029,7 +899,7 @@ def generate_html_output(analysis_data, timestamp):
         </section>
 
         <section>
-            <h2>4. Model Spread Performance by Edge (Consensus Only)</h2>
+            <h2>2. Model Spread Performance by Edge (Consensus Only)</h2>
             <table>
                 <thead>
                     <tr>
@@ -1052,7 +922,7 @@ def generate_html_output(analysis_data, timestamp):
         </section>
 
         <section>
-            <h2>5. Model Spread Performance by Point Spread Ranges</h2>
+            <h2>3. Model Spread Performance by Point Spread Ranges</h2>
             <div class="subsection">
                 <h3>Favorites (opening_spread &lt; 0)</h3>
                 <table>
@@ -1100,7 +970,7 @@ def generate_html_output(analysis_data, timestamp):
         </section>
 
         <section>
-            <h2>6. Model Over/Under Performance by Edge (All Games)</h2>
+            <h2>4. Model Over/Under Performance by Edge (All Games)</h2>
             <div class="subsection">
                 <h3>Overs Performance</h3>
                 <table>
@@ -1148,7 +1018,7 @@ def generate_html_output(analysis_data, timestamp):
         </section>
 
         <section>
-            <h2>7. Model Over/Under Performance by Edge (Consensus Only)</h2>
+            <h2>5. Model Over/Under Performance by Edge (Consensus Only)</h2>
             <div class="subsection">
                 <h3>Overs Performance</h3>
                 <table>
@@ -1196,7 +1066,7 @@ def generate_html_output(analysis_data, timestamp):
         </section>
 
         <section>
-            <h2>8. Overall Model Totals Record</h2>
+            <h2>6. Overall Model Totals Record</h2>
             <div class="summary-item">
                 <span class="summary-label">Overs (over_cover_probability &gt; 0.5):</span>
                 <span class="summary-value">{escape_html(analysis_data['model_totals']['overs']['record'])}</span>
@@ -1208,7 +1078,7 @@ def generate_html_output(analysis_data, timestamp):
         </section>
 
         <section>
-            <h2>9. Moneyline Performance by Win Probability (All Games)</h2>
+            <h2>7. Moneyline Performance by Win Probability (All Games)</h2>
             <table>
                 <thead>
                     <tr>
@@ -1231,7 +1101,7 @@ def generate_html_output(analysis_data, timestamp):
         </section>
 
         <section>
-            <h2>10. Moneyline Performance by Win Probability (Consensus Only)</h2>
+            <h2>8. Moneyline Performance by Win Probability (Consensus Only)</h2>
             <table>
                 <thead>
                     <tr>
@@ -1301,8 +1171,6 @@ def main():
             sys.exit(1)
         
         # Run all analyses (console output)
-        analyze_overall_spread_records(df)
-        analyze_overall_totals_records(df)
         analyze_spread_performance_by_edge(df, consensus_only=False)
         analyze_spread_performance_by_edge(df, consensus_only=True)
         analyze_spread_performance_by_point_spread(df)
@@ -1315,8 +1183,6 @@ def main():
         # Collect analysis data for file output
         timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
         analysis_data = {
-            'spread_records': collect_overall_spread_records(df),
-            'totals_records': collect_overall_totals_records(df),
             'spread_by_edge_all': collect_spread_performance_by_edge(df, consensus_only=False),
             'spread_by_edge_consensus': collect_spread_performance_by_edge(df, consensus_only=True),
             'spread_by_point_spread': collect_spread_performance_by_point_spread(df),
