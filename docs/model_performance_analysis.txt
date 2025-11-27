@@ -1,6 +1,7 @@
 ================================================================================
 Model Performance Analysis Report
-Generated: 2025-11-27 04:37:15 UTC
+Generated: 2025-11-27 04:58:25 UTC
+This report shows the model's record against the opening lines for spreads, totals, and moneylines.
 ================================================================================
 
 ================================================================================
