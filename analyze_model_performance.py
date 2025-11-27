@@ -44,8 +44,8 @@ The script calculates and displays comprehensive summary statistics including:
 6. Overall Model Totals Record
 7. Moneyline Performance by Win Probability (All Games)
 8. Moneyline Performance by Win Probability (Consensus Only)
-9. Moneyline Performance by Point Spread Range (4%+ Edge)
-10. Moneyline Performance by Point Spread Range (4%+ Edge, Consensus Only)
+9. Moneyline Performance by Win Probability (4%+ Edge)
+10. Moneyline Performance by Win Probability (4%+ Edge, Consensus Only)
 
 Usage:
     python analyze_model_performance.py
@@ -398,44 +398,43 @@ def analyze_moneyline_performance_by_probability(df, consensus_only=False):
     console.print(table)
 
 
-def analyze_moneyline_performance_by_point_spread_range(df, consensus_only=False):
+def analyze_moneyline_performance_by_win_probability_high_edge(df, consensus_only=False):
     """
-    Section 9 & 10: Moneyline Performance by Point Spread Range (4%+ Edge)
+    Section 9 & 10: Moneyline Performance by Win Probability (4%+ Edge)
     """
-    title = "10. Moneyline Performance by Point Spread Range (4%+ Edge, Consensus Only)" if consensus_only else "9. Moneyline Performance by Point Spread Range (4%+ Edge)"
+    title = "10. Moneyline Performance by Win Probability (4%+ Edge, Consensus Only)" if consensus_only else "9. Moneyline Performance by Win Probability (4%+ Edge)"
     print_section_header(title)
     
     # Filter for moneyline edge >= 4% (0.04)
-    data = df.dropna(subset=['moneyline_edge', 'moneyline_won', 'opening_spread']).copy()
+    data = df.dropna(subset=['moneyline_edge', 'moneyline_won', 'moneyline_win_probability']).copy()
     data = data[data['moneyline_edge'] >= 0.04].copy()
     
     # Filter for consensus if needed
     if consensus_only:
         data = data[data['moneyline_consensus_flag'] == 1].copy()
     
-    # Use absolute value of opening_spread
-    data['abs_spread'] = abs(data['opening_spread'])
-    
-    # Define point spread ranges
-    ranges = [
-        (0, 4.5, "0-4.5"),
-        (5, 9.5, "5-9.5"),
-        (10, 14.5, "10-14.5"),
-        (15, 19.5, "15-19.5"),
-        (20, 24.5, "20-24.5"),
-        (25, 29.5, "25-29.5"),
-        (30, float('inf'), "30+")
+    # Define probability tiers (same as Section 8)
+    tiers = [
+        (0.10, 0.19, "10-19%"),
+        (0.20, 0.29, "20-29%"),
+        (0.30, 0.39, "30-39%"),
+        (0.40, 0.49, "40-49%"),
+        (0.50, 0.59, "50-59%"),
+        (0.60, 0.69, "60-69%"),
+        (0.70, 0.79, "70-79%"),
+        (0.80, 0.89, "80-89%"),
+        (0.90, 1.0, "90%+")
     ]
     
     table = Table(show_header=True, header_style="bold cyan")
-    table.add_column("Point Spread Range", style="yellow")
+    table.add_column("Win Probability Tier", style="yellow")
     table.add_column("Record", justify="right")
     table.add_column("Win %", justify="right")
     
-    for min_spread, max_spread, label in ranges:
-        range_data = data[(data['abs_spread'] >= min_spread) & (data['abs_spread'] <= max_spread)]
-        wins = (range_data['moneyline_won'] == 1).sum()
-        losses = (range_data['moneyline_won'] == 0).sum()
+    for min_prob, max_prob, label in tiers:
+        tier_data = data[(data['moneyline_win_probability'] >= min_prob) & (data['moneyline_win_probability'] <= max_prob)]
+        wins = (tier_data['moneyline_won'] == 1).sum()
+        losses = (tier_data['moneyline_won'] == 0).sum()
         total = wins + losses
         
         if total > 0:
@@ -637,44 +636,43 @@ def collect_moneyline_performance_by_probability(df, consensus_only=False):
     return results
 
 
-def collect_moneyline_performance_by_point_spread_range(df, consensus_only=False):
+def collect_moneyline_performance_by_win_probability_high_edge(df, consensus_only=False):
     """
-    Collect moneyline performance by point spread range (4%+ edge) data for output
+    Collect moneyline performance by win probability (4%+ edge) data for output
     """
     # Filter for moneyline edge >= 4% (0.04)
-    data = df.dropna(subset=['moneyline_edge', 'moneyline_won', 'opening_spread']).copy()
+    data = df.dropna(subset=['moneyline_edge', 'moneyline_won', 'moneyline_win_probability']).copy()
     data = data[data['moneyline_edge'] >= 0.04].copy()
     
     # Filter for consensus if needed
     if consensus_only:
         data = data[data['moneyline_consensus_flag'] == 1].copy()
     
-    # Use absolute value of opening_spread
-    data['abs_spread'] = abs(data['opening_spread'])
-    
-    # Define point spread ranges
-    ranges = [
-        (0, 4.5, "0-4.5"),
-        (5, 9.5, "5-9.5"),
-        (10, 14.5, "10-14.5"),
-        (15, 19.5, "15-19.5"),
-        (20, 24.5, "20-24.5"),
-        (25, 29.5, "25-29.5"),
-        (30, float('inf'), "30+")
+    # Define probability tiers (same as Section 8)
+    tiers = [
+        (0.10, 0.19, "10-19%"),
+        (0.20, 0.29, "20-29%"),
+        (0.30, 0.39, "30-39%"),
+        (0.40, 0.49, "40-49%"),
+        (0.50, 0.59, "50-59%"),
+        (0.60, 0.69, "60-69%"),
+        (0.70, 0.79, "70-79%"),
+        (0.80, 0.89, "80-89%"),
+        (0.90, 1.0, "90%+")
     ]
     
     results = []
-    for min_spread, max_spread, label in ranges:
-        range_data = data[(data['abs_spread'] >= min_spread) & (data['abs_spread'] <= max_spread)]
-        wins = (range_data['moneyline_won'] == 1).sum()
-        losses = (range_data['moneyline_won'] == 0).sum()
+    for min_prob, max_prob, label in tiers:
+        tier_data = data[(data['moneyline_win_probability'] >= min_prob) & (data['moneyline_win_probability'] <= max_prob)]
+        wins = (tier_data['moneyline_won'] == 1).sum()
+        losses = (tier_data['moneyline_won'] == 0).sum()
         total = wins + losses
         
         if total > 0:
             win_pct = (wins / total) * 100
-            results.append({'range': label, 'record': f"{wins}-{losses}", 'pct': f"{win_pct:.1f}%"})
+            results.append({'tier': label, 'record': f"{wins}-{losses}", 'pct': f"{win_pct:.1f}%"})
         else:
-            results.append({'range': label, 'record': "0-0", 'pct': "0.0%"})
+            results.append({'tier': label, 'record': "0-0", 'pct': "0.0%"})
     
     return results
 
@@ -804,26 +802,26 @@ def generate_plain_text_output(analysis_data, timestamp):
         lines.append(f"{row['tier']:<22} {row['record']:<12} {row['pct']:<10}")
     lines.append("")
     
-    # Section 9: Moneyline Performance by Point Spread Range (4%+ Edge)
+    # Section 9: Moneyline Performance by Win Probability (4%+ Edge)
     lines.append("=" * 80)
-    lines.append("9. Moneyline Performance by Point Spread Range (4%+ Edge)")
+    lines.append("9. Moneyline Performance by Win Probability (4%+ Edge)")
     lines.append("=" * 80)
     lines.append("")
-    lines.append(f"{'Point Spread Range':<20} {'Record':<12} {'Win %':<10}")
-    lines.append("-" * 42)
-    for row in analysis_data['moneyline_by_spread_all']:
-        lines.append(f"{row['range']:<20} {row['record']:<12} {row['pct']:<10}")
+    lines.append(f"{'Win Probability Tier':<22} {'Record':<12} {'Win %':<10}")
+    lines.append("-" * 44)
+    for row in analysis_data['moneyline_by_prob_high_edge_all']:
+        lines.append(f"{row['tier']:<22} {row['record']:<12} {row['pct']:<10}")
     lines.append("")
     
-    # Section 10: Moneyline Performance by Point Spread Range (4%+ Edge, Consensus Only)
+    # Section 10: Moneyline Performance by Win Probability (4%+ Edge, Consensus Only)
     lines.append("=" * 80)
-    lines.append("10. Moneyline Performance by Point Spread Range (4%+ Edge, Consensus Only)")
+    lines.append("10. Moneyline Performance by Win Probability (4%+ Edge, Consensus Only)")
     lines.append("=" * 80)
     lines.append("")
-    lines.append(f"{'Point Spread Range':<20} {'Record':<12} {'Win %':<10}")
-    lines.append("-" * 42)
-    for row in analysis_data['moneyline_by_spread_consensus']:
-        lines.append(f"{row['range']:<20} {row['record']:<12} {row['pct']:<10}")
+    lines.append(f"{'Win Probability Tier':<22} {'Record':<12} {'Win %':<10}")
+    lines.append("-" * 44)
+    for row in analysis_data['moneyline_by_prob_high_edge_consensus']:
+        lines.append(f"{row['tier']:<22} {row['record']:<12} {row['pct']:<10}")
     lines.append("")
     
     lines.append("=" * 80)
@@ -1247,20 +1245,20 @@ def generate_html_output(analysis_data, timestamp):
         </section>
 
         <section>
-            <h2>9. Moneyline Performance by Point Spread Range (4%+ Edge)</h2>
+            <h2>9. Moneyline Performance by Win Probability (4%+ Edge)</h2>
             <table>
                 <thead>
                     <tr>
-                        <th>Point Spread Range</th>
+                        <th>Win Probability Tier</th>
                         <th>Record</th>
                         <th>Win %</th>
                     </tr>
                 </thead>
                 <tbody>
 '''
-    for row in analysis_data['moneyline_by_spread_all']:
+    for row in analysis_data['moneyline_by_prob_high_edge_all']:
         html += f'''                    <tr>
-                        <td>{escape_html(row['range'])}</td>
+                        <td>{escape_html(row['tier'])}</td>
                         <td>{escape_html(row['record'])}</td>
                         <td>{escape_html(row['pct'])}</td>
                     </tr>
@@ -1270,20 +1268,20 @@ def generate_html_output(analysis_data, timestamp):
         </section>
 
         <section>
-            <h2>10. Moneyline Performance by Point Spread Range (4%+ Edge, Consensus Only)</h2>
+            <h2>10. Moneyline Performance by Win Probability (4%+ Edge, Consensus Only)</h2>
             <table>
                 <thead>
                     <tr>
-                        <th>Point Spread Range</th>
+                        <th>Win Probability Tier</th>
                         <th>Record</th>
                         <th>Win %</th>
                     </tr>
                 </thead>
                 <tbody>
 '''
-    for row in analysis_data['moneyline_by_spread_consensus']:
+    for row in analysis_data['moneyline_by_prob_high_edge_consensus']:
         html += f'''                    <tr>
-                        <td>{escape_html(row['range'])}</td>
+                        <td>{escape_html(row['tier'])}</td>
                         <td>{escape_html(row['record'])}</td>
                         <td>{escape_html(row['pct'])}</td>
                     </tr>
@@ -1348,8 +1346,8 @@ def main():
         analyze_overall_model_totals_record(df)
         analyze_moneyline_performance_by_probability(df, consensus_only=False)
         analyze_moneyline_performance_by_probability(df, consensus_only=True)
-        analyze_moneyline_performance_by_point_spread_range(df, consensus_only=False)
-        analyze_moneyline_performance_by_point_spread_range(df, consensus_only=True)
+        analyze_moneyline_performance_by_win_probability_high_edge(df, consensus_only=False)
+        analyze_moneyline_performance_by_win_probability_high_edge(df, consensus_only=True)
         
         # Collect analysis data for file output
         timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
@@ -1362,8 +1360,8 @@ def main():
             'model_totals': collect_overall_model_totals_record(df),
             'moneyline_all': collect_moneyline_performance_by_probability(df, consensus_only=False),
             'moneyline_consensus': collect_moneyline_performance_by_probability(df, consensus_only=True),
-            'moneyline_by_spread_all': collect_moneyline_performance_by_point_spread_range(df, consensus_only=False),
-            'moneyline_by_spread_consensus': collect_moneyline_performance_by_point_spread_range(df, consensus_only=True)
+            'moneyline_by_prob_high_edge_all': collect_moneyline_performance_by_win_probability_high_edge(df, consensus_only=False),
+            'moneyline_by_prob_high_edge_consensus': collect_moneyline_performance_by_win_probability_high_edge(df, consensus_only=True)
         }
         
         # Save output files
