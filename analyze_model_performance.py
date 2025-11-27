@@ -594,6 +594,7 @@ def generate_plain_text_output(analysis_data, timestamp):
     lines.append("=" * 80)
     lines.append("Model Performance Analysis Report")
     lines.append(f"Generated: {timestamp}")
+    lines.append("This report shows the model's record against the opening lines for spreads, totals, and moneylines.")
     lines.append("=" * 80)
     lines.append("")
     
@@ -770,6 +771,12 @@ def generate_html_output(analysis_data, timestamp):
             color: #666;
             font-size: 0.9rem;
         }}
+        .disclaimer {{
+            font-size: 0.9rem;
+            color: #718096;
+            margin-top: 10px;
+            font-style: italic;
+        }}
         section {{
             margin-bottom: 40px;
         }}
@@ -873,6 +880,7 @@ def generate_html_output(analysis_data, timestamp):
         <header>
             <h1>Model Performance Analysis Report</h1>
             <p class="timestamp">Generated: {escape_html(timestamp)}</p>
+            <p class="disclaimer">This report shows the model's record against the opening lines for spreads, totals, and moneylines.</p>
         </header>
 
         <section>
