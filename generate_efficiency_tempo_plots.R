@@ -92,11 +92,12 @@ create_tempo_plot <- function(data, logo_data, non_logo_data, x_col, y_col,
   
   # Build the base plot
   if (y_reversed) {
-    # DRtg: lower y is better, so green = high tempo + low DRtg (top-right after reverse)
+    # DRtg: lower y is better, green = slow tempo + low DRtg (good defense)
+    # After y-axis reverse: bottom-left = low tempo + low DRtg = green
     p <- ggplot(data, aes(x = .data[[x_col]], y = .data[[y_col]])) +
-      annotate("rect", xmin = median_x, xmax = Inf, ymin = -Inf, ymax = median_y, 
+      annotate("rect", xmin = -Inf, xmax = median_x, ymin = -Inf, ymax = median_y, 
                alpha = 0.1, fill = "green") +
-      annotate("rect", xmin = -Inf, xmax = median_x, ymin = median_y, ymax = Inf, 
+      annotate("rect", xmin = median_x, xmax = Inf, ymin = median_y, ymax = Inf, 
                alpha = 0.1, fill = "red") +
       scale_y_reverse(breaks = pretty_breaks(n = 6))
   } else {
