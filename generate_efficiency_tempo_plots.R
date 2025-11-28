@@ -92,14 +92,15 @@ create_tempo_plot <- function(data, logo_data, non_logo_data, x_col, y_col,
   
   # Build the base plot
   if (y_reversed) {
-    # DRtg: lower y is better, green = slow tempo + low DRtg (good defense)
-    # After y-axis reverse: bottom-left = low tempo + low DRtg = green
+    # DRtg: lower y is better (good defense), normal Y-axis (higher numbers at top)
+    # Green = bottom-left (low tempo + low DRtg = slow pace + good defense)
+    # Red = top-right (high tempo + high DRtg = fast pace + bad defense)
     p <- ggplot(data, aes(x = .data[[x_col]], y = .data[[y_col]])) +
       annotate("rect", xmin = -Inf, xmax = median_x, ymin = -Inf, ymax = median_y, 
                alpha = 0.1, fill = "green") +
       annotate("rect", xmin = median_x, xmax = Inf, ymin = median_y, ymax = Inf, 
                alpha = 0.1, fill = "red") +
-      scale_y_reverse(breaks = pretty_breaks(n = 6))
+      scale_y_continuous(breaks = pretty_breaks(n = 6))
   } else {
     # ORtg: higher y is better, so green = high tempo + high ORtg (top-right)
     p <- ggplot(data, aes(x = .data[[x_col]], y = .data[[y_col]])) +
@@ -122,16 +123,18 @@ create_tempo_plot <- function(data, logo_data, non_logo_data, x_col, y_col,
                         color = "gray70", size = 1, alpha = 0.5)
   }
   
-  # Add logos using ggimage if available, otherwise use colored dots
-  if (ggimage_available && nrow(logo_data) > 0) {
-    p <- p + geom_image(data = logo_data, 
-                        aes(x = .data[[x_col]], y = .data[[y_col]], image = logo),
-                        size = 0.04, asp = 16/9)
-  } else if (nrow(logo_data) > 0) {
-    # Fallback: use colored dots for highlighted teams
-    p <- p + geom_point(data = logo_data, 
-                        aes(x = .data[[x_col]], y = .data[[y_col]]),
-                        color = "steelblue", size = 2.5, alpha = 0.8)
+  # Add logos for highlighted teams using ggimage (when available in GitHub Actions)
+  if (nrow(logo_data) > 0) {
+    if (exists("ggimage_available") && ggimage_available) {
+      p <- p + geom_image(data = logo_data, 
+                          aes(x = .data[[x_col]], y = .data[[y_col]], image = logo),
+                          size = 0.04, asp = 16/9)
+    } else {
+      # Fallback: use colored dots when ggimage is not available
+      p <- p + geom_point(data = logo_data, 
+                          aes(x = .data[[x_col]], y = .data[[y_col]]),
+                          color = "steelblue", size = 2.5, alpha = 0.8)
+    }
   }
   
   # Add theme and labels
