@@ -11,8 +11,6 @@ ggimage_available <- tryCatch({
   TRUE
 }, error = function(e) {
   cat("Note: ggimage not available, will use fallback rendering\n")
-  library(grid)
-  library(magick)
   FALSE
 })
 
@@ -24,6 +22,8 @@ cat(sprintf("ggimage available: %s\n", ggimage_available))
 dir.create("docs/plots", showWarnings = FALSE, recursive = TRUE)
 
 # Load KenPom data
+# Note: Column names in kenpom_stats.csv have duplicates, so read_csv adds suffixes
+# ORtg...6 = Offensive Rating value, ORtg...7 = Offensive Rating rank, etc.
 eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
   rename(
     ORtg = `ORtg...6`,
@@ -35,6 +35,14 @@ eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
     Luck = `Luck...12`,
     Luck_rank = `Luck...13`
   )
+
+# Validate required columns exist
+required_cols <- c("Team", "ORtg", "DRtg", "AdjT")
+missing_cols <- setdiff(required_cols, names(eff_stats))
+if (length(missing_cols) > 0) {
+  stop(sprintf("Missing required columns in kenpom_stats.csv: %s", 
+               paste(missing_cols, collapse = ", ")))
+}
 
 # Load NCAA teams data for logos
 ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |>
@@ -76,14 +84,11 @@ get_logo_teams <- function(data, eff_col, higher_is_better = TRUE) {
 
 # Function to create tempo plot with quadrant shading
 create_tempo_plot <- function(data, logo_data, non_logo_data, x_col, y_col, 
-                               x_label, y_label, title, y_reversed = FALSE) {
+                               x_label, y_label, title, timestamp, y_reversed = FALSE) {
   
   # Calculate medians for quadrant lines
   median_x <- median(data[[x_col]], na.rm = TRUE)
   median_y <- median(data[[y_col]], na.rm = TRUE)
-  
-  # Current timestamp
-  timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")
   
   # Build the base plot
   if (y_reversed) {
@@ -172,6 +177,7 @@ p_ortg <- create_tempo_plot(
   x_label = "Adjusted Tempo",
   y_label = "Offensive Rating (ORtg)",
   title = "Offensive Efficiency vs Adjusted Tempo | All 365 Teams",
+  timestamp = timestamp,
   y_reversed = FALSE
 )
 
@@ -203,6 +209,7 @@ p_drtg <- create_tempo_plot(
   x_label = "Adjusted Tempo",
   y_label = "Defensive Rating (DRtg)",
   title = "Defensive Efficiency vs Adjusted Tempo | All 365 Teams",
+  timestamp = timestamp,
   y_reversed = TRUE
 )
 
