@@ -2,7 +2,7 @@
 # Generates offensive_efficiency_tempo.png and defensive_efficiency_tempo.png
 # from kenpom_stats.csv data
 
-name: Generate Basketball Analytics Plots
+name: Efficiency and Tempo Plots
 
 on:
   # Manual trigger
