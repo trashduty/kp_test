@@ -120,7 +120,7 @@ create_tempo_plot <- function(data, logo_data, non_logo_data, x_col, y_col,
   if (nrow(non_logo_data) > 0) {
     p <- p + geom_point(data = non_logo_data, 
                         aes(x = .data[[x_col]], y = .data[[y_col]]),
-                        color = "gray70", size = 1, alpha = 0.5)
+                        color = "black", size = 1, alpha = 0.5)
   }
   
   # Add logos for highlighted teams using ggimage (when available in GitHub Actions)
@@ -128,7 +128,7 @@ create_tempo_plot <- function(data, logo_data, non_logo_data, x_col, y_col,
     if (exists("ggimage_available") && ggimage_available) {
       p <- p + geom_image(data = logo_data, 
                           aes(x = .data[[x_col]], y = .data[[y_col]], image = logo),
-                          size = 0.04, asp = 16/9)
+                          size = 0.03, asp = 16/9)
     } else {
       # Fallback: use colored dots when ggimage is not available
       p <- p + geom_point(data = logo_data, 
