@@ -15,10 +15,10 @@ import os
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.offsetbox import OffsetImage, AnnotationBbox
-from PIL import Image
+from PIL import Image, UnidentifiedImageError
 import requests
+from requests.exceptions import RequestException
 from io import BytesIO
-import numpy as np
 
 # Get the script directory and repository root
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -29,14 +29,38 @@ KENPOM_CSV = os.path.join(REPO_ROOT, "kenpom_stats.csv")
 LOGOS_CSV = os.path.join(REPO_ROOT, "ncaa_teams_colors_logos_CBB.csv")
 OUTPUT_DIR = os.path.join(REPO_ROOT, "docs", "plots")
 
+# Plot configuration constants
+AXIS_PADDING = 0.5
+REQUEST_TIMEOUT = 10
+REQUEST_HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; KenPomPlotter/1.0)'}
+
+# Color scheme for quadrant shading
+COLORS = {
+    'elite': '#90EE90',      # Light green - best performers
+    'mixed': '#FFD700',      # Gold - mixed performance
+    'poor': '#FFB6C1',       # Light pink - poor performers
+    'background': '#f8f9fa'  # Light gray background
+}
+
 
 def load_data():
     """Load and merge KenPom stats with team logos."""
-    # Load KenPom statistics
-    kenpom_df = pd.read_csv(KENPOM_CSV)
+    # Validate that input files exist
+    if not os.path.exists(KENPOM_CSV):
+        raise FileNotFoundError(f"KenPom stats file not found: {KENPOM_CSV}")
+    if not os.path.exists(LOGOS_CSV):
+        raise FileNotFoundError(f"Logos file not found: {LOGOS_CSV}")
     
-    # Load team logos
-    logos_df = pd.read_csv(LOGOS_CSV).drop_duplicates(subset='current_team')
+    try:
+        # Load KenPom statistics
+        kenpom_df = pd.read_csv(KENPOM_CSV)
+        
+        # Load team logos
+        logos_df = pd.read_csv(LOGOS_CSV).drop_duplicates(subset='current_team')
+    except pd.errors.EmptyDataError as e:
+        raise ValueError(f"CSV file is empty or corrupted: {e}")
+    except pd.errors.ParserError as e:
+        raise ValueError(f"Error parsing CSV file: {e}")
     
     # Merge datasets
     merged_df = kenpom_df.merge(
@@ -52,15 +76,25 @@ def load_data():
 def get_logo_image(url, zoom=0.04):
     """Fetch and return a logo image from URL."""
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(
+            url, 
+            timeout=REQUEST_TIMEOUT, 
+            headers=REQUEST_HEADERS
+        )
         response.raise_for_status()
         img = Image.open(BytesIO(response.content))
         # Convert to RGBA if needed for transparency
         if img.mode != 'RGBA':
             img = img.convert('RGBA')
         return OffsetImage(img, zoom=zoom)
-    except Exception as e:
-        print(f"Could not load logo: {url} - {e}")
+    except RequestException as e:
+        print(f"Network error loading logo: {url} - {e}")
+        return None
+    except UnidentifiedImageError as e:
+        print(f"Invalid image format: {url} - {e}")
+        return None
+    except OSError as e:
+        print(f"Error processing image: {url} - {e}")
         return None
 
 
@@ -121,46 +155,46 @@ def create_quadrant_plot(df, x_col, y_col, title, xlabel, ylabel, output_file,
     fig, ax = plt.subplots(figsize=(14, 10))
     
     # Set background color
-    ax.set_facecolor('#f8f9fa')
+    ax.set_facecolor(COLORS['background'])
     fig.patch.set_facecolor('white')
     
     # Define quadrant colors based on whether higher y is better
     if higher_is_better_y:
         # Top-right (high tempo, high rating) - good
         # Bottom-left (low tempo, low rating) - bad
-        colors = {
-            'top_right': '#90EE90',    # Light green - good offense, high tempo
-            'top_left': '#FFD700',     # Gold - good offense, low tempo
-            'bottom_right': '#FFD700', # Gold - bad offense, high tempo
-            'bottom_left': '#FFB6C1',  # Light pink - bad offense, low tempo
+        quadrant_colors = {
+            'top_right': COLORS['elite'],  # Good offense, high tempo
+            'top_left': COLORS['mixed'],   # Good offense, low tempo
+            'bottom_right': COLORS['mixed'],  # Bad offense, high tempo
+            'bottom_left': COLORS['poor'],    # Bad offense, low tempo
         }
     else:
         # For DRtg (lower is better)
-        colors = {
-            'top_right': '#FFB6C1',    # Light pink - bad defense, high tempo
-            'top_left': '#FFD700',     # Gold - bad defense, low tempo
-            'bottom_right': '#FFD700', # Gold - good defense, high tempo
-            'bottom_left': '#90EE90',  # Light green - good defense, low tempo
+        quadrant_colors = {
+            'top_right': COLORS['poor'],   # Bad defense, high tempo
+            'top_left': COLORS['mixed'],   # Bad defense, low tempo
+            'bottom_right': COLORS['mixed'],  # Good defense, high tempo
+            'bottom_left': COLORS['elite'],   # Good defense, low tempo
         }
     
-    # Get axis limits
-    x_min, x_max = df[x_col].min() - 0.5, df[x_col].max() + 0.5
-    y_min, y_max = df[y_col].min() - 0.5, df[y_col].max() + 0.5
+    # Get axis limits with configurable padding
+    x_min, x_max = df[x_col].min() - AXIS_PADDING, df[x_col].max() + AXIS_PADDING
+    y_min, y_max = df[y_col].min() - AXIS_PADDING, df[y_col].max() + AXIS_PADDING
     
     # Draw quadrant shading
     alpha = 0.2
     # Top-right quadrant
     ax.fill_between([median_x, x_max], median_y, y_max, 
-                    color=colors['top_right'], alpha=alpha)
+                    color=quadrant_colors['top_right'], alpha=alpha)
     # Top-left quadrant
     ax.fill_between([x_min, median_x], median_y, y_max, 
-                    color=colors['top_left'], alpha=alpha)
+                    color=quadrant_colors['top_left'], alpha=alpha)
     # Bottom-right quadrant
     ax.fill_between([median_x, x_max], y_min, median_y, 
-                    color=colors['bottom_right'], alpha=alpha)
+                    color=quadrant_colors['bottom_right'], alpha=alpha)
     # Bottom-left quadrant
     ax.fill_between([x_min, median_x], y_min, median_y, 
-                    color=colors['bottom_left'], alpha=alpha)
+                    color=quadrant_colors['bottom_left'], alpha=alpha)
     
     # Draw median lines
     ax.axhline(median_y, linestyle='--', color='gray', alpha=0.7, linewidth=1.5)
