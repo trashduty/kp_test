@@ -1,0 +1,127 @@
+# Workflow to automatically generate R basketball analytics plots
+# Generates offensive_efficiency_tempo.png and defensive_efficiency_tempo.png
+# from kenpom_stats.csv data
+
+name: Generate Basketball Analytics Plots
+
+on:
+  # Manual trigger
+  workflow_dispatch:
+  
+  # Trigger when kenpom_stats.csv is updated
+  push:
+    paths:
+      - 'kenpom_stats.csv'
+    branches:
+      - main
+  
+  # Weekly schedule during basketball season (November to March)
+  # Runs every Sunday at 8:00 AM UTC
+  schedule:
+    - cron: '0 8 * * 0'
+
+permissions:
+  contents: write
+
+jobs:
+  generate-plots:
+    runs-on: ubuntu-latest
+    
+    env:
+      R_LIBS_USER: /home/runner/work/_temp/Library
+
+    steps:
+      - name: 🧾 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: 🧰 Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: '4.3.2'
+
+      - name: 🛠️ Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            libcurl4-openssl-dev \
+            libssl-dev \
+            libxml2-dev \
+            libfontconfig1-dev \
+            libfreetype6-dev \
+            libharfbuzz-dev \
+            libfribidi-dev \
+            libpng-dev \
+            libtiff5-dev \
+            libjpeg-dev \
+            libmagick++-dev \
+            imagemagick \
+            libmagickwand-dev \
+            librsvg2-dev \
+            libwebp-dev
+
+      - name: 🔧 Configure ImageMagick policy for PNG images
+        run: |
+          # Enable only PNG image processing (required for generating plot images)
+          sudo sed -i 's/rights="none" pattern="PNG"/rights="read|write" pattern="PNG"/' /etc/ImageMagick-6/policy.xml || true
+
+      - name: 📦 Install R packages
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
+        run: |
+          mkdir -p "$R_LIBS_USER"
+          Rscript -e '
+            .libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
+            options(repos = c(CRAN = "https://cloud.r-project.org"))
+            cat("Installing R packages...\n")
+            install.packages(c("tidyverse", "ggimage", "scales"), dependencies = TRUE)
+            cat("R packages installed successfully.\n")
+          '
+
+      - name: 📁 Create output directories
+        run: |
+          mkdir -p docs/plots
+          echo "Output directory docs/plots is ready"
+
+      - name: 📊 Generate efficiency vs tempo plots
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
+        run: |
+          echo "Generating basketball analytics plots..."
+          if [ ! -f "kenpom_stats.csv" ]; then
+            echo "❌ Error: kenpom_stats.csv not found"
+            exit 1
+          fi
+          ls -la kenpom_stats.csv
+          Rscript generate_efficiency_tempo_plots.R
+
+      - name: 🖼️ Verify generated plots
+        run: |
+          echo "Checking generated plots..."
+          if [ -f "docs/plots/offensive_efficiency_tempo.png" ]; then
+            echo "✅ offensive_efficiency_tempo.png generated successfully"
+            ls -la docs/plots/offensive_efficiency_tempo.png
+          else
+            echo "❌ offensive_efficiency_tempo.png not found"
+            exit 1
+          fi
+          if [ -f "docs/plots/defensive_efficiency_tempo.png" ]; then
+            echo "✅ defensive_efficiency_tempo.png generated successfully"
+            ls -la docs/plots/defensive_efficiency_tempo.png
+          else
+            echo "❌ defensive_efficiency_tempo.png not found"
+            exit 1
+          fi
+
+      - name: 💾 Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/plots/offensive_efficiency_tempo.png docs/plots/defensive_efficiency_tempo.png
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📊 Update efficiency tempo plots ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))"
+            git push
+          fi
