@@ -28,7 +28,7 @@ TEXT_OUTPUT_FILE = os.path.join(DOCS_DIR, "model_performance_analysis.txt")
 HTML_OUTPUT_FILE = os.path.join(DOCS_DIR, "model_performance_analysis.html")
 
 # Constants
-GRADED_RESULTS_COMMIT = "56448b2e6e4f76970b6dfa5bb03bdfb4a2972552"
+# GRADED_RESULTS_COMMIT = "56448b2e6e4f76970b6dfa5bb03bdfb4a2972552"
 
 """
 Model Performance Analysis Script
@@ -57,11 +57,11 @@ Environment Variables:
 
 def fetch_graded_results_from_github():
     """
-    Fetches graded_results.csv from the trashduty/cbb repository at specific commit
+    Fetches graded_results.csv from the trashduty/cbb repository main branch
     Falls back to local file if API access fails
     """
     # Try raw GitHub URL first (more reliable)
-    raw_url = f"https://raw.githubusercontent.com/trashduty/cbb/{GRADED_RESULTS_COMMIT}/graded_results.csv"
+    raw_url = "https://raw.githubusercontent.com/trashduty/cbb/main/graded_results.csv"
     
     try:
         logger.info("[cyan]Fetching graded_results.csv from trashduty/cbb repository...[/cyan]")
@@ -85,7 +85,7 @@ def fetch_via_api():
     Try to fetch using GitHub API with base64 decoding
     """
     url = "https://api.github.com/repos/trashduty/cbb/contents/graded_results.csv"
-    params = {'ref': GRADED_RESULTS_COMMIT}
+    params = {'ref': 'main'}
     
     headers = {}
     github_token = os.getenv("GITHUB_TOKEN")
