@@ -27,9 +27,6 @@ DOCS_DIR = "docs"
 TEXT_OUTPUT_FILE = os.path.join(DOCS_DIR, "model_performance_analysis.txt")
 HTML_OUTPUT_FILE = os.path.join(DOCS_DIR, "model_performance_analysis.html")
 
-# Constants
-# GRADED_RESULTS_COMMIT = "56448b2e6e4f76970b6dfa5bb03bdfb4a2972552"
-
 """
 Model Performance Analysis Script
 
