@@ -27,4 +27,3 @@ echo.
 echo ========================================
 echo Daily update completed successfully!
 echo ========================================
-
