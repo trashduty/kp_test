@@ -7,13 +7,14 @@
  */
 
 const { chromium } = require('playwright-extra');
-const stealth = require('puppeteer-extra-plugin-stealth')();
+const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 
 // Add stealth plugin to playwright-extra
-chromium.use(stealth);
+// Note: This plugin provides anti-detection measures similar to puppeteer-extra-plugin-stealth
+chromium.use(StealthPlugin());
 
 // Configuration options
 const CONFIG = {
