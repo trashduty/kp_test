@@ -66,7 +66,7 @@ class CaptchaSolver:
             if recaptcha_elements:
                 sitekey = recaptcha_elements[0].get_attribute("data-sitekey")
                 if sitekey:
-                    print(f"🔍 Detected reCAPTCHA v2 (sitekey: {sitekey[:20]}...)")
+                    print("🔍 Detected reCAPTCHA v2")
                     return ("recaptcha_v2", sitekey)
             
             # Check for reCAPTCHA v2 iframe
@@ -78,7 +78,7 @@ class CaptchaSolver:
                     iframe_src = recaptcha_iframes[0].get_attribute("src")
                     if "k=" in iframe_src:
                         sitekey = iframe_src.split("k=")[1].split("&")[0]
-                        print(f"🔍 Detected reCAPTCHA v2 iframe (sitekey: {sitekey[:20]}...)")
+                        print("🔍 Detected reCAPTCHA v2 iframe")
                         return ("recaptcha_v2", sitekey)
             except Exception:
                 pass
@@ -88,7 +88,7 @@ class CaptchaSolver:
             if hcaptcha_elements:
                 sitekey = hcaptcha_elements[0].get_attribute("data-sitekey")
                 if sitekey:
-                    print(f"🔍 Detected hCaptcha (sitekey: {sitekey[:20]}...)")
+                    print("🔍 Detected hCaptcha")
                     return ("hcaptcha", sitekey)
             
             # Check for hCaptcha iframe
@@ -99,7 +99,7 @@ class CaptchaSolver:
                     iframe_src = hcaptcha_iframes[0].get_attribute("src")
                     if "sitekey=" in iframe_src:
                         sitekey = iframe_src.split("sitekey=")[1].split("&")[0]
-                        print(f"🔍 Detected hCaptcha iframe (sitekey: {sitekey[:20]}...)")
+                        print("🔍 Detected hCaptcha iframe")
                         return ("hcaptcha", sitekey)
             except Exception:
                 pass
@@ -109,7 +109,7 @@ class CaptchaSolver:
             if turnstile_elements:
                 sitekey = turnstile_elements[0].get_attribute("data-sitekey")
                 if sitekey:
-                    print(f"🔍 Detected Cloudflare Turnstile (sitekey: {sitekey[:20]}...)")
+                    print("🔍 Detected Cloudflare Turnstile")
                     return ("turnstile", sitekey)
             
             # Check for Turnstile in page source as fallback
@@ -145,7 +145,7 @@ class CaptchaSolver:
             token = result['code']
             
             # Inject the token into the page
-            script = f'document.getElementById("g-recaptcha-response").innerHTML="{token}";'
+            script = f'document.getElementById("g-recaptcha-response").value="{token}";'
             driver.execute_script(script)
             
             # Also try to set it in the textarea (some sites use this)
