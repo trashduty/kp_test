@@ -26,7 +26,8 @@ Write-Host "Committing changes..." -ForegroundColor Green
 git commit -m "Update KenPom data - $date [automated local run]"
 
 Write-Host "Pushing to GitHub..." -ForegroundColor Green
-git push origin main
+$branch = git branch --show-current
+git push origin $branch
 
 if ($LASTEXITCODE -eq 0) {
     Write-Host "" 
@@ -40,3 +41,4 @@ if ($LASTEXITCODE -eq 0) {
     Write-Host "========================================" -ForegroundColor Red
     exit 1
 }
+

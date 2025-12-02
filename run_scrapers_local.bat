@@ -45,3 +45,4 @@ echo ========================================
 echo Scraping failed! Check the error above.
 echo ========================================
 exit /b 1
+
