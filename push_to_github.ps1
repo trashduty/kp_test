@@ -7,9 +7,6 @@ Write-Host ""
 # Navigate to the script directory
 Set-Location -Path $PSScriptRoot
 
-# Configure git to use the current directory
-$repoPath = Get-Location
-
 # Check if there are any changes
 # Note: git add . respects .gitignore and will not add sensitive files
 git add .
@@ -25,6 +22,14 @@ $date = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
 # Commit and push
 Write-Host "Committing changes..." -ForegroundColor Green
 git commit -m "Update KenPom data - $date [automated local run]"
+
+if ($LASTEXITCODE -ne 0) {
+    Write-Host "" 
+    Write-Host "========================================" -ForegroundColor Red
+    Write-Host "Failed to commit changes" -ForegroundColor Red
+    Write-Host "========================================" -ForegroundColor Red
+    exit 1
+}
 
 Write-Host "Pushing to GitHub..." -ForegroundColor Green
 $branch = git branch --show-current
