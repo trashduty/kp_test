@@ -67,6 +67,31 @@ Set `PROXY_ENABLED=false` in your `.env` file or GitHub secret.
 
 ## Troubleshooting
 
+### "No module named 'blinker._saferef'" Error
+
+This is a dependency conflict. Fix by installing the correct versions:
+
+```bash
+pip uninstall blinker selenium-wire -y
+pip install blinker==1.7.0
+pip install selenium-wire==5.1.0
+```
+
+The issue occurs because:
+- Selenium-wire requires `blinker` with `_saferef` module
+- Blinker 2.x removed `_saferef`
+- We pin to blinker 1.7.0 which still has it
+
+### Other dependency issues
+
+If you still have problems:
+
+```bash
+# Clean install all dependencies
+pip uninstall selenium selenium-wire blinker undetected-chromedriver -y
+pip install --no-cache-dir -r requirements.txt
+```
+
 ### ERR_NO_SUPPORTED_PROXIES (OLD ERROR - NOW FIXED)
 This was caused by trying to use Chrome's `--proxy-server` argument with authentication. Now fixed with selenium-wire.
 
