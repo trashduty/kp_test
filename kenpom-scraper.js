@@ -6,10 +6,15 @@
  * The CSV file is saved to data/kp.csv
  */
 
-const { chromium } = require('playwright');
+const { chromium } = require('playwright-extra');
+const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
+
+// Add stealth plugin to playwright-extra
+// Note: This plugin provides anti-detection measures similar to puppeteer-extra-plugin-stealth
+chromium.use(StealthPlugin());
 
 // Configuration options
 const CONFIG = {
@@ -106,7 +111,8 @@ async function runScraper() {
     args: [
       '--disable-blink-features=AutomationControlled',
       '--no-sandbox',
-      '--disable-web-security'
+      '--disable-web-security',
+      '--disable-features=IsolateOrigins,site-per-process'
     ]
   });
   

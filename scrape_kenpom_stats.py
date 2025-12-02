@@ -5,8 +5,7 @@ import random
 import pandas as pd
 from io import StringIO
 from dotenv import load_dotenv
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
+import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
@@ -23,7 +22,7 @@ if not USERNAME or not PASSWORD:
     sys.exit(1)
 
 # Configure headless Chrome with realistic settings
-chrome_options = Options()
+chrome_options = uc.ChromeOptions()
 chrome_options.add_argument("--headless")
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
@@ -32,54 +31,12 @@ chrome_options.add_argument("--disable-software-rasterizer")
 chrome_options.add_argument("--disable-extensions")
 chrome_options.add_argument("--window-size=1920,1080")
 chrome_options.add_argument("--start-maximized")
-chrome_options.add_argument("--disable-blink-features=AutomationControlled")
 
 # Use a realistic, full Chrome user agent string
 chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36")
 
-# Additional preferences to appear more human-like
-chrome_options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
-chrome_options.add_experimental_option("useAutomationExtension", False)
-chrome_options.add_experimental_option("prefs", {
-    "profile.default_content_setting_values.notifications": 2,
-    "credentials_enable_service": False,
-    "profile.password_manager_enabled": False
-})
-
-# Initialize WebDriver
-driver = webdriver.Chrome(options=chrome_options)
-
-# Enhanced stealth mode - hide automation markers
-driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
-    "source": """
-        // Override the navigator.webdriver property
-        Object.defineProperty(navigator, 'webdriver', {
-            get: () => undefined
-        });
-        
-        // Override navigator properties to appear more human
-        Object.defineProperty(navigator, 'plugins', {
-            get: () => [1, 2, 3, 4, 5]
-        });
-        
-        Object.defineProperty(navigator, 'languages', {
-            get: () => ['en-US', 'en']
-        });
-        
-        // Add window.chrome object
-        window.chrome = {
-            runtime: {}
-        };
-        
-        // Override permissions API
-        const originalQuery = window.navigator.permissions.query;
-        window.navigator.permissions.query = (parameters) => (
-            parameters.name === 'notifications' ?
-                Promise.resolve({ state: Notification.permission }) :
-                originalQuery(parameters)
-        );
-    """
-})
+# Initialize WebDriver with undetected-chromedriver
+driver = uc.Chrome(options=chrome_options, version_main=None)
 
 def random_delay(min_seconds=2, max_seconds=4):
     """Add random delay to simulate human behavior"""

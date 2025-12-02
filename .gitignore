@@ -57,3 +57,8 @@ renv/lock/
 renv/python/
 renv/sandbox/
 renv/staging/
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
