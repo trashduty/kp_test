@@ -9,6 +9,31 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import WebDriverException
 
+def inject_stealth_javascript(driver):
+    """Inject JavaScript to mask automation signals and make the browser appear more human."""
+    try:
+        driver.execute_cdp_cmd('Page.addScriptToEvaluateOnNewDocument', {
+            'source': '''
+                Object.defineProperty(navigator, 'webdriver', {
+                    get: () => undefined
+                });
+                Object.defineProperty(navigator, 'plugins', {
+                    get: () => [1, 2, 3, 4, 5]
+                });
+                Object.defineProperty(navigator, 'languages', {
+                    get: () => ['en-US', 'en']
+                });
+                window.chrome = {
+                    runtime: {}
+                };
+            '''
+        })
+        print("✅ Stealth JavaScript injected")
+        return True
+    except Exception as e:
+        print(f"⚠️  Could not inject stealth JavaScript: {e}")
+        return False
+
 def random_delay(min_seconds=2, max_seconds=5):
     """Add a random delay to simulate human reading/thinking time."""
     delay = random.uniform(min_seconds, max_seconds)
@@ -33,10 +58,14 @@ def random_mouse_movement(driver):
         for _ in range(random.randint(2, 4)):
             x = random.randint(0, min(width, 1920))
             y = random.randint(0, min(height, 1080))
-            actions.move_by_offset(x - 500, y - 500)
-            actions.perform()
-            time.sleep(random.uniform(0.1, 0.3))
-            actions = ActionChains(driver)  # Reset actions
+            # Use move_by_offset from center to avoid out-of-bounds issues
+            try:
+                actions.move_by_offset(x - 960, y - 540)
+                actions.perform()
+                time.sleep(random.uniform(0.1, 0.3))
+                actions = ActionChains(driver)  # Reset actions
+            except WebDriverException:
+                continue  # Skip this movement if it fails
     except WebDriverException:
         pass  # Silently fail if movement doesn't work
 
@@ -45,7 +74,6 @@ def smooth_scroll(driver, scroll_pause_time=0.5):
     try:
         # Get total page height
         total_height = driver.execute_script("return document.body.scrollHeight")
-        viewport_height = driver.execute_script("return window.innerHeight")
         
         # Scroll in chunks
         current_position = 0
@@ -134,7 +162,7 @@ def natural_click(driver, element):
         
         # Wait after click
         time.sleep(random.uniform(0.5, 1.5))
-    except WebDriverException as e:
+    except WebDriverException:
         # Fallback to regular click
         element.click()
         time.sleep(random.uniform(0.5, 1.5))

@@ -16,7 +16,8 @@ from human_behavior import (
     add_human_behavior_to_login,
     add_human_behavior_to_navigation,
     wait_for_page_load,
-    simulate_reading
+    simulate_reading,
+    inject_stealth_javascript
 )
 
 # Load login credentials
@@ -100,26 +101,7 @@ try:
     print("✅ Successfully initialized Chrome")
     
     # Inject stealth JavaScript to mask automation
-    try:
-        driver.execute_cdp_cmd('Page.addScriptToEvaluateOnNewDocument', {
-            'source': '''
-                Object.defineProperty(navigator, 'webdriver', {
-                    get: () => undefined
-                });
-                Object.defineProperty(navigator, 'plugins', {
-                    get: () => [1, 2, 3, 4, 5]
-                });
-                Object.defineProperty(navigator, 'languages', {
-                    get: () => ['en-US', 'en']
-                });
-                window.chrome = {
-                    runtime: {}
-                };
-            '''
-        })
-        print("✅ Stealth JavaScript injected")
-    except Exception as e:
-        print(f"⚠️  Could not inject stealth JavaScript: {e}")
+    inject_stealth_javascript(driver)
     
 except Exception as e:
     print(f"❌ Failed to initialize Chrome: {e}")
@@ -136,26 +118,7 @@ except Exception as e:
         print("✅ Successfully initialized Chrome with fallback")
         
         # Inject stealth JavaScript for fallback driver too
-        try:
-            driver.execute_cdp_cmd('Page.addScriptToEvaluateOnNewDocument', {
-                'source': '''
-                    Object.defineProperty(navigator, 'webdriver', {
-                        get: () => undefined
-                    });
-                    Object.defineProperty(navigator, 'plugins', {
-                        get: () => [1, 2, 3, 4, 5]
-                    });
-                    Object.defineProperty(navigator, 'languages', {
-                        get: () => ['en-US', 'en']
-                    });
-                    window.chrome = {
-                        runtime: {}
-                    };
-                '''
-            })
-            print("✅ Stealth JavaScript injected (fallback)")
-        except Exception as e:
-            print(f"⚠️  Could not inject stealth JavaScript (fallback): {e}")
+        inject_stealth_javascript(driver)
             
     except Exception as fallback_error:
         print(f"❌ Fallback also failed: {fallback_error}")
