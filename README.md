@@ -114,3 +114,112 @@ To customize the appearance:
 ## 📄 License
 
 The plots and code are available for personal and educational use. Please credit KenPom.com as the data source when using the plots.
+
+---
+
+## 🔐 Proxy Configuration (Oxylabs)
+
+To bypass Cloudflare bot detection, this repository supports Oxylabs residential proxies with sticky sessions.
+
+### Environment Variables
+
+Add these to your `.env` file or GitHub Actions secrets:
+
+| Variable | Required | Description | Example |
+|----------|----------|-------------|---------|
+| `PROXY_USE_SELENIUM_WIRE` | No | Enable selenium-wire proxy | `true` or `false` |
+| `OXY_USERNAME` | Yes* | Oxylabs username | `customer-user123` |
+| `OXY_PASSWORD` | Yes* | Oxylabs password | `your_password` |
+| `OXY_HOST` | No | Oxylabs proxy host | `pr.oxylabs.io` (default) |
+| `OXY_PORT` | No | Oxylabs proxy port | `7777` (default) |
+| `OXY_STICKY` | No | Sticky session ID | `sticky1` or `session123` |
+
+*Required only if `PROXY_USE_SELENIUM_WIRE=true`
+
+### Sticky Sessions
+
+Oxylabs sticky sessions maintain the same IP address throughout your scraping session. This is critical for bypassing Cloudflare, which may flag IP changes during login.
+
+**How to use:**
+1. Set `OXY_STICKY` to any unique string (e.g., `sticky1`, `session123`)
+2. The scraper will use `username-session-{OXY_STICKY}` when connecting
+3. All requests will route through the same residential IP
+
+**Example:**
+```env
+PROXY_USE_SELENIUM_WIRE=true
+OXY_USERNAME=customer-user123
+OXY_PASSWORD=your_password
+OXY_STICKY=sticky1
+```
+
+This creates the proxy username: `customer-user123-session-sticky1`
+
+### Testing Your Proxy Setup
+
+Run the diagnostic tool to verify your proxy configuration:
+
+```bash
+python tools/check_proxy.py
+```
+
+This will:
+- ✅ Test proxy connection with `requests` library
+- ✅ Test proxy connection with `selenium-wire`
+- ✅ Display your IP address (should be Oxylabs residential IP)
+- ✅ Show headers to verify they look realistic
+
+### GitHub Actions Setup
+
+Add these secrets to your repository (Settings → Secrets → Actions):
+
+1. `PROXY_USE_SELENIUM_WIRE`: `true`
+2. `OXY_USERNAME`: Your Oxylabs username
+3. `OXY_PASSWORD`: Your Oxylabs password
+4. `OXY_STICKY`: A unique session identifier (e.g., `github-actions-1`)
+
+The workflow will automatically use these for proxy authentication.
+
+### Troubleshooting
+
+**"Cloudflare Turnstile challenge appears"**
+- Verify `PROXY_USE_SELENIUM_WIRE=true` is set
+- Ensure sticky session is enabled (`OXY_STICKY` is set)
+- Run `tools/check_proxy.py` to verify proxy is working
+- Check that your IP in the diagnostic matches Oxylabs residential pool
+
+**"Proxy authentication failed"**
+- Verify credentials in Oxylabs dashboard: https://dashboard.oxylabs.io/
+- Check if subscription is active and has bandwidth remaining
+- Test with curl: `curl -x pr.oxylabs.io:7777 -U "user:pass" https://httpbin.org/ip`
+
+**"IP rotates between requests"**
+- Make sure `OXY_STICKY` is set to maintain the same IP
+- Verify the session ID appears in the logs: "Using sticky session: {id}"
+
+**"Still getting blocked by Cloudflare"**
+- Consider integrating a Turnstile solver (see comments in code)
+- Add longer delays between requests
+- Contact Oxylabs support for residential IP quality issues
+
+### Turnstile Solver Integration (Optional)
+
+If Cloudflare Turnstile challenges persist even with a proxy, you can integrate a solving service:
+
+**Supported services:**
+- [2Captcha](https://2captcha.com/2captcha-api#turnstile)
+- [Anti-Captcha](https://anti-captcha.com/apidoc/task-types/TurnstileTask)
+- [CapSolver](https://www.capsolver.com/products/cloudflare-turnstile)
+
+**Setup:**
+1. Get an API key from your chosen service
+2. Add to `.env`: `TURNSTILE_SOLVER_API_KEY=your_key_here`
+3. See comments in `scrape_kenpom_stats.py` for integration points
+
+⚠️ **Never commit API keys to the repository!** Always use environment variables.
+
+### Additional Resources
+
+- [Oxylabs Documentation](https://developers.oxylabs.io/scraper-apis/residential-proxies)
+- [Selenium-Wire Documentation](https://github.com/wkeeling/selenium-wire)
+- See `OXYLABS_SETUP.md` for detailed proxy setup instructions
