@@ -1,6 +1,6 @@
 ================================================================================
 Model Performance Analysis Report
-Generated: 2025-12-01 12:15:16 UTC
+Generated: 2025-12-02 12:15:36 UTC
 This report shows the model's record against the opening lines for spreads, totals, and moneylines.
 ================================================================================
 
@@ -102,7 +102,7 @@ Edge Tier       Record       Win %
 6. Overall Model Totals Record
 ================================================================================
 
-Overs (over_cover_probability > 0.5): 74-90 (45.1%)
+Overs (over_cover_probability > 0.5): 74-92 (44.6%)
 Unders (under_cover_probability > 0.5): 160-98 (62.0%)
 
 ================================================================================
@@ -111,7 +111,7 @@ Unders (under_cover_probability > 0.5): 160-98 (62.0%)
 
 Win Probability Tier   Record       Win %     
 --------------------------------------------
-10-19%                 4-25         13.8%     
+10-19%                 4-26         13.3%     
 20-29%                 9-31         22.5%     
 30-39%                 19-44        30.2%     
 40-49%                 19-37        33.9%     
