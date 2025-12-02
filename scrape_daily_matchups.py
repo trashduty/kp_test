@@ -63,13 +63,9 @@ try:
         # Use selenium-wire for proxy support
         from seleniumwire import webdriver
         
-        # Create driver with selenium-wire options
-        driver = uc.Chrome(
-            options=chrome_options,
-            seleniumwire_options=seleniumwire_options,
-            version_main=None,
-            use_subprocess=True
-        )
+        # Note: When using proxy, we use selenium-wire's Chrome driver
+        # This provides proxy authentication but without undetected-chromedriver features
+        driver = webdriver.Chrome(options=chrome_options, seleniumwire_options=seleniumwire_options)
     else:
         # Use regular undetected_chromedriver without proxy
         driver = uc.Chrome(
