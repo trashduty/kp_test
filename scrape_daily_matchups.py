@@ -55,8 +55,13 @@ try:
 except Exception as e:
     print(f"Failed to initialize Chrome with undetected_chromedriver: {e}")
     print("Attempting fallback to regular ChromeDriver...")
-    from selenium import webdriver
-    driver = webdriver.Chrome(options=chrome_options)
+    try:
+        from selenium import webdriver
+        driver = webdriver.Chrome(options=chrome_options)
+    except Exception as fallback_error:
+        print(f"❌ Fallback to regular ChromeDriver also failed: {fallback_error}")
+        print("Both undetected_chromedriver and regular ChromeDriver failed to initialize.")
+        raise
 
 try:
     print("[1/7] Logging into KenPom...")
