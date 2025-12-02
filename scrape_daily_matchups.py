@@ -40,10 +40,6 @@ chrome_options.add_argument("--remote-debugging-port=9222")
 chrome_options.add_argument("--disable-crash-reporter")
 chrome_options.add_argument("user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 
-# Add experimental options to avoid detection
-chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
-chrome_options.add_experimental_option('useAutomationExtension', False)
-
 # Initialize WebDriver with undetected-chromedriver and fallback
 try:
     driver = uc.Chrome(
