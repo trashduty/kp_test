@@ -25,33 +25,31 @@ if not USERNAME or not PASSWORD:
 
 # Configure headless Chrome with realistic settings
 chrome_options = uc.ChromeOptions()
-chrome_options.add_argument("--headless=new")  # Use new headless mode
+
+# Essential arguments for GitHub Actions
+chrome_options.add_argument("--headless=new")
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
 chrome_options.add_argument("--disable-gpu")
+
+# More stable arguments instead of --single-process and --no-zygote
 chrome_options.add_argument("--disable-software-rasterizer")
 chrome_options.add_argument("--disable-extensions")
 chrome_options.add_argument("--disable-setuid-sandbox")
-chrome_options.add_argument("--single-process")  # Important for stability in containers
-chrome_options.add_argument("--no-zygote")
-chrome_options.add_argument("--disable-dev-tools")
-chrome_options.add_argument("--disable-blink-features=AutomationControlled")
 chrome_options.add_argument("--window-size=1920,1080")
-chrome_options.add_argument("--start-maximized")
-chrome_options.add_argument("--disable-features=IsolateOrigins,site-per-process")
+chrome_options.add_argument("--disable-blink-features=AutomationControlled")
 chrome_options.add_argument("--remote-debugging-port=9222")
-chrome_options.add_argument("--disable-crash-reporter")
-
-# Use a realistic, full Chrome user agent string (Linux for GitHub Actions)
 chrome_options.add_argument("user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+
+# Page load strategy to prevent timeouts
+chrome_options.page_load_strategy = 'normal'
 
 # Initialize WebDriver with undetected-chromedriver and fallback
 try:
     driver = uc.Chrome(
         options=chrome_options,
         version_main=None,
-        use_subprocess=True,
-        driver_executable_path=None
+        use_subprocess=False
     )
 except Exception as e:
     print(f"Failed to initialize Chrome with undetected_chromedriver: {e}")
@@ -135,7 +133,12 @@ try:
     random_mouse_movement(driver)
     random_delay(1, 2)
     
-    driver.get(f"https://kenpom.com/fanmatch.php?d={tomorrow_str}")
+    try:
+        driver.get(f"https://kenpom.com/fanmatch.php?d={tomorrow_str}")
+        time.sleep(5)  # Give more time for page to fully load
+    except Exception as e:
+        print(f"Navigation error: {e}")
+        # Try to continue anyway
     
     # Wait and simulate human behavior after page load
     random_delay(4, 6)
