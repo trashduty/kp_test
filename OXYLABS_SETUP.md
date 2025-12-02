@@ -8,8 +8,8 @@ Add these secrets to your repository (Settings → Secrets and variables → Act
 
 1. **PROXY_ENABLED**: `true`
 2. **PROXY_SERVER**: `pr.oxylabs.io:7777`
-3. **PROXY_USERNAME**: `customer-bullytheboard_OnFjP-cc-US`
-4. **PROXY_PASSWORD**: `Btb_analytics1`
+3. **PROXY_USERNAME**: `your_oxylabs_username`
+4. **PROXY_PASSWORD**: `your_oxylabs_password`
 
 ## Local Setup
 
@@ -18,8 +18,8 @@ For local testing, add these to your `.env` file:
 ```env
 PROXY_ENABLED=true
 PROXY_SERVER=pr.oxylabs.io:7777
-PROXY_USERNAME=customer-bullytheboard_OnFjP-cc-US
-PROXY_PASSWORD=Btb_analytics1
+PROXY_USERNAME=your_oxylabs_username
+PROXY_PASSWORD=your_oxylabs_password
 ```
 
 ## Testing the Proxy
@@ -27,7 +27,7 @@ PROXY_PASSWORD=Btb_analytics1
 Test your Oxylabs connection with:
 
 ```bash
-curl -x pr.oxylabs.io:7777 -U "customer-bullytheboard_OnFjP-cc-US:Btb_analytics1" https://ip.oxylabs.io/location
+curl -x pr.oxylabs.io:7777 -U "your_oxylabs_username:your_oxylabs_password" https://ip.oxylabs.io/location
 ```
 
 You should see a JSON response with location information, confirming the proxy works.
