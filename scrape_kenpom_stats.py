@@ -9,15 +9,20 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from captcha_solver import CaptchaSolver
 
-# Load login credentials
+# Load login credentials and API keys
 load_dotenv()
 USERNAME = os.getenv("KENPOM_USERNAME")
 PASSWORD = os.getenv("KENPOM_PASSWORD")
+TWOCAPTCHA_API_KEY = os.getenv("TWOCAPTCHA_API_KEY")
 
 if not USERNAME or not PASSWORD:
     print("❌ Missing KENPOM_USERNAME or KENPOM_PASSWORD in environment variables.")
     sys.exit(1)
+
+# Initialize CAPTCHA solver
+captcha_solver = CaptchaSolver(api_key=TWOCAPTCHA_API_KEY)
 
 # Chrome options
 chrome_options = Options()
@@ -28,6 +33,8 @@ chrome_options.add_argument("--disable-gpu")
 chrome_options.add_argument("--disable-software-rasterizer")
 chrome_options.add_argument("--disable-extensions")
 chrome_options.add_argument("--window-size=1920,1080")
+# Add realistic user agent to avoid bot detection
+chrome_options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 
 # Initialize driver
 try:
@@ -42,6 +49,9 @@ try:
     print("🔍 Navigating to KenPom login...")
     driver.get("https://kenpom.com")
     time.sleep(2)
+    
+    # Check for CAPTCHA after initial page load
+    captcha_solver.detect_and_solve(driver, driver.current_url)
 
     # Find and fill the login form
     print("🔐 Logging in...")
@@ -55,11 +65,17 @@ try:
     login_button = driver.find_element(By.XPATH, "//input[@type='submit']")
     login_button.click()
     time.sleep(3)
+    
+    # Check for CAPTCHA after login submission
+    captcha_solver.detect_and_solve(driver, driver.current_url)
 
     # Navigate to the stats page
     print("📊 Navigating to stats page...")
     driver.get("https://kenpom.com")
     time.sleep(2)
+    
+    # Check for CAPTCHA before scraping data
+    captcha_solver.detect_and_solve(driver, driver.current_url)
 
     # Wait for table to load
     wait = WebDriverWait(driver, 10)
@@ -92,6 +108,15 @@ except Exception as e:
     print(f"❌ Error: {e}")
     import traceback
     traceback.print_exc()
+    
+    # Take screenshot for debugging
+    try:
+        screenshot_path = "error_screenshot.png"
+        driver.save_screenshot(screenshot_path)
+        print(f"📸 Error screenshot saved to {screenshot_path}")
+    except Exception as screenshot_error:
+        print(f"⚠️  Could not save screenshot: {screenshot_error}")
+    
     sys.exit(1)
 
 finally:
