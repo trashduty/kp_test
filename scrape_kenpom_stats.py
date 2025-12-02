@@ -34,8 +34,10 @@ chrome_options.add_argument("--window-size=1920,1080")
 chrome_options.add_argument("--disable-blink-features=AutomationControlled")
 chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 
-# Add proxy configuration if enabled
+# Configure proxy with selenium-wire if enabled
 proxy_enabled = os.getenv('PROXY_ENABLED', 'false').lower() == 'true'
+seleniumwire_options = {}
+
 if proxy_enabled:
     proxy_server = os.getenv('PROXY_SERVER')
     proxy_username = os.getenv('PROXY_USERNAME')
@@ -43,31 +45,53 @@ if proxy_enabled:
     
     if proxy_server and proxy_username and proxy_password:
         proxy_url = f"http://{proxy_username}:{proxy_password}@{proxy_server}"
-        chrome_options.add_argument(f'--proxy-server={proxy_url}')
+        seleniumwire_options = {
+            'proxy': {
+                'http': proxy_url,
+                'https': proxy_url,
+                'no_proxy': 'localhost,127.0.0.1'
+            }
+        }
         print(f"✅ Proxy enabled: Using Oxylabs ({proxy_server})")
     else:
         print("⚠️  Proxy enabled but credentials incomplete, running without proxy")
 else:
     print("ℹ️  Proxy disabled, running with direct connection")
 
-# Initialize driver with use_subprocess=True
+# Initialize driver with selenium-wire
 try:
-    driver = uc.Chrome(
-        options=chrome_options,
-        version_main=None,
-        use_subprocess=True  # MUST be True for GitHub Actions
-    )
-    print("✅ Successfully initialized Chrome with undetected_chromedriver")
+    if proxy_enabled and seleniumwire_options:
+        # Use selenium-wire for proxy support
+        from seleniumwire import webdriver
+        
+        # Note: When using proxy, we use selenium-wire's Chrome driver
+        # This provides proxy authentication but without undetected-chromedriver features
+        driver = webdriver.Chrome(options=chrome_options, seleniumwire_options=seleniumwire_options)
+    else:
+        # Use regular undetected_chromedriver without proxy
+        driver = uc.Chrome(
+            options=chrome_options,
+            version_main=None,
+            use_subprocess=True
+        )
+    
+    print("✅ Successfully initialized Chrome")
+    
 except Exception as e:
-    print(f"Failed to initialize Chrome with undetected_chromedriver: {e}")
+    print(f"❌ Failed to initialize Chrome: {e}")
     print("Attempting fallback to regular ChromeDriver...")
-    from selenium import webdriver
+    
     try:
-        driver = webdriver.Chrome(options=chrome_options)
-        print("✅ Successfully initialized Chrome with regular ChromeDriver")
+        if proxy_enabled and seleniumwire_options:
+            from seleniumwire import webdriver
+            driver = webdriver.Chrome(options=chrome_options, seleniumwire_options=seleniumwire_options)
+        else:
+            from selenium import webdriver
+            driver = webdriver.Chrome(options=chrome_options)
+        
+        print("✅ Successfully initialized Chrome with fallback")
     except Exception as fallback_error:
-        print(f"❌ Fallback to regular ChromeDriver also failed: {fallback_error}")
-        print("Both undetected_chromedriver and regular ChromeDriver failed to initialize.")
+        print(f"❌ Fallback also failed: {fallback_error}")
         sys.exit(1)
 
 def random_delay(min_seconds=2, max_seconds=4):
