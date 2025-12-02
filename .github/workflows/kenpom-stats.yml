@@ -53,6 +53,10 @@ jobs:
         env:
           KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
           KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
+          PROXY_ENABLED: ${{ secrets.PROXY_ENABLED }}
+          PROXY_SERVER: ${{ secrets.PROXY_SERVER }}
+          PROXY_USERNAME: ${{ secrets.PROXY_USERNAME }}
+          PROXY_PASSWORD: ${{ secrets.PROXY_PASSWORD }}
         run: python scrape_kenpom_stats.py
 
       - name: 🏀 Scrape AP Top 25 rankings
