@@ -11,6 +11,14 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from human_behavior import (
+    random_delay,
+    add_human_behavior_to_login,
+    add_human_behavior_to_navigation,
+    wait_for_page_load,
+    simulate_reading,
+    inject_stealth_javascript
+)
 
 # Load login credentials
 load_dotenv()
@@ -21,7 +29,7 @@ if not USERNAME or not PASSWORD:
     print("❌ Missing KENPOM_USERNAME or KENPOM_PASSWORD in environment variables.")
     sys.exit(1)
 
-# Minimal, stable Chrome options for GitHub Actions
+# Enhanced Chrome options for better stealth and anti-detection
 chrome_options = Options()
 chrome_options.add_argument("--headless=new")
 chrome_options.add_argument("--no-sandbox")
@@ -31,7 +39,23 @@ chrome_options.add_argument("--disable-software-rasterizer")
 chrome_options.add_argument("--disable-extensions")
 chrome_options.add_argument("--window-size=1920,1080")
 chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+chrome_options.add_argument("--disable-web-security")
+chrome_options.add_argument("--allow-running-insecure-content")
+
+# More realistic user agent
 chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+
+# Additional stealth options
+chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+chrome_options.add_experimental_option('useAutomationExtension', False)
+
+# Disable automation flags
+prefs = {
+    "credentials_enable_service": False,
+    "profile.password_manager_enabled": False,
+    "profile.default_content_setting_values.notifications": 2,
+}
+chrome_options.add_experimental_option("prefs", prefs)
 
 # Configure proxy with selenium-wire if enabled
 proxy_enabled = os.getenv('PROXY_ENABLED', 'false').lower() == 'true'
@@ -76,6 +100,9 @@ try:
     
     print("✅ Successfully initialized Chrome")
     
+    # Inject stealth JavaScript to mask automation
+    inject_stealth_javascript(driver)
+    
 except Exception as e:
     print(f"❌ Failed to initialize Chrome: {e}")
     print("Attempting fallback to regular ChromeDriver...")
@@ -89,6 +116,10 @@ except Exception as e:
             driver = webdriver.Chrome(options=chrome_options)
         
         print("✅ Successfully initialized Chrome with fallback")
+        
+        # Inject stealth JavaScript for fallback driver too
+        inject_stealth_javascript(driver)
+            
     except Exception as fallback_error:
         print(f"❌ Fallback also failed: {fallback_error}")
         sys.exit(1)
@@ -98,12 +129,22 @@ try:
     driver.get("https://kenpom.com/")
     wait = WebDriverWait(driver, 20)
 
+    # Wait for page to load with human-like behavior
+    wait_for_page_load(driver)
+    random_delay(2, 4)  # Simulate looking at the page
+
+    # Wait for login form elements
     email_input = wait.until(EC.presence_of_element_located((By.NAME, "email")))
     password_input = driver.find_element(By.NAME, "password")
-    email_input.send_keys(USERNAME)
-    password_input.send_keys(PASSWORD)
-    password_input.send_keys(Keys.RETURN)
-    time.sleep(3)
+    submit_button = driver.find_element(By.CSS_SELECTOR, "input[type='submit']")
+    
+    # Login with human-like behavior
+    add_human_behavior_to_login(driver, email_input, password_input, submit_button, USERNAME, PASSWORD)
+    
+    # Wait for login to complete
+    wait_for_page_load(driver)
+    random_delay(2, 3)
+    
     print("[2/7] ✅ Login successful")
 
     # Get tomorrow's date for the FanMatch URL
@@ -111,12 +152,21 @@ try:
     tomorrow_str = tomorrow.strftime("%Y-%m-%d")
     
     print(f"[3/7] Navigating to FanMatch page for {tomorrow_str}...")
+    
+    # Add human behavior before navigating to FanMatch page
+    add_human_behavior_to_navigation(driver)
+    
     try:
         driver.get(f"https://kenpom.com/fanmatch.php?d={tomorrow_str}")
         time.sleep(5)  # Give more time for page to fully load
     except Exception as e:
         print(f"Navigation error: {e}")
         # Try to continue anyway
+
+    # Wait and simulate human behavior after page load
+    wait_for_page_load(driver)
+    simulate_reading(driver, min_seconds=3, max_seconds=5)
+    random_delay(2, 3)
 
     # Create kenpom-data directory if it doesn't exist
     os.makedirs("kenpom-data", exist_ok=True)

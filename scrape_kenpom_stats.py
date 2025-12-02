@@ -12,6 +12,14 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from human_behavior import (
+    random_delay,
+    add_human_behavior_to_login,
+    add_human_behavior_to_navigation,
+    wait_for_page_load,
+    simulate_reading,
+    inject_stealth_javascript
+)
 
 # Load login credentials
 load_dotenv()
@@ -22,7 +30,7 @@ if not USERNAME or not PASSWORD:
     print("❌ Missing KENPOM_USERNAME or KENPOM_PASSWORD in environment variables.")
     sys.exit(1)
 
-# Minimal, stable Chrome options for GitHub Actions
+# Enhanced Chrome options for better stealth and anti-detection
 chrome_options = Options()
 chrome_options.add_argument("--headless=new")
 chrome_options.add_argument("--no-sandbox")
@@ -32,7 +40,23 @@ chrome_options.add_argument("--disable-software-rasterizer")
 chrome_options.add_argument("--disable-extensions")
 chrome_options.add_argument("--window-size=1920,1080")
 chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+chrome_options.add_argument("--disable-web-security")
+chrome_options.add_argument("--allow-running-insecure-content")
+
+# More realistic user agent
 chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+
+# Additional stealth options
+chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+chrome_options.add_experimental_option('useAutomationExtension', False)
+
+# Disable automation flags
+prefs = {
+    "credentials_enable_service": False,
+    "profile.password_manager_enabled": False,
+    "profile.default_content_setting_values.notifications": 2,
+}
+chrome_options.add_experimental_option("prefs", prefs)
 
 # Configure proxy with selenium-wire if enabled
 proxy_enabled = os.getenv('PROXY_ENABLED', 'false').lower() == 'true'
@@ -77,6 +101,9 @@ try:
     
     print("✅ Successfully initialized Chrome")
     
+    # Inject stealth JavaScript to mask automation
+    inject_stealth_javascript(driver)
+    
 except Exception as e:
     print(f"❌ Failed to initialize Chrome: {e}")
     print("Attempting fallback to regular ChromeDriver...")
@@ -90,75 +117,41 @@ except Exception as e:
             driver = webdriver.Chrome(options=chrome_options)
         
         print("✅ Successfully initialized Chrome with fallback")
+        
+        # Inject stealth JavaScript for fallback driver too
+        inject_stealth_javascript(driver)
+            
     except Exception as fallback_error:
         print(f"❌ Fallback also failed: {fallback_error}")
         sys.exit(1)
-
-def random_delay(min_seconds=2, max_seconds=4):
-    """Add random delay to simulate human behavior"""
-    time.sleep(random.uniform(min_seconds, max_seconds))
-
-def scroll_page(driver):
-    """Scroll the page to simulate human behavior"""
-    try:
-        # Scroll down slowly
-        for i in range(3):
-            scroll_amount = random.randint(300, 500)
-            driver.execute_script(f"window.scrollBy(0, {scroll_amount});")
-            time.sleep(random.uniform(0.3, 0.7))
-        
-        # Scroll back to top
-        driver.execute_script("window.scrollTo(0, 0);")
-        time.sleep(random.uniform(0.5, 1.0))
-    except Exception as e:
-        print(f"⚠️ Could not scroll page: {e}")
-
-def random_mouse_movement(driver):
-    """Move mouse randomly to simulate human behavior"""
-    try:
-        action = ActionChains(driver)
-        body = driver.find_element(By.TAG_NAME, "body")
-        # Move to a random position
-        action.move_to_element_with_offset(body, random.randint(100, 500), random.randint(100, 500)).perform()
-        time.sleep(random.uniform(0.1, 0.3))
-    except Exception as e:
-        print(f"⚠️ Could not move mouse: {e}")
 
 try:
     print("[1/6] Logging into KenPom...")
     driver.get("https://kenpom.com/")
     wait = WebDriverWait(driver, 30)
 
-    # Add random delay and mouse movement after page load
-    random_delay(2, 3)
-    random_mouse_movement(driver)
+    # Wait for page to load with human-like behavior
+    wait_for_page_load(driver)
+    random_delay(2, 4)  # Simulate looking at the page
 
+    # Wait for login form elements
     email_input = wait.until(EC.presence_of_element_located((By.NAME, "email")))
     password_input = driver.find_element(By.NAME, "password")
+    submit_button = driver.find_element(By.CSS_SELECTOR, "input[type='submit']")
     
-    # Type credentials with slight delays to simulate human typing
-    for char in USERNAME:
-        email_input.send_keys(char)
-        time.sleep(random.uniform(0.05, 0.15))
+    # Login with human-like behavior
+    add_human_behavior_to_login(driver, email_input, password_input, submit_button, USERNAME, PASSWORD)
     
-    random_delay(0.5, 1)
+    # Wait for login to complete
+    wait_for_page_load(driver)
+    random_delay(2, 3)
     
-    for char in PASSWORD:
-        password_input.send_keys(char)
-        time.sleep(random.uniform(0.05, 0.15))
-    
-    random_delay(0.5, 1)
-    password_input.send_keys(Keys.RETURN)
-    
-    # Wait with random delay after login
-    random_delay(3, 5)
     print("[2/6] ✅ Login successful")
 
     print("[3/6] Navigating to stats page...")
     
-    # Add mouse movement before navigation
-    random_mouse_movement(driver)
-    random_delay(1, 2)
+    # Add human behavior before navigating to stats page
+    add_human_behavior_to_navigation(driver)
     
     try:
         driver.get("https://kenpom.com/index.php")
@@ -168,8 +161,8 @@ try:
         # Try to continue anyway
     
     # Wait and simulate human behavior after page load
-    random_delay(3, 4)
-    scroll_page(driver)
+    wait_for_page_load(driver)
+    simulate_reading(driver, min_seconds=3, max_seconds=5)
     random_delay(2, 3)
 
     stats_table = wait.until(EC.presence_of_element_located((By.ID, "ratings-table")))
