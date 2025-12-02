@@ -82,10 +82,6 @@ jobs:
       env:
         KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
         KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
-        PROXY_ENABLED: ${{ secrets.PROXY_ENABLED }}
-        PROXY_SERVER: ${{ secrets.PROXY_SERVER }}
-        PROXY_USERNAME: ${{ secrets.PROXY_USERNAME }}
-        PROXY_PASSWORD: ${{ secrets.PROXY_PASSWORD }}
     
     - name: Upload error screenshots
       if: always()

@@ -1,24 +1,13 @@
 import os
 import sys
 import time
-import pandas as pd
-from datetime import datetime, timedelta
-from io import StringIO
+from datetime import datetime
 from dotenv import load_dotenv
-import undetected_chromedriver as uc
+from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from human_behavior import (
-    random_delay,
-    add_human_behavior_to_login,
-    add_human_behavior_to_navigation,
-    wait_for_page_load,
-    simulate_reading,
-    inject_stealth_javascript
-)
 
 # Load login credentials
 load_dotenv()
@@ -29,183 +18,74 @@ if not USERNAME or not PASSWORD:
     print("❌ Missing KENPOM_USERNAME or KENPOM_PASSWORD in environment variables.")
     sys.exit(1)
 
-# Enhanced Chrome options for better stealth and anti-detection
+# Chrome options
 chrome_options = Options()
 chrome_options.add_argument("--headless=new")
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
 chrome_options.add_argument("--disable-gpu")
-chrome_options.add_argument("--disable-software-rasterizer")
-chrome_options.add_argument("--disable-extensions")
-chrome_options.add_argument("--window-size=1920,1080")
-chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-chrome_options.add_argument("--disable-web-security")
-chrome_options.add_argument("--allow-running-insecure-content")
 
-# More realistic user agent
-chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
-
-# Additional stealth options
-chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
-chrome_options.add_experimental_option('useAutomationExtension', False)
-
-# Disable automation flags
-prefs = {
-    "credentials_enable_service": False,
-    "profile.password_manager_enabled": False,
-    "profile.default_content_setting_values.notifications": 2,
-}
-chrome_options.add_experimental_option("prefs", prefs)
-
-# Configure proxy with selenium-wire if enabled
-proxy_enabled = os.getenv('PROXY_ENABLED', 'false').lower() == 'true'
-seleniumwire_options = {}
-
-if proxy_enabled:
-    proxy_server = os.getenv('PROXY_SERVER')
-    proxy_username = os.getenv('PROXY_USERNAME')
-    proxy_password = os.getenv('PROXY_PASSWORD')
-    
-    if proxy_server and proxy_username and proxy_password:
-        proxy_url = f"http://{proxy_username}:{proxy_password}@{proxy_server}"
-        seleniumwire_options = {
-            'proxy': {
-                'http': proxy_url,
-                'https': proxy_url,
-                'no_proxy': 'localhost,127.0.0.1'
-            }
-        }
-        print(f"✅ Proxy enabled: Using Oxylabs ({proxy_server})")
-    else:
-        print("⚠️  Proxy enabled but credentials incomplete, running without proxy")
-else:
-    print("ℹ️  Proxy disabled, running with direct connection")
-
-# Initialize driver with selenium-wire
-try:
-    if proxy_enabled and seleniumwire_options:
-        # Use selenium-wire for proxy support
-        from seleniumwire import webdriver
-        
-        # Note: When using proxy, we use selenium-wire's Chrome driver
-        # This provides proxy authentication but without undetected-chromedriver features
-        driver = webdriver.Chrome(options=chrome_options, seleniumwire_options=seleniumwire_options)
-    else:
-        # Use regular undetected_chromedriver without proxy
-        driver = uc.Chrome(
-            options=chrome_options,
-            version_main=None,
-            use_subprocess=True
-        )
-    
-    print("✅ Successfully initialized Chrome")
-    
-    # Inject stealth JavaScript to mask automation
-    inject_stealth_javascript(driver)
-    
-except Exception as e:
-    print(f"❌ Failed to initialize Chrome: {e}")
-    print("Attempting fallback to regular ChromeDriver...")
-    
-    try:
-        if proxy_enabled and seleniumwire_options:
-            from seleniumwire import webdriver
-            driver = webdriver.Chrome(options=chrome_options, seleniumwire_options=seleniumwire_options)
-        else:
-            from selenium import webdriver
-            driver = webdriver.Chrome(options=chrome_options)
-        
-        print("✅ Successfully initialized Chrome with fallback")
-        
-        # Inject stealth JavaScript for fallback driver too
-        inject_stealth_javascript(driver)
-            
-    except Exception as fallback_error:
-        print(f"❌ Fallback also failed: {fallback_error}")
-        sys.exit(1)
+# Initialize driver
+driver = webdriver.Chrome(options=chrome_options)
 
 try:
-    print("[1/7] Logging into KenPom...")
-    driver.get("https://kenpom.com/")
-    wait = WebDriverWait(driver, 20)
+    # Navigate to login page
+    print("🔍 Navigating to KenPom login...")
+    driver.get("https://kenpom.com")
+    time.sleep(2)
 
-    # Wait for page to load with human-like behavior
-    wait_for_page_load(driver)
-    random_delay(2, 4)  # Simulate looking at the page
-
-    # Wait for login form elements
-    email_input = wait.until(EC.presence_of_element_located((By.NAME, "email")))
-    password_input = driver.find_element(By.NAME, "password")
-    submit_button = driver.find_element(By.CSS_SELECTOR, "input[type='submit']")
+    # Find and fill the login form
+    print("🔐 Logging in...")
+    username_field = driver.find_element(By.NAME, "email")
+    password_field = driver.find_element(By.NAME, "password")
     
-    # Login with human-like behavior
-    add_human_behavior_to_login(driver, email_input, password_input, submit_button, USERNAME, PASSWORD)
+    username_field.send_keys(USERNAME)
+    password_field.send_keys(PASSWORD)
     
-    # Wait for login to complete
-    wait_for_page_load(driver)
-    random_delay(2, 3)
+    # Submit the form
+    login_button = driver.find_element(By.XPATH, "//input[@type='submit']")
+    login_button.click()
+    time.sleep(3)
+
+    # Navigate to matchups page
+    print("📊 Navigating to daily matchups...")
+    today = datetime.now().strftime("%Y-%m-%d")
+    driver.get(f"https://kenpom.com/gameplan.php?d={today}")
+    time.sleep(2)
+
+    # Wait for table to load
+    wait = WebDriverWait(driver, 10)
+    table = wait.until(EC.presence_of_element_located((By.CLASS_NAME, "gameplan")))
+
+    # Extract matchup data
+    print("📈 Extracting matchups...")
+    matchups = []
+    rows = driver.find_elements(By.CSS_SELECTOR, ".gameplan tr")
     
-    print("[2/7] ✅ Login successful")
-
-    # Get tomorrow's date for the FanMatch URL
-    tomorrow = datetime.now() + timedelta(days=1)
-    tomorrow_str = tomorrow.strftime("%Y-%m-%d")
+    for row in rows[1:]:  # Skip header
+        cells = row.find_elements(By.TAG_NAME, "td")
+        if len(cells) >= 4:
+            matchups.append({
+                'Date': today,
+                'Team1': cells[0].text.strip(),
+                'Team2': cells[2].text.strip(),
+                'Prediction': cells[3].text.strip()
+            })
     
-    print(f"[3/7] Navigating to FanMatch page for {tomorrow_str}...")
+    # Save to CSV
+    with open('daily_matchups.csv', 'w') as f:
+        f.write('Date,Team1,Team2,Prediction\n')
+        for m in matchups:
+            f.write(f"{m['Date']},{m['Team1']},{m['Team2']},{m['Prediction']}\n")
     
-    # Add human behavior before navigating to FanMatch page
-    add_human_behavior_to_navigation(driver)
-    
-    try:
-        driver.get(f"https://kenpom.com/fanmatch.php?d={tomorrow_str}")
-        time.sleep(5)  # Give more time for page to fully load
-    except Exception as e:
-        print(f"Navigation error: {e}")
-        # Try to continue anyway
-
-    # Wait and simulate human behavior after page load
-    wait_for_page_load(driver)
-    simulate_reading(driver, min_seconds=3, max_seconds=5)
-    random_delay(2, 3)
-
-    # Create kenpom-data directory if it doesn't exist
-    os.makedirs("kenpom-data", exist_ok=True)
-
-    print("[4/7] Extracting FanMatch data...")
-    fanmatch_table = wait.until(EC.presence_of_element_located((By.ID, "fanmatch-table")))
-    
-    # Save the raw HTML
-    html_path = os.path.join("kenpom-data", f"fanmatch-{tomorrow_str}.html")
-    with open(html_path, 'w', encoding='utf-8') as f:
-        f.write(driver.page_source)
-    print(f"[5/7] ✅ Raw HTML saved: {html_path}")
-
-    # Extract table data
-    table_html = fanmatch_table.get_attribute("outerHTML")
-    df = pd.read_html(StringIO(table_html))[0]
-
-    # Clean up the table
-    print("[6/7] Processing FanMatch data...")
-    
-    # Remove any header-like rows and reset index
-    if len(df.columns) > 0:
-        df_cleaned = df.dropna(how='all').copy()
-        df_cleaned.reset_index(drop=True, inplace=True)
-    else:
-        raise ValueError("❌ Could not find any columns in the FanMatch table.")
-
-    # Save processed version
-    final_path = os.path.join("kenpom-data", f"fanmatch-{tomorrow_str}.csv")
-    df_cleaned.to_csv(final_path, index=False)
-    print(f"[7/7] ✅ Cleaned CSV saved: {final_path} (Rows: {len(df_cleaned)})")
-
-    # Print preview of games
-    print("\nTomorrow's Games Preview:")
-    print(df_cleaned.head())
+    print(f"✅ Successfully saved {len(matchups)} matchups to daily_matchups.csv")
 
 except Exception as e:
     print(f"❌ Error: {e}")
+    import traceback
+    traceback.print_exc()
     sys.exit(1)
 
 finally:
     driver.quit()
+    print("🏁 Browser closed")
