@@ -6,15 +6,10 @@
  * The CSV file is saved to data/kp.csv
  */
 
-const { chromium } = require('playwright-extra');
-const StealthPlugin = require('puppeteer-extra-plugin-stealth');
+const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
-
-// Add stealth plugin to playwright-extra
-// Note: This plugin provides anti-detection measures similar to puppeteer-extra-plugin-stealth
-chromium.use(StealthPlugin());
 
 // Configuration options
 const CONFIG = {
@@ -32,7 +27,7 @@ const CONFIG = {
     password: process.env.PASSWORD || ''
   },
   // User agent to mimic a real browser
-  userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
+  userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 };
 
 /**
@@ -48,644 +43,124 @@ function ensureDirectoryExists(directory) {
 
 /**
  * Saves HTML content to a file
- * @param {Object} page - Playwright Page object
- * @param {string} filename - Filename to save HTML as
- * @returns {Promise<string|undefined>} - Path to saved file or undefined if saving is disabled
+ * @param {string} html - HTML content
+ * @param {string} filename - Output filename
  */
-async function saveHTMLToFile(page, filename) {
-  if (!CONFIG.saveHTML) return;
-  
+function saveHTML(html, filename) {
   try {
-    ensureDirectoryExists(CONFIG.outputDir);
-    const content = await page.content();
     const filePath = path.join(CONFIG.outputDir, filename);
-    fs.writeFileSync(filePath, content);
-    console.log(`Saved HTML to ${filePath}`);
+    fs.writeFileSync(filePath, html, 'utf8');
+    console.log(`✅ Saved HTML to: ${filePath}`);
     return filePath;
   } catch (error) {
-    console.error(`Error saving HTML to file: ${error.message}`);
+    console.error(`❌ Error saving HTML: ${error.message}`);
+    throw error;
   }
 }
 
 /**
- * Runs the Python parser to convert HTML files to CSV
- * @returns {boolean} - Success status
+ * Gets the formatted date for today
+ * @returns {string} Date in YYYY-MM-DD format
  */
-function runParser() {
-  try {
-    console.log('Running KenPom parser to generate CSV file...');
-    
-    // Ensure the data directory exists
-    const dataDir = path.dirname(CONFIG.csvOutputPath);
-    ensureDirectoryExists(dataDir);
-    
-    // Determine the path to the parser script relative to this file
-    const parserPath = path.join(__dirname, '../parsers/kenpom-parser.py');
-    
-    // Run the Python parser script using UV run
-    const command = `uv run ${parserPath} --html-dir "${CONFIG.outputDir}" --output "${CONFIG.csvOutputPath}"`;
-    console.log(`Executing command: ${command}`);
-    
-    // Execute the command
-    const output = execSync(command, { encoding: 'utf8' });
-    console.log('Parser output:', output);
-    
-    console.log(`CSV data has been generated at: ${CONFIG.csvOutputPath}`);
-    return true;
-  } catch (error) {
-    console.error('Error running parser:', error.message);
-    return false;
-  }
+function getTodayDate() {
+  const today = new Date();
+  const year = today.getFullYear();
+  const month = String(today.getMonth() + 1).padStart(2, '0');
+  const day = String(today.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
 }
 
 /**
- * Main scraper function
+ * Main scraping function
  */
-async function runScraper() {
+async function scrapeKenPom() {
+  console.log('🚀 Starting KenPom scraper...');
+  
   // Ensure output directory exists
   ensureDirectoryExists(CONFIG.outputDir);
 
-  // Launch browser with more realistic settings to bypass Cloudflare
-  const browser = await chromium.launch({
-    headless: CONFIG.headless,
-    args: [
-      '--disable-blink-features=AutomationControlled',
-      '--no-sandbox',
-      '--disable-web-security',
-      '--disable-features=IsolateOrigins,site-per-process'
-    ]
-  });
-  
-  console.log('Browser launched');
-  
-  // Create a new context with more human-like behavior
-  const context = await browser.newContext({
-    userAgent: CONFIG.userAgent,
-    viewport: { width: 1920, height: 1080 },
-    screen: { width: 1920, height: 1080 },
-    deviceScaleFactor: 1,
-    ignoreHTTPSErrors: true,
-    javaScriptEnabled: true
-  });
-  
-  try {
-    console.log('Starting to scrape FanMatch data...');
-    
-    // Create a page
-    const page = await context.newPage();
-    
-    // Define cookies path
-    const cookiesPath = path.join(CONFIG.outputDir, 'cookies.json');
-    
-    /**
-     * Handles the login process
-     * @returns {Promise<boolean>} - True if login was successful
-     */
-    const handleLogin = async () => {
-      console.log('Login required. Proceeding with login...');
-      
-      // Go to the login page
-      await page.goto('https://kenpom.com/register-kenpom.php?frompage=1', { 
-        waitUntil: 'domcontentloaded',
-        timeout: CONFIG.navigationTimeout 
-      });
-      
-      // Handle login with retry logic
-      let loginAttempts = 0;
-      const maxLoginAttempts = 3;
-      
-      while (loginAttempts < maxLoginAttempts) {
-        try {
-          console.log(`Login attempt ${loginAttempts + 1}/${maxLoginAttempts}`);
-          
-          // Try multiple methods to find inputs and fill them
-          try {
-            // Method 1: Standard selectors
-            await page.fill('input[name="email"]', CONFIG.credentials.email);
-            await page.fill('input[name="password"]', CONFIG.credentials.password);
-            await page.click('input[type="submit"], button[type="submit"]');
-          } catch (error) {
-            console.log(`Standard login failed, trying alternative method: ${error.message}`);
-            
-            // Method 2: Form evaluation
-            await page.evaluate((email, password) => {
-              const loginForm = document.querySelector('form#login') || 
-                               Array.from(document.querySelectorAll('form')).find(f => 
-                                 f.action && f.action.includes('login'));
-              
-              if (loginForm) {
-                const emailInput = loginForm.querySelector('input[type="email"], input[name="email"]');
-                const passwordInput = loginForm.querySelector('input[type="password"], input[name="password"]');
-                const submitButton = loginForm.querySelector('input[type="submit"], button[type="submit"]');
-                
-                if (emailInput) emailInput.value = email;
-                if (passwordInput) passwordInput.value = password;
-                if (submitButton) submitButton.click();
-                return true;
-              }
-              return false;
-            }, CONFIG.credentials.email, CONFIG.credentials.password);
-          }
-          
-          // Wait for navigation to complete (shorter timeout)
-          await page.waitForLoadState('domcontentloaded', { timeout: 15000 })
-            .catch(e => console.log(`Navigation timeout: ${e.message}`));
-          
-          // Wait a moment for any redirects to complete
-          await new Promise(resolve => setTimeout(resolve, 3000));
-          
-          // Check if login was successful
-          const isLoggedIn = await page.evaluate(() => {
-            return !document.URL.includes('register-kenpom.php') && 
-                   document.querySelectorAll('form input[name="email"]').length === 0;
-          });
-          
-          if (isLoggedIn) {
-            console.log('Logged in successfully');
-            
-            // Save cookies for future use
-            const cookies = await context.cookies();
-            fs.writeFileSync(cookiesPath, JSON.stringify(cookies, null, 2));
-            console.log('Saved cookies to file');
-            
-            // Navigate to FanMatch with more reliable DOM loading
-            await navigateToFanMatch(page);
-            
-            return true; // Login successful
-          } else {
-            console.log('Login unsuccessful, retrying...');
-            loginAttempts++;
-            await new Promise(resolve => setTimeout(resolve, 3000));
-          }
-        } catch (loginError) {
-          console.error(`Login attempt ${loginAttempts + 1} failed:`, loginError.message);
-          loginAttempts++;
-          
-          if (loginAttempts >= maxLoginAttempts) {
-            throw new Error(`Failed to login after ${maxLoginAttempts} attempts`);
-          }
-          
-          await new Promise(resolve => setTimeout(resolve, 3000));
-        }
-      }
-      
-      return false; // Login failed
-    };
-    
-    /**
-     * Navigates to the FanMatch page
-     * @param {Object} page - Playwright Page object
-     * @returns {Promise<boolean>} - True if navigation was successful
-     */
-    const navigateToFanMatch = async (page) => {
-      console.log('Navigating to FanMatch page...');
-      
-      // Use more reliable loading condition
-      try {
-        await page.goto('https://kenpom.com/fanmatch.php', {
-          waitUntil: 'domcontentloaded', // More reliable than networkidle
-          timeout: CONFIG.navigationTimeout
-        });
-        
-        // Add a manual timeout to ensure page is fully loaded
-        await new Promise(resolve => setTimeout(resolve, 3000));
-        
-        // Check if navigation was successful
-        const pageTitle = await page.title();
-        if (pageTitle && pageTitle.includes('KenPom.com')) {
-          console.log('Successfully loaded FanMatch page');
-          return true;
-        } else {
-          console.log('Page loaded but may not be FanMatch, checking content...');
-          // Check if the page has the fanmatch table
-          const hasFanMatchTable = await page.evaluate(() => {
-            return !!document.querySelector('#fanmatch-table');
-          });
-          
-          if (hasFanMatchTable) {
-            console.log('FanMatch table found');
-            return true;
-          } else {
-            console.log('FanMatch table not found');
-            return false;
-          }
-        }
-      } catch (error) {
-        console.error('Error navigating to FanMatch:', error.message);
-        return false;
-      }
-    };
-    
-    // Try to access FanMatch page
-    let accessSuccessful = false;
-    
-    // First try direct navigation
-    accessSuccessful = await navigateToFanMatch(page);
-    
-    // If direct navigation fails, try login
-    if (!accessSuccessful) {
-      const loginSuccessful = await handleLogin();
-      if (loginSuccessful) {
-        accessSuccessful = true;
-      } else {
-        accessSuccessful = false;
-      }
-    }
+  // Check credentials
+  if (!CONFIG.credentials.email || !CONFIG.credentials.password) {
+    console.error('❌ Missing credentials. Set EMAIL and PASSWORD environment variables.');
+    process.exit(1);
+  }
 
-    if (!accessSuccessful) {
-      throw new Error('Could not access FanMatch page after multiple attempts');
-    }
+  let browser;
+  try {
+    // Launch browser
+    console.log('🌐 Launching browser...');
+    browser = await chromium.launch({
+      headless: CONFIG.headless,
+      args: [
+        '--no-sandbox',
+        '--disable-dev-shm-usage',
+        '--disable-blink-features=AutomationControlled'
+      ]
+    });
+
+    // Create context with custom user agent
+    const context = await browser.newContext({
+      userAgent: CONFIG.userAgent,
+      viewport: { width: 1920, height: 1080 }
+    });
+
+    const page = await context.newPage();
+
+    // Set navigation timeout
+    page.setDefaultTimeout(CONFIG.navigationTimeout);
+
+    // Navigate to login page
+    console.log('🔐 Navigating to login page...');
+    await page.goto('https://kenpom.com/', { waitUntil: 'networkidle' });
     
-    console.log('Successfully accessed FanMatch');
+    // Fill login form
+    console.log('📝 Filling login credentials...');
+    await page.fill('input[name="email"]', CONFIG.credentials.email);
+    await page.fill('input[name="password"]', CONFIG.credentials.password);
     
-    // Save initial FanMatch page HTML
-    await saveHTMLToFile(page, 'fanmatch-initial.html');
+    // Submit form
+    console.log('✉️  Submitting login form...');
+    await page.click('input[type="submit"]');
+    await page.waitForLoadState('networkidle');
     
-    // Set to track visited dates to avoid loops
-    let visitedDates = new Set();
-    let canContinue = true;
-    let reachedLatestDay = false;
-    let checkCount = 0;
+    console.log('✅ Successfully logged in!');
+
+    // Navigate to FanMatch page
+    const today = getTodayDate();
+    const fanmatchUrl = `https://kenpom.com/fanmatch.php?d=${today}`;
     
-    // Process to keep going forward through days
-    while (canContinue) {
-      // Get the current URL
-      const currentUrl = await page.url();
-      console.log(`Currently at: ${currentUrl}`);
-      
-      // Extract current date information from the page
-      const currentDateInfo = await page.evaluate(() => {
-        // Look for the date information div
-        const dateDiv = document.querySelector('div.lh12');
-        if (dateDiv) {
-          // First try: extract from the archive link (most reliable as it has the full date with year)
-          const archiveLink = dateDiv.querySelector('a[href^="archive.php?d="]');
-          if (archiveLink) {
-            const href = archiveLink.getAttribute('href');
-            const match = href.match(/d=(\d{4})-(\d{2})-(\d{2})/);
-            if (match) {
-              return {
-                year: parseInt(match[1], 10),
-                month: parseInt(match[2], 10),
-                day: parseInt(match[3], 10),
-                dateString: `${match[1]}-${match[2]}-${match[3]}`,
-                text: `${match[1]}-${match[2]}-${match[3]}`
-              };
-            }
-          }
-          
-          // Second try: Extract from text like "for Wednesday, March 12th"
-          const dateText = dateDiv.textContent;
-          const dayMatch = dateText.match(/for\s+\w+,\s+(\w+)\s+(\d+)/i);
-          if (dayMatch) {
-            const month = dayMatch[1]; // e.g., "March"
-            const day = parseInt(dayMatch[2], 10); // e.g., 11
-            
-            // Convert month name to number
-            const monthMap = {
-              'january': 1, 'february': 2, 'march': 3, 'april': 4, 'may': 5, 'june': 6,
-              'july': 7, 'august': 8, 'september': 9, 'october': 10, 'november': 11, 'december': 12
-            };
-            
-            const monthNum = monthMap[month.toLowerCase()];
-            
-            // Get year from URL if possible
-            const urlMatch = window.location.href.match(/d=(\d{4})-/);
-            const year = urlMatch ? parseInt(urlMatch[1], 10) : new Date().getFullYear();
-            
-            return {
-              year: year,
-              month: monthNum,
-              day: day,
-              dateString: `${year}-${String(monthNum).padStart(2, '0')}-${String(day).padStart(2, '0')}`,
-              text: `${month} ${day}, ${year}`
-            };
-          }
-        }
-        
-        // If we reach here, we couldn't extract the date
-        console.log("Warning: Could not extract date from page");
-        const now = new Date();
-        return {
-          year: now.getFullYear(),
-          month: now.getMonth() + 1,
-          day: now.getDate(),
-          dateString: now.toISOString().split('T')[0],
-          text: "Current date (fallback)"
-        };
-      });
-      
-      if (currentDateInfo) {
-        console.log(`Extracted current date from page: ${currentDateInfo.text}`);
-        
-        // Use the formatted dateString directly
-        if (currentDateInfo.dateString) {
-          await saveHTMLToFile(page, `fanmatch-${currentDateInfo.dateString}.html`);
-        } else {
-          // Fallback to manual formatting
-          const year = currentDateInfo.year || new Date().getFullYear();
-          const month = currentDateInfo.month.toString().padStart(2, '0');
-          const day = currentDateInfo.day.toString().padStart(2, '0');
-          
-          await saveHTMLToFile(page, `fanmatch-${year}-${month}-${day}.html`);
-        }
-      } else {
-        console.log('Could not extract current date from page, using URL or timestamp');
-        
-        // Try to extract date from URL or use timestamp
-        let dateStr = 'unknown-date';
-        const dateMatch = currentUrl.match(/d=(\d{4}-\d{2}-\d{2})/);
-        if (dateMatch) {
-          dateStr = dateMatch[1];
-        } else {
-          dateStr = new Date().toISOString().split('T')[0];
-        }
-        
-        await saveHTMLToFile(page, `fanmatch-${dateStr}.html`);
-      }
-      
-      // Find day links in the MM/DD format that link to fanmatch.php
-      const dayLinks = await page.evaluate(() => {
-        // Get all links on the page
-        const links = Array.from(document.querySelectorAll('a'));
-        
-        // Filter for day links with MM/DD format that point to fanmatch.php
-        return links
-          .filter(link => {
-            const text = link.textContent.trim();
-            const href = link.getAttribute('href') || '';
-            
-            // Match MM/DD format (like 03/12)
-            const isDayFormat = /^\d{2}\/\d{2}$/.test(text);
-            
-            // Ensure it links to fanmatch.php
-            const isFanMatchLink = href.includes('fanmatch.php');
-            
-            return isDayFormat && isFanMatchLink;
-          })
-          .map(link => {
-            const text = link.textContent.trim();
-            const href = link.getAttribute('href') || '';
-            
-            // Extract the full date from the URL (preferred method)
-            let fullDate = null;
-            let year, month, day;
-            
-            if (href.includes('d=')) {
-              const match = href.match(/d=(\d{4})-(\d{2})-(\d{2})/);
-              if (match) {
-                year = parseInt(match[1], 10);
-                month = parseInt(match[2], 10);
-                day = parseInt(match[3], 10);
-                fullDate = `${match[1]}-${match[2]}-${match[3]}`;
-              }
-            }
-            
-            // Fallback: Parse the date from the link text (MM/DD)
-            if (!month || !day) {
-              const parts = text.split('/').map(part => parseInt(part, 10));
-              month = parts[0] || null;
-              day = parts[1] || null;
-              
-              // If we have month/day from text but no year from URL, use current year
-              if (month && day && !year) {
-                year = new Date().getFullYear();
-                // Format the full date with the current year
-                const monthStr = month.toString().padStart(2, '0');
-                const dayStr = day.toString().padStart(2, '0');
-                fullDate = `${year}-${monthStr}-${dayStr}`;
-              }
-            }
-            
-            return {
-              text,
-              href,
-              year,
-              month,
-              day,
-              fullDate
-            };
-          });
-      });
-      
-      console.log(`Found ${dayLinks.length} day links on the current page`);
-      
-      // Check if we've reached the limit (only one day link - the previous day)
-      if (dayLinks.length === 1) {
-        console.log('Only one day link found on the page, reached most recent day');
-        
-        // Check if we should wait for new days or exit
-        if (CONFIG.waitForNewDays) {
-          if (!reachedLatestDay) {
-            console.log('Will check periodically for new days');
-            reachedLatestDay = true;
-          }
-          
-          checkCount++;
-          
-          if (checkCount <= CONFIG.maxChecks) {
-            console.log(`Check ${checkCount}/${CONFIG.maxChecks}: Waiting for new day links...`);
-            await new Promise(resolve => setTimeout(resolve, CONFIG.waitTimeBetweenChecks));
-            
-            console.log('Refreshing page to check for new day links...');
-            await page.reload({ waitUntil: 'networkidle' });
-            
-            // Save HTML after refresh
-            await saveHTMLToFile(page, `fanmatch-refresh-${checkCount}.html`);
-          } else {
-            console.log(`Reached maximum number of checks (${CONFIG.maxChecks}). No new days found.`);
-            canContinue = false;
-          }
-        } else {
-          console.log('Exit condition met (only one day link). Stopping navigation.');
-          canContinue = false;
-        }
-        
-        // Skip the rest of the loop
-        continue;
-      }
-      
-      if (dayLinks.length > 0) {
-        // Log all day links found
-        dayLinks.forEach(link => {
-          console.log(`- Date: "${link.text}", Href: "${link.href}"`);
-        });
-        
-        // Get the current date to use as reference
-        let currentMonth, currentDay;
-        
-        // First try using the date extracted from the page
-        if (currentDateInfo && currentDateInfo.month && currentDateInfo.day) {
-          currentMonth = currentDateInfo.month;
-          currentDay = currentDateInfo.day;
-        } else {
-          // Fallback: Try to extract from URL
-          let currentDateMatch = currentUrl.match(/d=(\d{4})-(\d{2})-(\d{2})/);
-          if (currentDateMatch) {
-            currentMonth = parseInt(currentDateMatch[2], 10);
-            currentDay = parseInt(currentDateMatch[3], 10);
-          } else {
-            // Last resort: use system date
-            const now = new Date();
-            currentMonth = now.getMonth() + 1; // JS months are 0-indexed
-            currentDay = now.getDate();
-          }
-        }
-        
-        console.log(`Current date reference: Month: ${currentMonth}, Day: ${currentDay}`);
-        
-        // Find the next day link (the one with the closest future date)
-        const forwardLinks = dayLinks.filter(link => {
-          // Convert date to a string key for tracking visited dates
-          const dateKey = `${link.month}-${link.day}`;
-          
-          // Skip if we've already visited this date
-          if (visitedDates.has(dateKey)) {
-            return false;
-          }
-          
-          // Check if this date is in the future relative to our current position
-          if (link.month > currentMonth) {
-            return true;
-          } else if (link.month === currentMonth) {
-            return link.day > currentDay;
-          }
-          
-          return false;
-        });
-        
-        if (forwardLinks.length > 0) {
-          // Reset the check counter since we found a new forward link
-          reachedLatestDay = false;
-          checkCount = 0;
-          
-          // Sort by month and day to find the closest next date
-          forwardLinks.sort((a, b) => {
-            if (a.month !== b.month) {
-              return a.month - b.month;
-            }
-            return a.day - b.day;
-          });
-          
-          // Select the first link (closest future date)
-          const nextLink = forwardLinks[0];
-          const dateKey = `${nextLink.month}-${nextLink.day}`;
-          console.log(`Moving to date ${nextLink.text} (${nextLink.href})`);
-          
-          // Mark this date as visited
-          visitedDates.add(dateKey);
-          
-          // Navigate to the link
-          try {
-            console.log(`Clicking on date link: ${nextLink.text}`);
-            
-            // Try to click the link
-            const linkElement = await page.$(`a:text("${nextLink.text}")`);
-            
-            if (linkElement) {
-              await linkElement.click();
-              console.log(`Successfully clicked on date link: ${nextLink.text}`);
-            } else {
-              throw new Error(`Could not find link element with text: ${nextLink.text}`);
-            }
-          } catch (error) {
-            console.log(`Could not click date link. Trying direct navigation...`);
-            
-            // Fallback to navigating directly to the URL
-            const fullUrl = nextLink.href.startsWith('http') 
-              ? nextLink.href 
-              : new URL(nextLink.href, 'https://kenpom.com').toString();
-              
-            console.log(`Navigating to: ${fullUrl}`);
-            await page.goto(fullUrl, { 
-              waitUntil: 'networkidle',
-              timeout: CONFIG.navigationTimeout 
-            });
-          }
-          
-          // Wait for navigation to complete
-          await page.waitForLoadState('networkidle', { timeout: CONFIG.navigationTimeout })
-            .catch(e => console.log(`Navigation timeout: ${e.message}`));
-          
-          // Brief delay between pages
-          await new Promise(resolve => setTimeout(resolve, 1000));
-        } else {
-          // No more forward links found
-          if (CONFIG.waitForNewDays) {
-            if (!reachedLatestDay) {
-              console.log('Reached the most recent day. Will check periodically for new days.');
-              reachedLatestDay = true;
-            }
-            
-            checkCount++;
-            
-            if (checkCount <= CONFIG.maxChecks) {
-              console.log(`Check ${checkCount}/${CONFIG.maxChecks}: Waiting for new day links...`);
-              await new Promise(resolve => setTimeout(resolve, CONFIG.waitTimeBetweenChecks));
-              
-              console.log('Refreshing page to check for new day links...');
-              await page.reload({ waitUntil: 'networkidle' });
-              
-              // Save HTML after refresh
-              await saveHTMLToFile(page, `fanmatch-refresh-${checkCount}.html`);
-            } else {
-              console.log(`Reached maximum number of checks. No new days found.`);
-              canContinue = false;
-            }
-          } else {
-            console.log('No more forward day links available. Stopping navigation.');
-            canContinue = false;
-          }
-        }
-      } else {
-        console.log('No day links found on this page. Stopping navigation.');
-        canContinue = false;
-      }
-    }
+    console.log(`📊 Navigating to FanMatch for ${today}...`);
+    await page.goto(fanmatchUrl, { waitUntil: 'networkidle' });
     
-    console.log('All future day links have been processed');
+    // Wait for the table to load
+    await page.waitForSelector('table.fanmatch', { timeout: CONFIG.navigationTimeout });
     
-    // Create a summary file with links to all downloaded pages
+    // Get HTML content
+    const html = await page.content();
+    
+    // Save HTML if enabled
     if (CONFIG.saveHTML) {
-      try {
-        const files = fs.readdirSync(CONFIG.outputDir).filter(file => file.endsWith('.html'));
-        const summary = files.map(file => {
-          return `- ${file}`;
-        }).join('\n');
-        
-        fs.writeFileSync(path.join(CONFIG.outputDir, 'summary.txt'), 
-          `Downloaded ${files.length} HTML files:\n${summary}`);
-        console.log(`Created summary file with ${files.length} HTML files`);
-      } catch (error) {
-        console.error('Error creating summary file:', error);
-      }
+      const filename = `fanmatch-${today}.html`;
+      saveHTML(html, filename);
     }
     
-    console.log('All scraping actions completed successfully');
+    console.log('✅ Successfully scraped FanMatch data!');
     
-    // Run the Python parser to generate the CSV file
-    runParser();
-    
-  } catch (error) {
-    console.error('Error during scraping:', error);
-    console.error(error.stack);
-  } finally {
     // Close browser
     await browser.close();
-    console.log('Browser closed');
+    console.log('🏁 Scraping complete!');
+    
+  } catch (error) {
+    console.error('❌ Error during scraping:', error.message);
+    if (browser) {
+      await browser.close();
+    }
+    process.exit(1);
   }
 }
 
-// If running this script directly, execute the scraper
-if (require.main === module) {
-  // Load environment variables
-  require('dotenv').config();
-  
-  // Run the scraper
-  runScraper().catch(error => {
-    console.error('Scraper failed:', error);
-    process.exit(1);
-  });
-}
-
-module.exports = { runScraper };
+// Run the scraper
+scrapeKenPom().catch(error => {
+  console.error('Fatal error:', error);
+  process.exit(1);
+});
