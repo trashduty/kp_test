@@ -22,14 +22,46 @@ if not USERNAME or not PASSWORD:
 
 # Configure headless Chrome
 chrome_options = uc.ChromeOptions()
-chrome_options.add_argument("--headless")
+chrome_options.add_argument("--headless=new")  # Use new headless mode
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
 chrome_options.add_argument("--disable-gpu")
-chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36")
+chrome_options.add_argument("--disable-software-rasterizer")
+chrome_options.add_argument("--disable-extensions")
+chrome_options.add_argument("--disable-setuid-sandbox")
+chrome_options.add_argument("--single-process")  # Important for stability in containers
+chrome_options.add_argument("--no-zygote")
+chrome_options.add_argument("--disable-dev-tools")
+chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+chrome_options.add_argument("--window-size=1920,1080")
+chrome_options.add_argument("--start-maximized")
+chrome_options.add_argument("--disable-features=IsolateOrigins,site-per-process")
+chrome_options.add_argument("--remote-debugging-port=9222")
+chrome_options.add_argument("--disable-crash-reporter")
+chrome_options.add_argument("user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 
-# Initialize WebDriver with undetected-chromedriver
-driver = uc.Chrome(options=chrome_options, version_main=None)
+# Add experimental options to avoid detection
+chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+chrome_options.add_experimental_option('useAutomationExtension', False)
+
+# Initialize WebDriver with undetected-chromedriver and fallback
+try:
+    driver = uc.Chrome(
+        options=chrome_options,
+        version_main=None,
+        use_subprocess=True,
+        driver_executable_path=None
+    )
+except Exception as e:
+    print(f"Failed to initialize Chrome with undetected_chromedriver: {e}")
+    print("Attempting fallback to regular ChromeDriver...")
+    try:
+        from selenium import webdriver
+        driver = webdriver.Chrome(options=chrome_options)
+    except Exception as fallback_error:
+        print(f"❌ Fallback to regular ChromeDriver also failed: {fallback_error}")
+        print("Both undetected_chromedriver and regular ChromeDriver failed to initialize.")
+        raise
 
 try:
     print("[1/7] Logging into KenPom...")
