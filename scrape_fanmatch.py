@@ -34,7 +34,23 @@ chrome_options.add_argument("--disable-software-rasterizer")
 chrome_options.add_argument("--disable-extensions")
 chrome_options.add_argument("--window-size=1920,1080")
 chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-chrome_options.add_argument("user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+
+# Add proxy configuration if enabled
+proxy_enabled = os.getenv('PROXY_ENABLED', 'false').lower() == 'true'
+if proxy_enabled:
+    proxy_server = os.getenv('PROXY_SERVER')
+    proxy_username = os.getenv('PROXY_USERNAME')
+    proxy_password = os.getenv('PROXY_PASSWORD')
+    
+    if proxy_server and proxy_username and proxy_password:
+        proxy_url = f"http://{proxy_username}:{proxy_password}@{proxy_server}"
+        chrome_options.add_argument(f'--proxy-server={proxy_url}')
+        print(f"✅ Proxy enabled: Using Oxylabs ({proxy_server})")
+    else:
+        print("⚠️  Proxy enabled but credentials incomplete, running without proxy")
+else:
+    print("ℹ️  Proxy disabled, running with direct connection")
 
 # Initialize driver with use_subprocess=True
 try:

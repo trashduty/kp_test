@@ -46,6 +46,9 @@ error_fanmatch_screenshot.png
 graded_results.csv
 filtered_graded_results.csv
 
+# Environment variables
+.env
+
 # R
 .Rhistory
 .RData
