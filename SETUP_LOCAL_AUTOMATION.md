@@ -77,6 +77,8 @@ If either command fails, install the missing software.
    - Click Next
    - Program/script: Browse to your `run_and_push.bat` file
    - Start in: Enter the folder path where your project is (e.g., `C:\Users\YourName\kp_test`)
+     - Replace `YourName` with your actual Windows username
+     - Or navigate to the folder in File Explorer, click the address bar, and copy the path
    - Click Next
 
 5. **Finish**:
@@ -93,7 +95,7 @@ If either command fails, install the missing software.
 
 ### Option B: Using PowerShell (Advanced)
 
-Run this PowerShell command (replace the path with your actual project path):
+Run this PowerShell command (replace the paths with your actual project path):
 
 ```powershell
 $action = New-ScheduledTaskAction -Execute "C:\Users\YourName\kp_test\run_and_push.bat" -WorkingDirectory "C:\Users\YourName\kp_test"
@@ -101,6 +103,8 @@ $trigger = New-ScheduledTaskTrigger -Daily -At "2:00AM"
 $settings = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries -StartWhenAvailable
 Register-ScheduledTask -TaskName "KenPom Daily Scraper" -Action $action -Trigger $trigger -Settings $settings -Description "Automatically scrapes KenPom data"
 ```
+
+**Note:** Replace `C:\Users\YourName\kp_test` with your actual project path. You can get your current path by running `pwd` in PowerShell from your project directory.
 
 ## Step 4: Test the Scheduled Task
 
@@ -117,10 +121,16 @@ Register-ScheduledTask -TaskName "KenPom Daily Scraper" -Action $action -Trigger
 
 ### Python or Git not found
 - The Task Scheduler might not have the same PATH as your user account
-- Edit the task and set the full path to Python in the batch file:
+- Find your Python installation path:
+  - Open Command Prompt and run: `where python`
+  - This will show the full path to Python (e.g., `C:\Python310\python.exe` or `C:\Users\YourName\AppData\Local\Programs\Python\Python311\python.exe`)
+- Edit the batch file to use the full path:
+  - Open `run_scrapers_local.bat` in a text editor
+  - Replace `python` with the full path in quotes:
   ```
   "C:\Python310\python.exe" scrape_kenpom_stats.py
   ```
+  - Do this for all three scraper commands
 
 ### Task doesn't run when computer is asleep
 - Your computer needs to be on (not sleeping) for the task to run
