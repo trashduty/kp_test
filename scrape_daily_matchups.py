@@ -5,8 +5,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 from io import StringIO
 from dotenv import load_dotenv
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
+import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
@@ -22,22 +21,15 @@ if not USERNAME or not PASSWORD:
     sys.exit(1)
 
 # Configure headless Chrome
-chrome_options = Options()
+chrome_options = uc.ChromeOptions()
 chrome_options.add_argument("--headless")
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
 chrome_options.add_argument("--disable-gpu")
 chrome_options.add_argument("user-agent=Mozilla/5.0")
-chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
-chrome_options.add_experimental_option("useAutomationExtension", False)
 
-# Initialize WebDriver
-driver = webdriver.Chrome(options=chrome_options)
-
-# Prevent Selenium detection
-driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
-    "source": "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
-})
+# Initialize WebDriver with undetected-chromedriver
+driver = uc.Chrome(options=chrome_options, version_main=None)
 
 try:
     print("[1/7] Logging into KenPom...")
