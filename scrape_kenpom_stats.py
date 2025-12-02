@@ -21,7 +21,7 @@ from human_behavior import (
     inject_stealth_javascript
 )
 
-# Load login credentials
+# Load login credentials and proxy configuration
 load_dotenv()
 USERNAME = os.getenv("KENPOM_USERNAME")
 PASSWORD = os.getenv("KENPOM_PASSWORD")
@@ -29,6 +29,14 @@ PASSWORD = os.getenv("KENPOM_PASSWORD")
 if not USERNAME or not PASSWORD:
     print("❌ Missing KENPOM_USERNAME or KENPOM_PASSWORD in environment variables.")
     sys.exit(1)
+
+# Proxy configuration
+PROXY_USE_SELENIUM_WIRE = os.getenv('PROXY_USE_SELENIUM_WIRE', 'false').lower() == 'true'
+OXY_USERNAME = os.getenv('OXY_USERNAME')
+OXY_PASSWORD = os.getenv('OXY_PASSWORD')
+OXY_HOST = os.getenv('OXY_HOST', 'pr.oxylabs.io')
+OXY_PORT = os.getenv('OXY_PORT', '7777')
+OXY_STICKY = os.getenv('OXY_STICKY', '')  # Optional sticky session ID
 
 # Enhanced Chrome options for better stealth and anti-detection
 chrome_options = Options()
@@ -59,16 +67,24 @@ prefs = {
 chrome_options.add_experimental_option("prefs", prefs)
 
 # Configure proxy with selenium-wire if enabled
-proxy_enabled = os.getenv('PROXY_ENABLED', 'false').lower() == 'true'
+# PROXY_USE_SELENIUM_WIRE should be set to 'true' to use selenium-wire with proxy authentication
+# This is needed to bypass Cloudflare and other bot detection systems
 seleniumwire_options = {}
 
-if proxy_enabled:
-    proxy_server = os.getenv('PROXY_SERVER')
-    proxy_username = os.getenv('PROXY_USERNAME')
-    proxy_password = os.getenv('PROXY_PASSWORD')
-    
-    if proxy_server and proxy_username and proxy_password:
-        proxy_url = f"http://{proxy_username}:{proxy_password}@{proxy_server}"
+if PROXY_USE_SELENIUM_WIRE:
+    if OXY_USERNAME and OXY_PASSWORD:
+        # Build username with optional sticky session
+        # Sticky sessions maintain the same IP for the entire scraping session
+        # Format: username-session-<SESSION_ID>
+        # Example: customer-user123-session-sticky1
+        if OXY_STICKY:
+            proxy_username = f"{OXY_USERNAME}-session-{OXY_STICKY}"
+            print(f"✅ Using Oxylabs proxy with sticky session: {OXY_STICKY}")
+        else:
+            proxy_username = OXY_USERNAME
+            print("⚠️  Using Oxylabs proxy without sticky session (IP may rotate)")
+        
+        proxy_url = f"http://{proxy_username}:{OXY_PASSWORD}@{OXY_HOST}:{OXY_PORT}"
         seleniumwire_options = {
             'proxy': {
                 'http': proxy_url,
@@ -76,15 +92,17 @@ if proxy_enabled:
                 'no_proxy': 'localhost,127.0.0.1'
             }
         }
-        print(f"✅ Proxy enabled: Using Oxylabs ({proxy_server})")
+        print(f"✅ Proxy enabled: Using Oxylabs ({OXY_HOST}:{OXY_PORT})")
     else:
-        print("⚠️  Proxy enabled but credentials incomplete, running without proxy")
+        print("⚠️  PROXY_USE_SELENIUM_WIRE enabled but OXY_USERNAME/OXY_PASSWORD missing")
+        print("     Running without proxy - may be blocked by Cloudflare")
 else:
-    print("ℹ️  Proxy disabled, running with direct connection")
+    print("ℹ️  Selenium-wire proxy disabled (set PROXY_USE_SELENIUM_WIRE=true to enable)")
+    print("     Running with direct connection")
 
 # Initialize driver with selenium-wire
 try:
-    if proxy_enabled and seleniumwire_options:
+    if PROXY_USE_SELENIUM_WIRE and seleniumwire_options:
         # Use selenium-wire for proxy support
         from seleniumwire import webdriver
         
@@ -109,7 +127,7 @@ except Exception as e:
     print("Attempting fallback to regular ChromeDriver...")
     
     try:
-        if proxy_enabled and seleniumwire_options:
+        if PROXY_USE_SELENIUM_WIRE and seleniumwire_options:
             from seleniumwire import webdriver
             driver = webdriver.Chrome(options=chrome_options, seleniumwire_options=seleniumwire_options)
         else:
@@ -126,6 +144,28 @@ except Exception as e:
         sys.exit(1)
 
 try:
+    # Diagnostic: Check proxy IP and headers before logging in
+    # This verifies the proxy is working correctly and helps debug Cloudflare issues
+    if PROXY_USE_SELENIUM_WIRE and seleniumwire_options:
+        print("\n[Diagnostic] Verifying proxy IP and headers...")
+        try:
+            # Check IP address
+            driver.get("https://httpbin.org/ip")
+            wait_for_page_load(driver)
+            ip_text = driver.find_element(By.TAG_NAME, "body").text
+            print(f"   ✅ Proxy IP check: {ip_text[:100]}")
+            
+            # Check headers
+            driver.get("https://httpbin.org/headers")
+            wait_for_page_load(driver)
+            headers_text = driver.find_element(By.TAG_NAME, "body").text
+            print(f"   ✅ Headers check: User-Agent present")
+            
+            # Small delay before proceeding
+            random_delay(2, 3)
+        except Exception as diag_error:
+            print(f"   ⚠️  Diagnostic check failed (non-fatal): {diag_error}")
+    
     print("[1/6] Logging into KenPom...")
     driver.get("https://kenpom.com/")
     wait = WebDriverWait(driver, 30)
@@ -156,6 +196,39 @@ try:
     try:
         driver.get("https://kenpom.com/index.php")
         time.sleep(5)  # Give more time for page to fully load
+        
+        # ==================== TURNSTILE SOLVER INTEGRATION POINT ====================
+        # If Cloudflare Turnstile challenge appears, integrate a solver here.
+        # 
+        # Common Turnstile solving services:
+        # - 2Captcha: https://2captcha.com/2captcha-api#turnstile
+        # - Anti-Captcha: https://anti-captcha.com/apidoc/task-types/TurnstileTask
+        # - CapSolver: https://www.capsolver.com/products/cloudflare-turnstile
+        #
+        # Integration example (pseudo-code):
+        # 
+        # if turnstile_detected(driver):
+        #     sitekey = get_turnstile_sitekey(driver)
+        #     page_url = driver.current_url
+        #     
+        #     # Submit to solver service (use environment variable for API key)
+        #     solver_api_key = os.getenv('TURNSTILE_SOLVER_API_KEY')
+        #     if solver_api_key:
+        #         response = solve_turnstile(
+        #             api_key=solver_api_key,
+        #             sitekey=sitekey,
+        #             page_url=page_url
+        #         )
+        #         inject_turnstile_response(driver, response)
+        #         time.sleep(2)  # Wait for validation
+        #     else:
+        #         print("⚠️  Turnstile detected but no solver API key configured")
+        #         print("     Set TURNSTILE_SOLVER_API_KEY to enable automatic solving")
+        #
+        # DO NOT commit API keys to the repository!
+        # Always use environment variables for sensitive credentials.
+        # ============================================================================
+        
     except Exception as e:
         print(f"Navigation error: {e}")
         # Try to continue anyway

@@ -1,0 +1,88 @@
+name: Proxy Check
+
+# This workflow verifies proxy configuration for debugging.
+# It only runs when proxy variables are set and can be manually triggered.
+# Designed to help debug CI proxy issues without failing by default.
+
+on:
+  workflow_dispatch:
+    inputs:
+      run_check:
+        description: 'Run proxy check (true/false)'
+        required: false
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+  # Optionally run on schedule (disabled by default)
+  # schedule:
+  #   - cron: '0 0 * * 0'  # Weekly on Sunday at midnight UTC
+
+jobs:
+  check-proxy:
+    runs-on: ubuntu-latest
+    # Only run if explicitly triggered and run_check is true
+    if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.run_check == 'true' }}
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Check if proxy variables are set
+      id: check_vars
+      run: |
+        if [ -n "${{ secrets.OXY_USERNAME }}" ] && [ -n "${{ secrets.OXY_PASSWORD }}" ]; then
+          echo "proxy_configured=true" >> $GITHUB_OUTPUT
+          echo "✅ Proxy variables are configured"
+        else
+          echo "proxy_configured=false" >> $GITHUB_OUTPUT
+          echo "⚠️  Proxy variables not configured - will test direct connection"
+        fi
+    
+    - name: Run proxy check (with proxy)
+      if: steps.check_vars.outputs.proxy_configured == 'true'
+      env:
+        OXY_USERNAME: ${{ secrets.OXY_USERNAME }}
+        OXY_PASSWORD: ${{ secrets.OXY_PASSWORD }}
+        OXY_HOST: ${{ secrets.OXY_HOST || 'pr.oxylabs.io' }}
+        OXY_PORT: ${{ secrets.OXY_PORT || '7777' }}
+        OXY_STICKY: ${{ secrets.OXY_STICKY || 'github-actions-check' }}
+      run: |
+        echo "Running proxy check with Oxylabs credentials..."
+        python tools/check_proxy.py
+    
+    - name: Run proxy check (without proxy)
+      if: steps.check_vars.outputs.proxy_configured == 'false'
+      run: |
+        echo "Running proxy check without proxy (direct connection)..."
+        python tools/check_proxy.py
+    
+    - name: Summary
+      if: always()
+      run: |
+        echo "### Proxy Check Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        if [ "${{ steps.check_vars.outputs.proxy_configured }}" == "true" ]; then
+          echo "✅ Proxy variables configured" >> $GITHUB_STEP_SUMMARY
+          echo "- Host: ${{ secrets.OXY_HOST || 'pr.oxylabs.io' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- Port: ${{ secrets.OXY_PORT || '7777' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- Sticky: ${{ secrets.OXY_STICKY || 'github-actions-check' }}" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "⚠️  Proxy variables not configured" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "To enable proxy:" >> $GITHUB_STEP_SUMMARY
+          echo "1. Go to Settings → Secrets → Actions" >> $GITHUB_STEP_SUMMARY
+          echo "2. Add: OXY_USERNAME, OXY_PASSWORD" >> $GITHUB_STEP_SUMMARY
+          echo "3. Optional: OXY_HOST, OXY_PORT, OXY_STICKY" >> $GITHUB_STEP_SUMMARY
+        fi
