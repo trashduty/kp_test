@@ -6,6 +6,8 @@ import pandas as pd
 from io import StringIO
 from dotenv import load_dotenv
 import undetected_chromedriver as uc
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
@@ -21,44 +23,37 @@ if not USERNAME or not PASSWORD:
     print("❌ Missing KENPOM_USERNAME or KENPOM_PASSWORD in environment variables.")
     sys.exit(1)
 
-# Configure headless Chrome with realistic settings
-chrome_options = uc.ChromeOptions()
-
-# Essential arguments for GitHub Actions
+# Minimal, stable Chrome options for GitHub Actions
+chrome_options = Options()
 chrome_options.add_argument("--headless=new")
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
 chrome_options.add_argument("--disable-gpu")
-
-# More stable arguments instead of --single-process and --no-zygote
 chrome_options.add_argument("--disable-software-rasterizer")
 chrome_options.add_argument("--disable-extensions")
-chrome_options.add_argument("--disable-setuid-sandbox")
 chrome_options.add_argument("--window-size=1920,1080")
 chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-chrome_options.add_argument("--remote-debugging-port=9222")
 chrome_options.add_argument("user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 
-# Page load strategy to prevent timeouts
-chrome_options.page_load_strategy = 'normal'
-
-# Initialize WebDriver with undetected-chromedriver and fallback
+# Initialize driver with use_subprocess=True
 try:
     driver = uc.Chrome(
         options=chrome_options,
         version_main=None,
-        use_subprocess=False
+        use_subprocess=True  # MUST be True for GitHub Actions
     )
+    print("✅ Successfully initialized Chrome with undetected_chromedriver")
 except Exception as e:
     print(f"Failed to initialize Chrome with undetected_chromedriver: {e}")
     print("Attempting fallback to regular ChromeDriver...")
+    from selenium import webdriver
     try:
-        from selenium import webdriver
         driver = webdriver.Chrome(options=chrome_options)
+        print("✅ Successfully initialized Chrome with regular ChromeDriver")
     except Exception as fallback_error:
         print(f"❌ Fallback to regular ChromeDriver also failed: {fallback_error}")
         print("Both undetected_chromedriver and regular ChromeDriver failed to initialize.")
-        raise
+        sys.exit(1)
 
 def random_delay(min_seconds=2, max_seconds=4):
     """Add random delay to simulate human behavior"""
