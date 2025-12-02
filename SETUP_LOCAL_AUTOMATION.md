@@ -6,8 +6,15 @@ This guide will help you set up automatic daily scraping of KenPom data on your 
 
 1. **Python installed** - You should already have this since the scrapers work
 2. **Git installed** - Download from https://git-scm.com/download/win if needed
+   - Alternatively, install via Windows Package Manager: `winget install Git.Git`
 3. **Your computer must be on** at the scheduled time for the scraper to run
 4. **KenPom credentials** - Make sure your `.env` file has your login credentials
+   - Create a `.env` file in the project root directory with the following format:
+   ```
+   KENPOM_USERNAME=your_username
+   KENPOM_PASSWORD=your_password
+   ```
+   - Replace `your_username` and `your_password` with your actual KenPom credentials
 
 ## Step 1: Verify Prerequisites
 
@@ -23,10 +30,16 @@ If either command fails, install the missing software.
    
    Open Command Prompt in your project folder and run:
    ```
-   git config credential.helper store
+   git config credential.helper manager-core
    ```
    
-   The next time you push, Git will ask for your credentials and then remember them.
+   This uses Windows Credential Manager for secure credential storage. The next time you push, Git will ask for your credentials and Windows will securely store them.
+   
+   **Alternative (less secure):** If the above doesn't work, you can use:
+   ```
+   git config credential.helper store
+   ```
+   Note: This stores credentials in plain text, so use Windows Credential Manager when possible.
 
 2. **Test the Scripts Manually**:
    
@@ -99,7 +112,7 @@ Register-ScheduledTask -TaskName "KenPom Daily Scraper" -Action $action -Trigger
 ## Troubleshooting
 
 ### The task runs but doesn't push to GitHub
-- Make sure you ran `git config credential.helper store` 
+- Make sure you ran `git config credential.helper manager-core` (or `store`)
 - Manually run `git push` once in Command Prompt to save credentials
 
 ### Python or Git not found

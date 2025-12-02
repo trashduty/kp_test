@@ -11,6 +11,7 @@ Set-Location -Path $PSScriptRoot
 $repoPath = Get-Location
 
 # Check if there are any changes
+# Note: git add . respects .gitignore and will not add sensitive files
 git add .
 $status = git status --porcelain
 if ([string]::IsNullOrWhiteSpace($status)) {
