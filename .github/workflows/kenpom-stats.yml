@@ -48,14 +48,20 @@ jobs:
         run: |
           echo "KENPOM_USERNAME=${{ secrets.KENPOM_USERNAME }}" >> $GITHUB_ENV
           echo "KENPOM_PASSWORD=${{ secrets.KENPOM_PASSWORD }}" >> $GITHUB_ENV
+          echo "TWOCAPTCHA_API_KEY=${{ secrets.TWOCAPTCHA_API_KEY }}" >> $GITHUB_ENV
 
       - name: 🕷️ Run Python scraper
         env:
           KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
           KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
+          TWOCAPTCHA_API_KEY: ${{ secrets.TWOCAPTCHA_API_KEY }}
         run: python scrape_kenpom_stats.py
 
       - name: 🏀 Scrape AP Top 25 rankings
+        env:
+          KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
+          KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
+          TWOCAPTCHA_API_KEY: ${{ secrets.TWOCAPTCHA_API_KEY }}
         run: python scrape_ap_rankings.py
         continue-on-error: true  # Don't fail if ESPN is temporarily unavailable
 
