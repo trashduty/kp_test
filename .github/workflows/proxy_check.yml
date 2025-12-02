@@ -25,6 +25,10 @@ jobs:
     # Only run if explicitly triggered and run_check is true
     if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.run_check == 'true' }}
     
+    # Set minimal permissions for security
+    permissions:
+      contents: read
+    
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
