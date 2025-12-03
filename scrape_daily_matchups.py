@@ -46,6 +46,7 @@ def fetch_fanmatch_data(date_str):
         return data
         
     except requests.exceptions.HTTPError as e:
+        # response is guaranteed to exist here because HTTPError is raised by raise_for_status()
         if response.status_code == 401:
             print("❌ Authentication failed. Please check your KENPOM_API_KEY")
         elif response.status_code == 403:
@@ -91,18 +92,24 @@ def convert_to_csv(games, date_str):
         tempo = game.get('PredTempo', '')
         
         # Convert HomeWP (0-1) to percentage
+        home_wp_pct = ''
         if home_wp != '':
-            home_wp_pct = round(float(home_wp) * 100)
-        else:
-            home_wp_pct = ''
+            try:
+                home_wp_float = float(home_wp)
+                home_wp_pct = round(home_wp_float * 100)
+            except (ValueError, TypeError):
+                # If conversion fails, leave as empty
+                home_wp = ''
+                home_wp_pct = ''
         
         # Determine winner based on HomeWP
-        if home_wp != '' and float(home_wp) > 0.5:
-            predicted_winner = home
-            win_probability = home_wp_pct
-        elif home_wp != '':
-            predicted_winner = visitor
-            win_probability = 100 - home_wp_pct
+        if home_wp != '' and home_wp_pct != '':
+            if home_wp_pct > 50:
+                predicted_winner = home
+                win_probability = home_wp_pct
+            else:
+                predicted_winner = visitor
+                win_probability = 100 - home_wp_pct
         else:
             predicted_winner = ''
             win_probability = ''
