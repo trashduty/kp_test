@@ -170,24 +170,58 @@ def try_solve_captcha(driver, current_url):
     try:
         print("🔎 Attempting to detect and solve Cloudflare Turnstile CAPTCHA...")
         
-        # Try to find the Turnstile sitekey in the page source
+        sitekey = None
         page_source = driver.page_source
         
-        # Look for Turnstile sitekey patterns
-        sitekey_pattern = r'data-sitekey=["\']([^"\']+)["\']'
-        match = re.search(sitekey_pattern, page_source)
+        # Method 1: Look for Turnstile iframe
+        try:
+            iframes = driver.find_elements(By.TAG_NAME, "iframe")
+            for iframe in iframes:
+                src = iframe.get_attribute("src")
+                if src and "challenges.cloudflare.com" in src:
+                    print(f"✅ Found Cloudflare Turnstile iframe: {src[:80]}...")
+                    # Extract sitekey from iframe src
+                    match = re.search(r'[?&]sitekey=([^&]+)', src)
+                    if match:
+                        sitekey = match.group(1)
+                        print(f"✅ Extracted sitekey from iframe: {sitekey[:20]}...")
+                        break
+        except Exception as e:
+            print(f"⚠️ Error searching iframes: {e}")
         
-        if not match:
-            # Try alternative pattern
-            sitekey_pattern = r'sitekey["\']?\s*[:=]\s*["\']([^"\']+)["\']'
-            match = re.search(sitekey_pattern, page_source)
+        # Method 2: Look for cf-turnstile div with data-sitekey attribute
+        if not sitekey:
+            try:
+                turnstile_divs = driver.find_elements(By.CSS_SELECTOR, "[data-sitekey]")
+                for div in turnstile_divs:
+                    key = div.get_attribute("data-sitekey")
+                    if key:
+                        sitekey = key
+                        print(f"✅ Found sitekey in data-sitekey attribute: {sitekey[:20]}...")
+                        break
+            except Exception as e:
+                print(f"⚠️ Error searching for data-sitekey: {e}")
         
-        if not match:
-            print("⚠️ Could not find Turnstile sitekey in page source")
+        # Method 3: Search page source with regex patterns
+        if not sitekey:
+            patterns = [
+                r'data-sitekey=["\']([^"\']+)["\']',
+                r'sitekey["\']?\s*[:=]\s*["\']([^"\']+)["\']',
+                r'cf-turnstile[^>]*data-sitekey=["\']([^"\']+)["\']',
+                r'[?&]sitekey=([^&\'"]+)',
+            ]
+            
+            for pattern in patterns:
+                match = re.search(pattern, page_source)
+                if match:
+                    sitekey = match.group(1)
+                    print(f"✅ Found sitekey via regex: {sitekey[:20]}...")
+                    break
+        
+        if not sitekey:
+            print("⚠️ Could not find Turnstile sitekey in page source or iframes")
+            print("💡 Tip: Check if the CAPTCHA challenge appears after login")
             return False
-        
-        sitekey = match.group(1)
-        print(f"✅ Found Turnstile sitekey: {sitekey[:20]}...")
         
         # Solve the Turnstile CAPTCHA
         print("⏳ Sending CAPTCHA to 2captcha for solving (this may take 10-30 seconds)...")
@@ -199,28 +233,48 @@ def try_solve_captcha(driver, current_url):
         token = result['code']
         print("✅ CAPTCHA solved successfully!")
         
-        # Inject the solution token into the page with proper escaping and error handling
-        script = """
-        var element = document.querySelector('[name="cf-turnstile-response"]');
-        if (element) {
-            element.value = arguments[0];
-            return true;
-        }
-        return false;
-        """
-        success = driver.execute_script(script, token)
+        # Inject the solution token into the page
+        # Try multiple methods to inject the token
+        try:
+            # Method 1: Find the cf-turnstile-response input field
+            script = f"""
+            var input = document.querySelector('input[name="cf-turnstile-response"]');
+            if (input) {{
+                input.value = '{token}';
+                console.log('Token injected via input field');
+            }}
+            """
+            driver.execute_script(script)
+        except Exception as e:
+            print(f"⚠️ Method 1 failed: {e}")
         
-        if not success:
-            print("⚠️ Could not find cf-turnstile-response element to inject token")
+        try:
+            # Method 2: Try to find and click the Turnstile widget to trigger validation
+            driver.execute_script(f"""
+            if (window.turnstile) {{
+                window.turnstile.reset();
+                window.turnstile.render = function() {{ return '{token}'; }};
+            }}
+            """)
+        except Exception as e:
+            print(f"⚠️ Method 2 failed: {e}")
+        
+        # Wait for the page to process the token
+        print("⏳ Waiting for page to process the CAPTCHA solution...")
+        time.sleep(5)
+        
+        # Check if we're still on the challenge page
+        if is_cloudflare_challenge(driver):
+            print("⚠️ Still on challenge page after token injection - may need manual intervention")
             return False
         
-        # Wait a moment for the page to process the token
-        time.sleep(2)
-        
+        print("✅ CAPTCHA challenge passed!")
         return True
         
     except Exception as e:
         print(f"⚠️ Captcha solving attempt failed: {e}")
+        import traceback
+        traceback.print_exc()
         return False
 
 # Configure Chrome options for regular Selenium
