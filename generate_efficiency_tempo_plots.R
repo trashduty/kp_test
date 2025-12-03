@@ -23,17 +23,17 @@ dir.create("docs/plots", showWarnings = FALSE, recursive = TRUE)
 
 # Load KenPom data
 # Note: Column names in kenpom_stats.csv have duplicates, so read_csv adds suffixes
-# ORtg...6 = Offensive Rating value, ORtg...7 = Offensive Rating rank, etc.
-eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
+# First occurrence has no suffix, second occurrence gets ...2
+eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE)
+cat("Actual column names in kenpom_stats.csv:\n")
+print(colnames(eff_stats))
+
+eff_stats <- eff_stats |>
   rename(
-    ORtg = `ORtg...6`,
-    ORtg_rank = `ORtg...7`,
-    DRtg = `DRtg...8`,
-    DRtg_rank = `DRtg...9`,
-    AdjT = `AdjT...10`,
-    AdjT_rank = `AdjT...11`,
-    Luck = `Luck...12`,
-    Luck_rank = `Luck...13`
+    ORtg_rank = `ORtg...2`,
+    DRtg_rank = `DRtg...2`,
+    AdjT_rank = `AdjT...2`,
+    Luck_rank = `Luck...2`
   )
 
 # Validate required columns exist
