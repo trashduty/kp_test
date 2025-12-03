@@ -4,6 +4,13 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
+def is_valid_rank(rank_str, min_rank=1, max_rank=25):
+    """Validate that rank string is a digit within the expected range."""
+    if not rank_str or not rank_str.isdigit():
+        return False
+    rank_int = int(rank_str)
+    return min_rank <= rank_int <= max_rank
+
 try:
     # Navigate to ESPN AP Rankings page (public, no login required)
     print("🔍 Fetching ESPN AP Rankings...")
@@ -40,7 +47,8 @@ try:
                     anchor = team_link.find('a')
                     if anchor:
                         team_name = anchor.text.strip()
-                        teams.append({'Rank': rank, 'Team': team_name})
+                        if is_valid_rank(rank) and team_name:
+                            teams.append({'Rank': rank, 'Team': team_name})
         
         print(f"📊 Scraped {len(teams)} teams from ESPN")
         
@@ -64,11 +72,9 @@ try:
                 else:
                     team_name = team_cell.text.strip().split('\n')[0]
                 
-                # Validate rank is a digit and in expected range (check after stripping)
-                if rank and rank.isdigit():
-                    rank_int = int(rank)
-                    if 1 <= rank_int <= 25 and team_name:
-                        teams.append({'Rank': rank, 'Team': team_name})
+                # Validate rank is valid and team name exists
+                if is_valid_rank(rank) and team_name:
+                    teams.append({'Rank': rank, 'Team': team_name})
                 
                 i += 2  # Move to next pair
             

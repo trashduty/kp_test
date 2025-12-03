@@ -154,6 +154,9 @@ if (!is.null(ap_teams)) {
   # Use top 100 means for AP Top 25 plot
   top_100_means <- eff_stats |> slice(1:100)
   
+  # Constants for plot positioning
+  RANK_LABEL_OFFSET <- -1.5  # Y-axis offset for rank labels (negative because y-axis is reversed)
+  
   # Identify teams with overlapping stats (identical ORtg_value and DRtg_value)
   # Group by ORtg_value and DRtg_value to find duplicates
   overlapping_teams <- eff_stats_ap25 |>
@@ -170,7 +173,7 @@ if (!is.null(ap_teams)) {
   p3 <- create_base_plot(eff_stats_ap25, top_100_means,
                         "Men's CBB Landscape | AP Top 25 Teams") +
     geom_text(data = non_overlapping_teams,
-              aes(x = ORtg_value, y = DRtg_value - 1.5, label = Rank),
+              aes(x = ORtg_value, y = DRtg_value + RANK_LABEL_OFFSET, label = Rank),
               color = "red",
               fontface = "bold",
               size = 4,
@@ -181,7 +184,7 @@ if (!is.null(ap_teams)) {
     # Add first team in each overlap group (normal position)
     p3 <- p3 +
       geom_text(data = overlapping_teams |> filter(overlap_position == 1),
-                aes(x = ORtg_value, y = DRtg_value - 1.5, label = Rank),
+                aes(x = ORtg_value, y = DRtg_value + RANK_LABEL_OFFSET, label = Rank),
                 color = "red",
                 fontface = "bold",
                 size = 4,
@@ -190,7 +193,7 @@ if (!is.null(ap_teams)) {
     # Add subsequent teams with horizontal offset
     p3 <- p3 +
       geom_text(data = overlapping_teams |> filter(overlap_position > 1),
-                aes(x = ORtg_value, y = DRtg_value - 1.5, label = Rank),
+                aes(x = ORtg_value, y = DRtg_value + RANK_LABEL_OFFSET, label = Rank),
                 color = "red",
                 fontface = "bold",
                 size = 4,

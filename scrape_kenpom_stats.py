@@ -111,7 +111,8 @@ try:
                     # Get the metric name from the first level
                     metric = col[0]
                     # Check if second level indicates it's a rank column
-                    if col[1] and str(col[1]).strip() and str(col[1]) != metric:
+                    second_level = str(col[1]).strip()
+                    if second_level and second_level != metric:
                         # This is a rank column
                         new_columns.append(f"{metric}_rank")
                     else:
