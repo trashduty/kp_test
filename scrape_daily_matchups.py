@@ -7,8 +7,10 @@ from datetime import datetime
 from dotenv import load_dotenv
 import traceback
 
-# Use undetected-chromedriver for stealth
-import undetected_chromedriver as uc
+# Use regular Selenium with system-installed Chrome and ChromeDriver
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -173,18 +175,18 @@ def try_solve_captcha(driver, current_url):
         print(f"⚠️ Captcha solving attempt failed: {e}")
         return False
 
-# Configure undetected-chromedriver options
-options = uc.ChromeOptions()
+# Configure Chrome options for regular Selenium
+options = Options()
 if HEADLESS:
     options.add_argument("--headless=new")
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--disable-gpu")
 options.add_argument("--window-size=1920,1080")
-# Stealth options - removed because undetected-chromedriver handles these internally
-# options.add_argument("--disable-blink-features=AutomationControlled")
-# options.add_experimental_option("excludeSwitches", ["enable-automation"])
-# options.add_experimental_option("useAutomationExtension", False)
+# Add stealth options to avoid bot detection
+options.add_experimental_option("excludeSwitches", ["enable-automation"])
+options.add_experimental_option('useAutomationExtension', False)
+options.add_argument('--disable-blink-features=AutomationControlled')
 # Use recent Chrome user agent for better compatibility
 options.add_argument(
     "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -194,13 +196,9 @@ options.add_argument(
 # Create driver
 driver = None
 try:
-    # Use Chrome version 131 to match the version installed in GitHub Actions workflow
-    # This prevents undetected-chromedriver from downloading a mismatched version
-    driver = uc.Chrome(
-        options=options,
-        version_main=131,  # Match the Chrome version installed in workflow
-        use_subprocess=False  # Improves stability in CI/CD environments
-    )
+    # Use system-installed Chrome and ChromeDriver (version 131 from workflow)
+    service = Service('/usr/local/bin/chromedriver')
+    driver = webdriver.Chrome(service=service, options=options)
     wait = WebDriverWait(driver, 30)  # increased timeout
 
     print("🔍 Navigating to KenPom login...")
