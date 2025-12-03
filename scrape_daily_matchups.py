@@ -93,19 +93,36 @@ def parse_prediction(prediction_text, team1, team2):
         result['predicted_winner'] = winner_name
         
         # Determine which team is Team1 and which is Team2
-        # Match winner_name to team1 or team2
-        if team1.lower() in winner_name.lower() or winner_name.lower() in team1.lower():
+        # Use more precise matching - check if names match exactly (case-insensitive)
+        team1_lower = team1.lower().strip()
+        team2_lower = team2.lower().strip()
+        winner_lower = winner_name.lower().strip()
+        
+        if team1_lower == winner_lower:
             # Team1 is the winner
             result['team1_score'] = winner_score
             result['team2_score'] = loser_score
-        elif team2.lower() in winner_name.lower() or winner_name.lower() in team2.lower():
+        elif team2_lower == winner_lower:
             # Team2 is the winner
             result['team1_score'] = loser_score
             result['team2_score'] = winner_score
         else:
-            # Cannot determine, assign as is
-            result['team1_score'] = winner_score
-            result['team2_score'] = loser_score
+            # Fallback: try partial matching as a last resort
+            # Check if winner name is a substring of team name or vice versa
+            if team1_lower in winner_lower or winner_lower in team1_lower:
+                # Team1 is likely the winner
+                result['team1_score'] = winner_score
+                result['team2_score'] = loser_score
+            elif team2_lower in winner_lower or winner_lower in team2_lower:
+                # Team2 is likely the winner
+                result['team1_score'] = loser_score
+                result['team2_score'] = winner_score
+            else:
+                # Cannot determine, leave scores empty to indicate parsing issue
+                result['team1_score'] = ''
+                result['team2_score'] = ''
+                # Keep the winner name for reference
+                result['predicted_winner'] = winner_name
     
     return result
 
