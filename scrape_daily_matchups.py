@@ -184,10 +184,9 @@ def try_solve_captcha(driver, current_url):
                 if src:
                     try:
                         parsed_url = urlparse(src)
-                        # Check if the domain is exactly challenges.cloudflare.com or a direct subdomain
-                        # Validate against spoofing by checking the domain ends with exactly .cloudflare.com
+                        # Check if the domain is exactly challenges.cloudflare.com or a Cloudflare subdomain
                         netloc = parsed_url.netloc.lower()
-                        if netloc == "challenges.cloudflare.com" or (netloc.endswith(".cloudflare.com") and "." + netloc.split(".")[-2] + "." + netloc.split(".")[-1] == ".cloudflare.com"):
+                        if netloc == "challenges.cloudflare.com" or netloc.endswith(".cloudflare.com"):
                             print(f"✅ Found Cloudflare Turnstile iframe: {src[:80]}...")
                             # Extract sitekey from iframe src, handling various URL delimiters
                             match = re.search(r'[?&]sitekey=([^&#+\s]+)', src)
@@ -246,17 +245,20 @@ def try_solve_captcha(driver, current_url):
         print("✅ CAPTCHA solved successfully!")
         
         # Inject the solution token into the page
-        # Try multiple methods to inject the token
         try:
-            # Method 1: Find the cf-turnstile-response input field
             script = """
             var input = document.querySelector('input[name="cf-turnstile-response"]');
             if (input) {
                 input.value = arguments[0];
-                console.log('Token injected via input field');
+                return true;
             }
+            return false;
             """
-            driver.execute_script(script, token)
+            success = driver.execute_script(script, token)
+            if success:
+                print("✅ Token successfully injected into cf-turnstile-response field")
+            else:
+                print("⚠️ Could not find cf-turnstile-response input field")
         except Exception as e:
             print(f"⚠️ Token injection failed: {e}")
         
