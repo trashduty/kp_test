@@ -89,16 +89,16 @@ create_base_plot <- function(data, means_data, title_prefix = "") {
 }
 
 # Load KenPom data (no standardization - keep original team names)
-eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
+eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE)
+cat("Actual column names in kenpom_stats.csv:\n")
+print(colnames(eff_stats))
+
+eff_stats <- eff_stats |>
   rename(
-    ORtg = `ORtg...6`,
-    ORtg_rank = `ORtg...7`,
-    DRtg = `DRtg...8`,
-    DRtg_rank = `DRtg...9`,
-    AdjT = `AdjT...10`,
-    AdjT_rank = `AdjT...11`,
-    Luck = `Luck...12`,
-    Luck_rank = `Luck...13`
+    ORtg_rank = `ORtg...2`,
+    DRtg_rank = `DRtg...2`,
+    AdjT_rank = `AdjT...2`,
+    Luck_rank = `Luck...2`
   )
 
 # Load NCAA teams data
