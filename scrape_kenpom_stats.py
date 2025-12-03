@@ -96,6 +96,78 @@ try:
             break
     
     if df is not None:
+        # Handle multi-level column headers OR duplicate column names
+        # First, check if we have multi-level columns
+        if isinstance(df.columns, pd.MultiIndex):
+            print("📋 Flattening multi-level column headers...")
+            # Flatten the multi-level columns
+            # KenPom tables have pairs of (value, rank) for each metric
+            # Basic columns like Rk, Team, Conf, W-L don't have ranks
+            basic_columns = ['Rk', 'Team', 'Conf', 'W-L']
+            
+            new_columns = []
+            for col in df.columns:
+                if isinstance(col, tuple):
+                    # Get the metric name from the first level
+                    metric = col[0]
+                    # Check if second level indicates it's a rank column
+                    second_level = str(col[1]).strip()
+                    if second_level and second_level != metric:
+                        # This is a rank column
+                        new_columns.append(f"{metric}_rank")
+                    else:
+                        # This is a value column (or a basic column)
+                        if metric in basic_columns:
+                            new_columns.append(metric)
+                        else:
+                            new_columns.append(f"{metric}_value")
+                else:
+                    # Single-level column, keep as-is
+                    new_columns.append(col)
+            
+            # Apply new column names
+            df.columns = new_columns
+        
+        # Handle duplicate column names (whether from multi-level or directly from HTML)
+        # For KenPom, first occurrence is value, second is rank
+        print("📋 Handling duplicate column names...")
+        basic_columns = ['Rk', 'Team', 'Conf', 'W-L']
+        seen = {}
+        final_columns = []
+        
+        for col in df.columns:
+            col_str = str(col)
+            if col_str in seen:
+                # This is a duplicate
+                seen[col_str] += 1
+                if seen[col_str] == 2:
+                    # Second occurrence is the rank
+                    base_name = col_str.replace('_value', '').replace('_rank', '')
+                    final_columns.append(f"{base_name}_rank")
+                else:
+                    # Third+ occurrence (shouldn't happen, but handle it)
+                    final_columns.append(f"{col_str}_{seen[col_str]}")
+            else:
+                # First occurrence
+                seen[col_str] = 1
+                if col_str in basic_columns or col_str.endswith('_value') or col_str.endswith('_rank'):
+                    # Already properly named or is a basic column
+                    final_columns.append(col_str)
+                else:
+                    # This is a value column that needs the suffix
+                    final_columns.append(f"{col_str}_value")
+        
+        df.columns = final_columns
+        print(f"📊 Final columns: {list(df.columns[:15])}...")  # Show first 15 columns
+        
+        # Remove any rows that are duplicate headers (sometimes happens with multi-level tables)
+        # Check if any row has the same values as common header identifiers
+        if len(df) > 0:
+            # Remove rows where the first column value is 'Rk' or 'Team' (common header values)
+            first_col = df.columns[0]
+            df = df[~df[first_col].isin(['Rk', 'Team'])]
+            print(f"📊 Data rows after removing duplicate headers: {len(df)}")
+        
         # Save to CSV
         output_file = "kenpom_stats.csv"
         df.to_csv(output_file, index=False)
