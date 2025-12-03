@@ -197,7 +197,8 @@ options.add_argument(
 driver = None
 try:
     # Use system-installed Chrome and ChromeDriver (version 131 from workflow)
-    service = Service('/usr/local/bin/chromedriver')
+    # Service() automatically finds chromedriver from PATH
+    service = Service()
     driver = webdriver.Chrome(service=service, options=options)
     wait = WebDriverWait(driver, 30)  # increased timeout
 
