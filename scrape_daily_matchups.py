@@ -2,6 +2,7 @@
 import os
 import sys
 import time
+import re
 from datetime import datetime
 from dotenv import load_dotenv
 import traceback
@@ -29,6 +30,84 @@ HEADLESS = os.getenv("HEADLESS", "true").lower() in ("1", "true", "yes")
 if not USERNAME or not PASSWORD:
     print("❌ Missing KENPOM_USERNAME or KENPOM_PASSWORD in environment variables.")
     sys.exit(1)
+
+# Helper functions for parsing matchup data
+def clean_team_name(text):
+    """
+    Clean team name by removing seed numbers and extra whitespace.
+    Example: "9 Louisville" -> "Louisville"
+    """
+    # Remove seed numbers (numbers at the start)
+    text = re.sub(r'^\s*\d+\s+', '', text)
+    return text.strip()
+
+def extract_teams_from_matchup(matchup_text):
+    """
+    Extract Team1 and Team2 from matchup cell text.
+    Example: "9 Louisville at 37 Arkansas" -> ("Louisville", "Arkansas")
+    """
+    # Split by "at" (case insensitive)
+    parts = re.split(r'\s+at\s+', matchup_text, flags=re.IGNORECASE)
+    
+    if len(parts) == 2:
+        team1 = clean_team_name(parts[0])
+        team2 = clean_team_name(parts[1])
+        return team1, team2
+    
+    # Fallback: return cleaned text as is
+    return matchup_text.strip(), ""
+
+def parse_prediction(prediction_text, team1, team2):
+    """
+    Parse prediction text to extract winner, scores, win probability, and tempo.
+    Format: "{Winner} {WinnerScore}-{LoserScore} ({WinProbability}%) [{Tempo}]"
+    Example: "Louisville 84-81 (61%) [73]"
+    
+    Returns: dict with team1_score, team2_score, predicted_winner, win_probability, tempo
+    """
+    result = {
+        'team1_score': '',
+        'team2_score': '',
+        'predicted_winner': '',
+        'win_probability': '',
+        'tempo': ''
+    }
+    
+    if not prediction_text:
+        return result
+    
+    # Parse format: "Winner Score1-Score2 (WinPct%) [Tempo]"
+    # Example: "Louisville 84-81 (61%) [73]"
+    pattern = r'([A-Za-z\s\.&\'\-]+?)\s+(\d+)-(\d+)\s+\((\d+)%\)\s+\[(\d+)\]'
+    match = re.match(pattern, prediction_text)
+    
+    if match:
+        winner_name = match.group(1).strip()
+        winner_score = match.group(2)
+        loser_score = match.group(3)
+        win_prob = match.group(4)
+        tempo = match.group(5)
+        
+        result['win_probability'] = win_prob
+        result['tempo'] = tempo
+        result['predicted_winner'] = winner_name
+        
+        # Determine which team is Team1 and which is Team2
+        # Match winner_name to team1 or team2
+        if team1.lower() in winner_name.lower() or winner_name.lower() in team1.lower():
+            # Team1 is the winner
+            result['team1_score'] = winner_score
+            result['team2_score'] = loser_score
+        elif team2.lower() in winner_name.lower() or winner_name.lower() in team2.lower():
+            # Team2 is the winner
+            result['team1_score'] = loser_score
+            result['team2_score'] = winner_score
+        else:
+            # Cannot determine, assign as is
+            result['team1_score'] = winner_score
+            result['team2_score'] = loser_score
+    
+    return result
 
 # Initialize CAPTCHA solver if available
 captcha_solver = None
@@ -85,10 +164,10 @@ options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--disable-gpu")
 options.add_argument("--window-size=1920,1080")
-# Stealth options
-options.add_argument("--disable-blink-features=AutomationControlled")
-options.add_experimental_option("excludeSwitches", ["enable-automation"])
-options.add_experimental_option("useAutomationExtension", False)
+# Stealth options - removed because undetected-chromedriver handles these internally
+# options.add_argument("--disable-blink-features=AutomationControlled")
+# options.add_experimental_option("excludeSwitches", ["enable-automation"])
+# options.add_experimental_option("useAutomationExtension", False)
 # Use recent Chrome user agent for better compatibility
 options.add_argument(
     "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -180,22 +259,51 @@ try:
     for row in rows[1:]:  # Skip header
         cells = row.find_elements(By.TAG_NAME, "td")
         if len(cells) >= 4:
-            matchups.append({
-                'Date': today,
-                'Team1': cells[0].text.strip(),
-                'Team2': cells[2].text.strip(),
-                'Prediction': cells[3].text.strip()
-            })
+            try:
+                # Extract matchup text (cells[0])
+                matchup_text = cells[0].text.strip()
+                
+                # Extract teams from matchup cell
+                team1, team2 = extract_teams_from_matchup(matchup_text)
+                
+                # Extract prediction text (cells[3])
+                prediction_text = cells[3].text.strip()
+                
+                # Parse prediction to get scores, winner, win probability, and tempo
+                parsed = parse_prediction(prediction_text, team1, team2)
+                
+                matchups.append({
+                    'Date': today,
+                    'Team1': team1,
+                    'Team2': team2,
+                    'Team1_Predicted_Score': parsed['team1_score'],
+                    'Team2_Predicted_Score': parsed['team2_score'],
+                    'Predicted_Winner': parsed['predicted_winner'],
+                    'Win_Probability': parsed['win_probability'],
+                    'Tempo': parsed['tempo'],
+                    'Full_Prediction': prediction_text
+                })
+            except Exception as e:
+                print(f"⚠️ Error parsing row: {e}")
+                # Log the error but continue with next row
+                continue
 
     # Save to CSV
     with open('daily_matchups.csv', 'w', encoding="utf-8") as f:
-        f.write('Date,Team1,Team2,Prediction\n')
+        f.write('Date,Team1,Team2,Team1_Predicted_Score,Team2_Predicted_Score,Predicted_Winner,Win_Probability,Tempo,Full_Prediction\n')
         for m in matchups:
-            # Escape commas in team names if needed
+            # Escape fields that may contain commas
+            date = m['Date']
             team1 = '"' + m['Team1'].replace('"', '""') + '"'
             team2 = '"' + m['Team2'].replace('"', '""') + '"'
-            prediction = '"' + m['Prediction'].replace('"', '""') + '"'
-            f.write(f"{m['Date']},{team1},{team2},{prediction}\n")
+            team1_score = m['Team1_Predicted_Score']
+            team2_score = m['Team2_Predicted_Score']
+            winner = '"' + m['Predicted_Winner'].replace('"', '""') + '"'
+            win_prob = m['Win_Probability']
+            tempo = m['Tempo']
+            full_pred = '"' + m['Full_Prediction'].replace('"', '""') + '"'
+            
+            f.write(f"{date},{team1},{team2},{team1_score},{team2_score},{winner},{win_prob},{tempo},{full_pred}\n")
 
     print(f"✅ Successfully saved {len(matchups)} matchups to daily_matchups.csv")
 
