@@ -1,0 +1,71 @@
+name: Scrape Daily Matchups
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Runs daily at 8:00 AM UTC
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  scrape-matchups:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: read
+    
+    steps:
+      - name: 🧾 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 📦 Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🚗 Install ChromeDriver
+        uses: nanasess/setup-chromedriver@v2
+
+      - name: 🌐 Install Google Chrome
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+
+      - name: ✅ Verify Chrome and ChromeDriver versions
+        run: |
+          google-chrome --version
+          chromedriver --version
+
+      - name: 🔐 Set up environment variables
+        run: |
+          echo "KENPOM_USERNAME=${{ secrets.KENPOM_USERNAME }}" >> $GITHUB_ENV
+          echo "KENPOM_PASSWORD=${{ secrets.KENPOM_PASSWORD }}" >> $GITHUB_ENV
+          echo "TWOCAPTCHA_API_KEY=${{ secrets.TWOCAPTCHA_API_KEY }}" >> $GITHUB_ENV
+
+      - name: 🕷️ Run daily matchups scraper
+        env:
+          KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
+          KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
+          TWOCAPTCHA_API_KEY: ${{ secrets.TWOCAPTCHA_API_KEY }}
+        run: python scrape_daily_matchups.py
+
+      - name: 📊 Upload daily matchups CSV
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-matchups-csv
+          path: daily_matchups.csv
+          if-no-files-found: error
+
+      - name: 📸 Upload error screenshot
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: error-screenshot
+          path: error_screenshot.png
+          if-no-files-found: ignore
