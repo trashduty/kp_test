@@ -12,27 +12,27 @@ print(.libPaths())
 # Function to create base plot with specific means
 create_base_plot <- function(data, means_data, title_prefix = "") {
   # Validate required columns exist in data
-  required_cols <- c("ORtg_value", "DRtg_value", "logo")
+  required_cols <- c("ORtg", "DRtg", "logo")
   missing_cols <- setdiff(required_cols, colnames(data))
   if (length(missing_cols) > 0) {
     stop(paste("Missing required columns in data:", paste(missing_cols, collapse=", ")))
   }
   
   # Validate required columns exist in means_data
-  required_mean_cols <- c("ORtg_value", "DRtg_value")
+  required_mean_cols <- c("ORtg", "DRtg")
   missing_mean_cols <- setdiff(required_mean_cols, colnames(means_data))
   if (length(missing_mean_cols) > 0) {
     stop(paste("Missing required columns in means_data:", paste(missing_mean_cols, collapse=", ")))
   }
   
   # Calculate means using provided data
-  mean_ORtg <- mean(means_data$ORtg_value, na.rm = TRUE)
-  mean_DRtg <- mean(means_data$DRtg_value, na.rm = TRUE)
+  mean_ORtg <- mean(means_data$ORtg, na.rm = TRUE)
+  mean_DRtg <- mean(means_data$DRtg, na.rm = TRUE)
   
   # Current timestamp
   timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")
   
-  ggplot(data, aes(x = ORtg_value, y = DRtg_value)) +
+  ggplot(data, aes(x = ORtg, y = DRtg)) +
     annotate("rect", xmin = mean_ORtg, xmax = Inf, ymin = -Inf, ymax = mean_DRtg, 
              alpha = 0.1, fill = "green") +
     annotate("rect", xmin = -Inf, xmax = mean_ORtg, ymin = mean_DRtg, ymax = Inf, 
@@ -58,10 +58,32 @@ create_base_plot <- function(data, means_data, title_prefix = "") {
     )
 }
 
-# Load KenPom data (columns already have _value and _rank suffixes from Python scraper)
+# Load KenPom data
 eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE)
+
 cat("Actual column names in kenpom_stats.csv:\n")
 print(colnames(eff_stats))
+
+# Check if we have the expected columns
+if (!"Team" %in% colnames(eff_stats)) {
+  stop("❌ Team column not found in kenpom_stats.csv")
+}
+
+if (!"ORtg_value" %in% colnames(eff_stats) || !"DRtg_value" %in% colnames(eff_stats)) {
+  stop("❌ ORtg_value or DRtg_value columns not found in kenpom_stats.csv")
+}
+
+# Rename columns for easier use in plotting
+# The CSV now has _value and _rank suffixes for paired columns
+eff_stats <- eff_stats |>
+  rename(
+    ORtg = ORtg_value,
+    DRtg = DRtg_value,
+    AdjT = AdjT_value,
+    Luck = Luck_value
+  )
+
+# Rank columns already have correct names (ORtg_rank, DRtg_rank, etc.)
 
 # Load NCAA teams data
 ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |>
@@ -157,12 +179,12 @@ if (!is.null(ap_teams)) {
   # Constants for plot positioning
   RANK_LABEL_OFFSET <- -1.5  # Y-axis offset for rank labels (negative because y-axis is reversed)
   
-  # Identify teams with overlapping stats (identical ORtg_value and DRtg_value)
-  # Group by ORtg_value and DRtg_value to find duplicates
+  # Identify teams with overlapping stats (identical ORtg and DRtg)
+  # Group by ORtg and DRtg to find duplicates
   overlapping_teams <- eff_stats_ap25 |>
-    group_by(ORtg_value, DRtg_value) |>
+    group_by(ORtg, DRtg) |>
     filter(n() > 1) |>
-    arrange(ORtg_value, DRtg_value, Rank) |>
+    arrange(ORtg, DRtg, Rank) |>
     mutate(overlap_position = row_number()) |>
     ungroup()
   
@@ -173,7 +195,7 @@ if (!is.null(ap_teams)) {
   p3 <- create_base_plot(eff_stats_ap25, top_100_means,
                         "Men's CBB Landscape | AP Top 25 Teams") +
     geom_text(data = non_overlapping_teams,
-              aes(x = ORtg_value, y = DRtg_value + RANK_LABEL_OFFSET, label = Rank),
+              aes(x = ORtg, y = DRtg + RANK_LABEL_OFFSET, label = Rank),
               color = "red",
               fontface = "bold",
               size = 4,
@@ -184,7 +206,7 @@ if (!is.null(ap_teams)) {
     # Add first team in each overlap group (normal position)
     p3 <- p3 +
       geom_text(data = overlapping_teams |> filter(overlap_position == 1),
-                aes(x = ORtg_value, y = DRtg_value + RANK_LABEL_OFFSET, label = Rank),
+                aes(x = ORtg, y = DRtg + RANK_LABEL_OFFSET, label = Rank),
                 color = "red",
                 fontface = "bold",
                 size = 4,
@@ -193,7 +215,7 @@ if (!is.null(ap_teams)) {
     # Add subsequent teams with horizontal offset
     p3 <- p3 +
       geom_text(data = overlapping_teams |> filter(overlap_position > 1),
-                aes(x = ORtg_value, y = DRtg_value + RANK_LABEL_OFFSET, label = Rank),
+                aes(x = ORtg, y = DRtg + RANK_LABEL_OFFSET, label = Rank),
                 color = "red",
                 fontface = "bold",
                 size = 4,

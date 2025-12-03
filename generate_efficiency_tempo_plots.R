@@ -22,19 +22,28 @@ cat(sprintf("ggimage available: %s\n", ggimage_available))
 dir.create("docs/plots", showWarnings = FALSE, recursive = TRUE)
 
 # Load KenPom data
-# Note: Column names in kenpom_stats.csv have duplicates, so read_csv adds suffixes
-# First occurrence has no suffix, second occurrence gets ...2
 eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE)
 cat("Actual column names in kenpom_stats.csv:\n")
 print(colnames(eff_stats))
 
+# Check if we have the expected columns with _value and _rank suffixes
+if (!"Team" %in% colnames(eff_stats)) {
+  stop("❌ Team column not found in kenpom_stats.csv")
+}
+
+if (!"ORtg_value" %in% colnames(eff_stats) || !"DRtg_value" %in% colnames(eff_stats)) {
+  stop("❌ ORtg_value or DRtg_value columns not found in kenpom_stats.csv")
+}
+
+# Rename columns for easier use
 eff_stats <- eff_stats |>
   rename(
-    ORtg_rank = `ORtg...2`,
-    DRtg_rank = `DRtg...2`,
-    AdjT_rank = `AdjT...2`,
-    Luck_rank = `Luck...2`
+    ORtg = ORtg_value,
+    DRtg = DRtg_value,
+    AdjT = AdjT_value,
+    Luck = Luck_value
   )
+# Rank columns already have correct names (ORtg_rank, DRtg_rank, etc.)
 
 # Validate required columns exist
 required_cols <- c("Team", "ORtg", "DRtg", "AdjT")
