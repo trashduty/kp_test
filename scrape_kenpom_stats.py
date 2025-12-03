@@ -3,6 +3,7 @@ import sys
 import time
 import pandas as pd
 from io import StringIO
+from collections import Counter
 from dotenv import load_dotenv
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -106,7 +107,6 @@ try:
             level_1_names = [col[1] if len(col) > 1 else col[0] for col in df.columns]
             
             # Count occurrences of each column name to identify pairs
-            from collections import Counter
             col_counts = Counter(level_1_names)
             col_occurrence = {}
             
