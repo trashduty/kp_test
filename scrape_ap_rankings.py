@@ -64,7 +64,8 @@ try:
                 else:
                     team_name = team_cell.text.strip().split('\n')[0]
                 
-                if rank.isdigit() and team_name:
+                # Validate rank is a digit and in expected range
+                if rank.isdigit() and 1 <= int(rank) <= 25 and team_name:
                     teams.append({'Rank': rank, 'Team': team_name})
                 
                 i += 2  # Move to next pair
@@ -77,8 +78,20 @@ try:
         
         # Load crosswalk CSV to convert ESPN names to KenPom format
         print("🔄 Loading team name crosswalk...")
-        crosswalk = pd.read_csv('team_name_crosswalk.csv')
-        name_map = dict(zip(crosswalk['OddsAPI_Name'], crosswalk['KenPom_Name']))
+        try:
+            crosswalk = pd.read_csv('team_name_crosswalk.csv')
+            if 'OddsAPI_Name' not in crosswalk.columns or 'KenPom_Name' not in crosswalk.columns:
+                print("⚠️  Crosswalk CSV missing required columns (OddsAPI_Name, KenPom_Name)")
+                print("   Proceeding without name mapping...")
+                name_map = {}
+            else:
+                name_map = dict(zip(crosswalk['OddsAPI_Name'], crosswalk['KenPom_Name']))
+        except FileNotFoundError:
+            print("⚠️  team_name_crosswalk.csv not found. Proceeding without name mapping...")
+            name_map = {}
+        except Exception as e:
+            print(f"⚠️  Error loading crosswalk: {e}. Proceeding without name mapping...")
+            name_map = {}
         
         # Apply mapping from ESPN format to KenPom format
         print("🔄 Converting team names to KenPom format...")

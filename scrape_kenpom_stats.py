@@ -162,9 +162,10 @@ try:
         # Remove any rows that are duplicate headers (sometimes happens with multi-level tables)
         # Check if any row has the same values as the column names
         if len(df) > 0:
-            # Remove rows where the first column matches 'Rk' (header row in data)
-            df = df[df.iloc[:, 0] != 'Rk']
-            df = df[df.iloc[:, 0] != df.columns[0]]
+            # Remove rows where the first column matches common header values
+            first_col = df.columns[0]
+            df = df[~df[first_col].isin(['Rk', 'Team', first_col])]
+            print(f"📊 Data rows after removing duplicate headers: {len(df)}")
         
         # Save to CSV
         output_file = "kenpom_stats.csv"
