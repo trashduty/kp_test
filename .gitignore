@@ -45,6 +45,7 @@ error_screenshot.png
 error_fanmatch_screenshot.png
 graded_results.csv
 filtered_graded_results.csv
+page_source*.html
 
 # Environment variables
 .env
