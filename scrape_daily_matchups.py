@@ -188,14 +188,16 @@ def try_solve_captcha(driver, current_url):
                         netloc = parsed_url.netloc.lower()
                         if netloc == "challenges.cloudflare.com" or netloc.endswith(".cloudflare.com"):
                             print(f"✅ Found Cloudflare Turnstile iframe: {src[:80]}...")
-                            # Extract sitekey from iframe src, handling various URL delimiters
-                            match = re.search(r'[?&]sitekey=([^&#+\s]+)', src)
+                            # Extract sitekey from iframe src
+                            # Cloudflare sitekeys are typically alphanumeric with underscores and hyphens
+                            match = re.search(r'[?&]sitekey=([0-9A-Za-z_-]{10,100})', src)
                             if match:
                                 sitekey = match.group(1)
                                 print(f"✅ Extracted sitekey from iframe: {sitekey[:20]}...")
                                 break
-                    except Exception:
-                        # If URL parsing fails, skip this iframe
+                    except Exception as e:
+                        # Log specific error for debugging
+                        print(f"⚠️ Error parsing iframe URL: {e}")
                         continue
         except Exception as e:
             print(f"⚠️ Error searching iframes: {e}")
@@ -215,11 +217,12 @@ def try_solve_captcha(driver, current_url):
         
         # Method 3: Search page source with regex patterns
         if not sitekey:
+            # Use restrictive patterns that validate sitekey format (alphanumeric, underscore, hyphen)
             patterns = [
-                r'data-sitekey=["\']([^"\']+)["\']',
-                r'sitekey["\']?\s*[:=]\s*["\']([^"\']+)["\']',
-                r'cf-turnstile[^>]*data-sitekey=["\']([^"\']+)["\']',
-                r'[?&]sitekey=([^&\'"]+)',
+                r'data-sitekey=["\']([0-9A-Za-z_-]{10,100})["\']',
+                r'sitekey["\']?\s*[:=]\s*["\']([0-9A-Za-z_-]{10,100})["\']',
+                r'cf-turnstile[^>]*data-sitekey=["\']([0-9A-Za-z_-]{10,100})["\']',
+                r'[?&]sitekey=([0-9A-Za-z_-]{10,100})',
             ]
             
             for pattern in patterns:
