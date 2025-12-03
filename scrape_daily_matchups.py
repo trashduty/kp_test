@@ -184,11 +184,13 @@ def try_solve_captcha(driver, current_url):
                 if src:
                     try:
                         parsed_url = urlparse(src)
-                        # Check if the domain is exactly challenges.cloudflare.com
-                        if parsed_url.netloc == "challenges.cloudflare.com" or parsed_url.netloc.endswith(".cloudflare.com"):
+                        # Check if the domain is exactly challenges.cloudflare.com or a direct subdomain
+                        # Validate against spoofing by checking the domain ends with exactly .cloudflare.com
+                        netloc = parsed_url.netloc.lower()
+                        if netloc == "challenges.cloudflare.com" or (netloc.endswith(".cloudflare.com") and "." + netloc.split(".")[-2] + "." + netloc.split(".")[-1] == ".cloudflare.com"):
                             print(f"✅ Found Cloudflare Turnstile iframe: {src[:80]}...")
-                            # Extract sitekey from iframe src
-                            match = re.search(r'[?&]sitekey=([^&]+)', src)
+                            # Extract sitekey from iframe src, handling various URL delimiters
+                            match = re.search(r'[?&]sitekey=([^&#+\s]+)', src)
                             if match:
                                 sitekey = match.group(1)
                                 print(f"✅ Extracted sitekey from iframe: {sitekey[:20]}...")
@@ -256,18 +258,7 @@ def try_solve_captcha(driver, current_url):
             """
             driver.execute_script(script, token)
         except Exception as e:
-            print(f"⚠️ Method 1 failed: {e}")
-        
-        try:
-            # Method 2: Try to find and click the Turnstile widget to trigger validation
-            driver.execute_script("""
-            if (window.turnstile) {
-                window.turnstile.reset();
-                window.turnstile.render = function() { return arguments[0]; };
-            }
-            """, token)
-        except Exception as e:
-            print(f"⚠️ Method 2 failed: {e}")
+            print(f"⚠️ Token injection failed: {e}")
         
         # Wait for the page to process the token
         print("⏳ Waiting for page to process the CAPTCHA solution...")
