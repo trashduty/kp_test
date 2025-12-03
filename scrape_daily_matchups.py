@@ -237,25 +237,25 @@ def try_solve_captcha(driver, current_url):
         # Try multiple methods to inject the token
         try:
             # Method 1: Find the cf-turnstile-response input field
-            script = f"""
+            script = """
             var input = document.querySelector('input[name="cf-turnstile-response"]');
-            if (input) {{
-                input.value = '{token}';
+            if (input) {
+                input.value = arguments[0];
                 console.log('Token injected via input field');
-            }}
+            }
             """
-            driver.execute_script(script)
+            driver.execute_script(script, token)
         except Exception as e:
             print(f"⚠️ Method 1 failed: {e}")
         
         try:
             # Method 2: Try to find and click the Turnstile widget to trigger validation
-            driver.execute_script(f"""
-            if (window.turnstile) {{
+            driver.execute_script("""
+            if (window.turnstile) {
                 window.turnstile.reset();
-                window.turnstile.render = function() {{ return '{token}'; }};
-            }}
-            """)
+                window.turnstile.render = function() { return arguments[0]; };
+            }
+            """, token)
         except Exception as e:
             print(f"⚠️ Method 2 failed: {e}")
         
@@ -273,7 +273,6 @@ def try_solve_captcha(driver, current_url):
         
     except Exception as e:
         print(f"⚠️ Captcha solving attempt failed: {e}")
-        import traceback
         traceback.print_exc()
         return False
 
