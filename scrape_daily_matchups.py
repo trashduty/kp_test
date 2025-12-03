@@ -194,7 +194,13 @@ options.add_argument(
 # Create driver
 driver = None
 try:
-    driver = uc.Chrome(options=options)
+    # Use Chrome version 131 to match the version installed in GitHub Actions workflow
+    # This prevents undetected-chromedriver from downloading a mismatched version
+    driver = uc.Chrome(
+        options=options,
+        version_main=131,  # Match the Chrome version installed in workflow
+        use_subprocess=False  # Improves stability in CI/CD environments
+    )
     wait = WebDriverWait(driver, 30)  # increased timeout
 
     print("🔍 Navigating to KenPom login...")
