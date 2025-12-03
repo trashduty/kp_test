@@ -96,7 +96,8 @@ try:
             break
     
     if df is not None:
-        # Handle multi-level column headers
+        # Handle multi-level column headers OR duplicate column names
+        # First, check if we have multi-level columns
         if isinstance(df.columns, pd.MultiIndex):
             print("📋 Flattening multi-level column headers...")
             # Flatten the multi-level columns
@@ -125,27 +126,38 @@ try:
             
             # Apply new column names
             df.columns = new_columns
-            
-            # Handle duplicate column names by tracking occurrences
-            # For KenPom, first occurrence is value, second is rank
-            seen = {}
-            final_columns = []
-            for col in df.columns:
-                if col in seen:
-                    # This is a duplicate - determine if it's value or rank based on occurrence
-                    seen[col] += 1
-                    if seen[col] == 2:
-                        # Second occurrence is typically the rank
-                        base_name = col.replace('_value', '').replace('_rank', '')
-                        final_columns.append(f"{base_name}_rank")
-                    else:
-                        final_columns.append(f"{col}_{seen[col]}")
+        
+        # Handle duplicate column names (whether from multi-level or directly from HTML)
+        # For KenPom, first occurrence is value, second is rank
+        print("📋 Handling duplicate column names...")
+        basic_columns = ['Rk', 'Team', 'Conf', 'W-L']
+        seen = {}
+        final_columns = []
+        
+        for col in df.columns:
+            col_str = str(col)
+            if col_str in seen:
+                # This is a duplicate
+                seen[col_str] += 1
+                if seen[col_str] == 2:
+                    # Second occurrence is the rank
+                    base_name = col_str.replace('_value', '').replace('_rank', '')
+                    final_columns.append(f"{base_name}_rank")
                 else:
-                    seen[col] = 1
-                    final_columns.append(col)
-            
-            df.columns = final_columns
-            print(f"📊 Flattened columns: {list(df.columns)}")
+                    # Third+ occurrence (shouldn't happen, but handle it)
+                    final_columns.append(f"{col_str}_{seen[col_str]}")
+            else:
+                # First occurrence
+                seen[col_str] = 1
+                if col_str in basic_columns or col_str.endswith('_value') or col_str.endswith('_rank'):
+                    # Already properly named or is a basic column
+                    final_columns.append(col_str)
+                else:
+                    # This is a value column that needs the suffix
+                    final_columns.append(f"{col_str}_value")
+        
+        df.columns = final_columns
+        print(f"📊 Final columns: {list(df.columns[:15])}...")  # Show first 15 columns
         
         # Remove any rows that are duplicate headers (sometimes happens with multi-level tables)
         # Check if any row has the same values as the column names
