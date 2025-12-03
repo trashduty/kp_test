@@ -178,7 +178,9 @@ def try_solve_captcha(driver, current_url):
             iframes = driver.find_elements(By.TAG_NAME, "iframe")
             for iframe in iframes:
                 src = iframe.get_attribute("src")
-                if src and "challenges.cloudflare.com" in src:
+                # Check if iframe is from Cloudflare's challenge domain
+                # Use more secure URL validation to avoid substring match issues
+                if src and ("://challenges.cloudflare.com/" in src or src.startswith("https://challenges.cloudflare.com")):
                     print(f"✅ Found Cloudflare Turnstile iframe: {src[:80]}...")
                     # Extract sitekey from iframe src
                     match = re.search(r'[?&]sitekey=([^&]+)', src)
