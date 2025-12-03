@@ -96,6 +96,64 @@ try:
             break
     
     if df is not None:
+        # Handle multi-level column headers
+        if isinstance(df.columns, pd.MultiIndex):
+            print("📋 Flattening multi-level column headers...")
+            # Flatten the multi-level columns
+            # KenPom tables have pairs of (value, rank) for each metric
+            # Basic columns like Rk, Team, Conf, W-L don't have ranks
+            basic_columns = ['Rk', 'Team', 'Conf', 'W-L']
+            
+            new_columns = []
+            for col in df.columns:
+                if isinstance(col, tuple):
+                    # Get the metric name from the first level
+                    metric = col[0]
+                    # Check if second level indicates it's a rank column
+                    if col[1] and str(col[1]).strip() and str(col[1]) != metric:
+                        # This is a rank column
+                        new_columns.append(f"{metric}_rank")
+                    else:
+                        # This is a value column (or a basic column)
+                        if metric in basic_columns:
+                            new_columns.append(metric)
+                        else:
+                            new_columns.append(f"{metric}_value")
+                else:
+                    # Single-level column, keep as-is
+                    new_columns.append(col)
+            
+            # Apply new column names
+            df.columns = new_columns
+            
+            # Handle duplicate column names by tracking occurrences
+            # For KenPom, first occurrence is value, second is rank
+            seen = {}
+            final_columns = []
+            for col in df.columns:
+                if col in seen:
+                    # This is a duplicate - determine if it's value or rank based on occurrence
+                    seen[col] += 1
+                    if seen[col] == 2:
+                        # Second occurrence is typically the rank
+                        base_name = col.replace('_value', '').replace('_rank', '')
+                        final_columns.append(f"{base_name}_rank")
+                    else:
+                        final_columns.append(f"{col}_{seen[col]}")
+                else:
+                    seen[col] = 1
+                    final_columns.append(col)
+            
+            df.columns = final_columns
+            print(f"📊 Flattened columns: {list(df.columns)}")
+        
+        # Remove any rows that are duplicate headers (sometimes happens with multi-level tables)
+        # Check if any row has the same values as the column names
+        if len(df) > 0:
+            # Remove rows where the first column matches 'Rk' (header row in data)
+            df = df[df.iloc[:, 0] != 'Rk']
+            df = df[df.iloc[:, 0] != df.columns[0]]
+        
         # Save to CSV
         output_file = "kenpom_stats.csv"
         df.to_csv(output_file, index=False)
