@@ -174,7 +174,6 @@ def try_solve_captcha(driver, current_url):
         page_source = driver.page_source
         
         # Look for Turnstile sitekey patterns
-        import re
         sitekey_pattern = r'data-sitekey=["\']([^"\']+)["\']'
         match = re.search(sitekey_pattern, page_source)
         
@@ -200,11 +199,20 @@ def try_solve_captcha(driver, current_url):
         token = result['code']
         print("✅ CAPTCHA solved successfully!")
         
-        # Inject the solution token into the page
-        script = f"""
-        document.querySelector('[name="cf-turnstile-response"]').value = '{token}';
+        # Inject the solution token into the page with proper escaping and error handling
+        script = """
+        var element = document.querySelector('[name="cf-turnstile-response"]');
+        if (element) {
+            element.value = arguments[0];
+            return true;
+        }
+        return false;
         """
-        driver.execute_script(script)
+        success = driver.execute_script(script, token)
+        
+        if not success:
+            print("⚠️ Could not find cf-turnstile-response element to inject token")
+            return False
         
         # Wait a moment for the page to process the token
         time.sleep(2)
