@@ -309,13 +309,14 @@ try:
     with open('daily_matchups.csv', 'w', encoding="utf-8") as f:
         f.write('Date,Team1,Team2,Team1_Predicted_Score,Team2_Predicted_Score,Predicted_Winner,Win_Probability,Tempo,Full_Prediction\n')
         for m in matchups:
-            # Escape fields that may contain commas
+            # Escape fields that may contain commas or quotes
             date = m['Date']
             team1 = '"' + m['Team1'].replace('"', '""') + '"'
             team2 = '"' + m['Team2'].replace('"', '""') + '"'
             team1_score = m['Team1_Predicted_Score']
             team2_score = m['Team2_Predicted_Score']
-            winner = '"' + m['Predicted_Winner'].replace('"', '""') + '"'
+            # Only quote winner if it's not empty
+            winner = '"' + m['Predicted_Winner'].replace('"', '""') + '"' if m['Predicted_Winner'] else ''
             win_prob = m['Win_Probability']
             tempo = m['Tempo']
             full_pred = '"' + m['Full_Prediction'].replace('"', '""') + '"'
