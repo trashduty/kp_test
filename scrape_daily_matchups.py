@@ -6,6 +6,7 @@ import re
 from datetime import datetime
 from dotenv import load_dotenv
 import traceback
+from urllib.parse import urlparse
 
 # Use regular Selenium with system-installed Chrome and ChromeDriver
 from selenium import webdriver
@@ -179,15 +180,22 @@ def try_solve_captcha(driver, current_url):
             for iframe in iframes:
                 src = iframe.get_attribute("src")
                 # Check if iframe is from Cloudflare's challenge domain
-                # Use more secure URL validation to avoid substring match issues
-                if src and ("://challenges.cloudflare.com/" in src or src.startswith("https://challenges.cloudflare.com")):
-                    print(f"✅ Found Cloudflare Turnstile iframe: {src[:80]}...")
-                    # Extract sitekey from iframe src
-                    match = re.search(r'[?&]sitekey=([^&]+)', src)
-                    if match:
-                        sitekey = match.group(1)
-                        print(f"✅ Extracted sitekey from iframe: {sitekey[:20]}...")
-                        break
+                # Use URL parsing to properly validate the domain
+                if src:
+                    try:
+                        parsed_url = urlparse(src)
+                        # Check if the domain is exactly challenges.cloudflare.com
+                        if parsed_url.netloc == "challenges.cloudflare.com" or parsed_url.netloc.endswith(".cloudflare.com"):
+                            print(f"✅ Found Cloudflare Turnstile iframe: {src[:80]}...")
+                            # Extract sitekey from iframe src
+                            match = re.search(r'[?&]sitekey=([^&]+)', src)
+                            if match:
+                                sitekey = match.group(1)
+                                print(f"✅ Extracted sitekey from iframe: {sitekey[:20]}...")
+                                break
+                    except Exception:
+                        # If URL parsing fails, skip this iframe
+                        continue
         except Exception as e:
             print(f"⚠️ Error searching iframes: {e}")
         
