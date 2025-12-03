@@ -11,11 +11,18 @@ print(.libPaths())
 
 # Function to create base plot with specific means
 create_base_plot <- function(data, means_data, title_prefix = "") {
-  # Validate required columns exist
-  required_cols <- c("ORtg_value", "DRtg_value")
+  # Validate required columns exist in data
+  required_cols <- c("ORtg_value", "DRtg_value", "logo")
   missing_cols <- setdiff(required_cols, colnames(data))
   if (length(missing_cols) > 0) {
-    stop(paste("Missing required columns:", paste(missing_cols, collapse=", ")))
+    stop(paste("Missing required columns in data:", paste(missing_cols, collapse=", ")))
+  }
+  
+  # Validate required columns exist in means_data
+  required_mean_cols <- c("ORtg_value", "DRtg_value")
+  missing_mean_cols <- setdiff(required_mean_cols, colnames(means_data))
+  if (length(missing_mean_cols) > 0) {
+    stop(paste("Missing required columns in means_data:", paste(missing_mean_cols, collapse=", ")))
   }
   
   # Calculate means using provided data

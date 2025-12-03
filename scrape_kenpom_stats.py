@@ -160,11 +160,11 @@ try:
         print(f"📊 Final columns: {list(df.columns[:15])}...")  # Show first 15 columns
         
         # Remove any rows that are duplicate headers (sometimes happens with multi-level tables)
-        # Check if any row has the same values as the column names
+        # Check if any row has the same values as common header identifiers
         if len(df) > 0:
-            # Remove rows where the first column matches common header values
+            # Remove rows where the first column value is 'Rk' or 'Team' (common header values)
             first_col = df.columns[0]
-            df = df[~df[first_col].isin(['Rk', 'Team', first_col])]
+            df = df[~df[first_col].isin(['Rk', 'Team'])]
             print(f"📊 Data rows after removing duplicate headers: {len(df)}")
         
         # Save to CSV

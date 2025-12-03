@@ -64,9 +64,11 @@ try:
                 else:
                     team_name = team_cell.text.strip().split('\n')[0]
                 
-                # Validate rank is a digit and in expected range
-                if rank.isdigit() and 1 <= int(rank) <= 25 and team_name:
-                    teams.append({'Rank': rank, 'Team': team_name})
+                # Validate rank is a digit and in expected range (check after stripping)
+                if rank and rank.isdigit():
+                    rank_int = int(rank)
+                    if 1 <= rank_int <= 25 and team_name:
+                        teams.append({'Rank': rank, 'Team': team_name})
                 
                 i += 2  # Move to next pair
             
