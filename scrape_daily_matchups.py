@@ -15,9 +15,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-# Optional: keep your captcha solver if you want to attempt automated solves
+# Optional: 2captcha solver for automated CAPTCHA solving
 try:
-    from captcha_solver import CaptchaSolver
+    from twocaptcha import TwoCaptcha
     HAS_CAPTCHA_SOLVER = True
 except (ImportError, ModuleNotFoundError):
     HAS_CAPTCHA_SOLVER = False
@@ -128,16 +128,16 @@ def parse_prediction(prediction_text, team1, team2):
     
     return result
 
-# Initialize CAPTCHA solver if available
-captcha_solver = None
+# Initialize 2captcha solver if available
+solver = None
 if HAS_CAPTCHA_SOLVER and TWOCAPTCHA_API_KEY:
-    captcha_solver = CaptchaSolver(api_key=TWOCAPTCHA_API_KEY)
+    solver = TwoCaptcha(TWOCAPTCHA_API_KEY)
     print("✅ 2captcha solver initialized successfully")
 else:
     if HAS_CAPTCHA_SOLVER:
-        print("⚠️ captcha_solver available but TWOCAPTCHA_API_KEY not set")
+        print("⚠️ 2captcha-python available but TWOCAPTCHA_API_KEY not set")
     else:
-        print("⚠️ captcha_solver package not available; continuing without automated captcha solving")
+        print("⚠️ 2captcha-python not installed; continuing without automated captcha solving")
 
 def save_page_source(driver, path="page_source.html"):
     try:
@@ -159,18 +159,66 @@ def is_cloudflare_challenge(driver):
     return any(c in src for c in checks)
 
 def try_solve_captcha(driver, current_url):
-    if not captcha_solver:
+    """
+    Attempt to solve Cloudflare Turnstile CAPTCHA using 2captcha service.
+    Returns True if solved successfully, False otherwise.
+    """
+    if not solver:
         print("⚠️ No captcha solver configured; skipping automated solve.")
         return False
+    
     try:
-        # The solver implementation depends on your captcha_solver library.
-        # We attempt a generic detect_and_solve if it exists.
-        if hasattr(captcha_solver, "detect_and_solve"):
-            print("🔎 Attempting to auto-solve captcha via captcha_solver.detect_and_solve...")
-            return captcha_solver.detect_and_solve(driver, current_url)
-        else:
-            print("⚠️ captcha_solver has no detect_and_solve method; skipping.")
+        print("🔎 Attempting to detect and solve Cloudflare Turnstile CAPTCHA...")
+        
+        # Try to find the Turnstile sitekey in the page source
+        page_source = driver.page_source
+        
+        # Look for Turnstile sitekey patterns
+        sitekey_pattern = r'data-sitekey=["\']([^"\']+)["\']'
+        match = re.search(sitekey_pattern, page_source)
+        
+        if not match:
+            # Try alternative pattern
+            sitekey_pattern = r'sitekey["\']?\s*[:=]\s*["\']([^"\']+)["\']'
+            match = re.search(sitekey_pattern, page_source)
+        
+        if not match:
+            print("⚠️ Could not find Turnstile sitekey in page source")
             return False
+        
+        sitekey = match.group(1)
+        print(f"✅ Found Turnstile sitekey: {sitekey[:20]}...")
+        
+        # Solve the Turnstile CAPTCHA
+        print("⏳ Sending CAPTCHA to 2captcha for solving (this may take 10-30 seconds)...")
+        result = solver.turnstile(
+            sitekey=sitekey,
+            url=current_url
+        )
+        
+        token = result['code']
+        print("✅ CAPTCHA solved successfully!")
+        
+        # Inject the solution token into the page with proper escaping and error handling
+        script = """
+        var element = document.querySelector('[name="cf-turnstile-response"]');
+        if (element) {
+            element.value = arguments[0];
+            return true;
+        }
+        return false;
+        """
+        success = driver.execute_script(script, token)
+        
+        if not success:
+            print("⚠️ Could not find cf-turnstile-response element to inject token")
+            return False
+        
+        # Wait a moment for the page to process the token
+        time.sleep(2)
+        
+        return True
+        
     except Exception as e:
         print(f"⚠️ Captcha solving attempt failed: {e}")
         return False
