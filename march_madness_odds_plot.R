@@ -31,7 +31,7 @@ cat("Columns in 2026 Crosswalk.csv:\n")
 print(colnames(crosswalk))
 
 cat("\n=== Loading championship_odds.csv ===\n")
-championship_odds <- read_csv("championship_odds.csv", show_col_types = FALSE)
+championship_odds <- read_csv("championship_odds. csv", show_col_types = FALSE)
 cat("Columns in championship_odds.csv:\n")
 print(colnames(championship_odds))
 
@@ -41,8 +41,9 @@ championship_odds <- championship_odds %>%
   select(kenpom, Odds)
 
 # Join datasets and filter for updated criteria
+# Use the correct column names with suffixes
 eff_stats_joined <- eff_stats %>% 
-  filter(ORtg_rank < 68, DRtg_rank < 55) %>%
+  filter(`ORtg_rank... 7` < 68, `DRtg_rank...9` < 55) %>%
   left_join(ncaa_teams, by = c("Team" = "current_team")) %>%
   left_join(championship_odds, by = c("Team" = "kenpom"))
 
@@ -50,22 +51,22 @@ eff_stats_joined <- eff_stats %>%
 text_offset <- 3  # Adjust this value to control how far below the logos the text appears
 eff_stats_joined <- eff_stats_joined %>%
   mutate(
-    text_y = DRtg_rank + text_offset,  # Position text below logos
-    segment_xend = ORtg_rank,  # Line will be vertical
-    segment_yend = DRtg_rank + (text_offset * 0.8)  # Line ends just before text
+    text_y = `DRtg_rank...9` + text_offset,  # Position text below logos
+    segment_xend = `ORtg_rank...7`,  # Line will be vertical
+    segment_yend = `DRtg_rank...9` + (text_offset * 0.8)  # Line ends just before text
   )
 
 # Create the plot
 p <- eff_stats_joined %>% 
-  ggplot(aes(x = ORtg_rank, y = DRtg_rank)) +
+  ggplot(aes(x = `ORtg_rank...7`, y = `DRtg_rank...9`)) +
   # Add solid green vertical line from (57, top) to (57, 44)
-  geom_segment(aes(x = 57, xend = 57, y = min(eff_stats$DRtg_rank), yend = 44), 
-               color = "green", size = 1.5) +
+  geom_segment(aes(x = 57, xend = 57, y = min(eff_stats$`DRtg_rank...9`), yend = 44), 
+               color = "green", size = 1. 5) +
   # Add solid green horizontal line from (left, 44) to (57, 44)
-  geom_segment(aes(x = min(eff_stats$ORtg_rank), xend = 57, y = 44, yend = 44), 
+  geom_segment(aes(x = min(eff_stats$`ORtg_rank...7`), xend = 57, y = 44, yend = 44), 
                color = "green", size = 1.5) +
   # Add red dashed vertical line from (21, top) to (21, 44)
-  geom_segment(aes(x = 21, xend = 21, y = min(eff_stats$DRtg_rank), yend = 44), 
+  geom_segment(aes(x = 21, xend = 21, y = min(eff_stats$`DRtg_rank...9`), yend = 44), 
                color = "red", linetype = "dashed", size = 1.5) +
   # Add connecting lines from logos to text
   geom_segment(
@@ -93,9 +94,9 @@ p <- eff_stats_joined %>%
     caption = timestamp
   ) +
   theme(
-    plot.title = element_text(size = 25, face = "bold", hjust = 0.5),
+    plot.title = element_text(size = 25, face = "bold", hjust = 0. 5),
     plot.subtitle = element_text(hjust = 0.5),
-    axis.title = element_text(size = 25),
+    axis. title = element_text(size = 25),
     plot.caption = element_text(size = 10, hjust = 1)
   ) +
   scale_x_reverse(breaks = scales::pretty_breaks(n = 6)) +
