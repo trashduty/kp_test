@@ -2,6 +2,7 @@
 import os
 import re
 import sys
+import time
 from datetime import datetime
 from zoneinfo import ZoneInfo
 from dotenv import load_dotenv
@@ -30,6 +31,9 @@ if not OX_USER or not OX_PASS:
 
 PROXY_SERVER = f"http://{OX_HOST}:{OX_PORT}"
 
+# Optional: override date from env for testing (e.g. SCRAPE_DATE=2024-12-04)
+SCRAPE_DATE = os.getenv("SCRAPE_DATE")
+
 # ============================================================
 # Helpers
 # ============================================================
@@ -50,6 +54,9 @@ def parse_prediction(pred: str, team1: str, team2: str):
         "win_probability": "",
         "tempo": "",
     }
+
+    if not pred:
+        return parsed
 
     pattern = r"(.+?)\s+(\d+)-(\d+)\s+\((\d+)%\)\s+\[(\d+)\]"
     m = re.match(pattern, pred)
@@ -74,19 +81,56 @@ def parse_prediction(pred: str, team1: str, team2: str):
 
     return parsed
 
+def is_cloudflare_challenge(html_lower: str) -> bool:
+    markers = [
+        "cloudflare",
+        "attention required",
+        "just a moment",
+        "checking your browser",
+        "cf-challenge",
+    ]
+    return any(m in html_lower for m in markers)
+
+def wait_past_cloudflare(page, max_attempts: int = 6, delay_seconds: int = 5) -> bool:
+    """
+    Give Cloudflare's JS challenge multiple chances to complete.
+    Returns True if the page eventually no longer looks like a CF challenge.
+    """
+    for attempt in range(1, max_attempts + 1):
+        html_lower = page.content().lower()
+        if not is_cloudflare_challenge(html_lower):
+            print(f"✅ Cloudflare challenge appears to be cleared (attempt {attempt}).")
+            return True
+
+        print(f"⚠️ Cloudflare challenge still present (attempt {attempt}/{max_attempts}).")
+        # Do a little "human-like" behavior
+        try:
+            page.mouse.move(200 + attempt * 10, 300 + attempt * 5)
+            page.mouse.wheel(0, 400)
+        except Exception:
+            pass
+
+        time.sleep(delay_seconds)
+
+    print("❌ Cloudflare challenge did not clear in time.")
+    return False
+
 # ============================================================
 # Main scraper using correct FANMATCH URL
 # ============================================================
 def main():
-    # KenPom uses ET — not UTC — for daily matchups
-    today = datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d")
-    target_url = f"https://kenpom.com/fanmatch.php?d={today}"
+    if SCRAPE_DATE:
+        today = SCRAPE_DATE
+        print(f"🗓 Using SCRAPE_DATE from env: {today}")
+    else:
+        # KenPom is ET-based
+        today = datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d")
+        print(f"🗓 Using US date (America/New_York): {today}")
 
-    print(f"🗓 Using US date: {today}")
+    target_url = f"https://kenpom.com/fanmatch.php?d={today}"
     print(f"📊 Scraping URL: {target_url}")
 
     with sync_playwright() as p:
-
         print("🚀 Launching Chrome with Oxylabs proxy...")
 
         browser = p.chromium.launch(
@@ -107,14 +151,13 @@ def main():
                 "Chrome/121.0.0.0 Safari/537.36"
             ),
         )
-
         page = context.new_page()
 
         # --------------------------
         # LOGIN SEQUENCE
         # --------------------------
         print("🔍 Loading login page...")
-        page.goto("https://kenpom.com", wait_until="networkidle", timeout=60000)
+        page.goto("https://kenpom.com", wait_until="domcontentloaded", timeout=60000)
 
         print("🔐 Logging in...")
         page.fill("input[name=email]", KENPOM_USERNAME)
@@ -127,16 +170,22 @@ def main():
         # LOAD FANMATCH PAGE
         # --------------------------
         print("📊 Navigating to FANMATCH page...")
-        page.goto(target_url, wait_until="networkidle", timeout=60000)
+        page.goto(target_url, wait_until="domcontentloaded", timeout=60000)
 
-        html = page.content().lower()
-
-        # Cloudflare detection
-        if "cloudflare" in html or "attention required" in html:
-            print("⚠️ Cloudflare challenge detected! Saving screenshot + HTML...")
-            page.screenshot(path="error_screenshot.png", full_page=True)
-            with open("debug_html.html", "w", encoding="utf-8") as f:
-                f.write(page.content())
+        # Give Cloudflare a chance to run its JS and redirect
+        if not wait_past_cloudflare(page):
+            print("❌ Cloudflare never cleared. Saving screenshot + HTML...")
+            try:
+                page.screenshot(path="error_screenshot.png", full_page=True)
+            except Exception as e:
+                print(f"⚠️ Failed to save screenshot: {e}")
+            try:
+                with open("debug_html.html", "w", encoding="utf-8") as f:
+                    f.write(page.content())
+            except Exception as e:
+                print(f"⚠️ Failed to save debug_html.html: {e}")
+            context.close()
+            browser.close()
             sys.exit(1)
 
         print("🕐 Waiting for FANMATCH table...")
@@ -145,10 +194,18 @@ def main():
             table = page.locator("table.fanmatch-table")
             table.wait_for(timeout=15000)
         except PlaywrightTimeoutError:
-            print("❌ FANMATCH table NOT FOUND — saving screenshot + page HTML...")
-            page.screenshot(path="error_screenshot.png", full_page=True)
-            with open("debug_html.html", "w", encoding="utf-8") as f:
-                f.write(page.content())
+            print("❌ FANMATCH table NOT FOUND — saving screenshot + HTML...")
+            try:
+                page.screenshot(path="error_screenshot.png", full_page=True)
+            except Exception as e:
+                print(f"⚠️ Failed to save screenshot: {e}")
+            try:
+                with open("debug_html.html", "w", encoding="utf-8") as f:
+                    f.write(page.content())
+            except Exception as e:
+                print(f"⚠️ Failed to save debug_html.html: {e}")
+            context.close()
+            browser.close()
             sys.exit(1)
 
         print("📈 Extracting rows...")
