@@ -31,7 +31,7 @@ cat("Columns in 2026 Crosswalk.csv:\n")
 print(colnames(crosswalk))
 
 cat("\n=== Loading championship_odds.csv ===\n")
-championship_odds <- read_csv("championship_odds. csv", show_col_types = FALSE)
+championship_odds <- read_csv("championship_odds.csv", show_col_types = FALSE)
 cat("Columns in championship_odds.csv:\n")
 print(colnames(championship_odds))
 
