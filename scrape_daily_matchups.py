@@ -2,8 +2,7 @@ import os
 import asyncio
 from datetime import datetime
 from bs4 import BeautifulSoup
-from zyte_api.aio.client import AsyncZyteAPIClient
-import csv
+from zyte_api import AsyncZyteAPI
 
 
 def get_target_date():
@@ -14,6 +13,7 @@ def get_target_date():
 
 
 TARGET_DATE = get_target_date()
+
 LOGIN_URL = "https://kenpom.com/login.php"
 FANMATCH_URL = f"https://kenpom.com/fanmatch.php?d={TARGET_DATE}"
 
@@ -23,52 +23,43 @@ PASSWORD = os.environ.get("KENPOM_PASSWORD")
 
 
 async def scrape():
-    async with AsyncZyteAPIClient(api_key=ZYTE_KEY) as client:
-        
-        # ----------------------------------------------------
-        # STEP 1: Load login page (browser mode)
-        # ----------------------------------------------------
+
+    async with AsyncZyteAPI(api_key=ZYTE_KEY) as client:
+
+        # STEP 1 — Load login page
         print("🔍 Loading login page...")
-        login_response = await client.get({
+        await client.request_raw({
             "url": LOGIN_URL,
-            "browserHtml": True,
-            "httpResponseBody": True
+            "browserHtml": True
         })
 
-        page_html = login_response["browserHtml"]
+        # STEP 2 — Submit login form
+        print("🔐 Submitting login form...")
 
-        # ----------------------------------------------------
-        # STEP 2: Submit login form
-        # ----------------------------------------------------
-        print("🔐 Submitting login...")
-
-        login_response = await client.post({
+        login_result = await client.request_raw({
             "url": LOGIN_URL,
+            "httpMethod": "POST",
             "browserHtml": True,
-            "httpResponseBody": True,
             "form": {
                 "email": USERNAME,
                 "password": PASSWORD
             }
         })
 
-        # ----------------------------------------------------
-        # STEP 3: Access FANMATCH now that we're logged in
-        # ----------------------------------------------------
-        print(f"📊 Loading FANMATCH page for {TARGET_DATE}...")
+        # STEP 3 — Now load FANMATCH page (logged-in session should persist)
+        print(f"📊 Loading FANMATCH for {TARGET_DATE}...")
 
-        fm_response = await client.get({
+        fm_result = await client.request_raw({
             "url": FANMATCH_URL,
             "browserHtml": True,
-            "httpResponseBody": True,
         })
 
-        html = fm_response["browserHtml"]
+        html = fm_result.get("browserHtml")
 
         if not html:
-            print("❌ FANMATCH returned no HTML. Saving debug file...")
+            print("❌ No HTML received. Saving debug file...")
             with open("debug_html.html", "w", encoding="utf-8") as f:
-                f.write(str(fm_response))
+                f.write(str(fm_result))
             return
 
         soup = BeautifulSoup(html, "html.parser")
@@ -80,7 +71,7 @@ async def scrape():
                 f.write(html)
             return
 
-        print("✅ Table found. Extracting...")
+        print("✅ Table found — extracting rows...")
 
         rows = []
         for tr in table.select("tr"):
@@ -89,11 +80,12 @@ async def scrape():
                 rows.append(cols)
 
         out_file = "daily_matchups.csv"
+        import csv
         with open(out_file, "w", newline="", encoding="utf-8") as f:
             writer = csv.writer(f)
             writer.writerows(rows)
 
-        print(f"🎉 Saved CSV as: {out_file}")
+        print(f"🎉 Saved: {out_file}")
 
 
 if __name__ == "__main__":
