@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     env:
       KENPOM_API_KEY: ${{ secrets.KENPOM_API_KEY }}
+      KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
+      KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
+      TWOCAPTCHA_API_KEY: ${{ secrets.TWOCAPTCHA_API_KEY }}
 
     steps:
       - name: Checkout
@@ -20,14 +23,32 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Setup ChromeDriver
+        uses: nanasess/setup-chromedriver@v2
+
+      - name: Setup Chrome and ChromeDriver
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: 131
+
+      - name: Verify Chrome and ChromeDriver installation
+        run: |
+          google-chrome --version
+          chromedriver --version
+
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests python-dotenv
+          pip install -r requirements.txt
 
       - name: Run scraper
         run: |
           python scrape_daily_matchups.py
+        continue-on-error: true
+
+      - name: Run fanmatch scraper
+        run: |
+          python scrape_fanmatch.py
         continue-on-error: true
 
       - name: Upload CSV artifact (if produced)
@@ -36,8 +57,25 @@ jobs:
           name: daily_matchups_csv
           path: daily_matchups.csv
 
-      - name: Upload screenshot artifact (if produced)
+      - name: Upload fanmatch HTML artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: error_screenshot
-          path: error_screenshot.png
+          name: fanmatch_html
+          path: kenpom-data/fanmatch-*.html
+          if-no-files-found: ignore
+
+      - name: Upload fanmatch CSV artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: fanmatch_csv
+          path: kenpom-data/fanmatch-*.csv
+          if-no-files-found: ignore
+
+      - name: Upload screenshot artifacts (if produced)
+        uses: actions/upload-artifact@v4
+        with:
+          name: error_screenshots
+          path: |
+            error_screenshot.png
+            error_screenshot_*.png
+          if-no-files-found: ignore
