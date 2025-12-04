@@ -41,11 +41,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run scraper
-        run: |
-          python scrape_daily_matchups.py
-        continue-on-error: true
-
       - name: Run fanmatch scraper
         run: |
           python scrape_fanmatch.py
