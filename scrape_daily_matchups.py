@@ -26,17 +26,15 @@ async def scrape():
     client = AsyncZyteAPI(api_key=ZYTE_KEY)
 
     try:
-        # STEP 1 — Load login page
+
         print("🔍 Loading login page...")
         await client.request_raw({
             "url": LOGIN_URL,
             "browserHtml": True
         })
 
-        # STEP 2 — Submit login form
         print("🔐 Submitting login form...")
-
-        login_result = await client.request_raw({
+        await client.request_raw({
             "url": LOGIN_URL,
             "httpMethod": "POST",
             "browserHtml": True,
@@ -46,7 +44,6 @@ async def scrape():
             }
         })
 
-        # STEP 3 — Load FANMATCH page after login
         print(f"📊 Loading FANMATCH for {TARGET_DATE}...")
         fm_result = await client.request_raw({
             "url": FANMATCH_URL,
@@ -56,7 +53,7 @@ async def scrape():
         html = fm_result.get("browserHtml")
 
         if not html:
-            print("❌ No HTML received — saving debug.")
+            print("❌ No HTML returned — saving debug_html.html")
             with open("debug_html.html", "w", encoding="utf-8") as f:
                 f.write(str(fm_result))
             return
@@ -65,12 +62,12 @@ async def scrape():
         table = soup.select_one("table.mytable")
 
         if not table:
-            print("❌ Could not find table — saving HTML.")
+            print("❌ Could not find FANMATCH table — saving debug_html.html")
             with open("debug_html.html", "w", encoding="utf-8") as f:
                 f.write(html)
             return
 
-        print("✅ Extracting rows...")
+        print("✅ Extracting table rows...")
 
         rows = []
         for tr in table.select("tr"):
@@ -78,13 +75,17 @@ async def scrape():
             if cols:
                 rows.append(cols)
 
-        out_file = "daily_matchups.csv"
         import csv
-        with open(out_file, "w", newline="", encoding="utf-8") as f:
+        with open("daily_matchups.csv", "w", newline="", encoding="utf-8") as f:
             writer = csv.writer(f)
             writer.writerows(rows)
 
-        print(f"🎉 SUCCESS — Saved {len(rows)} rows to {out_file}")
+        print(f"🎉 SUCCESS — Saved {len(rows)} rows to daily_matchups.csv")
 
     finally:
-        # VERY IMPORTANT: close client (since no asy
+        # VERY IMPORTANT: always close client
+        await client.close()
+
+
+if __name__ == "__main__":
+    asyncio.run(scrape())
