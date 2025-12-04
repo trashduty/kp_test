@@ -173,19 +173,9 @@ chrome_options.add_extension(proxy_extension)
 
 # Container-safe flags (headless in CI)
 flags = [
-    "--headless=new",
     "--no-sandbox",
     "--disable-dev-shm-usage",
     "--disable-gpu",
-    "--disable-background-networking",
-    "--disable-breakpad",
-    "--disable-renderer-backgrounding",
-    "--disable-features=TranslateUI",
-    "--disable-client-side-phishing-detection",
-    "--disable-default-apps",
-    "--mute-audio",
-    "--no-first-run",
-    "--no-zygote",
     "--window-size=1920,1080",
 ]
 for f in flags:
