@@ -13,7 +13,6 @@ def get_target_date():
 
 
 TARGET_DATE = get_target_date()
-
 LOGIN_URL = "https://kenpom.com/login.php"
 FANMATCH_URL = f"https://kenpom.com/fanmatch.php?d={TARGET_DATE}"
 
@@ -24,8 +23,9 @@ PASSWORD = os.environ.get("KENPOM_PASSWORD")
 
 async def scrape():
 
-    async with AsyncZyteAPI(api_key=ZYTE_KEY) as client:
+    client = AsyncZyteAPI(api_key=ZYTE_KEY)
 
+    try:
         # STEP 1 — Load login page
         print("🔍 Loading login page...")
         await client.request_raw({
@@ -46,9 +46,8 @@ async def scrape():
             }
         })
 
-        # STEP 3 — Now load FANMATCH page (logged-in session should persist)
+        # STEP 3 — Load FANMATCH page after login
         print(f"📊 Loading FANMATCH for {TARGET_DATE}...")
-
         fm_result = await client.request_raw({
             "url": FANMATCH_URL,
             "browserHtml": True,
@@ -57,7 +56,7 @@ async def scrape():
         html = fm_result.get("browserHtml")
 
         if not html:
-            print("❌ No HTML received. Saving debug file...")
+            print("❌ No HTML received — saving debug.")
             with open("debug_html.html", "w", encoding="utf-8") as f:
                 f.write(str(fm_result))
             return
@@ -66,12 +65,12 @@ async def scrape():
         table = soup.select_one("table.mytable")
 
         if not table:
-            print("❌ FANMATCH table not found. Saving debug_html.html...")
+            print("❌ Could not find table — saving HTML.")
             with open("debug_html.html", "w", encoding="utf-8") as f:
                 f.write(html)
             return
 
-        print("✅ Table found — extracting rows...")
+        print("✅ Extracting rows...")
 
         rows = []
         for tr in table.select("tr"):
@@ -85,8 +84,7 @@ async def scrape():
             writer = csv.writer(f)
             writer.writerows(rows)
 
-        print(f"🎉 Saved: {out_file}")
+        print(f"🎉 SUCCESS — Saved {len(rows)} rows to {out_file}")
 
-
-if __name__ == "__main__":
-    asyncio.run(scrape())
+    finally:
+        # VERY IMPORTANT: close client (since no asy
