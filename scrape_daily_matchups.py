@@ -3,6 +3,8 @@ import os
 import sys
 import time
 import re
+import zipfile
+import tempfile
 from datetime import datetime
 from dotenv import load_dotenv
 
@@ -12,21 +14,19 @@ from selenium.webdriver.support import expected_conditions as EC
 
 import undetected_chromedriver as uc
 
-
 # ============================================
-# Load credentials + proxy
+# Load credentials and proxy from env (recommended)
 # ============================================
 load_dotenv()
+
 USERNAME = os.getenv("KENPOM_USERNAME")
 PASSWORD = os.getenv("KENPOM_PASSWORD")
 
-# --- Oxylabs residential proxy ---
-PROXY_HOST = "pr.oxylabs.io"
-PROXY_PORT = "7777"
-PROXY_USER = "customer-bullytheboard_OnFjP-cc-US"
-PROXY_PASS = "Btb_analytics1"
-
-PROXY_STRING = f"http://{PROXY_USER}:{PROXY_PASS}@{PROXY_HOST}:{PROXY_PORT}"
+# Oxylabs proxy creds: use env if set, otherwise fall back to the values you gave
+PROXY_HOST = os.getenv("OX_HOST", "pr.oxylabs.io")
+PROXY_PORT = os.getenv("OX_PORT", "7777")
+PROXY_USER = os.getenv("OX_USER", "customer-bullytheboard_OnFjP-cc-US")
+PROXY_PASS = os.getenv("OX_PASS", "Btb_analytics1")
 
 if not USERNAME or not PASSWORD:
     print("❌ Missing KenPom credentials.")
@@ -34,7 +34,79 @@ if not USERNAME or not PASSWORD:
 
 
 # ============================================
-# Helper Functions
+# Build Chrome extension for proxy auth
+# ============================================
+def create_proxy_auth_extension(host, port, user, password):
+    """
+    Creates a temporary Chrome extension that:
+      - Sets a fixed HTTP proxy
+      - Injects proxy authentication credentials
+    Returns the path to the .zip extension file.
+    """
+    manifest_json = r"""
+    {
+      "version": "1.0.0",
+      "manifest_version": 2,
+      "name": "Oxylabs Proxy Auth",
+      "permissions": [
+        "proxy",
+        "tabs",
+        "unlimitedStorage",
+        "storage",
+        "<all_urls>",
+        "webRequest",
+        "webRequestBlocking"
+      ],
+      "background": {
+        "scripts": ["background.js"]
+      },
+      "minimum_chrome_version":"22.0.0"
+    }
+    """
+
+    background_js = f"""
+    var config = {{
+      mode: "fixed_servers",
+      rules: {{
+        singleProxy: {{
+          scheme: "http",
+          host: "{host}",
+          port: parseInt({port})
+        }},
+        bypassList: ["localhost"]
+      }}
+    }};
+
+    chrome.proxy.settings.set({{value: config, scope: "regular"}}, function() {{}});
+
+    function callbackFn(details) {{
+      return {{
+        authCredentials: {{
+          username: "{user}",
+          password: "{password}"
+        }}
+      }};
+    }}
+
+    chrome.webRequest.onAuthRequired.addListener(
+      callbackFn,
+      {{urls: ["<all_urls>"]}},
+      ["blocking"]
+    );
+    """
+
+    temp_dir = tempfile.mkdtemp()
+    plugin_path = os.path.join(temp_dir, "oxylabs_proxy_auth.zip")
+
+    with zipfile.ZipFile(plugin_path, "w") as zp:
+        zp.writestr("manifest.json", manifest_json.strip())
+        zp.writestr("background.js", background_js.strip())
+
+    return plugin_path
+
+
+# ============================================
+# Helpers to parse KenPom table
 # ============================================
 def clean_team_name(text):
     return re.sub(r'^\s*\d+\s+', '', text).strip()
@@ -82,17 +154,24 @@ def parse_prediction(pred_text, team1, team2):
 
 
 # ============================================
-# Launch undetected Chrome WITH PROXY
+# Launch undetected Chrome with proxy extension
 # ============================================
-print("🚀 Launching Chrome with Oxylabs proxy...")
+print("🚀 Launching Chrome with Oxylabs proxy extension...")
+
+proxy_extension = create_proxy_auth_extension(
+    host=PROXY_HOST,
+    port=PROXY_PORT,
+    user=PROXY_USER,
+    password=PROXY_PASS
+)
 
 chrome_options = uc.ChromeOptions()
 chrome_options.binary_location = "/usr/bin/google-chrome"
 
-# Proxy injected here:
-chrome_options.add_argument(f"--proxy-server={PROXY_STRING}")
+# Load the proxy-auth extension
+chrome_options.add_extension(proxy_extension)
 
-# Container-safe flags:
+# Container-safe flags (headless in CI)
 flags = [
     "--headless=new",
     "--no-sandbox",
@@ -102,7 +181,6 @@ flags = [
     "--disable-breakpad",
     "--disable-renderer-backgrounding",
     "--disable-features=TranslateUI",
-    "--disable-features=AutomationControlled",
     "--disable-client-side-phishing-detection",
     "--disable-default-apps",
     "--mute-audio",
@@ -113,7 +191,7 @@ flags = [
 for f in flags:
     chrome_options.add_argument(f)
 
-# CRITICAL: Force Chromedriver 142 to match Linux Chrome
+# Force Chromedriver version 142 to match Chrome 142 on GitHub runners
 driver = uc.Chrome(
     options=chrome_options,
     use_subprocess=True,
@@ -124,17 +202,17 @@ wait = WebDriverWait(driver, 20)
 
 
 # ============================================
-# LOGIN FLOW
+# LOGIN
 # ============================================
 print("🔍 Navigating to KenPom login...")
 driver.get("https://kenpom.com/")
-time.sleep(2)
+time.sleep(3)
 
 try:
     username_field = wait.until(EC.presence_of_element_located((By.NAME, "email")))
     password_field = driver.find_element(By.NAME, "password")
 except Exception:
-    print("❌ Login form not detected (Cloudflare still active). Saving screenshot...")
+    print("❌ Login form not detected. Saving screenshot (likely Cloudflare/proxy issue)...")
     driver.save_screenshot("error_screenshot.png")
     driver.quit()
     sys.exit(1)
@@ -147,12 +225,12 @@ time.sleep(3)
 
 
 # ============================================
-# LOAD MATCHUPS PAGE
+# NAVIGATE TO GAMEPLAN
 # ============================================
 today = datetime.now().strftime("%Y-%m-%d")
 url = f"https://kenpom.com/gameplan.php?d={today}"
+print(f"📊 Navigating to Gameplan: {url}")
 
-print(f"📊 Navigating to: {url}")
 driver.get(url)
 time.sleep(3)
 
@@ -200,10 +278,10 @@ for row in rows[1:]:
 # ============================================
 # SAVE CSV
 # ============================================
-output = "daily_matchups.csv"
-print(f"💾 Saving: {output}")
+output_path = "daily_matchups.csv"
+print(f"💾 Saving CSV to {output_path}...")
 
-with open(output, "w", encoding="utf-8") as f:
+with open(output_path, "w", encoding="utf-8") as f:
     f.write("Date,Team1,Team2,Team1_Predicted_Score,Team2_Predicted_Score,Predicted_Winner,Win_Probability,Tempo,Full_Prediction\n")
     for m in matchups:
         f.write(
@@ -212,6 +290,6 @@ with open(output, "w", encoding="utf-8") as f:
             f'"{m["Predicted_Winner"]}",{m["Win_Probability"]},{m["Tempo"]},"{m["Full_Prediction"]}"\n'
         )
 
-print(f"✅ Successfully scraped {len(matchups)} matchups!")
+print(f"✅ Successfully scraped {len(matchups)} matchups.")
 driver.quit()
 print("🏁 Done.")
