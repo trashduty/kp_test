@@ -1,49 +1,75 @@
 import os
-from zyte_api import ZyteAPIClient
-from bs4 import BeautifulSoup
-import csv
+import asyncio
 from datetime import datetime
+from bs4 import BeautifulSoup
+from zyte_api.aio.client import AsyncZyteAPIClient
+import csv
 
-# -------------------------
-# Determine scrape date
-# -------------------------
+
 def get_target_date():
     env_date = os.environ.get("SCRAPE_DATE", "").strip()
     if env_date:
         return env_date
     return datetime.now().strftime("%Y-%m-%d")
 
-TARGET_DATE = get_target_date()
-URL = f"https://kenpom.com/fanmatch.php?d={TARGET_DATE}"
 
-# -------------------------
-# Zyte API Key
-# -------------------------
+TARGET_DATE = get_target_date()
+LOGIN_URL = "https://kenpom.com/login.php"
+FANMATCH_URL = f"https://kenpom.com/fanmatch.php?d={TARGET_DATE}"
+
 ZYTE_KEY = os.environ.get("ZYTE_API_KEY")
 USERNAME = os.environ.get("KENPOM_USERNAME")
 PASSWORD = os.environ.get("KENPOM_PASSWORD")
 
 
 async def scrape():
-    print("📡 Requesting page through Zyte API...")
-    async with ZyteAPIClient(api_key=ZYTE_KEY) as client:
+    async with AsyncZyteAPIClient(api_key=ZYTE_KEY) as client:
+        
+        # ----------------------------------------------------
+        # STEP 1: Load login page (browser mode)
+        # ----------------------------------------------------
+        print("🔍 Loading login page...")
+        login_response = await client.get({
+            "url": LOGIN_URL,
+            "browserHtml": True,
+            "httpResponseBody": True
+        })
 
-        # Tell Zyte API to return the fully rendered HTML
-        response = await client.get(
-            {
-                "url": URL,
-                "render": True,        # <-- CRITICAL! Enables JS + Cloudflare solving
-                "httpResponseBody": True,
-                "browserHtml": True,
+        page_html = login_response["browserHtml"]
+
+        # ----------------------------------------------------
+        # STEP 2: Submit login form
+        # ----------------------------------------------------
+        print("🔐 Submitting login...")
+
+        login_response = await client.post({
+            "url": LOGIN_URL,
+            "browserHtml": True,
+            "httpResponseBody": True,
+            "form": {
+                "email": USERNAME,
+                "password": PASSWORD
             }
-        )
+        })
 
-        html = response["browserHtml"]
+        # ----------------------------------------------------
+        # STEP 3: Access FANMATCH now that we're logged in
+        # ----------------------------------------------------
+        print(f"📊 Loading FANMATCH page for {TARGET_DATE}...")
+
+        fm_response = await client.get({
+            "url": FANMATCH_URL,
+            "browserHtml": True,
+            "httpResponseBody": True,
+        })
+
+        html = fm_response["browserHtml"]
+
         if not html:
-            print("❌ Error: No HTML returned.")
+            print("❌ FANMATCH returned no HTML. Saving debug file...")
+            with open("debug_html.html", "w", encoding="utf-8") as f:
+                f.write(str(fm_response))
             return
-
-        print("✅ HTML received from Zyte. Parsing...")
 
         soup = BeautifulSoup(html, "html.parser")
         table = soup.select_one("table.mytable")
@@ -54,7 +80,7 @@ async def scrape():
                 f.write(html)
             return
 
-        print("✅ FANMATCH table found. Extracting data...")
+        print("✅ Table found. Extracting...")
 
         rows = []
         for tr in table.select("tr"):
@@ -62,17 +88,13 @@ async def scrape():
             if cols:
                 rows.append(cols)
 
-        # Save to CSV
         out_file = "daily_matchups.csv"
         with open(out_file, "w", newline="", encoding="utf-8") as f:
             writer = csv.writer(f)
-            writer.writerow(["Column1","Column2","Column3","..."])
             writer.writerows(rows)
 
-        print(f"🎉 Saved CSV: {out_file}")
+        print(f"🎉 Saved CSV as: {out_file}")
 
 
-# Required for async runner inside GitHub
-import asyncio
 if __name__ == "__main__":
     asyncio.run(scrape())
