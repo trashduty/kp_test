@@ -1,267 +1,84 @@
-#!/usr/bin/env python3
 import os
-import re
-import sys
-import time
-from datetime import datetime
-from zoneinfo import ZoneInfo
-from dotenv import load_dotenv
-from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+from zyte_smart_browser import Browser
+from bs4 import BeautifulSoup
+import asyncio
+import csv
+from datetime import datetime, timedelta
 
-# ============================================================
-# Load environment variables
-# ============================================================
-load_dotenv()
+# ---------------------------------------
+# Helper: Determine date to scrape
+# ---------------------------------------
+def get_target_date():
+    env_date = os.environ.get("SCRAPE_DATE", "").strip()
+    if env_date:
+        return env_date
+    # default = today
+    return datetime.now().strftime("%Y-%m-%d")
 
-KENPOM_USERNAME = os.getenv("KENPOM_USERNAME")
-KENPOM_PASSWORD = os.getenv("KENPOM_PASSWORD")
 
-OX_HOST = os.getenv("OX_HOST", "pr.oxylabs.io")
-OX_PORT = os.getenv("OX_PORT", "7777")
-OX_USER = os.getenv("OX_USER")
-OX_PASS = os.getenv("OX_PASS")
+TARGET_DATE = get_target_date()
+URL = f"https://kenpom.com/fanmatch.php?d={TARGET_DATE}"
 
-if not KENPOM_USERNAME or not KENPOM_PASSWORD:
-    print("❌ Missing KenPom credentials.")
-    sys.exit(1)
+# ---------------------------------------
+# Credentials
+# ---------------------------------------
+USERNAME = os.environ.get("KENPOM_USERNAME")
+PASSWORD = os.environ.get("KENPOM_PASSWORD")
+ZYTE_KEY = os.environ.get("ZYTE_API_KEY")  # YOU store this in GitHub secrets
 
-if not OX_USER or not OX_PASS:
-    print("❌ Missing Oxylabs proxy credentials.")
-    sys.exit(1)
 
-PROXY_SERVER = f"http://{OX_HOST}:{OX_PORT}"
+# ---------------------------------------
+# Scraper logic
+# ---------------------------------------
+async def scrape():
+    async with Browser(api_key=ZYTE_KEY) as browser:
 
-# Optional: override date from env for testing (e.g. SCRAPE_DATE=2024-12-04)
-SCRAPE_DATE = os.getenv("SCRAPE_DATE")
+        # 1) Load login page
+        print("🔍 Loading KenPom login...")
+        page = await browser.open("https://kenpom.com/login.php")
 
-# ============================================================
-# Helpers
-# ============================================================
-def clean_team_name(text: str) -> str:
-    return re.sub(r"^\s*\d+\s+", "", text).strip()
+        # Fill login form
+        await page.wait_for_selector('input[name="email"]')
+        await page.type('input[name="email"]', USERNAME)
+        await page.type('input[name="password"]', PASSWORD)
 
-def extract_teams(matchup_text: str):
-    parts = re.split(r"\s+at\s+", matchup_text, flags=re.IGNORECASE)
-    if len(parts) == 2:
-        return clean_team_name(parts[0]), clean_team_name(parts[1])
-    return matchup_text.strip(), ""
+        print("🔐 Submitting login form...")
+        await page.click('input[type="submit"]')
 
-def parse_prediction(pred: str, team1: str, team2: str):
-    parsed = {
-        "team1_score": "",
-        "team2_score": "",
-        "predicted_winner": "",
-        "win_probability": "",
-        "tempo": "",
-    }
+        await page.wait_for_navigation()
 
-    if not pred:
-        return parsed
+        # 2) Navigate to FANMATCH page
+        print(f"📊 Navigating to: {URL}")
+        page = await browser.open(URL)
 
-    pattern = r"(.+?)\s+(\d+)-(\d+)\s+\((\d+)%\)\s+\[(\d+)\]"
-    m = re.match(pattern, pred)
-    if not m:
-        return parsed
+        # 3) Extract table HTML
+        html = await page.content()
+        soup = BeautifulSoup(html, "html.parser")
 
-    winner, sw, sl, pct, tempo = m.groups()
-    parsed["predicted_winner"] = winner.strip()
-    parsed["win_probability"] = pct
-    parsed["tempo"] = tempo
+        table = soup.select_one("table.mytable")
+        if not table:
+            print("❌ FANMATCH table not found.")
+            with open("debug_html.html", "w", encoding="utf-8") as f:
+                f.write(html)
+            return
 
-    wl = winner.lower().strip()
-    t1 = team1.lower().strip()
-    t2 = team2.lower().strip()
+        print("✅ FANMATCH table found. Parsing...")
 
-    if wl == t1:
-        parsed["team1_score"] = sw
-        parsed["team2_score"] = sl
-    elif wl == t2:
-        parsed["team1_score"] = sl
-        parsed["team2_score"] = sw
+        # 4) Extract rows
+        rows = []
+        for tr in table.select("tr"):
+            cols = [td.get_text(strip=True) for td in tr.select("td")]
+            if cols:
+                rows.append(cols)
 
-    return parsed
+        # 5) Save CSV
+        out_file = "daily_matchups.csv"
+        with open(out_file, "w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerows(rows)
 
-def is_cloudflare_challenge(html_lower: str) -> bool:
-    markers = [
-        "cloudflare",
-        "attention required",
-        "just a moment",
-        "checking your browser",
-        "cf-challenge",
-    ]
-    return any(m in html_lower for m in markers)
-
-def wait_past_cloudflare(page, max_attempts: int = 6, delay_seconds: int = 5) -> bool:
-    """
-    Give Cloudflare's JS challenge multiple chances to complete.
-    Returns True if the page eventually no longer looks like a CF challenge.
-    """
-    for attempt in range(1, max_attempts + 1):
-        html_lower = page.content().lower()
-        if not is_cloudflare_challenge(html_lower):
-            print(f"✅ Cloudflare challenge appears to be cleared (attempt {attempt}).")
-            return True
-
-        print(f"⚠️ Cloudflare challenge still present (attempt {attempt}/{max_attempts}).")
-        # Do a little "human-like" behavior
-        try:
-            page.mouse.move(200 + attempt * 10, 300 + attempt * 5)
-            page.mouse.wheel(0, 400)
-        except Exception:
-            pass
-
-        time.sleep(delay_seconds)
-
-    print("❌ Cloudflare challenge did not clear in time.")
-    return False
-
-# ============================================================
-# Main scraper using correct FANMATCH URL
-# ============================================================
-def main():
-    if SCRAPE_DATE:
-        today = SCRAPE_DATE
-        print(f"🗓 Using SCRAPE_DATE from env: {today}")
-    else:
-        # KenPom is ET-based
-        today = datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d")
-        print(f"🗓 Using US date (America/New_York): {today}")
-
-    target_url = f"https://kenpom.com/fanmatch.php?d={today}"
-    print(f"📊 Scraping URL: {target_url}")
-
-    with sync_playwright() as p:
-        print("🚀 Launching Chrome with Oxylabs proxy...")
-
-        browser = p.chromium.launch(
-            headless=True,
-            channel="chrome",
-            proxy={
-                "server": PROXY_SERVER,
-                "username": OX_USER,
-                "password": OX_PASS,
-            },
-        )
-
-        context = browser.new_context(
-            viewport={"width": 1920, "height": 1080},
-            user_agent=(
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/121.0.0.0 Safari/537.36"
-            ),
-        )
-        page = context.new_page()
-
-        # --------------------------
-        # LOGIN SEQUENCE
-        # --------------------------
-        print("🔍 Loading login page...")
-        page.goto("https://kenpom.com", wait_until="domcontentloaded", timeout=60000)
-
-        print("🔐 Logging in...")
-        page.fill("input[name=email]", KENPOM_USERNAME)
-        page.fill("input[name=password]", KENPOM_PASSWORD)
-        page.click("input[type=submit]")
-
-        page.wait_for_load_state("networkidle", timeout=60000)
-
-        # --------------------------
-        # LOAD FANMATCH PAGE
-        # --------------------------
-        print("📊 Navigating to FANMATCH page...")
-        page.goto(target_url, wait_until="domcontentloaded", timeout=60000)
-
-        # Give Cloudflare a chance to run its JS and redirect
-        if not wait_past_cloudflare(page):
-            print("❌ Cloudflare never cleared. Saving screenshot + HTML...")
-            try:
-                page.screenshot(path="error_screenshot.png", full_page=True)
-            except Exception as e:
-                print(f"⚠️ Failed to save screenshot: {e}")
-            try:
-                with open("debug_html.html", "w", encoding="utf-8") as f:
-                    f.write(page.content())
-            except Exception as e:
-                print(f"⚠️ Failed to save debug_html.html: {e}")
-            context.close()
-            browser.close()
-            sys.exit(1)
-
-        print("🕐 Waiting for FANMATCH table...")
-
-        try:
-            table = page.locator("table.fanmatch-table")
-            table.wait_for(timeout=15000)
-        except PlaywrightTimeoutError:
-            print("❌ FANMATCH table NOT FOUND — saving screenshot + HTML...")
-            try:
-                page.screenshot(path="error_screenshot.png", full_page=True)
-            except Exception as e:
-                print(f"⚠️ Failed to save screenshot: {e}")
-            try:
-                with open("debug_html.html", "w", encoding="utf-8") as f:
-                    f.write(page.content())
-            except Exception as e:
-                print(f"⚠️ Failed to save debug_html.html: {e}")
-            context.close()
-            browser.close()
-            sys.exit(1)
-
-        print("📈 Extracting rows...")
-
-        rows = table.locator("tr")
-        row_count = rows.count()
-        print(f"🔢 Found {row_count-1} matchup rows.")
-
-        matchups = []
-
-        for i in range(1, row_count):
-            cells = rows.nth(i).locator("td")
-            if cells.count() < 4:
-                continue
-
-            matchup = cells.nth(0).inner_text().strip()
-            pred = cells.nth(3).inner_text().strip()
-
-            team1, team2 = extract_teams(matchup)
-            parsed = parse_prediction(pred, team1, team2)
-
-            matchups.append({
-                "Date": today,
-                "Team1": team1,
-                "Team2": team2,
-                "Team1_Predicted_Score": parsed["team1_score"],
-                "Team2_Predicted_Score": parsed["team2_score"],
-                "Predicted_Winner": parsed["predicted_winner"],
-                "Win_Probability": parsed["win_probability"],
-                "Tempo": parsed["tempo"],
-                "Full_Prediction": pred,
-            })
-
-        # --------------------------
-        # WRITE CSV
-        # --------------------------
-        out = "daily_matchups.csv"
-        print(f"💾 Saving {len(matchups)} matchups → {out}")
-
-        with open(out, "w", encoding="utf-8") as f:
-            f.write(
-                "Date,Team1,Team2,Team1_Predicted_Score,Team2_Predicted_Score,"
-                "Predicted_Winner,Win_Probability,Tempo,Full_Prediction\n"
-            )
-            for m in matchups:
-                f.write(
-                    f'{m["Date"]},"{m["Team1"]}","{m["Team2"]}",'
-                    f'{m["Team1_Predicted_Score"]},{m["Team2_Predicted_Score"]},'
-                    f'"{m["Predicted_Winner"]}",{m["Win_Probability"]},'
-                    f'{m["Tempo"]},"{m["Full_Prediction"]}"\n'
-                )
-
-        print("✅ DONE — FANMATCH successfully scraped.")
-        context.close()
-        browser.close()
+        print(f"✅ Saved: {out_file}")
 
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(scrape())
