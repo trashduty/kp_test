@@ -1,123 +1,53 @@
 #!/usr/bin/env python3
 import os
-import sys
-import time
 import re
-import zipfile
-import tempfile
+import sys
 from datetime import datetime
 from dotenv import load_dotenv
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-
-import undetected_chromedriver as uc
-
-# ============================================
-# Load credentials and proxy from env (recommended)
-# ============================================
+# ============================================================
+# Load environment variables
+# ============================================================
 load_dotenv()
 
-USERNAME = os.getenv("KENPOM_USERNAME")
-PASSWORD = os.getenv("KENPOM_PASSWORD")
+KENPOM_USERNAME = os.getenv("KENPOM_USERNAME")
+KENPOM_PASSWORD = os.getenv("KENPOM_PASSWORD")
 
-# Oxylabs proxy creds: use env if set, otherwise fall back to the values you gave
-PROXY_HOST = os.getenv("OX_HOST", "pr.oxylabs.io")
-PROXY_PORT = os.getenv("OX_PORT", "7777")
-PROXY_USER = os.getenv("OX_USER", "customer-bullytheboard_OnFjP-cc-US")
-PROXY_PASS = os.getenv("OX_PASS", "Btb_analytics1")
+OX_HOST = os.getenv("OX_HOST", "pr.oxylabs.io")
+OX_PORT = os.getenv("OX_PORT", "7777")
+OX_USER = os.getenv("OX_USER")  # set in GitHub secrets
+OX_PASS = os.getenv("OX_PASS")  # set in GitHub secrets
 
-if not USERNAME or not PASSWORD:
-    print("❌ Missing KenPom credentials.")
+if not KENPOM_USERNAME or not KENPOM_PASSWORD:
+    print("❌ Missing KENPOM_USERNAME or KENPOM_PASSWORD")
     sys.exit(1)
 
+if not OX_USER or not OX_PASS:
+    print("❌ Missing OX_USER or OX_PASS for Oxylabs proxy")
+    sys.exit(1)
 
-# ============================================
-# Build Chrome extension for proxy auth
-# ============================================
-def create_proxy_auth_extension(host, port, user, password):
-    """
-    Creates a temporary Chrome extension that:
-      - Sets a fixed HTTP proxy
-      - Injects proxy authentication credentials
-    Returns the path to the .zip extension file.
-    """
-    manifest_json = r"""
-    {
-      "version": "1.0.0",
-      "manifest_version": 2,
-      "name": "Oxylabs Proxy Auth",
-      "permissions": [
-        "proxy",
-        "tabs",
-        "unlimitedStorage",
-        "storage",
-        "<all_urls>",
-        "webRequest",
-        "webRequestBlocking"
-      ],
-      "background": {
-        "scripts": ["background.js"]
-      },
-      "minimum_chrome_version":"22.0.0"
-    }
-    """
+PROXY_SERVER = f"http://{OX_HOST}:{OX_PORT}"
 
-    background_js = f"""
-    var config = {{
-      mode: "fixed_servers",
-      rules: {{
-        singleProxy: {{
-          scheme: "http",
-          host: "{host}",
-          port: parseInt({port})
-        }},
-        bypassList: ["localhost"]
-      }}
-    }};
+# ============================================================
+# Helper functions
+# ============================================================
+def clean_team_name(text: str) -> str:
+    """Remove seed numbers and clean whitespace."""
+    return re.sub(r"^\s*\d+\s+", "", text).strip()
 
-    chrome.proxy.settings.set({{value: config, scope: "regular"}}, function() {{}});
-
-    function callbackFn(details) {{
-      return {{
-        authCredentials: {{
-          username: "{user}",
-          password: "{password}"
-        }}
-      }};
-    }}
-
-    chrome.webRequest.onAuthRequired.addListener(
-      callbackFn,
-      {{urls: ["<all_urls>"]}},
-      ["blocking"]
-    );
-    """
-
-    temp_dir = tempfile.mkdtemp()
-    plugin_path = os.path.join(temp_dir, "oxylabs_proxy_auth.zip")
-
-    with zipfile.ZipFile(plugin_path, "w") as zp:
-        zp.writestr("manifest.json", manifest_json.strip())
-        zp.writestr("background.js", background_js.strip())
-
-    return plugin_path
-
-
-# ============================================
-# Helpers to parse KenPom table
-# ============================================
-def clean_team_name(text):
-    return re.sub(r'^\s*\d+\s+', '', text).strip()
-
-def extract_teams_from_matchup(matchup_text):
+def extract_teams_from_matchup(matchup_text: str):
+    """Extract Team1 and Team2 from 'X Team at Y Team'."""
     parts = re.split(r"\s+at\s+", matchup_text, flags=re.IGNORECASE)
     if len(parts) == 2:
         return clean_team_name(parts[0]), clean_team_name(parts[1])
-    return matchup_text, ""
+    return matchup_text.strip(), ""
 
-def parse_prediction(pred_text, team1, team2):
+def parse_prediction(pred_text: str, team1: str, team2: str):
+    """
+    Parse prediction like: 'Louisville 84-81 (61%) [73]'
+    Return dict with scores, winner, win_probability, tempo.
+    """
     parsed = {
         "team1_score": "",
         "team2_score": "",
@@ -129,7 +59,7 @@ def parse_prediction(pred_text, team1, team2):
     if not pred_text:
         return parsed
 
-    pattern = r'(.+?)\s+(\d+)-(\d+)\s+\((\d+)%\)\s+\[(\d+)\]'
+    pattern = r"(.+?)\s+(\d+)-(\d+)\s+\((\d+)%\)\s+\[(\d+)\]"
     m = re.match(pattern, pred_text)
     if not m:
         return parsed
@@ -152,134 +82,137 @@ def parse_prediction(pred_text, team1, team2):
 
     return parsed
 
+# ============================================================
+# Main scraping logic using Playwright
+# ============================================================
+def main():
+    today = datetime.now().strftime("%Y-%m-%d")
+    target_url = f"https://kenpom.com/gameplan.php?d={today}"
+    print(f"🗓 Target date: {today}")
+    print(f"📊 Target URL: {target_url}")
 
-# ============================================
-# Launch undetected Chrome with proxy extension
-# ============================================
-print("🚀 Launching Chrome with Oxylabs proxy extension...")
-
-proxy_extension = create_proxy_auth_extension(
-    host=PROXY_HOST,
-    port=PROXY_PORT,
-    user=PROXY_USER,
-    password=PROXY_PASS
-)
-
-chrome_options = uc.ChromeOptions()
-chrome_options.binary_location = "/usr/bin/google-chrome"
-
-# Load the proxy-auth extension
-chrome_options.add_extension(proxy_extension)
-
-# Container-safe flags (headless in CI)
-flags = [
-    "--no-sandbox",
-    "--disable-dev-shm-usage",
-    "--disable-gpu",
-    "--window-size=1920,1080",
-]
-for f in flags:
-    chrome_options.add_argument(f)
-
-# Force Chromedriver version 142 to match Chrome 142 on GitHub runners
-driver = uc.Chrome(
-    options=chrome_options,
-    use_subprocess=True,
-    version_main=142
-)
-
-wait = WebDriverWait(driver, 20)
-
-
-# ============================================
-# LOGIN
-# ============================================
-print("🔍 Navigating to KenPom login...")
-driver.get("https://kenpom.com/")
-time.sleep(3)
-
-try:
-    username_field = wait.until(EC.presence_of_element_located((By.NAME, "email")))
-    password_field = driver.find_element(By.NAME, "password")
-except Exception:
-    print("❌ Login form not detected. Saving screenshot (likely Cloudflare/proxy issue)...")
-    driver.save_screenshot("error_screenshot.png")
-    driver.quit()
-    sys.exit(1)
-
-print("🔐 Logging in...")
-username_field.send_keys(USERNAME)
-password_field.send_keys(PASSWORD)
-driver.find_element(By.XPATH, "//input[@type='submit']").click()
-time.sleep(3)
-
-
-# ============================================
-# NAVIGATE TO GAMEPLAN
-# ============================================
-today = datetime.now().strftime("%Y-%m-%d")
-url = f"https://kenpom.com/gameplan.php?d={today}"
-print(f"📊 Navigating to Gameplan: {url}")
-
-driver.get(url)
-time.sleep(3)
-
-try:
-    wait.until(EC.presence_of_element_located((By.CLASS_NAME, "gameplan")))
-except Exception:
-    print("❌ Matchup table not found. Saving screenshot...")
-    driver.save_screenshot("error_screenshot.png")
-    driver.quit()
-    sys.exit(1)
-
-
-# ============================================
-# SCRAPE TABLE
-# ============================================
-print("📈 Scraping matchups...")
-
-rows = driver.find_elements(By.CSS_SELECTOR, ".gameplan tr")
-matchups = []
-
-for row in rows[1:]:
-    cells = row.find_elements(By.TAG_NAME, "td")
-    if len(cells) < 4:
-        continue
-
-    matchup_text = cells[0].text.strip()
-    pred_text = cells[3].text.strip()
-
-    team1, team2 = extract_teams_from_matchup(matchup_text)
-    parsed = parse_prediction(pred_text, team1, team2)
-
-    matchups.append({
-        "Date": today,
-        "Team1": team1,
-        "Team2": team2,
-        "Team1_Predicted_Score": parsed["team1_score"],
-        "Team2_Predicted_Score": parsed["team2_score"],
-        "Predicted_Winner": parsed["predicted_winner"],
-        "Win_Probability": parsed["win_probability"],
-        "Tempo": parsed["tempo"],
-        "Full_Prediction": pred_text
-    })
-
-
-# ============================================
-# SAVE CSV
-# ============================================
-output_path = "daily_matchups.csv"
-print(f"💾 Saving CSV to {output_path}...")
-
-with open(output_path, "w", encoding="utf-8") as f:
-    f.write("Date,Team1,Team2,Team1_Predicted_Score,Team2_Predicted_Score,Predicted_Winner,Win_Probability,Tempo,Full_Prediction\n")
-    for m in matchups:
-        f.write(
-            f'{m["Date"]},"{m["Team1"]}","{m["Team2"]}",'
-            f'{m["Team1_Predicted_Score"]},{m["Team2_Predicted_Score"]},'
-            f'"{m["Predicted_Winner"]}",{m["Win_Probability"]},{m["Tempo"]},"{m["Full_Prediction"]}"\n'
+    with sync_playwright() as p:
+        # Launch Chrome via Playwright with Oxylabs proxy
+        print("🚀 Launching Playwright Chromium (Chrome channel) with Oxylabs proxy...")
+        browser = p.chromium.launch(
+            headless=True,
+            channel="chrome",  # use system Chrome installed by `playwright install chrome`
+            proxy={
+                "server": PROXY_SERVER,
+                "username": OX_USER,
+                "password": OX_PASS,
+            },
         )
 
-print(f"✅ Successfully scraped {len(matchups)} matchups.")
-driver.quit()
-print("🏁 Done.")
+        context = browser.new_context(
+            viewport={"width": 1920, "height": 1080},
+            user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/120.0.0.0 Safari/537.36"
+            ),
+        )
+        page = context.new_page()
+
+        try:
+            # ---------------------------
+            # Login
+            # ---------------------------
+            print("🔍 Navigating to KenPom login page...")
+            page.goto("https://kenpom.com", wait_until="networkidle", timeout=60000)
+
+            # Quick Cloudflare sanity check
+            content_lower = page.content().lower()
+            if "cloudflare" in content_lower and "attention required" in content_lower:
+                print("⚠️ Cloudflare 'Attention Required' detected on initial load.")
+                page.screenshot(path="error_screenshot.png", full_page=True)
+                raise SystemExit(1)
+
+            print("🔐 Filling login form...")
+            page.fill('input[name="email"]', KENPOM_USERNAME)
+            page.fill('input[name="password"]', KENPOM_PASSWORD)
+            page.click('input[type="submit"]')
+
+            page.wait_for_load_state("networkidle", timeout=60000)
+
+            # ---------------------------
+            # Navigate to Gameplan
+            # ---------------------------
+            print("📊 Navigating to daily Gameplan page...")
+            page.goto(target_url, wait_until="networkidle", timeout=60000)
+
+            # Another Cloudflare check
+            content_lower = page.content().lower()
+            if "cloudflare" in content_lower and "attention required" in content_lower:
+                print("⚠️ Cloudflare challenge detected on Gameplan page.")
+                page.screenshot(path="error_screenshot.png", full_page=True)
+                raise SystemExit(1)
+
+            # Wait for table
+            print("🕐 Waiting for matchup table...")
+            try:
+                table_locator = page.locator(".gameplan")
+                table_locator.wait_for(timeout=15000)
+            except PlaywrightTimeoutError:
+                print("❌ Matchup table not found within timeout. Saving screenshot...")
+                page.screenshot(path="error_screenshot.png", full_page=True)
+                raise SystemExit(1)
+
+            # ---------------------------
+            # Extract rows
+            # ---------------------------
+            print("📈 Extracting matchup rows...")
+            rows = page.locator(".gameplan tr")
+            row_count = rows.count()
+
+            print(f"🔢 Found {row_count-1} data rows (excluding header).")
+
+            matchups = []
+
+            for i in range(1, row_count):  # skip header (row 0)
+                row = rows.nth(i)
+                cells = row.locator("td")
+                if cells.count() < 4:
+                    continue
+
+                matchup_text = cells.nth(0).inner_text().strip()
+                pred_text = cells.nth(3).inner_text().strip()
+
+                team1, team2 = extract_teams_from_matchup(matchup_text)
+                parsed = parse_prediction(pred_text, team1, team2)
+
+                matchups.append({
+                    "Date": today,
+                    "Team1": team1,
+                    "Team2": team2,
+                    "Team1_Predicted_Score": parsed["team1_score"],
+                    "Team2_Predicted_Score": parsed["team2_score"],
+                    "Predicted_Winner": parsed["predicted_winner"],
+                    "Win_Probability": parsed["win_probability"],
+                    "Tempo": parsed["tempo"],
+                    "Full_Prediction": pred_text,
+                })
+
+            # ---------------------------
+            # Save CSV
+            # ---------------------------
+            output_path = "daily_matchups.csv"
+            print(f"💾 Saving {len(matchups)} matchups to {output_path}...")
+
+            with open(output_path, "w", encoding="utf-8") as f:
+                f.write("Date,Team1,Team2,Team1_Predicted_Score,Team2_Predicted_Score,Predicted_Winner,Win_Probability,Tempo,Full_Prediction\n")
+                for m in matchups:
+                    f.write(
+                        f'{m["Date"]},"{m["Team1"]}","{m["Team2"]}",'
+                        f'{m["Team1_Predicted_Score"]},{m["Team2_Predicted_Score"]},'
+                        f'"{m["Predicted_Winner"]}",{m["Win_Probability"]},{m["Tempo"]},"{m["Full_Prediction"]}"\n'
+                    )
+
+            print("✅ Done.")
+        finally:
+            context.close()
+            browser.close()
+
+
+if __name__ == "__main__":
+    main()
