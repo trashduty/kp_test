@@ -35,15 +35,6 @@ championship_odds <- read_csv("championship_odds.csv", show_col_types = FALSE)
 cat("Columns in championship_odds.csv:\n")
 print(colnames(championship_odds))
 
-# Rename columns in kenpom data
-eff_stats <- eff_stats %>%
-  rename(
-    ORtg_rank = `ORtg...2`,
-    DRtg_rank = `DRtg...2`,
-    AdjT_rank = `AdjT...2`,
-    Luck_rank = `Luck...2`
-  )
-
 # Process championship odds data
 championship_odds <- championship_odds %>%
   left_join(crosswalk, by = c("Team" = "API")) %>%
