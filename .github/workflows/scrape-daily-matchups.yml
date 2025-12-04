@@ -43,6 +43,12 @@ jobs:
           echo "📦 Full package list:"
           pip list
 
+      - name: Start Xvfb
+        run: |
+          sudo apt-get install -y xvfb
+          Xvfb :99 -screen 0 1920x1080x24 &
+          export DISPLAY=:99
+
       - name: Run scraper
         run: python scrape_daily_matchups.py
         continue-on-error: true
