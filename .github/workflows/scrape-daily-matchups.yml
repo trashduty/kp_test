@@ -9,12 +9,15 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     env:
-      HEADLESS: "false"
       KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
       KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
+      OX_HOST: pr.oxylabs.io
+      OX_PORT: 7777
+      OX_USER: ${{ secrets.OX_USER }}
+      OX_PASS: ${{ secrets.OX_PASS }}
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -29,23 +32,31 @@ jobs:
 
       - name: Install Python dependencies
         run: |
-          pip install --upgrade pip
+          python -m pip install --upgrade pip
           pip install undetected-chromedriver python-dotenv
+
+      - name: Verify Python package installation
+        run: |
+          echo "🔍 Checking installed packages..."
+          pip show undetected-chromedriver || echo "❌ UDC NOT INSTALLED"
+          pip show python-dotenv || echo "❌ python-dotenv NOT INSTALLED"
+          echo "📦 Full package list:"
+          pip list
 
       - name: Run scraper
         run: python scrape_daily_matchups.py
         continue-on-error: true
 
-      - name: Upload CSV
+      - name: Upload CSV (if produced)
         uses: actions/upload-artifact@v4
         with:
-          name: matchups_csv
+          name: daily_matchups_csv
           path: daily_matchups.csv
           if-no-files-found: ignore
 
-      - name: Upload screenshot
+      - name: Upload screenshot (if produced)
         uses: actions/upload-artifact@v4
         with:
-          name: screenshot
+          name: error_screenshot
           path: error_screenshot.png
           if-no-files-found: ignore
