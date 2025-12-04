@@ -9,7 +9,7 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     env:
-      KENPOM_API_KEY: ${{ secrets.KENPOM_API_KEY }}
+      HEADLESS: "true"
       KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
       KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
       TWOCAPTCHA_API_KEY: ${{ secrets.TWOCAPTCHA_API_KEY }}
@@ -31,6 +31,11 @@ jobs:
         with:
           chrome-version: 131
 
+      - name: Install system deps for Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libnss3 libatk1.0-0 libatk-bridge2.0-0 libx11-xcb1 libxcomposite1 libxrandr2 libxss1 libasound2t64
+
       - name: Verify Chrome and ChromeDriver installation
         run: |
           google-chrome --version
@@ -39,11 +44,11 @@ jobs:
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install selenium python-dotenv 2captcha-python
 
-      - name: Run fanmatch scraper
+      - name: Run scraper
         run: |
-          python scrape_fanmatch.py
+          python scrape_daily_matchups.py
         continue-on-error: true
 
       - name: Upload CSV artifact (if produced)
@@ -52,23 +57,8 @@ jobs:
           name: daily_matchups_csv
           path: daily_matchups.csv
 
-      - name: Upload fanmatch HTML artifacts
+      - name: Upload screenshot artifact (if produced)
         uses: actions/upload-artifact@v4
         with:
-          name: fanmatch_html
-          path: kenpom-data/fanmatch-*.html
-          if-no-files-found: ignore
-
-      - name: Upload fanmatch CSV artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: fanmatch_csv
-          path: kenpom-data/fanmatch-*.csv
-          if-no-files-found: ignore
-
-      - name: Upload screenshot artifacts (if produced)
-        uses: actions/upload-artifact@v4
-        with:
-          name: error_screenshots
-          path: error_screenshot*.png
-          if-no-files-found: ignore
+          name: error_screenshot
+          path: error_screenshot.png
