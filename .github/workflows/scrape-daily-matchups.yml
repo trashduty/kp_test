@@ -9,10 +9,7 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     env:
-      HEADLESS: "true"
-      KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
-      KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
-      TWOCAPTCHA_API_KEY: ${{ secrets.TWOCAPTCHA_API_KEY }}
+      KENPOM_API_KEY: ${{ secrets.KENPOM_API_KEY }}
 
     steps:
       - name: Checkout
@@ -23,28 +20,10 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Setup ChromeDriver
-        uses: nanasess/setup-chromedriver@v2
-
-      - name: Setup Chrome and ChromeDriver
-        uses: browser-actions/setup-chrome@v1
-        with:
-          chrome-version: 131
-
-      - name: Install system deps for Chrome
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libnss3 libatk1.0-0 libatk-bridge2.0-0 libx11-xcb1 libxcomposite1 libxrandr2 libxss1 libasound2t64
-
-      - name: Verify Chrome and ChromeDriver installation
-        run: |
-          google-chrome --version
-          chromedriver --version
-
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install selenium python-dotenv 2captcha-python
+          pip install requests python-dotenv
 
       - name: Run scraper
         run: |
