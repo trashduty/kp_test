@@ -5,36 +5,45 @@ import time
 import re
 from datetime import datetime
 from dotenv import load_dotenv
-import undetected_chromedriver as uc
+
+# Selenium imports
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-# ----------------------------
-# Load environment variables
-# ----------------------------
+# Undetected ChromeDriver
+import undetected_chromedriver as uc
+
+# ============================================
+# Load credentials
+# ============================================
 load_dotenv()
 USERNAME = os.getenv("KENPOM_USERNAME")
 PASSWORD = os.getenv("KENPOM_PASSWORD")
 
 if not USERNAME or not PASSWORD:
-    print("❌ Missing KENPOM_USERNAME or KENPOM_PASSWORD.")
+    print("❌ ERROR: Missing KENPOM_USERNAME or KENPOM_PASSWORD in environment.")
     sys.exit(1)
 
-# ----------------------------
-# Helper functions
-# ----------------------------
+# ============================================
+# Helper Functions
+# ============================================
 def clean_team_name(text):
-    """Remove seed numbers from team name."""
+    """Removes seed numbers from team names."""
     return re.sub(r'^\s*\d+\s+', '', text).strip()
 
 def extract_teams_from_matchup(matchup_text):
-    """Split 'Team1 at Team2'."""
+    """Extracts Team1 and Team2 from a string like '9 Louisville at 37 Arkansas'."""
     parts = re.split(r"\s+at\s+", matchup_text, flags=re.IGNORECASE)
-    return (clean_team_name(parts[0]), clean_team_name(parts[1])) if len(parts) == 2 else (matchup_text, "")
+    if len(parts) == 2:
+        return clean_team_name(parts[0]), clean_team_name(parts[1])
+    return matchup_text, ""
 
 def parse_prediction(pred_text, team1, team2):
-    """Parse prediction like: Louisville 84-81 (61%) [73]"""
+    """
+    Parses prediction text: 'Louisville 84-81 (61%) [73]'
+    Returns structured information.
+    """
     parsed = {
         "team1_score": "",
         "team2_score": "",
@@ -47,47 +56,81 @@ def parse_prediction(pred_text, team1, team2):
         return parsed
 
     pattern = r'(.+?)\s+(\d+)-(\d+)\s+\((\d+)%\)\s+\[(\d+)\]'
-    m = re.match(pattern, pred_text)
-    if not m:
+    match = re.match(pattern, pred_text)
+    if not match:
         return parsed
 
-    winner, score_w, score_l, winpct, tempo = m.groups()
+    winner, score_w, score_l, winpct, tempo = match.groups()
     parsed["predicted_winner"] = winner.strip()
     parsed["win_probability"] = winpct
     parsed["tempo"] = tempo
 
-    w = winner.lower().strip()
-    t1 = team1.lower().strip()
-    t2 = team2.lower().strip()
+    winner_l = winner.lower().strip()
+    t1_l = team1.lower().strip()
+    t2_l = team2.lower().strip()
 
-    if w == t1:
+    # Winner = Team1
+    if winner_l == t1_l:
         parsed["team1_score"] = score_w
         parsed["team2_score"] = score_l
-    elif w == t2:
+
+    # Winner = Team2
+    elif winner_l == t2_l:
         parsed["team1_score"] = score_l
         parsed["team2_score"] = score_w
 
     return parsed
 
-# ----------------------------
-# Start Stealth Browser
-# ----------------------------
+# ============================================
+# Launch Cloudflare-Safe Undetected Chrome
+# ============================================
 print("🚀 Launching undetected Chrome...")
 
+chrome_options = uc.ChromeOptions()
+chrome_options.binary_location = "/usr/bin/google-chrome"
+
+# Required GitHub Actions flags
+flags = [
+    "--headless=new",
+    "--no-sandbox",
+    "--disable-dev-shm-usage",
+    "--disable-gpu",
+    "--disable-background-networking",
+    "--disable-breakpad",
+    "--disable-renderer-backgrounding",
+    "--disable-features=TranslateUI",
+    "--disable-features=AutomationControlled",
+    "--disable-client-side-phishing-detection",
+    "--disable-default-apps",
+    "--mute-audio",
+    "--no-first-run",
+    "--no-zygote",
+    "--window-size=1920,1080",
+]
+
+for f in flags:
+    chrome_options.add_argument(f)
+
 driver = uc.Chrome(
-    headless=False,   # MUST be false for Cloudflare
+    options=chrome_options,
     use_subprocess=True
 )
+
 wait = WebDriverWait(driver, 20)
 
-# ----------------------------
+# ============================================
 # LOGIN
-# ----------------------------
+# ============================================
 print("🔍 Navigating to KenPom login page...")
 driver.get("https://kenpom.com/")
 
-# Wait for login fields
-username_field = wait.until(EC.presence_of_element_located((By.NAME, "email")))
+try:
+    username_field = wait.until(EC.presence_of_element_located((By.NAME, "email")))
+except:
+    print("❌ Could not load login form. Cloudflare may still be blocking.")
+    driver.quit()
+    sys.exit(1)
+
 password_field = driver.find_element(By.NAME, "password")
 
 print("🔐 Logging in...")
@@ -97,23 +140,31 @@ password_field.send_keys(PASSWORD)
 driver.find_element(By.XPATH, '//input[@type="submit"]').click()
 time.sleep(3)
 
-# ----------------------------
-# NAVIGATE TO DAILY MATCHUPS
-# ----------------------------
+# ============================================
+# Navigate to Daily Matchups
+# ============================================
 today = datetime.now().strftime("%Y-%m-%d")
 url = f"https://kenpom.com/gameplan.php?d={today}"
 
-print(f"📊 Navigating to daily matchups: {url}")
+print(f"📊 Navigating to Gameplan page: {url}")
 driver.get(url)
 time.sleep(2)
 
-# Wait for table
-wait.until(EC.presence_of_element_located((By.CLASS_NAME, "gameplan")))
+try:
+    wait.until(EC.presence_of_element_located((By.CLASS_NAME, "gameplan")))
+except:
+    print("❌ Matchup table failed to load.")
+    driver.save_screenshot("error_screenshot.png")
+    driver.quit()
+    sys.exit(1)
+
+# ============================================
+# SCRAPE TABLE
+# ============================================
+print("📈 Scraping matchups...")
 
 rows = driver.find_elements(By.CSS_SELECTOR, ".gameplan tr")
 matchups = []
-
-print("📈 Scraping matchups...")
 
 for row in rows[1:]:
     cells = row.find_elements(By.TAG_NAME, "td")
@@ -138,13 +189,13 @@ for row in rows[1:]:
         "Full_Prediction": pred_text
     })
 
-# ----------------------------
+# ============================================
 # SAVE CSV
-# ----------------------------
-output = "daily_matchups.csv"
-print(f"💾 Saving to {output} ...")
+# ============================================
+output_path = "daily_matchups.csv"
+print(f"💾 Saving to {output_path}...")
 
-with open(output, "w", encoding="utf-8") as f:
+with open(output_path, "w", encoding="utf-8") as f:
     f.write("Date,Team1,Team2,Team1_Predicted_Score,Team2_Predicted_Score,Predicted_Winner,Win_Probability,Tempo,Full_Prediction\n")
     for m in matchups:
         f.write(
@@ -153,5 +204,7 @@ with open(output, "w", encoding="utf-8") as f:
             f'"{m["Predicted_Winner"]}",{m["Win_Probability"]},{m["Tempo"]},"{m["Full_Prediction"]}"\n'
         )
 
+print(f"✅ Successfully scraped {len(matchups)} matchups!")
+
 driver.quit()
-print(f"✅ Scraped {len(matchups)} matchups successfully!")
+print("🏁 Done.")
