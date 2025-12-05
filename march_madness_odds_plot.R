@@ -61,7 +61,7 @@ p <- eff_stats_joined %>%
   ggplot(aes(x = `ORtg_rank...7`, y = `DRtg_rank...9`)) +
   # Add solid green vertical line from (57, top) to (57, 44)
   geom_segment(aes(x = 57, xend = 57, y = min(eff_stats$`DRtg_rank...9`), yend = 44), 
-               color = "green", size = 1. 5) +
+               color = "green", size = 1.5) +
   # Add solid green horizontal line from (left, 44) to (57, 44)
   geom_segment(aes(x = min(eff_stats$`ORtg_rank...7`), xend = 57, y = 44, yend = 44), 
                color = "green", size = 1.5) +
@@ -94,9 +94,9 @@ p <- eff_stats_joined %>%
     caption = timestamp
   ) +
   theme(
-    plot.title = element_text(size = 25, face = "bold", hjust = 0. 5),
+    plot.title = element_text(size = 25, face = "bold", hjust = 0.5),
     plot.subtitle = element_text(hjust = 0.5),
-    axis. title = element_text(size = 25),
+    axis.title = element_text(size = 25),
     plot.caption = element_text(size = 10, hjust = 1)
   ) +
   scale_x_reverse(breaks = scales::pretty_breaks(n = 6)) +
