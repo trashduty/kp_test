@@ -1,48 +1,46 @@
 Team,Odds
-Michigan Wolverines,750
+Michigan Wolverines,850
 Purdue Boilermakers,850
-Duke Blue Devils,1000
-UConn Huskies,1200
+UConn Huskies,1100
+Duke Blue Devils,1100
 Gonzaga Bulldogs,1200
-Houston Cougars,1400
+Houston Cougars,1500
 Louisville Cardinals,1600
 Arizona Wildcats,1600
-Florida Gators,2200
-Kentucky Wildcats,2200
-Tennessee Volunteers,2200
-BYU Cougars,2200
-Iowa State Cyclones,2200
+Florida Gators,2000
+Kentucky Wildcats,2500
+Tennessee Volunteers,2500
+Kansas Jayhawks,2500
 Illinois Fighting Illini,2500
 Vanderbilt Commodores,2500
+Michigan St Spartans,2500
 St. John's Red Storm,2500
+BYU Cougars,2500
+Iowa State Cyclones,2500
 Alabama Crimson Tide,2500
-Kansas Jayhawks,3000
-Michigan St Spartans,3000
-Arkansas Razorbacks,3500
-North Carolina Tar Heels,3500
+Arkansas Razorbacks,3000
+North Carolina Tar Heels,3000
 Texas Tech Red Raiders,5000
-NC State Wolfpack,6000
-Baylor Bears,6000
 Iowa Hawkeyes,8000
 Wisconsin Badgers,8000
 UCLA Bruins,8000
 Indiana Hoosiers,8000
 Auburn Tigers,8000
+NC State Wolfpack,8000
 USC Trojans,8000
+Baylor Bears,8000
 Ohio State Buckeyes,10000
 Oregon Ducks,10000
 Missouri Tigers,10000
-Ole Miss Rebels,10000
 Creighton Bluejays,10000
 Virginia Cavaliers,10000
-Syracuse Orange,15000
 Miami Hurricanes,15000
-Washington Huskies,15000
+Ole Miss Rebels,15000
 Georgia Bulldogs,15000
 Saint Mary's Gaels,15000
 Texas A&M Aggies,15000
-Virginia Tech Hokies,15000
 Wake Forest Demon Deacons,15000
+Syracuse Orange,17500
 Kansas St Wildcats,20000
 LSU Tigers,20000
 Butler Bulldogs,20000
@@ -52,6 +50,7 @@ Memphis Tigers,20000
 Notre Dame Fighting Irish,20000
 Nebraska Cornhuskers,20000
 SMU Mustangs,20000
+Washington Huskies,20000
 San Diego St Aztecs,20000
 West Virginia Mountaineers,20000
 Mississippi St Bulldogs,20000
@@ -59,8 +58,8 @@ Cincinnati Bearcats,20000
 Villanova Wildcats,20000
 Texas Longhorns,20000
 Oklahoma St Cowboys,20000
+Virginia Tech Hokies,20000
 Maryland Terrapins,20000
-Florida St Seminoles,22500
 TCU Horned Frogs,30000
 Georgetown Hoyas,30000
 Pittsburgh Panthers,30000
@@ -71,6 +70,7 @@ Stanford Cardinal,30000
 Penn State Nittany Lions,30000
 Oklahoma Sooners,30000
 UCF Knights,30000
+Florida St Seminoles,30000
 Santa Clara Broncos,30000
 Colorado Buffaloes,30000
 Dayton Flyers,30000
@@ -100,5 +100,4 @@ Boston College Eagles,50000
 UC San Diego Tritons,50000
 San Francisco Dons,50000
 UAB Blazers,50000
-Liberty Flames,50000
 UC Irvine Anteaters,50000
