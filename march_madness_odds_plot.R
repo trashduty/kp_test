@@ -43,7 +43,7 @@ championship_odds <- championship_odds %>%
 # Join datasets and filter for updated criteria
 # Use the correct column names with suffixes
 eff_stats_joined <- eff_stats %>% 
-  filter(`ORtg_rank... 7` < 68, `DRtg_rank...9` < 55) %>%
+  filter(`ORtg_rank...7` < 68, `DRtg_rank...9` < 55) %>%
   left_join(ncaa_teams, by = c("Team" = "current_team")) %>%
   left_join(championship_odds, by = c("Team" = "kenpom"))
 
