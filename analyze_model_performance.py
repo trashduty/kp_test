@@ -175,7 +175,7 @@ def get_last_game_date(df):
             # Try to convert to datetime
             try:
                 dates = pd.to_datetime(dates)
-            except:
+            except (ValueError, TypeError):
                 # If conversion fails, use string comparison
                 max_date = str(dates.max())
                 # Try to extract just the date portion if it's a datetime string
