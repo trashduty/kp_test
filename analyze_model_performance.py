@@ -136,6 +136,69 @@ def format_win_loss_pct(wins, losses):
     return f"{wins}-{losses} ({pct:.1f}%)"
 
 
+def get_last_game_date(df):
+    """
+    Extract the most recent game date from the dataframe
+    
+    Args:
+        df: pandas DataFrame with game data
+    
+    Returns:
+        str: Formatted date string (YYYY-MM-DD) or fallback message
+    """
+    # Handle empty dataframe
+    if df is None or len(df) == 0:
+        return "No games"
+    
+    # Check if date column exists
+    date_columns = ['date', 'game_date', 'Date', 'GameDate']
+    date_col = None
+    
+    for col in date_columns:
+        if col in df.columns:
+            date_col = col
+            break
+    
+    # If no date column found
+    if date_col is None:
+        return "Unknown"
+    
+    try:
+        # Get non-null dates
+        dates = df[date_col].dropna()
+        
+        if len(dates) == 0:
+            return "No games"
+        
+        # Try to parse as datetime if needed
+        if dates.dtype == 'object':
+            # Try to convert to datetime
+            try:
+                dates = pd.to_datetime(dates)
+            except:
+                # If conversion fails, use string comparison
+                max_date = str(dates.max())
+                # Try to extract just the date portion if it's a datetime string
+                if ' ' in max_date:
+                    max_date = max_date.split(' ')[0]
+                return max_date
+        
+        # Get the maximum date
+        max_date = dates.max()
+        
+        # Format the date
+        if isinstance(max_date, str):
+            return max_date
+        elif hasattr(max_date, 'strftime'):
+            return max_date.strftime('%Y-%m-%d')
+        else:
+            return str(max_date)
+            
+    except Exception as e:
+        logger.warning(f"[yellow]⚠[/yellow] Error extracting last game date: {e}")
+        return "Unknown"
+
+
 def print_section_header(title):
     """
     Print a formatted section header
@@ -674,7 +737,7 @@ def collect_moneyline_performance_by_win_probability_high_edge(df, consensus_onl
     return results
 
 
-def generate_plain_text_output(analysis_data, timestamp):
+def generate_plain_text_output(analysis_data, timestamp, last_game_date):
     """
     Generate plain text output from analysis data
     """
@@ -682,6 +745,7 @@ def generate_plain_text_output(analysis_data, timestamp):
     lines.append("=" * 80)
     lines.append("Model Performance Analysis Report")
     lines.append(f"Generated: {timestamp}")
+    lines.append(f"Last Game Included: {last_game_date}")
     lines.append("This report shows the model's record against the opening lines for spreads, totals, and moneylines.")
     lines.append("=" * 80)
     lines.append("")
@@ -835,7 +899,7 @@ def escape_html(value):
     return html.escape(str(value))
 
 
-def generate_html_output(analysis_data, timestamp):
+def generate_html_output(analysis_data, timestamp, last_game_date):
     """
     Generate HTML output from analysis data
     """
@@ -990,6 +1054,7 @@ def generate_html_output(analysis_data, timestamp):
         <header>
             <h1>Model Performance Analysis Report</h1>
             <p class="timestamp">Generated: {escape_html(timestamp)}</p>
+            <p class="timestamp">Last Game Included: {escape_html(last_game_date)}</p>
             <p class="disclaimer">This report shows the model's record against the opening lines for spreads, totals, and moneylines.</p>
         </header>
 
@@ -1297,7 +1362,7 @@ def generate_html_output(analysis_data, timestamp):
     return html
 
 
-def save_output_files(analysis_data, timestamp):
+def save_output_files(analysis_data, timestamp, last_game_date):
     """
     Save analysis output to text and HTML files
     """
@@ -1305,13 +1370,13 @@ def save_output_files(analysis_data, timestamp):
     os.makedirs(DOCS_DIR, exist_ok=True)
     
     # Generate and save plain text output
-    text_output = generate_plain_text_output(analysis_data, timestamp)
+    text_output = generate_plain_text_output(analysis_data, timestamp, last_game_date)
     with open(TEXT_OUTPUT_FILE, 'w', encoding='utf-8') as f:
         f.write(text_output)
     logger.info(f"[green]✓[/green] Saved plain text output to {TEXT_OUTPUT_FILE}")
     
     # Generate and save HTML output
-    html_output = generate_html_output(analysis_data, timestamp)
+    html_output = generate_html_output(analysis_data, timestamp, last_game_date)
     with open(HTML_OUTPUT_FILE, 'w', encoding='utf-8') as f:
         f.write(html_output)
     logger.info(f"[green]✓[/green] Saved HTML output to {HTML_OUTPUT_FILE}")
@@ -1332,6 +1397,10 @@ def main():
         if df is None:
             logger.error("[red]✗[/red] Failed to fetch graded_results.csv")
             sys.exit(1)
+        
+        # Extract last game date
+        last_game_date = get_last_game_date(df)
+        logger.info(f"[cyan]Last Game Included: {last_game_date}[/cyan]")
         
         # Run all analyses (console output)
         analyze_spread_performance_by_edge(df, consensus_only=False)
@@ -1361,7 +1430,7 @@ def main():
         }
         
         # Save output files
-        save_output_files(analysis_data, timestamp)
+        save_output_files(analysis_data, timestamp, last_game_date)
         
         console.print("\n[bold cyan]" + "=" * 80 + "[/bold cyan]")
         console.print("[bold green]Analysis Complete![/bold green]")
