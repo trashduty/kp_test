@@ -1,9 +1,19 @@
 ================================================================================
 Model Performance Analysis Report
-Generated: 2025-12-11 05:12:48 UTC
+Generated: 2025-12-11 05:46:58 UTC
 Last Game Included: 2025-12-09
 This report shows the model's record against the opening lines for spreads, totals, and moneylines.
 ================================================================================
+
+================================================================================
+Data Summary
+================================================================================
+
+Total games in dataset: 800
+Date range: 2025-11-13 to 2025-12-09
+Games with spread data: 790 (98.8%)
+Games with totals data: 786 (98.2%)
+Games with moneyline data: 764 (95.5%)
 
 ================================================================================
 1. Model Spread Performance by Edge (All Games)
