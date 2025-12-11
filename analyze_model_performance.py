@@ -175,7 +175,7 @@ def get_last_game_date(df):
             # Try to convert to datetime
             try:
                 dates = pd.to_datetime(dates)
-            except (ValueError, TypeError):
+            except:
                 # If conversion fails, use string comparison
                 max_date = str(dates.max())
                 # Try to extract just the date portion if it's a datetime string
@@ -199,125 +199,6 @@ def get_last_game_date(df):
         return "Unknown"
 
 
-def get_first_game_date(df):
-    """
-    Extract the earliest game date from the dataframe
-    
-    Args:
-        df: pandas DataFrame with game data
-    
-    Returns:
-        str: Formatted date string (YYYY-MM-DD) or fallback message
-    """
-    # Handle empty dataframe
-    if df is None or len(df) == 0:
-        return "No games"
-    
-    # Check if date column exists
-    date_columns = ['date', 'game_date', 'Date', 'GameDate']
-    date_col = None
-    
-    for col in date_columns:
-        if col in df.columns:
-            date_col = col
-            break
-    
-    # If no date column found
-    if date_col is None:
-        return "Unknown"
-    
-    try:
-        # Get non-null dates
-        dates = df[date_col].dropna()
-        
-        if len(dates) == 0:
-            return "No games"
-        
-        # Try to parse as datetime if needed
-        if dates.dtype == 'object':
-            # Try to convert to datetime
-            try:
-                dates = pd.to_datetime(dates)
-            except (ValueError, TypeError):
-                # If conversion fails, use string comparison
-                min_date = str(dates.min())
-                # Try to extract just the date portion if it's a datetime string
-                if ' ' in min_date:
-                    min_date = min_date.split(' ')[0]
-                return min_date
-        
-        # Get the minimum date
-        min_date = dates.min()
-        
-        # Format the date
-        if isinstance(min_date, str):
-            return min_date
-        elif hasattr(min_date, 'strftime'):
-            return min_date.strftime('%Y-%m-%d')
-        else:
-            return str(min_date)
-            
-    except Exception as e:
-        logger.warning(f"[yellow]⚠[/yellow] Error extracting first game date: {e}")
-        return "Unknown"
-
-
-def calculate_data_completeness(df):
-    """
-    Calculate data completeness statistics for the dataset
-    
-    Args:
-        df: pandas DataFrame with game data
-    
-    Returns:
-        dict: Data completeness statistics
-    """
-    total_games = len(df)
-    
-    # Check spread data completeness
-    spread_columns = ['spread_covered', 'spread_edge', 'opening_spread']
-    spread_complete = df[spread_columns].notna().all(axis=1).sum()
-    
-    # Check totals data completeness
-    totals_columns = ['over_hit', 'under_hit', 'over_cover_probability', 'under_cover_probability']
-    totals_complete = df[totals_columns].notna().all(axis=1).sum()
-    
-    # Check moneyline data completeness
-    moneyline_columns = ['moneyline_won', 'moneyline_win_probability']
-    moneyline_complete = df[moneyline_columns].notna().all(axis=1).sum()
-    
-    return {
-        'total_games': total_games,
-        'spread_complete': spread_complete,
-        'spread_pct': (spread_complete / total_games * 100) if total_games > 0 else 0,
-        'totals_complete': totals_complete,
-        'totals_pct': (totals_complete / total_games * 100) if total_games > 0 else 0,
-        'moneyline_complete': moneyline_complete,
-        'moneyline_pct': (moneyline_complete / total_games * 100) if total_games > 0 else 0
-    }
-
-
-def display_data_summary(df, first_date, last_date):
-    """
-    Display data summary and completeness report
-    
-    Args:
-        df: pandas DataFrame with game data
-        first_date: First game date string
-        last_date: Last game date string
-    """
-    print_section_header("Data Summary")
-    
-    completeness = calculate_data_completeness(df)
-    
-    console.print(f"[bold]Total games in dataset:[/bold] {completeness['total_games']:,}")
-    console.print(f"[bold]Date range:[/bold] {first_date} to {last_date}")
-    console.print(f"[bold]Games with spread data:[/bold] {completeness['spread_complete']:,} ({completeness['spread_pct']:.1f}%)")
-    console.print(f"[bold]Games with totals data:[/bold] {completeness['totals_complete']:,} ({completeness['totals_pct']:.1f}%)")
-    console.print(f"[bold]Games with moneyline data:[/bold] {completeness['moneyline_complete']:,} ({completeness['moneyline_pct']:.1f}%)")
-    console.print("")
-
-
 def print_section_header(title):
     """
     Print a formatted section header
@@ -334,17 +215,12 @@ def analyze_spread_performance_by_edge(df, consensus_only=False):
     title = "2. Model Spread Performance by Edge (Consensus Only)" if consensus_only else "1. Model Spread Performance by Edge (All Games)"
     print_section_header(title)
     
-    # Log initial data
-    logger.info(f"Total games in dataset: {len(df)}")
-    
     # Remove rows with NaN values
     data = df.dropna(subset=['spread_covered', 'spread_edge']).copy()
-    logger.info(f"After NaN removal (spread_covered, spread_edge): {len(data)}")
     
     # Filter for consensus if needed
     if consensus_only:
         data = data[data['spread_consensus_flag'] == 1].copy()
-        logger.info(f"After consensus filter: {len(data)}")
     
     # Define edge tiers (edges are in decimal format, e.g., 0.025 = 2.5%)
     tiers = [
@@ -361,18 +237,9 @@ def analyze_spread_performance_by_edge(df, consensus_only=False):
     
     for min_edge, max_edge, label in tiers:
         tier_data = data[(data['spread_edge'] >= min_edge) & (data['spread_edge'] < max_edge)]
-        
-        # Use explicit float comparison and validation
-        wins = tier_data['spread_covered'].eq(1.0).sum()
-        losses = tier_data['spread_covered'].eq(0.0).sum()
-        nan_count = tier_data['spread_covered'].isna().sum()
+        wins = (tier_data['spread_covered'] == 1).sum()
+        losses = (tier_data['spread_covered'] == 0).sum()
         total = wins + losses
-        
-        if nan_count > 0:
-            logger.warning(f"Found {nan_count} games with NaN spread_covered in tier {label}")
-        
-        if total != len(tier_data):
-            logger.warning(f"WARNING: {len(tier_data) - total} games with missing spread_covered data in tier {label}!")
         
         if total > 0:
             win_pct = (wins / total) * 100
@@ -389,15 +256,9 @@ def analyze_spread_performance_by_point_spread(df):
     """
     print_section_header("3. Model Spread Performance by Point Spread Ranges")
     
-    # Log initial data
-    logger.info(f"Total games: {len(df)}")
-    
     # Filter for games where spread_cover_probability > 0.5 and remove NaN values
     confident_picks = df.dropna(subset=['spread_cover_probability', 'spread_covered', 'opening_spread']).copy()
-    logger.info(f"After NaN removal: {len(confident_picks)}")
-    
     confident_picks = confident_picks[confident_picks['spread_cover_probability'] > 0.5].copy()
-    logger.info(f"Games with spread_cover_probability > 0.5: {len(confident_picks)}")
     
     # Define spread ranges
     ranges = [
@@ -414,7 +275,6 @@ def analyze_spread_performance_by_point_spread(df):
     console.print("[bold]Favorites (opening_spread < 0):[/bold]\n")
     favorites = confident_picks[confident_picks['opening_spread'] < 0].copy()
     favorites['abs_spread'] = abs(favorites['opening_spread'])
-    logger.info(f"Favorites: {len(favorites)}")
     
     fav_table = Table(show_header=True, header_style="bold cyan")
     fav_table.add_column("Point Spread Range", style="yellow")
@@ -423,15 +283,9 @@ def analyze_spread_performance_by_point_spread(df):
     
     for min_spread, max_spread, label in ranges:
         range_data = favorites[(favorites['abs_spread'] >= min_spread) & (favorites['abs_spread'] <= max_spread)]
-        
-        # Use explicit float comparison and validation
-        wins = range_data['spread_covered'].eq(1.0).sum()
-        losses = range_data['spread_covered'].eq(0.0).sum()
-        nan_count = range_data['spread_covered'].isna().sum()
+        wins = (range_data['spread_covered'] == 1).sum()
+        losses = (range_data['spread_covered'] == 0).sum()
         total = wins + losses
-        
-        if nan_count > 0:
-            logger.warning(f"Found {nan_count} games with NaN spread_covered in favorites range {label}")
         
         if total > 0:
             win_pct = (wins / total) * 100
@@ -444,7 +298,6 @@ def analyze_spread_performance_by_point_spread(df):
     # Analyze Underdogs (opening_spread > 0)
     console.print("\n[bold]Underdogs (opening_spread > 0):[/bold]\n")
     underdogs = confident_picks[confident_picks['opening_spread'] > 0].copy()
-    logger.info(f"Underdogs: {len(underdogs)}")
     
     dog_table = Table(show_header=True, header_style="bold cyan")
     dog_table.add_column("Point Spread Range", style="yellow")
@@ -453,15 +306,9 @@ def analyze_spread_performance_by_point_spread(df):
     
     for min_spread, max_spread, label in ranges:
         range_data = underdogs[(underdogs['opening_spread'] >= min_spread) & (underdogs['opening_spread'] <= max_spread)]
-        
-        # Use explicit float comparison and validation
-        wins = range_data['spread_covered'].eq(1.0).sum()
-        losses = range_data['spread_covered'].eq(0.0).sum()
-        nan_count = range_data['spread_covered'].isna().sum()
+        wins = (range_data['spread_covered'] == 1).sum()
+        losses = (range_data['spread_covered'] == 0).sum()
         total = wins + losses
-        
-        if nan_count > 0:
-            logger.warning(f"Found {nan_count} games with NaN spread_covered in underdogs range {label}")
         
         if total > 0:
             win_pct = (wins / total) * 100
@@ -492,11 +339,8 @@ def analyze_over_under_performance_by_edge(df, consensus_only=False):
     
     # Remove NaN values
     over_data = df.dropna(subset=['over_hit', 'over_edge']).copy()
-    logger.info(f"Total games: {len(df)}, After NaN removal (over_hit, over_edge): {len(over_data)}")
-    
     if consensus_only:
         over_data = over_data[over_data['over_consensus_flag'] == 1].copy()
-        logger.info(f"After consensus filter: {len(over_data)}")
     
     over_table = Table(show_header=True, header_style="bold cyan")
     over_table.add_column("Edge Tier", style="yellow")
@@ -505,18 +349,9 @@ def analyze_over_under_performance_by_edge(df, consensus_only=False):
     
     for min_edge, max_edge, label in tiers:
         tier_data = over_data[(over_data['over_edge'] >= min_edge) & (over_data['over_edge'] < max_edge)]
-        
-        # Use explicit float comparison and validation
-        wins = tier_data['over_hit'].eq(1.0).sum()
-        losses = tier_data['over_hit'].eq(0.0).sum()
-        nan_count = tier_data['over_hit'].isna().sum()
+        wins = (tier_data['over_hit'] == 1).sum()
+        losses = (tier_data['over_hit'] == 0).sum()
         total = wins + losses
-        
-        if nan_count > 0:
-            logger.warning(f"Found {nan_count} games with NaN over_hit in tier {label}")
-        
-        if total != len(tier_data):
-            logger.warning(f"WARNING: {len(tier_data) - total} games with missing over_hit data in tier {label}!")
         
         if total > 0:
             win_pct = (wins / total) * 100
@@ -531,11 +366,8 @@ def analyze_over_under_performance_by_edge(df, consensus_only=False):
     
     # Remove NaN values
     under_data = df.dropna(subset=['under_hit', 'under_edge']).copy()
-    logger.info(f"Total games: {len(df)}, After NaN removal (under_hit, under_edge): {len(under_data)}")
-    
     if consensus_only:
         under_data = under_data[under_data['under_consensus_flag'] == 1].copy()
-        logger.info(f"After consensus filter: {len(under_data)}")
     
     under_table = Table(show_header=True, header_style="bold cyan")
     under_table.add_column("Edge Tier", style="yellow")
@@ -544,18 +376,9 @@ def analyze_over_under_performance_by_edge(df, consensus_only=False):
     
     for min_edge, max_edge, label in tiers:
         tier_data = under_data[(under_data['under_edge'] >= min_edge) & (under_data['under_edge'] < max_edge)]
-        
-        # Use explicit float comparison and validation
-        wins = tier_data['under_hit'].eq(1.0).sum()
-        losses = tier_data['under_hit'].eq(0.0).sum()
-        nan_count = tier_data['under_hit'].isna().sum()
+        wins = (tier_data['under_hit'] == 1).sum()
+        losses = (tier_data['under_hit'] == 0).sum()
         total = wins + losses
-        
-        if nan_count > 0:
-            logger.warning(f"Found {nan_count} games with NaN under_hit in tier {label}")
-        
-        if total != len(tier_data):
-            logger.warning(f"WARNING: {len(tier_data) - total} games with missing under_hit data in tier {label}!")
         
         if total > 0:
             win_pct = (wins / total) * 100
@@ -572,44 +395,18 @@ def analyze_overall_model_totals_record(df):
     """
     print_section_header("6. Overall Model Totals Record")
     
-    # Log initial data
-    logger.info(f"Total games: {len(df)}")
-    
     # Remove rows with NaN values and filter for confident picks
     df_clean = df.dropna(subset=['over_cover_probability', 'under_cover_probability', 'over_hit', 'under_hit'])
-    logger.info(f"After NaN removal: {len(df_clean)}")
     
     # Overs where over_cover_probability > 0.5
     confident_overs = df_clean[df_clean['over_cover_probability'] > 0.5].copy()
-    logger.info(f"Games with over_cover_probability > 0.5: {len(confident_overs)}")
-    
-    # Use explicit float comparison and validation
-    over_wins = confident_overs['over_hit'].eq(1.0).sum()
-    over_losses = confident_overs['over_hit'].eq(0.0).sum()
-    over_nan = confident_overs['over_hit'].isna().sum()
-    over_total_counted = over_wins + over_losses
-    
-    if over_nan > 0:
-        logger.warning(f"Found {over_nan} games with NaN over_hit values")
-    
-    if over_total_counted != len(confident_overs):
-        logger.warning(f"WARNING: {len(confident_overs) - over_total_counted} games with missing over_hit data!")
+    over_wins = (confident_overs['over_hit'] == 1).sum()
+    over_losses = (confident_overs['over_hit'] == 0).sum()
     
     # Unders where under_cover_probability > 0.5
     confident_unders = df_clean[df_clean['under_cover_probability'] > 0.5].copy()
-    logger.info(f"Games with under_cover_probability > 0.5: {len(confident_unders)}")
-    
-    # Use explicit float comparison and validation
-    under_wins = confident_unders['under_hit'].eq(1.0).sum()
-    under_losses = confident_unders['under_hit'].eq(0.0).sum()
-    under_nan = confident_unders['under_hit'].isna().sum()
-    under_total_counted = under_wins + under_losses
-    
-    if under_nan > 0:
-        logger.warning(f"Found {under_nan} games with NaN under_hit values")
-    
-    if under_total_counted != len(confident_unders):
-        logger.warning(f"WARNING: {len(confident_unders) - under_total_counted} games with missing under_hit data!")
+    under_wins = (confident_unders['under_hit'] == 1).sum()
+    under_losses = (confident_unders['under_hit'] == 0).sum()
     
     console.print(f"[bold]Overs (over_cover_probability > 0.5):[/bold] {format_win_loss_pct(over_wins, over_losses)}")
     console.print(f"[bold]Unders (under_cover_probability > 0.5):[/bold] {format_win_loss_pct(under_wins, under_losses)}")
@@ -622,18 +419,11 @@ def analyze_moneyline_performance_by_probability(df, consensus_only=False):
     title = "8. Moneyline Performance by Win Probability (Consensus Only)" if consensus_only else "7. Moneyline Performance by Win Probability (All Games)"
     print_section_header(title)
     
-    # Log initial data
-    logger.info(f"Total games in dataset: {len(df)}")
-    
     # Filter for consensus if needed
     data = df[df['moneyline_consensus_flag'] == 1].copy() if consensus_only else df.copy()
     
     # Remove rows with NaN moneyline_win_probability
     data = data.dropna(subset=['moneyline_win_probability'])
-    logger.info(f"After NaN removal (moneyline_win_probability): {len(data)}")
-    
-    if consensus_only:
-        logger.info(f"After consensus filter: {len(data)}")
     
     # Define probability tiers
     tiers = [
@@ -655,18 +445,9 @@ def analyze_moneyline_performance_by_probability(df, consensus_only=False):
     
     for min_prob, max_prob, label in tiers:
         tier_data = data[(data['moneyline_win_probability'] >= min_prob) & (data['moneyline_win_probability'] <= max_prob)]
-        
-        # Use explicit float comparison and validation
-        wins = tier_data['moneyline_won'].eq(1.0).sum()
-        losses = tier_data['moneyline_won'].eq(0.0).sum()
-        nan_count = tier_data['moneyline_won'].isna().sum()
+        wins = (tier_data['moneyline_won'] == 1).sum()
+        losses = (tier_data['moneyline_won'] == 0).sum()
         total = wins + losses
-        
-        if nan_count > 0:
-            logger.warning(f"Found {nan_count} games with NaN moneyline_won in tier {label}")
-        
-        if total != len(tier_data):
-            logger.warning(f"WARNING: {len(tier_data) - total} games with missing moneyline_won data in tier {label}!")
         
         if total > 0:
             win_pct = (wins / total) * 100
@@ -684,20 +465,13 @@ def analyze_moneyline_performance_by_win_probability_high_edge(df, consensus_onl
     title = "10. Moneyline Performance by Win Probability (4%+ Edge, Consensus Only)" if consensus_only else "9. Moneyline Performance by Win Probability (4%+ Edge)"
     print_section_header(title)
     
-    # Log initial data
-    logger.info(f"Total games: {len(df)}")
-    
     # Filter for moneyline edge >= 4% (0.04)
     data = df.dropna(subset=['moneyline_edge', 'moneyline_won', 'moneyline_win_probability']).copy()
-    logger.info(f"After NaN removal: {len(data)}")
-    
     data = data[data['moneyline_edge'] >= 0.04].copy()
-    logger.info(f"Games with moneyline_edge >= 4%: {len(data)}")
     
     # Filter for consensus if needed
     if consensus_only:
         data = data[data['moneyline_consensus_flag'] == 1].copy()
-        logger.info(f"After consensus filter: {len(data)}")
     
     # Define probability tiers (same as Section 8)
     tiers = [
@@ -719,18 +493,9 @@ def analyze_moneyline_performance_by_win_probability_high_edge(df, consensus_onl
     
     for min_prob, max_prob, label in tiers:
         tier_data = data[(data['moneyline_win_probability'] >= min_prob) & (data['moneyline_win_probability'] <= max_prob)]
-        
-        # Use explicit float comparison and validation
-        wins = tier_data['moneyline_won'].eq(1.0).sum()
-        losses = tier_data['moneyline_won'].eq(0.0).sum()
-        nan_count = tier_data['moneyline_won'].isna().sum()
+        wins = (tier_data['moneyline_won'] == 1).sum()
+        losses = (tier_data['moneyline_won'] == 0).sum()
         total = wins + losses
-        
-        if nan_count > 0:
-            logger.warning(f"Found {nan_count} games with NaN moneyline_won in tier {label}")
-        
-        if total != len(tier_data):
-            logger.warning(f"WARNING: {len(tier_data) - total} games with missing moneyline_won data in tier {label}!")
         
         if total > 0:
             win_pct = (wins / total) * 100
@@ -760,10 +525,8 @@ def collect_spread_performance_by_edge(df, consensus_only=False):
     results = []
     for min_edge, max_edge, label in tiers:
         tier_data = data[(data['spread_edge'] >= min_edge) & (data['spread_edge'] < max_edge)]
-        
-        # Use explicit float comparison
-        wins = tier_data['spread_covered'].eq(1.0).sum()
-        losses = tier_data['spread_covered'].eq(0.0).sum()
+        wins = (tier_data['spread_covered'] == 1).sum()
+        losses = (tier_data['spread_covered'] == 0).sum()
         total = wins + losses
         
         if total > 0:
@@ -799,10 +562,8 @@ def collect_spread_performance_by_point_spread(df):
     fav_results = []
     for min_spread, max_spread, label in ranges:
         range_data = favorites[(favorites['abs_spread'] >= min_spread) & (favorites['abs_spread'] <= max_spread)]
-        
-        # Use explicit float comparison
-        wins = range_data['spread_covered'].eq(1.0).sum()
-        losses = range_data['spread_covered'].eq(0.0).sum()
+        wins = (range_data['spread_covered'] == 1).sum()
+        losses = (range_data['spread_covered'] == 0).sum()
         total = wins + losses
         
         if total > 0:
@@ -817,10 +578,8 @@ def collect_spread_performance_by_point_spread(df):
     dog_results = []
     for min_spread, max_spread, label in ranges:
         range_data = underdogs[(underdogs['opening_spread'] >= min_spread) & (underdogs['opening_spread'] <= max_spread)]
-        
-        # Use explicit float comparison
-        wins = range_data['spread_covered'].eq(1.0).sum()
-        losses = range_data['spread_covered'].eq(0.0).sum()
+        wins = (range_data['spread_covered'] == 1).sum()
+        losses = (range_data['spread_covered'] == 0).sum()
         total = wins + losses
         
         if total > 0:
@@ -851,10 +610,8 @@ def collect_over_under_performance_by_edge(df, consensus_only=False):
     over_results = []
     for min_edge, max_edge, label in tiers:
         tier_data = over_data[(over_data['over_edge'] >= min_edge) & (over_data['over_edge'] < max_edge)]
-        
-        # Use explicit float comparison
-        wins = tier_data['over_hit'].eq(1.0).sum()
-        losses = tier_data['over_hit'].eq(0.0).sum()
+        wins = (tier_data['over_hit'] == 1).sum()
+        losses = (tier_data['over_hit'] == 0).sum()
         total = wins + losses
         
         if total > 0:
@@ -871,10 +628,8 @@ def collect_over_under_performance_by_edge(df, consensus_only=False):
     under_results = []
     for min_edge, max_edge, label in tiers:
         tier_data = under_data[(under_data['under_edge'] >= min_edge) & (under_data['under_edge'] < max_edge)]
-        
-        # Use explicit float comparison
-        wins = tier_data['under_hit'].eq(1.0).sum()
-        losses = tier_data['under_hit'].eq(0.0).sum()
+        wins = (tier_data['under_hit'] == 1).sum()
+        losses = (tier_data['under_hit'] == 0).sum()
         total = wins + losses
         
         if total > 0:
@@ -893,14 +648,12 @@ def collect_overall_model_totals_record(df):
     df_clean = df.dropna(subset=['over_cover_probability', 'under_cover_probability', 'over_hit', 'under_hit'])
     
     confident_overs = df_clean[df_clean['over_cover_probability'] > 0.5].copy()
-    # Use explicit float comparison
-    over_wins = confident_overs['over_hit'].eq(1.0).sum()
-    over_losses = confident_overs['over_hit'].eq(0.0).sum()
+    over_wins = (confident_overs['over_hit'] == 1).sum()
+    over_losses = (confident_overs['over_hit'] == 0).sum()
     
     confident_unders = df_clean[df_clean['under_cover_probability'] > 0.5].copy()
-    # Use explicit float comparison
-    under_wins = confident_unders['under_hit'].eq(1.0).sum()
-    under_losses = confident_unders['under_hit'].eq(0.0).sum()
+    under_wins = (confident_unders['under_hit'] == 1).sum()
+    under_losses = (confident_unders['under_hit'] == 0).sum()
     
     return {
         'overs': {'wins': over_wins, 'losses': over_losses, 'record': format_win_loss_pct(over_wins, over_losses)},
@@ -930,10 +683,8 @@ def collect_moneyline_performance_by_probability(df, consensus_only=False):
     results = []
     for min_prob, max_prob, label in tiers:
         tier_data = data[(data['moneyline_win_probability'] >= min_prob) & (data['moneyline_win_probability'] <= max_prob)]
-        
-        # Use explicit float comparison
-        wins = tier_data['moneyline_won'].eq(1.0).sum()
-        losses = tier_data['moneyline_won'].eq(0.0).sum()
+        wins = (tier_data['moneyline_won'] == 1).sum()
+        losses = (tier_data['moneyline_won'] == 0).sum()
         total = wins + losses
         
         if total > 0:
@@ -973,10 +724,8 @@ def collect_moneyline_performance_by_win_probability_high_edge(df, consensus_onl
     results = []
     for min_prob, max_prob, label in tiers:
         tier_data = data[(data['moneyline_win_probability'] >= min_prob) & (data['moneyline_win_probability'] <= max_prob)]
-        
-        # Use explicit float comparison
-        wins = tier_data['moneyline_won'].eq(1.0).sum()
-        losses = tier_data['moneyline_won'].eq(0.0).sum()
+        wins = (tier_data['moneyline_won'] == 1).sum()
+        losses = (tier_data['moneyline_won'] == 0).sum()
         total = wins + losses
         
         if total > 0:
@@ -988,7 +737,7 @@ def collect_moneyline_performance_by_win_probability_high_edge(df, consensus_onl
     return results
 
 
-def generate_plain_text_output(analysis_data, timestamp, last_game_date, data_summary):
+def generate_plain_text_output(analysis_data, timestamp, last_game_date):
     """
     Generate plain text output from analysis data
     """
@@ -999,18 +748,6 @@ def generate_plain_text_output(analysis_data, timestamp, last_game_date, data_su
     lines.append(f"Last Game Included: {last_game_date}")
     lines.append("This report shows the model's record against the opening lines for spreads, totals, and moneylines.")
     lines.append("=" * 80)
-    lines.append("")
-    
-    # Add data summary
-    lines.append("=" * 80)
-    lines.append("Data Summary")
-    lines.append("=" * 80)
-    lines.append("")
-    lines.append(f"Total games in dataset: {data_summary['total_games']:,}")
-    lines.append(f"Date range: {data_summary['first_date']} to {data_summary['last_date']}")
-    lines.append(f"Games with spread data: {data_summary['spread_complete']:,} ({data_summary['spread_pct']:.1f}%)")
-    lines.append(f"Games with totals data: {data_summary['totals_complete']:,} ({data_summary['totals_pct']:.1f}%)")
-    lines.append(f"Games with moneyline data: {data_summary['moneyline_complete']:,} ({data_summary['moneyline_pct']:.1f}%)")
     lines.append("")
     
     # Section 1: Model Spread Performance by Edge (All Games)
@@ -1162,7 +899,7 @@ def escape_html(value):
     return html.escape(str(value))
 
 
-def generate_html_output(analysis_data, timestamp, last_game_date, data_summary):
+def generate_html_output(analysis_data, timestamp, last_game_date):
     """
     Generate HTML output from analysis data
     """
@@ -1320,30 +1057,6 @@ def generate_html_output(analysis_data, timestamp, last_game_date, data_summary)
             <p class="timestamp">Last Game Included: {escape_html(last_game_date)}</p>
             <p class="disclaimer">This report shows the model's record against the opening lines for spreads, totals, and moneylines.</p>
         </header>
-
-        <section>
-            <h2>Data Summary</h2>
-            <div class="summary-item">
-                <span class="summary-label">Total games in dataset:</span>
-                <span class="summary-value">{escape_html(f"{data_summary['total_games']:,}")}</span>
-            </div>
-            <div class="summary-item">
-                <span class="summary-label">Date range:</span>
-                <span class="summary-value">{escape_html(f"{data_summary['first_date']} to {data_summary['last_date']}")}</span>
-            </div>
-            <div class="summary-item">
-                <span class="summary-label">Games with spread data:</span>
-                <span class="summary-value">{escape_html(f"{data_summary['spread_complete']:,} ({data_summary['spread_pct']:.1f}%)")}</span>
-            </div>
-            <div class="summary-item">
-                <span class="summary-label">Games with totals data:</span>
-                <span class="summary-value">{escape_html(f"{data_summary['totals_complete']:,} ({data_summary['totals_pct']:.1f}%)")}</span>
-            </div>
-            <div class="summary-item">
-                <span class="summary-label">Games with moneyline data:</span>
-                <span class="summary-value">{escape_html(f"{data_summary['moneyline_complete']:,} ({data_summary['moneyline_pct']:.1f}%)")}</span>
-            </div>
-        </section>
 
         <section>
             <h2>1. Model Spread Performance by Edge (All Games)</h2>
@@ -1649,7 +1362,7 @@ def generate_html_output(analysis_data, timestamp, last_game_date, data_summary)
     return html
 
 
-def save_output_files(analysis_data, timestamp, last_game_date, data_summary):
+def save_output_files(analysis_data, timestamp, last_game_date):
     """
     Save analysis output to text and HTML files
     """
@@ -1657,13 +1370,13 @@ def save_output_files(analysis_data, timestamp, last_game_date, data_summary):
     os.makedirs(DOCS_DIR, exist_ok=True)
     
     # Generate and save plain text output
-    text_output = generate_plain_text_output(analysis_data, timestamp, last_game_date, data_summary)
+    text_output = generate_plain_text_output(analysis_data, timestamp, last_game_date)
     with open(TEXT_OUTPUT_FILE, 'w', encoding='utf-8') as f:
         f.write(text_output)
     logger.info(f"[green]✓[/green] Saved plain text output to {TEXT_OUTPUT_FILE}")
     
     # Generate and save HTML output
-    html_output = generate_html_output(analysis_data, timestamp, last_game_date, data_summary)
+    html_output = generate_html_output(analysis_data, timestamp, last_game_date)
     with open(HTML_OUTPUT_FILE, 'w', encoding='utf-8') as f:
         f.write(html_output)
     logger.info(f"[green]✓[/green] Saved HTML output to {HTML_OUTPUT_FILE}")
@@ -1685,13 +1398,9 @@ def main():
             logger.error("[red]✗[/red] Failed to fetch graded_results.csv")
             sys.exit(1)
         
-        # Extract game dates
-        first_game_date = get_first_game_date(df)
+        # Extract last game date
         last_game_date = get_last_game_date(df)
         logger.info(f"[cyan]Last Game Included: {last_game_date}[/cyan]")
-        
-        # Display data summary
-        display_data_summary(df, first_game_date, last_game_date)
         
         # Run all analyses (console output)
         analyze_spread_performance_by_edge(df, consensus_only=False)
@@ -1707,21 +1416,6 @@ def main():
         
         # Collect analysis data for file output
         timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
-        
-        # Calculate data completeness for file output
-        completeness = calculate_data_completeness(df)
-        data_summary = {
-            'total_games': completeness['total_games'],
-            'first_date': first_game_date,
-            'last_date': last_game_date,
-            'spread_complete': completeness['spread_complete'],
-            'spread_pct': completeness['spread_pct'],
-            'totals_complete': completeness['totals_complete'],
-            'totals_pct': completeness['totals_pct'],
-            'moneyline_complete': completeness['moneyline_complete'],
-            'moneyline_pct': completeness['moneyline_pct']
-        }
-        
         analysis_data = {
             'spread_by_edge_all': collect_spread_performance_by_edge(df, consensus_only=False),
             'spread_by_edge_consensus': collect_spread_performance_by_edge(df, consensus_only=True),
@@ -1736,7 +1430,7 @@ def main():
         }
         
         # Save output files
-        save_output_files(analysis_data, timestamp, last_game_date, data_summary)
+        save_output_files(analysis_data, timestamp, last_game_date)
         
         console.print("\n[bold cyan]" + "=" * 80 + "[/bold cyan]")
         console.print("[bold green]Analysis Complete![/bold green]")
