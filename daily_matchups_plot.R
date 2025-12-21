@@ -26,13 +26,17 @@ eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE)
 cat("Actual column names in kenpom_stats.csv:\n")
 print(colnames(eff_stats))
 
+# Rename columns for easier use in plotting
+# The CSV now has _value and _rank suffixes for paired columns
 eff_stats <- eff_stats %>%
   rename(
-    ORtg_rank = `ORtg...2`,
-    DRtg_rank = `DRtg...2`,
-    AdjT_rank = `AdjT...2`,
-    Luck_rank = `Luck...2`
+    ORtg = ORtg_value,
+    DRtg = DRtg_value,
+    AdjT = AdjT_value,
+    Luck = Luck_value
   )
+
+# Rank columns already have correct names (ORtg_rank, DRtg_rank, etc.)
 cat("Loaded", nrow(eff_stats), "teams from KenPom stats\n")
 
 # Calculate means using ALL teams
