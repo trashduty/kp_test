@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spread Value Calculator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .calculator {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .input-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+            color: #333;
+        }
+        input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+        button {
+            width: 100%;
+            padding: 12px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .results {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 4px;
+            display: none;
+        }
+        .result-item {
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #dee2e6;
+        }
+        .result-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+        .result-label {
+            font-weight: bold;
+            color: #666;
+            font-size: 14px;
+        }
+        .result-value {
+            font-size: 24px;
+            color: #333;
+            margin-top: 5px;
+        }
+        .positive-edge {
+            color: #28a745;
+        }
+        .negative-edge {
+            color: #dc3545;
+        }
+        .error {
+            color: #dc3545;
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #f8d7da;
+            border-radius: 4px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="calculator">
+        <h1>Spread Value Calculator</h1>
+        
+        <div class="input-group">
+            <label for="marketSpread">Market Line:</label>
+            <input type="number" id="marketSpread" step="0.5" placeholder="e.g., -7.5">
+        </div>
+        
+        <div class="input-group">
+            <label for="modelSpread">Model Prediction:</label>
+            <input type="number" id="modelSpread" step="0.5" placeholder="e.g., -10.0">
+        </div>
+        
+        <div class="input-group">
+            <label for="odds">Odds:</label>
+            <input type="number" id="odds" placeholder="e.g., -110 or +150">
+        </div>
+        
+        <button onclick="calculate()">Calculate</button>
+        
+        <div class="error" id="error"></div>
+        
+        <div class="results" id="results">
+            <div class="result-item">
+                <div class="result-label">Cover Probability</div>
+                <div class="result-value" id="coverProb">-</div>
+            </div>
+            <div class="result-item">
+                <div class="result-label">Push Probability</div>
+                <div class="result-value" id="pushProb">-</div>
+            </div>
+            <div class="result-item">
+                <div class="result-label">Implied Probability (from odds)</div>
+                <div class="result-value" id="impliedProb">-</div>
+            </div>
+            <div class="result-item">
+                <div class="result-label">Edge</div>
+                <div class="result-value" id="edge">-</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let lookupData = [];
+        
+        async function loadData() {
+            try {
+                const response = await fetch('../spreads_lookup_combined.csv');
+                const csvText = await response.text();
+                
+                const lines = csvText.split('\n');
+                const headers = lines[0].split(',');
+                
+                for (let i = 1; i < lines.length; i++) {
+                    if (lines[i].trim()) {
+                        const values = lines[i].split(',');
+                        lookupData.push({
+                            total_category: parseFloat(values[0]),
+                            market_spread: parseFloat(values[1]),
+                            model_spread: parseFloat(values[2]),
+                            cover_prob: parseFloat(values[3]),
+                            push_prob: parseFloat(values[4]),
+                            not_cover_prob: parseFloat(values[5])
+                        });
+                    }
+                }
+                console.log(`Loaded ${lookupData.length} rows of data`);
+            } catch (error) {
+                console.error('Error loading data:', error);
+                showError('Failed to load lookup data. Please refresh the page.');
+            }
+        }
+        
+        function calculateImpliedProbability(odds) {
+            odds = parseFloat(odds);
+            if (isNaN(odds) || odds === 0) {
+                return null;
+            }
+            
+            if (odds < 0) {
+                return Math.abs(odds) / (Math.abs(odds) + 100);
+            } else {
+                return 100 / (odds + 100);
+            }
+        }
+        
+        function findProbability(marketSpread, modelSpread) {
+            if (lookupData.length === 0) {
+                return null;
+            }
+            
+            marketSpread = Math.round(marketSpread * 2) / 2;
+            modelSpread = Math.round(modelSpread * 2) / 2;
+            
+            const exactMatch = lookupData.find(row => 
+                row.market_spread === marketSpread && 
+                row.model_spread === modelSpread
+            );
+            
+            if (exactMatch) {
+                return exactMatch;
+            }
+            
+            let closest = lookupData[0];
+            let minDistance = Infinity;
+            
+            for (const row of lookupData) {
+                const distance = Math.sqrt(
+                    Math.pow(row.market_spread - marketSpread, 2) + 
+                    Math.pow(row.model_spread - modelSpread, 2)
+                );
+                
+                if (distance < minDistance) {
+                    minDistance = distance;
+                    closest = row;
+                }
+            }
+            
+            return closest;
+        }
+        
+        function showError(message) {
+            const errorDiv = document.getElementById('error');
+            errorDiv.textContent = message;
+            errorDiv.style.display = 'block';
+            document.getElementById('results').style.display = 'none';
+        }
+        
+        function hideError() {
+            document.getElementById('error').style.display = 'none';
+        }
+        
+        function calculate() {
+            hideError();
+            
+            const marketSpread = parseFloat(document.getElementById('marketSpread').value);
+            const modelSpread = parseFloat(document.getElementById('modelSpread').value);
+            const odds = parseFloat(document.getElementById('odds').value);
+            
+            if (isNaN(marketSpread) || isNaN(modelSpread) || isNaN(odds)) {
+                showError('Please enter valid numbers for all fields.');
+                return;
+            }
+            
+            if (odds === 0) {
+                showError('Odds cannot be zero.');
+                return;
+            }
+            
+            if (lookupData.length === 0) {
+                showError('Data is still loading. Please try again in a moment.');
+                return;
+            }
+            
+            const result = findProbability(marketSpread, modelSpread);
+            
+            if (!result) {
+                showError('Could not find matching data. Please check your inputs.');
+                return;
+            }
+            
+            const impliedProb = calculateImpliedProbability(odds);
+            const edge = result.cover_prob - impliedProb;
+            
+            document.getElementById('coverProb').textContent = 
+                (result.cover_prob * 100).toFixed(2) + '%';
+            document.getElementById('pushProb').textContent = 
+                (result.push_prob * 100).toFixed(2) + '%';
+            document.getElementById('impliedProb').textContent = 
+                (impliedProb * 100).toFixed(2) + '%';
+            
+            const edgeElement = document.getElementById('edge');
+            edgeElement.textContent = (edge * 100).toFixed(2) + '%';
+            
+            if (edge > 0) {
+                edgeElement.className = 'result-value positive-edge';
+            } else if (edge < 0) {
+                edgeElement.className = 'result-value negative-edge';
+            } else {
+                edgeElement.className = 'result-value';
+            }
+            
+            document.getElementById('results').style.display = 'block';
+        }
+        
+        loadData();
+        
+        document.addEventListener('keypress', function(event) {
+            if (event.key === 'Enter') {
+                calculate();
+            }
+        });
+    </script>
+</body>
+</html>
