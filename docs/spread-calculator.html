@@ -3,288 +3,220 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>College Basketball Edge Calculator</title>
+    <title>Spread Calculator</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            max-width: 600px;
+            max-width: 800px;
             margin: 50px auto;
             padding: 20px;
             background-color: #f5f5f5;
         }
-        .calculator {
-            background: white;
+        .container {
+            background-color: white;
             padding: 30px;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
         .input-group {
-            margin-bottom: 20px;
+            margin: 20px 0;
         }
         label {
             display: block;
             margin-bottom: 5px;
+            color: #555;
             font-weight: bold;
-            color: #333;
         }
-        input {
+        input, select {
             width: 100%;
             padding: 10px;
             border: 1px solid #ddd;
             border-radius: 4px;
-            font-size: 16px;
             box-sizing: border-box;
+            font-size: 16px;
         }
         button {
             width: 100%;
             padding: 12px;
-            background-color: #007bff;
+            background-color: #4CAF50;
             color: white;
             border: none;
             border-radius: 4px;
-            font-size: 16px;
             cursor: pointer;
-            font-weight: bold;
+            font-size: 16px;
+            margin-top: 10px;
         }
         button:hover {
-            background-color: #0056b3;
+            background-color: #45a049;
         }
-        .results {
-            margin-top: 30px;
-            padding: 20px;
-            background-color: #f8f9fa;
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #e8f5e9;
             border-radius: 4px;
             display: none;
         }
-        .result-item {
-            margin-bottom: 15px;
-            padding-bottom: 15px;
-            border-bottom: 1px solid #dee2e6;
+        .result h2 {
+            color: #2e7d32;
+            margin-top: 0;
         }
-        .result-item:last-child {
-            border-bottom: none;
-            margin-bottom: 0;
-            padding-bottom: 0;
-        }
-        .result-label {
-            font-weight: bold;
-            color: #666;
-            font-size: 14px;
-        }
-        .result-value {
-            font-size: 24px;
-            color: #333;
-            margin-top: 5px;
-        }
-        .positive-edge {
-            color: #28a745;
-        }
-        .negative-edge {
-            color: #dc3545;
+        .result p {
+            margin: 10px 0;
+            font-size: 18px;
         }
         .error {
-            color: #dc3545;
-            margin-top: 10px;
-            padding: 10px;
-            background-color: #f8d7da;
+            background-color: #ffebee;
+            color: #c62828;
+            padding: 15px;
             border-radius: 4px;
+            margin-top: 20px;
+            display: none;
+        }
+        .loading {
+            text-align: center;
+            padding: 20px;
             display: none;
         }
     </style>
 </head>
 <body>
-    <div class="calculator">
-        <h1>College Basketball Edge Calculator</h1>
+    <div class="container">
+        <h1>Spread Calculator</h1>
         
         <div class="input-group">
-            <label for="marketSpread">Market Line:</label>
-            <input type="number" id="marketSpread" step="0.5" placeholder="e.g., -7.5">
+            <label for="symbol">Symbol:</label>
+            <input type="text" id="symbol" placeholder="Enter stock symbol (e.g., AAPL)" required>
         </div>
-        
+
         <div class="input-group">
-            <label for="modelSpread">Model Prediction:</label>
-            <input type="number" id="modelSpread" step="0.5" placeholder="e.g., -10.0">
+            <label for="strikePrice">Strike Price:</label>
+            <input type="number" id="strikePrice" step="0.01" placeholder="Enter strike price" required>
         </div>
-        
+
         <div class="input-group">
-            <label for="odds">Odds:</label>
-            <input type="number" id="odds" placeholder="e.g., -110 or +150">
+            <label for="optionType">Option Type:</label>
+            <select id="optionType" required>
+                <option value="">Select option type</option>
+                <option value="call">Call</option>
+                <option value="put">Put</option>
+            </select>
         </div>
-        
-        <button onclick="calculate()">Calculate</button>
-        
+
+        <div class="input-group">
+            <label for="expDate">Expiration Date:</label>
+            <input type="date" id="expDate" required>
+        </div>
+
+        <button onclick="calculateSpread()">Calculate Spread</button>
+
+        <div class="loading" id="loading">
+            Calculating...
+        </div>
+
+        <div class="result" id="result">
+            <h2>Results</h2>
+            <p><strong>Symbol:</strong> <span id="resultSymbol"></span></p>
+            <p><strong>Strike Price:</strong> $<span id="resultStrike"></span></p>
+            <p><strong>Option Type:</strong> <span id="resultType"></span></p>
+            <p><strong>Expiration:</strong> <span id="resultExp"></span></p>
+            <p><strong>Bid:</strong> $<span id="resultBid"></span></p>
+            <p><strong>Ask:</strong> $<span id="resultAsk"></span></p>
+            <p><strong>Spread:</strong> $<span id="resultSpread"></span></p>
+        </div>
+
         <div class="error" id="error"></div>
-        
-        <div class="results" id="results">
-            <div class="result-item">
-                <div class="result-label">Cover Probability</div>
-                <div class="result-value" id="coverProb">-</div>
-            </div>
-            <div class="result-item">
-                <div class="result-label">Push Probability</div>
-                <div class="result-value" id="pushProb">-</div>
-            </div>
-            <div class="result-item">
-                <div class="result-label">Implied Probability (from odds)</div>
-                <div class="result-value" id="impliedProb">-</div>
-            </div>
-            <div class="result-item">
-                <div class="result-label">Edge</div>
-                <div class="result-value" id="edge">-</div>
-            </div>
-        </div>
     </div>
 
     <script>
-        let lookupData = [];
-        
-        async function loadData() {
+        let spreadData = [];
+
+        // Load the CSV data when page loads
+        async function loadSpreadData() {
             try {
-                const response = await fetch('/kp_test/spreads_lookup_combined.csv');
-                const csvText = await response.text();
+                const response = await fetch('spreads_lookup_combined.csv');
+                const text = await response.text();
+                const lines = text.split('\n');
                 
-                const lines = csvText.split('\n');
-                const headers = lines[0].split(',');
-                
+                // Skip header row
                 for (let i = 1; i < lines.length; i++) {
-                    if (lines[i].trim()) {
-                        const values = lines[i].split(',');
-                        lookupData.push({
-                            total_category: parseFloat(values[0]),
-                            market_spread: parseFloat(values[1]),
-                            model_spread: parseFloat(values[2]),
-                            cover_prob: parseFloat(values[3]),
-                            push_prob: parseFloat(values[4]),
-                            not_cover_prob: parseFloat(values[5])
+                    const line = lines[i].trim();
+                    if (line) {
+                        const [symbol, strikePrice, optionType, expDate, bid, ask, spread] = line.split(',');
+                        spreadData.push({
+                            symbol: symbol.trim(),
+                            strikePrice: parseFloat(strikePrice),
+                            optionType: optionType.trim().toLowerCase(),
+                            expDate: expDate.trim(),
+                            bid: parseFloat(bid),
+                            ask: parseFloat(ask),
+                            spread: parseFloat(spread)
                         });
                     }
                 }
-                console.log(`Loaded ${lookupData.length} rows of data`);
             } catch (error) {
-                console.error('Error loading data:', error);
-                showError('Failed to load lookup data. Please refresh the page.');
+                console.error('Error loading spread data:', error);
             }
         }
-        
-        function calculateImpliedProbability(odds) {
-            odds = parseFloat(odds);
-            if (isNaN(odds) || odds === 0) {
-                return null;
+
+        // Load data when page loads
+        loadSpreadData();
+
+        function calculateSpread() {
+            // Hide previous results
+            document.getElementById('result').style.display = 'none';
+            document.getElementById('error').style.display = 'none';
+            document.getElementById('loading').style.display = 'block';
+
+            // Get input values
+            const symbol = document.getElementById('symbol').value.trim().toUpperCase();
+            const strikePrice = parseFloat(document.getElementById('strikePrice').value);
+            const optionType = document.getElementById('optionType').value.toLowerCase();
+            const expDate = document.getElementById('expDate').value;
+
+            // Validate inputs
+            if (!symbol || !strikePrice || !optionType || !expDate) {
+                showError('Please fill in all fields');
+                document.getElementById('loading').style.display = 'none';
+                return;
             }
-            
-            if (odds < 0) {
-                return Math.abs(odds) / (Math.abs(odds) + 100);
-            } else {
-                return 100 / (odds + 100);
-            }
-        }
-        
-        function findProbability(marketSpread, modelSpread) {
-            if (lookupData.length === 0) {
-                return null;
-            }
-            
-            marketSpread = Math.round(marketSpread * 2) / 2;
-            modelSpread = Math.round(modelSpread * 2) / 2;
-            
-            const exactMatch = lookupData.find(row => 
-                row.market_spread === marketSpread && 
-                row.model_spread === modelSpread
-            );
-            
-            if (exactMatch) {
-                return exactMatch;
-            }
-            
-            let closest = lookupData[0];
-            let minDistance = Infinity;
-            
-            for (const row of lookupData) {
-                const distance = Math.sqrt(
-                    Math.pow(row.market_spread - marketSpread, 2) + 
-                    Math.pow(row.model_spread - modelSpread, 2)
+
+            // Simulate API delay
+            setTimeout(() => {
+                // Find matching entry in spread data
+                const match = spreadData.find(entry => 
+                    entry.symbol === symbol &&
+                    Math.abs(entry.strikePrice - strikePrice) < 0.01 &&
+                    entry.optionType === optionType &&
+                    entry.expDate === expDate
                 );
-                
-                if (distance < minDistance) {
-                    minDistance = distance;
-                    closest = row;
+
+                document.getElementById('loading').style.display = 'none';
+
+                if (match) {
+                    // Display results
+                    document.getElementById('resultSymbol').textContent = match.symbol;
+                    document.getElementById('resultStrike').textContent = match.strikePrice.toFixed(2);
+                    document.getElementById('resultType').textContent = match.optionType.charAt(0).toUpperCase() + match.optionType.slice(1);
+                    document.getElementById('resultExp').textContent = match.expDate;
+                    document.getElementById('resultBid').textContent = match.bid.toFixed(2);
+                    document.getElementById('resultAsk').textContent = match.ask.toFixed(2);
+                    document.getElementById('resultSpread').textContent = match.spread.toFixed(2);
+                    document.getElementById('result').style.display = 'block';
+                } else {
+                    showError('No matching spread data found for the given parameters');
                 }
-            }
-            
-            return closest;
+            }, 500);
         }
-        
+
         function showError(message) {
             const errorDiv = document.getElementById('error');
             errorDiv.textContent = message;
             errorDiv.style.display = 'block';
-            document.getElementById('results').style.display = 'none';
         }
-        
-        function hideError() {
-            document.getElementById('error').style.display = 'none';
-        }
-        
-        function calculate() {
-            hideError();
-            
-            const marketSpread = parseFloat(document.getElementById('marketSpread').value);
-            const modelSpread = parseFloat(document.getElementById('modelSpread').value);
-            const odds = parseFloat(document.getElementById('odds').value);
-            
-            if (isNaN(marketSpread) || isNaN(modelSpread) || isNaN(odds)) {
-                showError('Please enter valid numbers for all fields.');
-                return;
-            }
-            
-            if (odds === 0) {
-                showError('Odds cannot be zero.');
-                return;
-            }
-            
-            if (lookupData.length === 0) {
-                showError('Data is still loading. Please try again in a moment.');
-                return;
-            }
-            
-            const result = findProbability(marketSpread, modelSpread);
-            
-            if (!result) {
-                showError('Could not find matching data. Please check your inputs.');
-                return;
-            }
-            
-            const impliedProb = calculateImpliedProbability(odds);
-            const edge = result.cover_prob - impliedProb;
-            
-            document.getElementById('coverProb').textContent = 
-                (result.cover_prob * 100).toFixed(2) + '%';
-            document.getElementById('pushProb').textContent = 
-                (result.push_prob * 100).toFixed(2) + '%';
-            document.getElementById('impliedProb').textContent = 
-                (impliedProb * 100).toFixed(2) + '%';
-            
-            const edgeElement = document.getElementById('edge');
-            edgeElement.textContent = (edge * 100).toFixed(2) + '%';
-            
-            if (edge > 0) {
-                edgeElement.className = 'result-value positive-edge';
-            } else if (edge < 0) {
-                edgeElement.className = 'result-value negative-edge';
-            } else {
-                edgeElement.className = 'result-value';
-            }
-            
-            document.getElementById('results').style.display = 'block';
-        }
-        
-        loadData();
-        
-        document.addEventListener('keypress', function(event) {
-            if (event.key === 'Enter') {
-                calculate();
-            }
-        });
     </script>
 </body>
 </html>
