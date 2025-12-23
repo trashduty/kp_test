@@ -3,233 +3,252 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KP Spread Calculator</title>
+    <title>Spread Calculator</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
             padding: 20px;
+            background-color: #f5f5f5;
         }
-
-        .calculator-container {
-            background: white;
-            border-radius: 20px;
-            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
-            padding: 40px;
-            max-width: 500px;
-            width: 100%;
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
-
         h1 {
             color: #333;
             text-align: center;
-            margin-bottom: 30px;
-            font-size: 28px;
         }
-
         .input-group {
-            margin-bottom: 25px;
+            margin: 20px 0;
         }
-
         label {
             display: block;
+            margin-bottom: 5px;
             color: #555;
-            font-weight: 600;
-            margin-bottom: 8px;
-            font-size: 14px;
+            font-weight: bold;
         }
-
-        input[type="number"] {
+        input, select {
             width: 100%;
-            padding: 12px 15px;
-            border: 2px solid #e0e0e0;
-            border-radius: 10px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
             font-size: 16px;
-            transition: border-color 0.3s;
+            box-sizing: border-box;
         }
-
-        input[type="number"]:focus {
-            outline: none;
-            border-color: #667eea;
-        }
-
         button {
             width: 100%;
-            padding: 15px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 12px;
+            background-color: #4CAF50;
             color: white;
             border: none;
-            border-radius: 10px;
+            border-radius: 5px;
             font-size: 16px;
-            font-weight: 600;
             cursor: pointer;
-            transition: transform 0.2s, box-shadow 0.2s;
+            margin-top: 20px;
         }
-
         button:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+            background-color: #45a049;
         }
-
-        button:active {
-            transform: translateY(0);
-        }
-
         .result {
-            margin-top: 30px;
-            padding: 20px;
-            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-            border-radius: 10px;
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #e8f5e9;
+            border-radius: 5px;
             display: none;
         }
-
         .result.show {
             display: block;
-            animation: slideIn 0.3s ease-out;
         }
-
-        @keyframes slideIn {
-            from {
-                opacity: 0;
-                transform: translateY(-10px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        .result h2 {
-            color: #333;
-            font-size: 20px;
-            margin-bottom: 15px;
-        }
-
-        .result-item {
-            display: flex;
-            justify-content: space-between;
-            padding: 10px 0;
-            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-        }
-
-        .result-item:last-child {
-            border-bottom: none;
-        }
-
-        .result-label {
-            color: #666;
-            font-weight: 500;
-        }
-
-        .result-value {
-            color: #333;
-            font-weight: 600;
-        }
-
         .error {
-            color: #e74c3c;
+            background-color: #ffebee;
+            color: #c62828;
+        }
+        .result-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #2e7d32;
             text-align: center;
-            margin-top: 10px;
+            margin: 10px 0;
+        }
+        .info {
             font-size: 14px;
+            color: #666;
+            margin-top: 10px;
         }
     </style>
 </head>
 <body>
-    <div class="calculator-container">
-        <h1>🎯 KP Spread Calculator</h1>
+    <div class="container">
+        <h1>Spread Calculator</h1>
         
         <div class="input-group">
-            <label for="buyPrice">Buy Price ($)</label>
-            <input type="number" id="buyPrice" placeholder="Enter buy price" step="0.01" min="0">
+            <label for="spreadType">Spread Type:</label>
+            <select id="spreadType">
+                <option value="">Select spread type...</option>
+            </select>
         </div>
 
         <div class="input-group">
-            <label for="sellPrice">Sell Price ($)</label>
-            <input type="number" id="sellPrice" placeholder="Enter sell price" step="0.01" min="0">
+            <label for="strike1">Strike 1:</label>
+            <input type="number" id="strike1" placeholder="Enter first strike price" step="0.01">
+        </div>
+
+        <div class="input-group">
+            <label for="strike2">Strike 2:</label>
+            <input type="number" id="strike2" placeholder="Enter second strike price" step="0.01">
+        </div>
+
+        <div class="input-group">
+            <label for="dte">Days to Expiration (DTE):</label>
+            <input type="number" id="dte" placeholder="Enter days to expiration" min="0">
         </div>
 
         <button onclick="calculateSpread()">Calculate Spread</button>
 
         <div id="result" class="result">
-            <h2>Results</h2>
-            <div class="result-item">
-                <span class="result-label">Spread:</span>
-                <span class="result-value" id="spread">-</span>
-            </div>
-            <div class="result-item">
-                <span class="result-label">Expected Payout:</span>
-                <span class="result-value" id="payout">-</span>
-            </div>
+            <div class="result-value" id="resultValue"></div>
+            <div class="info" id="resultInfo"></div>
         </div>
-
-        <div id="error" class="error"></div>
     </div>
 
     <script>
-        const response = await fetch('/kp_test/spreads_lookup_combined.csv');
-        const csvText = await response.text();
-        const lines = csvText.split('\n');
-        const spreadData = {};
+        let spreadsData = [];
 
-        for (let i = 1; i < lines.length; i++) {
-            const line = lines[i].trim();
-            if (line) {
-                const [spread, payout] = line.split(',');
-                spreadData[parseFloat(spread)] = parseFloat(payout);
+        // Load the CSV data
+        async function loadSpreadsData() {
+            try {
+                const response = await fetch('/kp_test/spreads_lookup_combined.csv');
+                const text = await response.text();
+                const lines = text.split('\n');
+                
+                // Skip header row
+                for (let i = 1; i < lines.length; i++) {
+                    const line = lines[i].trim();
+                    if (line) {
+                        const [spreadType, strike1, strike2, dte, spread] = line.split(',');
+                        spreadsData.push({
+                            spreadType: spreadType.trim(),
+                            strike1: parseFloat(strike1),
+                            strike2: parseFloat(strike2),
+                            dte: parseInt(dte),
+                            spread: parseFloat(spread)
+                        });
+                    }
+                }
+
+                // Populate spread type dropdown with unique values
+                const uniqueSpreadTypes = [...new Set(spreadsData.map(item => item.spreadType))];
+                const select = document.getElementById('spreadType');
+                uniqueSpreadTypes.forEach(type => {
+                    const option = document.createElement('option');
+                    option.value = type;
+                    option.textContent = type;
+                    select.appendChild(option);
+                });
+
+                console.log('Loaded', spreadsData.length, 'spread records');
+            } catch (error) {
+                console.error('Error loading spreads data:', error);
+                showResult('Error loading data. Please try again.', true);
             }
         }
 
         function calculateSpread() {
-            const buyPrice = parseFloat(document.getElementById('buyPrice').value);
-            const sellPrice = parseFloat(document.getElementById('sellPrice').value);
-            const resultDiv = document.getElementById('result');
-            const errorDiv = document.getElementById('error');
+            const spreadType = document.getElementById('spreadType').value;
+            const strike1 = parseFloat(document.getElementById('strike1').value);
+            const strike2 = parseFloat(document.getElementById('strike2').value);
+            const dte = parseInt(document.getElementById('dte').value);
 
-            errorDiv.textContent = '';
-            resultDiv.classList.remove('show');
-
-            if (isNaN(buyPrice) || isNaN(sellPrice)) {
-                errorDiv.textContent = 'Please enter valid numbers for both prices';
+            // Validation
+            if (!spreadType) {
+                showResult('Please select a spread type.', true);
+                return;
+            }
+            if (isNaN(strike1) || isNaN(strike2)) {
+                showResult('Please enter valid strike prices.', true);
+                return;
+            }
+            if (isNaN(dte) || dte < 0) {
+                showResult('Please enter a valid DTE.', true);
                 return;
             }
 
-            if (buyPrice <= 0 || sellPrice <= 0) {
-                errorDiv.textContent = 'Prices must be greater than zero';
-                return;
-            }
+            // Find matching spread
+            const match = spreadsData.find(item => 
+                item.spreadType === spreadType &&
+                item.strike1 === strike1 &&
+                item.strike2 === strike2 &&
+                item.dte === dte
+            );
 
-            const spread = Math.round((sellPrice - buyPrice) * 100) / 100;
-            
-            let payout = spreadData[spread];
-            if (payout === undefined) {
-                payout = 'N/A';
+            if (match) {
+                showResult(
+                    `$${match.spread.toFixed(2)}`,
+                    false,
+                    `Found exact match for ${spreadType} spread`
+                );
             } else {
-                payout = `$${payout.toFixed(2)}`;
+                // Try to find closest match
+                const closestMatch = findClosestMatch(spreadType, strike1, strike2, dte);
+                if (closestMatch) {
+                    showResult(
+                        `$${closestMatch.spread.toFixed(2)}`,
+                        false,
+                        `Approximate value (closest match): Strike1=${closestMatch.strike1}, Strike2=${closestMatch.strike2}, DTE=${closestMatch.dte}`
+                    );
+                } else {
+                    showResult('No matching spread found in the database.', true);
+                }
             }
-
-            document.getElementById('spread').textContent = `$${spread.toFixed(2)}`;
-            document.getElementById('payout').textContent = payout;
-            
-            resultDiv.classList.add('show');
         }
 
-        document.getElementById('buyPrice').addEventListener('keypress', function(e) {
-            if (e.key === 'Enter') calculateSpread();
-        });
+        function findClosestMatch(spreadType, strike1, strike2, dte) {
+            const filtered = spreadsData.filter(item => item.spreadType === spreadType);
+            
+            if (filtered.length === 0) return null;
 
-        document.getElementById('sellPrice').addEventListener('keypress', function(e) {
-            if (e.key === 'Enter') calculateSpread();
-        });
+            let closest = filtered[0];
+            let minDistance = calculateDistance(filtered[0], strike1, strike2, dte);
+
+            for (let i = 1; i < filtered.length; i++) {
+                const distance = calculateDistance(filtered[i], strike1, strike2, dte);
+                if (distance < minDistance) {
+                    minDistance = distance;
+                    closest = filtered[i];
+                }
+            }
+
+            return closest;
+        }
+
+        function calculateDistance(item, strike1, strike2, dte) {
+            return Math.abs(item.strike1 - strike1) + 
+                   Math.abs(item.strike2 - strike2) + 
+                   Math.abs(item.dte - dte) * 0.1; // Weight DTE less heavily
+        }
+
+        function showResult(value, isError, info = '') {
+            const resultDiv = document.getElementById('result');
+            const resultValue = document.getElementById('resultValue');
+            const resultInfo = document.getElementById('resultInfo');
+
+            resultValue.textContent = value;
+            resultInfo.textContent = info;
+
+            resultDiv.classList.add('show');
+            if (isError) {
+                resultDiv.classList.add('error');
+            } else {
+                resultDiv.classList.remove('error');
+            }
+        }
+
+        // Load data when page loads
+        loadSpreadsData();
     </script>
 </body>
 </html>
