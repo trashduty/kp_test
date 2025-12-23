@@ -3,430 +3,232 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spread Calculator</title>
+    <title>KP Spread Calculator</title>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            max-width: 1200px;
-            margin: 0 auto;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
             padding: 20px;
-            background-color: #f5f5f5;
         }
-        .container {
-            background-color: white;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+
+        .calculator-container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            padding: 40px;
+            max-width: 500px;
+            width: 100%;
         }
+
         h1 {
             color: #333;
-            border-bottom: 3px solid #4CAF50;
-            padding-bottom: 10px;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 28px;
         }
+
         .input-group {
-            margin: 20px 0;
-            padding: 15px;
-            background-color: #f9f9f9;
-            border-radius: 5px;
+            margin-bottom: 25px;
         }
+
         label {
             display: block;
-            margin-bottom: 5px;
-            font-weight: bold;
             color: #555;
-        }
-        input[type="number"], select {
-            width: 100%;
-            padding: 10px;
-            margin-bottom: 10px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            box-sizing: border-box;
+            font-weight: 600;
+            margin-bottom: 8px;
             font-size: 14px;
         }
-        button {
-            background-color: #4CAF50;
-            color: white;
-            padding: 12px 24px;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            font-size: 16px;
-            margin-top: 10px;
-        }
-        button:hover {
-            background-color: #45a049;
-        }
-        button:disabled {
-            background-color: #cccccc;
-            cursor: not-allowed;
-        }
-        .result {
-            margin-top: 20px;
-            padding: 20px;
-            background-color: #e8f5e9;
-            border-left: 4px solid #4CAF50;
-            border-radius: 4px;
-        }
-        .error {
-            background-color: #ffebee;
-            border-left-color: #f44336;
-            color: #c62828;
-        }
-        .debug {
-            margin-top: 20px;
-            padding: 15px;
-            background-color: #fff3e0;
-            border-left: 4px solid #ff9800;
-            border-radius: 4px;
-            font-family: 'Courier New', monospace;
-            font-size: 12px;
-            max-height: 400px;
-            overflow-y: auto;
-        }
-        .debug h3 {
-            margin-top: 0;
-            color: #e65100;
-        }
-        .debug pre {
-            white-space: pre-wrap;
-            word-wrap: break-word;
-        }
-        .loading {
-            color: #666;
-            font-style: italic;
-        }
-        table {
+
+        input[type="number"] {
             width: 100%;
-            border-collapse: collapse;
-            margin-top: 10px;
+            padding: 12px 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: border-color 0.3s;
         }
-        th, td {
-            padding: 8px;
-            text-align: left;
-            border-bottom: 1px solid #ddd;
+
+        input[type="number"]:focus {
+            outline: none;
+            border-color: #667eea;
         }
-        th {
-            background-color: #4CAF50;
+
+        button {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
         }
-        tr:hover {
-            background-color: #f5f5f5;
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        button:active {
+            transform: translateY(0);
+        }
+
+        .result {
+            margin-top: 30px;
+            padding: 20px;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            border-radius: 10px;
+            display: none;
+        }
+
+        .result.show {
+            display: block;
+            animation: slideIn 0.3s ease-out;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .result h2 {
+            color: #333;
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+
+        .result-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+        }
+
+        .result-item:last-child {
+            border-bottom: none;
+        }
+
+        .result-label {
+            color: #666;
+            font-weight: 500;
+        }
+
+        .result-value {
+            color: #333;
+            font-weight: 600;
+        }
+
+        .error {
+            color: #e74c3c;
+            text-align: center;
+            margin-top: 10px;
+            font-size: 14px;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Spread Calculator</h1>
+    <div class="calculator-container">
+        <h1>🎯 KP Spread Calculator</h1>
         
         <div class="input-group">
-            <label for="rating">Rating:</label>
-            <select id="rating">
-                <option value="">Select Rating</option>
-                <option value="AAA">AAA</option>
-                <option value="AA+">AA+</option>
-                <option value="AA">AA</option>
-                <option value="AA-">AA-</option>
-                <option value="A+">A+</option>
-                <option value="A">A</option>
-                <option value="A-">A-</option>
-                <option value="BBB+">BBB+</option>
-                <option value="BBB">BBB</option>
-                <option value="BBB-">BBB-</option>
-                <option value="BB+">BB+</option>
-                <option value="BB">BB</option>
-                <option value="BB-">BB-</option>
-                <option value="B+">B+</option>
-                <option value="B">B</option>
-                <option value="B-">B-</option>
-            </select>
-
-            <label for="maturity">Maturity (years):</label>
-            <input type="number" id="maturity" min="0" step="0.1" placeholder="Enter maturity in years">
-
-            <label for="sector">Sector:</label>
-            <select id="sector">
-                <option value="">Select Sector</option>
-            </select>
-
-            <button onclick="calculateSpread()" id="calculateBtn">Calculate Spread</button>
+            <label for="buyPrice">Buy Price ($)</label>
+            <input type="number" id="buyPrice" placeholder="Enter buy price" step="0.01" min="0">
         </div>
 
-        <div id="result"></div>
-        <div id="debug"></div>
+        <div class="input-group">
+            <label for="sellPrice">Sell Price ($)</label>
+            <input type="number" id="sellPrice" placeholder="Enter sell price" step="0.01" min="0">
+        </div>
+
+        <button onclick="calculateSpread()">Calculate Spread</button>
+
+        <div id="result" class="result">
+            <h2>Results</h2>
+            <div class="result-item">
+                <span class="result-label">Spread:</span>
+                <span class="result-value" id="spread">-</span>
+            </div>
+            <div class="result-item">
+                <span class="result-label">Expected Payout:</span>
+                <span class="result-value" id="payout">-</span>
+            </div>
+        </div>
+
+        <div id="error" class="error"></div>
     </div>
 
     <script>
-        let spreadsData = [];
-        let debugLog = [];
+        const response = await fetch('/kp_test/spreads_lookup_combined.csv');
+        const csvText = await response.text();
+        const lines = csvText.split('\n');
+        const spreadData = {};
 
-        function log(message, data = null) {
-            const timestamp = new Date().toISOString();
-            const logEntry = `[${timestamp}] ${message}`;
-            debugLog.push(logEntry);
-            if (data !== null) {
-                debugLog.push(JSON.stringify(data, null, 2));
+        for (let i = 1; i < lines.length; i++) {
+            const line = lines[i].trim();
+            if (line) {
+                const [spread, payout] = line.split(',');
+                spreadData[parseFloat(spread)] = parseFloat(payout);
             }
-            console.log(logEntry, data);
-        }
-
-        function showDebug() {
-            const debugDiv = document.getElementById('debug');
-            debugDiv.innerHTML = '<h3>Debug Log</h3><pre>' + debugLog.join('\n') + '</pre>';
-            debugDiv.style.display = 'block';
-        }
-
-        function parseCSVLine(line) {
-            const result = [];
-            let current = '';
-            let inQuotes = false;
-            
-            for (let i = 0; i < line.length; i++) {
-                const char = line[i];
-                
-                if (char === '"') {
-                    inQuotes = !inQuotes;
-                } else if (char === ',' && !inQuotes) {
-                    result.push(current.trim());
-                    current = '';
-                } else {
-                    current += char;
-                }
-            }
-            result.push(current.trim());
-            return result;
-        }
-
-        function parseCSV(text) {
-            log('Starting CSV parsing');
-            const lines = text.split('\n').filter(line => line.trim().length > 0);
-            log(`Found ${lines.length} lines in CSV`);
-            
-            if (lines.length === 0) {
-                log('ERROR: No lines found in CSV');
-                return [];
-            }
-
-            const headers = parseCSVLine(lines[0]);
-            log('CSV Headers:', headers);
-            
-            const data = [];
-            for (let i = 1; i < lines.length; i++) {
-                const values = parseCSVLine(lines[i]);
-                
-                if (values.length !== headers.length) {
-                    log(`WARNING: Line ${i + 1} has ${values.length} values but expected ${headers.length}`);
-                    continue;
-                }
-                
-                const row = {};
-                headers.forEach((header, index) => {
-                    row[header] = values[index];
-                });
-                data.push(row);
-            }
-            
-            log(`Successfully parsed ${data.length} data rows`);
-            if (data.length > 0) {
-                log('Sample row:', data[0]);
-            }
-            
-            return data;
-        }
-
-        async function loadSpreadsData() {
-            try {
-                log('Loading spreads data from CSV...');
-                const response = await fetch('spreads_lookup_combined.csv');
-                
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-                
-                const text = await response.text();
-                log(`Loaded CSV file, size: ${text.length} characters`);
-                
-                spreadsData = parseCSV(text);
-                log(`Loaded ${spreadsData.length} spread entries`);
-                
-                // Populate sector dropdown
-                populateSectors();
-                
-                // Enable calculate button
-                document.getElementById('calculateBtn').disabled = false;
-                
-                log('Data loading complete');
-                
-            } catch (error) {
-                log('ERROR loading spreads data:', error);
-                document.getElementById('result').innerHTML = 
-                    '<div class="result error">Error loading spreads data: ' + error.message + '</div>';
-                showDebug();
-            }
-        }
-
-        function populateSectors() {
-            const sectors = [...new Set(spreadsData.map(row => row.sector || row.Sector))].filter(s => s).sort();
-            log(`Found ${sectors.length} unique sectors:`, sectors);
-            
-            const sectorSelect = document.getElementById('sector');
-            sectorSelect.innerHTML = '<option value="">Select Sector</option>';
-            
-            sectors.forEach(sector => {
-                const option = document.createElement('option');
-                option.value = sector;
-                option.textContent = sector;
-                sectorSelect.appendChild(option);
-            });
-        }
-
-        function findClosestMatch(rating, maturity, sector) {
-            log(`\n=== Starting lookup ===`);
-            log(`Input: Rating=${rating}, Maturity=${maturity}, Sector=${sector}`);
-            
-            // Filter by rating and sector
-            const filtered = spreadsData.filter(row => {
-                const rowRating = row.rating || row.Rating;
-                const rowSector = row.sector || row.Sector;
-                return rowRating === rating && rowSector === sector;
-            });
-            
-            log(`Found ${filtered.length} rows matching rating and sector`);
-            
-            if (filtered.length === 0) {
-                log('No matches found for given rating and sector');
-                return null;
-            }
-
-            // Log available maturities for this rating/sector combination
-            const availableMaturities = filtered.map(row => {
-                const mat = parseFloat(row.maturity || row.Maturity);
-                return mat;
-            }).sort((a, b) => a - b);
-            log('Available maturities:', availableMaturities);
-
-            // Find closest maturity
-            let closest = filtered[0];
-            let minDiff = Math.abs(parseFloat(closest.maturity || closest.Maturity) - maturity);
-            
-            for (let row of filtered) {
-                const rowMaturity = parseFloat(row.maturity || row.Maturity);
-                const diff = Math.abs(rowMaturity - maturity);
-                
-                if (diff < minDiff) {
-                    minDiff = diff;
-                    closest = row;
-                }
-            }
-            
-            log('Closest match found:', {
-                rating: closest.rating || closest.Rating,
-                maturity: closest.maturity || closest.Maturity,
-                sector: closest.sector || closest.Sector,
-                market_spread: closest.market_spread || closest['Market Spread'],
-                model_spread: closest.model_spread || closest['Model Spread']
-            });
-            
-            return closest;
         }
 
         function calculateSpread() {
-            debugLog = []; // Reset debug log
-            
-            const rating = document.getElementById('rating').value;
-            const maturity = parseFloat(document.getElementById('maturity').value);
-            const sector = document.getElementById('sector').value;
+            const buyPrice = parseFloat(document.getElementById('buyPrice').value);
+            const sellPrice = parseFloat(document.getElementById('sellPrice').value);
             const resultDiv = document.getElementById('result');
+            const errorDiv = document.getElementById('error');
 
-            log('=== Calculate Spread Called ===');
-            log(`Inputs - Rating: ${rating}, Maturity: ${maturity}, Sector: ${sector}`);
+            errorDiv.textContent = '';
+            resultDiv.classList.remove('show');
 
-            // Validation
-            if (!rating || !maturity || !sector) {
-                resultDiv.innerHTML = '<div class="result error">Please fill in all fields</div>';
-                showDebug();
+            if (isNaN(buyPrice) || isNaN(sellPrice)) {
+                errorDiv.textContent = 'Please enter valid numbers for both prices';
                 return;
             }
 
-            if (spreadsData.length === 0) {
-                resultDiv.innerHTML = '<div class="result error">Spreads data not loaded yet. Please wait...</div>';
-                showDebug();
+            if (buyPrice <= 0 || sellPrice <= 0) {
+                errorDiv.textContent = 'Prices must be greater than zero';
                 return;
             }
 
-            // Find match
-            const match = findClosestMatch(rating, maturity, sector);
-
-            if (!match) {
-                resultDiv.innerHTML = '<div class="result error">No matching spread found for the given criteria</div>';
-                showDebug();
-                return;
+            const spread = Math.round((sellPrice - buyPrice) * 100) / 100;
+            
+            let payout = spreadData[spread];
+            if (payout === undefined) {
+                payout = 'N/A';
+            } else {
+                payout = `$${payout.toFixed(2)}`;
             }
 
-            // Extract values (handle different possible column names)
-            const matchedMaturity = match.maturity || match.Maturity;
-            const marketSpread = match.market_spread || match['Market Spread'] || match['market_spread'];
-            const modelSpread = match.model_spread || match['Model Spread'] || match['model_spread'];
-
-            log('Extracted values:', {
-                matchedMaturity,
-                marketSpread,
-                modelSpread
-            });
-
-            // Display results
-            resultDiv.innerHTML = `
-                <div class="result">
-                    <h2>Results</h2>
-                    <table>
-                        <tr>
-                            <th>Parameter</th>
-                            <th>Input</th>
-                            <th>Matched</th>
-                        </tr>
-                        <tr>
-                            <td><strong>Rating</strong></td>
-                            <td>${rating}</td>
-                            <td>${rating}</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Maturity</strong></td>
-                            <td>${maturity} years</td>
-                            <td>${matchedMaturity} years</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Sector</strong></td>
-                            <td>${sector}</td>
-                            <td>${sector}</td>
-                        </tr>
-                    </table>
-                    <h3 style="margin-top: 20px;">Spread Values</h3>
-                    <table>
-                        <tr>
-                            <th>Spread Type</th>
-                            <th>Value (bps)</th>
-                        </tr>
-                        <tr>
-                            <td><strong>Market Spread</strong></td>
-                            <td>${marketSpread}</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Model Spread</strong></td>
-                            <td>${modelSpread}</td>
-                        </tr>
-                    </table>
-                </div>
-            `;
-
-            showDebug();
+            document.getElementById('spread').textContent = `$${spread.toFixed(2)}`;
+            document.getElementById('payout').textContent = payout;
+            
+            resultDiv.classList.add('show');
         }
 
-        // Load data on page load
-        window.addEventListener('load', () => {
-            document.getElementById('calculateBtn').disabled = true;
-            document.getElementById('result').innerHTML = 
-                '<div class="result loading">Loading spreads data...</div>';
-            loadSpreadsData();
+        document.getElementById('buyPrice').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') calculateSpread();
+        });
+
+        document.getElementById('sellPrice').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') calculateSpread();
         });
     </script>
 </body>
