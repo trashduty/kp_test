@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Odds Calculator</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            max-width: 600px;
+            width: 100%;
+            padding: 40px;
+        }
+        
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 28px;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+        
+        .input-group {
+            margin-bottom: 20px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #444;
+            font-weight: 600;
+            font-size: 14px;
+        }
+        
+        input[type="number"] {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 6px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+        
+        input[type="number"]:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .help-text {
+            font-size: 12px;
+            color: #999;
+            margin-top: 4px;
+        }
+        
+        button {
+            width: 100%;
+            padding: 14px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            margin-top: 10px;
+        }
+        
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+        
+        button:active {
+            transform: translateY(0);
+        }
+        
+        button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .result-card {
+            margin-top: 30px;
+            padding: 25px;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            border-radius: 8px;
+            display: none;
+        }
+        
+        .result-card.show {
+            display: block;
+            animation: slideIn 0.3s ease-out;
+        }
+        
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .result-card h2 {
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 20px;
+            text-align: center;
+        }
+        
+        .result-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+        }
+        
+        .result-item:last-child {
+            border-bottom: none;
+        }
+        
+        .result-label {
+            font-weight: 600;
+            color: #555;
+        }
+        
+        .result-value {
+            font-weight: 600;
+            color: #667eea;
+        }
+        
+        .result-value.positive {
+            color: #10b981;
+        }
+        
+        .result-value.negative {
+            color: #ef4444;
+        }
+        
+        .error-message {
+            background: #fee;
+            color: #c33;
+            padding: 12px;
+            border-radius: 6px;
+            margin-top: 20px;
+            display: none;
+            text-align: center;
+        }
+        
+        .error-message.show {
+            display: block;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 20px;
+            display: none;
+        }
+        
+        .loading.show {
+            display: block;
+        }
+        
+        .spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                padding: 30px 20px;
+            }
+            
+            h1 {
+                font-size: 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎯 Online Odds Calculator</h1>
+        <p class="subtitle">Calculate cover probability and betting edge</p>
+        
+        <form id="calculatorForm">
+            <div class="input-group">
+                <label for="marketLine">Market Line</label>
+                <input type="number" id="marketLine" step="0.5" placeholder="e.g., -60" required>
+                <div class="help-text">The spread offered by the sportsbook</div>
+            </div>
+
+            <div class="input-group">
+                <label for="modelPrediction">Model Prediction</label>
+                <input type="number" id="modelPrediction" step="0.5" placeholder="e.g., -60" required>
+                <div class="help-text">Your model's predicted spread</div>
+            </div>
+
+            <div class="input-group">
+                <label for="odds">Betting Odds</label>
+                <input type="number" id="odds" step="1" placeholder="e.g., -110" required>
+                <div class="help-text">American odds (negative or positive)</div>
+            </div>
+
+            <button type="submit">Calculate Edge</button>
+        </form>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p style="margin-top: 10px; color: #666;">Calculating...</p>
+        </div>
+
+        <div class="error-message" id="errorMessage"></div>
+
+        <div class="result-card" id="resultCard">
+            <h2>📊 Results</h2>
+            <div class="result-item">
+                <span class="result-label">Cover Probability:</span>
+                <span class="result-value" id="coverProb"></span>
+            </div>
+            <div class="result-item">
+                <span class="result-label">Implied Probability:</span>
+                <span class="result-value" id="impliedProb"></span>
+            </div>
+            <div class="result-item">
+                <span class="result-label">Edge:</span>
+                <span class="result-value" id="edge"></span>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let spreadData = null;
+        let dataLoaded = false;
+
+        // Load the JSON data when page loads
+        async function loadSpreadData() {
+            try {
+                const response = await fetch('spreads_lookup_combined.json');
+                if (!response.ok) {
+                    throw new Error('Failed to load spread data');
+                }
+                spreadData = await response.json();
+                dataLoaded = true;
+                console.log(`Loaded ${spreadData.length} records`);
+            } catch (error) {
+                console.error('Error loading spread data:', error);
+                showError('Failed to load spread data. Please refresh the page.');
+            }
+        }
+
+        // Load data when page loads
+        loadSpreadData();
+
+        // Calculate implied probability from American odds
+        function calculateImpliedProbability(odds) {
+            if (odds < 0) {
+                // Negative odds: |odds| / (|odds| + 100)
+                return Math.abs(odds) / (Math.abs(odds) + 100);
+            } else {
+                // Positive odds: 100 / (odds + 100)
+                return 100 / (odds + 100);
+            }
+        }
+
+        // Find the closest matching entry in the spread data
+        function findMatchingSpread(marketLine, modelPrediction) {
+            if (!spreadData) {
+                return null;
+            }
+
+            // Find exact or closest match
+            let closestMatch = null;
+            let minDistance = Infinity;
+
+            for (const entry of spreadData) {
+                const marketDiff = Math.abs(entry.market_spread - marketLine);
+                const modelDiff = Math.abs(entry.model_spread - modelPrediction);
+                const distance = marketDiff + modelDiff;
+
+                if (distance < minDistance) {
+                    minDistance = distance;
+                    closestMatch = entry;
+                }
+
+                // If we find an exact match, return immediately
+                if (distance === 0) {
+                    return closestMatch;
+                }
+            }
+
+            return closestMatch;
+        }
+
+        // Handle form submission
+        document.getElementById('calculatorForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            calculateEdge();
+        });
+
+        function calculateEdge() {
+            // Hide previous results
+            document.getElementById('resultCard').classList.remove('show');
+            document.getElementById('errorMessage').classList.remove('show');
+
+            // Check if data is loaded
+            if (!dataLoaded) {
+                showError('Spread data is still loading. Please wait a moment and try again.');
+                return;
+            }
+
+            // Show loading
+            document.getElementById('loading').classList.add('show');
+
+            // Get input values
+            const marketLine = parseFloat(document.getElementById('marketLine').value);
+            const modelPrediction = parseFloat(document.getElementById('modelPrediction').value);
+            const odds = parseFloat(document.getElementById('odds').value);
+
+            // Validate inputs
+            if (isNaN(marketLine) || isNaN(modelPrediction) || isNaN(odds)) {
+                showError('Please enter valid numbers for all fields');
+                document.getElementById('loading').classList.remove('show');
+                return;
+            }
+
+            // Simulate processing delay for better UX
+            setTimeout(() => {
+                // Find matching entry in spread data
+                const match = findMatchingSpread(marketLine, modelPrediction);
+
+                document.getElementById('loading').classList.remove('show');
+
+                if (match) {
+                    // Calculate implied probability from odds
+                    const impliedProbability = calculateImpliedProbability(odds);
+                    
+                    // Calculate edge: cover_prob - implied_probability
+                    const edge = match.cover_prob - impliedProbability;
+
+                    // Display results
+                    document.getElementById('coverProb').textContent = (match.cover_prob * 100).toFixed(2) + '%';
+                    document.getElementById('impliedProb').textContent = (impliedProbability * 100).toFixed(2) + '%';
+                    
+                    const edgeElement = document.getElementById('edge');
+                    const edgePercent = (edge * 100).toFixed(2) + '%';
+                    edgeElement.textContent = edgePercent;
+                    
+                    // Color code the edge based on positive/negative
+                    edgeElement.classList.remove('positive', 'negative');
+                    if (edge > 0) {
+                        edgeElement.classList.add('positive');
+                    } else if (edge < 0) {
+                        edgeElement.classList.add('negative');
+                    }
+                    
+                    document.getElementById('resultCard').classList.add('show');
+                } else {
+                    showError('No matching spread data found. Please try different values.');
+                }
+            }, 300);
+        }
+
+        function showError(message) {
+            const errorDiv = document.getElementById('errorMessage');
+            errorDiv.textContent = message;
+            errorDiv.classList.add('show');
+        }
+    </script>
+</body>
+</html>
