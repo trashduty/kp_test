@@ -1,10 +1,20 @@
 # KenPom Efficiency Plots - GitHub Pages Setup
 
-This repository hosts KenPom college basketball efficiency plots that are automatically updated daily via GitHub Actions.
+This repository hosts KenPom college basketball efficiency plots that are automatically updated daily via GitHub Actions, plus an interactive online odds calculator for betting analysis.
 
 ## 📊 View the Plots
 
 Visit the live GitHub Pages site: **https://trashduty.github.io/kp_test/**
+
+## 🎯 Online Odds Calculator
+
+Calculate cover probability and betting edge: **https://trashduty.github.io/kp_test/odds-calculator.html**
+
+The odds calculator enables users to:
+- Input market line, model prediction, and betting odds
+- Calculate cover probability based on historical spread data
+- Compute implied probability from American odds (positive or negative)
+- Determine betting edge (cover probability minus implied probability)
 
 ## 🚀 GitHub Pages Setup Instructions
 
@@ -23,10 +33,12 @@ To enable GitHub Pages for this repository:
 
 ```
 docs/
-├── index.html          # Main page displaying all plots
+├── index.html                      # Main page displaying all plots
+├── odds-calculator.html            # Interactive odds calculator
+├── spreads_lookup_combined.json    # Spread probability data (27MB)
 ├── css/
-│   └── style.css       # Styling for the page
-└── plots/              # Plot images (automatically updated)
+│   └── style.css                   # Styling for the page
+└── plots/                          # Plot images (automatically updated)
     ├── kenpom_top100_eff.png
     ├── kenpom_ap25_eff.png
     ├── march_madness_championship_odds.png
@@ -52,9 +64,19 @@ The plots are automatically updated daily via GitHub Actions:
 3. Generates March Madness contenders plot with odds overlay
 4. Commits and pushes the updated plot
 
-## 🔗 Embedding Plots
+## 🔗 Embedding Content
 
-You can embed these plots on external websites:
+You can embed plots and the odds calculator on external websites:
+
+### Odds Calculator
+```html
+<iframe src="https://trashduty.github.io/kp_test/odds-calculator.html" 
+        width="100%" 
+        height="700px" 
+        frameborder="0"
+        style="max-width: 650px; margin: 0 auto; display: block;">
+</iframe>
+```
 
 ### Top 100 Plot
 ```html
@@ -90,12 +112,37 @@ You can embed these plots on external websites:
 
 ## 📝 Features
 
+### Efficiency Plots
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 - **Auto-updating**: Plots refresh daily without manual intervention
 - **Clean Layout**: Organized by Top 100, AP Top 25, March Madness, and Conference sections
 - **Easy Embedding**: Simple URLs for external use
 - **Lazy Loading**: Images load efficiently for better performance
 - **Championship Odds**: Integrated odds data from The Odds API for March Madness contenders
+
+### Odds Calculator
+- **Client-side Processing**: Fully browser-based, no backend required
+- **Real-time Calculations**: Instant results as you input values
+- **Comprehensive Data**: 174,000+ probability records from historical spread data
+- **American Odds Support**: Handles both negative and positive odds formats
+- **Edge Detection**: Automatically calculates betting edge to identify value bets
+
+## 🎲 How the Odds Calculator Works
+
+1. **User Input**: Enter the market line, model prediction, and betting odds
+2. **Data Lookup**: Fetches matching probability from `spreads_lookup_combined.json` (174,243 records)
+3. **Implied Probability**: Calculates from American odds
+   - Negative odds: `|odds| / (|odds| + 100)` (e.g., -110 → 52.38%)
+   - Positive odds: `100 / (odds + 100)` (e.g., +200 → 33.33%)
+4. **Edge Calculation**: `cover_prob - implied_probability`
+   - Positive edge suggests value bet
+   - Negative edge suggests bet against
+
+### Example
+Input: Market Line: -60, Prediction: -60, Odds: -110
+- Cover Probability: 50.00%
+- Implied Probability: 52.38%
+- Edge: -2.38% (suggests avoiding this bet)
 
 ## 🛠️ Customization
 
