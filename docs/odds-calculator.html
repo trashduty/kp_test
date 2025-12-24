@@ -306,22 +306,30 @@
                 return null;
             }
 
-            // Find exact or closest match
+            // Step 1: Filter for exact market_spread matches with total_category = 2
+            const exactMarketMatches = spreadData.filter(entry => 
+                entry.market_spread === marketLine && entry.total_category === 2
+            );
+
+            // If no exact market matches found, return null
+            if (exactMarketMatches.length === 0) {
+                return null;
+            }
+
+            // Step 2: Find the closest model_spread within exact market matches
             let closestMatch = null;
-            let minDistance = Infinity;
+            let minModelDiff = Infinity;
 
-            for (const entry of spreadData) {
-                const marketDiff = Math.abs(entry.market_spread - marketLine);
+            for (const entry of exactMarketMatches) {
                 const modelDiff = Math.abs(entry.model_spread - modelPrediction);
-                const distance = marketDiff + modelDiff;
 
-                if (distance < minDistance) {
-                    minDistance = distance;
+                if (modelDiff < minModelDiff) {
+                    minModelDiff = modelDiff;
                     closestMatch = entry;
                 }
 
                 // If we find an exact match, return immediately
-                if (distance === 0) {
+                if (modelDiff === 0) {
                     return closestMatch;
                 }
             }
