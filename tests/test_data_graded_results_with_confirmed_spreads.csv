@@ -1,0 +1,13 @@
+team,home_team,away_team,opening_spread,predicted_outcome,spread_cover_probability,other_data,spread_cover_probability_confirmed,spread_cover_probability_match_flag
+Duke,Duke,UNC,-7.5,-7.5,0.5,Game1,0.5,1
+UNC,Duke,UNC,-7.5,-7.0,0.48,Game1,0.48,1
+Kentucky,Kentucky,Louisville,-7.0,-7.0,0.5,Game2,0.5,1
+Louisville,Kentucky,Louisville,-7.0,-6.5,0.48,Game2,0.48,1
+Kansas,Kansas,Missouri,-6.5,-6.5,0.5,Game3,0.5,1
+Missouri,Kansas,Missouri,-6.5,-7.0,0.52,Game3,0.52,1
+Syracuse,Syracuse,Georgetown,-3.5,-3.5,0.5,Game4,0.5,1
+Georgetown,Syracuse,Georgetown,-3.5,-3.0,0.485,Game4,0.485,1
+Villanova,Villanova,Seton Hall,-3.0,-3.0,0.5,Game5,0.5,1
+Seton Hall,Villanova,Seton Hall,-3.0,-3.5,0.515,Game5,0.515,1
+Arizona,Arizona,UCLA,-99.0,-99.0,0.9999,Game6_NoMatch,,0
+UCLA,Arizona,UCLA,-99.0,-99.0,0.0001,Game6_NoMatch,,0
