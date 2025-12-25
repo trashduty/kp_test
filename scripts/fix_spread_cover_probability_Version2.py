@@ -49,7 +49,7 @@ def get_total_category(market_total):
     
     Categories are based on typical college basketball total ranges:
     - Category 1: Low totals (< 145)
-    - Category 2: Medium totals (145-160)
+    - Category 2: Medium totals (145-160, inclusive)
     - Category 3: High totals (> 160)
     """
     if pd.isna(market_total):
@@ -58,7 +58,7 @@ def get_total_category(market_total):
     
     if market_total < 145:
         return 1
-    elif market_total < 160:
+    elif market_total <= 160:
         return 2
     else:
         return 3
