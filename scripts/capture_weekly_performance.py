@@ -89,6 +89,11 @@ def is_within_capture_window(opening_time_str):
     time_since_opening = now - opening_time
     hours_since_opening = time_since_opening.total_seconds() / 3600
     
+    # Don't capture if opening time is in the future
+    if hours_since_opening < 0:
+        return False
+    
+    # Don't capture if more than CAPTURE_WINDOW_HOURS have passed
     if hours_since_opening > CAPTURE_WINDOW_HOURS:
         return False
     
@@ -208,8 +213,8 @@ def capture_edges():
             
             game_id = create_game_id(row, 'over')
             
-            # Only capture if not already captured
-            if game_id not in captured_edges:
+            # Only capture if not already captured (check both persistent and current session)
+            if game_id not in captured_edges and game_id not in new_captured_ids:
                 capture_record = {
                     'Capture Time': datetime.now(timezone.utc).isoformat(),
                     'Game': row['Game'],
@@ -237,8 +242,8 @@ def capture_edges():
             
             game_id = create_game_id(row, 'under')
             
-            # Only capture if not already captured
-            if game_id not in captured_edges:
+            # Only capture if not already captured (check both persistent and current session)
+            if game_id not in captured_edges and game_id not in new_captured_ids:
                 capture_record = {
                     'Capture Time': datetime.now(timezone.utc).isoformat(),
                     'Game': row['Game'],
@@ -266,7 +271,9 @@ def capture_edges():
         captures_by_week = {}
         for capture in new_captures:
             # Parse capture time to get ISO week
-            capture_time = datetime.fromisoformat(capture['Capture Time'])
+            # Handle timezone-aware ISO strings by replacing '+00:00' with 'Z'
+            capture_time_str = capture['Capture Time'].replace('+00:00', 'Z')
+            capture_time = datetime.fromisoformat(capture_time_str.replace('Z', '+00:00'))
             week_string = get_iso_week_string(capture_time)
             
             if week_string not in captures_by_week:
