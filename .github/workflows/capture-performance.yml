@@ -1,0 +1,41 @@
+name: Capture Weekly Performance
+
+on:
+  schedule:
+    # Run every 15 minutes
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # Needed to push changes back to the repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas requests
+
+      - name: Run capture script
+        run: python scripts/capture_weekly_performance.py
+        continue-on-error: false
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add performance_tracking/ captured_edges.json
+          git diff --staged --quiet || git commit -m "Update weekly performance tracking [automated]"
+          git push
+        continue-on-error: true
