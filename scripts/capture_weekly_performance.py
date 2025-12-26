@@ -11,6 +11,7 @@ import json
 import os
 import sys
 from datetime import datetime, timezone, timedelta
+from io import StringIO
 import requests
 
 # Define paths
@@ -113,8 +114,7 @@ def fetch_cbb_data():
         response = requests.get(CBB_OUTPUT_URL)
         response.raise_for_status()
         
-        # Save to temporary file and read with pandas
-        from io import StringIO
+        # Read CSV directly from response text
         df = pd.read_csv(StringIO(response.text))
         print(f"Loaded {len(df)} rows from CSV")
         return df
@@ -155,8 +155,8 @@ def capture_edges():
             
             game_id = create_game_team_id(row, 'spread')
             
-            # Only capture if not already captured
-            if game_id not in captured_edges:
+            # Only capture if not already captured (check both persistent and current session)
+            if game_id not in captured_edges and game_id not in new_captured_ids:
                 capture_record = {
                     'Capture Time': datetime.now(timezone.utc).isoformat(),
                     'Game': row['Game'],
@@ -184,8 +184,8 @@ def capture_edges():
             
             game_id = create_game_team_id(row, 'moneyline')
             
-            # Only capture if not already captured
-            if game_id not in captured_edges:
+            # Only capture if not already captured (check both persistent and current session)
+            if game_id not in captured_edges and game_id not in new_captured_ids:
                 capture_record = {
                     'Capture Time': datetime.now(timezone.utc).isoformat(),
                     'Game': row['Game'],
@@ -271,9 +271,8 @@ def capture_edges():
         captures_by_week = {}
         for capture in new_captures:
             # Parse capture time to get ISO week
-            # Handle timezone-aware ISO strings by replacing '+00:00' with 'Z'
-            capture_time_str = capture['Capture Time'].replace('+00:00', 'Z')
-            capture_time = datetime.fromisoformat(capture_time_str.replace('Z', '+00:00'))
+            # The isoformat() method produces strings that fromisoformat() can parse
+            capture_time = datetime.fromisoformat(capture['Capture Time'])
             week_string = get_iso_week_string(capture_time)
             
             if week_string not in captures_by_week:
