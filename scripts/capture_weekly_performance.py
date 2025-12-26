@@ -26,7 +26,8 @@ CBB_OUTPUT_URL = 'https://raw.githubusercontent.com/trashduty/cbb/main/CBB_Outpu
 # Thresholds
 SPREAD_THRESHOLD = 0.01  # 1%
 TOTAL_THRESHOLD = 0.01   # 1%
-MONEYLINE_THRESHOLD = 0.50  # 50%
+MONEYLINE_WIN_PROBABILITY_THRESHOLD = 0.50  # 50%
+MONEYLINE_EDGE_THRESHOLD = 0.01  # 1%
 
 # Capture window (in hours from Opening Odds Time)
 CAPTURE_WINDOW_HOURS = 2
@@ -178,9 +179,11 @@ def capture_edges():
                 }
                 print(f"✓ Captured spread edge: {row['Team']} ({row['Edge For Covering Spread']:.2%})")
         
-        # Check Moneyline Edge (using win probability >= 50%)
+        # Check Moneyline Edge (using win probability >= 50% AND edge >= 1%)
         if (pd.notna(row.get('Moneyline Win Probability')) and 
-            row['Moneyline Win Probability'] >= MONEYLINE_THRESHOLD):
+            row['Moneyline Win Probability'] >= MONEYLINE_WIN_PROBABILITY_THRESHOLD and
+            pd.notna(row.get('Moneyline Edge')) and
+            row['Moneyline Edge'] >= MONEYLINE_EDGE_THRESHOLD):
             
             game_id = create_game_team_id(row, 'moneyline')
             
@@ -205,7 +208,7 @@ def capture_edges():
                     'captured_at': datetime.now(timezone.utc).isoformat(),
                     'edge_type': 'moneyline'
                 }
-                print(f"✓ Captured moneyline edge: {row['Team']} ({row['Moneyline Win Probability']:.2%})")
+                print(f"✓ Captured moneyline edge: {row['Team']} (Win Prob: {row['Moneyline Win Probability']:.2%}, Edge: {row['Moneyline Edge']:.2%})")
         
         # Check Over Total Edge
         if (pd.notna(row.get('Over Total Edge')) and 
