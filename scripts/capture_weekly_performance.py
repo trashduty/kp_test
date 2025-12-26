@@ -30,7 +30,10 @@ MONEYLINE_WIN_PROBABILITY_THRESHOLD = 0.50  # 50%
 MONEYLINE_EDGE_THRESHOLD = 0.01  # 1%
 
 # Capture window (in hours from Opening Odds Time)
-CAPTURE_WINDOW_HOURS = 2
+CAPTURE_WINDOW_HOURS = 4
+
+# Maximum line movement threshold (points) - exclude if moved more than this
+MAX_LINE_MOVEMENT = 2.0
 
 
 def load_captured_edges():
@@ -154,6 +157,11 @@ def capture_edges():
         if (pd.notna(row.get('Edge For Covering Spread')) and 
             row['Edge For Covering Spread'] >= SPREAD_THRESHOLD):
             
+            # Check line movement - exclude if moved more than MAX_LINE_MOVEMENT points
+            if (pd.notna(row.get('market_spread')) and pd.notna(row.get('Opening Spread')) and
+                abs(row['market_spread'] - row['Opening Spread']) > MAX_LINE_MOVEMENT):
+                continue
+            
             game_id = create_game_team_id(row, 'spread')
             
             # Only capture if not already captured (check both persistent and current session)
@@ -214,6 +222,11 @@ def capture_edges():
         if (pd.notna(row.get('Over Total Edge')) and 
             row['Over Total Edge'] >= TOTAL_THRESHOLD):
             
+            # Check line movement - exclude if moved more than MAX_LINE_MOVEMENT points
+            if (pd.notna(row.get('market_total')) and pd.notna(row.get('Opening Total')) and
+                abs(row['market_total'] - row['Opening Total']) > MAX_LINE_MOVEMENT):
+                continue
+            
             game_id = create_game_id(row, 'over')
             
             # Only capture if not already captured (check both persistent and current session)
@@ -242,6 +255,11 @@ def capture_edges():
         # Check Under Total Edge
         if (pd.notna(row.get('Under Total Edge')) and 
             row['Under Total Edge'] >= TOTAL_THRESHOLD):
+            
+            # Check line movement - exclude if moved more than MAX_LINE_MOVEMENT points
+            if (pd.notna(row.get('market_total')) and pd.notna(row.get('Opening Total')) and
+                abs(row['market_total'] - row['Opening Total']) > MAX_LINE_MOVEMENT):
+                continue
             
             game_id = create_game_id(row, 'under')
             
