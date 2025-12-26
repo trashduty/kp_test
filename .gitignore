@@ -19,6 +19,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+.pytest_cache/
 
 # Virtual environments
 venv/
@@ -46,6 +47,7 @@ error_fanmatch_screenshot.png
 graded_results.csv
 filtered_graded_results.csv
 page_source*.html
+*_with_confirmed_spreads.csv
 
 # Environment variables
 .env
