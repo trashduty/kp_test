@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KenPom Visualization Dashboard</title>
     <link rel="stylesheet" href="css/style.css">
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <!-- DataTables CSS and JS -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+    <!-- PapaParse -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
 </head>
 <body>
     <div class="container">
@@ -15,6 +22,33 @@
         </header>
 
         <main>
+            <section class="section">
+                <h2>Weekly Performance Tracking</h2>
+                <div id="weekly-performance-container">
+                    <div id="loading-message" class="loading-message">Loading current week's performance data...</div>
+                    <div id="error-message" class="error-message" style="display: none;"></div>
+                    <table id="performance-table" class="display" style="width:100%; display: none;">
+                        <thead>
+                            <tr>
+                                <th>Capture Time</th>
+                                <th>Game</th>
+                                <th>Team</th>
+                                <th>Game Time</th>
+                                <th>Opening Odds Time</th>
+                                <th>Edge Type</th>
+                                <th>Edge Value</th>
+                                <th>Predicted Outcome</th>
+                                <th>Probability</th>
+                                <th>Opening Line</th>
+                                <th>Current Line</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
             <section class="section">
                 <h2>Top 100 Teams Overview</h2>
                 <div class="plot-container">
@@ -194,6 +228,122 @@
     </div>
 
     <script>
+        // Function to calculate ISO week number
+        function getISOWeek(date) {
+            const target = new Date(date.valueOf());
+            const dayNr = (date.getDay() + 6) % 7;
+            target.setDate(target.getDate() - dayNr + 3);
+            const firstThursday = target.valueOf();
+            target.setMonth(0, 1);
+            if (target.getDay() !== 4) {
+                target.setMonth(0, 1 + ((4 - target.getDay()) + 7) % 7);
+            }
+            return 1 + Math.ceil((firstThursday - target) / 604800000);
+        }
+
+        // Function to get ISO year for the week
+        function getISOYear(date) {
+            const target = new Date(date.valueOf());
+            const dayNr = (date.getDay() + 6) % 7;
+            target.setDate(target.getDate() - dayNr + 3);
+            return target.getFullYear();
+        }
+
+        // Load weekly performance data
+        function loadWeeklyPerformance() {
+            const now = new Date();
+            const year = getISOYear(now);
+            const week = getISOWeek(now);
+            
+            const csvUrl = `https://raw.githubusercontent.com/trashduty/kp_test/main/performance_tracking/weekly_performance_${year}_W${week}.csv`;
+            
+            console.log(`Loading performance data for ${year} Week ${week}`);
+            console.log(`CSV URL: ${csvUrl}`);
+            
+            Papa.parse(csvUrl, {
+                download: true,
+                header: true,
+                skipEmptyLines: true,
+                complete: function(results) {
+                    if (results.data && results.data.length > 0) {
+                        // Hide loading message
+                        document.getElementById('loading-message').style.display = 'none';
+                        
+                        // Show and populate table
+                        const table = document.getElementById('performance-table');
+                        table.style.display = 'table';
+                        
+                        // Initialize DataTable
+                        $('#performance-table').DataTable({
+                            data: results.data,
+                            columns: [
+                                { data: 'Capture Time' },
+                                { data: 'Game' },
+                                { data: 'Team' },
+                                { data: 'Game Time' },
+                                { data: 'Opening Odds Time' },
+                                { data: 'Edge Type' },
+                                { 
+                                    data: 'Edge Value',
+                                    render: function(data) {
+                                        return parseFloat(data).toFixed(4);
+                                    }
+                                },
+                                { 
+                                    data: 'Predicted Outcome',
+                                    render: function(data) {
+                                        return parseFloat(data).toFixed(1);
+                                    }
+                                },
+                                { 
+                                    data: 'Probability',
+                                    render: function(data) {
+                                        return (parseFloat(data) * 100).toFixed(2) + '%';
+                                    }
+                                },
+                                { 
+                                    data: 'Opening Line',
+                                    render: function(data) {
+                                        return parseFloat(data).toFixed(1);
+                                    }
+                                },
+                                { 
+                                    data: 'Current Line',
+                                    render: function(data) {
+                                        return parseFloat(data).toFixed(1);
+                                    }
+                                }
+                            ],
+                            pageLength: 25,
+                            responsive: true,
+                            order: [[0, 'desc']], // Sort by Capture Time descending
+                            language: {
+                                search: "Search performance data:",
+                                lengthMenu: "Show _MENU_ entries per page",
+                                info: "Showing _START_ to _END_ of _TOTAL_ entries",
+                                infoEmpty: "No entries available",
+                                infoFiltered: "(filtered from _MAX_ total entries)"
+                            }
+                        });
+                    } else {
+                        showError(`No data found for ${year} Week ${week}.`);
+                    }
+                },
+                error: function(error) {
+                    console.error('Error loading CSV:', error);
+                    showError(`Unable to load performance data for ${year} Week ${week}. The data file may not exist yet.`);
+                }
+            });
+        }
+
+        // Show error message
+        function showError(message) {
+            document.getElementById('loading-message').style.display = 'none';
+            const errorDiv = document.getElementById('error-message');
+            errorDiv.textContent = message;
+            errorDiv.style.display = 'block';
+        }
+
         // Update the last-updated date
         document.getElementById('last-updated').textContent = new Date().toLocaleDateString('en-US', { 
             year: 'numeric', 
@@ -224,6 +374,10 @@
 
         // Add loading state for images
         document.addEventListener('DOMContentLoaded', function() {
+            // Load weekly performance data
+            loadWeeklyPerformance();
+            
+            // Handle image loading
             const images = document.querySelectorAll('.plot-item img');
             images.forEach(img => {
                 const plotItem = img.closest('.plot-item');
