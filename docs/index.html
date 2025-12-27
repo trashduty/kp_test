@@ -286,31 +286,36 @@
                                 { 
                                     data: 'Edge Value',
                                     render: function(data) {
-                                        return parseFloat(data).toFixed(4);
+                                        const num = parseFloat(data);
+                                        return isNaN(num) ? '-' : num.toFixed(4);
                                     }
                                 },
                                 { 
                                     data: 'Predicted Outcome',
                                     render: function(data) {
-                                        return parseFloat(data).toFixed(1);
+                                        const num = parseFloat(data);
+                                        return isNaN(num) ? '-' : num.toFixed(1);
                                     }
                                 },
                                 { 
                                     data: 'Probability',
                                     render: function(data) {
-                                        return (parseFloat(data) * 100).toFixed(2) + '%';
+                                        const num = parseFloat(data);
+                                        return isNaN(num) ? '-' : (num * 100).toFixed(2) + '%';
                                     }
                                 },
                                 { 
                                     data: 'Opening Line',
                                     render: function(data) {
-                                        return parseFloat(data).toFixed(1);
+                                        const num = parseFloat(data);
+                                        return isNaN(num) ? '-' : num.toFixed(1);
                                     }
                                 },
                                 { 
                                     data: 'Current Line',
                                     render: function(data) {
-                                        return parseFloat(data).toFixed(1);
+                                        const num = parseFloat(data);
+                                        return isNaN(num) ? '-' : num.toFixed(1);
                                     }
                                 }
                             ],
