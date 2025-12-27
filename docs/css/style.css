@@ -232,6 +232,109 @@ footer a:hover {
     font-weight: 500;
 }
 
+/* Loading message styling */
+.loading-message {
+    color: #004085;
+    background-color: #cce5ff;
+    border: 1px solid #b8daff;
+    border-radius: 6px;
+    padding: 15px;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 0.95em;
+    font-weight: 500;
+}
+
+/* DataTables container styling */
+#weekly-performance-container {
+    margin-top: 20px;
+}
+
+/* DataTables custom styling to match theme */
+#performance-table {
+    width: 100% !important;
+    border-collapse: collapse;
+    background-color: #fff;
+}
+
+#performance-table thead th {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    font-weight: 600;
+    padding: 12px;
+    text-align: left;
+    border-bottom: 2px solid #667eea;
+}
+
+#performance-table tbody td {
+    padding: 10px 12px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+#performance-table tbody tr:hover {
+    background-color: #f5f7fa;
+}
+
+/* DataTables wrapper styling */
+.dataTables_wrapper {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter,
+.dataTables_wrapper .dataTables_info,
+.dataTables_wrapper .dataTables_paginate {
+    color: #333;
+    font-size: 0.9em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.dataTables_wrapper .dataTables_filter input {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 6px 12px;
+    margin-left: 8px;
+}
+
+.dataTables_wrapper .dataTables_length select {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 6px 12px;
+    margin: 0 8px;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 6px 12px;
+    margin: 0 2px;
+    color: #667eea !important;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white !important;
+    border-color: #667eea;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white !important;
+    border-color: #667eea;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
 /* Loading spinner for images */
 .plot-item.loading::before {
     content: '';
