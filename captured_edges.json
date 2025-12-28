@@ -174,5 +174,49 @@
   "Jacksonville St Gamecocks vs. Western Kentucky Hilltoppers|Jacksonville St Gamecocks|spread": {
     "captured_at": "2025-12-28T21:47:01.728671+00:00",
     "edge_type": "spread"
+  },
+  "Delaware Blue Hens vs. Missouri St Bears|Delaware Blue Hens|moneyline": {
+    "captured_at": "2025-12-28T22:48:35.997815+00:00",
+    "edge_type": "moneyline"
+  },
+  "William & Mary Tribe vs. Towson Tigers|William & Mary Tribe|moneyline": {
+    "captured_at": "2025-12-28T22:48:35.998409+00:00",
+    "edge_type": "moneyline"
+  },
+  "Youngstown St Penguins vs. Detroit Mercy Titans|Youngstown St Penguins|moneyline": {
+    "captured_at": "2025-12-28T22:48:35.999122+00:00",
+    "edge_type": "moneyline"
+  },
+  "Robert Morris Colonials vs. Northern Kentucky Norse|Robert Morris Colonials|moneyline": {
+    "captured_at": "2025-12-28T22:48:36.000065+00:00",
+    "edge_type": "moneyline"
+  },
+  "Hampton Pirates vs. Stony Brook Seawolves|Hampton Pirates|moneyline": {
+    "captured_at": "2025-12-28T22:48:36.000543+00:00",
+    "edge_type": "moneyline"
+  },
+  "Cleveland St Vikings vs. IUPUI Jaguars|Cleveland St Vikings|moneyline": {
+    "captured_at": "2025-12-28T22:48:36.001075+00:00",
+    "edge_type": "moneyline"
+  },
+  "Wright St Raiders vs. Oakland Golden Grizzlies|Wright St Raiders|moneyline": {
+    "captured_at": "2025-12-28T22:48:36.001183+00:00",
+    "edge_type": "moneyline"
+  },
+  "UT Rio Grande Valley Vaqueros vs. New Orleans Privateers|UT Rio Grande Valley Vaqueros|moneyline": {
+    "captured_at": "2025-12-28T22:48:36.002611+00:00",
+    "edge_type": "moneyline"
+  },
+  "Louisiana Tech Bulldogs vs. UTEP Miners|Louisiana Tech Bulldogs|moneyline": {
+    "captured_at": "2025-12-28T22:48:36.002860+00:00",
+    "edge_type": "moneyline"
+  },
+  "Milwaukee Panthers vs. Fort Wayne Mastodons|Milwaukee Panthers|moneyline": {
+    "captured_at": "2025-12-28T22:48:36.004134+00:00",
+    "edge_type": "moneyline"
+  },
+  "UT-Arlington Mavericks vs. Tarleton State Texans|UT-Arlington Mavericks|moneyline": {
+    "captured_at": "2025-12-28T22:48:36.004332+00:00",
+    "edge_type": "moneyline"
   }
 }
