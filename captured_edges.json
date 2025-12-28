@@ -166,5 +166,13 @@
   "Ole Miss Rebels vs. Alcorn St Braves|over": {
     "captured_at": "2025-12-28T21:34:22.047336+00:00",
     "edge_type": "over"
+  },
+  "Rider Broncs vs. Manhattan Jaspers|Rider Broncs|spread": {
+    "captured_at": "2025-12-28T21:47:01.728473+00:00",
+    "edge_type": "spread"
+  },
+  "Jacksonville St Gamecocks vs. Western Kentucky Hilltoppers|Jacksonville St Gamecocks|spread": {
+    "captured_at": "2025-12-28T21:47:01.728671+00:00",
+    "edge_type": "spread"
   }
 }
