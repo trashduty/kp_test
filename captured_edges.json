@@ -10,5 +10,73 @@
   "Louisiana Ragin' Cajuns vs. Norfolk St Spartans|Norfolk St Spartans|spread": {
     "captured_at": "2025-12-26T23:49:01.391232+00:00",
     "edge_type": "spread"
+  },
+  "Sacred Heart Pioneers vs. Merrimack Warriors|Sacred Heart Pioneers|moneyline": {
+    "captured_at": "2025-12-28T19:32:16.846403+00:00",
+    "edge_type": "moneyline"
+  },
+  "William & Mary Tribe vs. Towson Tigers|William & Mary Tribe|spread": {
+    "captured_at": "2025-12-28T19:32:16.846930+00:00",
+    "edge_type": "spread"
+  },
+  "William & Mary Tribe vs. Towson Tigers|under": {
+    "captured_at": "2025-12-28T19:32:16.846977+00:00",
+    "edge_type": "under"
+  },
+  "Florida Gators vs. Dartmouth Big Green|Dartmouth Big Green|spread": {
+    "captured_at": "2025-12-28T19:32:16.847238+00:00",
+    "edge_type": "spread"
+  },
+  "Youngstown St Penguins vs. Detroit Mercy Titans|Youngstown St Penguins|spread": {
+    "captured_at": "2025-12-28T19:32:16.847352+00:00",
+    "edge_type": "spread"
+  },
+  "Robert Morris Colonials vs. Northern Kentucky Norse|Robert Morris Colonials|spread": {
+    "captured_at": "2025-12-28T19:32:16.847805+00:00",
+    "edge_type": "spread"
+  },
+  "Charleston Cougars vs. Drexel Dragons|Drexel Dragons|spread": {
+    "captured_at": "2025-12-28T19:32:16.848060+00:00",
+    "edge_type": "spread"
+  },
+  "Elon Phoenix vs. Northeastern Huskies|Elon Phoenix|spread": {
+    "captured_at": "2025-12-28T19:32:16.848685+00:00",
+    "edge_type": "spread"
+  },
+  "Cleveland St Vikings vs. IUPUI Jaguars|Cleveland St Vikings|spread": {
+    "captured_at": "2025-12-28T19:32:16.849016+00:00",
+    "edge_type": "spread"
+  },
+  "Cleveland St Vikings vs. IUPUI Jaguars|over": {
+    "captured_at": "2025-12-28T19:32:16.849057+00:00",
+    "edge_type": "over"
+  },
+  "Michigan St Spartans vs. Cornell Big Red|Cornell Big Red|spread": {
+    "captured_at": "2025-12-28T19:32:16.849384+00:00",
+    "edge_type": "spread"
+  },
+  "Hofstra Pride vs. Campbell Fighting Camels|Hofstra Pride|spread": {
+    "captured_at": "2025-12-28T19:32:16.849955+00:00",
+    "edge_type": "spread"
+  },
+  "Louisiana Tech Bulldogs vs. UTEP Miners|under": {
+    "captured_at": "2025-12-28T19:32:16.850216+00:00",
+    "edge_type": "under"
+  },
+  "Northern Iowa Panthers vs. Valparaiso Beacons|under": {
+    "captured_at": "2025-12-28T19:32:16.850408+00:00",
+    "edge_type": "under"
+  },
+  "Arkansas Razorbacks vs. James Madison Dukes|Arkansas Razorbacks|spread": {
+    "captured_at": "2025-12-28T19:32:16.850893+00:00",
+    "edge_type": "spread"
+  },
+  "Northern Iowa Panthers vs. Valparaiso Beacons|Northern Iowa Panthers|spread": {
+    "captured_at": "2025-12-28T19:32:16.851143+00:00",
+    "edge_type": "spread"
+  },
+  "Houston Cougars vs. Middle Tennessee Blue Raiders|Middle Tennessee Blue Raiders|spread": {
+    "captured_at": "2025-12-28T19:32:16.851264+00:00",
+    "edge_type": "spread"
   }
 }
