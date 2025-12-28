@@ -150,5 +150,21 @@
   "Hofstra Pride vs. Campbell Fighting Camels|over": {
     "captured_at": "2025-12-28T21:21:47.499092+00:00",
     "edge_type": "over"
+  },
+  "Coppin St Eagles vs. UMBC Retrievers|under": {
+    "captured_at": "2025-12-28T21:34:22.041634+00:00",
+    "edge_type": "under"
+  },
+  "Rutgers Scarlet Knights vs. Delaware St Hornets|over": {
+    "captured_at": "2025-12-28T21:34:22.043215+00:00",
+    "edge_type": "over"
+  },
+  "UT Rio Grande Valley Vaqueros vs. New Orleans Privateers|UT Rio Grande Valley Vaqueros|spread": {
+    "captured_at": "2025-12-28T21:34:22.045856+00:00",
+    "edge_type": "spread"
+  },
+  "Ole Miss Rebels vs. Alcorn St Braves|over": {
+    "captured_at": "2025-12-28T21:34:22.047336+00:00",
+    "edge_type": "over"
   }
 }
