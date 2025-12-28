@@ -94,5 +94,53 @@
   "Arizona Wildcats vs. South Dakota St Jackrabbits|South Dakota St Jackrabbits|spread": {
     "captured_at": "2025-12-28T20:22:32.405136+00:00",
     "edge_type": "spread"
+  },
+  "Illinois Fighting Illini vs. Southern Jaguars|Illinois Fighting Illini|spread": {
+    "captured_at": "2025-12-28T20:48:30.671767+00:00",
+    "edge_type": "spread"
+  },
+  "Iowa Hawkeyes vs. UMass Lowell River Hawks|Iowa Hawkeyes|spread": {
+    "captured_at": "2025-12-28T20:48:30.672270+00:00",
+    "edge_type": "spread"
+  },
+  "Coppin St Eagles vs. UMBC Retrievers|Coppin St Eagles|spread": {
+    "captured_at": "2025-12-28T20:48:30.672553+00:00",
+    "edge_type": "spread"
+  },
+  "Cincinnati Bearcats vs. Lipscomb Bisons|Lipscomb Bisons|spread": {
+    "captured_at": "2025-12-28T20:48:30.674723+00:00",
+    "edge_type": "spread"
+  },
+  "Georgia Bulldogs vs. LIU Sharks|LIU Sharks|spread": {
+    "captured_at": "2025-12-28T20:48:30.675097+00:00",
+    "edge_type": "spread"
+  },
+  "Northwestern St Demons vs. Lamar Cardinals|Northwestern St Demons|spread": {
+    "captured_at": "2025-12-28T20:48:30.675935+00:00",
+    "edge_type": "spread"
+  },
+  "Mississippi St Bulldogs vs. Alabama St Hornets|Alabama St Hornets|spread": {
+    "captured_at": "2025-12-28T20:48:30.676174+00:00",
+    "edge_type": "spread"
+  },
+  "Texas A&M Aggies vs. Prairie View Panthers|Prairie View Panthers|spread": {
+    "captured_at": "2025-12-28T20:48:30.677076+00:00",
+    "edge_type": "spread"
+  },
+  "Oklahoma Sooners vs. Miss Valley St Delta Devils|Miss Valley St Delta Devils|spread": {
+    "captured_at": "2025-12-28T20:48:30.677399+00:00",
+    "edge_type": "spread"
+  },
+  "Oklahoma St Cowboys vs. Bethune-Cookman Wildcats|Oklahoma St Cowboys|spread": {
+    "captured_at": "2025-12-28T20:48:30.677588+00:00",
+    "edge_type": "spread"
+  },
+  "Ole Miss Rebels vs. Alcorn St Braves|Alcorn St Braves|spread": {
+    "captured_at": "2025-12-28T20:48:30.677954+00:00",
+    "edge_type": "spread"
+  },
+  "TCU Horned Frogs vs. Jackson St Tigers|Jackson St Tigers|spread": {
+    "captured_at": "2025-12-28T20:48:30.678327+00:00",
+    "edge_type": "spread"
   }
 }
