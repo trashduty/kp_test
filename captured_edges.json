@@ -146,5 +146,9 @@
   "Rutgers Scarlet Knights vs. Delaware St Hornets|Delaware St Hornets|spread": {
     "captured_at": "2025-12-28T21:02:52.588447+00:00",
     "edge_type": "spread"
+  },
+  "Hofstra Pride vs. Campbell Fighting Camels|over": {
+    "captured_at": "2025-12-28T21:21:47.499092+00:00",
+    "edge_type": "over"
   }
 }
