@@ -234,5 +234,25 @@
   "Bowling Green Falcons vs. Miami (OH) RedHawks|Miami (OH) RedHawks|spread": {
     "captured_at": "2025-12-29T19:32:49.895444+00:00",
     "edge_type": "spread"
+  },
+  "Charlotte 49ers vs. Temple Owls|Charlotte 49ers|moneyline": {
+    "captured_at": "2025-12-29T19:46:58.124019+00:00",
+    "edge_type": "moneyline"
+  },
+  "Eastern Michigan Eagles vs. Massachusetts Minutemen|under": {
+    "captured_at": "2025-12-29T19:46:58.124304+00:00",
+    "edge_type": "under"
+  },
+  "Pepperdine Waves vs. Saint Mary's Gaels|Pepperdine Waves|spread": {
+    "captured_at": "2025-12-29T19:46:58.124793+00:00",
+    "edge_type": "spread"
+  },
+  "Colorado St Rams vs. Nevada Wolf Pack|Nevada Wolf Pack|spread": {
+    "captured_at": "2025-12-29T19:46:58.124907+00:00",
+    "edge_type": "spread"
+  },
+  "Fresno St Bulldogs vs. Utah State Aggies|Fresno St Bulldogs|spread": {
+    "captured_at": "2025-12-29T19:46:58.125156+00:00",
+    "edge_type": "spread"
   }
 }
