@@ -274,5 +274,9 @@
   "Oregon St Beavers vs. San Francisco Dons|Oregon St Beavers|spread": {
     "captured_at": "2025-12-29T20:03:01.034931+00:00",
     "edge_type": "spread"
+  },
+  "Davidson Wildcats vs. Duquesne Dukes|Davidson Wildcats|spread": {
+    "captured_at": "2025-12-29T23:02:55.258056+00:00",
+    "edge_type": "spread"
   }
 }
