@@ -218,5 +218,13 @@
   "UT-Arlington Mavericks vs. Tarleton State Texans|UT-Arlington Mavericks|moneyline": {
     "captured_at": "2025-12-28T22:48:36.004332+00:00",
     "edge_type": "moneyline"
+  },
+  "North Carolina Tar Heels vs. Florida St Seminoles|North Carolina Tar Heels|spread": {
+    "captured_at": "2025-12-29T18:23:51.270657+00:00",
+    "edge_type": "spread"
+  },
+  "Creighton Bluejays vs. Butler Bulldogs|Creighton Bluejays|moneyline": {
+    "captured_at": "2025-12-29T18:23:51.270949+00:00",
+    "edge_type": "moneyline"
   }
 }
