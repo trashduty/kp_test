@@ -254,5 +254,25 @@
   "Fresno St Bulldogs vs. Utah State Aggies|Fresno St Bulldogs|spread": {
     "captured_at": "2025-12-29T19:46:58.125156+00:00",
     "edge_type": "spread"
+  },
+  "Air Force Falcons vs. Wyoming Cowboys|under": {
+    "captured_at": "2025-12-29T20:03:01.031398+00:00",
+    "edge_type": "under"
+  },
+  "Air Force Falcons vs. Wyoming Cowboys|Wyoming Cowboys|spread": {
+    "captured_at": "2025-12-29T20:03:01.031519+00:00",
+    "edge_type": "spread"
+  },
+  "Wisconsin Badgers vs. Milwaukee Panthers|Milwaukee Panthers|spread": {
+    "captured_at": "2025-12-29T20:03:01.032241+00:00",
+    "edge_type": "spread"
+  },
+  "San Diego Toreros vs. Gonzaga Bulldogs|under": {
+    "captured_at": "2025-12-29T20:03:01.034331+00:00",
+    "edge_type": "under"
+  },
+  "Oregon St Beavers vs. San Francisco Dons|Oregon St Beavers|spread": {
+    "captured_at": "2025-12-29T20:03:01.034931+00:00",
+    "edge_type": "spread"
   }
 }
