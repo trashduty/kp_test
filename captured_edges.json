@@ -314,5 +314,17 @@
   "North Carolina A&T Aggies vs. Northeastern Huskies|North Carolina A&T Aggies|spread": {
     "captured_at": "2025-12-30T20:22:48.802335+00:00",
     "edge_type": "spread"
+  },
+  "South Carolina Upstate Spartans vs. Radford Highlanders|South Carolina Upstate Spartans|spread": {
+    "captured_at": "2025-12-30T21:03:01.957347+00:00",
+    "edge_type": "spread"
+  },
+  "UNC Asheville Bulldogs vs. High Point Panthers|UNC Asheville Bulldogs|spread": {
+    "captured_at": "2025-12-30T21:03:01.958345+00:00",
+    "edge_type": "spread"
+  },
+  "UT Rio Grande Valley Vaqueros vs. Nicholls St Colonels|UT Rio Grande Valley Vaqueros|spread": {
+    "captured_at": "2025-12-30T21:03:01.960784+00:00",
+    "edge_type": "spread"
   }
 }
