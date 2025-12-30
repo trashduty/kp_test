@@ -282,5 +282,9 @@
   "Tennessee Volunteers vs. South Carolina St Bulldogs|South Carolina St Bulldogs|spread": {
     "captured_at": "2025-12-30T01:10:09.980774+00:00",
     "edge_type": "spread"
+  },
+  "Rhode Island Rams vs. Loyola (Chi) Ramblers|Rhode Island Rams|spread": {
+    "captured_at": "2025-12-30T20:02:53.772035+00:00",
+    "edge_type": "spread"
   }
 }
