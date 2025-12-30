@@ -286,5 +286,33 @@
   "Rhode Island Rams vs. Loyola (Chi) Ramblers|Rhode Island Rams|spread": {
     "captured_at": "2025-12-30T20:02:53.772035+00:00",
     "edge_type": "spread"
+  },
+  "Western Carolina Catamounts vs. Wofford Terriers|Western Carolina Catamounts|spread": {
+    "captured_at": "2025-12-30T20:22:48.800021+00:00",
+    "edge_type": "spread"
+  },
+  "Elon Phoenix vs. Charleston Cougars|Elon Phoenix|spread": {
+    "captured_at": "2025-12-30T20:22:48.800458+00:00",
+    "edge_type": "spread"
+  },
+  "William & Mary Tribe vs. Stony Brook Seawolves|William & Mary Tribe|spread": {
+    "captured_at": "2025-12-30T20:22:48.800571+00:00",
+    "edge_type": "spread"
+  },
+  "Dayton Flyers vs. Fordham Rams|Fordham Rams|spread": {
+    "captured_at": "2025-12-30T20:22:48.801097+00:00",
+    "edge_type": "spread"
+  },
+  "Monmouth Hawks vs. Campbell Fighting Camels|Monmouth Hawks|spread": {
+    "captured_at": "2025-12-30T20:22:48.801529+00:00",
+    "edge_type": "spread"
+  },
+  "Hampton Pirates vs. Towson Tigers|Hampton Pirates|spread": {
+    "captured_at": "2025-12-30T20:22:48.802129+00:00",
+    "edge_type": "spread"
+  },
+  "North Carolina A&T Aggies vs. Northeastern Huskies|North Carolina A&T Aggies|spread": {
+    "captured_at": "2025-12-30T20:22:48.802335+00:00",
+    "edge_type": "spread"
   }
 }
