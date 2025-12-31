@@ -41,8 +41,8 @@ The script calculates and displays comprehensive summary statistics including:
 6. Overall Model Totals Record
 7. Moneyline Performance by Win Probability (All Games)
 8. Moneyline Performance by Win Probability (Consensus Only)
-9. Moneyline Performance by Win Probability (4%+ Edge)
-10. Moneyline Performance by Win Probability (4%+ Edge, Consensus Only)
+9. Moneyline Performance by Win Probability
+10. Moneyline Performance by Moneyline Edge (50%+ Win Prob)
 
 Usage:
     python analyze_model_performance.py
@@ -460,22 +460,17 @@ def analyze_moneyline_performance_by_probability(df, consensus_only=False):
     console.print(table)
 
 
-def analyze_moneyline_performance_by_win_probability_high_edge(df, consensus_only=False):
+def analyze_moneyline_performance_by_win_probability_section9(df):
     """
-    Section 9 & 10: Moneyline Performance by Win Probability (4%+ Edge)
+    Section 9: Moneyline Performance by Win Probability
     """
-    title = "10. Moneyline Performance by Win Probability (4%+ Edge, Consensus Only)" if consensus_only else "9. Moneyline Performance by Win Probability (4%+ Edge)"
+    title = "9. Moneyline Performance by Win Probability"
     print_section_header(title)
     
-    # Filter for moneyline edge >= 4% (0.04)
-    data = df.dropna(subset=['opening_moneyline_edge', 'moneyline_won', 'moneyline_win_probability']).copy()
-    data = data[data['opening_moneyline_edge'] >= 0.04].copy()
+    # Remove rows with NaN values - no edge filter applied
+    data = df.dropna(subset=['moneyline_won', 'moneyline_win_probability']).copy()
     
-    # Filter for consensus if needed
-    if consensus_only:
-        data = data[data['moneyline_consensus_flag'] == 1].copy()
-    
-    # Define probability tiers (same as Section 8)
+    # Define probability tiers
     tiers = [
         (0.10, 0.19, "10-19%"),
         (0.20, 0.29, "20-29%"),
@@ -495,6 +490,46 @@ def analyze_moneyline_performance_by_win_probability_high_edge(df, consensus_onl
     
     for min_prob, max_prob, label in tiers:
         tier_data = data[(data['moneyline_win_probability'] >= min_prob) & (data['moneyline_win_probability'] <= max_prob)]
+        wins = (tier_data['moneyline_won'] == 1).sum()
+        losses = (tier_data['moneyline_won'] == 0).sum()
+        total = wins + losses
+        
+        if total > 0:
+            win_pct = (wins / total) * 100
+            table.add_row(label, f"{wins}-{losses}", f"{win_pct:.1f}%")
+        else:
+            table.add_row(label, "0-0", "0.0%")
+    
+    console.print(table)
+
+
+def analyze_moneyline_performance_by_edge_section10(df):
+    """
+    Section 10: Moneyline Performance by Moneyline Edge (50%+ Win Prob)
+    """
+    title = "10. Moneyline Performance by Moneyline Edge (50%+ Win Prob)"
+    print_section_header(title)
+    
+    # Filter for win probability >= 50%
+    data = df.dropna(subset=['opening_moneyline_edge', 'moneyline_won', 'moneyline_win_probability']).copy()
+    data = data[data['moneyline_win_probability'] >= 0.5].copy()
+    
+    # Define edge tiers (edges are in decimal format, e.g., 0.04 = 4%)
+    tiers = [
+        (0.0, 0.01, "0-0.9%"),
+        (0.01, 0.02, "1-1.9%"),
+        (0.02, 0.03, "2-2.9%"),
+        (0.03, 0.04, "3-3.9%"),
+        (0.04, float('inf'), "4%+")
+    ]
+    
+    table = Table(show_header=True, header_style="bold cyan")
+    table.add_column("Edge Tier", style="yellow")
+    table.add_column("Record", justify="right")
+    table.add_column("Win %", justify="right")
+    
+    for min_edge, max_edge, label in tiers:
+        tier_data = data[(data['opening_moneyline_edge'] >= min_edge) & (data['opening_moneyline_edge'] < max_edge)]
         wins = (tier_data['moneyline_won'] == 1).sum()
         losses = (tier_data['moneyline_won'] == 0).sum()
         total = wins + losses
@@ -700,19 +735,14 @@ def collect_moneyline_performance_by_probability(df, consensus_only=False):
     return results
 
 
-def collect_moneyline_performance_by_win_probability_high_edge(df, consensus_only=False):
+def collect_moneyline_performance_by_win_probability_section9(df):
     """
-    Collect moneyline performance by win probability (4%+ edge) data for output
+    Collect moneyline performance by win probability data for Section 9
     """
-    # Filter for moneyline edge >= 4% (0.04)
-    data = df.dropna(subset=['opening_moneyline_edge', 'moneyline_won', 'moneyline_win_probability']).copy()
-    data = data[data['opening_moneyline_edge'] >= 0.04].copy()
+    # Remove rows with NaN values - no edge filter applied
+    data = df.dropna(subset=['moneyline_won', 'moneyline_win_probability']).copy()
     
-    # Filter for consensus if needed
-    if consensus_only:
-        data = data[data['moneyline_consensus_flag'] == 1].copy()
-    
-    # Define probability tiers (same as Section 8)
+    # Define probability tiers
     tiers = [
         (0.10, 0.19, "10-19%"),
         (0.20, 0.29, "20-29%"),
@@ -728,6 +758,39 @@ def collect_moneyline_performance_by_win_probability_high_edge(df, consensus_onl
     results = []
     for min_prob, max_prob, label in tiers:
         tier_data = data[(data['moneyline_win_probability'] >= min_prob) & (data['moneyline_win_probability'] <= max_prob)]
+        wins = (tier_data['moneyline_won'] == 1).sum()
+        losses = (tier_data['moneyline_won'] == 0).sum()
+        total = wins + losses
+        
+        if total > 0:
+            win_pct = (wins / total) * 100
+            results.append({'tier': label, 'record': f"{wins}-{losses}", 'pct': f"{win_pct:.1f}%"})
+        else:
+            results.append({'tier': label, 'record': "0-0", 'pct': "0.0%"})
+    
+    return results
+
+
+def collect_moneyline_performance_by_edge_section10(df):
+    """
+    Collect moneyline performance by edge (50%+ win prob) data for Section 10
+    """
+    # Filter for win probability >= 50%
+    data = df.dropna(subset=['opening_moneyline_edge', 'moneyline_won', 'moneyline_win_probability']).copy()
+    data = data[data['moneyline_win_probability'] >= 0.5].copy()
+    
+    # Define edge tiers (edges are in decimal format, e.g., 0.04 = 4%)
+    tiers = [
+        (0.0, 0.01, "0-0.9%"),
+        (0.01, 0.02, "1-1.9%"),
+        (0.02, 0.03, "2-2.9%"),
+        (0.03, 0.04, "3-3.9%"),
+        (0.04, float('inf'), "4%+")
+    ]
+    
+    results = []
+    for min_edge, max_edge, label in tiers:
+        tier_data = data[(data['opening_moneyline_edge'] >= min_edge) & (data['opening_moneyline_edge'] < max_edge)]
         wins = (tier_data['moneyline_won'] == 1).sum()
         losses = (tier_data['moneyline_won'] == 0).sum()
         total = wins + losses
@@ -867,26 +930,26 @@ def generate_plain_text_output(analysis_data, timestamp, last_game_date):
         lines.append(f"{row['tier']:<22} {row['record']:<12} {row['pct']:<10}")
     lines.append("")
     
-    # Section 9: Moneyline Performance by Win Probability (4%+ Edge)
+    # Section 9: Moneyline Performance by Win Probability
     lines.append("=" * 80)
-    lines.append("9. Moneyline Performance by Win Probability (4%+ Edge)")
+    lines.append("9. Moneyline Performance by Win Probability")
     lines.append("=" * 80)
     lines.append("")
     lines.append(f"{'Win Probability Tier':<22} {'Record':<12} {'Win %':<10}")
     lines.append("-" * 44)
-    for row in analysis_data['moneyline_by_prob_high_edge_all']:
+    for row in analysis_data['moneyline_section9']:
         lines.append(f"{row['tier']:<22} {row['record']:<12} {row['pct']:<10}")
     lines.append("")
     
-    # Section 10: Moneyline Performance by Win Probability (4%+ Edge, Consensus Only)
+    # Section 10: Moneyline Performance by Moneyline Edge (50%+ Win Prob)
     lines.append("=" * 80)
-    lines.append("10. Moneyline Performance by Win Probability (4%+ Edge, Consensus Only)")
+    lines.append("10. Moneyline Performance by Moneyline Edge (50%+ Win Prob)")
     lines.append("=" * 80)
     lines.append("")
-    lines.append(f"{'Win Probability Tier':<22} {'Record':<12} {'Win %':<10}")
-    lines.append("-" * 44)
-    for row in analysis_data['moneyline_by_prob_high_edge_consensus']:
-        lines.append(f"{row['tier']:<22} {row['record']:<12} {row['pct']:<10}")
+    lines.append(f"{'Edge Tier':<15} {'Record':<12} {'Win %':<10}")
+    lines.append("-" * 37)
+    for row in analysis_data['moneyline_section10']:
+        lines.append(f"{row['tier']:<15} {row['record']:<12} {row['pct']:<10}")
     lines.append("")
     
     lines.append("=" * 80)
@@ -1311,7 +1374,7 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
         </section>
 
         <section>
-            <h2>9. Moneyline Performance by Win Probability (4%+ Edge)</h2>
+            <h2>9. Moneyline Performance by Win Probability</h2>
             <table>
                 <thead>
                     <tr>
@@ -1322,7 +1385,7 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
                 </thead>
                 <tbody>
 '''
-    for row in analysis_data['moneyline_by_prob_high_edge_all']:
+    for row in analysis_data['moneyline_section9']:
         html += f'''                    <tr>
                         <td>{escape_html(row['tier'])}</td>
                         <td>{escape_html(row['record'])}</td>
@@ -1334,18 +1397,18 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
         </section>
 
         <section>
-            <h2>10. Moneyline Performance by Win Probability (4%+ Edge, Consensus Only)</h2>
+            <h2>10. Moneyline Performance by Moneyline Edge (50%+ Win Prob)</h2>
             <table>
                 <thead>
                     <tr>
-                        <th>Win Probability Tier</th>
+                        <th>Edge Tier</th>
                         <th>Record</th>
                         <th>Win %</th>
                     </tr>
                 </thead>
                 <tbody>
 '''
-    for row in analysis_data['moneyline_by_prob_high_edge_consensus']:
+    for row in analysis_data['moneyline_section10']:
         html += f'''                    <tr>
                         <td>{escape_html(row['tier'])}</td>
                         <td>{escape_html(row['record'])}</td>
@@ -1415,8 +1478,8 @@ def main():
         analyze_overall_model_totals_record(df)
         analyze_moneyline_performance_by_probability(df, consensus_only=False)
         analyze_moneyline_performance_by_probability(df, consensus_only=True)
-        analyze_moneyline_performance_by_win_probability_high_edge(df, consensus_only=False)
-        analyze_moneyline_performance_by_win_probability_high_edge(df, consensus_only=True)
+        analyze_moneyline_performance_by_win_probability_section9(df)
+        analyze_moneyline_performance_by_edge_section10(df)
         
         # Collect analysis data for file output
         timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
@@ -1429,8 +1492,8 @@ def main():
             'model_totals': collect_overall_model_totals_record(df),
             'moneyline_all': collect_moneyline_performance_by_probability(df, consensus_only=False),
             'moneyline_consensus': collect_moneyline_performance_by_probability(df, consensus_only=True),
-            'moneyline_by_prob_high_edge_all': collect_moneyline_performance_by_win_probability_high_edge(df, consensus_only=False),
-            'moneyline_by_prob_high_edge_consensus': collect_moneyline_performance_by_win_probability_high_edge(df, consensus_only=True)
+            'moneyline_section9': collect_moneyline_performance_by_win_probability_section9(df),
+            'moneyline_section10': collect_moneyline_performance_by_edge_section10(df)
         }
         
         # Save output files
