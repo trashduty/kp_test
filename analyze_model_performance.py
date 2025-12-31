@@ -2,6 +2,7 @@ import os
 import sys
 import html
 import pandas as pd
+import numpy as np
 import requests
 import base64
 import traceback
@@ -344,10 +345,11 @@ def analyze_over_under_performance_by_edge(df, consensus_only=False):
     # Analyze Overs
     console.print("[bold]Overs Performance:[/bold]\n")
     
-    # Remove NaN values
+    # Remove NaN values and de-duplicate games
     over_data = df.dropna(subset=['over_hit', 'opening_over_edge']).copy()
     if consensus_only:
         over_data = over_data[over_data['over_consensus_flag'] == 1].copy()
+    over_data = deduplicate_games(over_data)
     
     over_table = Table(show_header=True, header_style="bold cyan")
     over_table.add_column("Edge Tier", style="yellow")
@@ -371,10 +373,11 @@ def analyze_over_under_performance_by_edge(df, consensus_only=False):
     # Analyze Unders
     console.print("\n[bold]Unders Performance:[/bold]\n")
     
-    # Remove NaN values
+    # Remove NaN values and de-duplicate games
     under_data = df.dropna(subset=['under_hit', 'opening_under_edge']).copy()
     if consensus_only:
         under_data = under_data[under_data['under_consensus_flag'] == 1].copy()
+    under_data = deduplicate_games(under_data)
     
     under_table = Table(show_header=True, header_style="bold cyan")
     under_table.add_column("Edge Tier", style="yellow")
@@ -404,6 +407,9 @@ def analyze_overall_model_totals_record(df):
     
     # Remove rows with NaN values and filter for confident picks
     df_clean = df.dropna(subset=['over_cover_probability', 'under_cover_probability', 'over_hit', 'under_hit'])
+    
+    # De-duplicate games since totals are game-level
+    df_clean = deduplicate_games(df_clean)
     
     # Overs where over_cover_probability > 0.5
     confident_overs = df_clean[df_clean['over_cover_probability'] > 0.5].copy()
@@ -548,7 +554,37 @@ def analyze_moneyline_performance_by_edge_section10(df):
     console.print(table)
 
 
-def extract_game_details(row, bet_type='spread', result_field=None):
+def deduplicate_games(df):
+    """
+    De-duplicate games to have one row per game instead of one row per team.
+    For totals (Over/Under) analysis, we only need one row per game.
+    
+    Args:
+        df: DataFrame with duplicate rows (one per team)
+    
+    Returns:
+        DataFrame: De-duplicated DataFrame with one row per game
+    """
+    # Create a unique game identifier from date, home_team, and away_team
+    # Using vectorized operations for better performance
+    df = df.copy()
+    
+    # Use vectorized string operations to create game_id
+    # Create sorted team pairs for consistent ordering
+    team_min = df[['home_team', 'away_team']].min(axis=1)
+    team_max = df[['home_team', 'away_team']].max(axis=1)
+    df['game_id'] = df['date'].astype(str) + '_' + team_min + '_' + team_max
+    
+    # Drop duplicates, keeping the first occurrence of each game
+    df_dedup = df.drop_duplicates(subset=['game_id'], keep='first')
+    
+    # Drop the temporary game_id column
+    df_dedup = df_dedup.drop('game_id', axis=1)
+    
+    return df_dedup
+
+
+def extract_game_details(row, bet_type='spread', result_field=None, edge_field=None):
     """
     Extract game details from a DataFrame row
     
@@ -556,6 +592,7 @@ def extract_game_details(row, bet_type='spread', result_field=None):
         row: DataFrame row
         bet_type: Type of bet ('spread', 'total', 'moneyline')
         result_field: Field name to extract result from (e.g., 'spread_covered', 'over_hit', 'under_hit', 'moneyline_won')
+        edge_field: Field name to extract edge from (e.g., 'opening_spread_edge', 'opening_over_edge', 'opening_moneyline_edge')
     
     Returns:
         dict: Game details
@@ -580,6 +617,20 @@ def extract_game_details(row, bet_type='spread', result_field=None):
             details['result'] = 'Loss'
         else:
             details['result'] = 'N/A'
+    
+    # Add edge if edge_field is provided
+    if edge_field:
+        edge_value = row.get(edge_field, None)
+        if pd.notna(edge_value):
+            # Convert to percentage (edge is in decimal format, e.g., 0.025 = 2.5%)
+            # Check if the value is numeric
+            if isinstance(edge_value, (int, float, np.integer, np.floating)):
+                edge_pct = float(edge_value) * 100
+                details['edge'] = f"{edge_pct:.1f}%"
+            else:
+                details['edge'] = 'N/A'
+        else:
+            details['edge'] = 'N/A'
     
     # Bet-specific details
     if bet_type == 'spread':
@@ -624,7 +675,7 @@ def collect_spread_performance_by_edge(df, consensus_only=False):
         # Collect game details for this tier
         games = []
         for _, row in tier_data.iterrows():
-            games.append(extract_game_details(row, bet_type='spread', result_field='spread_covered'))
+            games.append(extract_game_details(row, bet_type='spread', result_field='spread_covered', edge_field='opening_spread_edge'))
         
         if total > 0:
             win_pct = (wins / total) * 100
@@ -676,7 +727,7 @@ def collect_spread_performance_by_point_spread(df):
         # Collect game details for this range
         games = []
         for _, row in range_data.iterrows():
-            games.append(extract_game_details(row, bet_type='spread', result_field='spread_covered'))
+            games.append(extract_game_details(row, bet_type='spread', result_field='spread_covered', edge_field='opening_spread_edge'))
         
         if total > 0:
             win_pct = (wins / total) * 100
@@ -707,7 +758,7 @@ def collect_spread_performance_by_point_spread(df):
         # Collect game details for this range
         games = []
         for _, row in range_data.iterrows():
-            games.append(extract_game_details(row, bet_type='spread', result_field='spread_covered'))
+            games.append(extract_game_details(row, bet_type='spread', result_field='spread_covered', edge_field='opening_spread_edge'))
         
         if total > 0:
             win_pct = (wins / total) * 100
@@ -740,10 +791,11 @@ def collect_over_under_performance_by_edge(df, consensus_only=False):
         (0.04, float('inf'), "4%+")
     ]
     
-    # Overs
+    # Overs - de-duplicate games
     over_data = df.dropna(subset=['over_hit', 'opening_over_edge']).copy()
     if consensus_only:
         over_data = over_data[over_data['over_consensus_flag'] == 1].copy()
+    over_data = deduplicate_games(over_data)
     
     over_results = []
     for min_edge, max_edge, label in tiers:
@@ -755,7 +807,7 @@ def collect_over_under_performance_by_edge(df, consensus_only=False):
         # Collect game details for this tier
         games = []
         for _, row in tier_data.iterrows():
-            games.append(extract_game_details(row, bet_type='total', result_field='over_hit'))
+            games.append(extract_game_details(row, bet_type='total', result_field='over_hit', edge_field='opening_over_edge'))
         
         if total > 0:
             win_pct = (wins / total) * 100
@@ -773,10 +825,11 @@ def collect_over_under_performance_by_edge(df, consensus_only=False):
                 'games': games
             })
     
-    # Unders
+    # Unders - de-duplicate games
     under_data = df.dropna(subset=['under_hit', 'opening_under_edge']).copy()
     if consensus_only:
         under_data = under_data[under_data['under_consensus_flag'] == 1].copy()
+    under_data = deduplicate_games(under_data)
     
     under_results = []
     for min_edge, max_edge, label in tiers:
@@ -788,7 +841,7 @@ def collect_over_under_performance_by_edge(df, consensus_only=False):
         # Collect game details for this tier
         games = []
         for _, row in tier_data.iterrows():
-            games.append(extract_game_details(row, bet_type='total', result_field='under_hit'))
+            games.append(extract_game_details(row, bet_type='total', result_field='under_hit', edge_field='opening_under_edge'))
         
         if total > 0:
             win_pct = (wins / total) * 100
@@ -815,6 +868,9 @@ def collect_overall_model_totals_record(df):
     """
     df_clean = df.dropna(subset=['over_cover_probability', 'under_cover_probability', 'over_hit', 'under_hit'])
     
+    # De-duplicate games since totals are game-level
+    df_clean = deduplicate_games(df_clean)
+    
     confident_overs = df_clean[df_clean['over_cover_probability'] > 0.5].copy()
     over_wins = (confident_overs['over_hit'] == 1).sum()
     over_losses = (confident_overs['over_hit'] == 0).sum()
@@ -822,7 +878,7 @@ def collect_overall_model_totals_record(df):
     # Collect game details for overs
     over_games = []
     for _, row in confident_overs.iterrows():
-        over_games.append(extract_game_details(row, bet_type='total', result_field='over_hit'))
+        over_games.append(extract_game_details(row, bet_type='total', result_field='over_hit', edge_field='opening_over_edge'))
     
     confident_unders = df_clean[df_clean['under_cover_probability'] > 0.5].copy()
     under_wins = (confident_unders['under_hit'] == 1).sum()
@@ -831,7 +887,7 @@ def collect_overall_model_totals_record(df):
     # Collect game details for unders
     under_games = []
     for _, row in confident_unders.iterrows():
-        under_games.append(extract_game_details(row, bet_type='total', result_field='under_hit'))
+        under_games.append(extract_game_details(row, bet_type='total', result_field='under_hit', edge_field='opening_under_edge'))
     
     return {
         'overs': {
@@ -878,7 +934,7 @@ def collect_moneyline_performance_by_probability(df, consensus_only=False):
         # Collect game details for this tier
         games = []
         for _, row in tier_data.iterrows():
-            games.append(extract_game_details(row, bet_type='moneyline', result_field='moneyline_won'))
+            games.append(extract_game_details(row, bet_type='moneyline', result_field='moneyline_won', edge_field='opening_moneyline_edge'))
         
         if total > 0:
             win_pct = (wins / total) * 100
@@ -929,7 +985,7 @@ def collect_moneyline_performance_by_win_probability_section9(df):
         # Collect game details for this tier
         games = []
         for _, row in tier_data.iterrows():
-            games.append(extract_game_details(row, bet_type='moneyline', result_field='moneyline_won'))
+            games.append(extract_game_details(row, bet_type='moneyline', result_field='moneyline_won', edge_field='opening_moneyline_edge'))
         
         if total > 0:
             win_pct = (wins / total) * 100
@@ -977,7 +1033,7 @@ def collect_moneyline_performance_by_edge_section10(df):
         # Collect game details for this tier
         games = []
         for _, row in tier_data.iterrows():
-            games.append(extract_game_details(row, bet_type='moneyline', result_field='moneyline_won'))
+            games.append(extract_game_details(row, bet_type='moneyline', result_field='moneyline_won', edge_field='opening_moneyline_edge'))
         
         if total > 0:
             win_pct = (wins / total) * 100
@@ -1182,13 +1238,16 @@ def generate_game_details_html(games, bet_type='spread'):
     if bet_type == 'spread':
         html_str += '<th>Team</th>'
         html_str += '<th>Opening Spread</th>'
+        html_str += '<th>Edge</th>'
         html_str += '<th>Closing Spread</th>'
     elif bet_type == 'total':
         html_str += '<th>Opening Total</th>'
+        html_str += '<th>Edge</th>'
         html_str += '<th>Closing Total</th>'
     elif bet_type == 'moneyline':
         html_str += '<th>Team</th>'
         html_str += '<th>Opening ML</th>'
+        html_str += '<th>Edge</th>'
         html_str += '<th>Closing ML</th>'
     
     html_str += '<th>Result</th>'
@@ -1202,13 +1261,16 @@ def generate_game_details_html(games, bet_type='spread'):
         if bet_type == 'spread':
             html_str += f'<td>{escape_html(game.get("team", "N/A"))}</td>'
             html_str += f'<td>{escape_html(game.get("opening_spread", "N/A"))}</td>'
+            html_str += f'<td>{escape_html(game.get("edge", "N/A"))}</td>'
             html_str += f'<td>{escape_html(game.get("closing_spread", "N/A"))}</td>'
         elif bet_type == 'total':
             html_str += f'<td>{escape_html(game.get("opening_total", "N/A"))}</td>'
+            html_str += f'<td>{escape_html(game.get("edge", "N/A"))}</td>'
             html_str += f'<td>{escape_html(game.get("closing_total", "N/A"))}</td>'
         elif bet_type == 'moneyline':
             html_str += f'<td>{escape_html(game.get("team", "N/A"))}</td>'
             html_str += f'<td>{escape_html(game.get("opening_moneyline", "N/A"))}</td>'
+            html_str += f'<td>{escape_html(game.get("edge", "N/A"))}</td>'
             html_str += f'<td>{escape_html(game.get("closing_moneyline", "N/A"))}</td>'
         
         # Add Result column with styling
