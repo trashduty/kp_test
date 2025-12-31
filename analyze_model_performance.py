@@ -27,6 +27,11 @@ DOCS_DIR = "docs"
 TEXT_OUTPUT_FILE = os.path.join(DOCS_DIR, "model_performance_analysis.txt")
 HTML_OUTPUT_FILE = os.path.join(DOCS_DIR, "model_performance_analysis.html")
 
+# Color constants for result styling
+RESULT_WIN_COLOR = "#16a34a"  # Green
+RESULT_LOSS_COLOR = "#dc2626"  # Red
+RESULT_FONT_WEIGHT = "600"
+
 """
 Model Performance Analysis Script
 
@@ -569,9 +574,9 @@ def extract_game_details(row, bet_type='spread', result_field=None):
     # Add result if result_field is provided
     if result_field:
         result_value = row.get(result_field, None)
-        if result_value == 1:
+        if result_value is not None and result_value == 1:
             details['result'] = 'Win'
-        elif result_value == 0:
+        elif result_value is not None and result_value == 0:
             details['result'] = 'Loss'
         else:
             details['result'] = 'N/A'
@@ -1209,9 +1214,9 @@ def generate_game_details_html(games, bet_type='spread'):
         # Add Result column with styling
         result = game.get("result", "N/A")
         if result == "Win":
-            html_str += f'<td style="color: #16a34a; font-weight: 600;">{escape_html(result)}</td>'
+            html_str += f'<td style="color: {RESULT_WIN_COLOR}; font-weight: {RESULT_FONT_WEIGHT};">{escape_html(result)}</td>'
         elif result == "Loss":
-            html_str += f'<td style="color: #dc2626; font-weight: 600;">{escape_html(result)}</td>'
+            html_str += f'<td style="color: {RESULT_LOSS_COLOR}; font-weight: {RESULT_FONT_WEIGHT};">{escape_html(result)}</td>'
         else:
             html_str += f'<td>{escape_html(result)}</td>'
         
