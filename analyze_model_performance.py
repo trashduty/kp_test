@@ -37,6 +37,7 @@ RESULT_FONT_WEIGHT = "600"
 Model Performance Analysis Script
 
 This script analyzes model performance from the trashduty/cbb repository's graded_results.csv file.
+Click on each tier to show detailed game and win/loss breakdown
 
 The script calculates and displays comprehensive summary statistics including:
 1. Model Spread Performance by Edge (All Games)
