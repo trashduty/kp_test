@@ -2,6 +2,7 @@ import os
 import sys
 import html
 import pandas as pd
+import numpy as np
 import requests
 import base64
 import traceback
@@ -565,9 +566,14 @@ def deduplicate_games(df):
         DataFrame: De-duplicated DataFrame with one row per game
     """
     # Create a unique game identifier from date, home_team, and away_team
-    # Sort to ensure consistent ordering
+    # Using vectorized operations for better performance
     df = df.copy()
-    df['game_id'] = df.apply(lambda row: f"{row['date']}_{min(row['home_team'], row['away_team'])}_{max(row['home_team'], row['away_team'])}", axis=1)
+    
+    # Use vectorized string operations to create game_id
+    # Create sorted team pairs for consistent ordering
+    team_min = df[['home_team', 'away_team']].min(axis=1)
+    team_max = df[['home_team', 'away_team']].max(axis=1)
+    df['game_id'] = df['date'].astype(str) + '_' + team_min + '_' + team_max
     
     # Drop duplicates, keeping the first occurrence of each game
     df_dedup = df.drop_duplicates(subset=['game_id'], keep='first')
@@ -615,12 +621,13 @@ def extract_game_details(row, bet_type='spread', result_field=None, edge_field=N
     # Add edge if edge_field is provided
     if edge_field:
         edge_value = row.get(edge_field, None)
-        if edge_value is not None:
-            try:
-                # Convert to percentage (edge is in decimal format, e.g., 0.025 = 2.5%)
+        if pd.notna(edge_value):
+            # Convert to percentage (edge is in decimal format, e.g., 0.025 = 2.5%)
+            # Check if the value is numeric
+            if isinstance(edge_value, (int, float, np.integer, np.floating)):
                 edge_pct = float(edge_value) * 100
                 details['edge'] = f"{edge_pct:.1f}%"
-            except (ValueError, TypeError):
+            else:
                 details['edge'] = 'N/A'
         else:
             details['edge'] = 'N/A'
