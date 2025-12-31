@@ -5,12 +5,12 @@ with Section 3 filtering.
 
 import pandas as pd
 import numpy as np
-from io import StringIO
 import sys
 import os
 
-# Add the current directory to Python path
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+# Add the parent directory to Python path to import the module
+parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, parent_dir)
 
 # Import the functions we want to test
 from analyze_model_performance import (
