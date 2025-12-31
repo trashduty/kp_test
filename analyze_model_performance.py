@@ -543,6 +543,44 @@ def analyze_moneyline_performance_by_edge_section10(df):
     console.print(table)
 
 
+def extract_game_details(row, bet_type='spread'):
+    """
+    Extract game details from a DataFrame row
+    
+    Args:
+        row: DataFrame row
+        bet_type: Type of bet ('spread', 'total', 'moneyline')
+    
+    Returns:
+        dict: Game details
+    """
+    # Common details
+    date = row.get('date', row.get('game_date', 'N/A'))
+    home_team = row.get('home_team', 'N/A')
+    away_team = row.get('away_team', 'N/A')
+    matchup = f"{away_team} @ {home_team}"
+    
+    details = {
+        'date': date,
+        'matchup': matchup
+    }
+    
+    # Bet-specific details
+    if bet_type == 'spread':
+        details['team'] = row.get('team', 'N/A')
+        details['opening_spread'] = row.get('opening_spread', 'N/A')
+        details['closing_spread'] = row.get('closing_spread', 'N/A')
+    elif bet_type == 'total':
+        details['opening_total'] = row.get('opening_total', 'N/A')
+        details['closing_total'] = row.get('closing_total', 'N/A')
+    elif bet_type == 'moneyline':
+        details['team'] = row.get('team', 'N/A')
+        details['opening_moneyline'] = row.get('opening_moneyline', 'N/A')
+        details['closing_moneyline'] = row.get('closing_moneyline', 'N/A')
+    
+    return details
+
+
 def collect_spread_performance_by_edge(df, consensus_only=False):
     """
     Collect spread performance by edge data for output
@@ -567,11 +605,26 @@ def collect_spread_performance_by_edge(df, consensus_only=False):
         losses = (tier_data['spread_covered'] == 0).sum()
         total = wins + losses
         
+        # Collect game details for this tier
+        games = []
+        for _, row in tier_data.iterrows():
+            games.append(extract_game_details(row, bet_type='spread'))
+        
         if total > 0:
             win_pct = (wins / total) * 100
-            results.append({'tier': label, 'record': f"{wins}-{losses}", 'pct': f"{win_pct:.1f}%"})
+            results.append({
+                'tier': label, 
+                'record': f"{wins}-{losses}", 
+                'pct': f"{win_pct:.1f}%",
+                'games': games
+            })
         else:
-            results.append({'tier': label, 'record': "0-0", 'pct': "0.0%"})
+            results.append({
+                'tier': label, 
+                'record': "0-0", 
+                'pct': "0.0%",
+                'games': games
+            })
     
     return results
 
@@ -604,11 +657,26 @@ def collect_spread_performance_by_point_spread(df):
         losses = (range_data['spread_covered'] == 0).sum()
         total = wins + losses
         
+        # Collect game details for this range
+        games = []
+        for _, row in range_data.iterrows():
+            games.append(extract_game_details(row, bet_type='spread'))
+        
         if total > 0:
             win_pct = (wins / total) * 100
-            fav_results.append({'range': label, 'record': f"{wins}-{losses}", 'pct': f"{win_pct:.1f}%"})
+            fav_results.append({
+                'range': label, 
+                'record': f"{wins}-{losses}", 
+                'pct': f"{win_pct:.1f}%",
+                'games': games
+            })
         else:
-            fav_results.append({'range': label, 'record': "0-0", 'pct': "0.0%"})
+            fav_results.append({
+                'range': label, 
+                'record': "0-0", 
+                'pct': "0.0%",
+                'games': games
+            })
     
     # Underdogs
     underdogs = confident_picks[confident_picks['opening_spread'] > 0].copy()
@@ -620,11 +688,26 @@ def collect_spread_performance_by_point_spread(df):
         losses = (range_data['spread_covered'] == 0).sum()
         total = wins + losses
         
+        # Collect game details for this range
+        games = []
+        for _, row in range_data.iterrows():
+            games.append(extract_game_details(row, bet_type='spread'))
+        
         if total > 0:
             win_pct = (wins / total) * 100
-            dog_results.append({'range': label, 'record': f"{wins}-{losses}", 'pct': f"{win_pct:.1f}%"})
+            dog_results.append({
+                'range': label, 
+                'record': f"{wins}-{losses}", 
+                'pct': f"{win_pct:.1f}%",
+                'games': games
+            })
         else:
-            dog_results.append({'range': label, 'record': "0-0", 'pct': "0.0%"})
+            dog_results.append({
+                'range': label, 
+                'record': "0-0", 
+                'pct': "0.0%",
+                'games': games
+            })
     
     return {'favorites': fav_results, 'underdogs': dog_results}
 
@@ -653,11 +736,26 @@ def collect_over_under_performance_by_edge(df, consensus_only=False):
         losses = (tier_data['over_hit'] == 0).sum()
         total = wins + losses
         
+        # Collect game details for this tier
+        games = []
+        for _, row in tier_data.iterrows():
+            games.append(extract_game_details(row, bet_type='total'))
+        
         if total > 0:
             win_pct = (wins / total) * 100
-            over_results.append({'tier': label, 'record': f"{wins}-{losses}", 'pct': f"{win_pct:.1f}%"})
+            over_results.append({
+                'tier': label, 
+                'record': f"{wins}-{losses}", 
+                'pct': f"{win_pct:.1f}%",
+                'games': games
+            })
         else:
-            over_results.append({'tier': label, 'record': "0-0", 'pct': "0.0%"})
+            over_results.append({
+                'tier': label, 
+                'record': "0-0", 
+                'pct': "0.0%",
+                'games': games
+            })
     
     # Unders
     under_data = df.dropna(subset=['under_hit', 'opening_under_edge']).copy()
@@ -671,11 +769,26 @@ def collect_over_under_performance_by_edge(df, consensus_only=False):
         losses = (tier_data['under_hit'] == 0).sum()
         total = wins + losses
         
+        # Collect game details for this tier
+        games = []
+        for _, row in tier_data.iterrows():
+            games.append(extract_game_details(row, bet_type='total'))
+        
         if total > 0:
             win_pct = (wins / total) * 100
-            under_results.append({'tier': label, 'record': f"{wins}-{losses}", 'pct': f"{win_pct:.1f}%"})
+            under_results.append({
+                'tier': label, 
+                'record': f"{wins}-{losses}", 
+                'pct': f"{win_pct:.1f}%",
+                'games': games
+            })
         else:
-            under_results.append({'tier': label, 'record': "0-0", 'pct': "0.0%"})
+            under_results.append({
+                'tier': label, 
+                'record': "0-0", 
+                'pct': "0.0%",
+                'games': games
+            })
     
     return {'overs': over_results, 'unders': under_results}
 
@@ -690,13 +803,33 @@ def collect_overall_model_totals_record(df):
     over_wins = (confident_overs['over_hit'] == 1).sum()
     over_losses = (confident_overs['over_hit'] == 0).sum()
     
+    # Collect game details for overs
+    over_games = []
+    for _, row in confident_overs.iterrows():
+        over_games.append(extract_game_details(row, bet_type='total'))
+    
     confident_unders = df_clean[df_clean['under_cover_probability'] > 0.5].copy()
     under_wins = (confident_unders['under_hit'] == 1).sum()
     under_losses = (confident_unders['under_hit'] == 0).sum()
     
+    # Collect game details for unders
+    under_games = []
+    for _, row in confident_unders.iterrows():
+        under_games.append(extract_game_details(row, bet_type='total'))
+    
     return {
-        'overs': {'wins': over_wins, 'losses': over_losses, 'record': format_win_loss_pct(over_wins, over_losses)},
-        'unders': {'wins': under_wins, 'losses': under_losses, 'record': format_win_loss_pct(under_wins, under_losses)}
+        'overs': {
+            'wins': over_wins, 
+            'losses': over_losses, 
+            'record': format_win_loss_pct(over_wins, over_losses),
+            'games': over_games
+        },
+        'unders': {
+            'wins': under_wins, 
+            'losses': under_losses, 
+            'record': format_win_loss_pct(under_wins, under_losses),
+            'games': under_games
+        }
     }
 
 
@@ -726,11 +859,26 @@ def collect_moneyline_performance_by_probability(df, consensus_only=False):
         losses = (tier_data['moneyline_won'] == 0).sum()
         total = wins + losses
         
+        # Collect game details for this tier
+        games = []
+        for _, row in tier_data.iterrows():
+            games.append(extract_game_details(row, bet_type='moneyline'))
+        
         if total > 0:
             win_pct = (wins / total) * 100
-            results.append({'tier': label, 'record': f"{wins}-{losses}", 'pct': f"{win_pct:.1f}%"})
+            results.append({
+                'tier': label, 
+                'record': f"{wins}-{losses}", 
+                'pct': f"{win_pct:.1f}%",
+                'games': games
+            })
         else:
-            results.append({'tier': label, 'record': "0-0", 'pct': "0.0%"})
+            results.append({
+                'tier': label, 
+                'record': "0-0", 
+                'pct': "0.0%",
+                'games': games
+            })
     
     return results
 
@@ -762,11 +910,26 @@ def collect_moneyline_performance_by_win_probability_section9(df):
         losses = (tier_data['moneyline_won'] == 0).sum()
         total = wins + losses
         
+        # Collect game details for this tier
+        games = []
+        for _, row in tier_data.iterrows():
+            games.append(extract_game_details(row, bet_type='moneyline'))
+        
         if total > 0:
             win_pct = (wins / total) * 100
-            results.append({'tier': label, 'record': f"{wins}-{losses}", 'pct': f"{win_pct:.1f}%"})
+            results.append({
+                'tier': label, 
+                'record': f"{wins}-{losses}", 
+                'pct': f"{win_pct:.1f}%",
+                'games': games
+            })
         else:
-            results.append({'tier': label, 'record': "0-0", 'pct': "0.0%"})
+            results.append({
+                'tier': label, 
+                'record': "0-0", 
+                'pct': "0.0%",
+                'games': games
+            })
     
     return results
 
@@ -795,11 +958,26 @@ def collect_moneyline_performance_by_edge_section10(df):
         losses = (tier_data['moneyline_won'] == 0).sum()
         total = wins + losses
         
+        # Collect game details for this tier
+        games = []
+        for _, row in tier_data.iterrows():
+            games.append(extract_game_details(row, bet_type='moneyline'))
+        
         if total > 0:
             win_pct = (wins / total) * 100
-            results.append({'tier': label, 'record': f"{wins}-{losses}", 'pct': f"{win_pct:.1f}%"})
+            results.append({
+                'tier': label, 
+                'record': f"{wins}-{losses}", 
+                'pct': f"{win_pct:.1f}%",
+                'games': games
+            })
         else:
-            results.append({'tier': label, 'record': "0-0", 'pct': "0.0%"})
+            results.append({
+                'tier': label, 
+                'record': "0-0", 
+                'pct': "0.0%",
+                'games': games
+            })
     
     return results
 
@@ -966,6 +1144,62 @@ def escape_html(value):
     return html.escape(str(value))
 
 
+def generate_game_details_html(games, bet_type='spread'):
+    """
+    Generate HTML for game details drill-down
+    
+    Args:
+        games: List of game detail dictionaries
+        bet_type: Type of bet ('spread', 'total', 'moneyline')
+    
+    Returns:
+        str: HTML string for game details table
+    """
+    if not games:
+        return '<p style="color: #999; font-style: italic; margin: 10px 0;">No games in this category</p>'
+    
+    html_str = '<table class="game-details-table">'
+    html_str += '<thead><tr>'
+    html_str += '<th>Date</th>'
+    html_str += '<th>Matchup</th>'
+    
+    if bet_type == 'spread':
+        html_str += '<th>Team</th>'
+        html_str += '<th>Opening Spread</th>'
+        html_str += '<th>Closing Spread</th>'
+    elif bet_type == 'total':
+        html_str += '<th>Opening Total</th>'
+        html_str += '<th>Closing Total</th>'
+    elif bet_type == 'moneyline':
+        html_str += '<th>Team</th>'
+        html_str += '<th>Opening ML</th>'
+        html_str += '<th>Closing ML</th>'
+    
+    html_str += '</tr></thead><tbody>'
+    
+    for game in games:
+        html_str += '<tr>'
+        html_str += f'<td>{escape_html(game.get("date", "N/A"))}</td>'
+        html_str += f'<td>{escape_html(game.get("matchup", "N/A"))}</td>'
+        
+        if bet_type == 'spread':
+            html_str += f'<td>{escape_html(game.get("team", "N/A"))}</td>'
+            html_str += f'<td>{escape_html(game.get("opening_spread", "N/A"))}</td>'
+            html_str += f'<td>{escape_html(game.get("closing_spread", "N/A"))}</td>'
+        elif bet_type == 'total':
+            html_str += f'<td>{escape_html(game.get("opening_total", "N/A"))}</td>'
+            html_str += f'<td>{escape_html(game.get("closing_total", "N/A"))}</td>'
+        elif bet_type == 'moneyline':
+            html_str += f'<td>{escape_html(game.get("team", "N/A"))}</td>'
+            html_str += f'<td>{escape_html(game.get("opening_moneyline", "N/A"))}</td>'
+            html_str += f'<td>{escape_html(game.get("closing_moneyline", "N/A"))}</td>'
+        
+        html_str += '</tr>'
+    
+    html_str += '</tbody></table>'
+    return html_str
+
+
 def generate_html_output(analysis_data, timestamp, last_game_date):
     """
     Generate HTML output from analysis data
@@ -1086,6 +1320,76 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
         .subsection {{
             margin-top: 25px;
         }}
+        details {{
+            margin-bottom: 2px;
+        }}
+        summary {{
+            cursor: pointer;
+            padding: 12px 15px;
+            background-color: #f7fafc;
+            border-bottom: 1px solid #e2e8f0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: background-color 0.2s ease;
+        }}
+        summary:hover {{
+            background-color: #edf2f7;
+        }}
+        summary::marker {{
+            content: '▶ ';
+            font-size: 0.8em;
+        }}
+        details[open] summary::marker {{
+            content: '▼ ';
+        }}
+        .summary-content {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+        }}
+        .summary-content > span:first-child {{
+            flex: 1;
+            text-align: left;
+        }}
+        .summary-content > span:nth-child(2) {{
+            flex: 1;
+            text-align: center;
+        }}
+        .summary-content > span:last-child {{
+            flex: 1;
+            text-align: right;
+        }}
+        .game-details {{
+            padding: 20px;
+            background-color: #fff;
+            border-left: 3px solid #2c5282;
+            margin: 0;
+        }}
+        .game-details-table {{
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            font-size: 0.9rem;
+        }}
+        .game-details-table th {{
+            background-color: #4a5568;
+            color: white;
+            font-weight: 600;
+            padding: 8px 12px;
+            text-align: left;
+        }}
+        .game-details-table td {{
+            padding: 8px 12px;
+            border-bottom: 1px solid #e2e8f0;
+        }}
+        .game-details-table tr:nth-child(even) {{
+            background-color: #f9fafb;
+        }}
+        .game-details-table tr:hover {{
+            background-color: #edf2f7;
+        }}
         footer {{
             text-align: center;
             margin-top: 40px;
@@ -1138,10 +1442,22 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
                 <tbody>
 '''
     for row in analysis_data['spread_by_edge_all']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='spread')
         html += f'''                    <tr>
-                        <td>{escape_html(row['tier'])}</td>
-                        <td>{escape_html(row['record'])}</td>
-                        <td>{escape_html(row['pct'])}</td>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>{escape_html(row['tier'])}</span>
+                                        <span>{escape_html(row['record'])}</span>
+                                        <span>{escape_html(row['pct'])}</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    {games_html}
+                                </div>
+                            </details>
+                        </td>
                     </tr>
 '''
     html += '''                </tbody>
@@ -1161,10 +1477,22 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
                 <tbody>
 '''
     for row in analysis_data['spread_by_edge_consensus']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='spread')
         html += f'''                    <tr>
-                        <td>{escape_html(row['tier'])}</td>
-                        <td>{escape_html(row['record'])}</td>
-                        <td>{escape_html(row['pct'])}</td>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>{escape_html(row['tier'])}</span>
+                                        <span>{escape_html(row['record'])}</span>
+                                        <span>{escape_html(row['pct'])}</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    {games_html}
+                                </div>
+                            </details>
+                        </td>
                     </tr>
 '''
     html += '''                </tbody>
@@ -1186,10 +1514,22 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
                     <tbody>
 '''
     for row in analysis_data['spread_by_point_spread']['favorites']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='spread')
         html += f'''                        <tr>
-                            <td>{escape_html(row['range'])}</td>
-                            <td>{escape_html(row['record'])}</td>
-                            <td>{escape_html(row['pct'])}</td>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>{escape_html(row['range'])}</span>
+                                            <span>{escape_html(row['record'])}</span>
+                                            <span>{escape_html(row['pct'])}</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        {games_html}
+                                    </div>
+                                </details>
+                            </td>
                         </tr>
 '''
     html += '''                    </tbody>
@@ -1208,10 +1548,22 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
                     <tbody>
 '''
     for row in analysis_data['spread_by_point_spread']['underdogs']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='spread')
         html += f'''                        <tr>
-                            <td>{escape_html(row['range'])}</td>
-                            <td>{escape_html(row['record'])}</td>
-                            <td>{escape_html(row['pct'])}</td>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>{escape_html(row['range'])}</span>
+                                            <span>{escape_html(row['record'])}</span>
+                                            <span>{escape_html(row['pct'])}</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        {games_html}
+                                    </div>
+                                </details>
+                            </td>
                         </tr>
 '''
     html += '''                    </tbody>
@@ -1234,10 +1586,22 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
                     <tbody>
 '''
     for row in analysis_data['ou_by_edge_all']['overs']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='total')
         html += f'''                        <tr>
-                            <td>{escape_html(row['tier'])}</td>
-                            <td>{escape_html(row['record'])}</td>
-                            <td>{escape_html(row['pct'])}</td>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>{escape_html(row['tier'])}</span>
+                                            <span>{escape_html(row['record'])}</span>
+                                            <span>{escape_html(row['pct'])}</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        {games_html}
+                                    </div>
+                                </details>
+                            </td>
                         </tr>
 '''
     html += '''                    </tbody>
@@ -1256,10 +1620,22 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
                     <tbody>
 '''
     for row in analysis_data['ou_by_edge_all']['unders']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='total')
         html += f'''                        <tr>
-                            <td>{escape_html(row['tier'])}</td>
-                            <td>{escape_html(row['record'])}</td>
-                            <td>{escape_html(row['pct'])}</td>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>{escape_html(row['tier'])}</span>
+                                            <span>{escape_html(row['record'])}</span>
+                                            <span>{escape_html(row['pct'])}</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        {games_html}
+                                    </div>
+                                </details>
+                            </td>
                         </tr>
 '''
     html += '''                    </tbody>
@@ -1282,10 +1658,22 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
                     <tbody>
 '''
     for row in analysis_data['ou_by_edge_consensus']['overs']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='total')
         html += f'''                        <tr>
-                            <td>{escape_html(row['tier'])}</td>
-                            <td>{escape_html(row['record'])}</td>
-                            <td>{escape_html(row['pct'])}</td>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>{escape_html(row['tier'])}</span>
+                                            <span>{escape_html(row['record'])}</span>
+                                            <span>{escape_html(row['pct'])}</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        {games_html}
+                                    </div>
+                                </details>
+                            </td>
                         </tr>
 '''
     html += '''                    </tbody>
@@ -1304,10 +1692,22 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
                     <tbody>
 '''
     for row in analysis_data['ou_by_edge_consensus']['unders']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='total')
         html += f'''                        <tr>
-                            <td>{escape_html(row['tier'])}</td>
-                            <td>{escape_html(row['record'])}</td>
-                            <td>{escape_html(row['pct'])}</td>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>{escape_html(row['tier'])}</span>
+                                            <span>{escape_html(row['record'])}</span>
+                                            <span>{escape_html(row['pct'])}</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        {games_html}
+                                    </div>
+                                </details>
+                            </td>
                         </tr>
 '''
     html += f'''                    </tbody>
@@ -1317,14 +1717,36 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
 
         <section>
             <h2>6. Overall Model Totals Record</h2>
-            <div class="summary-item">
-                <span class="summary-label">Overs (over_cover_probability &gt; 0.5):</span>
-                <span class="summary-value">{escape_html(analysis_data['model_totals']['overs']['record'])}</span>
-            </div>
-            <div class="summary-item">
-                <span class="summary-label">Unders (under_cover_probability &gt; 0.5):</span>
-                <span class="summary-value">{escape_html(analysis_data['model_totals']['unders']['record'])}</span>
-            </div>
+            <table>
+                <tbody>
+                    <tr>
+                        <td colspan="2" style="padding: 0;">
+                            <details>
+                                <summary style="justify-content: space-between;">
+                                    <span class="summary-label">Overs (over_cover_probability &gt; 0.5):</span>
+                                    <span class="summary-value">{escape_html(analysis_data['model_totals']['overs']['record'])}</span>
+                                </summary>
+                                <div class="game-details">
+                                    {generate_game_details_html(analysis_data['model_totals']['overs'].get('games', []), bet_type='total')}
+                                </div>
+                            </details>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" style="padding: 0;">
+                            <details>
+                                <summary style="justify-content: space-between;">
+                                    <span class="summary-label">Unders (under_cover_probability &gt; 0.5):</span>
+                                    <span class="summary-value">{escape_html(analysis_data['model_totals']['unders']['record'])}</span>
+                                </summary>
+                                <div class="game-details">
+                                    {generate_game_details_html(analysis_data['model_totals']['unders'].get('games', []), bet_type='total')}
+                                </div>
+                            </details>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
         </section>
 
         <section>
@@ -1340,10 +1762,22 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
                 <tbody>
 '''
     for row in analysis_data['moneyline_all']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='moneyline')
         html += f'''                    <tr>
-                        <td>{escape_html(row['tier'])}</td>
-                        <td>{escape_html(row['record'])}</td>
-                        <td>{escape_html(row['pct'])}</td>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>{escape_html(row['tier'])}</span>
+                                        <span>{escape_html(row['record'])}</span>
+                                        <span>{escape_html(row['pct'])}</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    {games_html}
+                                </div>
+                            </details>
+                        </td>
                     </tr>
 '''
     html += '''                </tbody>
@@ -1363,10 +1797,22 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
                 <tbody>
 '''
     for row in analysis_data['moneyline_consensus']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='moneyline')
         html += f'''                    <tr>
-                        <td>{escape_html(row['tier'])}</td>
-                        <td>{escape_html(row['record'])}</td>
-                        <td>{escape_html(row['pct'])}</td>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>{escape_html(row['tier'])}</span>
+                                        <span>{escape_html(row['record'])}</span>
+                                        <span>{escape_html(row['pct'])}</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    {games_html}
+                                </div>
+                            </details>
+                        </td>
                     </tr>
 '''
     html += '''                </tbody>
@@ -1386,10 +1832,22 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
                 <tbody>
 '''
     for row in analysis_data['moneyline_section9']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='moneyline')
         html += f'''                    <tr>
-                        <td>{escape_html(row['tier'])}</td>
-                        <td>{escape_html(row['record'])}</td>
-                        <td>{escape_html(row['pct'])}</td>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>{escape_html(row['tier'])}</span>
+                                        <span>{escape_html(row['record'])}</span>
+                                        <span>{escape_html(row['pct'])}</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    {games_html}
+                                </div>
+                            </details>
+                        </td>
                     </tr>
 '''
     html += '''                </tbody>
@@ -1409,10 +1867,22 @@ def generate_html_output(analysis_data, timestamp, last_game_date):
                 <tbody>
 '''
     for row in analysis_data['moneyline_section10']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='moneyline')
         html += f'''                    <tr>
-                        <td>{escape_html(row['tier'])}</td>
-                        <td>{escape_html(row['record'])}</td>
-                        <td>{escape_html(row['pct'])}</td>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>{escape_html(row['tier'])}</span>
+                                        <span>{escape_html(row['record'])}</span>
+                                        <span>{escape_html(row['pct'])}</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    {games_html}
+                                </div>
+                            </details>
+                        </td>
                     </tr>
 '''
     html += '''                </tbody>
