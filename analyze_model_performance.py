@@ -216,7 +216,7 @@ def analyze_spread_performance_by_edge(df, consensus_only=False):
     print_section_header(title)
     
     # Remove rows with NaN values
-    data = df.dropna(subset=['spread_covered', 'spread_edge']).copy()
+    data = df.dropna(subset=['spread_covered', 'opening_spread_edge']).copy()
     
     # Filter for consensus if needed
     if consensus_only:
@@ -224,9 +224,10 @@ def analyze_spread_performance_by_edge(df, consensus_only=False):
     
     # Define edge tiers (edges are in decimal format, e.g., 0.025 = 2.5%)
     tiers = [
-        (0.0, 0.019, "0-1.9%"),
-        (0.02, 0.029, "2-2.9%"),
-        (0.03, 0.039, "3-3.9%"),
+        (0.0, 0.01, "0-0.9%"),
+        (0.01, 0.02, "1-1.9%"),
+        (0.02, 0.03, "2-2.9%"),
+        (0.03, 0.04, "3-3.9%"),
         (0.04, float('inf'), "4%+")
     ]
     
@@ -236,7 +237,7 @@ def analyze_spread_performance_by_edge(df, consensus_only=False):
     table.add_column("Win %", justify="right")
     
     for min_edge, max_edge, label in tiers:
-        tier_data = data[(data['spread_edge'] >= min_edge) & (data['spread_edge'] < max_edge)]
+        tier_data = data[(data['opening_spread_edge'] >= min_edge) & (data['opening_spread_edge'] < max_edge)]
         wins = (tier_data['spread_covered'] == 1).sum()
         losses = (tier_data['spread_covered'] == 0).sum()
         total = wins + losses
@@ -328,9 +329,10 @@ def analyze_over_under_performance_by_edge(df, consensus_only=False):
     
     # Define edge tiers
     tiers = [
-        (0.0, 0.019, "0-1.9%"),
-        (0.02, 0.029, "2-2.9%"),
-        (0.03, 0.039, "3-3.9%"),
+        (0.0, 0.01, "0-0.9%"),
+        (0.01, 0.02, "1-1.9%"),
+        (0.02, 0.03, "2-2.9%"),
+        (0.03, 0.04, "3-3.9%"),
         (0.04, float('inf'), "4%+")
     ]
     
@@ -338,7 +340,7 @@ def analyze_over_under_performance_by_edge(df, consensus_only=False):
     console.print("[bold]Overs Performance:[/bold]\n")
     
     # Remove NaN values
-    over_data = df.dropna(subset=['over_hit', 'over_edge']).copy()
+    over_data = df.dropna(subset=['over_hit', 'opening_over_edge']).copy()
     if consensus_only:
         over_data = over_data[over_data['over_consensus_flag'] == 1].copy()
     
@@ -348,7 +350,7 @@ def analyze_over_under_performance_by_edge(df, consensus_only=False):
     over_table.add_column("Win %", justify="right")
     
     for min_edge, max_edge, label in tiers:
-        tier_data = over_data[(over_data['over_edge'] >= min_edge) & (over_data['over_edge'] < max_edge)]
+        tier_data = over_data[(over_data['opening_over_edge'] >= min_edge) & (over_data['opening_over_edge'] < max_edge)]
         wins = (tier_data['over_hit'] == 1).sum()
         losses = (tier_data['over_hit'] == 0).sum()
         total = wins + losses
@@ -365,7 +367,7 @@ def analyze_over_under_performance_by_edge(df, consensus_only=False):
     console.print("\n[bold]Unders Performance:[/bold]\n")
     
     # Remove NaN values
-    under_data = df.dropna(subset=['under_hit', 'under_edge']).copy()
+    under_data = df.dropna(subset=['under_hit', 'opening_under_edge']).copy()
     if consensus_only:
         under_data = under_data[under_data['under_consensus_flag'] == 1].copy()
     
@@ -375,7 +377,7 @@ def analyze_over_under_performance_by_edge(df, consensus_only=False):
     under_table.add_column("Win %", justify="right")
     
     for min_edge, max_edge, label in tiers:
-        tier_data = under_data[(under_data['under_edge'] >= min_edge) & (under_data['under_edge'] < max_edge)]
+        tier_data = under_data[(under_data['opening_under_edge'] >= min_edge) & (under_data['opening_under_edge'] < max_edge)]
         wins = (tier_data['under_hit'] == 1).sum()
         losses = (tier_data['under_hit'] == 0).sum()
         total = wins + losses
@@ -466,8 +468,8 @@ def analyze_moneyline_performance_by_win_probability_high_edge(df, consensus_onl
     print_section_header(title)
     
     # Filter for moneyline edge >= 4% (0.04)
-    data = df.dropna(subset=['moneyline_edge', 'moneyline_won', 'moneyline_win_probability']).copy()
-    data = data[data['moneyline_edge'] >= 0.04].copy()
+    data = df.dropna(subset=['opening_moneyline_edge', 'moneyline_won', 'moneyline_win_probability']).copy()
+    data = data[data['opening_moneyline_edge'] >= 0.04].copy()
     
     # Filter for consensus if needed
     if consensus_only:
@@ -510,21 +512,22 @@ def collect_spread_performance_by_edge(df, consensus_only=False):
     """
     Collect spread performance by edge data for output
     """
-    data = df.dropna(subset=['spread_covered', 'spread_edge']).copy()
+    data = df.dropna(subset=['spread_covered', 'opening_spread_edge']).copy()
     
     if consensus_only:
         data = data[data['spread_consensus_flag'] == 1].copy()
     
     tiers = [
-        (0.0, 0.019, "0-1.9%"),
-        (0.02, 0.029, "2-2.9%"),
-        (0.03, 0.039, "3-3.9%"),
+        (0.0, 0.01, "0-0.9%"),
+        (0.01, 0.02, "1-1.9%"),
+        (0.02, 0.03, "2-2.9%"),
+        (0.03, 0.04, "3-3.9%"),
         (0.04, float('inf'), "4%+")
     ]
     
     results = []
     for min_edge, max_edge, label in tiers:
-        tier_data = data[(data['spread_edge'] >= min_edge) & (data['spread_edge'] < max_edge)]
+        tier_data = data[(data['opening_spread_edge'] >= min_edge) & (data['opening_spread_edge'] < max_edge)]
         wins = (tier_data['spread_covered'] == 1).sum()
         losses = (tier_data['spread_covered'] == 0).sum()
         total = wins + losses
@@ -596,20 +599,21 @@ def collect_over_under_performance_by_edge(df, consensus_only=False):
     Collect over/under performance by edge data for output
     """
     tiers = [
-        (0.0, 0.019, "0-1.9%"),
-        (0.02, 0.029, "2-2.9%"),
-        (0.03, 0.039, "3-3.9%"),
+        (0.0, 0.01, "0-0.9%"),
+        (0.01, 0.02, "1-1.9%"),
+        (0.02, 0.03, "2-2.9%"),
+        (0.03, 0.04, "3-3.9%"),
         (0.04, float('inf'), "4%+")
     ]
     
     # Overs
-    over_data = df.dropna(subset=['over_hit', 'over_edge']).copy()
+    over_data = df.dropna(subset=['over_hit', 'opening_over_edge']).copy()
     if consensus_only:
         over_data = over_data[over_data['over_consensus_flag'] == 1].copy()
     
     over_results = []
     for min_edge, max_edge, label in tiers:
-        tier_data = over_data[(over_data['over_edge'] >= min_edge) & (over_data['over_edge'] < max_edge)]
+        tier_data = over_data[(over_data['opening_over_edge'] >= min_edge) & (over_data['opening_over_edge'] < max_edge)]
         wins = (tier_data['over_hit'] == 1).sum()
         losses = (tier_data['over_hit'] == 0).sum()
         total = wins + losses
@@ -621,13 +625,13 @@ def collect_over_under_performance_by_edge(df, consensus_only=False):
             over_results.append({'tier': label, 'record': "0-0", 'pct': "0.0%"})
     
     # Unders
-    under_data = df.dropna(subset=['under_hit', 'under_edge']).copy()
+    under_data = df.dropna(subset=['under_hit', 'opening_under_edge']).copy()
     if consensus_only:
         under_data = under_data[under_data['under_consensus_flag'] == 1].copy()
     
     under_results = []
     for min_edge, max_edge, label in tiers:
-        tier_data = under_data[(under_data['under_edge'] >= min_edge) & (under_data['under_edge'] < max_edge)]
+        tier_data = under_data[(under_data['opening_under_edge'] >= min_edge) & (under_data['opening_under_edge'] < max_edge)]
         wins = (tier_data['under_hit'] == 1).sum()
         losses = (tier_data['under_hit'] == 0).sum()
         total = wins + losses
@@ -701,8 +705,8 @@ def collect_moneyline_performance_by_win_probability_high_edge(df, consensus_onl
     Collect moneyline performance by win probability (4%+ edge) data for output
     """
     # Filter for moneyline edge >= 4% (0.04)
-    data = df.dropna(subset=['moneyline_edge', 'moneyline_won', 'moneyline_win_probability']).copy()
-    data = data[data['moneyline_edge'] >= 0.04].copy()
+    data = df.dropna(subset=['opening_moneyline_edge', 'moneyline_won', 'moneyline_win_probability']).copy()
+    data = data[data['opening_moneyline_edge'] >= 0.04].copy()
     
     # Filter for consensus if needed
     if consensus_only:
