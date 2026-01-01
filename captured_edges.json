@@ -398,5 +398,13 @@
   "Idaho State Bengals vs. Sacramento St Hornets|Sacramento St Hornets|spread": {
     "captured_at": "2026-01-01T05:23:25.364492+00:00",
     "edge_type": "spread"
+  },
+  "Western Kentucky Hilltoppers vs. Sam Houston St Bearkats|Sam Houston St Bearkats|spread": {
+    "captured_at": "2026-01-01T19:32:43.849028+00:00",
+    "edge_type": "spread"
+  },
+  "Maryland Terrapins vs. Oregon Ducks|Oregon Ducks|spread": {
+    "captured_at": "2026-01-01T19:32:43.850295+00:00",
+    "edge_type": "spread"
   }
 }
