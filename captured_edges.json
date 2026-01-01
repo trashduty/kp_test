@@ -350,5 +350,53 @@
   "Navy Midshipmen vs. Boston Univ. Terriers|Navy Midshipmen|spread": {
     "captured_at": "2025-12-30T23:02:42.633034+00:00",
     "edge_type": "spread"
+  },
+  "Youngstown St Penguins vs. Oakland Golden Grizzlies|Youngstown St Penguins|moneyline": {
+    "captured_at": "2026-01-01T05:23:25.359351+00:00",
+    "edge_type": "moneyline"
+  },
+  "Central Arkansas Bears vs. Florida Gulf Coast Eagles|Central Arkansas Bears|spread": {
+    "captured_at": "2026-01-01T05:23:25.359730+00:00",
+    "edge_type": "spread"
+  },
+  "Central Arkansas Bears vs. Florida Gulf Coast Eagles|under": {
+    "captured_at": "2026-01-01T05:23:25.359777+00:00",
+    "edge_type": "under"
+  },
+  "Wright St Raiders vs. Milwaukee Panthers|Wright St Raiders|moneyline": {
+    "captured_at": "2026-01-01T05:23:25.360500+00:00",
+    "edge_type": "moneyline"
+  },
+  "Illinois St Redbirds vs. Evansville Purple Aces|Illinois St Redbirds|spread": {
+    "captured_at": "2026-01-01T05:23:25.360697+00:00",
+    "edge_type": "spread"
+  },
+  "UNC Greensboro Spartans vs. Chattanooga Mocs|UNC Greensboro Spartans|moneyline": {
+    "captured_at": "2026-01-01T05:23:25.361186+00:00",
+    "edge_type": "moneyline"
+  },
+  "Arkansas-Little Rock Trojans vs. Tennessee Tech Golden Eagles|over": {
+    "captured_at": "2026-01-01T05:23:25.362555+00:00",
+    "edge_type": "over"
+  },
+  "Belmont Bruins vs. Bradley Braves|Belmont Bruins|spread": {
+    "captured_at": "2026-01-01T05:23:25.363103+00:00",
+    "edge_type": "spread"
+  },
+  "Belmont Bruins vs. Bradley Braves|Belmont Bruins|moneyline": {
+    "captured_at": "2026-01-01T05:23:25.363138+00:00",
+    "edge_type": "moneyline"
+  },
+  "Northern Iowa Panthers vs. Indiana St Sycamores|Northern Iowa Panthers|spread": {
+    "captured_at": "2026-01-01T05:23:25.363811+00:00",
+    "edge_type": "spread"
+  },
+  "Northern Iowa Panthers vs. Indiana St Sycamores|under": {
+    "captured_at": "2026-01-01T05:23:25.363862+00:00",
+    "edge_type": "under"
+  },
+  "Idaho State Bengals vs. Sacramento St Hornets|Sacramento St Hornets|spread": {
+    "captured_at": "2026-01-01T05:23:25.364492+00:00",
+    "edge_type": "spread"
   }
 }
