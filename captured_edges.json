@@ -426,5 +426,9 @@
   "Iona Gaels vs. Siena Saints|Iona Gaels|moneyline": {
     "captured_at": "2026-01-01T21:21:50.809430+00:00",
     "edge_type": "moneyline"
+  },
+  "LIU Sharks vs. Central Connecticut St Blue Devils|LIU Sharks|spread": {
+    "captured_at": "2026-01-01T22:22:22.930927+00:00",
+    "edge_type": "spread"
   }
 }
