@@ -414,5 +414,13 @@
   "San Francisco Dons vs. San Diego Toreros|San Diego Toreros|spread": {
     "captured_at": "2026-01-01T19:46:57.007939+00:00",
     "edge_type": "spread"
+  },
+  "Stanford Cardinal vs. Louisville Cardinals|Louisville Cardinals|spread": {
+    "captured_at": "2026-01-01T20:22:41.773060+00:00",
+    "edge_type": "spread"
+  },
+  "California Golden Bears vs. Notre Dame Fighting Irish|Notre Dame Fighting Irish|spread": {
+    "captured_at": "2026-01-01T20:22:41.773997+00:00",
+    "edge_type": "spread"
   }
 }
