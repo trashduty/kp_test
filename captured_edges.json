@@ -406,5 +406,13 @@
   "Maryland Terrapins vs. Oregon Ducks|Oregon Ducks|spread": {
     "captured_at": "2026-01-01T19:32:43.850295+00:00",
     "edge_type": "spread"
+  },
+  "Michigan Wolverines vs. USC Trojans|Michigan Wolverines|spread": {
+    "captured_at": "2026-01-01T19:46:57.006422+00:00",
+    "edge_type": "spread"
+  },
+  "San Francisco Dons vs. San Diego Toreros|San Diego Toreros|spread": {
+    "captured_at": "2026-01-01T19:46:57.007939+00:00",
+    "edge_type": "spread"
   }
 }
