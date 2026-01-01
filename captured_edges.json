@@ -430,5 +430,9 @@
   "LIU Sharks vs. Central Connecticut St Blue Devils|LIU Sharks|spread": {
     "captured_at": "2026-01-01T22:22:22.930927+00:00",
     "edge_type": "spread"
+  },
+  "LIU Sharks vs. Central Connecticut St Blue Devils|LIU Sharks|moneyline": {
+    "captured_at": "2026-01-01T23:35:04.649522+00:00",
+    "edge_type": "moneyline"
   }
 }
