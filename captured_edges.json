@@ -422,5 +422,9 @@
   "California Golden Bears vs. Notre Dame Fighting Irish|Notre Dame Fighting Irish|spread": {
     "captured_at": "2026-01-01T20:22:41.773997+00:00",
     "edge_type": "spread"
+  },
+  "Iona Gaels vs. Siena Saints|Iona Gaels|moneyline": {
+    "captured_at": "2026-01-01T21:21:50.809430+00:00",
+    "edge_type": "moneyline"
   }
 }
