@@ -466,5 +466,21 @@
   "Butler Bulldogs vs. Villanova Wildcats|Butler Bulldogs|moneyline": {
     "captured_at": "2026-01-02T21:20:59.136197+00:00",
     "edge_type": "moneyline"
+  },
+  "Coastal Carolina Chanticleers vs. Georgia St Panthers|Coastal Carolina Chanticleers|spread": {
+    "captured_at": "2026-01-02T22:22:02.399703+00:00",
+    "edge_type": "spread"
+  },
+  "The Citadel Bulldogs vs. Wofford Terriers|The Citadel Bulldogs|spread": {
+    "captured_at": "2026-01-02T22:22:02.399830+00:00",
+    "edge_type": "spread"
+  },
+  "Temple Owls vs. UTSA Roadrunners|Temple Owls|spread": {
+    "captured_at": "2026-01-02T22:22:02.403134+00:00",
+    "edge_type": "spread"
+  },
+  "Duquesne Dukes vs. VCU Rams|Duquesne Dukes|spread": {
+    "captured_at": "2026-01-02T22:22:02.403841+00:00",
+    "edge_type": "spread"
   }
 }
