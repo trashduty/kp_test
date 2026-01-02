@@ -454,5 +454,9 @@
   "UCF Knights vs. Kansas Jayhawks|UCF Knights|spread": {
     "captured_at": "2026-01-02T18:53:21.899871+00:00",
     "edge_type": "spread"
+  },
+  "Georgia Bulldogs vs. Auburn Tigers|Georgia Bulldogs|moneyline": {
+    "captured_at": "2026-01-02T20:22:25.489906+00:00",
+    "edge_type": "moneyline"
   }
 }
