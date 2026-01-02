@@ -438,5 +438,17 @@
   "Arkansas Razorbacks vs. Tennessee Volunteers|over": {
     "captured_at": "2026-01-02T17:47:27.413483+00:00",
     "edge_type": "over"
+  },
+  "Kansas St Wildcats vs. BYU Cougars|Kansas St Wildcats|spread": {
+    "captured_at": "2026-01-02T18:42:03.377538+00:00",
+    "edge_type": "spread"
+  },
+  "Cincinnati Bearcats vs. Houston Cougars|Cincinnati Bearcats|spread": {
+    "captured_at": "2026-01-02T18:42:03.377741+00:00",
+    "edge_type": "spread"
+  },
+  "South Carolina Gamecocks vs. Vanderbilt Commodores|South Carolina Gamecocks|spread": {
+    "captured_at": "2026-01-02T18:42:03.377873+00:00",
+    "edge_type": "spread"
   }
 }
