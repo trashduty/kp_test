@@ -434,5 +434,9 @@
   "LIU Sharks vs. Central Connecticut St Blue Devils|LIU Sharks|moneyline": {
     "captured_at": "2026-01-01T23:35:04.649522+00:00",
     "edge_type": "moneyline"
+  },
+  "Arkansas Razorbacks vs. Tennessee Volunteers|over": {
+    "captured_at": "2026-01-02T17:47:27.413483+00:00",
+    "edge_type": "over"
   }
 }
