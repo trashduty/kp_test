@@ -510,5 +510,17 @@
   "Buffalo Bulls vs. Ball State Cardinals|Buffalo Bulls|spread": {
     "captured_at": "2026-01-02T22:37:12.161456+00:00",
     "edge_type": "spread"
+  },
+  "Miami (OH) RedHawks vs. Akron Zips|Miami (OH) RedHawks|spread": {
+    "captured_at": "2026-01-02T22:49:24.224299+00:00",
+    "edge_type": "spread"
+  },
+  "UL Monroe Warhawks vs. Texas State Bobcats|UL Monroe Warhawks|spread": {
+    "captured_at": "2026-01-02T22:49:24.224465+00:00",
+    "edge_type": "spread"
+  },
+  "Furman Paladins vs. Western Carolina Catamounts|Furman Paladins|spread": {
+    "captured_at": "2026-01-02T22:49:24.225339+00:00",
+    "edge_type": "spread"
   }
 }
