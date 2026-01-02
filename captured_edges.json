@@ -482,5 +482,33 @@
   "Duquesne Dukes vs. VCU Rams|Duquesne Dukes|spread": {
     "captured_at": "2026-01-02T22:22:02.403841+00:00",
     "edge_type": "spread"
+  },
+  "Loyola (Chi) Ramblers vs. Dayton Flyers|Dayton Flyers|spread": {
+    "captured_at": "2026-01-02T22:37:12.159992+00:00",
+    "edge_type": "spread"
+  },
+  "Georgia Tech Yellow Jackets vs. Boston College Eagles|under": {
+    "captured_at": "2026-01-02T22:37:12.160243+00:00",
+    "edge_type": "under"
+  },
+  "Eastern Michigan Eagles vs. Ohio Bobcats|under": {
+    "captured_at": "2026-01-02T22:37:12.160431+00:00",
+    "edge_type": "under"
+  },
+  "Eastern Michigan Eagles vs. Ohio Bobcats|Eastern Michigan Eagles|spread": {
+    "captured_at": "2026-01-02T22:37:12.160534+00:00",
+    "edge_type": "spread"
+  },
+  "Massachusetts Minutemen vs. Bowling Green Falcons|Massachusetts Minutemen|spread": {
+    "captured_at": "2026-01-02T22:37:12.160854+00:00",
+    "edge_type": "spread"
+  },
+  "North Dakota Fighting Hawks vs. South Dakota St Jackrabbits|North Dakota Fighting Hawks|spread": {
+    "captured_at": "2026-01-02T22:37:12.161130+00:00",
+    "edge_type": "spread"
+  },
+  "Buffalo Bulls vs. Ball State Cardinals|Buffalo Bulls|spread": {
+    "captured_at": "2026-01-02T22:37:12.161456+00:00",
+    "edge_type": "spread"
   }
 }
