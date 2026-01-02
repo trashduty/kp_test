@@ -526,5 +526,33 @@
   "VMI Keydets vs. Chattanooga Mocs|VMI Keydets|spread": {
     "captured_at": "2026-01-02T23:02:48.446750+00:00",
     "edge_type": "spread"
+  },
+  "Idaho Vandals vs. Eastern Washington Eagles|Idaho Vandals|spread": {
+    "captured_at": "2026-01-02T23:21:55.560801+00:00",
+    "edge_type": "spread"
+  },
+  "Arizona St Sun Devils vs. Colorado Buffaloes|Arizona St Sun Devils|spread": {
+    "captured_at": "2026-01-02T23:21:55.560992+00:00",
+    "edge_type": "spread"
+  },
+  "Texas Longhorns vs. Mississippi St Bulldogs|Mississippi St Bulldogs|spread": {
+    "captured_at": "2026-01-02T23:21:55.561787+00:00",
+    "edge_type": "spread"
+  },
+  "Charlotte 49ers vs. Wichita St Shockers|Charlotte 49ers|spread": {
+    "captured_at": "2026-01-02T23:21:55.561964+00:00",
+    "edge_type": "spread"
+  },
+  "Montana Grizzlies vs. N Colorado Bears|Montana Grizzlies|spread": {
+    "captured_at": "2026-01-02T23:21:55.562209+00:00",
+    "edge_type": "spread"
+  },
+  "Montana St Bobcats vs. Northern Arizona Lumberjacks|Montana St Bobcats|spread": {
+    "captured_at": "2026-01-02T23:21:55.563818+00:00",
+    "edge_type": "spread"
+  },
+  "UC San Diego Tritons vs. Hawai'i Rainbow Warriors|UC San Diego Tritons|spread": {
+    "captured_at": "2026-01-02T23:21:55.564579+00:00",
+    "edge_type": "spread"
   }
 }
