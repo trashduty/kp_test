@@ -554,5 +554,9 @@
   "UC San Diego Tritons vs. Hawai'i Rainbow Warriors|UC San Diego Tritons|spread": {
     "captured_at": "2026-01-02T23:21:55.564579+00:00",
     "edge_type": "spread"
+  },
+  "Miami (OH) RedHawks vs. Akron Zips|over": {
+    "captured_at": "2026-01-02T23:33:54.708773+00:00",
+    "edge_type": "over"
   }
 }
