@@ -450,5 +450,9 @@
   "South Carolina Gamecocks vs. Vanderbilt Commodores|South Carolina Gamecocks|spread": {
     "captured_at": "2026-01-02T18:42:03.377873+00:00",
     "edge_type": "spread"
+  },
+  "UCF Knights vs. Kansas Jayhawks|UCF Knights|spread": {
+    "captured_at": "2026-01-02T18:53:21.899871+00:00",
+    "edge_type": "spread"
   }
 }
