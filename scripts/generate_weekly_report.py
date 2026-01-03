@@ -196,6 +196,29 @@ def generate_game_details_html(games, bet_type='spread'):
     return html_str
 
 
+def count_games_in_section(section_data):
+    """
+    Count total number of games in a section
+    
+    Args:
+        section_data: Either a list of tier results or a dict with 'favorites'/'underdogs' or 'overs'/'unders'
+    
+    Returns:
+        Total number of games
+    """
+    if isinstance(section_data, list):
+        # For simple lists like spread_by_edge_all
+        return sum(len(tier.get('games', [])) for tier in section_data)
+    elif isinstance(section_data, dict):
+        # For dicts like spread_by_point_spread or ou_by_edge_all
+        total = 0
+        for key in section_data:
+            if isinstance(section_data[key], list):
+                total += sum(len(tier.get('games', [])) for tier in section_data[key])
+        return total
+    return 0
+
+
 def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp, game_count):
     """
     Generate HTML output for weekly report
@@ -214,6 +237,19 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
     start_date = datetime.strptime(week_start_str, '%Y-%m-%d')
     end_date = datetime.strptime(week_end_str, '%Y-%m-%d')
     date_range = f"{start_date.strftime('%B %d, %Y')} - {end_date.strftime('%B %d, %Y')}"
+    
+    # Calculate game counts for each section
+    section1_count = count_games_in_section(analysis_data['spread_by_edge_all'])
+    section2_count = count_games_in_section(analysis_data['spread_by_edge_consensus'])
+    # For Section 3, we need counts for each subsection
+    section3_favorites_count = count_games_in_section(analysis_data['spread_by_point_spread']['favorites'])
+    section3_underdogs_count = count_games_in_section(analysis_data['spread_by_point_spread']['underdogs'])
+    # For Section 4, we need counts for each subsection
+    section4_overs_count = count_games_in_section(analysis_data['ou_by_edge_all']['overs'])
+    section4_unders_count = count_games_in_section(analysis_data['ou_by_edge_all']['unders'])
+    # For Section 5, we need counts for each subsection
+    section5_overs_count = count_games_in_section(analysis_data['ou_by_edge_consensus']['overs'])
+    section5_unders_count = count_games_in_section(analysis_data['ou_by_edge_consensus']['unders'])
     
     html = f'''<!DOCTYPE html>
 <html lang="en">
@@ -426,7 +462,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         </header>
 
         <section>
-            <h2>1. Model Spread Performance by Edge (All Games)</h2>
+            <h2>1. Model Spread Performance by Edge (All Games) ({section1_count} games)</h2>
             <table>
                 <thead>
                     <tr>
@@ -463,7 +499,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         </section>
 
         <section>
-            <h2>2. Model Spread Performance by Edge (Consensus Only)</h2>
+            <h2>2. Model Spread Performance by Edge (Consensus Only) ({section2_count} games)</h2>
             <table>
                 <thead>
                     <tr>
@@ -502,7 +538,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         <section>
             <h2>3. Model Spread Performance by Point Spread Ranges</h2>
             <div class="subsection">
-                <h3>Favorites (opening_spread &lt; 0)</h3>
+                <h3>Favorites (opening_spread &lt; 0) ({section3_favorites_count} games)</h3>
                 <table>
                     <thead>
                         <tr>
@@ -539,7 +575,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             </div>
 
             <div class="subsection">
-                <h3>Underdogs (opening_spread &gt; 0)</h3>
+                <h3>Underdogs (opening_spread &gt; 0) ({section3_underdogs_count} games)</h3>
                 <table>
                     <thead>
                         <tr>
@@ -579,7 +615,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         <section>
             <h2>4. Model Over/Under Performance by Edge (All Games)</h2>
             <div class="subsection">
-                <h3>Overs</h3>
+                <h3>Overs ({section4_overs_count} games)</h3>
                 <table>
                     <thead>
                         <tr>
@@ -616,7 +652,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             </div>
 
             <div class="subsection">
-                <h3>Unders</h3>
+                <h3>Unders ({section4_unders_count} games)</h3>
                 <table>
                     <thead>
                         <tr>
@@ -656,7 +692,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         <section>
             <h2>5. Model Over/Under Performance by Edge (Consensus Only)</h2>
             <div class="subsection">
-                <h3>Overs</h3>
+                <h3>Overs ({section5_overs_count} games)</h3>
                 <table>
                     <thead>
                         <tr>
@@ -693,7 +729,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             </div>
 
             <div class="subsection">
-                <h3>Unders</h3>
+                <h3>Unders ({section5_unders_count} games)</h3>
                 <table>
                     <thead>
                         <tr>
