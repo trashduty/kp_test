@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly Model Performance - 2025-12-29 to 2026-01-04</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        
+        h1, h2 {
+            color: #333;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .header h1 {
+            margin: 0;
+            color: white;
+        }
+        
+        .week-range {
+            font-size: 1.2em;
+            margin-top: 10px;
+            opacity: 0.9;
+        }
+        
+        .stats-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        
+        .stat-card h3 {
+            margin: 0 0 10px 0;
+            color: #666;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .stat-value {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+        }
+        
+        .section {
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        th {
+            background-color: #667eea;
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.85em;
+            letter-spacing: 0.5px;
+        }
+        
+        tr:hover {
+            background-color: #f8f9fa;
+        }
+        
+        .win-rate-good {
+            color: #28a745;
+            font-weight: bold;
+        }
+        
+        .win-rate-bad {
+            color: #dc3545;
+            font-weight: bold;
+        }
+        
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        .progress-bar {
+            width: 100%;
+            height: 20px;
+            background-color: #e9ecef;
+            border-radius: 10px;
+            overflow: hidden;
+            margin-top: 10px;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            transition: width 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📊 Weekly Model Performance Report</h1>
+        <div class="week-range">
+            Week of December 29, 2025 - January 04, 2026
+        </div>
+    </div>
+    
+    <div class="stats-container">
+        <div class="stat-card">
+            <h3>Total Games</h3>
+            <div class="stat-value">380</div>
+        </div>
+        <div class="stat-card">
+            <h3>Win Rate</h3>
+            <div class="stat-value">0.0%</div>
+            <div class="progress-bar">
+                <div class="progress-fill" style="width: 0.0%"></div>
+            </div>
+        </div>
+        <div class="stat-card">
+            <h3>Correct Predictions</h3>
+            <div class="stat-value">0</div>
+        </div>
+        <div class="stat-card">
+            <h3>Average Edge</h3>
+            <div class="stat-value">0.00</div>
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>Spread Performance by Edge</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Edge Range</th>
+                    <th>Total Games</th>
+                    <th>Correct</th>
+                    <th>Incorrect</th>
+                    <th>Win Rate</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>0-2</strong></td>
+                    <td>380</td>
+                    <td>0</td>
+                    <td>380</td>
+                    <td class="win-rate-bad">0.0%</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    
+    <div class="footer">
+        <p>Generated on 2026-01-03 06:09:50 UTC</p>
+        <p>Data source: trashduty/cbb/graded_results.csv</p>
+    </div>
+</body>
+</html>
