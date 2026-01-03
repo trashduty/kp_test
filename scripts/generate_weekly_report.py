@@ -241,12 +241,15 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
     # Calculate game counts for each section
     section1_count = count_games_in_section(analysis_data['spread_by_edge_all'])
     section2_count = count_games_in_section(analysis_data['spread_by_edge_consensus'])
-    section3_favorites_count = sum(len(tier.get('games', [])) for tier in analysis_data['spread_by_point_spread']['favorites'])
-    section3_underdogs_count = sum(len(tier.get('games', [])) for tier in analysis_data['spread_by_point_spread']['underdogs'])
-    section4_overs_count = sum(len(tier.get('games', [])) for tier in analysis_data['ou_by_edge_all']['overs'])
-    section4_unders_count = sum(len(tier.get('games', [])) for tier in analysis_data['ou_by_edge_all']['unders'])
-    section5_overs_count = sum(len(tier.get('games', [])) for tier in analysis_data['ou_by_edge_consensus']['overs'])
-    section5_unders_count = sum(len(tier.get('games', [])) for tier in analysis_data['ou_by_edge_consensus']['unders'])
+    # For Section 3, we need counts for each subsection
+    section3_favorites_count = count_games_in_section(analysis_data['spread_by_point_spread']['favorites'])
+    section3_underdogs_count = count_games_in_section(analysis_data['spread_by_point_spread']['underdogs'])
+    # For Section 4, we need counts for each subsection
+    section4_overs_count = count_games_in_section(analysis_data['ou_by_edge_all']['overs'])
+    section4_unders_count = count_games_in_section(analysis_data['ou_by_edge_all']['unders'])
+    # For Section 5, we need counts for each subsection
+    section5_overs_count = count_games_in_section(analysis_data['ou_by_edge_consensus']['overs'])
+    section5_unders_count = count_games_in_section(analysis_data['ou_by_edge_consensus']['unders'])
     
     html = f'''<!DOCTYPE html>
 <html lang="en">
