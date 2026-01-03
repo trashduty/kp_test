@@ -1,306 +1,583 @@
-import pandas as pd
-import numpy as np
+#!/usr/bin/env python3
+"""
+Weekly Model Performance Analysis Script
+
+This script:
+1. Fetches graded_results.csv from trashduty/cbb repository
+2. Filters data for the current week (Monday-Sunday)
+3. Creates the docs/weekly/ and docs/weekly/historical/ directories
+4. Generates current_week.html and current_week.csv files
+5. Archives previous weeks to historical/ directory
+"""
+
+import os
+import csv
+import shutil
 from datetime import datetime, timedelta
-import pytz
-from rich.console import Console
-from rich.table import Table
-import logging
-from rich.logging import RichHandler
+from collections import defaultdict
+import urllib.request
+import urllib.error
 
-# Set up logging with Rich
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(message)s",
-    datefmt="[%X]",
-    handlers=[RichHandler(rich_tracebacks=True)]
-)
-logger = logging.getLogger("rich")
+# Configuration
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/graded_results.csv"
+OUTPUT_DIR = "docs/weekly"
+HISTORICAL_DIR = "docs/weekly/historical"
+CURRENT_WEEK_HTML = "current_week.html"
+CURRENT_WEEK_CSV = "current_week.csv"
 
-console = Console()
 
-def load_data(filepath):
-    """Load the CSV data with error handling."""
+def fetch_graded_results_from_github():
+    """
+    Fetch graded_results.csv from the trashduty/cbb repository.
+    
+    Returns:
+        list: List of dictionaries containing the CSV data
+    """
+    print(f"Fetching data from {GITHUB_RAW_URL}...")
+    
     try:
-        df = pd.read_csv(filepath)
-        logger.info(f"[green]Successfully loaded data from {filepath}[/green]")
-        logger.info(f"[cyan]Total rows: {len(df)}[/cyan]")
-        return df
-    except FileNotFoundError:
-        logger.error(f"[red]Error: File {filepath} not found[/red]")
-        return None
+        with urllib.request.urlopen(GITHUB_RAW_URL) as response:
+            content = response.read().decode('utf-8')
+            
+        # Parse CSV content
+        csv_reader = csv.DictReader(content.splitlines())
+        data = list(csv_reader)
+        
+        print(f"Successfully fetched {len(data)} records")
+        return data
+    
+    except urllib.error.URLError as e:
+        print(f"Error fetching data: {e}")
+        return []
     except Exception as e:
-        logger.error(f"[red]Error loading data: {str(e)}[/red]")
-        return None
+        print(f"Unexpected error: {e}")
+        return []
 
-def get_week_label(week_start, week_end):
-    """Generate a readable week label."""
-    return f"{week_start.strftime('%b %d')} - {week_end.strftime('%b %d, %Y')}"
 
-def get_previous_week_range():
+def get_week_range(date=None):
     """
-    Calculate the date range for the previous complete week (Monday-Sunday).
-    
-    Returns:
-        tuple: (week_start, week_end) datetime objects in Eastern Time
-    """
-    # Get current time in Eastern Time
-    eastern = pytz.timezone('US/Eastern')
-    now = datetime.now(eastern)
-    
-    # Calculate last Monday
-    days_since_monday = (now.weekday() + 7) % 7  # 0 = Monday, 6 = Sunday
-    last_monday = now - timedelta(days=days_since_monday + 7)
-    
-    # Set to start of day (Monday 00:00:00)
-    week_start = last_monday.replace(hour=0, minute=0, second=0, microsecond=0)
-    
-    # Calculate last Sunday (6 days after Monday)
-    week_end = week_start + timedelta(days=6, hours=23, minutes=59, seconds=59)
-    
-    return week_start, week_end
-
-def get_week_before_last_range():
-    """
-    Calculate the date range for the week before last (Monday-Sunday).
-    
-    Returns:
-        tuple: (week_start, week_end) datetime objects in Eastern Time
-    """
-    # Get current time in Eastern Time
-    eastern = pytz.timezone('US/Eastern')
-    now = datetime.now(eastern)
-    
-    # Calculate the Monday two weeks ago
-    days_since_monday = (now.weekday() + 7) % 7
-    two_weeks_ago_monday = now - timedelta(days=days_since_monday + 14)
-    
-    # Set to start of day (Monday 00:00:00)
-    week_start = two_weeks_ago_monday.replace(hour=0, minute=0, second=0, microsecond=0)
-    
-    # Calculate Sunday (6 days after Monday)
-    week_end = week_start + timedelta(days=6, hours=23, minutes=59, seconds=59)
-    
-    return week_start, week_end
-
-def calculate_metrics(df):
-    """
-    Calculate performance metrics from the dataframe.
+    Get the Monday-Sunday range for a given date's week.
     
     Args:
-        df: pandas DataFrame with prediction data
-    
+        date: datetime object (defaults to today)
+        
     Returns:
-        dict: Dictionary containing calculated metrics
+        tuple: (monday_date, sunday_date) as datetime objects
     """
-    if df is None or len(df) == 0:
-        return {
-            'total_games': 0,
-            'correct_predictions': 0,
-            'accuracy': 0.0,
-            'avg_confidence': 0.0,
-            'total_units_wagered': 0.0,
-            'net_profit': 0.0,
-            'roi': 0.0,
-            'high_conf_games': 0,
-            'high_conf_correct': 0,
-            'high_conf_accuracy': 0.0
-        }
+    if date is None:
+        date = datetime.now()
     
-    # Basic metrics
-    total_games = len(df)
-    correct_predictions = df['correct'].sum()
-    accuracy = (correct_predictions / total_games * 100) if total_games > 0 else 0.0
+    # Get the Monday of the week
+    monday = date - timedelta(days=date.weekday())
+    # Get the Sunday of the week
+    sunday = monday + timedelta(days=6)
     
-    # Confidence metrics
-    avg_confidence = df['confidence'].mean()
+    # Set times to start and end of day
+    monday = monday.replace(hour=0, minute=0, second=0, microsecond=0)
+    sunday = sunday.replace(hour=23, minute=59, second=59, microsecond=999999)
     
-    # Financial metrics (assuming unit size of $100)
-    UNIT_SIZE = 100
-    df['wager'] = df['confidence'] * UNIT_SIZE
-    total_units_wagered = df['wager'].sum()
+    return monday, sunday
+
+
+def filter_data_by_week(data, week_start=None, week_end=None):
+    """
+    Filter data for a specific week (Monday-Sunday).
     
-    # Calculate profit/loss for each bet
-    df['profit'] = df.apply(
-        lambda row: row['wager'] * (row['odds'] - 1) if row['correct'] else -row['wager'],
-        axis=1
-    )
-    net_profit = df['profit'].sum()
-    roi = (net_profit / total_units_wagered * 100) if total_units_wagered > 0 else 0.0
+    Args:
+        data: List of dictionaries from CSV
+        week_start: Start of week (Monday) as datetime
+        week_end: End of week (Sunday) as datetime
+        
+    Returns:
+        list: Filtered data for the specified week
+    """
+    if week_start is None or week_end is None:
+        week_start, week_end = get_week_range()
     
-    # High confidence metrics (>=0.7)
-    high_conf_df = df[df['confidence'] >= 0.7]
-    high_conf_games = len(high_conf_df)
-    high_conf_correct = high_conf_df['correct'].sum() if high_conf_games > 0 else 0
-    high_conf_accuracy = (high_conf_correct / high_conf_games * 100) if high_conf_games > 0 else 0.0
+    print(f"Filtering data for week: {week_start.strftime('%Y-%m-%d')} to {week_end.strftime('%Y-%m-%d')}")
+    
+    filtered_data = []
+    
+    for row in data:
+        try:
+            # Parse the game_date field
+            game_date_str = row.get('game_date', '')
+            if not game_date_str:
+                continue
+            
+            # Try different date formats
+            game_date = None
+            for fmt in ['%Y-%m-%d', '%m/%d/%Y', '%Y/%m/%d']:
+                try:
+                    game_date = datetime.strptime(game_date_str, fmt)
+                    break
+                except ValueError:
+                    continue
+            
+            if game_date is None:
+                continue
+            
+            # Check if date is in the week range
+            if week_start <= game_date <= week_end:
+                filtered_data.append(row)
+        
+        except Exception as e:
+            print(f"Error processing row: {e}")
+            continue
+    
+    print(f"Found {len(filtered_data)} records for the current week")
+    return filtered_data
+
+
+def collect_spread_performance_by_edge(data):
+    """
+    Collect spread performance statistics grouped by edge bucket.
+    
+    Args:
+        data: List of dictionaries from filtered CSV
+        
+    Returns:
+        dict: Performance statistics by edge bucket
+    """
+    # Edge buckets
+    edge_buckets = [
+        (0, 2, "0-2"),
+        (2, 4, "2-4"),
+        (4, 6, "4-6"),
+        (6, 8, "6-8"),
+        (8, 10, "8-10"),
+        (10, float('inf'), "10+")
+    ]
+    
+    performance = defaultdict(lambda: {
+        'total': 0,
+        'correct': 0,
+        'win_rate': 0.0,
+        'edge_range': ''
+    })
+    
+    for row in data:
+        try:
+            edge = float(row.get('edge', 0))
+            result = row.get('result', '').strip().lower()
+            
+            # Determine which bucket this edge falls into
+            for min_edge, max_edge, label in edge_buckets:
+                if min_edge <= abs(edge) < max_edge:
+                    performance[label]['total'] += 1
+                    performance[label]['edge_range'] = label
+                    
+                    if result in ['correct', 'win', 'w', '1']:
+                        performance[label]['correct'] += 1
+                    
+                    break
+        
+        except (ValueError, TypeError):
+            continue
+    
+    # Calculate win rates
+    for label in performance:
+        if performance[label]['total'] > 0:
+            performance[label]['win_rate'] = (
+                performance[label]['correct'] / performance[label]['total']
+            ) * 100
+    
+    return dict(performance)
+
+
+def collect_overall_statistics(data):
+    """
+    Collect overall performance statistics.
+    
+    Args:
+        data: List of dictionaries from filtered CSV
+        
+    Returns:
+        dict: Overall statistics
+    """
+    total_games = len(data)
+    correct = 0
+    total_edge = 0.0
+    
+    for row in data:
+        try:
+            result = row.get('result', '').strip().lower()
+            if result in ['correct', 'win', 'w', '1']:
+                correct += 1
+            
+            edge = float(row.get('edge', 0))
+            total_edge += abs(edge)
+        
+        except (ValueError, TypeError):
+            continue
+    
+    win_rate = (correct / total_games * 100) if total_games > 0 else 0.0
+    avg_edge = (total_edge / total_games) if total_games > 0 else 0.0
     
     return {
         'total_games': total_games,
-        'correct_predictions': correct_predictions,
-        'accuracy': accuracy,
-        'avg_confidence': avg_confidence,
-        'total_units_wagered': total_units_wagered,
-        'net_profit': net_profit,
-        'roi': roi,
-        'high_conf_games': high_conf_games,
-        'high_conf_correct': high_conf_correct,
-        'high_conf_accuracy': high_conf_accuracy
+        'correct': correct,
+        'incorrect': total_games - correct,
+        'win_rate': win_rate,
+        'avg_edge': avg_edge
     }
 
-def display_metrics_table(metrics, week_label):
+
+def generate_weekly_html(data, week_start, week_end, output_path):
     """
-    Display metrics in a formatted Rich table.
+    Generate HTML report for weekly performance.
     
     Args:
-        metrics: Dictionary of calculated metrics
-        week_label: String label for the week being displayed
+        data: List of dictionaries from filtered CSV
+        week_start: Start of week as datetime
+        week_end: End of week as datetime
+        output_path: Path to save the HTML file
     """
-    table = Table(title=f"Model Performance - {week_label}", show_header=True, header_style="bold magenta")
-    table.add_column("Metric", style="cyan", width=30)
-    table.add_column("Value", style="green", width=20)
+    overall_stats = collect_overall_statistics(data)
+    spread_performance = collect_spread_performance_by_edge(data)
     
-    # Add rows
-    table.add_row("Total Games", str(metrics['total_games']))
-    table.add_row("Correct Predictions", str(metrics['correct_predictions']))
-    table.add_row("Accuracy", f"{metrics['accuracy']:.2f}%")
-    table.add_row("Average Confidence", f"{metrics['avg_confidence']:.3f}")
-    table.add_row("", "")  # Spacer
-    table.add_row("Total Units Wagered", f"${metrics['total_units_wagered']:.2f}")
-    table.add_row("Net Profit/Loss", f"${metrics['net_profit']:.2f}")
-    table.add_row("ROI", f"{metrics['roi']:.2f}%")
-    table.add_row("", "")  # Spacer
-    table.add_row("High Confidence Games (≥0.7)", str(metrics['high_conf_games']))
-    table.add_row("High Confidence Correct", str(metrics['high_conf_correct']))
-    table.add_row("High Confidence Accuracy", f"{metrics['high_conf_accuracy']:.2f}%")
+    # Sort edge buckets
+    edge_order = ["0-2", "2-4", "4-6", "6-8", "8-10", "10+"]
     
-    console.print(table)
+    html_content = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly Model Performance - {week_start.strftime('%Y-%m-%d')} to {week_end.strftime('%Y-%m-%d')}</title>
+    <style>
+        body {{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }}
+        
+        h1, h2 {{
+            color: #333;
+        }}
+        
+        .header {{
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }}
+        
+        .header h1 {{
+            margin: 0;
+            color: white;
+        }}
+        
+        .week-range {{
+            font-size: 1.2em;
+            margin-top: 10px;
+            opacity: 0.9;
+        }}
+        
+        .stats-container {{
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }}
+        
+        .stat-card {{
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center;
+        }}
+        
+        .stat-card h3 {{
+            margin: 0 0 10px 0;
+            color: #666;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }}
+        
+        .stat-value {{
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+        }}
+        
+        .section {{
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }}
+        
+        table {{
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }}
+        
+        th, td {{
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }}
+        
+        th {{
+            background-color: #667eea;
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.85em;
+            letter-spacing: 0.5px;
+        }}
+        
+        tr:hover {{
+            background-color: #f8f9fa;
+        }}
+        
+        .win-rate-good {{
+            color: #28a745;
+            font-weight: bold;
+        }}
+        
+        .win-rate-bad {{
+            color: #dc3545;
+            font-weight: bold;
+        }}
+        
+        .footer {{
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            color: #666;
+            font-size: 0.9em;
+        }}
+        
+        .progress-bar {{
+            width: 100%;
+            height: 20px;
+            background-color: #e9ecef;
+            border-radius: 10px;
+            overflow: hidden;
+            margin-top: 10px;
+        }}
+        
+        .progress-fill {{
+            height: 100%;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            transition: width 0.3s ease;
+        }}
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📊 Weekly Model Performance Report</h1>
+        <div class="week-range">
+            Week of {week_start.strftime('%B %d, %Y')} - {week_end.strftime('%B %d, %Y')}
+        </div>
+    </div>
+    
+    <div class="stats-container">
+        <div class="stat-card">
+            <h3>Total Games</h3>
+            <div class="stat-value">{overall_stats['total_games']}</div>
+        </div>
+        <div class="stat-card">
+            <h3>Win Rate</h3>
+            <div class="stat-value">{overall_stats['win_rate']:.1f}%</div>
+            <div class="progress-bar">
+                <div class="progress-fill" style="width: {overall_stats['win_rate']:.1f}%"></div>
+            </div>
+        </div>
+        <div class="stat-card">
+            <h3>Correct Predictions</h3>
+            <div class="stat-value">{overall_stats['correct']}</div>
+        </div>
+        <div class="stat-card">
+            <h3>Average Edge</h3>
+            <div class="stat-value">{overall_stats['avg_edge']:.2f}</div>
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>Spread Performance by Edge</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Edge Range</th>
+                    <th>Total Games</th>
+                    <th>Correct</th>
+                    <th>Incorrect</th>
+                    <th>Win Rate</th>
+                </tr>
+            </thead>
+            <tbody>
+"""
+    
+    # Add rows for each edge bucket
+    for edge_label in edge_order:
+        if edge_label in spread_performance:
+            perf = spread_performance[edge_label]
+            incorrect = perf['total'] - perf['correct']
+            win_rate_class = 'win-rate-good' if perf['win_rate'] >= 52.4 else 'win-rate-bad'
+            
+            html_content += f"""                <tr>
+                    <td><strong>{edge_label}</strong></td>
+                    <td>{perf['total']}</td>
+                    <td>{perf['correct']}</td>
+                    <td>{incorrect}</td>
+                    <td class="{win_rate_class}">{perf['win_rate']:.1f}%</td>
+                </tr>
+"""
+    
+    html_content += """            </tbody>
+        </table>
+    </div>
+    
+    <div class="footer">
+        <p>Generated on """ + datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC') + """</p>
+        <p>Data source: trashduty/cbb/graded_results.csv</p>
+    </div>
+</body>
+</html>
+"""
+    
+    # Write HTML file
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(html_content)
+    
+    print(f"Generated HTML report: {output_path}")
 
-def filter_data_by_week(df, week_start, week_end):
+
+def generate_weekly_csv(data, output_path):
     """
-    Filter DataFrame to only include games from the specified week.
+    Generate CSV file for weekly data.
     
     Args:
-        df: pandas DataFrame with game data
-        week_start: datetime object for Monday
-        week_end: datetime object for Sunday
-    
-    Returns:
-        DataFrame: Filtered data for the week
+        data: List of dictionaries from filtered CSV
+        output_path: Path to save the CSV file
     """
-    # Convert date column to datetime
-    df = df.copy()
-    df['date'] = pd.to_datetime(df['date'])
-    
-    # Convert week_start and week_end to timezone-naive for comparison
-    week_start_naive = week_start.replace(tzinfo=None)
-    week_end_naive = week_end.replace(tzinfo=None)
-    
-    # Filter for the week
-    mask = (df['date'] >= week_start_naive) & (df['date'] <= week_end_naive)
-    week_data = df[mask].copy()
-    
-    logger.info(f"[cyan]Filtered to {len(week_data)} rows for {get_week_label(week_start, week_end)}[/cyan]")
-    
-    return week_data
-
-def main():
-    """Main execution function."""
-    console.print("\n[bold blue]═══════════════════════════════════════════════[/bold blue]")
-    console.print("[bold blue]   Model Performance Analysis - Weekly Report   [/bold blue]")
-    console.print("[bold blue]═══════════════════════════════════════════════[/bold blue]\n")
-    
-    # Load data
-    filepath = "data/predictions_with_actuals.csv"
-    df = load_data(filepath)
-    
-    if df is None:
+    if not data:
+        print("No data to write to CSV")
         return
     
-    # Get week ranges
-    prev_week_start, prev_week_end = get_previous_week_range()
-    week_before_start, week_before_end = get_week_before_last_range()
+    # Get all unique field names from the data
+    fieldnames = list(data[0].keys())
     
-    logger.info(f"[yellow]Previous Week: {get_week_label(prev_week_start, prev_week_end)}[/yellow]")
-    logger.info(f"[yellow]Week Before Last: {get_week_label(week_before_start, week_before_end)}[/yellow]\n")
+    with open(output_path, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(data)
     
-    # Filter data for each week
-    prev_week_df = filter_data_by_week(df, prev_week_start, prev_week_end)
-    week_before_df = filter_data_by_week(df, week_before_start, week_before_end)
+    print(f"Generated CSV file: {output_path}")
+
+
+def archive_previous_week():
+    """
+    Archive previous week's files to the historical directory.
+    """
+    current_week_html_path = os.path.join(OUTPUT_DIR, CURRENT_WEEK_HTML)
+    current_week_csv_path = os.path.join(OUTPUT_DIR, CURRENT_WEEK_CSV)
     
-    # Calculate and display metrics for previous week
-    console.print("\n")
-    prev_metrics = calculate_metrics(prev_week_df)
-    display_metrics_table(prev_metrics, get_week_label(prev_week_start, prev_week_end))
+    # Check if current week files exist
+    if not os.path.exists(current_week_html_path):
+        print("No previous week files to archive")
+        return
     
-    # Calculate and display metrics for week before last
-    console.print("\n")
-    week_before_metrics = calculate_metrics(week_before_df)
-    display_metrics_table(week_before_metrics, get_week_label(week_before_start, week_before_end))
-    
-    # Display comparison
-    console.print("\n[bold blue]═══════════════════════════════════════════════[/bold blue]")
-    console.print("[bold blue]            Week-over-Week Comparison           [/bold blue]")
-    console.print("[bold blue]═══════════════════════════════════════════════[/bold blue]\n")
-    
-    comparison_table = Table(show_header=True, header_style="bold magenta")
-    comparison_table.add_column("Metric", style="cyan", width=25)
-    comparison_table.add_column("Previous Week", style="green", width=20)
-    comparison_table.add_column("Week Before", style="yellow", width=20)
-    comparison_table.add_column("Change", style="bold", width=20)
-    
-    # Helper function to format change with color
-    def format_change(current, previous, is_currency=False, is_percentage=False):
-        if previous == 0:
-            return "N/A"
+    # Get the previous week's date range from the HTML file
+    # For simplicity, use the file's modification time
+    try:
+        file_mtime = os.path.getmtime(current_week_html_path)
+        file_date = datetime.fromtimestamp(file_mtime)
+        week_start, week_end = get_week_range(file_date)
         
-        change = current - previous
-        prefix = "+" if change > 0 else ""
+        # Create archive filename
+        archive_prefix = f"{week_start.strftime('%Y-%m-%d')}_to_{week_end.strftime('%Y-%m-%d')}"
         
-        if is_currency:
-            change_str = f"{prefix}${change:.2f}"
-        elif is_percentage:
-            change_str = f"{prefix}{change:.2f}pp"
-        else:
-            change_str = f"{prefix}{change:.2f}"
+        # Ensure historical directory exists
+        os.makedirs(HISTORICAL_DIR, exist_ok=True)
         
-        # Color code based on metric type
-        if is_currency or is_percentage:
-            color = "green" if change > 0 else "red" if change < 0 else "white"
-        else:
-            color = "white"
+        # Move files to historical directory
+        if os.path.exists(current_week_html_path):
+            archive_html_path = os.path.join(HISTORICAL_DIR, f"{archive_prefix}.html")
+            shutil.move(current_week_html_path, archive_html_path)
+            print(f"Archived HTML to: {archive_html_path}")
         
-        return f"[{color}]{change_str}[/{color}]"
+        if os.path.exists(current_week_csv_path):
+            archive_csv_path = os.path.join(HISTORICAL_DIR, f"{archive_prefix}.csv")
+            shutil.move(current_week_csv_path, archive_csv_path)
+            print(f"Archived CSV to: {archive_csv_path}")
     
-    # Add comparison rows
-    comparison_table.add_row(
-        "Accuracy",
-        f"{prev_metrics['accuracy']:.2f}%",
-        f"{week_before_metrics['accuracy']:.2f}%",
-        format_change(prev_metrics['accuracy'], week_before_metrics['accuracy'], is_percentage=True)
-    )
+    except Exception as e:
+        print(f"Error archiving previous week: {e}")
+
+
+def ensure_directories():
+    """
+    Ensure required directories exist.
+    """
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    os.makedirs(HISTORICAL_DIR, exist_ok=True)
+    print(f"Ensured directories exist: {OUTPUT_DIR}, {HISTORICAL_DIR}")
+
+
+def main():
+    """
+    Main execution function.
+    """
+    print("=" * 60)
+    print("Weekly Model Performance Analysis")
+    print("=" * 60)
+    print()
     
-    comparison_table.add_row(
-        "Net Profit/Loss",
-        f"${prev_metrics['net_profit']:.2f}",
-        f"${week_before_metrics['net_profit']:.2f}",
-        format_change(prev_metrics['net_profit'], week_before_metrics['net_profit'], is_currency=True)
-    )
+    # Step 1: Ensure directories exist
+    ensure_directories()
     
-    comparison_table.add_row(
-        "ROI",
-        f"{prev_metrics['roi']:.2f}%",
-        f"{week_before_metrics['roi']:.2f}%",
-        format_change(prev_metrics['roi'], week_before_metrics['roi'], is_percentage=True)
-    )
+    # Step 2: Fetch data from GitHub
+    all_data = fetch_graded_results_from_github()
     
-    comparison_table.add_row(
-        "High Conf Accuracy",
-        f"{prev_metrics['high_conf_accuracy']:.2f}%",
-        f"{week_before_metrics['high_conf_accuracy']:.2f}%",
-        format_change(prev_metrics['high_conf_accuracy'], week_before_metrics['high_conf_accuracy'], is_percentage=True)
-    )
+    if not all_data:
+        print("Error: No data fetched. Exiting.")
+        return
     
-    console.print(comparison_table)
-    console.print("\n")
+    # Step 3: Get current week range
+    week_start, week_end = get_week_range()
+    print(f"\nCurrent week: {week_start.strftime('%Y-%m-%d')} to {week_end.strftime('%Y-%m-%d')}")
+    
+    # Step 4: Filter data for current week
+    weekly_data = filter_data_by_week(all_data, week_start, week_end)
+    
+    if not weekly_data:
+        print("Warning: No data found for the current week")
+        return
+    
+    # Step 5: Archive previous week's files
+    print("\nArchiving previous week's files...")
+    archive_previous_week()
+    
+    # Step 6: Generate current week's HTML report
+    print("\nGenerating current week's reports...")
+    html_output_path = os.path.join(OUTPUT_DIR, CURRENT_WEEK_HTML)
+    generate_weekly_html(weekly_data, week_start, week_end, html_output_path)
+    
+    # Step 7: Generate current week's CSV file
+    csv_output_path = os.path.join(OUTPUT_DIR, CURRENT_WEEK_CSV)
+    generate_weekly_csv(weekly_data, csv_output_path)
+    
+    print()
+    print("=" * 60)
+    print("Weekly analysis complete!")
+    print("=" * 60)
+    print(f"\nGenerated files:")
+    print(f"  - {html_output_path}")
+    print(f"  - {csv_output_path}")
+    print(f"\nHistorical files: {HISTORICAL_DIR}")
+
 
 if __name__ == "__main__":
     main()
