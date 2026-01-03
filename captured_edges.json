@@ -730,5 +730,9 @@
   "Santa Clara Broncos vs. San Diego Toreros|Santa Clara Broncos|spread": {
     "captured_at": "2026-01-03T20:22:30.745064+00:00",
     "edge_type": "spread"
+  },
+  "Delaware Blue Hens vs. Kennesaw St Owls|Delaware Blue Hens|spread": {
+    "captured_at": "2026-01-03T20:48:24.512782+00:00",
+    "edge_type": "spread"
   }
 }
