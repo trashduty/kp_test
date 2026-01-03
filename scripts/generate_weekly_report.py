@@ -494,7 +494,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                     </tr>
 '''
     
-    html += '''                </tbody>
+    html += f'''                </tbody>
             </table>
         </section>
 
@@ -531,7 +531,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                     </tr>
 '''
     
-    html += '''                </tbody>
+    html += f'''                </tbody>
             </table>
         </section>
 
@@ -570,7 +570,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                         </tr>
 '''
     
-    html += '''                    </tbody>
+    html += f'''                    </tbody>
                 </table>
             </div>
 
@@ -607,7 +607,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                         </tr>
 '''
     
-    html += '''                    </tbody>
+    html += f'''                    </tbody>
                 </table>
             </div>
         </section>
@@ -647,7 +647,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                         </tr>
 '''
     
-    html += '''                    </tbody>
+    html += f'''                    </tbody>
                 </table>
             </div>
 
@@ -684,7 +684,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                         </tr>
 '''
     
-    html += '''                    </tbody>
+    html += f'''                    </tbody>
                 </table>
             </div>
         </section>
@@ -724,7 +724,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                         </tr>
 '''
     
-    html += '''                    </tbody>
+    html += f'''                    </tbody>
                 </table>
             </div>
 
