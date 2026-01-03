@@ -646,5 +646,9 @@
   "Arkansas-Pine Bluff Golden Lions vs. Alabama A&M Bulldogs|Arkansas-Pine Bluff Golden Lions|spread": {
     "captured_at": "2026-01-03T01:52:01.291746+00:00",
     "edge_type": "spread"
+  },
+  "Northwestern St Demons vs. New Orleans Privateers|over": {
+    "captured_at": "2026-01-03T02:33:12.761901+00:00",
+    "edge_type": "over"
   }
 }
