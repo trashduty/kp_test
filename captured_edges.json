@@ -670,5 +670,9 @@
   "Southern Jaguars vs. Texas Southern Tigers|Southern Jaguars|moneyline": {
     "captured_at": "2026-01-03T04:03:22.092675+00:00",
     "edge_type": "moneyline"
+  },
+  "Austin Peay Governors vs. Jacksonville Dolphins|under": {
+    "captured_at": "2026-01-03T04:41:14.651834+00:00",
+    "edge_type": "under"
   }
 }
