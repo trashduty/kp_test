@@ -169,9 +169,26 @@ def generate_game_details_html(games, bet_type='spread'):
         html_str += f"<td>{escape_html(game.get('date', 'N/A'))}</td>"
         html_str += f"<td>{escape_html(game.get('matchup', 'N/A'))}</td>"
         html_str += f"<td>{escape_html(game.get('team', 'N/A'))}</td>"
-        html_str += f"<td>{escape_html(game.get('opening', 'N/A'))}</td>"
-        html_str += f"<td>{escape_html(game.get('edge', 'N/A'))}</td>"
-        html_str += f"<td>{escape_html(game.get('closing', 'N/A'))}</td>"
+        
+        # Use bet-type-specific column names
+        if bet_type == 'spread':
+            html_str += f"<td>{escape_html(game.get('opening_spread', 'N/A'))}</td>"
+            html_str += f"<td>{escape_html(game.get('edge', 'N/A'))}</td>"
+            html_str += f"<td>{escape_html(game.get('closing_spread', 'N/A'))}</td>"
+        elif bet_type == 'total':
+            html_str += f"<td>{escape_html(game.get('opening_total', 'N/A'))}</td>"
+            html_str += f"<td>{escape_html(game.get('edge', 'N/A'))}</td>"
+            html_str += f"<td>{escape_html(game.get('closing_total', 'N/A'))}</td>"
+        elif bet_type == 'moneyline':
+            html_str += f"<td>{escape_html(game.get('opening_moneyline', 'N/A'))}</td>"
+            html_str += f"<td>{escape_html(game.get('edge', 'N/A'))}</td>"
+            html_str += f"<td>{escape_html(game.get('closing_moneyline', 'N/A'))}</td>"
+        else:
+            # Fallback for unknown bet types
+            html_str += f"<td>{escape_html(game.get('opening', 'N/A'))}</td>"
+            html_str += f"<td>{escape_html(game.get('edge', 'N/A'))}</td>"
+            html_str += f"<td>{escape_html(game.get('closing', 'N/A'))}</td>"
+        
         html_str += f'<td style="color: {result_color}; font-weight: {RESULT_FONT_WEIGHT};">{escape_html(game.get("result", "N/A"))}</td>'
         html_str += '</tr>'
     
