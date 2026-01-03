@@ -704,6 +704,10 @@ def collect_spread_performance_by_point_spread(df):
     confident_picks = df.dropna(subset=['spread_cover_probability', 'spread_covered', 'opening_spread']).copy()
     confident_picks = confident_picks[confident_picks['spread_cover_probability'] > 0.5].copy()
     
+    # Filter for opening_spread_edge >= 0 (non-negative opening edge)
+    confident_picks = confident_picks.dropna(subset=['opening_spread_edge']).copy()
+    confident_picks = confident_picks[confident_picks['opening_spread_edge'] >= 0].copy()
+    
     ranges = [
         (0, 4.5, "0-4.5"),
         (5, 9.5, "5-9.5"),
