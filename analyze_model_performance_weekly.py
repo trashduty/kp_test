@@ -1,13 +1,9 @@
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
-import sys
-import os
-import json
-from pathlib import Path
+import pytz
 from rich.console import Console
 from rich.table import Table
-from rich import print as rprint
 import logging
 from rich.logging import RichHandler
 
@@ -18,132 +14,165 @@ logging.basicConfig(
     datefmt="[%X]",
     handlers=[RichHandler(rich_tracebacks=True)]
 )
-logger = logging.getLogger("weekly_analysis")
+logger = logging.getLogger("rich")
 
 console = Console()
 
-def load_config():
-    """Load configuration from config.json"""
-    config_path = Path(__file__).parent / 'config.json'
-    with open(config_path, 'r') as f:
-        return json.load(f)
+def load_data(filepath):
+    """Load the CSV data with error handling."""
+    try:
+        df = pd.read_csv(filepath)
+        logger.info(f"[green]Successfully loaded data from {filepath}[/green]")
+        logger.info(f"[cyan]Total rows: {len(df)}[/cyan]")
+        return df
+    except FileNotFoundError:
+        logger.error(f"[red]Error: File {filepath} not found[/red]")
+        return None
+    except Exception as e:
+        logger.error(f"[red]Error loading data: {str(e)}[/red]")
+        return None
 
 def get_week_label(week_start, week_end):
-    """Generate a label for the week in format 'Dec 16-22'"""
-    if week_start.month == week_end.month:
-        return f"{week_start.strftime('%b')} {week_start.day}-{week_end.day}"
-    else:
-        return f"{week_start.strftime('%b')} {week_start.day}-{week_end.strftime('%b')} {week_end.day}"
+    """Generate a readable week label."""
+    return f"{week_start.strftime('%b %d')} - {week_end.strftime('%b %d, %Y')}"
 
-def get_week_ranges(start_date, end_date):
+def get_previous_week_range():
     """
-    Generate list of (week_start, week_end) tuples for all weeks in the range.
-    Weeks run Monday-Sunday.
-    
-    Args:
-        start_date: datetime object for the overall start date
-        end_date: datetime object for the overall end date
+    Calculate the date range for the previous complete week (Monday-Sunday).
     
     Returns:
-        list of tuples: [(week_start, week_end), ...]
+        tuple: (week_start, week_end) datetime objects in Eastern Time
     """
-    weeks = []
+    # Get current time in Eastern Time
+    eastern = pytz.timezone('US/Eastern')
+    now = datetime.now(eastern)
     
-    # Start from the Monday of the week containing start_date
-    current = start_date
-    # Go back to Monday (0 = Monday, 6 = Sunday)
-    days_to_monday = current.weekday()
-    current = current - timedelta(days=days_to_monday)
+    # Calculate last Monday
+    days_since_monday = (now.weekday() + 7) % 7  # 0 = Monday, 6 = Sunday
+    last_monday = now - timedelta(days=days_since_monday + 7)
     
-    while current <= end_date:
-        week_start = current
-        week_end = current + timedelta(days=6)  # Sunday
-        
-        # Only include weeks that overlap with our date range
-        if week_end >= start_date and week_start <= end_date:
-            weeks.append((week_start, week_end))
-        
-        current = current + timedelta(days=7)
+    # Set to start of day (Monday 00:00:00)
+    week_start = last_monday.replace(hour=0, minute=0, second=0, microsecond=0)
     
-    return weeks
+    # Calculate last Sunday (6 days after Monday)
+    week_end = week_start + timedelta(days=6, hours=23, minutes=59, seconds=59)
+    
+    return week_start, week_end
 
-def load_game_data(start_date, end_date):
+def get_week_before_last_range():
     """
-    Load game data from all CSV files in the range.
-    
-    Args:
-        start_date: datetime object
-        end_date: datetime object
+    Calculate the date range for the week before last (Monday-Sunday).
     
     Returns:
-        DataFrame: Combined game data
+        tuple: (week_start, week_end) datetime objects in Eastern Time
     """
-    config = load_config()
-    data_dir = Path(config['data_dir'])
+    # Get current time in Eastern Time
+    eastern = pytz.timezone('US/Eastern')
+    now = datetime.now(eastern)
     
-    all_data = []
-    current_date = start_date
+    # Calculate the Monday two weeks ago
+    days_since_monday = (now.weekday() + 7) % 7
+    two_weeks_ago_monday = now - timedelta(days=days_since_monday + 14)
     
-    logger.info("[bold cyan]Loading game data...[/bold cyan]")
+    # Set to start of day (Monday 00:00:00)
+    week_start = two_weeks_ago_monday.replace(hour=0, minute=0, second=0, microsecond=0)
     
-    while current_date <= end_date:
-        filename = f"kenpom_{current_date.strftime('%Y%m%d')}.csv"
-        filepath = data_dir / filename
-        
-        if filepath.exists():
-            try:
-                df = pd.read_csv(filepath)
-                df['date'] = current_date
-                all_data.append(df)
-                logger.info(f"[green]✓[/green] Loaded {filename} ({len(df)} games)")
-            except Exception as e:
-                logger.warning(f"[yellow]⚠[/yellow] Error loading {filename}: {e}")
-        else:
-            logger.debug(f"[dim]File not found: {filename}[/dim]")
-        
-        current_date += timedelta(days=1)
+    # Calculate Sunday (6 days after Monday)
+    week_end = week_start + timedelta(days=6, hours=23, minutes=59, seconds=59)
     
-    if not all_data:
-        logger.error("[red]No data files found in date range[/red]")
-        return pd.DataFrame()
-    
-    combined_df = pd.concat(all_data, ignore_index=True)
-    logger.info(f"[bold green]Total games loaded: {len(combined_df)}[/bold green]")
-    
-    return combined_df
+    return week_start, week_end
 
-def get_model_columns():
-    """Return list of model columns to analyze"""
-    return [
-        'kenpom_pred',
-        'massey_pred',
-        'sagarin_pred',
-        'bpi_pred',
-        'dunkel_pred',
-        'avg5_pred'
-    ]
-
-def calculate_accuracy(df, model_col):
+def calculate_metrics(df):
     """
-    Calculate accuracy for a model column.
+    Calculate performance metrics from the dataframe.
     
     Args:
-        df: DataFrame with game data
-        model_col: Name of the prediction column
+        df: pandas DataFrame with prediction data
     
     Returns:
-        float: Accuracy (0-1) or None if no valid predictions
+        dict: Dictionary containing calculated metrics
     """
-    valid_mask = df[model_col].notna() & df['winner'].notna()
-    valid_df = df[valid_mask]
+    if df is None or len(df) == 0:
+        return {
+            'total_games': 0,
+            'correct_predictions': 0,
+            'accuracy': 0.0,
+            'avg_confidence': 0.0,
+            'total_units_wagered': 0.0,
+            'net_profit': 0.0,
+            'roi': 0.0,
+            'high_conf_games': 0,
+            'high_conf_correct': 0,
+            'high_conf_accuracy': 0.0
+        }
     
-    if len(valid_df) == 0:
-        return None
+    # Basic metrics
+    total_games = len(df)
+    correct_predictions = df['correct'].sum()
+    accuracy = (correct_predictions / total_games * 100) if total_games > 0 else 0.0
     
-    correct = (valid_df[model_col] == valid_df['winner']).sum()
-    total = len(valid_df)
+    # Confidence metrics
+    avg_confidence = df['confidence'].mean()
     
-    return correct / total if total > 0 else None
+    # Financial metrics (assuming unit size of $100)
+    UNIT_SIZE = 100
+    df['wager'] = df['confidence'] * UNIT_SIZE
+    total_units_wagered = df['wager'].sum()
+    
+    # Calculate profit/loss for each bet
+    df['profit'] = df.apply(
+        lambda row: row['wager'] * (row['odds'] - 1) if row['correct'] else -row['wager'],
+        axis=1
+    )
+    net_profit = df['profit'].sum()
+    roi = (net_profit / total_units_wagered * 100) if total_units_wagered > 0 else 0.0
+    
+    # High confidence metrics (>=0.7)
+    high_conf_df = df[df['confidence'] >= 0.7]
+    high_conf_games = len(high_conf_df)
+    high_conf_correct = high_conf_df['correct'].sum() if high_conf_games > 0 else 0
+    high_conf_accuracy = (high_conf_correct / high_conf_games * 100) if high_conf_games > 0 else 0.0
+    
+    return {
+        'total_games': total_games,
+        'correct_predictions': correct_predictions,
+        'accuracy': accuracy,
+        'avg_confidence': avg_confidence,
+        'total_units_wagered': total_units_wagered,
+        'net_profit': net_profit,
+        'roi': roi,
+        'high_conf_games': high_conf_games,
+        'high_conf_correct': high_conf_correct,
+        'high_conf_accuracy': high_conf_accuracy
+    }
+
+def display_metrics_table(metrics, week_label):
+    """
+    Display metrics in a formatted Rich table.
+    
+    Args:
+        metrics: Dictionary of calculated metrics
+        week_label: String label for the week being displayed
+    """
+    table = Table(title=f"Model Performance - {week_label}", show_header=True, header_style="bold magenta")
+    table.add_column("Metric", style="cyan", width=30)
+    table.add_column("Value", style="green", width=20)
+    
+    # Add rows
+    table.add_row("Total Games", str(metrics['total_games']))
+    table.add_row("Correct Predictions", str(metrics['correct_predictions']))
+    table.add_row("Accuracy", f"{metrics['accuracy']:.2f}%")
+    table.add_row("Average Confidence", f"{metrics['avg_confidence']:.3f}")
+    table.add_row("", "")  # Spacer
+    table.add_row("Total Units Wagered", f"${metrics['total_units_wagered']:.2f}")
+    table.add_row("Net Profit/Loss", f"${metrics['net_profit']:.2f}")
+    table.add_row("ROI", f"{metrics['roi']:.2f}%")
+    table.add_row("", "")  # Spacer
+    table.add_row("High Confidence Games (≥0.7)", str(metrics['high_conf_games']))
+    table.add_row("High Confidence Correct", str(metrics['high_conf_correct']))
+    table.add_row("High Confidence Accuracy", f"{metrics['high_conf_accuracy']:.2f}%")
+    
+    console.print(table)
 
 def filter_data_by_week(df, week_start, week_end):
     """
@@ -173,190 +202,105 @@ def filter_data_by_week(df, week_start, week_end):
     
     return week_data
 
-def analyze_week(df, week_start, week_end):
-    """
-    Analyze model performance for a single week.
-    
-    Args:
-        df: DataFrame with all game data
-        week_start: datetime object for Monday
-        week_end: datetime object for Sunday
-    
-    Returns:
-        dict: Results for each model
-    """
-    week_data = filter_data_by_week(df, week_start, week_end)
-    
-    if len(week_data) == 0:
-        logger.warning(f"[yellow]No games found for {get_week_label(week_start, week_end)}[/yellow]")
-        return None
-    
-    results = {
-        'week_label': get_week_label(week_start, week_end),
-        'week_start': week_start,
-        'week_end': week_end,
-        'total_games': len(week_data),
-        'models': {}
-    }
-    
-    model_cols = get_model_columns()
-    
-    for model_col in model_cols:
-        accuracy = calculate_accuracy(week_data, model_col)
-        
-        # Count valid predictions
-        valid_count = week_data[model_col].notna().sum()
-        
-        results['models'][model_col] = {
-            'accuracy': accuracy,
-            'valid_predictions': valid_count
-        }
-    
-    return results
-
-def print_weekly_results(all_results):
-    """
-    Print results in a formatted table.
-    
-    Args:
-        all_results: List of weekly result dictionaries
-    """
-    if not all_results:
-        logger.error("[red]No results to display[/red]")
-        return
-    
-    # Create table
-    table = Table(title="Weekly Model Performance", show_header=True, header_style="bold magenta")
-    
-    # Add columns
-    table.add_column("Week", style="cyan", width=12)
-    table.add_column("Games", justify="right", style="white")
-    
-    model_cols = get_model_columns()
-    model_names = {
-        'kenpom_pred': 'KenPom',
-        'massey_pred': 'Massey',
-        'sagarin_pred': 'Sagarin',
-        'bpi_pred': 'BPI',
-        'dunkel_pred': 'Dunkel',
-        'avg5_pred': 'Avg5'
-    }
-    
-    for model_col in model_cols:
-        table.add_column(model_names[model_col], justify="right", style="green")
-    
-    # Add rows
-    for result in all_results:
-        row = [
-            result['week_label'],
-            str(result['total_games'])
-        ]
-        
-        for model_col in model_cols:
-            model_result = result['models'][model_col]
-            if model_result['accuracy'] is not None:
-                acc_pct = model_result['accuracy'] * 100
-                valid = model_result['valid_predictions']
-                row.append(f"{acc_pct:.1f}% ({valid})")
-            else:
-                row.append("N/A")
-        
-        table.add_row(*row)
-    
-    console.print("\n")
-    console.print(table)
-    console.print("\n")
-
-def print_summary_statistics(all_results):
-    """
-    Print summary statistics across all weeks.
-    
-    Args:
-        all_results: List of weekly result dictionaries
-    """
-    if not all_results:
-        return
-    
-    model_cols = get_model_columns()
-    model_names = {
-        'kenpom_pred': 'KenPom',
-        'massey_pred': 'Massey',
-        'sagarin_pred': 'Sagarin',
-        'bpi_pred': 'BPI',
-        'dunkel_pred': 'Dunkel',
-        'avg5_pred': 'Avg5'
-    }
-    
-    # Create summary table
-    table = Table(title="Overall Summary", show_header=True, header_style="bold magenta")
-    table.add_column("Model", style="cyan")
-    table.add_column("Avg Accuracy", justify="right", style="green")
-    table.add_column("Min", justify="right", style="yellow")
-    table.add_column("Max", justify="right", style="yellow")
-    table.add_column("Total Predictions", justify="right", style="white")
-    
-    for model_col in model_cols:
-        accuracies = []
-        total_valid = 0
-        
-        for result in all_results:
-            model_result = result['models'][model_col]
-            if model_result['accuracy'] is not None:
-                accuracies.append(model_result['accuracy'])
-                total_valid += model_result['valid_predictions']
-        
-        if accuracies:
-            avg_acc = np.mean(accuracies) * 100
-            min_acc = np.min(accuracies) * 100
-            max_acc = np.max(accuracies) * 100
-            
-            table.add_row(
-                model_names[model_col],
-                f"{avg_acc:.1f}%",
-                f"{min_acc:.1f}%",
-                f"{max_acc:.1f}%",
-                str(total_valid)
-            )
-    
-    console.print(table)
-    console.print("\n")
-
 def main():
-    """Main execution function"""
-    console.print("\n[bold cyan]═══════════════════════════════════════[/bold cyan]")
-    console.print("[bold cyan]   Weekly Model Performance Analysis   [/bold cyan]")
-    console.print("[bold cyan]═══════════════════════════════════════[/bold cyan]\n")
+    """Main execution function."""
+    console.print("\n[bold blue]═══════════════════════════════════════════════[/bold blue]")
+    console.print("[bold blue]   Model Performance Analysis - Weekly Report   [/bold blue]")
+    console.print("[bold blue]═══════════════════════════════════════════════[/bold blue]\n")
     
-    # Define date range
-    start_date = datetime(2024, 12, 9)
-    end_date = datetime(2024, 12, 29)
+    # Load data
+    filepath = "data/predictions_with_actuals.csv"
+    df = load_data(filepath)
     
-    logger.info(f"[bold]Analysis Period:[/bold] {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}")
-    
-    # Load all game data
-    all_games = load_game_data(start_date, end_date)
-    
-    if all_games.empty:
-        logger.error("[red]No game data available. Exiting.[/red]")
+    if df is None:
         return
     
     # Get week ranges
-    weeks = get_week_ranges(start_date, end_date)
-    logger.info(f"[bold]Number of weeks:[/bold] {len(weeks)}\n")
+    prev_week_start, prev_week_end = get_previous_week_range()
+    week_before_start, week_before_end = get_week_before_last_range()
     
-    # Analyze each week
-    all_results = []
-    for week_start, week_end in weeks:
-        logger.info(f"[bold yellow]Analyzing week: {get_week_label(week_start, week_end)}[/bold yellow]")
-        result = analyze_week(all_games, week_start, week_end)
-        if result:
-            all_results.append(result)
+    logger.info(f"[yellow]Previous Week: {get_week_label(prev_week_start, prev_week_end)}[/yellow]")
+    logger.info(f"[yellow]Week Before Last: {get_week_label(week_before_start, week_before_end)}[/yellow]\n")
     
-    # Print results
-    print_weekly_results(all_results)
-    print_summary_statistics(all_results)
+    # Filter data for each week
+    prev_week_df = filter_data_by_week(df, prev_week_start, prev_week_end)
+    week_before_df = filter_data_by_week(df, week_before_start, week_before_end)
     
-    logger.info("[bold green]✓ Analysis complete![/bold green]\n")
+    # Calculate and display metrics for previous week
+    console.print("\n")
+    prev_metrics = calculate_metrics(prev_week_df)
+    display_metrics_table(prev_metrics, get_week_label(prev_week_start, prev_week_end))
+    
+    # Calculate and display metrics for week before last
+    console.print("\n")
+    week_before_metrics = calculate_metrics(week_before_df)
+    display_metrics_table(week_before_metrics, get_week_label(week_before_start, week_before_end))
+    
+    # Display comparison
+    console.print("\n[bold blue]═══════════════════════════════════════════════[/bold blue]")
+    console.print("[bold blue]            Week-over-Week Comparison           [/bold blue]")
+    console.print("[bold blue]═══════════════════════════════════════════════[/bold blue]\n")
+    
+    comparison_table = Table(show_header=True, header_style="bold magenta")
+    comparison_table.add_column("Metric", style="cyan", width=25)
+    comparison_table.add_column("Previous Week", style="green", width=20)
+    comparison_table.add_column("Week Before", style="yellow", width=20)
+    comparison_table.add_column("Change", style="bold", width=20)
+    
+    # Helper function to format change with color
+    def format_change(current, previous, is_currency=False, is_percentage=False):
+        if previous == 0:
+            return "N/A"
+        
+        change = current - previous
+        prefix = "+" if change > 0 else ""
+        
+        if is_currency:
+            change_str = f"{prefix}${change:.2f}"
+        elif is_percentage:
+            change_str = f"{prefix}{change:.2f}pp"
+        else:
+            change_str = f"{prefix}{change:.2f}"
+        
+        # Color code based on metric type
+        if is_currency or is_percentage:
+            color = "green" if change > 0 else "red" if change < 0 else "white"
+        else:
+            color = "white"
+        
+        return f"[{color}]{change_str}[/{color}]"
+    
+    # Add comparison rows
+    comparison_table.add_row(
+        "Accuracy",
+        f"{prev_metrics['accuracy']:.2f}%",
+        f"{week_before_metrics['accuracy']:.2f}%",
+        format_change(prev_metrics['accuracy'], week_before_metrics['accuracy'], is_percentage=True)
+    )
+    
+    comparison_table.add_row(
+        "Net Profit/Loss",
+        f"${prev_metrics['net_profit']:.2f}",
+        f"${week_before_metrics['net_profit']:.2f}",
+        format_change(prev_metrics['net_profit'], week_before_metrics['net_profit'], is_currency=True)
+    )
+    
+    comparison_table.add_row(
+        "ROI",
+        f"{prev_metrics['roi']:.2f}%",
+        f"{week_before_metrics['roi']:.2f}%",
+        format_change(prev_metrics['roi'], week_before_metrics['roi'], is_percentage=True)
+    )
+    
+    comparison_table.add_row(
+        "High Conf Accuracy",
+        f"{prev_metrics['high_conf_accuracy']:.2f}%",
+        f"{week_before_metrics['high_conf_accuracy']:.2f}%",
+        format_change(prev_metrics['high_conf_accuracy'], week_before_metrics['high_conf_accuracy'], is_percentage=True)
+    )
+    
+    console.print(comparison_table)
+    console.print("\n")
 
 if __name__ == "__main__":
     main()
