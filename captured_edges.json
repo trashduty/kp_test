@@ -650,5 +650,21 @@
   "Northwestern St Demons vs. New Orleans Privateers|over": {
     "captured_at": "2026-01-03T02:33:12.761901+00:00",
     "edge_type": "over"
+  },
+  "High Point Panthers vs. Longwood Lancers|over": {
+    "captured_at": "2026-01-03T03:43:08.195637+00:00",
+    "edge_type": "over"
+  },
+  "UMass Lowell River Hawks vs. Albany Great Danes|UMass Lowell River Hawks|moneyline": {
+    "captured_at": "2026-01-03T03:43:08.196896+00:00",
+    "edge_type": "moneyline"
+  },
+  "Presbyterian Blue Hose vs. South Carolina Upstate Spartans|Presbyterian Blue Hose|moneyline": {
+    "captured_at": "2026-01-03T03:43:08.197392+00:00",
+    "edge_type": "moneyline"
+  },
+  "Grambling St Tigers vs. Prairie View Panthers|Grambling St Tigers|moneyline": {
+    "captured_at": "2026-01-03T03:43:08.203279+00:00",
+    "edge_type": "moneyline"
   }
 }
