@@ -598,5 +598,53 @@
   "CSU Fullerton Titans vs. UC Irvine Anteaters|CSU Fullerton Titans|spread": {
     "captured_at": "2026-01-03T01:08:39.729244+00:00",
     "edge_type": "spread"
+  },
+  "New Hampshire Wildcats vs. Vermont Catamounts|over": {
+    "captured_at": "2026-01-03T01:52:01.281456+00:00",
+    "edge_type": "over"
+  },
+  "Holy Cross Crusaders vs. Navy Midshipmen|over": {
+    "captured_at": "2026-01-03T01:52:01.283977+00:00",
+    "edge_type": "over"
+  },
+  "Bethune-Cookman Wildcats vs. Florida A&M Rattlers|Bethune-Cookman Wildcats|spread": {
+    "captured_at": "2026-01-03T01:52:01.285465+00:00",
+    "edge_type": "spread"
+  },
+  "Jackson St Tigers vs. Alcorn St Braves|over": {
+    "captured_at": "2026-01-03T01:52:01.286425+00:00",
+    "edge_type": "over"
+  },
+  "South Carolina St Bulldogs vs. Howard Bison|South Carolina St Bulldogs|spread": {
+    "captured_at": "2026-01-03T01:52:01.287716+00:00",
+    "edge_type": "spread"
+  },
+  "Winthrop Eagles vs. Gardner-Webb Bulldogs|Winthrop Eagles|spread": {
+    "captured_at": "2026-01-03T01:52:01.287924+00:00",
+    "edge_type": "spread"
+  },
+  "Grambling St Tigers vs. Prairie View Panthers|Grambling St Tigers|spread": {
+    "captured_at": "2026-01-03T01:52:01.289271+00:00",
+    "edge_type": "spread"
+  },
+  "Austin Peay Governors vs. Jacksonville Dolphins|Austin Peay Governors|spread": {
+    "captured_at": "2026-01-03T01:52:01.289468+00:00",
+    "edge_type": "spread"
+  },
+  "Idaho Vandals vs. Eastern Washington Eagles|Idaho Vandals|moneyline": {
+    "captured_at": "2026-01-03T01:52:01.290201+00:00",
+    "edge_type": "moneyline"
+  },
+  "Miss Valley St Delta Devils vs. Alabama St Hornets|Miss Valley St Delta Devils|spread": {
+    "captured_at": "2026-01-03T01:52:01.290774+00:00",
+    "edge_type": "spread"
+  },
+  "Southern Jaguars vs. Texas Southern Tigers|Southern Jaguars|spread": {
+    "captured_at": "2026-01-03T01:52:01.290982+00:00",
+    "edge_type": "spread"
+  },
+  "Arkansas-Pine Bluff Golden Lions vs. Alabama A&M Bulldogs|Arkansas-Pine Bluff Golden Lions|spread": {
+    "captured_at": "2026-01-03T01:52:01.291746+00:00",
+    "edge_type": "spread"
   }
 }
