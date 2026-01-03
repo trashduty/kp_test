@@ -674,5 +674,25 @@
   "Austin Peay Governors vs. Jacksonville Dolphins|under": {
     "captured_at": "2026-01-03T04:41:14.651834+00:00",
     "edge_type": "under"
+  },
+  "Rider Broncs vs. Siena Saints|Rider Broncs|spread": {
+    "captured_at": "2026-01-03T20:03:02.723938+00:00",
+    "edge_type": "spread"
+  },
+  "Marist Red Foxes vs. Iona Gaels|over": {
+    "captured_at": "2026-01-03T20:03:02.724206+00:00",
+    "edge_type": "over"
+  },
+  "Missouri St Bears vs. New Mexico St Aggies|Missouri St Bears|spread": {
+    "captured_at": "2026-01-03T20:03:02.724958+00:00",
+    "edge_type": "spread"
+  },
+  "Gonzaga Bulldogs vs. Loyola Marymount Lions|Loyola Marymount Lions|spread": {
+    "captured_at": "2026-01-03T20:03:02.725277+00:00",
+    "edge_type": "spread"
+  },
+  "Canisius Golden Griffins vs. Sacred Heart Pioneers|Canisius Golden Griffins|spread": {
+    "captured_at": "2026-01-03T20:03:02.725726+00:00",
+    "edge_type": "spread"
   }
 }
