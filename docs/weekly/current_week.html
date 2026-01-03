@@ -5,191 +5,1045 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Weekly Model Performance - 2025-12-29 to 2026-01-04</title>
     <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+            padding: 20px;
+        }
+        .container {
             max-width: 1200px;
             margin: 0 auto;
-            padding: 20px;
-            background-color: #f5f5f5;
-        }
-        
-        h1, h2 {
-            color: #333;
-        }
-        
-        .header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
+            background-color: #fff;
             padding: 30px;
-            border-radius: 10px;
-            margin-bottom: 30px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        
-        .header h1 {
-            margin: 0;
-            color: white;
-        }
-        
-        .week-range {
-            font-size: 1.2em;
-            margin-top: 10px;
-            opacity: 0.9;
-        }
-        
-        .stats-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-            margin-bottom: 30px;
-        }
-        
-        .stat-card {
-            background: white;
-            padding: 20px;
             border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        header {
             text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 3px solid #2c5282;
         }
-        
-        .stat-card h3 {
-            margin: 0 0 10px 0;
+        h1 {
+            color: #2c5282;
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+        .week-range {
+            color: #4a5568;
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-top: 10px;
+        }
+        .timestamp {
             color: #666;
-            font-size: 0.9em;
-            text-transform: uppercase;
-            letter-spacing: 1px;
+            font-size: 0.9rem;
+            margin-top: 5px;
         }
-        
-        .stat-value {
-            font-size: 2em;
-            font-weight: bold;
-            color: #667eea;
+        .disclaimer {
+            font-size: 0.9rem;
+            color: #718096;
+            margin-top: 10px;
+            font-style: italic;
         }
-        
-        .section {
-            background: white;
-            padding: 25px;
-            border-radius: 8px;
-            margin-bottom: 30px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        section {
+            margin-bottom: 40px;
         }
-        
+        h2 {
+            color: #2c5282;
+            font-size: 1.3rem;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #e2e8f0;
+        }
+        h3 {
+            color: #4a5568;
+            font-size: 1.1rem;
+            margin: 20px 0 10px 0;
+        }
         table {
             width: 100%;
             border-collapse: collapse;
-            margin-top: 20px;
+            margin-top: 15px;
         }
-        
         th, td {
-            padding: 12px;
+            padding: 12px 15px;
             text-align: left;
-            border-bottom: 1px solid #ddd;
+            border-bottom: 1px solid #e2e8f0;
         }
-        
         th {
-            background-color: #667eea;
+            background-color: #2c5282;
             color: white;
             font-weight: 600;
-            text-transform: uppercase;
-            font-size: 0.85em;
-            letter-spacing: 0.5px;
         }
-        
+        tr:nth-child(even) {
+            background-color: #f7fafc;
+        }
         tr:hover {
-            background-color: #f8f9fa;
+            background-color: #edf2f7;
         }
-        
-        .win-rate-good {
-            color: #28a745;
-            font-weight: bold;
+        td:last-child, th:last-child {
+            text-align: right;
         }
-        
-        .win-rate-bad {
-            color: #dc3545;
-            font-weight: bold;
+        td:nth-child(2), th:nth-child(2) {
+            text-align: center;
         }
-        
-        .footer {
+        .subsection {
+            margin-top: 25px;
+        }
+        details {
+            margin-bottom: 2px;
+        }
+        summary {
+            cursor: pointer;
+            padding: 12px 15px;
+            background-color: #f7fafc;
+            border-bottom: 1px solid #e2e8f0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: background-color 0.2s ease;
+        }
+        summary:hover {
+            background-color: #edf2f7;
+        }
+        summary::marker {
+            content: '▶ ';
+            font-size: 0.8em;
+        }
+        details[open] summary::marker {
+            content: '▼ ';
+        }
+        .summary-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+        }
+        .summary-content > span:first-child {
+            flex: 1;
+            text-align: left;
+        }
+        .summary-content > span:nth-child(2) {
+            flex: 1;
+            text-align: center;
+        }
+        .summary-content > span:last-child {
+            flex: 1;
+            text-align: right;
+        }
+        .game-details {
+            padding: 20px;
+            background-color: #fff;
+            border-left: 3px solid #2c5282;
+            margin: 0;
+        }
+        .game-details-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            font-size: 0.9rem;
+        }
+        .game-details-table th {
+            background-color: #4a5568;
+            color: white;
+            font-weight: 600;
+            padding: 8px 12px;
+            text-align: left;
+        }
+        .game-details-table td {
+            padding: 8px 12px;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        .game-details-table tr:nth-child(even) {
+            background-color: #f9fafb;
+        }
+        .game-details-table tr:hover {
+            background-color: #edf2f7;
+        }
+        footer {
             text-align: center;
             margin-top: 40px;
-            padding: 20px;
+            padding-top: 20px;
+            border-top: 2px solid #e2e8f0;
             color: #666;
-            font-size: 0.9em;
+            font-size: 0.9rem;
         }
-        
-        .progress-bar {
-            width: 100%;
-            height: 20px;
-            background-color: #e9ecef;
-            border-radius: 10px;
-            overflow: hidden;
-            margin-top: 10px;
-        }
-        
-        .progress-fill {
-            height: 100%;
-            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
-            transition: width 0.3s ease;
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            .container {
+                padding: 15px;
+            }
+            h1 {
+                font-size: 1.5rem;
+            }
+            h2 {
+                font-size: 1.1rem;
+            }
+            table {
+                font-size: 0.9rem;
+            }
+            th, td {
+                padding: 8px 10px;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="header">
-        <h1>📊 Weekly Model Performance Report</h1>
-        <div class="week-range">
-            Week of December 29, 2025 - January 04, 2026
-        </div>
-    </div>
-    
-    <div class="stats-container">
-        <div class="stat-card">
-            <h3>Total Games</h3>
-            <div class="stat-value">382</div>
-        </div>
-        <div class="stat-card">
-            <h3>Win Rate</h3>
-            <div class="stat-value">0.0%</div>
-            <div class="progress-bar">
-                <div class="progress-fill" style="width: 0.0%"></div>
+    <div class="container">
+        <header>
+            <h1>Weekly Model Performance Report</h1>
+            <p class="week-range">Week of December 29, 2025 - January 04, 2026</p>
+            <p class="timestamp">Generated: 2026-01-03 07:12:59 UTC</p>
+            <p class="timestamp">Total Games: 382</p>
+            <p class="disclaimer">This report shows the model's record against the opening lines for spreads, totals, and moneylines for the specified week.</p>
+        </header>
+
+        <section>
+            <h2>1. Model Spread Performance by Edge (All Games)</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Edge Tier</th>
+                        <th>Record</th>
+                        <th>Win %</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>0-0.9%</span>
+                                        <span>13-5</span>
+                                        <span>72.2%</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-30 00:00:00</td><td>Princeton Tigers @ Vermont Catamounts</td><td>Princeton Tigers</td><td>N/A</td><td>0.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>North Carolina Tar Heels @ Florida St Seminoles</td><td>North Carolina Tar Heels</td><td>N/A</td><td>0.8%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Western Carolina Catamounts @ Wofford Terriers</td><td>Western Carolina Catamounts</td><td>N/A</td><td>0.8%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Old Dominion Monarchs @ Appalachian St Mountaineers</td><td>Old Dominion Monarchs</td><td>N/A</td><td>0.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Saint Louis Billikens @ Saint Joseph&#x27;s Hawks</td><td>Saint Louis Billikens</td><td>N/A</td><td>0.2%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>North Alabama Lions @ Stetson Hatters</td><td>North Alabama Lions</td><td>N/A</td><td>1.0%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Fort Wayne Mastodons @ Green Bay Phoenix</td><td>Green Bay Phoenix</td><td>N/A</td><td>0.9%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Fort Wayne Mastodons @ Green Bay Phoenix</td><td>Green Bay Phoenix</td><td>N/A</td><td>0.8%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Wright St Raiders @ Milwaukee Panthers</td><td>Wright St Raiders</td><td>N/A</td><td>0.2%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Wright St Raiders @ Milwaukee Panthers</td><td>Wright St Raiders</td><td>N/A</td><td>0.7%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Lipscomb Bisons @ Jacksonville Dolphins</td><td>Lipscomb Bisons</td><td>N/A</td><td>0.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>UNC Greensboro Spartans @ Chattanooga Mocs</td><td>UNC Greensboro Spartans</td><td>N/A</td><td>0.8%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>UL Monroe Warhawks @ Southern Miss Golden Eagles</td><td>Southern Miss Golden Eagles</td><td>N/A</td><td>0.8%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>CSU Bakersfield Roadrunners @ UC Irvine Anteaters</td><td>CSU Bakersfield Roadrunners</td><td>N/A</td><td>1.0%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>Austin Peay Governors @ North Florida Ospreys</td><td>Austin Peay Governors</td><td>N/A</td><td>0.8%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>SE Missouri St Redhawks @ Eastern Illinois Panthers</td><td>Eastern Illinois Panthers</td><td>N/A</td><td>0.8%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-03 00:00:00</td><td>Michigan Wolverines @ USC Trojans</td><td>Michigan Wolverines</td><td>N/A</td><td>0.7%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-03 00:00:00</td><td>Rutgers Scarlet Knights @ Ohio State Buckeyes</td><td>Ohio State Buckeyes</td><td>N/A</td><td>0.8%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr></tbody></table>
+                                </div>
+                            </details>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>1-1.9%</span>
+                                        <span>14-10</span>
+                                        <span>58.3%</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-29 00:00:00</td><td>Illinois Fighting Illini @ Southern Jaguars</td><td>Illinois Fighting Illini</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-29 00:00:00</td><td>Coppin St Eagles @ UMBC Retrievers</td><td>Coppin St Eagles</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Bowling Green Falcons @ Miami (OH) RedHawks</td><td>Miami (OH) RedHawks</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Colorado St Rams @ Nevada Wolf Pack</td><td>Nevada Wolf Pack</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Oregon St Beavers @ San Francisco Dons</td><td>Oregon St Beavers</td><td>N/A</td><td>1.9%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>UNC Asheville Bulldogs @ High Point Panthers</td><td>UNC Asheville Bulldogs</td><td>N/A</td><td>2.0%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>William &amp; Mary Tribe @ Stony Brook Seawolves</td><td>William &amp; Mary Tribe</td><td>N/A</td><td>1.7%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Monmouth Hawks @ Campbell Fighting Camels</td><td>Monmouth Hawks</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Hampton Pirates @ Towson Tigers</td><td>Hampton Pirates</td><td>N/A</td><td>1.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>UT Rio Grande Valley Vaqueros @ Nicholls St Colonels</td><td>UT Rio Grande Valley Vaqueros</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>North Alabama Lions @ Stetson Hatters</td><td>North Alabama Lions</td><td>N/A</td><td>1.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Youngstown St Penguins @ Oakland Golden Grizzlies</td><td>Youngstown St Penguins</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Lipscomb Bisons @ Jacksonville Dolphins</td><td>Lipscomb Bisons</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>North Dakota Fighting Hawks @ Oral Roberts Golden Eagles</td><td>North Dakota Fighting Hawks</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Weber State Wildcats @ Portland St Vikings</td><td>Weber State Wildcats</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>CSU Bakersfield Roadrunners @ UC Irvine Anteaters</td><td>CSU Bakersfield Roadrunners</td><td>N/A</td><td>1.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>Belmont Bruins @ Bradley Braves</td><td>Belmont Bruins</td><td>N/A</td><td>2.0%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>Austin Peay Governors @ North Florida Ospreys</td><td>Austin Peay Governors</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>Idaho State Bengals @ Sacramento St Hornets</td><td>Sacramento St Hornets</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>Idaho State Bengals @ Sacramento St Hornets</td><td>Sacramento St Hornets</td><td>N/A</td><td>1.1%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>CSU Fullerton Titans @ UC Santa Barbara Gauchos</td><td>CSU Fullerton Titans</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>Western Kentucky Hilltoppers @ Sam Houston St Bearkats</td><td>Sam Houston St Bearkats</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>LIU Sharks @ Central Connecticut St Blue Devils</td><td>LIU Sharks</td><td>N/A</td><td>2.0%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-03 00:00:00</td><td>San Francisco Dons @ San Diego Toreros</td><td>San Diego Toreros</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                </div>
+                            </details>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>2-2.9%</span>
+                                        <span>7-6</span>
+                                        <span>53.8%</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-31 00:00:00</td><td>Charlotte 49ers @ Temple Owls</td><td>Charlotte 49ers</td><td>N/A</td><td>2.6%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Fresno St Bulldogs @ Utah State Aggies</td><td>Fresno St Bulldogs</td><td>N/A</td><td>2.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Rhode Island Rams @ Loyola (Chi) Ramblers</td><td>Rhode Island Rams</td><td>N/A</td><td>2.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>South Carolina Upstate Spartans @ Radford Highlanders</td><td>South Carolina Upstate Spartans</td><td>N/A</td><td>2.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Elon Phoenix @ Charleston Cougars</td><td>Elon Phoenix</td><td>N/A</td><td>2.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>North Carolina A&amp;T Aggies @ Northeastern Huskies</td><td>North Carolina A&amp;T Aggies</td><td>N/A</td><td>2.5%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Central Arkansas Bears @ Florida Gulf Coast Eagles</td><td>Central Arkansas Bears</td><td>N/A</td><td>2.9%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Central Arkansas Bears @ Florida Gulf Coast Eagles</td><td>Central Arkansas Bears</td><td>N/A</td><td>2.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Illinois St Redbirds @ Evansville Purple Aces</td><td>Illinois St Redbirds</td><td>N/A</td><td>2.7%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>UNC Greensboro Spartans @ Chattanooga Mocs</td><td>UNC Greensboro Spartans</td><td>N/A</td><td>2.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>Belmont Bruins @ Bradley Braves</td><td>Belmont Bruins</td><td>N/A</td><td>2.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>UC Riverside Highlanders @ Hawai&#x27;i Rainbow Warriors</td><td>UC Riverside Highlanders</td><td>N/A</td><td>2.5%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Maryland Terrapins @ Oregon Ducks</td><td>Oregon Ducks</td><td>N/A</td><td>2.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                </div>
+                            </details>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>3-3.9%</span>
+                                        <span>2-1</span>
+                                        <span>66.7%</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-31 00:00:00</td><td>Pepperdine Waves @ Saint Mary&#x27;s Gaels</td><td>Pepperdine Waves</td><td>N/A</td><td>3.1%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Dayton Flyers @ Fordham Rams</td><td>Fordham Rams</td><td>N/A</td><td>3.1%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Illinois St Redbirds @ Evansville Purple Aces</td><td>Illinois St Redbirds</td><td>N/A</td><td>3.1%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                </div>
+                            </details>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>4%+</span>
+                                        <span>2-3</span>
+                                        <span>40.0%</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-29 00:00:00</td><td>Iowa Hawkeyes @ UMass Lowell River Hawks</td><td>Iowa Hawkeyes</td><td>N/A</td><td>4.5%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-29 00:00:00</td><td>William &amp; Mary Tribe @ Towson Tigers</td><td>William &amp; Mary Tribe</td><td>N/A</td><td>4.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-29 00:00:00</td><td>Florida Gators @ Dartmouth Big Green</td><td>Dartmouth Big Green</td><td>N/A</td><td>6.0%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-29 00:00:00</td><td>Youngstown St Penguins @ Detroit Mercy Titans</td><td>Youngstown St Penguins</td><td>N/A</td><td>6.0%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Tennessee Volunteers @ South Carolina St Bulldogs</td><td>South Carolina St Bulldogs</td><td>N/A</td><td>4.5%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr></tbody></table>
+                                </div>
+                            </details>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section>
+            <h2>2. Model Spread Performance by Edge (Consensus Only)</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Edge Tier</th>
+                        <th>Record</th>
+                        <th>Win %</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>0-0.9%</span>
+                                        <span>4-2</span>
+                                        <span>66.7%</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-31 00:00:00</td><td>Old Dominion Monarchs @ Appalachian St Mountaineers</td><td>Old Dominion Monarchs</td><td>N/A</td><td>0.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Saint Louis Billikens @ Saint Joseph&#x27;s Hawks</td><td>Saint Louis Billikens</td><td>N/A</td><td>0.2%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>North Alabama Lions @ Stetson Hatters</td><td>North Alabama Lions</td><td>N/A</td><td>1.0%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Wright St Raiders @ Milwaukee Panthers</td><td>Wright St Raiders</td><td>N/A</td><td>0.2%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>UNC Greensboro Spartans @ Chattanooga Mocs</td><td>UNC Greensboro Spartans</td><td>N/A</td><td>0.8%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>CSU Bakersfield Roadrunners @ UC Irvine Anteaters</td><td>CSU Bakersfield Roadrunners</td><td>N/A</td><td>1.0%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                </div>
+                            </details>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>1-1.9%</span>
+                                        <span>5-4</span>
+                                        <span>55.6%</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-31 00:00:00</td><td>UNC Asheville Bulldogs @ High Point Panthers</td><td>UNC Asheville Bulldogs</td><td>N/A</td><td>2.0%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>William &amp; Mary Tribe @ Stony Brook Seawolves</td><td>William &amp; Mary Tribe</td><td>N/A</td><td>1.7%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Hampton Pirates @ Towson Tigers</td><td>Hampton Pirates</td><td>N/A</td><td>1.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>UT Rio Grande Valley Vaqueros @ Nicholls St Colonels</td><td>UT Rio Grande Valley Vaqueros</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>North Alabama Lions @ Stetson Hatters</td><td>North Alabama Lions</td><td>N/A</td><td>1.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Youngstown St Penguins @ Oakland Golden Grizzlies</td><td>Youngstown St Penguins</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Lipscomb Bisons @ Jacksonville Dolphins</td><td>Lipscomb Bisons</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>North Dakota Fighting Hawks @ Oral Roberts Golden Eagles</td><td>North Dakota Fighting Hawks</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>CSU Fullerton Titans @ UC Santa Barbara Gauchos</td><td>CSU Fullerton Titans</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                </div>
+                            </details>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>2-2.9%</span>
+                                        <span>3-2</span>
+                                        <span>60.0%</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-31 00:00:00</td><td>Rhode Island Rams @ Loyola (Chi) Ramblers</td><td>Rhode Island Rams</td><td>N/A</td><td>2.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Central Arkansas Bears @ Florida Gulf Coast Eagles</td><td>Central Arkansas Bears</td><td>N/A</td><td>2.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Illinois St Redbirds @ Evansville Purple Aces</td><td>Illinois St Redbirds</td><td>N/A</td><td>2.7%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>Belmont Bruins @ Bradley Braves</td><td>Belmont Bruins</td><td>N/A</td><td>2.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>UC Riverside Highlanders @ Hawai&#x27;i Rainbow Warriors</td><td>UC Riverside Highlanders</td><td>N/A</td><td>2.5%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr></tbody></table>
+                                </div>
+                            </details>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>3-3.9%</span>
+                                        <span>2-0</span>
+                                        <span>100.0%</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-31 00:00:00</td><td>Dayton Flyers @ Fordham Rams</td><td>Fordham Rams</td><td>N/A</td><td>3.1%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Illinois St Redbirds @ Evansville Purple Aces</td><td>Illinois St Redbirds</td><td>N/A</td><td>3.1%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                </div>
+                            </details>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>4%+</span>
+                                        <span>0-0</span>
+                                        <span>0.0%</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    <p>No games in this tier.</p>
+                                </div>
+                            </details>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section>
+            <h2>3. Model Spread Performance by Point Spread Ranges</h2>
+            <div class="subsection">
+                <h3>Favorites (opening_spread &lt; 0)</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Point Spread Range</th>
+                            <th>Record</th>
+                            <th>Win %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>0-4.5</span>
+                                            <span>11-20</span>
+                                            <span>35.5%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-29 00:00:00</td><td>Sacred Heart Pioneers @ Merrimack Warriors</td><td>Sacred Heart Pioneers</td><td>N/A</td><td>-0.8%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-29 00:00:00</td><td>Delaware Blue Hens @ Missouri St Bears</td><td>Delaware Blue Hens</td><td>N/A</td><td>-0.2%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-29 00:00:00</td><td>Quinnipiac Bobcats @ Marist Red Foxes</td><td>Quinnipiac Bobcats</td><td>N/A</td><td>-0.2%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-29 00:00:00</td><td>William &amp; Mary Tribe @ Towson Tigers</td><td>William &amp; Mary Tribe</td><td>N/A</td><td>4.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Bowling Green Falcons @ Miami (OH) RedHawks</td><td>Bowling Green Falcons</td><td>N/A</td><td>-5.1%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Marquette Golden Eagles @ Seton Hall Pirates</td><td>Seton Hall Pirates</td><td>N/A</td><td>-0.7%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Tennessee Tech Golden Eagles @ Tennessee St Tigers</td><td>Tennessee Tech Golden Eagles</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Stanford Cardinal @ Notre Dame Fighting Irish</td><td>Stanford Cardinal</td><td>N/A</td><td>-0.8%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Boise State Broncos @ New Mexico Lobos</td><td>Boise State Broncos</td><td>N/A</td><td>-3.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Lehigh Mountain Hawks @ Army Knights</td><td>Lehigh Mountain Hawks</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Monmouth Hawks @ Campbell Fighting Camels</td><td>Monmouth Hawks</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Elon Phoenix @ Charleston Cougars</td><td>Elon Phoenix</td><td>N/A</td><td>2.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Old Dominion Monarchs @ Appalachian St Mountaineers</td><td>Old Dominion Monarchs</td><td>N/A</td><td>0.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Virginia Tech Hokies @ Virginia Cavaliers</td><td>Virginia Cavaliers</td><td>N/A</td><td>-2.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>North Carolina A&amp;T Aggies @ Northeastern Huskies</td><td>Northeastern Huskies</td><td>N/A</td><td>-6.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>UT Rio Grande Valley Vaqueros @ Nicholls St Colonels</td><td>UT Rio Grande Valley Vaqueros</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Youngstown St Penguins @ Oakland Golden Grizzlies</td><td>Youngstown St Penguins</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Coastal Carolina Chanticleers @ Georgia Southern Eagles</td><td>Coastal Carolina Chanticleers</td><td>N/A</td><td>-1.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Coastal Carolina Chanticleers @ Georgia Southern Eagles</td><td>Coastal Carolina Chanticleers</td><td>N/A</td><td>-0.8%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>North Dakota Fighting Hawks @ Oral Roberts Golden Eagles</td><td>North Dakota Fighting Hawks</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>UT-Arlington Mavericks @ Cal Baptist Lancers</td><td>Cal Baptist Lancers</td><td>N/A</td><td>-4.1%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Weber State Wildcats @ Portland St Vikings</td><td>Weber State Wildcats</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>UC Davis Aggies @ CSU Northridge Matadors</td><td>UC Davis Aggies</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>UC Davis Aggies @ CSU Northridge Matadors</td><td>UC Davis Aggies</td><td>N/A</td><td>-0.8%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>West Georgia Wolves @ Bellarmine Knights</td><td>Bellarmine Knights</td><td>N/A</td><td>-3.5%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>Tarleton State Texans @ Utah Valley Wolverines</td><td>Utah Valley Wolverines</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>Western Kentucky Hilltoppers @ Sam Houston St Bearkats</td><td>Western Kentucky Hilltoppers</td><td>N/A</td><td>-5.1%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-03 00:00:00</td><td>LIU Sharks @ Central Connecticut St Blue Devils</td><td>LIU Sharks</td><td>N/A</td><td>2.0%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-03 00:00:00</td><td>Saint Peter&#x27;s Peacocks @ Marist Red Foxes</td><td>Marist Red Foxes</td><td>N/A</td><td>-3.7%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Maryland Terrapins @ Oregon Ducks</td><td>Maryland Terrapins</td><td>N/A</td><td>-7.2%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>California Golden Bears @ Notre Dame Fighting Irish</td><td>California Golden Bears</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>5-9.5</span>
+                                            <span>8-15</span>
+                                            <span>34.8%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-29 00:00:00</td><td>Youngstown St Penguins @ Detroit Mercy Titans</td><td>Youngstown St Penguins</td><td>N/A</td><td>6.0%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Colorado St Rams @ Nevada Wolf Pack</td><td>Colorado St Rams</td><td>N/A</td><td>-5.1%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Loyola Marymount Lions @ Pacific Tigers</td><td>Loyola Marymount Lions</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>NC State Wolfpack @ Wake Forest Demon Deacons</td><td>NC State Wolfpack</td><td>N/A</td><td>-2.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Navy Midshipmen @ Boston Univ. Terriers</td><td>Navy Midshipmen</td><td>N/A</td><td>-0.2%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>La Salle Explorers @ George Mason Patriots</td><td>George Mason Patriots</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Longwood Lancers @ Winthrop Eagles</td><td>Winthrop Eagles</td><td>N/A</td><td>-3.5%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Georgetown Hoyas @ St. John&#x27;s Red Storm</td><td>St. John&#x27;s Red Storm</td><td>N/A</td><td>-2.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>North Alabama Lions @ Stetson Hatters</td><td>North Alabama Lions</td><td>N/A</td><td>1.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>North Alabama Lions @ Stetson Hatters</td><td>North Alabama Lions</td><td>N/A</td><td>1.0%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Fort Wayne Mastodons @ Green Bay Phoenix</td><td>Fort Wayne Mastodons</td><td>N/A</td><td>-5.6%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Wright St Raiders @ Milwaukee Panthers</td><td>Wright St Raiders</td><td>N/A</td><td>0.2%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Southern Illinois Salukis @ Valparaiso Beacons</td><td>Southern Illinois Salukis</td><td>N/A</td><td>-0.2%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Lindenwood Lions @ Morehead St Eagles</td><td>Lindenwood Lions</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Montana Grizzlies @ Northern Arizona Lumberjacks</td><td>Montana Grizzlies</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>Belmont Bruins @ Bradley Braves</td><td>Belmont Bruins</td><td>N/A</td><td>2.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>Belmont Bruins @ Bradley Braves</td><td>Belmont Bruins</td><td>N/A</td><td>2.0%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>Abilene Christian Wildcats @ Utah Tech Trailblazers</td><td>Abilene Christian Wildcats</td><td>N/A</td><td>-2.2%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>UIC Flames @ Murray St Racers</td><td>Murray St Racers</td><td>N/A</td><td>-2.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>Niagara Purple Eagles @ Sacred Heart Pioneers</td><td>Sacred Heart Pioneers</td><td>N/A</td><td>-3.6%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Mercyhurst Lakers @ Fairleigh Dickinson Knights</td><td>Mercyhurst Lakers</td><td>N/A</td><td>-0.2%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Rutgers Scarlet Knights @ Ohio State Buckeyes</td><td>Ohio State Buckeyes</td><td>N/A</td><td>0.8%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Stanford Cardinal @ Louisville Cardinals</td><td>Louisville Cardinals</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>10-14.5</span>
+                                            <span>9-10</span>
+                                            <span>47.4%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-31 00:00:00</td><td>Miami Hurricanes @ Pittsburgh Panthers</td><td>Miami Hurricanes</td><td>N/A</td><td>-4.0%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Seattle Redhawks @ Washington St Cougars</td><td>Seattle Redhawks</td><td>N/A</td><td>-0.2%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Rhode Island Rams @ Loyola (Chi) Ramblers</td><td>Rhode Island Rams</td><td>N/A</td><td>2.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Pennsylvania Quakers @ NJIT Highlanders</td><td>Pennsylvania Quakers</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>William &amp; Mary Tribe @ Stony Brook Seawolves</td><td>William &amp; Mary Tribe</td><td>N/A</td><td>1.7%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Tulsa Golden Hurricane @ Rice Owls</td><td>Tulsa Golden Hurricane</td><td>N/A</td><td>-1.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>VCU Rams @ St. Bonaventure Bonnies</td><td>VCU Rams</td><td>N/A</td><td>-0.7%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Gardner-Webb Bulldogs @ Charleston Southern Buccaneers</td><td>Charleston Southern Buccaneers</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>North Dakota St Bison @ South Dakota Coyotes</td><td>North Dakota St Bison</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Villanova Wildcats @ DePaul Blue Demons</td><td>Villanova Wildcats</td><td>N/A</td><td>-2.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Northern Kentucky Norse @ IUPUI Jaguars</td><td>Northern Kentucky Norse</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Northern Kentucky Norse @ IUPUI Jaguars</td><td>Northern Kentucky Norse</td><td>N/A</td><td>-0.8%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Lipscomb Bisons @ Jacksonville Dolphins</td><td>Lipscomb Bisons</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Tenn-Martin Skyhawks @ Western Illinois Leathernecks</td><td>Tenn-Martin Skyhawks</td><td>N/A</td><td>-4.1%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>Northern Iowa Panthers @ Indiana St Sycamores</td><td>Northern Iowa Panthers</td><td>N/A</td><td>-0.2%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>Austin Peay Governors @ North Florida Ospreys</td><td>Austin Peay Governors</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>Austin Peay Governors @ North Florida Ospreys</td><td>Austin Peay Governors</td><td>N/A</td><td>0.8%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>SE Missouri St Redhawks @ Eastern Illinois Panthers</td><td>SE Missouri St Redhawks</td><td>N/A</td><td>-5.6%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>CSU Fullerton Titans @ UC Santa Barbara Gauchos</td><td>CSU Fullerton Titans</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>15-19.5</span>
+                                            <span>5-2</span>
+                                            <span>71.4%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-31 00:00:00</td><td>North Carolina Tar Heels @ Florida St Seminoles</td><td>North Carolina Tar Heels</td><td>N/A</td><td>0.8%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Saint Louis Billikens @ Saint Joseph&#x27;s Hawks</td><td>Saint Louis Billikens</td><td>N/A</td><td>0.2%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Illinois St Redbirds @ Evansville Purple Aces</td><td>Illinois St Redbirds</td><td>N/A</td><td>3.1%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Illinois St Redbirds @ Evansville Purple Aces</td><td>Illinois St Redbirds</td><td>N/A</td><td>2.7%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-03 00:00:00</td><td>McNeese Cowboys @ Lamar Cardinals</td><td>McNeese Cowboys</td><td>N/A</td><td>-2.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Iowa State Cyclones @ West Virginia Mountaineers</td><td>Iowa State Cyclones</td><td>N/A</td><td>-0.7%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-03 00:00:00</td><td>Santa Clara Broncos @ Pepperdine Waves</td><td>Santa Clara Broncos</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>20-24.5</span>
+                                            <span>1-3</span>
+                                            <span>25.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-31 00:00:00</td><td>Duke Blue Devils @ Georgia Tech Yellow Jackets</td><td>Duke Blue Devils</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Michigan Wolverines @ USC Trojans</td><td>Michigan Wolverines</td><td>N/A</td><td>0.7%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-03 00:00:00</td><td>Gonzaga Bulldogs @ Seattle Redhawks</td><td>Gonzaga Bulldogs</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Saint Mary&#x27;s Gaels @ Portland Pilots</td><td>Saint Mary&#x27;s Gaels</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>25-29.5</span>
+                                            <span>0-1</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-31 00:00:00</td><td>San Diego Toreros @ Gonzaga Bulldogs</td><td>Gonzaga Bulldogs</td><td>N/A</td><td>-2.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>30+</span>
+                                            <span>3-1</span>
+                                            <span>75.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-29 00:00:00</td><td>Illinois Fighting Illini @ Southern Jaguars</td><td>Illinois Fighting Illini</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-29 00:00:00</td><td>Iowa Hawkeyes @ UMass Lowell River Hawks</td><td>Iowa Hawkeyes</td><td>N/A</td><td>4.5%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Tennessee Volunteers @ South Carolina St Bulldogs</td><td>Tennessee Volunteers</td><td>N/A</td><td>-8.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Nebraska Cornhuskers @ New Hampshire Wildcats</td><td>Nebraska Cornhuskers</td><td>N/A</td><td>-2.6%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
-        </div>
-        <div class="stat-card">
-            <h3>Correct Predictions</h3>
-            <div class="stat-value">0</div>
-        </div>
-        <div class="stat-card">
-            <h3>Average Edge</h3>
-            <div class="stat-value">0.00</div>
-        </div>
-    </div>
-    
-    <div class="section">
-        <h2>Spread Performance by Edge</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>Edge Range</th>
-                    <th>Total Games</th>
-                    <th>Correct</th>
-                    <th>Incorrect</th>
-                    <th>Win Rate</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td><strong>0-2</strong></td>
-                    <td>382</td>
-                    <td>0</td>
-                    <td>382</td>
-                    <td class="win-rate-bad">0.0%</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-    
-    <div class="footer">
-        <p>Generated on 2026-01-03 06:59:33 UTC</p>
-        <p>Data source: trashduty/cbb/graded_results.csv</p>
+
+            <div class="subsection">
+                <h3>Underdogs (opening_spread &gt; 0)</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Point Spread Range</th>
+                            <th>Record</th>
+                            <th>Win %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>0-4.5</span>
+                                            <span>13-16</span>
+                                            <span>44.8%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-30 00:00:00</td><td>Princeton Tigers @ Vermont Catamounts</td><td>Princeton Tigers</td><td>N/A</td><td>0.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Davidson Wildcats @ Duquesne Dukes</td><td>Duquesne Dukes</td><td>N/A</td><td>-3.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Eastern Michigan Eagles @ Massachusetts Minutemen</td><td>Eastern Michigan Eagles</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Creighton Bluejays @ Butler Bulldogs</td><td>Butler Bulldogs</td><td>N/A</td><td>-0.8%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Oregon St Beavers @ San Francisco Dons</td><td>Oregon St Beavers</td><td>N/A</td><td>1.9%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>East Carolina Pirates @ Tulane Green Wave</td><td>East Carolina Pirates</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Louisiana Ragin&#x27; Cajuns @ South Alabama Jaguars</td><td>Louisiana Ragin&#x27; Cajuns</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Western Carolina Catamounts @ Wofford Terriers</td><td>Western Carolina Catamounts</td><td>N/A</td><td>0.8%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Syracuse Orange @ Clemson Tigers</td><td>Syracuse Orange</td><td>N/A</td><td>-2.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>UAB Blazers @ Wichita St Shockers</td><td>Wichita St Shockers</td><td>N/A</td><td>-3.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Texas A&amp;M-CC Islanders @ New Orleans Privateers</td><td>New Orleans Privateers</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Youngstown St Penguins @ Oakland Golden Grizzlies</td><td>Oakland Golden Grizzlies</td><td>N/A</td><td>-4.0%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Central Arkansas Bears @ Florida Gulf Coast Eagles</td><td>Central Arkansas Bears</td><td>N/A</td><td>2.9%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Central Arkansas Bears @ Florida Gulf Coast Eagles</td><td>Central Arkansas Bears</td><td>N/A</td><td>2.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>North Dakota Fighting Hawks @ Oral Roberts Golden Eagles</td><td>Oral Roberts Golden Eagles</td><td>N/A</td><td>-2.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>UNC Greensboro Spartans @ Chattanooga Mocs</td><td>UNC Greensboro Spartans</td><td>N/A</td><td>2.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>UNC Greensboro Spartans @ Chattanooga Mocs</td><td>UNC Greensboro Spartans</td><td>N/A</td><td>0.8%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Weber State Wildcats @ Portland St Vikings</td><td>Portland St Vikings</td><td>N/A</td><td>-3.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Arkansas-Little Rock Trojans @ Tennessee Tech Golden Eagles</td><td>Tennessee Tech Golden Eagles</td><td>N/A</td><td>-3.1%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>West Georgia Wolves @ Bellarmine Knights</td><td>West Georgia Wolves</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>Tarleton State Texans @ Utah Valley Wolverines</td><td>Tarleton State Texans</td><td>N/A</td><td>-4.1%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>Montana St Bobcats @ N Colorado Bears</td><td>N Colorado Bears</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>Montana St Bobcats @ N Colorado Bears</td><td>N Colorado Bears</td><td>N/A</td><td>-0.8%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Iona Gaels @ Siena Saints</td><td>Siena Saints</td><td>N/A</td><td>-3.6%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Delaware Blue Hens @ Jacksonville St Gamecocks</td><td>Delaware Blue Hens</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Missouri St Bears @ UTEP Miners</td><td>UTEP Miners</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Nebraska Cornhuskers @ Michigan St Spartans</td><td>Michigan St Spartans</td><td>N/A</td><td>-2.8%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Washington St Cougars @ Loyola Marymount Lions</td><td>Loyola Marymount Lions</td><td>N/A</td><td>-0.2%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Pacific Tigers @ Oregon St Beavers</td><td>Oregon St Beavers</td><td>N/A</td><td>-3.6%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>5-9.5</span>
+                                            <span>8-15</span>
+                                            <span>34.8%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-31 00:00:00</td><td>California Golden Bears @ Louisville Cardinals</td><td>California Golden Bears</td><td>N/A</td><td>-2.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Portland Pilots @ Santa Clara Broncos</td><td>Portland Pilots</td><td>N/A</td><td>-3.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Furman Paladins @ Mercer Bears</td><td>Mercer Bears</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Northern Illinois Huskies @ Buffalo Bulls</td><td>Northern Illinois Huskies</td><td>N/A</td><td>-2.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Troy Trojans @ Texas State Bobcats</td><td>Texas State Bobcats</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Hampton Pirates @ Towson Tigers</td><td>Hampton Pirates</td><td>N/A</td><td>1.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Lafayette Leopards @ Colgate Raiders</td><td>Lafayette Leopards</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Denver Pioneers @ UMKC Kangaroos</td><td>UMKC Kangaroos</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Northwestern St Demons @ Stephen F. Austin Lumberjacks</td><td>Northwestern St Demons</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>VMI Keydets @ Samford Bulldogs</td><td>VMI Keydets</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>VMI Keydets @ Samford Bulldogs</td><td>VMI Keydets</td><td>N/A</td><td>-1.8%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>Fort Wayne Mastodons @ Green Bay Phoenix</td><td>Green Bay Phoenix</td><td>N/A</td><td>0.9%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>UL Monroe Warhawks @ Southern Miss Golden Eagles</td><td>UL Monroe Warhawks</td><td>N/A</td><td>-5.6%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>South Dakota St Jackrabbits @ Omaha Mavericks</td><td>Omaha Mavericks</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>South Dakota St Jackrabbits @ Omaha Mavericks</td><td>Omaha Mavericks</td><td>N/A</td><td>-0.8%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>UC Riverside Highlanders @ Hawai&#x27;i Rainbow Warriors</td><td>UC Riverside Highlanders</td><td>N/A</td><td>2.5%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>UC Riverside Highlanders @ Hawai&#x27;i Rainbow Warriors</td><td>UC Riverside Highlanders</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>Canisius Golden Griffins @ Fairfield Stags</td><td>Canisius Golden Griffins</td><td>N/A</td><td>-0.2%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-03 00:00:00</td><td>St. Francis (PA) Red Flash @ Le Moyne Dolphins</td><td>St. Francis (PA) Red Flash</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Manhattan Jaspers @ Quinnipiac Bobcats</td><td>Manhattan Jaspers</td><td>N/A</td><td>-4.0%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-03 00:00:00</td><td>Liberty Flames @ Kennesaw St Owls</td><td>Kennesaw St Owls</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-03 00:00:00</td><td>Middle Tennessee Blue Raiders @ Louisiana Tech Bulldogs</td><td>Louisiana Tech Bulldogs</td><td>N/A</td><td>-4.1%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>San Francisco Dons @ San Diego Toreros</td><td>San Diego Toreros</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>10-14.5</span>
+                                            <span>8-7</span>
+                                            <span>53.3%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-30 00:00:00</td><td>Air Force Falcons @ Wyoming Cowboys</td><td>Air Force Falcons</td><td>N/A</td><td>-1.9%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-29 00:00:00</td><td>Coppin St Eagles @ UMBC Retrievers</td><td>Coppin St Eagles</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Fresno St Bulldogs @ Utah State Aggies</td><td>Fresno St Bulldogs</td><td>N/A</td><td>2.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>UNC Asheville Bulldogs @ High Point Panthers</td><td>UNC Asheville Bulldogs</td><td>N/A</td><td>2.0%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Marshall Thundering Herd @ Georgia St Panthers</td><td>Georgia St Panthers</td><td>N/A</td><td>-3.5%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>Xavier Musketeers @ UConn Huskies</td><td>Xavier Musketeers</td><td>N/A</td><td>-2.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>SIU-Edwardsville Cougars @ Southern Indiana Screaming Eagles</td><td>Southern Indiana Screaming Eagles</td><td>N/A</td><td>-0.2%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>SIU-Edwardsville Cougars @ Southern Indiana Screaming Eagles</td><td>Southern Indiana Screaming Eagles</td><td>N/A</td><td>-0.7%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Tenn-Martin Skyhawks @ Western Illinois Leathernecks</td><td>Western Illinois Leathernecks</td><td>N/A</td><td>-0.2%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>CSU Bakersfield Roadrunners @ UC Irvine Anteaters</td><td>CSU Bakersfield Roadrunners</td><td>N/A</td><td>1.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>CSU Bakersfield Roadrunners @ UC Irvine Anteaters</td><td>CSU Bakersfield Roadrunners</td><td>N/A</td><td>1.0%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>SE Missouri St Redhawks @ Eastern Illinois Panthers</td><td>Eastern Illinois Panthers</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-02 00:00:00</td><td>Idaho State Bengals @ Sacramento St Hornets</td><td>Sacramento St Hornets</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>Idaho State Bengals @ Sacramento St Hornets</td><td>Sacramento St Hornets</td><td>N/A</td><td>1.1%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>CSU Fullerton Titans @ UC Santa Barbara Gauchos</td><td>UC Santa Barbara Gauchos</td><td>N/A</td><td>-4.0%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>15-19.5</span>
+                                            <span>1-2</span>
+                                            <span>33.3%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-31 00:00:00</td><td>Pepperdine Waves @ Saint Mary&#x27;s Gaels</td><td>Pepperdine Waves</td><td>N/A</td><td>3.1%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Florida Atlantic Owls @ UTSA Roadrunners</td><td>UTSA Roadrunners</td><td>N/A</td><td>-2.8%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Dayton Flyers @ Fordham Rams</td><td>Fordham Rams</td><td>N/A</td><td>3.1%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>20-24.5</span>
+                                            <span>1-2</span>
+                                            <span>33.3%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-29 00:00:00</td><td>Penn State Nittany Lions @ North Carolina Central Eagles</td><td>North Carolina Central Eagles</td><td>N/A</td><td>-3.5%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-30 00:00:00</td><td>South Carolina Gamecocks @ Albany Great Danes</td><td>Albany Great Danes</td><td>N/A</td><td>-0.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2025-12-31 00:00:00</td><td>Wisconsin Badgers @ Milwaukee Panthers</td><td>Milwaukee Panthers</td><td>N/A</td><td>-0.7%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>25-29.5</span>
+                                            <span>0-0</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <p>No games in this tier.</p>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>30+</span>
+                                            <span>1-0</span>
+                                            <span>100.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Spread</th><th>Edge</th><th>Closing Spread</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-29 00:00:00</td><td>Florida Gators @ Dartmouth Big Green</td><td>Dartmouth Big Green</td><td>N/A</td><td>6.0%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <section>
+            <h2>4. Model Over/Under Performance by Edge (All Games)</h2>
+            <div class="subsection">
+                <h3>Overs</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Edge Tier</th>
+                            <th>Record</th>
+                            <th>Win %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>0-0.9%</span>
+                                            <span>0-2</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Total</th><th>Edge</th><th>Closing Total</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-29 00:00:00</td><td>Quinnipiac Bobcats @ Marist Red Foxes</td><td>N/A</td><td>N/A</td><td>0.2%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-03 00:00:00</td><td>Maryland Terrapins @ Oregon Ducks</td><td>N/A</td><td>N/A</td><td>0.2%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>1-1.9%</span>
+                                            <span>0-0</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <p>No games in this tier.</p>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>2-2.9%</span>
+                                            <span>0-0</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <p>No games in this tier.</p>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>3-3.9%</span>
+                                            <span>0-0</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <p>No games in this tier.</p>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>4%+</span>
+                                            <span>0-0</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <p>No games in this tier.</p>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="subsection">
+                <h3>Unders</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Edge Tier</th>
+                            <th>Record</th>
+                            <th>Win %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>0-0.9%</span>
+                                            <span>4-1</span>
+                                            <span>80.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Total</th><th>Edge</th><th>Closing Total</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-30 00:00:00</td><td>Air Force Falcons @ Wyoming Cowboys</td><td>N/A</td><td>N/A</td><td>0.9%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-30 00:00:00</td><td>The Citadel Bulldogs @ East Tennessee St Buccaneers</td><td>N/A</td><td>N/A</td><td>0.1%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-01 00:00:00</td><td>Coastal Carolina Chanticleers @ Georgia Southern Eagles</td><td>N/A</td><td>N/A</td><td>0.7%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-01 00:00:00</td><td>UT-Arlington Mavericks @ Cal Baptist Lancers</td><td>N/A</td><td>N/A</td><td>0.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2026-01-03 00:00:00</td><td>Delaware Blue Hens @ Jacksonville St Gamecocks</td><td>N/A</td><td>N/A</td><td>0.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>1-1.9%</span>
+                                            <span>2-2</span>
+                                            <span>50.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Total</th><th>Edge</th><th>Closing Total</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-31 00:00:00</td><td>Eastern Michigan Eagles @ Massachusetts Minutemen</td><td>N/A</td><td>N/A</td><td>1.3%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr><tr><td>2025-12-31 00:00:00</td><td>San Diego Toreros @ Gonzaga Bulldogs</td><td>N/A</td><td>N/A</td><td>1.4%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>Northern Iowa Panthers @ Indiana St Sycamores</td><td>N/A</td><td>N/A</td><td>1.6%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr><tr><td>2026-01-02 00:00:00</td><td>UC Riverside Highlanders @ Hawai&#x27;i Rainbow Warriors</td><td>N/A</td><td>N/A</td><td>1.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>2-2.9%</span>
+                                            <span>0-0</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <p>No games in this tier.</p>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>3-3.9%</span>
+                                            <span>0-1</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Total</th><th>Edge</th><th>Closing Total</th><th>Result</th></tr></thead><tbody><tr><td>2025-12-29 00:00:00</td><td>William &amp; Mary Tribe @ Towson Tigers</td><td>N/A</td><td>N/A</td><td>3.3%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>4%+</span>
+                                            <span>0-0</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <p>No games in this tier.</p>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <section>
+            <h2>5. Model Over/Under Performance by Edge (Consensus Only)</h2>
+            <div class="subsection">
+                <h3>Overs</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Edge Tier</th>
+                            <th>Record</th>
+                            <th>Win %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>0-0.9%</span>
+                                            <span>1-0</span>
+                                            <span>100.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Total</th><th>Edge</th><th>Closing Total</th><th>Result</th></tr></thead><tbody><tr><td>2026-01-01 00:00:00</td><td>UC Davis Aggies @ CSU Northridge Matadors</td><td>N/A</td><td>N/A</td><td>0.7%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>1-1.9%</span>
+                                            <span>0-1</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Total</th><th>Edge</th><th>Closing Total</th><th>Result</th></tr></thead><tbody><tr><td>2026-01-01 00:00:00</td><td>Arkansas-Little Rock Trojans @ Tennessee Tech Golden Eagles</td><td>N/A</td><td>N/A</td><td>1.0%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>2-2.9%</span>
+                                            <span>0-0</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <p>No games in this tier.</p>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>3-3.9%</span>
+                                            <span>0-0</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <p>No games in this tier.</p>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>4%+</span>
+                                            <span>0-0</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <p>No games in this tier.</p>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="subsection">
+                <h3>Unders</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Edge Tier</th>
+                            <th>Record</th>
+                            <th>Win %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>0-0.9%</span>
+                                            <span>0-1</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Total</th><th>Edge</th><th>Closing Total</th><th>Result</th></tr></thead><tbody><tr><td>2026-01-01 00:00:00</td><td>Coastal Carolina Chanticleers @ Georgia Southern Eagles</td><td>N/A</td><td>N/A</td><td>0.7%</td><td>N/A</td><td style="color: #dc2626; font-weight: 600;">Loss</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>1-1.9%</span>
+                                            <span>1-0</span>
+                                            <span>100.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <table class="game-details-table"><thead><tr><th>Date</th><th>Matchup</th><th>Team</th><th>Opening Total</th><th>Edge</th><th>Closing Total</th><th>Result</th></tr></thead><tbody><tr><td>2026-01-02 00:00:00</td><td>UC Riverside Highlanders @ Hawai&#x27;i Rainbow Warriors</td><td>N/A</td><td>N/A</td><td>1.4%</td><td>N/A</td><td style="color: #16a34a; font-weight: 600;">Win</td></tr></tbody></table>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>2-2.9%</span>
+                                            <span>0-0</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <p>No games in this tier.</p>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>3-3.9%</span>
+                                            <span>0-0</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <p>No games in this tier.</p>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>4%+</span>
+                                            <span>0-0</span>
+                                            <span>0.0%</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        <p>No games in this tier.</p>
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <footer>
+            <p>Analysis generated automatically by weekly report script</p>
+        </footer>
     </div>
 </body>
 </html>
