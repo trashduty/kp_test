@@ -562,5 +562,41 @@
   "Eastern Michigan Eagles vs. Ohio Bobcats|Eastern Michigan Eagles|moneyline": {
     "captured_at": "2026-01-03T00:39:54.352057+00:00",
     "edge_type": "moneyline"
+  },
+  "New Hampshire Wildcats vs. Vermont Catamounts|New Hampshire Wildcats|spread": {
+    "captured_at": "2026-01-03T01:08:39.718969+00:00",
+    "edge_type": "spread"
+  },
+  "High Point Panthers vs. Longwood Lancers|High Point Panthers|spread": {
+    "captured_at": "2026-01-03T01:08:39.719932+00:00",
+    "edge_type": "spread"
+  },
+  "Buffalo Bulls vs. Ball State Cardinals|Buffalo Bulls|moneyline": {
+    "captured_at": "2026-01-03T01:08:39.720048+00:00",
+    "edge_type": "moneyline"
+  },
+  "UMass Lowell River Hawks vs. Albany Great Danes|UMass Lowell River Hawks|spread": {
+    "captured_at": "2026-01-03T01:08:39.721504+00:00",
+    "edge_type": "spread"
+  },
+  "Central Arkansas Bears vs. Stetson Hatters|Central Arkansas Bears|spread": {
+    "captured_at": "2026-01-03T01:08:39.721689+00:00",
+    "edge_type": "spread"
+  },
+  "West Georgia Wolves vs. Eastern Kentucky Colonels|West Georgia Wolves|spread": {
+    "captured_at": "2026-01-03T01:08:39.722028+00:00",
+    "edge_type": "spread"
+  },
+  "Holy Cross Crusaders vs. Navy Midshipmen|Holy Cross Crusaders|spread": {
+    "captured_at": "2026-01-03T01:08:39.722254+00:00",
+    "edge_type": "spread"
+  },
+  "Furman Paladins vs. Western Carolina Catamounts|Furman Paladins|moneyline": {
+    "captured_at": "2026-01-03T01:08:39.725048+00:00",
+    "edge_type": "moneyline"
+  },
+  "CSU Fullerton Titans vs. UC Irvine Anteaters|CSU Fullerton Titans|spread": {
+    "captured_at": "2026-01-03T01:08:39.729244+00:00",
+    "edge_type": "spread"
   }
 }
