@@ -152,11 +152,51 @@ To customize the appearance:
 2. Edit `docs/index.html` to modify layout or add/remove sections
 3. Commit and push changes - GitHub Pages will automatically rebuild
 
+## 📈 Weekly Performance Reports
+
+Generate weekly performance reports filtered by specific date ranges using the `generate_weekly_report.py` script.
+
+### Usage
+
+```bash
+python scripts/generate_weekly_report.py --week-start YYYY-MM-DD
+```
+
+### Example
+
+```bash
+python scripts/generate_weekly_report.py --week-start 2025-12-29
+```
+
+This generates a weekly report for December 29, 2025 - January 4, 2026 (7 days).
+
+### Features
+
+- **Date Filtering**: Automatically filters games to a 7-day week range
+- **Comprehensive Analysis**: Includes all the same sections as the main performance analysis
+  - Model Spread Performance by Edge (All Games)
+  - Model Spread Performance by Edge (Consensus Only)
+  - Model Spread Performance by Point Spread Ranges (Favorites and Underdogs)
+  - Model Over/Under Performance by Edge (All Games)
+  - Model Over/Under Performance by Edge (Consensus Only)
+- **Interactive Details**: Expandable tables showing individual game results
+- **Color-Coded Results**: Wins (green) and losses (red) for easy visualization
+- **Same Styling**: Matches the format and structure of `model_performance_analysis.html`
+
+### Output
+
+The script generates an HTML report at `docs/weekly/current_week.html` with:
+- Week date range header
+- Total games analyzed
+- Edge tier performance breakdowns
+- Individual game details with dates, matchups, teams, odds, and results
+
 ## 📊 Data Sources
 
 - **Efficiency Metrics**: [KenPom.com](https://kenpom.com) - the leading college basketball analytics site
 - **Championship Odds**: [The Odds API](https://the-odds-api.com) - real-time sports betting odds
 - **AP Rankings**: [ESPN](https://www.espn.com/mens-college-basketball/rankings) - AP Top 25 polls
+- **Model Performance Data**: [trashduty/cbb](https://github.com/trashduty/cbb) - graded betting results
 
 ## 📄 License
 
