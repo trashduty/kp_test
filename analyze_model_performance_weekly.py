@@ -13,6 +13,7 @@ This script:
 import os
 import csv
 import shutil
+import sys
 from datetime import datetime, timedelta
 from collections import defaultdict
 import urllib.request
@@ -24,6 +25,12 @@ OUTPUT_DIR = "docs/weekly"
 HISTORICAL_DIR = "docs/weekly/historical"
 CURRENT_WEEK_HTML = "current_week.html"
 CURRENT_WEEK_CSV = "current_week.csv"
+
+# Date column names to check (in priority order)
+POSSIBLE_DATE_COLUMNS = ['game_date', 'date', 'Date', 'GameDate']
+
+# Date formats to try when parsing dates
+DATE_FORMATS = ['%Y-%m-%d', '%m/%d/%Y', '%Y/%m/%d', '%m/%d/%y']
 
 
 def fetch_graded_results_from_github():
@@ -96,18 +103,36 @@ def filter_data_by_week(data, week_start=None, week_end=None):
     
     print(f"Filtering data for week: {week_start.strftime('%Y-%m-%d')} to {week_end.strftime('%Y-%m-%d')}")
     
+    # Try to find the date column from the first row
+    date_column_found = None
+    
+    if data:
+        for col_name in POSSIBLE_DATE_COLUMNS:
+            col_value = data[0].get(col_name, '')
+            # Check if the column exists and has a non-empty string value
+            if col_value and str(col_value).strip():
+                date_column_found = col_name
+                print(f"Using date column: '{date_column_found}'")
+                break
+    
+    if not date_column_found:
+        print("Warning: No recognized date column found in data")
+        return []
+    
     filtered_data = []
+    skipped_rows = 0
     
     for row in data:
         try:
-            # Parse the game_date field
-            game_date_str = row.get('game_date', '')
+            # Parse the date field
+            game_date_str = row.get(date_column_found, '')
             if not game_date_str:
+                skipped_rows += 1
                 continue
             
             # Try different date formats
             game_date = None
-            for fmt in ['%Y-%m-%d', '%m/%d/%Y', '%Y/%m/%d']:
+            for fmt in DATE_FORMATS:
                 try:
                     game_date = datetime.strptime(game_date_str, fmt)
                     break
@@ -115,6 +140,7 @@ def filter_data_by_week(data, week_start=None, week_end=None):
                     continue
             
             if game_date is None:
+                skipped_rows += 1
                 continue
             
             # Check if date is in the week range
@@ -123,9 +149,10 @@ def filter_data_by_week(data, week_start=None, week_end=None):
         
         except Exception as e:
             print(f"Error processing row: {e}")
+            skipped_rows += 1
             continue
     
-    print(f"Found {len(filtered_data)} records for the current week")
+    print(f"Found {len(filtered_data)} records for the current week (skipped {skipped_rows} rows)")
     return filtered_data
 
 
@@ -553,8 +580,10 @@ def main():
     weekly_data = filter_data_by_week(all_data, week_start, week_end)
     
     if not weekly_data:
-        print("Warning: No data found for the current week")
-        return
+        print("ERROR: No data found for the current week. Exiting with error status.")
+        print(f"Week range: {week_start.strftime('%Y-%m-%d')} to {week_end.strftime('%Y-%m-%d')}")
+        print(f"Total records in source data: {len(all_data)}")
+        sys.exit(1)
     
     # Step 5: Archive previous week's files
     print("\nArchiving previous week's files...")
