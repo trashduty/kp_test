@@ -82,12 +82,17 @@ def filter_by_week(df, week_start_str):
     
     Returns:
         Filtered DataFrame
+    
+    Note:
+        Creates a 7-day inclusive date range from start_date (inclusive) to 
+        start_date + 6 days (inclusive), covering exactly 7 days.
     """
     # Parse the week start date
     week_start = parse_date(week_start_str)
+    # Week end is 6 days after start, making it an inclusive 7-day range
     week_end = week_start + timedelta(days=6)
     
-    print(f"Filtering games from {week_start.strftime('%Y-%m-%d')} to {week_end.strftime('%Y-%m-%d')}")
+    print(f"Filtering games from {week_start.strftime('%Y-%m-%d')} to {week_end.strftime('%Y-%m-%d')} (7 days, inclusive)")
     
     # Check if date column exists
     date_columns = ['date', 'game_date', 'Date', 'GameDate']
@@ -102,12 +107,16 @@ def filter_by_week(df, week_start_str):
         print("Error: No date column found in the data")
         sys.exit(1)
     
-    # Convert date column to datetime
+    # Convert date column to datetime (strip time component for date comparison)
     df_filtered = df.copy()
-    df_filtered[date_col] = pd.to_datetime(df_filtered[date_col], errors='coerce')
+    df_filtered[date_col] = pd.to_datetime(df_filtered[date_col], errors='coerce').dt.normalize()
     
-    # Filter by date range
-    mask = (df_filtered[date_col] >= week_start) & (df_filtered[date_col] <= week_end)
+    # Normalize week boundaries to start of day for consistent comparison
+    week_start_normalized = pd.Timestamp(week_start).normalize()
+    week_end_normalized = pd.Timestamp(week_end).normalize()
+    
+    # Filter by date range (inclusive on both ends for exactly 7 days)
+    mask = (df_filtered[date_col] >= week_start_normalized) & (df_filtered[date_col] <= week_end_normalized)
     df_week = df_filtered[mask].copy()
     
     print(f"Found {len(df_week)} rows for the specified week (out of {len(df)} total)")
