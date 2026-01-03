@@ -97,17 +97,31 @@ def filter_data_by_week(data, week_start=None, week_end=None):
     print(f"Filtering data for week: {week_start.strftime('%Y-%m-%d')} to {week_end.strftime('%Y-%m-%d')}")
     
     filtered_data = []
+    skipped_rows = 0
+    date_column_found = None
+    
+    # Try multiple possible date column names
+    possible_date_columns = ['game_date', 'date', 'Date', 'GameDate']
     
     for row in data:
         try:
-            # Parse the game_date field
-            game_date_str = row.get('game_date', '')
+            # Find the date column if not already found
+            if date_column_found is None:
+                for col_name in possible_date_columns:
+                    if col_name in row and row.get(col_name, ''):
+                        date_column_found = col_name
+                        print(f"Using date column: '{date_column_found}'")
+                        break
+            
+            # Parse the date field
+            game_date_str = row.get(date_column_found, '') if date_column_found else ''
             if not game_date_str:
+                skipped_rows += 1
                 continue
             
             # Try different date formats
             game_date = None
-            for fmt in ['%Y-%m-%d', '%m/%d/%Y', '%Y/%m/%d']:
+            for fmt in ['%Y-%m-%d', '%m/%d/%Y', '%Y/%m/%d', '%m/%d/%y']:
                 try:
                     game_date = datetime.strptime(game_date_str, fmt)
                     break
@@ -115,6 +129,7 @@ def filter_data_by_week(data, week_start=None, week_end=None):
                     continue
             
             if game_date is None:
+                skipped_rows += 1
                 continue
             
             # Check if date is in the week range
@@ -123,9 +138,10 @@ def filter_data_by_week(data, week_start=None, week_end=None):
         
         except Exception as e:
             print(f"Error processing row: {e}")
+            skipped_rows += 1
             continue
     
-    print(f"Found {len(filtered_data)} records for the current week")
+    print(f"Found {len(filtered_data)} records for the current week (skipped {skipped_rows} rows)")
     return filtered_data
 
 
@@ -553,8 +569,11 @@ def main():
     weekly_data = filter_data_by_week(all_data, week_start, week_end)
     
     if not weekly_data:
-        print("Warning: No data found for the current week")
-        return
+        print("ERROR: No data found for the current week. Exiting with error status.")
+        print(f"Week range: {week_start.strftime('%Y-%m-%d')} to {week_end.strftime('%Y-%m-%d')}")
+        print(f"Total records in source data: {len(all_data)}")
+        import sys
+        sys.exit(1)
     
     # Step 5: Archive previous week's files
     print("\nArchiving previous week's files...")
