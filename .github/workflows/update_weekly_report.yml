@@ -30,26 +30,13 @@ jobs:
         id: calc_date
         run: |
           # Calculate Monday of the current week using Python for consistency
-          WEEK_START=$(python3 -c "
-from datetime import datetime, timedelta
-today = datetime.now()
-# Calculate days since Monday (0=Monday, 6=Sunday)
-days_since_monday = today.weekday()
-# Subtract those days to get to Monday
-monday = today - timedelta(days=days_since_monday)
-print(monday.strftime('%Y-%m-%d'))
-          ")
+          WEEK_START=$(python3 -c "from datetime import datetime, timedelta; today = datetime.now(); days_since_monday = today.weekday(); monday = today - timedelta(days=days_since_monday); print(monday.strftime('%Y-%m-%d'))")
           echo "week_start=$WEEK_START" >> $GITHUB_OUTPUT
           echo "📅 Week start date: $WEEK_START"
 
       - name: 🔍 Verify week range
         run: |
-          python3 -c "
-from datetime import datetime, timedelta
-week_start = datetime.strptime('${{ steps.calc_date.outputs.week_start }}', '%Y-%m-%d')
-week_end = week_start + timedelta(days=6)
-print(f'Generating report for: {week_start.strftime(\"%Y-%m-%d\")} to {week_end.strftime(\"%Y-%m-%d\")}')
-          "
+          python3 -c "from datetime import datetime, timedelta; week_start = datetime.strptime('${{ steps.calc_date.outputs.week_start }}', '%Y-%m-%d'); week_end = week_start + timedelta(days=6); print(f'Generating report for: {week_start.strftime(\"%Y-%m-%d\")} to {week_end.strftime(\"%Y-%m-%d\")}')"
 
       - name: 📊 Generate weekly report
         run: |
