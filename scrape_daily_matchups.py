@@ -1,6 +1,6 @@
 import os
 import asyncio
-from datetime import datetime
+from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 from zyte_api import AsyncZyteAPI
 
@@ -9,12 +9,14 @@ def get_target_date():
     env_date = os.environ.get("SCRAPE_DATE", "").strip()
     if env_date:
         return env_date
-    return datetime.now().strftime("%Y-%m-%d")
+    # Get tomorrow's date instead of today's
+    tomorrow = datetime.now() + timedelta(days=1)
+    return tomorrow.strftime("%Y-%m-%d")
 
 
 TARGET_DATE = get_target_date()
-LOGIN_URL = "https://kenpom.com/login.php"
-FANMATCH_URL = f"https://kenpom.com/fanmatch.php?d={TARGET_DATE}"
+LOGIN_URL = "https://kenpom.com/login. php"
+FANMATCH_URL = f"https://kenpom.com/fanmatch. php?d={TARGET_DATE}"
 
 ZYTE_KEY = os.environ.get("ZYTE_API_KEY")
 USERNAME = os.environ.get("KENPOM_USERNAME")
@@ -30,17 +32,17 @@ async def scrape():
         print("🔍 Loading login page...")
         await client.request_raw({
             "url": LOGIN_URL,
-            "browserHtml": True
+            "browserHtml":  True
         })
 
         print("🔐 Submitting login form...")
         await client.request_raw({
-            "url": LOGIN_URL,
+            "url":  LOGIN_URL,
             "httpMethod": "POST",
             "browserHtml": True,
             "form": {
                 "email": USERNAME,
-                "password": PASSWORD
+                "password":  PASSWORD
             }
         })
 
@@ -54,7 +56,7 @@ async def scrape():
 
         if not html:
             print("❌ No HTML returned — saving debug_html.html")
-            with open("debug_html.html", "w", encoding="utf-8") as f:
+            with open("debug_html. html", "w", encoding="utf-8") as f:
                 f.write(str(fm_result))
             return
 
@@ -62,7 +64,7 @@ async def scrape():
         table = soup.select_one("table.mytable")
 
         if not table:
-            print("❌ Could not find FANMATCH table — saving debug_html.html")
+            print("❌ Could not find FANMATCH table — saving debug_html. html")
             with open("debug_html.html", "w", encoding="utf-8") as f:
                 f.write(html)
             return
@@ -71,7 +73,7 @@ async def scrape():
 
         rows = []
         for tr in table.select("tr"):
-            cols = [td.get_text(strip=True) for td in tr.select("td")]
+            cols = [td. get_text(strip=True) for td in tr.select("td")]
             if cols:
                 rows.append(cols)
 
