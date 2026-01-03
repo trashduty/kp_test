@@ -738,5 +738,9 @@
   "Wagner Seahawks vs. Stonehill Skyhawks|Wagner Seahawks|spread": {
     "captured_at": "2026-01-03T22:02:42.612434+00:00",
     "edge_type": "spread"
+  },
+  "Evansville Purple Aces vs. Northern Iowa Panthers|Northern Iowa Panthers|moneyline": {
+    "captured_at": "2026-01-03T22:48:29.220280+00:00",
+    "edge_type": "moneyline"
   }
 }
