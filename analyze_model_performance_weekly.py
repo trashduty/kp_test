@@ -108,7 +108,9 @@ def filter_data_by_week(data, week_start=None, week_end=None):
     
     if data:
         for col_name in POSSIBLE_DATE_COLUMNS:
-            if col_name in data[0] and data[0].get(col_name, ''):
+            col_value = data[0].get(col_name, '')
+            # Check if the column exists and has a non-empty string value
+            if col_value and str(col_value).strip():
                 date_column_found = col_name
                 print(f"Using date column: '{date_column_found}'")
                 break
