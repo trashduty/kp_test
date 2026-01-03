@@ -26,6 +26,12 @@ HISTORICAL_DIR = "docs/weekly/historical"
 CURRENT_WEEK_HTML = "current_week.html"
 CURRENT_WEEK_CSV = "current_week.csv"
 
+# Date column names to check (in priority order)
+POSSIBLE_DATE_COLUMNS = ['game_date', 'date', 'Date', 'GameDate']
+
+# Date formats to try when parsing dates
+DATE_FORMATS = ['%Y-%m-%d', '%m/%d/%Y', '%Y/%m/%d', '%m/%d/%y']
+
 
 def fetch_graded_results_from_github():
     """
@@ -99,10 +105,9 @@ def filter_data_by_week(data, week_start=None, week_end=None):
     
     # Try to find the date column from the first row
     date_column_found = None
-    possible_date_columns = ['game_date', 'date', 'Date', 'GameDate']
     
     if data:
-        for col_name in possible_date_columns:
+        for col_name in POSSIBLE_DATE_COLUMNS:
             if col_name in data[0] and data[0].get(col_name, ''):
                 date_column_found = col_name
                 print(f"Using date column: '{date_column_found}'")
@@ -125,7 +130,7 @@ def filter_data_by_week(data, week_start=None, week_end=None):
             
             # Try different date formats
             game_date = None
-            for fmt in ['%Y-%m-%d', '%m/%d/%Y', '%Y/%m/%d', '%m/%d/%y']:
+            for fmt in DATE_FORMATS:
                 try:
                     game_date = datetime.strptime(game_date_str, fmt)
                     break
