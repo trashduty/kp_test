@@ -694,5 +694,41 @@
   "Canisius Golden Griffins vs. Sacred Heart Pioneers|Canisius Golden Griffins|spread": {
     "captured_at": "2026-01-03T20:03:02.725726+00:00",
     "edge_type": "spread"
+  },
+  "Tulane Green Wave vs. Florida Atlantic Owls|Florida Atlantic Owls|spread": {
+    "captured_at": "2026-01-03T20:22:30.741398+00:00",
+    "edge_type": "spread"
+  },
+  "IUPUI Jaguars vs. Wright St Raiders|Wright St Raiders|spread": {
+    "captured_at": "2026-01-03T20:22:30.741525+00:00",
+    "edge_type": "spread"
+  },
+  "Fort Wayne Mastodons vs. Cleveland St Vikings|Cleveland St Vikings|spread": {
+    "captured_at": "2026-01-03T20:22:30.742083+00:00",
+    "edge_type": "spread"
+  },
+  "Quinnipiac Bobcats vs. Mt. St. Mary's Mountaineers|Quinnipiac Bobcats|spread": {
+    "captured_at": "2026-01-03T20:22:30.742603+00:00",
+    "edge_type": "spread"
+  },
+  "UConn Huskies vs. Marquette Golden Eagles|UConn Huskies|spread": {
+    "captured_at": "2026-01-03T20:22:30.742805+00:00",
+    "edge_type": "spread"
+  },
+  "Evansville Purple Aces vs. Northern Iowa Panthers|Northern Iowa Panthers|spread": {
+    "captured_at": "2026-01-03T20:22:30.743904+00:00",
+    "edge_type": "spread"
+  },
+  "Florida Int'l Golden Panthers vs. UTEP Miners|Florida Int'l Golden Panthers|spread": {
+    "captured_at": "2026-01-03T20:22:30.744083+00:00",
+    "edge_type": "spread"
+  },
+  "Northern Kentucky Norse vs. Youngstown St Penguins|Youngstown St Penguins|spread": {
+    "captured_at": "2026-01-03T20:22:30.744261+00:00",
+    "edge_type": "spread"
+  },
+  "Santa Clara Broncos vs. San Diego Toreros|Santa Clara Broncos|spread": {
+    "captured_at": "2026-01-03T20:22:30.745064+00:00",
+    "edge_type": "spread"
   }
 }
