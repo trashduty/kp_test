@@ -13,6 +13,7 @@ This script:
 import os
 import csv
 import shutil
+import sys
 from datetime import datetime, timedelta
 from collections import defaultdict
 import urllib.request
@@ -96,25 +97,28 @@ def filter_data_by_week(data, week_start=None, week_end=None):
     
     print(f"Filtering data for week: {week_start.strftime('%Y-%m-%d')} to {week_end.strftime('%Y-%m-%d')}")
     
+    # Try to find the date column from the first row
+    date_column_found = None
+    possible_date_columns = ['game_date', 'date', 'Date', 'GameDate']
+    
+    if data:
+        for col_name in possible_date_columns:
+            if col_name in data[0] and data[0].get(col_name, ''):
+                date_column_found = col_name
+                print(f"Using date column: '{date_column_found}'")
+                break
+    
+    if not date_column_found:
+        print("Warning: No recognized date column found in data")
+        return []
+    
     filtered_data = []
     skipped_rows = 0
-    date_column_found = None
-    
-    # Try multiple possible date column names
-    possible_date_columns = ['game_date', 'date', 'Date', 'GameDate']
     
     for row in data:
         try:
-            # Find the date column if not already found
-            if date_column_found is None:
-                for col_name in possible_date_columns:
-                    if col_name in row and row.get(col_name, ''):
-                        date_column_found = col_name
-                        print(f"Using date column: '{date_column_found}'")
-                        break
-            
             # Parse the date field
-            game_date_str = row.get(date_column_found, '') if date_column_found else ''
+            game_date_str = row.get(date_column_found, '')
             if not game_date_str:
                 skipped_rows += 1
                 continue
@@ -572,7 +576,6 @@ def main():
         print("ERROR: No data found for the current week. Exiting with error status.")
         print(f"Week range: {week_start.strftime('%Y-%m-%d')} to {week_end.strftime('%Y-%m-%d')}")
         print(f"Total records in source data: {len(all_data)}")
-        import sys
         sys.exit(1)
     
     # Step 5: Archive previous week's files
