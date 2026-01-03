@@ -734,5 +734,9 @@
   "Delaware Blue Hens vs. Kennesaw St Owls|Delaware Blue Hens|spread": {
     "captured_at": "2026-01-03T20:48:24.512782+00:00",
     "edge_type": "spread"
+  },
+  "Wagner Seahawks vs. Stonehill Skyhawks|Wagner Seahawks|spread": {
+    "captured_at": "2026-01-03T22:02:42.612434+00:00",
+    "edge_type": "spread"
   }
 }
