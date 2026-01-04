@@ -754,5 +754,9 @@
   "Charleston Cougars vs. William & Mary Tribe|William & Mary Tribe|spread": {
     "captured_at": "2026-01-04T19:32:08.378537+00:00",
     "edge_type": "spread"
+  },
+  "Charleston Cougars vs. William & Mary Tribe|William & Mary Tribe|moneyline": {
+    "captured_at": "2026-01-04T20:22:33.348767+00:00",
+    "edge_type": "moneyline"
   }
 }
