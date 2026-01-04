@@ -758,5 +758,13 @@
   "Charleston Cougars vs. William & Mary Tribe|William & Mary Tribe|moneyline": {
     "captured_at": "2026-01-04T20:22:33.348767+00:00",
     "edge_type": "moneyline"
+  },
+  "Arkansas-Pine Bluff Golden Lions vs. Alabama St Hornets|Arkansas-Pine Bluff Golden Lions|spread": {
+    "captured_at": "2026-01-04T20:36:35.991264+00:00",
+    "edge_type": "spread"
+  },
+  "McNeese Cowboys vs. Stephen F. Austin Lumberjacks|Stephen F. Austin Lumberjacks|spread": {
+    "captured_at": "2026-01-04T20:36:35.993182+00:00",
+    "edge_type": "spread"
   }
 }
