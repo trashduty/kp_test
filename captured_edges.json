@@ -746,5 +746,13 @@
   "Wagner Seahawks vs. Stonehill Skyhawks|Wagner Seahawks|moneyline": {
     "captured_at": "2026-01-04T01:31:23.865938+00:00",
     "edge_type": "moneyline"
+  },
+  "Green Bay Phoenix vs. Milwaukee Panthers|Green Bay Phoenix|spread": {
+    "captured_at": "2026-01-04T19:32:08.378249+00:00",
+    "edge_type": "spread"
+  },
+  "Charleston Cougars vs. William & Mary Tribe|William & Mary Tribe|spread": {
+    "captured_at": "2026-01-04T19:32:08.378537+00:00",
+    "edge_type": "spread"
   }
 }
