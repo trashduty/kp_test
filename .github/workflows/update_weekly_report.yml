@@ -6,15 +6,15 @@ name: Update Weekly Performance Report
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
-  contents: write
+  contents:  write
 
 jobs:
   update-report:
-    runs-on: ubuntu-latest
+    runs-on:  ubuntu-latest
 
-    steps:
+    steps: 
       - name: 🧾 Checkout repository
-        uses: actions/checkout@v4
+        uses:  actions/checkout@v4
 
       - name: 🐍 Set up Python
         uses: actions/setup-python@v5
@@ -24,42 +24,44 @@ jobs:
       - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r requirements. txt
 
       - name: 📅 Calculate Monday of current week
         id: calc_date
         run: |
           # Calculate Monday of the current week using Python for consistency
-          WEEK_START=$(python3 -c "from datetime import datetime, timedelta; today = datetime.now(); days_since_monday = today.weekday(); monday = today - timedelta(days=days_since_monday); print(monday.strftime('%Y-%m-%d'))")
+          WEEK_START=$(python3 -c "from datetime import datetime, timedelta; today = datetime.now(); days_since_monday = today.weekday(); monday = today - timedelta(days=days_since_monday); print(monday. strftime('%Y-%m-%d'))")
           echo "week_start=$WEEK_START" >> $GITHUB_OUTPUT
           echo "📅 Week start date: $WEEK_START"
 
       - name: 🔍 Verify week range
         run: |
-          python3 -c "from datetime import datetime, timedelta; week_start = datetime.strptime('${{ steps.calc_date.outputs.week_start }}', '%Y-%m-%d'); week_end = week_start + timedelta(days=6); print(f'Generating report for: {week_start.strftime(\"%Y-%m-%d\")} to {week_end.strftime(\"%Y-%m-%d\")}')"
+          python3 -c "from datetime import datetime, timedelta; week_start = datetime.strptime('${{ steps.calc_date.outputs.week_start }}', '%Y-%m-%d'); week_end = week_start + timedelta(days=6); print(f'Week range: {week_start.strftime(\"%Y-%m-%d\")} to {week_end.strftime(\"%Y-%m-%d\")}')"
 
-      - name: 📊 Generate weekly report
+      - name: 📊 Generate weekly report (with archiving)
         run: |
-          python scripts/generate_weekly_report.py --week-start ${{ steps.calc_date.outputs.week_start }}
+          python scripts/generate_weekly_report.py --week-start ${{ steps.calc_date.outputs.week_start }} --archive-current
 
       - name: 📤 Commit and push changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/weekly/current_week.html
+          git config user. name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github. com"
+          git add docs/weekly/current_week.html docs/weekly/previous_week.html
           # Only commit if there are changes
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Auto-update weekly report for week of ${{ steps.calc_date.outputs.week_start }} [skip ci]"
+            git commit -m "Auto-update weekly reports for week of ${{ steps.calc_date.outputs.week_start }} [skip ci]"
             git push
-            echo "✓ Weekly report updated and pushed"
+            echo "✓ Weekly reports updated and pushed"
           fi
 
-      - name: 📸 Upload report artifact
+      - name: 📸 Upload report artifacts
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: weekly-report
-          path: docs/weekly/current_week.html
-          if-no-files-found: ignore
+          name: weekly-reports
+          path: |
+            docs/weekly/current_week.html
+            docs/weekly/previous_week.html
+          if-no-files-found:  ignore
