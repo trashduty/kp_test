@@ -766,5 +766,9 @@
   "McNeese Cowboys vs. Stephen F. Austin Lumberjacks|Stephen F. Austin Lumberjacks|spread": {
     "captured_at": "2026-01-04T20:36:35.993182+00:00",
     "edge_type": "spread"
+  },
+  "Ohio State Buckeyes vs. Nebraska Cornhuskers|Nebraska Cornhuskers|spread": {
+    "captured_at": "2026-01-04T22:02:46.873375+00:00",
+    "edge_type": "spread"
   }
 }
