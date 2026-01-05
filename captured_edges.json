@@ -818,5 +818,9 @@
   "Oklahoma St Cowboys vs. UCF Knights|UCF Knights|spread": {
     "captured_at": "2026-01-05T20:23:02.570942+00:00",
     "edge_type": "spread"
+  },
+  "Ball State Cardinals vs. Eastern Michigan Eagles|Eastern Michigan Eagles|moneyline": {
+    "captured_at": "2026-01-05T20:49:53.895671+00:00",
+    "edge_type": "moneyline"
   }
 }
