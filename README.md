@@ -191,6 +191,41 @@ The script generates an HTML report at `docs/weekly/current_week.html` with:
 - Edge tier performance breakdowns
 - Individual game details with dates, matchups, teams, odds, and results
 
+### Managing Previous Week Reports
+
+Two weekly report files are maintained:
+- `current_week.html` - The week currently in progress
+- `previous_week.html` - The week that just ended (for comparison/review)
+
+#### Initial Setup
+
+Generate the initial `previous_week.html` placeholder:
+```bash
+python scripts/generate_weekly_report.py --week-start YYYY-MM-DD --output previous
+```
+
+#### Weekly Workflow
+
+When a new week begins, archive the current week and generate a new one:
+```bash
+python scripts/generate_weekly_report.py --week-start 2026-01-05 --archive-current
+```
+
+The `--archive-current` flag automatically:
+1. Copies `current_week.html` to `previous_week.html`
+2. Generates a new `current_week.html` for the specified week
+
+#### Manual Generation
+
+Generate reports for specific output files:
+```bash
+# Generate for current week (default)
+python scripts/generate_weekly_report.py --week-start 2026-01-05
+
+# Generate for previous week
+python scripts/generate_weekly_report.py --week-start 2025-12-29 --output previous
+```
+
 ## 📊 Data Sources
 
 - **Efficiency Metrics**: [KenPom.com](https://kenpom.com) - the leading college basketball analytics site

@@ -11,6 +11,14 @@ Usage:
     python scripts/generate_weekly_report.py --week-start 2025-12-29
     python scripts/generate_weekly_report.py --week-start 2025-12-29 --output previous
 
+File Lifecycle:
+    - previous_week.html must be generated initially using --output previous
+    - Use --archive-current to automatically copy current_week.html to previous_week.html
+      when generating a new current week
+    - Example workflow:
+      1. Generate initial current week: --week-start 2025-12-29
+      2. Next week, archive and generate new: --week-start 2026-01-05 --archive-current
+
 The script: 
 1. Takes a week start date as input (e.g., "2025-12-29")
 2. Reads data from graded_results.csv (from GitHub or local)
