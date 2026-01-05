@@ -782,5 +782,21 @@
   "Butler Bulldogs vs. St. John's Red Storm|Butler Bulldogs|spread": {
     "captured_at": "2026-01-05T19:34:51.100262+00:00",
     "edge_type": "spread"
+  },
+  "Akron Zips vs. Central Michigan Chippewas|Akron Zips|spread": {
+    "captured_at": "2026-01-05T19:47:33.017702+00:00",
+    "edge_type": "spread"
+  },
+  "Miami (OH) RedHawks vs. Western Michigan Broncos|Miami (OH) RedHawks|spread": {
+    "captured_at": "2026-01-05T19:47:33.017899+00:00",
+    "edge_type": "spread"
+  },
+  "Northern Illinois Huskies vs. Toledo Rockets|Northern Illinois Huskies|spread": {
+    "captured_at": "2026-01-05T19:47:33.019356+00:00",
+    "edge_type": "spread"
+  },
+  "Boston College Eagles vs. NC State Wolfpack|Boston College Eagles|spread": {
+    "captured_at": "2026-01-05T19:47:33.020667+00:00",
+    "edge_type": "spread"
   }
 }
