@@ -850,5 +850,9 @@
   "West Virginia Mountaineers vs. Cincinnati Bearcats|West Virginia Mountaineers|moneyline": {
     "captured_at": "2026-01-05T23:07:32.931290+00:00",
     "edge_type": "moneyline"
+  },
+  "Colorado St Rams vs. New Mexico Lobos|Colorado St Rams|moneyline": {
+    "captured_at": "2026-01-05T23:35:04.789381+00:00",
+    "edge_type": "moneyline"
   }
 }
