@@ -16,7 +16,7 @@ The script:
 2. Reads data from graded_results.csv (from GitHub or local)
 3. Filters games to only include those in the specified 7-day week
 4. Generates an HTML report with the same structure as model_performance_analysis.html
-5. Outputs to docs/weekly/current_week.html or docs/weekly/previous_week. html
+5. Outputs to docs/weekly/current_week.html or docs/weekly/previous_week.html
 
 Two files are maintained:
 - current_week.html: The week currently in progress
