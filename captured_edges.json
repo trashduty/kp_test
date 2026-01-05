@@ -814,5 +814,9 @@
   "Wyoming Cowboys vs. UNLV Rebels|Wyoming Cowboys|spread": {
     "captured_at": "2026-01-05T20:03:00.481784+00:00",
     "edge_type": "spread"
+  },
+  "Oklahoma St Cowboys vs. UCF Knights|UCF Knights|spread": {
+    "captured_at": "2026-01-05T20:23:02.570942+00:00",
+    "edge_type": "spread"
   }
 }
