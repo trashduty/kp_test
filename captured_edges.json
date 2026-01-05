@@ -826,5 +826,21 @@
   "LSU Tigers vs. South Carolina Gamecocks|LSU Tigers|spread": {
     "captured_at": "2026-01-05T21:03:09.077479+00:00",
     "edge_type": "spread"
+  },
+  "LSU Tigers vs. South Carolina Gamecocks|LSU Tigers|moneyline": {
+    "captured_at": "2026-01-05T21:22:13.265380+00:00",
+    "edge_type": "moneyline"
+  },
+  "Florida Gators vs. Georgia Bulldogs|Georgia Bulldogs|spread": {
+    "captured_at": "2026-01-05T21:22:13.265959+00:00",
+    "edge_type": "spread"
+  },
+  "DePaul Blue Demons vs. Georgetown Hoyas|DePaul Blue Demons|spread": {
+    "captured_at": "2026-01-05T21:22:13.266673+00:00",
+    "edge_type": "spread"
+  },
+  "SIU-Edwardsville Cougars vs. Lindenwood Lions|SIU-Edwardsville Cougars|moneyline": {
+    "captured_at": "2026-01-05T21:22:13.267119+00:00",
+    "edge_type": "moneyline"
   }
 }
