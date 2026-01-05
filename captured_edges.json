@@ -778,5 +778,9 @@
   "Houston Cougars vs. Texas Tech Red Raiders|Houston Cougars|moneyline": {
     "captured_at": "2026-01-05T18:43:31.643992+00:00",
     "edge_type": "moneyline"
+  },
+  "Butler Bulldogs vs. St. John's Red Storm|Butler Bulldogs|spread": {
+    "captured_at": "2026-01-05T19:34:51.100262+00:00",
+    "edge_type": "spread"
   }
 }
