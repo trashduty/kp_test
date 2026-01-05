@@ -770,5 +770,13 @@
   "Ohio State Buckeyes vs. Nebraska Cornhuskers|Nebraska Cornhuskers|spread": {
     "captured_at": "2026-01-04T22:02:46.873375+00:00",
     "edge_type": "spread"
+  },
+  "Kansas Jayhawks vs. TCU Horned Frogs|Kansas Jayhawks|spread": {
+    "captured_at": "2026-01-05T18:43:31.643675+00:00",
+    "edge_type": "spread"
+  },
+  "Houston Cougars vs. Texas Tech Red Raiders|Houston Cougars|moneyline": {
+    "captured_at": "2026-01-05T18:43:31.643992+00:00",
+    "edge_type": "moneyline"
   }
 }
