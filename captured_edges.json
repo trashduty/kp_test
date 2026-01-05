@@ -798,5 +798,21 @@
   "Boston College Eagles vs. NC State Wolfpack|Boston College Eagles|spread": {
     "captured_at": "2026-01-05T19:47:33.020667+00:00",
     "edge_type": "spread"
+  },
+  "Ohio Bobcats vs. Massachusetts Minutemen|Massachusetts Minutemen|spread": {
+    "captured_at": "2026-01-05T20:03:00.477871+00:00",
+    "edge_type": "spread"
+  },
+  "Georgia Tech Yellow Jackets vs. Syracuse Orange|Georgia Tech Yellow Jackets|spread": {
+    "captured_at": "2026-01-05T20:03:00.478683+00:00",
+    "edge_type": "spread"
+  },
+  "Colorado St Rams vs. New Mexico Lobos|Colorado St Rams|spread": {
+    "captured_at": "2026-01-05T20:03:00.481443+00:00",
+    "edge_type": "spread"
+  },
+  "Wyoming Cowboys vs. UNLV Rebels|Wyoming Cowboys|spread": {
+    "captured_at": "2026-01-05T20:03:00.481784+00:00",
+    "edge_type": "spread"
   }
 }
