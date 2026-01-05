@@ -5,18 +5,18 @@ Generate Weekly Performance Report Script
 This script generates a weekly performance report by filtering data from the main 
 model performance analysis for a specific week.  The weekly reports have the same 
 structure and format as docs/model_performance_analysis.html but only include 
-games from the specified week. 
+games from the specified week.  
 
 Usage:
     python scripts/generate_weekly_report.py --week-start 2025-12-29
     python scripts/generate_weekly_report.py --week-start 2025-12-29 --output previous
 
-The script: 
+The script:  
 1. Takes a week start date as input (e.g., "2025-12-29")
 2. Reads data from graded_results.csv (from GitHub or local)
 3. Filters games to only include those in the specified 7-day week
 4. Generates an HTML report with the same structure as model_performance_analysis.html
-5. Outputs to docs/weekly/current_week.html or docs/weekly/previous_week.html
+5. Outputs to docs/weekly/current_week.html or docs/weekly/previous_week. html
 
 Two files are maintained:
 - current_week.html: The week currently in progress
@@ -58,7 +58,7 @@ PREVIOUS_WEEK_FILE = os.path. join(WEEKLY_DIR, "previous_week.html")
 
 def parse_arguments():
     """Parse command line arguments"""
-    parser = argparse.ArgumentParser(
+    parser = argparse. ArgumentParser(
         description='Generate weekly performance report for a specific week'
     )
     parser.add_argument(
@@ -85,7 +85,7 @@ def parse_arguments():
 def parse_date(date_str):
     """Parse date string to datetime object"""
     try:
-        return datetime.strptime(date_str, '%Y-%m-%d')
+        return datetime. strptime(date_str, '%Y-%m-%d')
     except ValueError as e:
         print(f"Error:  Invalid date format '{date_str}'. Please use YYYY-MM-DD format.")
         sys.exit(1)
@@ -93,7 +93,7 @@ def parse_date(date_str):
 
 def archive_current_week():
     """
-    Copy current_week.html to previous_week.html
+    Copy current_week.html to previous_week. html
     
     Returns:
         True if successful or if current_week.html doesn't exist, False otherwise
@@ -122,9 +122,9 @@ def filter_by_week(df, week_start_str):
     Returns:
         Filtered DataFrame
     
-    Note: 
+    Note:  
         Creates a 7-day inclusive date range from start_date (inclusive) to 
-        start_date + 6 days (inclusive), covering exactly 7 days. 
+        start_date + 6 days (inclusive), covering exactly 7 days.  
     """
     # Parse the week start date
     week_start = parse_date(week_start_str)
@@ -161,16 +161,101 @@ def filter_by_week(df, week_start_str):
     print(f"Found {len(df_week)} rows for the specified week (out of {len(df)} total)")
     
     if len(df_week) == 0:
-        print("Warning:  No games found for the specified week")
+        print("Warning: No games found for the specified week")
     
     return df_week
+
+
+def deduplicate_games(games_list):
+    """
+    Remove duplicate games from a list of game dictionaries.
+    
+    Duplicates are identified by matching date, matchup, team, and opening line. 
+    When duplicates are found, keep the one with the higher edge value. 
+    
+    Args:
+        games_list:  List of game dictionaries
+    
+    Returns:
+        Deduplicated list of games
+    """
+    if not games_list: 
+        return []
+    
+    # Create a dictionary to track unique games
+    unique_games = {}
+    
+    for game in games_list: 
+        # Create a unique key for each game
+        key = (
+            game. get('date', ''),
+            game.get('matchup', ''),
+            game.get('team', ''),
+            game.get('opening_spread') or game.get('opening_total') or game.get('opening_moneyline', '')
+        )
+        
+        # If this is a new game, add it
+        if key not in unique_games:
+            unique_games[key] = game
+        else:
+            # If duplicate exists, keep the one with higher edge (or first one if edges are equal)
+            existing_edge_str = str(unique_games[key].get('edge', '0')).rstrip('%')
+            new_edge_str = str(game.get('edge', '0')).rstrip('%')
+            
+            try:
+                existing_edge = float(existing_edge_str)
+            except (ValueError, TypeError):
+                existing_edge = 0.0
+            
+            try: 
+                new_edge = float(new_edge_str)
+            except (ValueError, TypeError):
+                new_edge = 0.0
+            
+            if new_edge > existing_edge:
+                unique_games[key] = game
+    
+    return list(unique_games.values())
+
+
+def deduplicate_tier_results(tier_results):
+    """
+    Deduplicate games within tier results and recalculate records.
+    
+    Args:
+        tier_results: List of tier dictionaries with 'games', 'wins', 'losses', 'record', 'pct'
+    
+    Returns:
+        Deduplicated tier results with recalculated records
+    """
+    for tier in tier_results:
+        if 'games' in tier:
+            # Deduplicate the games
+            original_count = len(tier['games'])
+            tier['games'] = deduplicate_games(tier['games'])
+            deduplicated_count = len(tier['games'])
+            
+            if deduplicated_count < original_count:
+                print(f"  Removed {original_count - deduplicated_count} duplicate(s) from {tier.get('tier', tier.get('range', 'unknown tier'))}")
+            
+            # Recalculate wins, losses, record, and percentage
+            wins = sum(1 for game in tier['games'] if game. get('result') == 'Win')
+            losses = sum(1 for game in tier['games'] if game.get('result') == 'Loss')
+            total = wins + losses
+            
+            tier['wins'] = wins
+            tier['losses'] = losses
+            tier['record'] = f"{wins}-{losses}"
+            tier['pct'] = f"{(wins / total * 100):.1f}%" if total > 0 else "0.0%"
+    
+    return tier_results
 
 
 def escape_html(text):
     """Escape HTML special characters"""
     if text is None or (isinstance(text, float) and pd.isna(text)):
         return "N/A"
-    return html. escape(str(text))
+    return html.escape(str(text))
 
 
 def generate_game_details_html(games, bet_type='spread'):
@@ -184,15 +269,15 @@ def generate_game_details_html(games, bet_type='spread'):
     Returns:
         HTML string for game details table
     """
-    if not games:
+    if not games: 
         return '<p>No games in this tier. </p>'
     
     # Define headers based on bet type
     if bet_type == 'spread': 
         headers = ['Date', 'Matchup', 'Team', 'Opening Spread', 'Edge', 'Closing Spread', 'Result']
-    elif bet_type == 'total':
+    elif bet_type == 'total': 
         headers = ['Date', 'Matchup', 'Team', 'Opening Total', 'Edge', 'Closing Total', 'Result']
-    elif bet_type == 'moneyline':
+    elif bet_type == 'moneyline': 
         headers = ['Date', 'Matchup', 'Team', 'Opening ML', 'Edge', 'Closing ML', 'Result']
     else:
         headers = ['Date', 'Matchup', 'Team', 'Opening', 'Edge', 'Closing', 'Result']
@@ -203,11 +288,11 @@ def generate_game_details_html(games, bet_type='spread'):
     html_str += '</tr></thead><tbody>'
     
     for game in games:
-        result_color = RESULT_WIN_COLOR if game. get('result') == 'Win' else RESULT_LOSS_COLOR
+        result_color = RESULT_WIN_COLOR if game.get('result') == 'Win' else RESULT_LOSS_COLOR
         html_str += '<tr>'
         html_str += f"<td>{escape_html(game.get('date', 'N/A'))}</td>"
         html_str += f"<td>{escape_html(game.get('matchup', 'N/A'))}</td>"
-        html_str += f"<td>{escape_html(game.get('team', 'N/A'))}</td>"
+        html_str += f"<td>{escape_html(game. get('team', 'N/A'))}</td>"
         
         # Use bet-type-specific column names
         if bet_type == 'spread':
@@ -242,7 +327,7 @@ def count_games_in_section(section_data):
     Args:
         section_data: Either a list of tier results or a dict with 'favorites'/'underdogs' or 'overs'/'unders'
     
-    Returns: 
+    Returns:
         Total number of games
     """
     if isinstance(section_data, list):
@@ -262,7 +347,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
     """
     Generate HTML output for weekly report
     
-    Args: 
+    Args:
         analysis_data: Dictionary containing analysis results
         week_start_str: Week start date string
         week_end_str: Week end date string
@@ -304,10 +389,10 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         * {{
             box-sizing: border-box;
             margin: 0;
-            padding:  0;
+            padding: 0;
         }}
         body {{
-            font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
             line-height: 1.6;
             color: #333;
             background-color: #f5f5f5;
@@ -316,7 +401,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         .container {{
             max-width: 1200px;
             margin: 0 auto;
-            background-color: #fff;
+            background-color:  #fff;
             padding: 30px;
             border-radius:  8px;
             box-shadow:  0 2px 10px rgba(0,0,0,0.1);
@@ -332,7 +417,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             font-size: 2rem;
             margin-bottom: 10px;
         }}
-        . report-type {{
+        .report-type {{
             color: #4a5568;
             font-size: 1.1rem;
             font-weight: 600;
@@ -344,7 +429,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             font-weight:  600;
             margin-top: 10px;
         }}
-        . timestamp {{
+        .timestamp {{
             color: #666;
             font-size: 0.9rem;
             margin-top: 5px;
@@ -394,11 +479,11 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         td: last-child, th:last-child {{
             text-align: right;
         }}
-        td: nth-child(2), th:nth-child(2) {{
+        td:nth-child(2), th:nth-child(2) {{
             text-align: center;
         }}
         .subsection {{
-            margin-top:  25px;
+            margin-top: 25px;
         }}
         details {{
             margin-bottom: 2px;
@@ -406,7 +491,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         summary {{
             cursor: pointer;
             padding: 12px 15px;
-            background-color:  #f7fafc;
+            background-color: #f7fafc;
             border-bottom: 1px solid #e2e8f0;
             display: flex;
             justify-content: space-between;
@@ -416,7 +501,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         summary: hover {{
             background-color:  #edf2f7;
         }}
-        summary::marker {{
+        summary:: marker {{
             content: '▶ ';
             font-size: 0.8em;
         }}
@@ -458,11 +543,11 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             color:  white;
             font-weight:  600;
             padding: 8px 12px;
-            text-align: left;
+            text-align:  left;
         }}
-        .game-details-table td {{
+        . game-details-table td {{
             padding: 8px 12px;
-            border-bottom: 1px solid #e2e8f0;
+            border-bottom:  1px solid #e2e8f0;
         }}
         .game-details-table tr:nth-child(even) {{
             background-color: #f9fafb;
@@ -482,7 +567,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             body {{
                 padding: 10px;
             }}
-            .container {{
+            . container {{
                 padding: 15px;
             }}
             h1 {{
@@ -852,12 +937,12 @@ def main():
     
     print(f"=" * 80)
     print(f"Generating Weekly Performance Report ({output_type. upper()})")
-    print(f"Week:  {week_start_str} to {week_end_str}")
+    print(f"Week: {week_start_str} to {week_end_str}")
     print(f"=" * 80)
     print()
     
     # Fetch data from GitHub (or local fallback)
-    print("Fetching graded_results.csv...")
+    print("Fetching graded_results. csv...")
     df = fetch_graded_results_from_github()
     
     if df is None:
@@ -884,6 +969,38 @@ def main():
         'ou_by_edge_all': collect_over_under_performance_by_edge(df_week, consensus_only=False),
         'ou_by_edge_consensus': collect_over_under_performance_by_edge(df_week, consensus_only=True),
     }
+    
+    # Deduplicate games and recalculate records
+    print()
+    print("Checking for and removing duplicate games...")
+    
+    analysis_data['spread_by_edge_all'] = deduplicate_tier_results(analysis_data['spread_by_edge_all'])
+    analysis_data['spread_by_edge_consensus'] = deduplicate_tier_results(analysis_data['spread_by_edge_consensus'])
+    
+    # Handle spread_by_point_spread (has 'favorites' and 'underdogs' sub-keys)
+    analysis_data['spread_by_point_spread']['favorites'] = deduplicate_tier_results(
+        analysis_data['spread_by_point_spread']['favorites']
+    )
+    analysis_data['spread_by_point_spread']['underdogs'] = deduplicate_tier_results(
+        analysis_data['spread_by_point_spread']['underdogs']
+    )
+    
+    # Handle ou_by_edge (has 'overs' and 'unders' sub-keys)
+    analysis_data['ou_by_edge_all']['overs'] = deduplicate_tier_results(
+        analysis_data['ou_by_edge_all']['overs']
+    )
+    analysis_data['ou_by_edge_all']['unders'] = deduplicate_tier_results(
+        analysis_data['ou_by_edge_all']['unders']
+    )
+    
+    analysis_data['ou_by_edge_consensus']['overs'] = deduplicate_tier_results(
+        analysis_data['ou_by_edge_consensus']['overs']
+    )
+    analysis_data['ou_by_edge_consensus']['unders'] = deduplicate_tier_results(
+        analysis_data['ou_by_edge_consensus']['unders']
+    )
+    
+    print("Deduplication complete!")
     
     # Generate timestamp
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
