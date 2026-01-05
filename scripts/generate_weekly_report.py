@@ -11,7 +11,7 @@ Usage:
     python scripts/generate_weekly_report.py --week-start 2025-12-29
     python scripts/generate_weekly_report.py --week-start 2025-12-29 --output previous
 
-The script:  
+The script:   
 1. Takes a week start date as input (e.g., "2025-12-29")
 2. Reads data from graded_results.csv (from GitHub or local)
 3. Filters games to only include those in the specified 7-day week
@@ -32,6 +32,7 @@ import pandas as pd
 import numpy as np
 import requests
 import base64
+import pytz
 from io import StringIO
 from datetime import datetime, timedelta, timezone
 
@@ -53,12 +54,12 @@ from analyze_model_performance import (
 # Output directory
 WEEKLY_DIR = os.path.join(parent_dir, "docs", "weekly")
 CURRENT_WEEK_FILE = os.path.join(WEEKLY_DIR, "current_week.html")
-PREVIOUS_WEEK_FILE = os.path. join(WEEKLY_DIR, "previous_week.html")
+PREVIOUS_WEEK_FILE = os.path.join(WEEKLY_DIR, "previous_week.html")
 
 
 def parse_arguments():
     """Parse command line arguments"""
-    parser = argparse. ArgumentParser(
+    parser = argparse.ArgumentParser(
         description='Generate weekly performance report for a specific week'
     )
     parser.add_argument(
@@ -72,7 +73,7 @@ def parse_arguments():
         type=str,
         choices=['current', 'previous'],
         default='current',
-        help='Output file: "current" for current_week.html or "previous" for previous_week. html (default: current)'
+        help='Output file:  "current" for current_week.html or "previous" for previous_week. html (default: current)'
     )
     parser.add_argument(
         '--archive-current',
@@ -85,9 +86,9 @@ def parse_arguments():
 def parse_date(date_str):
     """Parse date string to datetime object"""
     try:
-        return datetime. strptime(date_str, '%Y-%m-%d')
+        return datetime.strptime(date_str, '%Y-%m-%d')
     except ValueError as e:
-        print(f"Error:  Invalid date format '{date_str}'. Please use YYYY-MM-DD format.")
+        print(f"Error:   Invalid date format '{date_str}'.  Please use YYYY-MM-DD format.")
         sys.exit(1)
 
 
@@ -101,13 +102,13 @@ def archive_current_week():
     if os.path.exists(CURRENT_WEEK_FILE):
         try:
             shutil.copy2(CURRENT_WEEK_FILE, PREVIOUS_WEEK_FILE)
-            print(f"✓ Archived current week to:  {PREVIOUS_WEEK_FILE}")
+            print(f"✓ Archived current week to:   {PREVIOUS_WEEK_FILE}")
             return True
         except Exception as e:
-            print(f"Error:  Failed to archive current week: {e}")
+            print(f"Error:   Failed to archive current week: {e}")
             return False
     else:
-        print("Note: No current week file to archive")
+        print("Note:  No current week file to archive")
         return True
 
 
@@ -124,7 +125,8 @@ def filter_by_week(df, week_start_str):
     
     Note:  
         Creates a 7-day inclusive date range from start_date (inclusive) to 
-        start_date + 6 days (inclusive), covering exactly 7 days.  
+        start_date + 6 days (inclusive), covering exactly 7 days.
+        Converts UTC timestamps to Eastern Time before filtering.
     """
     # Parse the week start date
     week_start = parse_date(week_start_str)
@@ -146,13 +148,25 @@ def filter_by_week(df, week_start_str):
         print("Error: No date column found in the data")
         sys.exit(1)
     
-    # Convert date column to datetime (strip time component for date comparison)
+    # Convert date column to datetime
     df_filtered = df. copy()
-    df_filtered[date_col] = pd.to_datetime(df_filtered[date_col], errors='coerce').dt.normalize()
+    df_filtered[date_col] = pd.to_datetime(df_filtered[date_col], errors='coerce')
+    
+    # Define timezones
+    utc = pytz.UTC
+    eastern = pytz.timezone('US/Eastern')
+    
+    # Convert from UTC to Eastern Time, then normalize to get just the date
+    # This handles the conversion so that games at "2026-01-05 00:00:00 UTC" 
+    # become "2026-01-04" in Eastern Time
+    df_filtered[date_col] = df_filtered[date_col].apply(
+        lambda x: x. tz_localize(utc).astimezone(eastern).normalize() if pd.notna(x) else x
+    )
     
     # Normalize week boundaries to start of day for consistent comparison
-    week_start_normalized = pd.Timestamp(week_start).normalize()
-    week_end_normalized = pd. Timestamp(week_end).normalize()
+    # Localize week boundaries to Eastern timezone
+    week_start_normalized = pd.Timestamp(week_start).tz_localize(eastern).normalize()
+    week_end_normalized = pd. Timestamp(week_end).tz_localize(eastern).normalize()
     
     # Filter by date range (inclusive on both ends for exactly 7 days)
     mask = (df_filtered[date_col] >= week_start_normalized) & (df_filtered[date_col] <= week_end_normalized)
@@ -161,25 +175,25 @@ def filter_by_week(df, week_start_str):
     print(f"Found {len(df_week)} rows for the specified week (out of {len(df)} total)")
     
     if len(df_week) == 0:
-        print("Warning: No games found for the specified week")
+        print("Warning:  No games found for the specified week")
     
     return df_week
 
 
 def deduplicate_games(games_list):
     """
-    Remove duplicate games from a list of game dictionaries.
+    Remove duplicate games from a list of game dictionaries. 
     
-    Duplicates are identified by matching date, matchup, team, and opening line. 
-    When duplicates are found, keep the one with the higher edge value. 
+    Duplicates are identified by matching date, matchup, team, and opening line.  
+    When duplicates are found, keep the one with the higher edge value.  
     
     Args:
-        games_list:  List of game dictionaries
+        games_list:   List of game dictionaries
     
     Returns:
         Deduplicated list of games
     """
-    if not games_list: 
+    if not games_list:
         return []
     
     # Create a dictionary to track unique games
@@ -199,7 +213,7 @@ def deduplicate_games(games_list):
             unique_games[key] = game
         else:
             # If duplicate exists, keep the one with higher edge (or first one if edges are equal)
-            existing_edge_str = str(unique_games[key].get('edge', '0')).rstrip('%')
+            existing_edge_str = str(unique_games[key]. get('edge', '0')).rstrip('%')
             new_edge_str = str(game.get('edge', '0')).rstrip('%')
             
             try:
@@ -212,7 +226,7 @@ def deduplicate_games(games_list):
             except (ValueError, TypeError):
                 new_edge = 0.0
             
-            if new_edge > existing_edge:
+            if new_edge > existing_edge: 
                 unique_games[key] = game
     
     return list(unique_games.values())
@@ -225,18 +239,18 @@ def deduplicate_tier_results(tier_results):
     Args:
         tier_results: List of tier dictionaries with 'games', 'wins', 'losses', 'record', 'pct'
     
-    Returns:
+    Returns: 
         Deduplicated tier results with recalculated records
     """
     for tier in tier_results:
-        if 'games' in tier:
+        if 'games' in tier: 
             # Deduplicate the games
             original_count = len(tier['games'])
             tier['games'] = deduplicate_games(tier['games'])
             deduplicated_count = len(tier['games'])
             
             if deduplicated_count < original_count:
-                print(f"  Removed {original_count - deduplicated_count} duplicate(s) from {tier.get('tier', tier.get('range', 'unknown tier'))}")
+                print(f"  Removed {original_count - deduplicated_count} duplicate(s) from {tier. get('tier', tier.get('range', 'unknown tier'))}")
             
             # Recalculate wins, losses, record, and percentage
             wins = sum(1 for game in tier['games'] if game. get('result') == 'Win')
@@ -269,15 +283,15 @@ def generate_game_details_html(games, bet_type='spread'):
     Returns:
         HTML string for game details table
     """
-    if not games: 
-        return '<p>No games in this tier. </p>'
+    if not games:
+        return '<p>No games in this tier.</p>'
     
     # Define headers based on bet type
     if bet_type == 'spread': 
         headers = ['Date', 'Matchup', 'Team', 'Opening Spread', 'Edge', 'Closing Spread', 'Result']
-    elif bet_type == 'total': 
+    elif bet_type == 'total':
         headers = ['Date', 'Matchup', 'Team', 'Opening Total', 'Edge', 'Closing Total', 'Result']
-    elif bet_type == 'moneyline': 
+    elif bet_type == 'moneyline':
         headers = ['Date', 'Matchup', 'Team', 'Opening ML', 'Edge', 'Closing ML', 'Result']
     else:
         headers = ['Date', 'Matchup', 'Team', 'Opening', 'Edge', 'Closing', 'Result']
@@ -347,7 +361,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
     """
     Generate HTML output for weekly report
     
-    Args:
+    Args: 
         analysis_data: Dictionary containing analysis results
         week_start_str: Week start date string
         week_end_str: Week end date string
@@ -360,7 +374,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
     """
     # Format dates for display
     start_date = datetime.strptime(week_start_str, '%Y-%m-%d')
-    end_date = datetime.strptime(week_end_str, '%Y-%m-%d')
+    end_date = datetime. strptime(week_end_str, '%Y-%m-%d')
     date_range = f"{start_date.strftime('%B %d, %Y')} - {end_date.strftime('%B %d, %Y')}"
     
     # Add report type to title
@@ -379,7 +393,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
     section5_overs_count = count_games_in_section(analysis_data['ou_by_edge_consensus']['overs'])
     section5_unders_count = count_games_in_section(analysis_data['ou_by_edge_consensus']['unders'])
     
-    html = f'''<! DOCTYPE html>
+    html = f'''<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -389,10 +403,10 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         * {{
             box-sizing: border-box;
             margin: 0;
-            padding: 0;
+            padding:  0;
         }}
         body {{
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
             line-height: 1.6;
             color: #333;
             background-color: #f5f5f5;
@@ -479,11 +493,11 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         td: last-child, th:last-child {{
             text-align: right;
         }}
-        td:nth-child(2), th:nth-child(2) {{
+        td: nth-child(2), th:nth-child(2) {{
             text-align: center;
         }}
         .subsection {{
-            margin-top: 25px;
+            margin-top:  25px;
         }}
         details {{
             margin-bottom: 2px;
@@ -491,7 +505,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         summary {{
             cursor: pointer;
             padding: 12px 15px;
-            background-color: #f7fafc;
+            background-color:  #f7fafc;
             border-bottom: 1px solid #e2e8f0;
             display: flex;
             justify-content: space-between;
@@ -515,7 +529,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             width: 100%;
         }}
         .summary-content > span: first-child {{
-            flex:  1;
+            flex: 1;
             text-align: left;
         }}
         .summary-content > span:nth-child(2) {{
@@ -528,7 +542,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         }}
         .game-details {{
             padding: 20px;
-            background-color:  #fff;
+            background-color: #fff;
             border-left: 3px solid #2c5282;
             margin:  0;
         }}
@@ -567,7 +581,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             body {{
                 padding: 10px;
             }}
-            . container {{
+            .container {{
                 padding: 15px;
             }}
             h1 {{
@@ -593,7 +607,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             <p class="week-range">Week of {escape_html(date_range)}</p>
             <p class="timestamp">Generated:  {escape_html(timestamp)}</p>
             <p class="timestamp">Total Games: {game_count}</p>
-            <p class="disclaimer">This report shows the model's record against the opening lines for spreads, totals, and moneylines for the specified week. </p>
+            <p class="disclaimer">This report shows the model's record against the opening lines for spreads, totals, and moneylines for the specified week.</p>
         </header>
 
         <section>
@@ -937,7 +951,7 @@ def main():
     
     print(f"=" * 80)
     print(f"Generating Weekly Performance Report ({output_type. upper()})")
-    print(f"Week: {week_start_str} to {week_end_str}")
+    print(f"Week:  {week_start_str} to {week_end_str}")
     print(f"=" * 80)
     print()
     
@@ -956,7 +970,7 @@ def main():
     df_week = filter_by_week(df, week_start_str)
     
     if len(df_week) == 0:
-        print("Warning: No games found for the specified week.  Generating empty report...")
+        print("Warning: No games found for the specified week.   Generating empty report...")
     
     print()
     print("Analyzing data...")
@@ -1023,12 +1037,12 @@ def main():
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(html_output)
     
-    print(f"✓ Report saved to:  {output_file}")
+    print(f"✓ Report saved to:   {output_file}")
     print()
     print("=" * 80)
     print("Weekly report generation complete!")
     print("=" * 80)
 
 
-if __name__ == "__main__": 
+if __name__ == "__main__":
     main()
