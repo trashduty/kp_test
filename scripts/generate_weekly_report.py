@@ -3,7 +3,7 @@
 Generate Weekly Performance Report Script
 
 This script generates a weekly performance report by filtering data from the main 
-model performance analysis for a specific week.   The weekly reports have the same 
+model performance analysis for a specific week.  The weekly reports have the same 
 structure and format as docs/model_performance_analysis.html but only include 
 games from the specified week.  
 
@@ -11,16 +11,16 @@ Usage:
     python scripts/generate_weekly_report.py --week-start 2025-12-29
     python scripts/generate_weekly_report.py --week-start 2025-12-29 --output previous
 
-The script:    
+The script:     
 1. Takes a week start date as input (e.g., "2025-12-29")
 2. Reads data from graded_results.csv (from GitHub or local)
 3. Filters games to only include those in the specified 7-day week
-4. Generates an HTML report with the same structure as model_performance_analysis.html
-5. Outputs to docs/weekly/current_week.html or docs/weekly/previous_week. html
+4. Generates both CSV and HTML reports
+5. Outputs to docs/weekly/current_week.csv/html or docs/weekly/previous_week.csv/html
 
-Two files are maintained:
-- current_week.html: The week currently in progress
-- previous_week.html: The week that just ended (for review)
+Two sets of files are maintained:
+- current_week.csv/html: The week currently in progress
+- previous_week.csv/html: The week that just ended (for review)
 """
 
 import os
@@ -53,13 +53,15 @@ from analyze_model_performance import (
 
 # Output directory
 WEEKLY_DIR = os.path.join(parent_dir, "docs", "weekly")
-CURRENT_WEEK_FILE = os.path.join(WEEKLY_DIR, "current_week.html")
-PREVIOUS_WEEK_FILE = os.path. join(WEEKLY_DIR, "previous_week.html")
+CURRENT_WEEK_HTML = os.path.join(WEEKLY_DIR, "current_week.html")
+CURRENT_WEEK_CSV = os.path.join(WEEKLY_DIR, "current_week.csv")
+PREVIOUS_WEEK_HTML = os.path.join(WEEKLY_DIR, "previous_week.html")
+PREVIOUS_WEEK_CSV = os.path.join(WEEKLY_DIR, "previous_week.csv")
 
 
 def parse_arguments():
     """Parse command line arguments"""
-    parser = argparse. ArgumentParser(
+    parser = argparse.ArgumentParser(
         description='Generate weekly performance report for a specific week'
     )
     parser.add_argument(
@@ -73,7 +75,7 @@ def parse_arguments():
         type=str,
         choices=['current', 'previous'],
         default='current',
-        help='Output file: "current" for current_week.html or "previous" for previous_week. html (default: current)'
+        help='Output file: "current" for current_week or "previous" for previous_week (default: current)'
     )
     parser.add_argument(
         '--archive-current',
@@ -88,28 +90,42 @@ def parse_date(date_str):
     try:
         return datetime.strptime(date_str, '%Y-%m-%d')
     except ValueError as e:
-        print(f"Error:  Invalid date format '{date_str}'. Please use YYYY-MM-DD format.")
+        print(f"Error: Invalid date format '{date_str}'. Please use YYYY-MM-DD format.")
         sys.exit(1)
 
 
 def archive_current_week():
     """
-    Copy current_week.html to previous_week.html
+    Copy current_week files to previous_week files
     
     Returns:
-        True if successful or if current_week.html doesn't exist, False otherwise
+        True if successful or if current_week files don't exist, False otherwise
     """
-    if os.path.exists(CURRENT_WEEK_FILE):
+    success = True
+    
+    # Archive HTML
+    if os.path.exists(CURRENT_WEEK_HTML):
         try:
-            shutil.copy2(CURRENT_WEEK_FILE, PREVIOUS_WEEK_FILE)
-            print(f"✓ Archived current week to:  {PREVIOUS_WEEK_FILE}")
-            return True
-        except Exception as e:
-            print(f"Error:  Failed to archive current week: {e}")
-            return False
+            shutil.copy2(CURRENT_WEEK_HTML, PREVIOUS_WEEK_HTML)
+            print(f"✓ Archived current week HTML to: {PREVIOUS_WEEK_HTML}")
+        except Exception as e: 
+            print(f"Error: Failed to archive current week HTML: {e}")
+            success = False
     else:
-        print("Note: No current week file to archive")
-        return True
+        print("Note: No current week HTML to archive")
+    
+    # Archive CSV
+    if os.path.exists(CURRENT_WEEK_CSV):
+        try:
+            shutil.copy2(CURRENT_WEEK_CSV, PREVIOUS_WEEK_CSV)
+            print(f"✓ Archived current week CSV to: {PREVIOUS_WEEK_CSV}")
+        except Exception as e:
+            print(f"Error: Failed to archive current week CSV: {e}")
+            success = False
+    else:
+        print("Note: No current week CSV to archive")
+    
+    return success
 
 
 def filter_by_week(df, week_start_str):
@@ -125,7 +141,7 @@ def filter_by_week(df, week_start_str):
     
     Note:  
         Creates a 7-day inclusive date range from start_date (inclusive) to 
-        start_date + 6 days (inclusive), covering exactly 7 days. 
+        start_date + 6 days (inclusive), covering exactly 7 days.
         Converts UTC timestamps to Eastern Time before filtering.
     """
     # Parse the week start date
@@ -133,18 +149,18 @@ def filter_by_week(df, week_start_str):
     # Week end is 6 days after start, making it an inclusive 7-day range
     week_end = week_start + timedelta(days=6)
     
-    print(f"Filtering games from {week_start. strftime('%Y-%m-%d')} to {week_end.strftime('%Y-%m-%d')} (7 days, inclusive)")
+    print(f"Filtering games from {week_start.strftime('%Y-%m-%d')} to {week_end.strftime('%Y-%m-%d')} (7 days, inclusive)")
     
     # Check if date column exists
     date_columns = ['date', 'game_date', 'Date', 'GameDate']
     date_col = None
     
     for col in date_columns: 
-        if col in df. columns:
+        if col in df.columns:
             date_col = col
             break
     
-    if date_col is None: 
+    if date_col is None:
         print("Error: No date column found in the data")
         sys.exit(1)
     
@@ -161,18 +177,18 @@ def filter_by_week(df, week_start_str):
     # Create a temporary column for filtering with Eastern timezone
     # This converts UTC to Eastern Time for proper date comparison
     temp_date_col = df_filtered[date_col].apply(
-        lambda x: x. tz_localize(utc).astimezone(eastern).normalize() if pd.notna(x) and x.tzinfo is None 
+        lambda x: x.tz_localize(utc).astimezone(eastern).normalize() if pd.notna(x) and x.tzinfo is None 
         else (x.astimezone(eastern).normalize() if pd.notna(x) and x.tzinfo is not None else x)
     )
     
     # Normalize week boundaries to start of day for consistent comparison
     # Localize week boundaries to Eastern timezone
-    week_start_normalized = pd. Timestamp(week_start).tz_localize(eastern).normalize()
+    week_start_normalized = pd.Timestamp(week_start).tz_localize(eastern).normalize()
     week_end_normalized = pd.Timestamp(week_end).tz_localize(eastern).normalize()
     
     # Filter by date range (inclusive on both ends for exactly 7 days)
     mask = (temp_date_col >= week_start_normalized) & (temp_date_col <= week_end_normalized)
-    df_week = df_filtered[mask]. copy()
+    df_week = df_filtered[mask].copy()
     
     # Convert the date column to Eastern time and format as string for display
     # This ensures the dates shown in reports are in Eastern time
@@ -184,7 +200,7 @@ def filter_by_week(df, week_start_str):
     print(f"Found {len(df_week)} rows for the specified week (out of {len(df)} total)")
     
     if len(df_week) == 0:
-        print("Warning:  No games found for the specified week")
+        print("Warning: No games found for the specified week")
     else:
         # Show sample of dates found
         sample_dates = df_week[date_col].unique()[:5]
@@ -193,12 +209,31 @@ def filter_by_week(df, week_start_str):
     return df_week
 
 
+def save_weekly_csv(df, output_file):
+    """
+    Save filtered weekly data to CSV file
+    
+    Args:
+        df: pandas DataFrame with weekly game data
+        output_file: Path to save CSV file
+    """
+    print(f"Saving weekly data to CSV: {output_file}")
+    
+    # Ensure output directory exists
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    
+    # Save to CSV
+    df.to_csv(output_file, index=False)
+    
+    print(f"✓ CSV saved with {len(df)} rows")
+
+
 def deduplicate_games(games_list):
     """
     Remove duplicate games from a list of game dictionaries. 
     
-    Duplicates are identified by matching date, matchup, team, and opening line.  
-    When duplicates are found, keep the one with the higher edge value.  
+    Duplicates are identified by matching date, matchup, team, and opening line.
+    When duplicates are found, keep the one with the higher edge value.
     
     Args:
         games_list: List of game dictionaries
@@ -212,10 +247,10 @@ def deduplicate_games(games_list):
     # Create a dictionary to track unique games
     unique_games = {}
     
-    for game in games_list: 
+    for game in games_list:
         # Create a unique key for each game
         key = (
-            game. get('date', ''),
+            game.get('date', ''),
             game.get('matchup', ''),
             game.get('team', ''),
             game.get('opening_spread') or game.get('opening_total') or game.get('opening_moneyline', '')
@@ -224,7 +259,7 @@ def deduplicate_games(games_list):
         # If this is a new game, add it
         if key not in unique_games:
             unique_games[key] = game
-        else: 
+        else:
             # If duplicate exists, keep the one with higher edge (or first one if edges are equal)
             existing_edge_str = str(unique_games[key].get('edge', '0')).rstrip('%')
             new_edge_str = str(game.get('edge', '0')).rstrip('%')
@@ -263,10 +298,10 @@ def deduplicate_tier_results(tier_results):
             deduplicated_count = len(tier['games'])
             
             if deduplicated_count < original_count:
-                print(f"  Removed {original_count - deduplicated_count} duplicate(s) from {tier. get('tier', tier.get('range', 'unknown tier'))}")
+                print(f"  Removed {original_count - deduplicated_count} duplicate(s) from {tier.get('tier', tier.get('range', 'unknown tier'))}")
             
             # Recalculate wins, losses, record, and percentage
-            wins = sum(1 for game in tier['games'] if game. get('result') == 'Win')
+            wins = sum(1 for game in tier['games'] if game.get('result') == 'Win')
             losses = sum(1 for game in tier['games'] if game.get('result') == 'Loss')
             total = wins + losses
             
@@ -282,7 +317,7 @@ def escape_html(text):
     """Escape HTML special characters"""
     if text is None or (isinstance(text, float) and pd.isna(text)):
         return "N/A"
-    return html. escape(str(text))
+    return html.escape(str(text))
 
 
 def generate_game_details_html(games, bet_type='spread'):
@@ -297,7 +332,7 @@ def generate_game_details_html(games, bet_type='spread'):
         HTML string for game details table
     """
     if not games:
-        return '<p>No games in this tier. </p>'
+        return '<p>No games in this tier.</p>'
     
     # Define headers based on bet type
     if bet_type == 'spread': 
@@ -315,11 +350,11 @@ def generate_game_details_html(games, bet_type='spread'):
     html_str += '</tr></thead><tbody>'
     
     for game in games:
-        result_color = RESULT_WIN_COLOR if game. get('result') == 'Win' else RESULT_LOSS_COLOR
+        result_color = RESULT_WIN_COLOR if game.get('result') == 'Win' else RESULT_LOSS_COLOR
         html_str += '<tr>'
         html_str += f"<td>{escape_html(game.get('date', 'N/A'))}</td>"
         html_str += f"<td>{escape_html(game.get('matchup', 'N/A'))}</td>"
-        html_str += f"<td>{escape_html(game. get('team', 'N/A'))}</td>"
+        html_str += f"<td>{escape_html(game.get('team', 'N/A'))}</td>"
         
         # Use bet-type-specific column names
         if bet_type == 'spread':
@@ -329,7 +364,7 @@ def generate_game_details_html(games, bet_type='spread'):
         elif bet_type == 'total':
             html_str += f"<td>{escape_html(game.get('opening_total', 'N/A'))}</td>"
             html_str += f"<td>{escape_html(game.get('edge', 'N/A'))}</td>"
-            html_str += f"<td>{escape_html(game. get('closing_total', 'N/A'))}</td>"
+            html_str += f"<td>{escape_html(game.get('closing_total', 'N/A'))}</td>"
         elif bet_type == 'moneyline':
             html_str += f"<td>{escape_html(game.get('opening_moneyline', 'N/A'))}</td>"
             html_str += f"<td>{escape_html(game.get('edge', 'N/A'))}</td>"
@@ -354,12 +389,12 @@ def count_games_in_section(section_data):
     Args:
         section_data: Either a list of tier results or a dict with 'favorites'/'underdogs' or 'overs'/'unders'
     
-    Returns:
+    Returns: 
         Total number of games
     """
     if isinstance(section_data, list):
         # For simple lists like spread_by_edge_all
-        return sum(len(tier. get('games', [])) for tier in section_data)
+        return sum(len(tier.get('games', [])) for tier in section_data)
     elif isinstance(section_data, dict):
         # For dicts like spread_by_point_spread or ou_by_edge_all
         total = 0
@@ -406,7 +441,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
     section5_overs_count = count_games_in_section(analysis_data['ou_by_edge_consensus']['overs'])
     section5_unders_count = count_games_in_section(analysis_data['ou_by_edge_consensus']['unders'])
     
-    html = f'''<! DOCTYPE html>
+    html = f'''<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -428,10 +463,10 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         .container {{
             max-width: 1200px;
             margin: 0 auto;
-            background-color:  #fff;
+            background-color: #fff;
             padding: 30px;
-            border-radius:  8px;
-            box-shadow:  0 2px 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }}
         header {{
             text-align: center;
@@ -444,19 +479,19 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             font-size: 2rem;
             margin-bottom: 10px;
         }}
-        . report-type {{
+        .report-type {{
             color: #4a5568;
             font-size: 1.1rem;
             font-weight: 600;
             margin-top: 5px;
         }}
-        . week-range {{
+        .week-range {{
             color: #4a5568;
             font-size: 1.2rem;
-            font-weight:  600;
+            font-weight: 600;
             margin-top: 10px;
         }}
-        . timestamp {{
+        .timestamp {{
             color: #666;
             font-size: 0.9rem;
             margin-top: 5px;
@@ -464,7 +499,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         .disclaimer {{
             font-size: 0.9rem;
             color: #718096;
-            margin-top:  10px;
+            margin-top: 10px;
             font-style: italic;
         }}
         section {{
@@ -473,14 +508,14 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         h2 {{
             color: #2c5282;
             font-size: 1.3rem;
-            margin-bottom:  15px;
+            margin-bottom: 15px;
             padding-bottom: 10px;
             border-bottom: 2px solid #e2e8f0;
         }}
         h3 {{
             color: #4a5568;
             font-size: 1.1rem;
-            margin:  20px 0 10px 0;
+            margin: 20px 0 10px 0;
         }}
         table {{
             width: 100%;
@@ -494,8 +529,8 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         }}
         th {{
             background-color: #2c5282;
-            color:  white;
-            font-weight:  600;
+            color: white;
+            font-weight: 600;
         }}
         tr:nth-child(even) {{
             background-color: #f7fafc;
@@ -503,14 +538,14 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
         tr:hover {{
             background-color: #edf2f7;
         }}
-        td: last-child, th:last-child {{
+        td:last-child, th:last-child {{
             text-align: right;
         }}
-        td: nth-child(2), th:nth-child(2) {{
+        td:nth-child(2), th:nth-child(2) {{
             text-align: center;
         }}
         .subsection {{
-            margin-top:  25px;
+            margin-top: 25px;
         }}
         details {{
             margin-bottom: 2px;
@@ -525,14 +560,14 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             align-items: center;
             transition: background-color 0.2s ease;
         }}
-        summary: hover {{
-            background-color:  #edf2f7;
+        summary:hover {{
+            background-color: #edf2f7;
         }}
-        summary:: marker {{
+        summary::marker {{
             content: '▶ ';
             font-size: 0.8em;
         }}
-        details[open] summary:: marker {{
+        details[open] summary::marker {{
             content: '▼ ';
         }}
         .summary-content {{
@@ -541,7 +576,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             align-items: center;
             width: 100%;
         }}
-        .summary-content > span: first-child {{
+        .summary-content > span:first-child {{
             flex: 1;
             text-align: left;
         }}
@@ -550,25 +585,25 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             text-align: center;
         }}
         .summary-content > span:last-child {{
-            flex:  1;
+            flex: 1;
             text-align: right;
         }}
         .game-details {{
             padding: 20px;
             background-color: #fff;
             border-left: 3px solid #2c5282;
-            margin:  0;
+            margin: 0;
         }}
         .game-details-table {{
-            width:  100%;
+            width: 100%;
             border-collapse: collapse;
             margin-top: 10px;
             font-size: 0.9rem;
         }}
-        . game-details-table th {{
+        .game-details-table th {{
             background-color: #4a5568;
-            color:  white;
-            font-weight:  600;
+            color: white;
+            font-weight: 600;
             padding: 8px 12px;
             text-align: left;
         }}
@@ -577,15 +612,15 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             border-bottom: 1px solid #e2e8f0;
         }}
         .game-details-table tr:nth-child(even) {{
-            background-color:  #f9fafb;
+            background-color: #f9fafb;
         }}
         .game-details-table tr:hover {{
-            background-color:  #edf2f7;
+            background-color: #edf2f7;
         }}
         footer {{
             text-align: center;
             margin-top: 40px;
-            padding-top:  20px;
+            padding-top: 20px;
             border-top: 2px solid #e2e8f0;
             color: #666;
             font-size: 0.9rem;
@@ -607,7 +642,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                 font-size: 0.9rem;
             }}
             th, td {{
-                padding:  8px 10px;
+                padding: 8px 10px;
             }}
         }}
     </style>
@@ -618,7 +653,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             <h1>Weekly Model Performance Report</h1>
             <p class="report-type">{report_type_display}</p>
             <p class="week-range">Week of {escape_html(date_range)}</p>
-            <p class="timestamp">Generated:  {escape_html(timestamp)}</p>
+            <p class="timestamp">Generated: {escape_html(timestamp)}</p>
             <p class="timestamp">Total Games: {game_count}</p>
             <p class="disclaimer">This report shows the model's record against the opening lines for spreads, totals, and moneylines for the specified week.</p>
         </header>
@@ -637,7 +672,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
 '''
     
     for row in analysis_data['spread_by_edge_all']:
-        games_html = generate_game_details_html(row. get('games', []), bet_type='spread')
+        games_html = generate_game_details_html(row.get('games', []), bet_type='spread')
         html += f'''                    <tr>
                         <td colspan="3" style="padding: 0;">
                             <details>
@@ -829,7 +864,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
     for row in analysis_data['ou_by_edge_all']['unders']:
         games_html = generate_game_details_html(row.get('games', []), bet_type='total')
         html += f'''                        <tr>
-                            <td colspan="3" style="padding:  0;">
+                            <td colspan="3" style="padding: 0;">
                                 <details>
                                     <summary>
                                         <div class="summary-content">
@@ -951,20 +986,22 @@ def main():
     week_end = week_start + timedelta(days=6)
     week_end_str = week_end.strftime('%Y-%m-%d')
     
-    # Determine output file
+    # Determine output files
     if output_type == 'previous':
-        output_file = PREVIOUS_WEEK_FILE
+        output_html = PREVIOUS_WEEK_HTML
+        output_csv = PREVIOUS_WEEK_CSV
     else:
-        output_file = CURRENT_WEEK_FILE
+        output_html = CURRENT_WEEK_HTML
+        output_csv = CURRENT_WEEK_CSV
         # If generating current week and --archive-current flag is set, archive first
-        if args.archive_current:
+        if args.archive_current: 
             print("Archiving current week to previous week...")
             archive_current_week()
             print()
     
     print(f"=" * 80)
     print(f"Generating Weekly Performance Report ({output_type.upper()})")
-    print(f"Week:  {week_start_str} to {week_end_str}")
+    print(f"Week: {week_start_str} to {week_end_str}")
     print(f"=" * 80)
     print()
     
@@ -983,7 +1020,11 @@ def main():
     df_week = filter_by_week(df, week_start_str)
     
     if len(df_week) == 0:
-        print("Warning: No games found for the specified week.  Generating empty report...")
+        print("Warning: No games found for the specified week. Generating empty report...")
+    
+    # Save filtered data to CSV
+    print()
+    save_weekly_csv(df_week, output_csv)
     
     print()
     print("Analyzing data...")
@@ -1046,16 +1087,18 @@ def main():
     # Ensure output directory exists
     os.makedirs(WEEKLY_DIR, exist_ok=True)
     
-    # Save to file
-    with open(output_file, 'w', encoding='utf-8') as f:
+    # Save HTML to file
+    with open(output_html, 'w', encoding='utf-8') as f:
         f.write(html_output)
     
-    print(f"✓ Report saved to:  {output_file}")
+    print(f"✓ HTML report saved to: {output_html}")
     print()
     print("=" * 80)
     print("Weekly report generation complete!")
+    print(f"CSV: {output_csv}")
+    print(f"HTML: {output_html}")
     print("=" * 80)
 
 
-if __name__ == "__main__": 
+if __name__ == "__main__":
     main()
