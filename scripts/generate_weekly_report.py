@@ -64,6 +64,11 @@ def parse_arguments():
         default='both',
         help='Output file to generate (default: both)'
     )
+    parser.add_argument(
+        '--archive-current',
+        action='store_true',
+        help='Archive current week report to previous week (used by workflow)'
+    )
     return parser.parse_args()
 
 
@@ -182,10 +187,534 @@ def count_games_in_section(data):
 
 def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp, game_count, report_type='current'):
     """Build the full HTML report string"""
-    # [Styling and boilerplate omitted for brevity, keeping same as original template]
-    # (The implementation here would use the logic from your provided script to render the tables)
-    # ... (Refer to your original file for the full HTML template logic)
-    pass # In actual code, include the full generate_weekly_html logic here
+    # Use escape function for escaping strings
+    from html import escape
+    
+    # Format dates nicely for display
+    week_start_date = parse_date(week_start_str)
+    week_end_date = parse_date(week_end_str)
+    week_range_display = f"{week_start_date.strftime('%B %d, %Y')} - {week_end_date.strftime('%B %d, %Y')}"
+    
+    report_title = "Current Week" if report_type == 'current' else "Previous Week"
+    
+    # Count games in each section
+    section1_count = count_games_in_section(analysis_data['spread_by_edge_all'])
+    section2_count = count_games_in_section(analysis_data['spread_by_edge_consensus'])
+    section3_count = count_games_in_section(analysis_data['spread_by_point_spread'])
+    section4_count = count_games_in_section(analysis_data['ou_by_edge_all'])
+    section5_count = count_games_in_section(analysis_data['ou_by_edge_consensus'])
+    
+    html_output = f'''<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{report_title} Model Performance - {week_start_str} to {week_end_str}</title>
+    <style>
+        * {{
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }}
+        body {{
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+            padding: 20px;
+        }}
+        .container {{
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }}
+        header {{
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 3px solid #2c5282;
+        }}
+        h1 {{
+            color: #2c5282;
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }}
+        .report-type {{
+            color: #4a5568;
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-top: 5px;
+        }}
+        .week-range {{
+            color: #4a5568;
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-top: 10px;
+        }}
+        .timestamp {{
+            color: #666;
+            font-size: 0.9rem;
+            margin-top: 5px;
+        }}
+        .disclaimer {{
+            font-size: 0.9rem;
+            color: #718096;
+            margin-top: 10px;
+            font-style: italic;
+        }}
+        section {{
+            margin-bottom: 40px;
+        }}
+        h2 {{
+            color: #2c5282;
+            font-size: 1.3rem;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #e2e8f0;
+        }}
+        h3 {{
+            color: #4a5568;
+            font-size: 1.1rem;
+            margin: 20px 0 10px 0;
+        }}
+        table {{
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }}
+        th, td {{
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #e2e8f0;
+        }}
+        th {{
+            background-color: #2c5282;
+            color: white;
+            font-weight: 600;
+        }}
+        tr:nth-child(even) {{
+            background-color: #f7fafc;
+        }}
+        tr:hover {{
+            background-color: #edf2f7;
+        }}
+        td:last-child, th:last-child {{
+            text-align: right;
+        }}
+        td:nth-child(2), th:nth-child(2) {{
+            text-align: center;
+        }}
+        .subsection {{
+            margin-top: 25px;
+        }}
+        details {{
+            margin-bottom: 2px;
+        }}
+        summary {{
+            cursor: pointer;
+            padding: 12px 15px;
+            background-color: #f7fafc;
+            border-bottom: 1px solid #e2e8f0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: background-color 0.2s ease;
+        }}
+        summary:hover {{
+            background-color: #edf2f7;
+        }}
+        summary::marker {{
+            content: '▶ ';
+            font-size: 0.8em;
+        }}
+        details[open] summary::marker {{
+            content: '▼ ';
+        }}
+        .summary-content {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+        }}
+        .summary-content > span:first-child {{
+            flex: 1;
+            text-align: left;
+        }}
+        .summary-content > span:nth-child(2) {{
+            flex: 1;
+            text-align: center;
+        }}
+        .summary-content > span:last-child {{
+            flex: 1;
+            text-align: right;
+        }}
+        .game-details {{
+            padding: 20px;
+            background-color: #fff;
+            border-left: 3px solid #2c5282;
+            margin: 0;
+        }}
+        .game-details-table {{
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            font-size: 0.9rem;
+        }}
+        .game-details-table th {{
+            background-color: #4a5568;
+            color: white;
+            font-weight: 600;
+            padding: 8px 12px;
+            text-align: left;
+        }}
+        .game-details-table td {{
+            padding: 8px 12px;
+            border-bottom: 1px solid #e2e8f0;
+        }}
+        .game-details-table tr:nth-child(even) {{
+            background-color: #f9fafb;
+        }}
+        .game-details-table tr:hover {{
+            background-color: #edf2f7;
+        }}
+        footer {{
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 2px solid #e2e8f0;
+            color: #666;
+            font-size: 0.9rem;
+        }}
+        @media (max-width: 768px) {{
+            body {{
+                padding: 10px;
+            }}
+            .container {{
+                padding: 15px;
+            }}
+            h1 {{
+                font-size: 1.5rem;
+            }}
+            h2 {{
+                font-size: 1.1rem;
+            }}
+            table {{
+                font-size: 0.9rem;
+            }}
+            th, td {{
+                padding: 8px 10px;
+            }}
+        }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Weekly Model Performance Report</h1>
+            <p class="report-type">{report_title}</p>
+            <p class="week-range">Week of {week_range_display}</p>
+            <p class="timestamp">Generated: {escape(timestamp)}</p>
+            <p class="timestamp">Total Games: {game_count}</p>
+            <p class="disclaimer">This report shows the model's record against the opening lines for spreads, totals, and moneylines for the specified week.</p>
+        </header>
+
+        <section>
+            <h2>1. Model Spread Performance by Edge (All Games) ({section1_count} games)</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Edge Tier</th>
+                        <th>Record</th>
+                        <th>Win %</th>
+                    </tr>
+                </thead>
+                <tbody>
+'''
+    for row in analysis_data['spread_by_edge_all']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='spread')
+        html_output += f'''                    <tr>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>{escape(row['tier'])}</span>
+                                        <span>{escape(row['record'])}</span>
+                                        <span>{escape(row['pct'])}</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    {games_html}
+                                </div>
+                            </details>
+                        </td>
+                    </tr>
+'''
+    html_output += '''                </tbody>
+            </table>
+        </section>
+
+        <section>
+            <h2>2. Model Spread Performance by Edge (Consensus Only) ({} games)</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Edge Tier</th>
+                        <th>Record</th>
+                        <th>Win %</th>
+                    </tr>
+                </thead>
+                <tbody>
+'''.format(section2_count)
+    for row in analysis_data['spread_by_edge_consensus']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='spread')
+        html_output += f'''                    <tr>
+                        <td colspan="3" style="padding: 0;">
+                            <details>
+                                <summary>
+                                    <div class="summary-content">
+                                        <span>{escape(row['tier'])}</span>
+                                        <span>{escape(row['record'])}</span>
+                                        <span>{escape(row['pct'])}</span>
+                                    </div>
+                                </summary>
+                                <div class="game-details">
+                                    {games_html}
+                                </div>
+                            </details>
+                        </td>
+                    </tr>
+'''
+    html_output += '''                </tbody>
+            </table>
+        </section>
+
+        <section>
+            <h2>3. Model Spread Performance by Point Spread Ranges ({} games)</h2>
+            <div class="subsection">
+                <h3>Favorites (opening_spread &lt; 0)</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Point Spread Range</th>
+                            <th>Record</th>
+                            <th>Win %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+'''.format(section3_count)
+    for row in analysis_data['spread_by_point_spread']['favorites']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='spread')
+        html_output += f'''                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>{escape(row['range'])}</span>
+                                            <span>{escape(row['record'])}</span>
+                                            <span>{escape(row['pct'])}</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        {games_html}
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+'''
+    html_output += '''                    </tbody>
+                </table>
+            </div>
+            <div class="subsection">
+                <h3>Underdogs (opening_spread &gt; 0)</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Point Spread Range</th>
+                            <th>Record</th>
+                            <th>Win %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+'''
+    for row in analysis_data['spread_by_point_spread']['underdogs']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='spread')
+        html_output += f'''                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>{escape(row['range'])}</span>
+                                            <span>{escape(row['record'])}</span>
+                                            <span>{escape(row['pct'])}</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        {games_html}
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+'''
+    html_output += '''                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <section>
+            <h2>4. Model Over/Under Performance by Edge (All Games) ({} games)</h2>
+            <div class="subsection">
+                <h3>Overs Performance</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Edge Tier</th>
+                            <th>Record</th>
+                            <th>Win %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+'''.format(section4_count)
+    for row in analysis_data['ou_by_edge_all']['overs']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='total')
+        html_output += f'''                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>{escape(row['tier'])}</span>
+                                            <span>{escape(row['record'])}</span>
+                                            <span>{escape(row['pct'])}</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        {games_html}
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+'''
+    html_output += '''                    </tbody>
+                </table>
+            </div>
+            <div class="subsection">
+                <h3>Unders Performance</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Edge Tier</th>
+                            <th>Record</th>
+                            <th>Win %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+'''
+    for row in analysis_data['ou_by_edge_all']['unders']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='total')
+        html_output += f'''                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>{escape(row['tier'])}</span>
+                                            <span>{escape(row['record'])}</span>
+                                            <span>{escape(row['pct'])}</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        {games_html}
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+'''
+    html_output += '''                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <section>
+            <h2>5. Model Over/Under Performance by Edge (Consensus Only) ({} games)</h2>
+            <div class="subsection">
+                <h3>Overs Performance</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Edge Tier</th>
+                            <th>Record</th>
+                            <th>Win %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+'''.format(section5_count)
+    for row in analysis_data['ou_by_edge_consensus']['overs']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='total')
+        html_output += f'''                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>{escape(row['tier'])}</span>
+                                            <span>{escape(row['record'])}</span>
+                                            <span>{escape(row['pct'])}</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        {games_html}
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+'''
+    html_output += '''                    </tbody>
+                </table>
+            </div>
+            <div class="subsection">
+                <h3>Unders Performance</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Edge Tier</th>
+                            <th>Record</th>
+                            <th>Win %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+'''
+    for row in analysis_data['ou_by_edge_consensus']['unders']:
+        games_html = generate_game_details_html(row.get('games', []), bet_type='total')
+        html_output += f'''                        <tr>
+                            <td colspan="3" style="padding: 0;">
+                                <details>
+                                    <summary>
+                                        <div class="summary-content">
+                                            <span>{escape(row['tier'])}</span>
+                                            <span>{escape(row['record'])}</span>
+                                            <span>{escape(row['pct'])}</span>
+                                        </div>
+                                    </summary>
+                                    <div class="game-details">
+                                        {games_html}
+                                    </div>
+                                </details>
+                            </td>
+                        </tr>
+'''
+    html_output += '''                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <footer>
+            <p>Weekly report generated automatically by GitHub Actions</p>
+        </footer>
+    </div>
+</body>
+</html>
+'''
+    return html_output
 
 
 def process_week(df, week_start_str, output_type):
@@ -221,9 +750,8 @@ def process_week(df, week_start_str, output_type):
     }
     
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
-    # Using the existing HTML generation logic
-    from scripts.generate_weekly_report import generate_weekly_html as gen_html
-    html_content = gen_html(analysis, week_start_str, week_end_str, timestamp, len(df_week), output_type)
+    # Generate HTML using the function defined in this file
+    html_content = generate_weekly_html(analysis, week_start_str, week_end_str, timestamp, len(df_week), output_type)
     
     with open(html_path, 'w', encoding='utf-8') as f:
         f.write(html_content)
