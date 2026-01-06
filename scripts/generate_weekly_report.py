@@ -149,6 +149,12 @@ def generate_game_details_html(games, bet_type='spread'):
     """Generate HTML table for individual game results"""
     if not games: return '<p>No games in this tier.</p>'
     
+    def format_value(val):
+        """Format a value for display, replacing NaN/None with N/A"""
+        if val is None or val == '' or (isinstance(val, float) and (val != val or str(val).lower() == 'nan')):
+            return 'N/A'
+        return str(val)
+    
     mapping = {
         'spread': ('Opening Spread', 'opening_spread', 'closing_spread'),
         'total': ('Opening Total', 'opening_total', 'closing_total'),
@@ -165,12 +171,12 @@ def generate_game_details_html(games, bet_type='spread'):
         res = g.get('result', 'N/A')
         color = RESULT_WIN_COLOR if res == 'Win' else RESULT_LOSS_COLOR
         html_str += f"""<tr>
-            <td>{html.escape(str(g.get('date', 'N/A')))}</td>
-            <td>{html.escape(str(g.get('matchup', 'N/A')))}</td>
-            <td>{html.escape(str(g.get('team', 'N/A')))}</td>
-            <td>{html.escape(str(g.get(op_col, 'N/A')))}</td>
-            <td>{html.escape(str(g.get('edge', 'N/A')))}</td>
-            <td>{html.escape(str(g.get(cl_col, 'N/A')))}</td>
+            <td>{html.escape(format_value(g.get('date')))}</td>
+            <td>{html.escape(format_value(g.get('matchup')))}</td>
+            <td>{html.escape(format_value(g.get('team')))}</td>
+            <td>{html.escape(format_value(g.get(op_col)))}</td>
+            <td>{html.escape(format_value(g.get('edge')))}</td>
+            <td>{html.escape(format_value(g.get(cl_col)))}</td>
             <td style="color: {color}; font-weight: {RESULT_FONT_WEIGHT};">{res}</td>
         </tr>"""
     return html_str + '</tbody></table>'
@@ -750,7 +756,6 @@ def process_week(df, week_start_str, output_type):
     }
     
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
-    # Generate HTML using the function defined in this file
     html_content = generate_weekly_html(analysis, week_start_str, week_end_str, timestamp, len(df_week), output_type)
     
     with open(html_path, 'w', encoding='utf-8') as f:
