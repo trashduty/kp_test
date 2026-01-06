@@ -854,5 +854,45 @@
   "Colorado St Rams vs. New Mexico Lobos|Colorado St Rams|moneyline": {
     "captured_at": "2026-01-05T23:35:04.789381+00:00",
     "edge_type": "moneyline"
+  },
+  "Fordham Rams vs. George Mason Patriots|Fordham Rams|spread": {
+    "captured_at": "2026-01-06T20:08:01.949020+00:00",
+    "edge_type": "spread"
+  },
+  "St. Bonaventure Bonnies vs. Richmond Spiders|Richmond Spiders|spread": {
+    "captured_at": "2026-01-06T20:08:01.949290+00:00",
+    "edge_type": "spread"
+  },
+  "Jacksonville St Gamecocks vs. Florida Int'l Golden Panthers|Florida Int'l Golden Panthers|spread": {
+    "captured_at": "2026-01-06T20:08:01.950222+00:00",
+    "edge_type": "spread"
+  },
+  "Temple Owls vs. East Carolina Pirates|Temple Owls|spread": {
+    "captured_at": "2026-01-06T20:08:01.950427+00:00",
+    "edge_type": "spread"
+  },
+  "Mercer Bears vs. The Citadel Bulldogs|Mercer Bears|spread": {
+    "captured_at": "2026-01-06T20:08:01.950938+00:00",
+    "edge_type": "spread"
+  },
+  "Youngstown St Penguins vs. Fort Wayne Mastodons|Youngstown St Penguins|spread": {
+    "captured_at": "2026-01-06T20:08:01.953397+00:00",
+    "edge_type": "spread"
+  },
+  "Evansville Purple Aces vs. Murray St Racers|Murray St Racers|spread": {
+    "captured_at": "2026-01-06T20:08:01.954701+00:00",
+    "edge_type": "spread"
+  },
+  "St. Thomas (MN) Tommies vs. South Dakota Coyotes|St. Thomas (MN) Tommies|spread": {
+    "captured_at": "2026-01-06T20:08:01.957160+00:00",
+    "edge_type": "spread"
+  },
+  "Clemson Tigers vs. SMU Mustangs|SMU Mustangs|spread": {
+    "captured_at": "2026-01-06T20:08:01.957961+00:00",
+    "edge_type": "spread"
+  },
+  "Loyola (Chi) Ramblers vs. Davidson Wildcats|Davidson Wildcats|spread": {
+    "captured_at": "2026-01-06T20:08:01.958525+00:00",
+    "edge_type": "spread"
   }
 }
