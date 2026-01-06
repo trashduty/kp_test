@@ -14,7 +14,6 @@ import os
 import sys
 import argparse
 import html
-from html import escape
 import shutil
 import pandas as pd
 import numpy as np
@@ -155,7 +154,10 @@ def generate_game_details_html(games, bet_type='spread'):
         if val is None or val == '':
             return 'N/A'
         # Check for pandas/numpy NaN values
-        if pd.isna(val) or str(val).lower() == 'nan':
+        if pd.isna(val):
+            return 'N/A'
+        # Check for string 'nan' (case-insensitive)
+        if isinstance(val, str) and val.lower() == 'nan':
             return 'N/A'
         return str(val)
     
@@ -423,7 +425,7 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
             <h1>Weekly Model Performance Report</h1>
             <p class="report-type">{report_title}</p>
             <p class="week-range">Week of {week_range_display}</p>
-            <p class="timestamp">Generated: {escape(timestamp)}</p>
+            <p class="timestamp">Generated: {html.escape(timestamp)}</p>
             <p class="timestamp">Total Games: {game_count}</p>
             <p class="disclaimer">This report shows the model's record against the opening lines for spreads, totals, and moneylines for the specified week.</p>
         </header>
@@ -447,9 +449,9 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                             <details>
                                 <summary>
                                     <div class="summary-content">
-                                        <span>{escape(row['tier'])}</span>
-                                        <span>{escape(row['record'])}</span>
-                                        <span>{escape(row['pct'])}</span>
+                                        <span>{html.escape(row['tier'])}</span>
+                                        <span>{html.escape(row['record'])}</span>
+                                        <span>{html.escape(row['pct'])}</span>
                                     </div>
                                 </summary>
                                 <div class="game-details">
@@ -482,9 +484,9 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                             <details>
                                 <summary>
                                     <div class="summary-content">
-                                        <span>{escape(row['tier'])}</span>
-                                        <span>{escape(row['record'])}</span>
-                                        <span>{escape(row['pct'])}</span>
+                                        <span>{html.escape(row['tier'])}</span>
+                                        <span>{html.escape(row['record'])}</span>
+                                        <span>{html.escape(row['pct'])}</span>
                                     </div>
                                 </summary>
                                 <div class="game-details">
@@ -519,9 +521,9 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                                 <details>
                                     <summary>
                                         <div class="summary-content">
-                                            <span>{escape(row['range'])}</span>
-                                            <span>{escape(row['record'])}</span>
-                                            <span>{escape(row['pct'])}</span>
+                                            <span>{html.escape(row['range'])}</span>
+                                            <span>{html.escape(row['record'])}</span>
+                                            <span>{html.escape(row['pct'])}</span>
                                         </div>
                                     </summary>
                                     <div class="game-details">
@@ -553,9 +555,9 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                                 <details>
                                     <summary>
                                         <div class="summary-content">
-                                            <span>{escape(row['range'])}</span>
-                                            <span>{escape(row['record'])}</span>
-                                            <span>{escape(row['pct'])}</span>
+                                            <span>{html.escape(row['range'])}</span>
+                                            <span>{html.escape(row['record'])}</span>
+                                            <span>{html.escape(row['pct'])}</span>
                                         </div>
                                     </summary>
                                     <div class="game-details">
@@ -591,9 +593,9 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                                 <details>
                                     <summary>
                                         <div class="summary-content">
-                                            <span>{escape(row['tier'])}</span>
-                                            <span>{escape(row['record'])}</span>
-                                            <span>{escape(row['pct'])}</span>
+                                            <span>{html.escape(row['tier'])}</span>
+                                            <span>{html.escape(row['record'])}</span>
+                                            <span>{html.escape(row['pct'])}</span>
                                         </div>
                                     </summary>
                                     <div class="game-details">
@@ -625,9 +627,9 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                                 <details>
                                     <summary>
                                         <div class="summary-content">
-                                            <span>{escape(row['tier'])}</span>
-                                            <span>{escape(row['record'])}</span>
-                                            <span>{escape(row['pct'])}</span>
+                                            <span>{html.escape(row['tier'])}</span>
+                                            <span>{html.escape(row['record'])}</span>
+                                            <span>{html.escape(row['pct'])}</span>
                                         </div>
                                     </summary>
                                     <div class="game-details">
@@ -663,9 +665,9 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                                 <details>
                                     <summary>
                                         <div class="summary-content">
-                                            <span>{escape(row['tier'])}</span>
-                                            <span>{escape(row['record'])}</span>
-                                            <span>{escape(row['pct'])}</span>
+                                            <span>{html.escape(row['tier'])}</span>
+                                            <span>{html.escape(row['record'])}</span>
+                                            <span>{html.escape(row['pct'])}</span>
                                         </div>
                                     </summary>
                                     <div class="game-details">
@@ -697,9 +699,9 @@ def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp,
                                 <details>
                                     <summary>
                                         <div class="summary-content">
-                                            <span>{escape(row['tier'])}</span>
-                                            <span>{escape(row['record'])}</span>
-                                            <span>{escape(row['pct'])}</span>
+                                            <span>{html.escape(row['tier'])}</span>
+                                            <span>{html.escape(row['record'])}</span>
+                                            <span>{html.escape(row['pct'])}</span>
                                         </div>
                                     </summary>
                                     <div class="game-details">
