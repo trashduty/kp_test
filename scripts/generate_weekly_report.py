@@ -14,6 +14,7 @@ import os
 import sys
 import argparse
 import html
+from html import escape
 import shutil
 import pandas as pd
 import numpy as np
@@ -196,9 +197,6 @@ def count_games_in_section(data):
 
 def generate_weekly_html(analysis_data, week_start_str, week_end_str, timestamp, game_count, report_type='current'):
     """Build the full HTML report string"""
-    # Use escape function for escaping strings
-    from html import escape
-    
     # Format dates nicely for display
     week_start_date = parse_date(week_start_str)
     week_end_date = parse_date(week_end_str)
