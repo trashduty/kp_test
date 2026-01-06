@@ -151,7 +151,10 @@ def generate_game_details_html(games, bet_type='spread'):
     
     def format_value(val):
         """Format a value for display, replacing NaN/None with N/A"""
-        if val is None or val == '' or (isinstance(val, float) and (val != val or str(val).lower() == 'nan')):
+        if val is None or val == '':
+            return 'N/A'
+        # Check for pandas/numpy NaN values
+        if pd.isna(val) or str(val).lower() == 'nan':
             return 'N/A'
         return str(val)
     
