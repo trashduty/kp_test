@@ -154,8 +154,12 @@ def generate_game_details_html(games, bet_type='spread'):
         if val is None or val == '':
             return 'N/A'
         # Check for pandas/numpy NaN values
-        if pd.isna(val):
-            return 'N/A'
+        try:
+            if pd.isna(val):
+                return 'N/A'
+        except (TypeError, ValueError):
+            # Handle cases where pd.isna() can't process the value
+            pass
         # Check for string 'nan' (case-insensitive)
         if isinstance(val, str) and val.lower() == 'nan':
             return 'N/A'
