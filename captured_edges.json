@@ -986,5 +986,9 @@
   "Oregon Ducks vs. Ohio State Buckeyes|Ohio State Buckeyes|moneyline": {
     "captured_at": "2026-01-07T21:07:28.630430+00:00",
     "edge_type": "moneyline"
+  },
+  "SIU-Edwardsville Cougars vs. Arkansas-Little Rock Trojans|SIU-Edwardsville Cougars|spread": {
+    "captured_at": "2026-01-07T22:07:10.653564+00:00",
+    "edge_type": "spread"
   }
 }
