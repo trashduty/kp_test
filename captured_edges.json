@@ -966,5 +966,25 @@
   "Towson Tigers vs. Hofstra Pride|Hofstra Pride|spread": {
     "captured_at": "2026-01-07T20:08:17.724732+00:00",
     "edge_type": "spread"
+  },
+  "Campbell Fighting Camels vs. Hampton Pirates|Hampton Pirates|spread": {
+    "captured_at": "2026-01-07T21:07:28.624837+00:00",
+    "edge_type": "spread"
+  },
+  "UTEP Miners vs. Middle Tennessee Blue Raiders|Middle Tennessee Blue Raiders|spread": {
+    "captured_at": "2026-01-07T21:07:28.628760+00:00",
+    "edge_type": "spread"
+  },
+  "UC San Diego Tritons vs. CSU Fullerton Titans|UC San Diego Tritons|spread": {
+    "captured_at": "2026-01-07T21:07:28.629891+00:00",
+    "edge_type": "spread"
+  },
+  "Oregon Ducks vs. Ohio State Buckeyes|Ohio State Buckeyes|spread": {
+    "captured_at": "2026-01-07T21:07:28.630392+00:00",
+    "edge_type": "spread"
+  },
+  "Oregon Ducks vs. Ohio State Buckeyes|Ohio State Buckeyes|moneyline": {
+    "captured_at": "2026-01-07T21:07:28.630430+00:00",
+    "edge_type": "moneyline"
   }
 }
