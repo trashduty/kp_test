@@ -990,5 +990,29 @@
   "SIU-Edwardsville Cougars vs. Arkansas-Little Rock Trojans|SIU-Edwardsville Cougars|spread": {
     "captured_at": "2026-01-07T22:07:10.653564+00:00",
     "edge_type": "spread"
+  },
+  "N Colorado Bears vs. Idaho State Bengals|N Colorado Bears|moneyline": {
+    "captured_at": "2026-01-07T23:07:36.032485+00:00",
+    "edge_type": "moneyline"
+  },
+  "SIU-Edwardsville Cougars vs. Arkansas-Little Rock Trojans|SIU-Edwardsville Cougars|moneyline": {
+    "captured_at": "2026-01-07T23:07:36.033858+00:00",
+    "edge_type": "moneyline"
+  },
+  "Eastern Illinois Panthers vs. Tennessee Tech Golden Eagles|Eastern Illinois Panthers|moneyline": {
+    "captured_at": "2026-01-07T23:07:36.033983+00:00",
+    "edge_type": "moneyline"
+  },
+  "New Mexico St Aggies vs. Western Kentucky Hilltoppers|New Mexico St Aggies|moneyline": {
+    "captured_at": "2026-01-07T23:07:36.034669+00:00",
+    "edge_type": "moneyline"
+  },
+  "Cal Baptist Lancers vs. Utah Tech Trailblazers|Utah Tech Trailblazers|spread": {
+    "captured_at": "2026-01-07T23:07:36.035910+00:00",
+    "edge_type": "spread"
+  },
+  "Gonzaga Bulldogs vs. Santa Clara Broncos|under": {
+    "captured_at": "2026-01-07T23:07:36.036616+00:00",
+    "edge_type": "under"
   }
 }
