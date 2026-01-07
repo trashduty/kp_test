@@ -910,5 +910,21 @@
   "Jacksonville St Gamecocks vs. Florida Int'l Golden Panthers|Florida Int'l Golden Panthers|moneyline": {
     "captured_at": "2026-01-06T23:07:27.449113+00:00",
     "edge_type": "moneyline"
+  },
+  "Colgate Raiders vs. American Eagles|Colgate Raiders|moneyline": {
+    "captured_at": "2026-01-07T13:19:23.408604+00:00",
+    "edge_type": "moneyline"
+  },
+  "High Point Panthers vs. Gardner-Webb Bulldogs|High Point Panthers|spread": {
+    "captured_at": "2026-01-07T13:19:23.408905+00:00",
+    "edge_type": "spread"
+  },
+  "Lafayette Leopards vs. Boston Univ. Terriers|Lafayette Leopards|spread": {
+    "captured_at": "2026-01-07T13:19:23.409679+00:00",
+    "edge_type": "spread"
+  },
+  "Lafayette Leopards vs. Boston Univ. Terriers|Lafayette Leopards|moneyline": {
+    "captured_at": "2026-01-07T13:19:23.409717+00:00",
+    "edge_type": "moneyline"
   }
 }
