@@ -926,5 +926,45 @@
   "Lafayette Leopards vs. Boston Univ. Terriers|Lafayette Leopards|moneyline": {
     "captured_at": "2026-01-07T13:19:23.409717+00:00",
     "edge_type": "moneyline"
+  },
+  "Drexel Dragons vs. Stony Brook Seawolves|Stony Brook Seawolves|spread": {
+    "captured_at": "2026-01-07T20:08:17.719362+00:00",
+    "edge_type": "spread"
+  },
+  "Louisiana Tech Bulldogs vs. Liberty Flames|Louisiana Tech Bulldogs|spread": {
+    "captured_at": "2026-01-07T20:08:17.720379+00:00",
+    "edge_type": "spread"
+  },
+  "North Carolina A&T Aggies vs. Elon Phoenix|over": {
+    "captured_at": "2026-01-07T20:08:17.720504+00:00",
+    "edge_type": "over"
+  },
+  "Morehead St Eagles vs. Tenn-Martin Skyhawks|Morehead St Eagles|spread": {
+    "captured_at": "2026-01-07T20:08:17.721124+00:00",
+    "edge_type": "spread"
+  },
+  "N Colorado Bears vs. Idaho State Bengals|under": {
+    "captured_at": "2026-01-07T20:08:17.722109+00:00",
+    "edge_type": "under"
+  },
+  "Utah Valley Wolverines vs. Southern Utah Thunderbirds|Utah Valley Wolverines|spread": {
+    "captured_at": "2026-01-07T20:08:17.722478+00:00",
+    "edge_type": "spread"
+  },
+  "Southern Indiana Screaming Eagles vs. SE Missouri St Redhawks|Southern Indiana Screaming Eagles|spread": {
+    "captured_at": "2026-01-07T20:08:17.722847+00:00",
+    "edge_type": "spread"
+  },
+  "Eastern Illinois Panthers vs. Tennessee Tech Golden Eagles|Eastern Illinois Panthers|spread": {
+    "captured_at": "2026-01-07T20:08:17.723627+00:00",
+    "edge_type": "spread"
+  },
+  "New Mexico St Aggies vs. Western Kentucky Hilltoppers|New Mexico St Aggies|spread": {
+    "captured_at": "2026-01-07T20:08:17.724037+00:00",
+    "edge_type": "spread"
+  },
+  "Towson Tigers vs. Hofstra Pride|Hofstra Pride|spread": {
+    "captured_at": "2026-01-07T20:08:17.724732+00:00",
+    "edge_type": "spread"
   }
 }
