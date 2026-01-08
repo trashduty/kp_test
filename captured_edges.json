@@ -1066,5 +1066,13 @@
   "Colorado St Rams vs. UNLV Rebels|Colorado St Rams|spread": {
     "captured_at": "2026-01-08T20:08:27.338614+00:00",
     "edge_type": "spread"
+  },
+  "Green Bay Phoenix vs. IUPUI Jaguars|Green Bay Phoenix|moneyline": {
+    "captured_at": "2026-01-08T22:07:40.934592+00:00",
+    "edge_type": "moneyline"
+  },
+  "Sacred Heart Pioneers vs. Marist Red Foxes|Marist Red Foxes|spread": {
+    "captured_at": "2026-01-08T22:07:40.935538+00:00",
+    "edge_type": "spread"
   }
 }
