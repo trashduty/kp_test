@@ -1014,5 +1014,17 @@
   "Gonzaga Bulldogs vs. Santa Clara Broncos|under": {
     "captured_at": "2026-01-07T23:07:36.036616+00:00",
     "edge_type": "under"
+  },
+  "UMBC Retrievers vs. Maine Black Bears|UMBC Retrievers|spread": {
+    "captured_at": "2026-01-08T00:30:16.286261+00:00",
+    "edge_type": "spread"
+  },
+  "North Florida Ospreys vs. West Georgia Wolves|North Florida Ospreys|spread": {
+    "captured_at": "2026-01-08T00:30:16.286459+00:00",
+    "edge_type": "spread"
+  },
+  "Wagner Seahawks vs. St. Francis (PA) Red Flash|Wagner Seahawks|spread": {
+    "captured_at": "2026-01-08T00:30:16.286639+00:00",
+    "edge_type": "spread"
   }
 }
