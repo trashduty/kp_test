@@ -1054,5 +1054,17 @@
   "Bowling Green Falcons vs. Akron Zips|Bowling Green Falcons|spread": {
     "captured_at": "2026-01-08T19:07:41.541165+00:00",
     "edge_type": "spread"
+  },
+  "Toledo Rockets vs. Miami (OH) RedHawks|Miami (OH) RedHawks|moneyline": {
+    "captured_at": "2026-01-08T20:08:27.336581+00:00",
+    "edge_type": "moneyline"
+  },
+  "Milwaukee Panthers vs. Northern Kentucky Norse|Milwaukee Panthers|spread": {
+    "captured_at": "2026-01-08T20:08:27.338044+00:00",
+    "edge_type": "spread"
+  },
+  "Colorado St Rams vs. UNLV Rebels|Colorado St Rams|spread": {
+    "captured_at": "2026-01-08T20:08:27.338614+00:00",
+    "edge_type": "spread"
   }
 }
