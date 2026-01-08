@@ -1030,5 +1030,29 @@
   "Wagner Seahawks vs. St. Francis (PA) Red Flash|Wagner Seahawks|moneyline": {
     "captured_at": "2026-01-08T03:35:53.752896+00:00",
     "edge_type": "moneyline"
+  },
+  "Toledo Rockets vs. Miami (OH) RedHawks|Miami (OH) RedHawks|spread": {
+    "captured_at": "2026-01-08T19:07:41.539500+00:00",
+    "edge_type": "spread"
+  },
+  "Green Bay Phoenix vs. IUPUI Jaguars|Green Bay Phoenix|spread": {
+    "captured_at": "2026-01-08T19:07:41.539699+00:00",
+    "edge_type": "spread"
+  },
+  "Iona Gaels vs. Niagara Purple Eagles|Iona Gaels|spread": {
+    "captured_at": "2026-01-08T19:07:41.540016+00:00",
+    "edge_type": "spread"
+  },
+  "Oakland Golden Grizzlies vs. Cleveland St Vikings|Oakland Golden Grizzlies|spread": {
+    "captured_at": "2026-01-08T19:07:41.540360+00:00",
+    "edge_type": "spread"
+  },
+  "Siena Saints vs. Merrimack Warriors|Siena Saints|spread": {
+    "captured_at": "2026-01-08T19:07:41.540544+00:00",
+    "edge_type": "spread"
+  },
+  "Bowling Green Falcons vs. Akron Zips|Bowling Green Falcons|spread": {
+    "captured_at": "2026-01-08T19:07:41.541165+00:00",
+    "edge_type": "spread"
   }
 }
