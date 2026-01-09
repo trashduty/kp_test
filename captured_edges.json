@@ -1078,5 +1078,25 @@
   "Michigan Wolverines vs. Wisconsin Badgers|Michigan Wolverines|spread": {
     "captured_at": "2026-01-09T19:08:04.491080+00:00",
     "edge_type": "spread"
+  },
+  "Pittsburgh Panthers vs. Syracuse Orange|Pittsburgh Panthers|moneyline": {
+    "captured_at": "2026-01-09T20:08:51.136701+00:00",
+    "edge_type": "moneyline"
+  },
+  "Kentucky Wildcats vs. Mississippi St Bulldogs|under": {
+    "captured_at": "2026-01-09T20:08:51.139482+00:00",
+    "edge_type": "under"
+  },
+  "Kentucky Wildcats vs. Mississippi St Bulldogs|Mississippi St Bulldogs|spread": {
+    "captured_at": "2026-01-09T20:08:51.139597+00:00",
+    "edge_type": "spread"
+  },
+  "Clemson Tigers vs. Boston College Eagles|Clemson Tigers|spread": {
+    "captured_at": "2026-01-09T20:08:51.140803+00:00",
+    "edge_type": "spread"
+  },
+  "Clemson Tigers vs. Boston College Eagles|Clemson Tigers|moneyline": {
+    "captured_at": "2026-01-09T20:08:51.140841+00:00",
+    "edge_type": "moneyline"
   }
 }
