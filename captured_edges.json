@@ -1098,5 +1098,73 @@
   "Clemson Tigers vs. Boston College Eagles|Clemson Tigers|moneyline": {
     "captured_at": "2026-01-09T20:08:51.140841+00:00",
     "edge_type": "moneyline"
+  },
+  "Louisiana Ragin' Cajuns vs. Troy Trojans|Louisiana Ragin' Cajuns|spread": {
+    "captured_at": "2026-01-09T23:07:10.441325+00:00",
+    "edge_type": "spread"
+  },
+  "Northeastern Huskies vs. Towson Tigers|Northeastern Huskies|spread": {
+    "captured_at": "2026-01-09T23:07:10.441844+00:00",
+    "edge_type": "spread"
+  },
+  "Northeastern Huskies vs. Towson Tigers|under": {
+    "captured_at": "2026-01-09T23:07:10.441898+00:00",
+    "edge_type": "under"
+  },
+  "Cornell Big Red vs. Dartmouth Big Green|Dartmouth Big Green|spread": {
+    "captured_at": "2026-01-09T23:07:10.442149+00:00",
+    "edge_type": "spread"
+  },
+  "Davidson Wildcats vs. Rhode Island Rams|Davidson Wildcats|spread": {
+    "captured_at": "2026-01-09T23:07:10.443353+00:00",
+    "edge_type": "spread"
+  },
+  "UT-Arlington Mavericks vs. Abilene Christian Wildcats|UT-Arlington Mavericks|spread": {
+    "captured_at": "2026-01-09T23:07:10.445796+00:00",
+    "edge_type": "spread"
+  },
+  "Morehead St Eagles vs. SE Missouri St Redhawks|Morehead St Eagles|spread": {
+    "captured_at": "2026-01-09T23:07:10.446243+00:00",
+    "edge_type": "spread"
+  },
+  "Massachusetts Minutemen vs. Ball State Cardinals|Massachusetts Minutemen|spread": {
+    "captured_at": "2026-01-09T23:07:10.446427+00:00",
+    "edge_type": "spread"
+  },
+  "Sam Houston St Bearkats vs. Liberty Flames|Sam Houston St Bearkats|spread": {
+    "captured_at": "2026-01-09T23:07:10.446610+00:00",
+    "edge_type": "spread"
+  },
+  "Lindenwood Lions vs. Arkansas-Little Rock Trojans|Lindenwood Lions|spread": {
+    "captured_at": "2026-01-09T23:07:10.448616+00:00",
+    "edge_type": "spread"
+  },
+  "Cal Poly Mustangs vs. UC Davis Aggies|Cal Poly Mustangs|spread": {
+    "captured_at": "2026-01-09T23:07:10.449509+00:00",
+    "edge_type": "spread"
+  },
+  "Eastern Washington Eagles vs. Montana Grizzlies|Montana Grizzlies|spread": {
+    "captured_at": "2026-01-09T23:07:10.449763+00:00",
+    "edge_type": "spread"
+  },
+  "Bradley Braves vs. Northern Iowa Panthers|under": {
+    "captured_at": "2026-01-09T23:07:10.450833+00:00",
+    "edge_type": "under"
+  },
+  "Bradley Braves vs. Northern Iowa Panthers|Northern Iowa Panthers|spread": {
+    "captured_at": "2026-01-09T23:07:10.451159+00:00",
+    "edge_type": "spread"
+  },
+  "Stony Brook Seawolves vs. UNC Wilmington Seahawks|Stony Brook Seawolves|spread": {
+    "captured_at": "2026-01-09T23:07:10.451334+00:00",
+    "edge_type": "spread"
+  },
+  "N Colorado Bears vs. Weber State Wildcats|under": {
+    "captured_at": "2026-01-09T23:07:10.453485+00:00",
+    "edge_type": "under"
+  },
+  "Santa Clara Broncos vs. Loyola Marymount Lions|Santa Clara Broncos|spread": {
+    "captured_at": "2026-01-09T23:07:10.454709+00:00",
+    "edge_type": "spread"
   }
 }
