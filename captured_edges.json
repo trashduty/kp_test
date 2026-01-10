@@ -1190,5 +1190,61 @@
   "Oral Roberts Golden Eagles vs. St. Thomas (MN) Tommies|Oral Roberts Golden Eagles|spread": {
     "captured_at": "2026-01-10T00:29:34.399263+00:00",
     "edge_type": "spread"
+  },
+  "NJIT Highlanders vs. Maine Black Bears|under": {
+    "captured_at": "2026-01-10T02:40:51.654155+00:00",
+    "edge_type": "under"
+  },
+  "NJIT Highlanders vs. Maine Black Bears|NJIT Highlanders|spread": {
+    "captured_at": "2026-01-10T02:40:51.654273+00:00",
+    "edge_type": "spread"
+  },
+  "Albany Great Danes vs. Bryant Bulldogs|Albany Great Danes|spread": {
+    "captured_at": "2026-01-10T02:40:51.654466+00:00",
+    "edge_type": "spread"
+  },
+  "Binghamton Bearcats vs. UMass Lowell River Hawks|over": {
+    "captured_at": "2026-01-10T02:40:51.654601+00:00",
+    "edge_type": "over"
+  },
+  "South Carolina Upstate Spartans vs. Winthrop Eagles|South Carolina Upstate Spartans|spread": {
+    "captured_at": "2026-01-10T02:40:51.654907+00:00",
+    "edge_type": "spread"
+  },
+  "Jacksonville Dolphins vs. West Georgia Wolves|West Georgia Wolves|spread": {
+    "captured_at": "2026-01-10T02:40:51.657500+00:00",
+    "edge_type": "spread"
+  },
+  "Florida Gulf Coast Eagles vs. Lipscomb Bisons|Florida Gulf Coast Eagles|spread": {
+    "captured_at": "2026-01-10T02:40:51.658776+00:00",
+    "edge_type": "spread"
+  },
+  "Eastern Kentucky Colonels vs. Central Arkansas Bears|Central Arkansas Bears|spread": {
+    "captured_at": "2026-01-10T02:40:51.659127+00:00",
+    "edge_type": "spread"
+  },
+  "LIU Sharks vs. St. Francis (PA) Red Flash|LIU Sharks|spread": {
+    "captured_at": "2026-01-10T02:40:51.659237+00:00",
+    "edge_type": "spread"
+  },
+  "Lindenwood Lions vs. Arkansas-Little Rock Trojans|Lindenwood Lions|moneyline": {
+    "captured_at": "2026-01-10T02:40:51.661431+00:00",
+    "edge_type": "moneyline"
+  },
+  "Cal Poly Mustangs vs. UC Davis Aggies|over": {
+    "captured_at": "2026-01-10T02:40:51.663765+00:00",
+    "edge_type": "over"
+  },
+  "Elon Phoenix vs. Campbell Fighting Camels|Elon Phoenix|moneyline": {
+    "captured_at": "2026-01-10T02:40:51.666260+00:00",
+    "edge_type": "moneyline"
+  },
+  "UC Riverside Highlanders vs. UC San Diego Tritons|over": {
+    "captured_at": "2026-01-10T02:40:51.666650+00:00",
+    "edge_type": "over"
+  },
+  "N Colorado Bears vs. Weber State Wildcats|over": {
+    "captured_at": "2026-01-10T02:40:51.667745+00:00",
+    "edge_type": "over"
   }
 }
