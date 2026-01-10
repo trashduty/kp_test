@@ -1290,5 +1290,13 @@
   "New Orleans Privateers vs. Nicholls St Colonels|New Orleans Privateers|moneyline": {
     "captured_at": "2026-01-10T05:08:07.395388+00:00",
     "edge_type": "moneyline"
+  },
+  "Sacred Heart Pioneers vs. Quinnipiac Bobcats|Quinnipiac Bobcats|spread": {
+    "captured_at": "2026-01-10T23:07:03.061189+00:00",
+    "edge_type": "spread"
+  },
+  "UCF Knights vs. Cincinnati Bearcats|UCF Knights|moneyline": {
+    "captured_at": "2026-01-10T23:07:03.062803+00:00",
+    "edge_type": "moneyline"
   }
 }
