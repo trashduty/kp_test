@@ -1254,5 +1254,41 @@
   "American Eagles vs. Holy Cross Crusaders|over": {
     "captured_at": "2026-01-10T03:34:31.472210+00:00",
     "edge_type": "over"
+  },
+  "Wagner Seahawks vs. Mercyhurst Lakers|Wagner Seahawks|spread": {
+    "captured_at": "2026-01-10T05:08:07.382592+00:00",
+    "edge_type": "spread"
+  },
+  "Wagner Seahawks vs. Mercyhurst Lakers|Wagner Seahawks|moneyline": {
+    "captured_at": "2026-01-10T05:08:07.382638+00:00",
+    "edge_type": "moneyline"
+  },
+  "Le Moyne Dolphins vs. Central Connecticut St Blue Devils|Le Moyne Dolphins|moneyline": {
+    "captured_at": "2026-01-10T05:08:07.383379+00:00",
+    "edge_type": "moneyline"
+  },
+  "Binghamton Bearcats vs. UMass Lowell River Hawks|UMass Lowell River Hawks|moneyline": {
+    "captured_at": "2026-01-10T05:08:07.386304+00:00",
+    "edge_type": "moneyline"
+  },
+  "Albany Great Danes vs. Bryant Bulldogs|Albany Great Danes|moneyline": {
+    "captured_at": "2026-01-10T05:08:07.386524+00:00",
+    "edge_type": "moneyline"
+  },
+  "NJIT Highlanders vs. Maine Black Bears|NJIT Highlanders|moneyline": {
+    "captured_at": "2026-01-10T05:08:07.387338+00:00",
+    "edge_type": "moneyline"
+  },
+  "American Eagles vs. Holy Cross Crusaders|American Eagles|moneyline": {
+    "captured_at": "2026-01-10T05:08:07.389784+00:00",
+    "edge_type": "moneyline"
+  },
+  "Florida Gulf Coast Eagles vs. Lipscomb Bisons|Florida Gulf Coast Eagles|moneyline": {
+    "captured_at": "2026-01-10T05:08:07.390550+00:00",
+    "edge_type": "moneyline"
+  },
+  "New Orleans Privateers vs. Nicholls St Colonels|New Orleans Privateers|moneyline": {
+    "captured_at": "2026-01-10T05:08:07.395388+00:00",
+    "edge_type": "moneyline"
   }
 }
