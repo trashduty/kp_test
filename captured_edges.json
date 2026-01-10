@@ -1166,5 +1166,29 @@
   "Santa Clara Broncos vs. Loyola Marymount Lions|Santa Clara Broncos|spread": {
     "captured_at": "2026-01-09T23:07:10.454709+00:00",
     "edge_type": "spread"
+  },
+  "Mercer Bears vs. Wofford Terriers|Mercer Bears|spread": {
+    "captured_at": "2026-01-10T00:29:34.389183+00:00",
+    "edge_type": "spread"
+  },
+  "Columbia Lions vs. Harvard Crimson|Columbia Lions|spread": {
+    "captured_at": "2026-01-10T00:29:34.389871+00:00",
+    "edge_type": "spread"
+  },
+  "Ohio Bobcats vs. Buffalo Bulls|Buffalo Bulls|spread": {
+    "captured_at": "2026-01-10T00:29:34.390120+00:00",
+    "edge_type": "spread"
+  },
+  "Tulsa Golden Hurricane vs. South Florida Bulls|Tulsa Golden Hurricane|spread": {
+    "captured_at": "2026-01-10T00:29:34.392261+00:00",
+    "edge_type": "spread"
+  },
+  "CSU Fullerton Titans vs. CSU Northridge Matadors|CSU Fullerton Titans|spread": {
+    "captured_at": "2026-01-10T00:29:34.397669+00:00",
+    "edge_type": "spread"
+  },
+  "Oral Roberts Golden Eagles vs. St. Thomas (MN) Tommies|Oral Roberts Golden Eagles|spread": {
+    "captured_at": "2026-01-10T00:29:34.399263+00:00",
+    "edge_type": "spread"
   }
 }
