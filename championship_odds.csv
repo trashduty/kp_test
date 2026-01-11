@@ -3,23 +3,23 @@ Michigan Wolverines,450
 Arizona Wildcats,600
 Iowa State Cyclones,800
 UConn Huskies,1000
+Duke Blue Devils,1000
 Purdue Boilermakers,1200
-Duke Blue Devils,1200
-Houston Cougars,1400
-Vanderbilt Commodores,1600
+Vanderbilt Commodores,1400
+Houston Cougars,1500
 Gonzaga Bulldogs,1600
-Florida Gators,3000
-BYU Cougars,3000
-Alabama Crimson Tide,3000
-Texas Tech Red Raiders,3500
-Illinois Fighting Illini,3500
+BYU Cougars,2000
+Florida Gators,2500
+Illinois Fighting Illini,3000
+Michigan St Spartans,3500
+Alabama Crimson Tide,3500
 Arkansas Razorbacks,4000
 Louisville Cardinals,4000
 Nebraska Cornhuskers,4000
 Kansas Jayhawks,4000
-Michigan St Spartans,4000
-Kentucky Wildcats,5000
-North Carolina Tar Heels,5000
+Texas Tech Red Raiders,5000
+North Carolina Tar Heels,6500
+Kentucky Wildcats,8000
 Tennessee Volunteers,8000
 St. John's Red Storm,8000
 Iowa Hawkeyes,10000
@@ -29,8 +29,6 @@ Virginia Cavaliers,10000
 SMU Mustangs,15000
 Georgia Bulldogs,15000
 Utah State Aggies,15000
-Baylor Bears,15000
-TCU Horned Frogs,20000
 Clemson Tigers,20000
 Wisconsin Badgers,20000
 UCLA Bruins,20000
@@ -38,12 +36,13 @@ Indiana Hoosiers,20000
 Auburn Tigers,20000
 UCF Knights,20000
 Saint Mary's Gaels,20000
-Texas A&M Aggies,20000
 Creighton Bluejays,20000
+Baylor Bears,20000
 Miami Hurricanes,25000
 Oklahoma Sooners,25000
 Oklahoma St Cowboys,25000
 Ohio State Buckeyes,30000
+TCU Horned Frogs,30000
 LSU Tigers,30000
 Butler Bulldogs,30000
 Providence Friars,30000
@@ -55,8 +54,8 @@ Missouri Tigers,30000
 Ole Miss Rebels,30000
 San Diego St Aztecs,30000
 West Virginia Mountaineers,30000
+Texas A&M Aggies,30000
 Texas Longhorns,30000
-Dayton Flyers,30000
 VCU Rams,30000
 Virginia Tech Hokies,30000
 USC Trojans,30000
@@ -69,5 +68,6 @@ California Golden Bears,50000
 Yale Bulldogs,50000
 George Mason Patriots,50000
 UC San Diego Tritons,50000
+Dayton Flyers,50000
 UC Irvine Anteaters,50000
 Miami (OH) RedHawks,50000
