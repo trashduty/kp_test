@@ -1310,5 +1310,13 @@
   "McNeese Cowboys vs. Nicholls St Colonels|over": {
     "captured_at": "2026-01-11T19:05:40.615892+00:00",
     "edge_type": "over"
+  },
+  "Alabama St Hornets vs. Alcorn St Braves|over": {
+    "captured_at": "2026-01-11T20:07:45.191753+00:00",
+    "edge_type": "over"
+  },
+  "Prairie View Panthers vs. Arkansas-Pine Bluff Golden Lions|Prairie View Panthers|moneyline": {
+    "captured_at": "2026-01-11T20:07:45.192036+00:00",
+    "edge_type": "moneyline"
   }
 }
