@@ -1302,5 +1302,13 @@
   "UCF Knights vs. Cincinnati Bearcats|UCF Knights|spread": {
     "captured_at": "2026-01-11T00:33:37.423988+00:00",
     "edge_type": "spread"
+  },
+  "Norfolk St Spartans vs. Maryland-Eastern Shore Hawks|under": {
+    "captured_at": "2026-01-11T19:05:40.614667+00:00",
+    "edge_type": "under"
+  },
+  "McNeese Cowboys vs. Nicholls St Colonels|over": {
+    "captured_at": "2026-01-11T19:05:40.615892+00:00",
+    "edge_type": "over"
   }
 }
