@@ -1358,5 +1358,17 @@
   "Minnesota Golden Gophers vs. Wisconsin Badgers|under": {
     "captured_at": "2026-01-12T21:07:30.234754+00:00",
     "edge_type": "under"
+  },
+  "St. John's Red Storm vs. Marquette Golden Eagles|St. John's Red Storm|spread": {
+    "captured_at": "2026-01-12T23:06:33.942664+00:00",
+    "edge_type": "spread"
+  },
+  "Loyola (Chi) Ramblers vs. George Mason Patriots|George Mason Patriots|moneyline": {
+    "captured_at": "2026-01-12T23:06:33.943220+00:00",
+    "edge_type": "moneyline"
+  },
+  "San Francisco Dons vs. Saint Mary's Gaels|San Francisco Dons|spread": {
+    "captured_at": "2026-01-12T23:06:33.947123+00:00",
+    "edge_type": "spread"
   }
 }
