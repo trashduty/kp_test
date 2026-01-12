@@ -1354,5 +1354,9 @@
   "Fresno St Bulldogs vs. Colorado St Rams|Fresno St Bulldogs|spread": {
     "captured_at": "2026-01-12T20:08:49.856012+00:00",
     "edge_type": "spread"
+  },
+  "Minnesota Golden Gophers vs. Wisconsin Badgers|under": {
+    "captured_at": "2026-01-12T21:07:30.234754+00:00",
+    "edge_type": "under"
   }
 }
