@@ -1370,5 +1370,29 @@
   "San Francisco Dons vs. Saint Mary's Gaels|San Francisco Dons|spread": {
     "captured_at": "2026-01-12T23:06:33.947123+00:00",
     "edge_type": "spread"
+  },
+  "Saint Joseph's Hawks vs. St. Bonaventure Bonnies|Saint Joseph's Hawks|spread": {
+    "captured_at": "2026-01-13T21:07:43.291546+00:00",
+    "edge_type": "spread"
+  },
+  "Georgia Tech Yellow Jackets vs. Pittsburgh Panthers|Georgia Tech Yellow Jackets|spread": {
+    "captured_at": "2026-01-13T21:07:43.291968+00:00",
+    "edge_type": "spread"
+  },
+  "Kennesaw St Owls vs. Florida Int'l Golden Panthers|Florida Int'l Golden Panthers|spread": {
+    "captured_at": "2026-01-13T21:07:43.292267+00:00",
+    "edge_type": "spread"
+  },
+  "Canisius Golden Griffins vs. Niagara Purple Eagles|Canisius Golden Griffins|spread": {
+    "captured_at": "2026-01-13T21:07:43.293066+00:00",
+    "edge_type": "spread"
+  },
+  "LSU Tigers vs. Kentucky Wildcats|LSU Tigers|spread": {
+    "captured_at": "2026-01-13T21:07:43.293282+00:00",
+    "edge_type": "spread"
+  },
+  "Wyoming Cowboys vs. San Diego St Aztecs|Wyoming Cowboys|spread": {
+    "captured_at": "2026-01-13T21:07:43.294071+00:00",
+    "edge_type": "spread"
   }
 }
