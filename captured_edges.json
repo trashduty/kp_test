@@ -1394,5 +1394,9 @@
   "Wyoming Cowboys vs. San Diego St Aztecs|Wyoming Cowboys|spread": {
     "captured_at": "2026-01-13T21:07:43.294071+00:00",
     "edge_type": "spread"
+  },
+  "Washington Huskies vs. Michigan Wolverines|under": {
+    "captured_at": "2026-01-13T22:07:34.482375+00:00",
+    "edge_type": "under"
   }
 }
