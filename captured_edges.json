@@ -1398,5 +1398,17 @@
   "Washington Huskies vs. Michigan Wolverines|under": {
     "captured_at": "2026-01-13T22:07:34.482375+00:00",
     "edge_type": "under"
+  },
+  "Jacksonville St Gamecocks vs. Sam Houston St Bearkats|Sam Houston St Bearkats|moneyline": {
+    "captured_at": "2026-01-13T23:07:25.442097+00:00",
+    "edge_type": "moneyline"
+  },
+  "Texas State Bobcats vs. Louisiana Ragin' Cajuns|Louisiana Ragin' Cajuns|spread": {
+    "captured_at": "2026-01-13T23:07:25.444178+00:00",
+    "edge_type": "spread"
+  },
+  "Arizona Wildcats vs. Arizona St Sun Devils|under": {
+    "captured_at": "2026-01-13T23:07:25.447139+00:00",
+    "edge_type": "under"
   }
 }
