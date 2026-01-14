@@ -1410,5 +1410,9 @@
   "Arizona Wildcats vs. Arizona St Sun Devils|under": {
     "captured_at": "2026-01-13T23:07:25.447139+00:00",
     "edge_type": "under"
+  },
+  "Charleston Southern Buccaneers vs. South Carolina Upstate Spartans|Charleston Southern Buccaneers|moneyline": {
+    "captured_at": "2026-01-14T13:19:58.899256+00:00",
+    "edge_type": "moneyline"
   }
 }
