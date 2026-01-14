@@ -1430,5 +1430,13 @@
   "Loyola (MD) Greyhounds vs. Colgate Raiders|Loyola (MD) Greyhounds|spread": {
     "captured_at": "2026-01-14T16:10:07.849092+00:00",
     "edge_type": "spread"
+  },
+  "Appalachian St Mountaineers vs. James Madison Dukes|Appalachian St Mountaineers|moneyline": {
+    "captured_at": "2026-01-14T21:07:49.890654+00:00",
+    "edge_type": "moneyline"
+  },
+  "Northeastern Huskies vs. Elon Phoenix|over": {
+    "captured_at": "2026-01-14T21:07:49.891797+00:00",
+    "edge_type": "over"
   }
 }
