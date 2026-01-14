@@ -1422,5 +1422,9 @@
   "Presbyterian Blue Hose vs. UNC Asheville Bulldogs|Presbyterian Blue Hose|spread": {
     "captured_at": "2026-01-14T14:09:45.309061+00:00",
     "edge_type": "spread"
+  },
+  "Gardner-Webb Bulldogs vs. Radford Highlanders|Gardner-Webb Bulldogs|spread": {
+    "captured_at": "2026-01-14T15:09:40.946363+00:00",
+    "edge_type": "spread"
   }
 }
