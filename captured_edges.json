@@ -1442,5 +1442,9 @@
   "Towson Tigers vs. Charleston Cougars|under": {
     "captured_at": "2026-01-14T22:07:37.088509+00:00",
     "edge_type": "under"
+  },
+  "Weber State Wildcats vs. Eastern Washington Eagles|Weber State Wildcats|moneyline": {
+    "captured_at": "2026-01-14T23:07:19.413943+00:00",
+    "edge_type": "moneyline"
   }
 }
