@@ -1426,5 +1426,9 @@
   "Gardner-Webb Bulldogs vs. Radford Highlanders|Gardner-Webb Bulldogs|spread": {
     "captured_at": "2026-01-14T15:09:40.946363+00:00",
     "edge_type": "spread"
+  },
+  "Loyola (MD) Greyhounds vs. Colgate Raiders|Loyola (MD) Greyhounds|spread": {
+    "captured_at": "2026-01-14T16:10:07.849092+00:00",
+    "edge_type": "spread"
   }
 }
