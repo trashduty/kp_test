@@ -1414,5 +1414,13 @@
   "Charleston Southern Buccaneers vs. South Carolina Upstate Spartans|Charleston Southern Buccaneers|moneyline": {
     "captured_at": "2026-01-14T13:19:58.899256+00:00",
     "edge_type": "moneyline"
+  },
+  "Charleston Southern Buccaneers vs. South Carolina Upstate Spartans|Charleston Southern Buccaneers|spread": {
+    "captured_at": "2026-01-14T14:09:45.308567+00:00",
+    "edge_type": "spread"
+  },
+  "Presbyterian Blue Hose vs. UNC Asheville Bulldogs|Presbyterian Blue Hose|spread": {
+    "captured_at": "2026-01-14T14:09:45.309061+00:00",
+    "edge_type": "spread"
   }
 }
