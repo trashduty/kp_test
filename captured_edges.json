@@ -1478,5 +1478,9 @@
   "Stetson Hatters vs. West Georgia Wolves|Stetson Hatters|moneyline": {
     "captured_at": "2026-01-15T02:45:16.806607+00:00",
     "edge_type": "moneyline"
+  },
+  "Austin Peay Governors vs. Eastern Kentucky Colonels|under": {
+    "captured_at": "2026-01-15T03:36:53.384934+00:00",
+    "edge_type": "under"
   }
 }
