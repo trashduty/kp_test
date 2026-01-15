@@ -1498,5 +1498,13 @@
   "CSU Bakersfield Roadrunners vs. UC Santa Barbara Gauchos|CSU Bakersfield Roadrunners|spread": {
     "captured_at": "2026-01-15T04:22:46.056031+00:00",
     "edge_type": "spread"
+  },
+  "Kansas Jayhawks vs. Baylor Bears|Kansas Jayhawks|spread": {
+    "captured_at": "2026-01-15T20:08:43.154237+00:00",
+    "edge_type": "spread"
+  },
+  "Kansas Jayhawks vs. Baylor Bears|Kansas Jayhawks|moneyline": {
+    "captured_at": "2026-01-15T20:08:43.154286+00:00",
+    "edge_type": "moneyline"
   }
 }
