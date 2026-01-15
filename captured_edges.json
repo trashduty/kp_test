@@ -1462,5 +1462,21 @@
   "UC San Diego Tritons vs. CSU Northridge Matadors|UC San Diego Tritons|spread": {
     "captured_at": "2026-01-15T01:36:08.159806+00:00",
     "edge_type": "spread"
+  },
+  "UMass Lowell River Hawks vs. NJIT Highlanders|UMass Lowell River Hawks|moneyline": {
+    "captured_at": "2026-01-15T02:45:16.805083+00:00",
+    "edge_type": "moneyline"
+  },
+  "Albany Great Danes vs. Binghamton Bearcats|Albany Great Danes|spread": {
+    "captured_at": "2026-01-15T02:45:16.805635+00:00",
+    "edge_type": "spread"
+  },
+  "Albany Great Danes vs. Binghamton Bearcats|Albany Great Danes|moneyline": {
+    "captured_at": "2026-01-15T02:45:16.805672+00:00",
+    "edge_type": "moneyline"
+  },
+  "Stetson Hatters vs. West Georgia Wolves|Stetson Hatters|moneyline": {
+    "captured_at": "2026-01-15T02:45:16.806607+00:00",
+    "edge_type": "moneyline"
   }
 }
