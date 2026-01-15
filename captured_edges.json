@@ -1446,5 +1446,21 @@
   "Weber State Wildcats vs. Eastern Washington Eagles|Weber State Wildcats|moneyline": {
     "captured_at": "2026-01-14T23:07:19.413943+00:00",
     "edge_type": "moneyline"
+  },
+  "Arkansas-Little Rock Trojans vs. Eastern Illinois Panthers|Eastern Illinois Panthers|spread": {
+    "captured_at": "2026-01-15T01:36:08.157316+00:00",
+    "edge_type": "spread"
+  },
+  "Southern Utah Thunderbirds vs. Tarleton State Texans|Tarleton State Texans|spread": {
+    "captured_at": "2026-01-15T01:36:08.158400+00:00",
+    "edge_type": "spread"
+  },
+  "UC Davis Aggies vs. CSU Fullerton Titans|UC Davis Aggies|moneyline": {
+    "captured_at": "2026-01-15T01:36:08.159147+00:00",
+    "edge_type": "moneyline"
+  },
+  "UC San Diego Tritons vs. CSU Northridge Matadors|UC San Diego Tritons|spread": {
+    "captured_at": "2026-01-15T01:36:08.159806+00:00",
+    "edge_type": "spread"
   }
 }
