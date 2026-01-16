@@ -1538,5 +1538,29 @@
   "NC State Wolfpack vs. Georgia Tech Yellow Jackets|NC State Wolfpack|spread": {
     "captured_at": "2026-01-16T19:07:49.556373+00:00",
     "edge_type": "spread"
+  },
+  "Bowling Green Falcons vs. Eastern Michigan Eagles|under": {
+    "captured_at": "2026-01-16T23:07:10.462718+00:00",
+    "edge_type": "under"
+  },
+  "Miami (OH) RedHawks vs. Buffalo Bulls|Miami (OH) RedHawks|spread": {
+    "captured_at": "2026-01-16T23:07:10.462960+00:00",
+    "edge_type": "spread"
+  },
+  "Appalachian St Mountaineers vs. Old Dominion Monarchs|under": {
+    "captured_at": "2026-01-16T23:07:10.463380+00:00",
+    "edge_type": "under"
+  },
+  "LSU Tigers vs. Missouri Tigers|LSU Tigers|moneyline": {
+    "captured_at": "2026-01-16T23:07:10.464918+00:00",
+    "edge_type": "moneyline"
+  },
+  "UC Santa Barbara Gauchos vs. Hawai'i Rainbow Warriors|Hawai'i Rainbow Warriors|moneyline": {
+    "captured_at": "2026-01-16T23:07:10.467667+00:00",
+    "edge_type": "moneyline"
+  },
+  "Canisius Golden Griffins vs. Mt. St. Mary's Mountaineers|under": {
+    "captured_at": "2026-01-16T23:07:10.468815+00:00",
+    "edge_type": "under"
   }
 }
