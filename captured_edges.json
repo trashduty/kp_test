@@ -1522,5 +1522,21 @@
   "Tennessee Volunteers vs. Kentucky Wildcats|Tennessee Volunteers|moneyline": {
     "captured_at": "2026-01-16T17:10:18.488151+00:00",
     "edge_type": "moneyline"
+  },
+  "Wisconsin Badgers vs. Rutgers Scarlet Knights|Wisconsin Badgers|spread": {
+    "captured_at": "2026-01-16T19:07:49.552359+00:00",
+    "edge_type": "spread"
+  },
+  "Oregon Ducks vs. Michigan Wolverines|Michigan Wolverines|spread": {
+    "captured_at": "2026-01-16T19:07:49.553550+00:00",
+    "edge_type": "spread"
+  },
+  "Oregon Ducks vs. Michigan Wolverines|over": {
+    "captured_at": "2026-01-16T19:07:49.553595+00:00",
+    "edge_type": "over"
+  },
+  "NC State Wolfpack vs. Georgia Tech Yellow Jackets|NC State Wolfpack|spread": {
+    "captured_at": "2026-01-16T19:07:49.556373+00:00",
+    "edge_type": "spread"
   }
 }
