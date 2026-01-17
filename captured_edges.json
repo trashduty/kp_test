@@ -1602,5 +1602,65 @@
   "Santa Clara Broncos vs. Saint Mary's Gaels|Santa Clara Broncos|moneyline": {
     "captured_at": "2026-01-17T00:28:32.994741+00:00",
     "edge_type": "moneyline"
+  },
+  "Delaware Blue Hens vs. New Mexico St Aggies|under": {
+    "captured_at": "2026-01-17T02:39:48.900971+00:00",
+    "edge_type": "under"
+  },
+  "Harvard Crimson vs. Princeton Tigers|Harvard Crimson|moneyline": {
+    "captured_at": "2026-01-17T02:39:48.901598+00:00",
+    "edge_type": "moneyline"
+  },
+  "North Dakota St Bison vs. St. Thomas (MN) Tommies|North Dakota St Bison|moneyline": {
+    "captured_at": "2026-01-17T02:39:48.902018+00:00",
+    "edge_type": "moneyline"
+  },
+  "Samford Bulldogs vs. East Tennessee St Buccaneers|East Tennessee St Buccaneers|spread": {
+    "captured_at": "2026-01-17T02:39:48.902414+00:00",
+    "edge_type": "spread"
+  },
+  "IUPUI Jaguars vs. Detroit Mercy Titans|Detroit Mercy Titans|moneyline": {
+    "captured_at": "2026-01-17T02:39:48.903580+00:00",
+    "edge_type": "moneyline"
+  },
+  "Dartmouth Big Green vs. Pennsylvania Quakers|Dartmouth Big Green|spread": {
+    "captured_at": "2026-01-17T02:39:48.904789+00:00",
+    "edge_type": "spread"
+  },
+  "Dartmouth Big Green vs. Pennsylvania Quakers|Dartmouth Big Green|moneyline": {
+    "captured_at": "2026-01-17T02:39:48.904825+00:00",
+    "edge_type": "moneyline"
+  },
+  "Troy Trojans vs. Arkansas St Red Wolves|Troy Trojans|spread": {
+    "captured_at": "2026-01-17T02:39:48.908256+00:00",
+    "edge_type": "spread"
+  },
+  "Furman Paladins vs. Wofford Terriers|Furman Paladins|moneyline": {
+    "captured_at": "2026-01-17T02:39:48.908793+00:00",
+    "edge_type": "moneyline"
+  },
+  "Idaho State Bengals vs. Eastern Washington Eagles|Idaho State Bengals|spread": {
+    "captured_at": "2026-01-17T02:39:48.909619+00:00",
+    "edge_type": "spread"
+  },
+  "Idaho State Bengals vs. Eastern Washington Eagles|Idaho State Bengals|moneyline": {
+    "captured_at": "2026-01-17T02:39:48.909655+00:00",
+    "edge_type": "moneyline"
+  },
+  "VMI Keydets vs. The Citadel Bulldogs|VMI Keydets|moneyline": {
+    "captured_at": "2026-01-17T02:39:48.911316+00:00",
+    "edge_type": "moneyline"
+  },
+  "UNC Wilmington Seahawks vs. Campbell Fighting Camels|UNC Wilmington Seahawks|moneyline": {
+    "captured_at": "2026-01-17T02:39:48.911427+00:00",
+    "edge_type": "moneyline"
+  },
+  "Weber State Wildcats vs. Idaho Vandals|Weber State Wildcats|spread": {
+    "captured_at": "2026-01-17T02:39:48.913417+00:00",
+    "edge_type": "spread"
+  },
+  "Weber State Wildcats vs. Idaho Vandals|Weber State Wildcats|moneyline": {
+    "captured_at": "2026-01-17T02:39:48.913453+00:00",
+    "edge_type": "moneyline"
   }
 }
