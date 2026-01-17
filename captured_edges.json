@@ -1686,5 +1686,57 @@
   "Loyola Marymount Lions vs. Portland Pilots|Loyola Marymount Lions|moneyline": {
     "captured_at": "2026-01-17T04:14:53.878444+00:00",
     "edge_type": "moneyline"
+  },
+  "UNC Asheville Bulldogs vs. Winthrop Eagles|UNC Asheville Bulldogs|spread": {
+    "captured_at": "2026-01-17T05:07:55.538185+00:00",
+    "edge_type": "spread"
+  },
+  "Colgate Raiders vs. Bucknell Bison|Colgate Raiders|spread": {
+    "captured_at": "2026-01-17T05:07:55.539310+00:00",
+    "edge_type": "spread"
+  },
+  "Mercyhurst Lakers vs. Stonehill Skyhawks|Mercyhurst Lakers|moneyline": {
+    "captured_at": "2026-01-17T05:07:55.540969+00:00",
+    "edge_type": "moneyline"
+  },
+  "Nicholls St Colonels vs. Lamar Cardinals|Nicholls St Colonels|moneyline": {
+    "captured_at": "2026-01-17T05:07:55.543535+00:00",
+    "edge_type": "moneyline"
+  },
+  "Jackson St Tigers vs. Prairie View Panthers|Jackson St Tigers|moneyline": {
+    "captured_at": "2026-01-17T05:07:55.543658+00:00",
+    "edge_type": "moneyline"
+  },
+  "Texas A&M-CC Islanders vs. SE Louisiana Lions|Texas A&M-CC Islanders|moneyline": {
+    "captured_at": "2026-01-17T05:07:55.545880+00:00",
+    "edge_type": "moneyline"
+  },
+  "Maryland-Eastern Shore Hawks vs. Coppin St Eagles|Maryland-Eastern Shore Hawks|spread": {
+    "captured_at": "2026-01-17T05:07:55.546546+00:00",
+    "edge_type": "spread"
+  },
+  "Delaware St Hornets vs. Morgan St Bears|Delaware St Hornets|moneyline": {
+    "captured_at": "2026-01-17T05:07:55.546797+00:00",
+    "edge_type": "moneyline"
+  },
+  "Grambling St Tigers vs. Southern Jaguars|Grambling St Tigers|moneyline": {
+    "captured_at": "2026-01-17T05:07:55.547678+00:00",
+    "edge_type": "moneyline"
+  },
+  "Miss Valley St Delta Devils vs. Bethune-Cookman Wildcats|Miss Valley St Delta Devils|spread": {
+    "captured_at": "2026-01-17T05:07:55.548855+00:00",
+    "edge_type": "spread"
+  },
+  "Arkansas-Pine Bluff Golden Lions vs. Florida A&M Rattlers|over": {
+    "captured_at": "2026-01-17T05:07:55.549700+00:00",
+    "edge_type": "over"
+  },
+  "Arkansas-Pine Bluff Golden Lions vs. Florida A&M Rattlers|Arkansas-Pine Bluff Golden Lions|moneyline": {
+    "captured_at": "2026-01-17T05:07:55.549810+00:00",
+    "edge_type": "moneyline"
+  },
+  "Sacramento St Hornets vs. N Colorado Bears|under": {
+    "captured_at": "2026-01-17T05:07:55.552882+00:00",
+    "edge_type": "under"
   }
 }
