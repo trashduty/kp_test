@@ -1662,5 +1662,29 @@
   "Weber State Wildcats vs. Idaho Vandals|Weber State Wildcats|moneyline": {
     "captured_at": "2026-01-17T02:39:48.913453+00:00",
     "edge_type": "moneyline"
+  },
+  "Lafayette Leopards vs. Holy Cross Crusaders|over": {
+    "captured_at": "2026-01-17T04:14:53.864705+00:00",
+    "edge_type": "over"
+  },
+  "Florida Gulf Coast Eagles vs. West Georgia Wolves|under": {
+    "captured_at": "2026-01-17T04:14:53.865868+00:00",
+    "edge_type": "under"
+  },
+  "Mercyhurst Lakers vs. Stonehill Skyhawks|Mercyhurst Lakers|spread": {
+    "captured_at": "2026-01-17T04:14:53.868606+00:00",
+    "edge_type": "spread"
+  },
+  "Colgate Raiders vs. Bucknell Bison|over": {
+    "captured_at": "2026-01-17T04:14:53.869161+00:00",
+    "edge_type": "over"
+  },
+  "Alcorn St Braves vs. Texas Southern Tigers|over": {
+    "captured_at": "2026-01-17T04:14:53.872631+00:00",
+    "edge_type": "over"
+  },
+  "Loyola Marymount Lions vs. Portland Pilots|Loyola Marymount Lions|moneyline": {
+    "captured_at": "2026-01-17T04:14:53.878444+00:00",
+    "edge_type": "moneyline"
   }
 }
