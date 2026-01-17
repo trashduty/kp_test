@@ -1562,5 +1562,45 @@
   "Canisius Golden Griffins vs. Mt. St. Mary's Mountaineers|under": {
     "captured_at": "2026-01-16T23:07:10.468815+00:00",
     "edge_type": "under"
+  },
+  "Samford Bulldogs vs. East Tennessee St Buccaneers|East Tennessee St Buccaneers|moneyline": {
+    "captured_at": "2026-01-17T00:28:32.985456+00:00",
+    "edge_type": "moneyline"
+  },
+  "Brown Bears vs. Columbia Lions|Brown Bears|spread": {
+    "captured_at": "2026-01-17T00:28:32.986936+00:00",
+    "edge_type": "spread"
+  },
+  "Valparaiso Beacons vs. Northern Iowa Panthers|Northern Iowa Panthers|moneyline": {
+    "captured_at": "2026-01-17T00:28:32.988800+00:00",
+    "edge_type": "moneyline"
+  },
+  "Valparaiso Beacons vs. Northern Iowa Panthers|under": {
+    "captured_at": "2026-01-17T00:28:32.988847+00:00",
+    "edge_type": "under"
+  },
+  "UL Monroe Warhawks vs. Georgia St Panthers|UL Monroe Warhawks|spread": {
+    "captured_at": "2026-01-17T00:28:32.989353+00:00",
+    "edge_type": "spread"
+  },
+  "Stony Brook Seawolves vs. Charleston Cougars|Stony Brook Seawolves|spread": {
+    "captured_at": "2026-01-17T00:28:32.990546+00:00",
+    "edge_type": "spread"
+  },
+  "Murray St Racers vs. Indiana St Sycamores|Murray St Racers|spread": {
+    "captured_at": "2026-01-17T00:28:32.991627+00:00",
+    "edge_type": "spread"
+  },
+  "Troy Trojans vs. Arkansas St Red Wolves|Troy Trojans|moneyline": {
+    "captured_at": "2026-01-17T00:28:32.992317+00:00",
+    "edge_type": "moneyline"
+  },
+  "Fresno St Bulldogs vs. Wyoming Cowboys|Fresno St Bulldogs|spread": {
+    "captured_at": "2026-01-17T00:28:32.994487+00:00",
+    "edge_type": "spread"
+  },
+  "Santa Clara Broncos vs. Saint Mary's Gaels|Santa Clara Broncos|moneyline": {
+    "captured_at": "2026-01-17T00:28:32.994741+00:00",
+    "edge_type": "moneyline"
   }
 }
