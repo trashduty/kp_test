@@ -1738,5 +1738,17 @@
   "Sacramento St Hornets vs. N Colorado Bears|under": {
     "captured_at": "2026-01-17T05:07:55.552882+00:00",
     "edge_type": "under"
+  },
+  "North Alabama Lions vs. Jacksonville Dolphins|under": {
+    "captured_at": "2026-01-17T06:09:56.930194+00:00",
+    "edge_type": "under"
+  },
+  "Grambling St Tigers vs. Southern Jaguars|Grambling St Tigers|spread": {
+    "captured_at": "2026-01-17T06:09:56.934944+00:00",
+    "edge_type": "spread"
+  },
+  "High Point Panthers vs. South Carolina Upstate Spartans|over": {
+    "captured_at": "2026-01-17T06:09:56.937619+00:00",
+    "edge_type": "over"
   }
 }
