@@ -1774,5 +1774,41 @@
   "Towson Tigers vs. Drexel Dragons|Drexel Dragons|spread": {
     "captured_at": "2026-01-18T20:07:37.120636+00:00",
     "edge_type": "spread"
+  },
+  "Brown Bears vs. Cornell Big Red|Brown Bears|spread": {
+    "captured_at": "2026-01-18T21:06:28.711337+00:00",
+    "edge_type": "spread"
+  },
+  "Brown Bears vs. Cornell Big Red|Brown Bears|moneyline": {
+    "captured_at": "2026-01-18T21:06:28.711382+00:00",
+    "edge_type": "moneyline"
+  },
+  "Niagara Purple Eagles vs. Mt. St. Mary's Mountaineers|Mt. St. Mary's Mountaineers|moneyline": {
+    "captured_at": "2026-01-18T21:06:28.712029+00:00",
+    "edge_type": "moneyline"
+  },
+  "Marist Red Foxes vs. Merrimack Warriors|under": {
+    "captured_at": "2026-01-18T21:06:28.712149+00:00",
+    "edge_type": "under"
+  },
+  "Marist Red Foxes vs. Merrimack Warriors|Marist Red Foxes|spread": {
+    "captured_at": "2026-01-18T21:06:28.712251+00:00",
+    "edge_type": "spread"
+  },
+  "Marist Red Foxes vs. Merrimack Warriors|Marist Red Foxes|moneyline": {
+    "captured_at": "2026-01-18T21:06:28.712285+00:00",
+    "edge_type": "moneyline"
+  },
+  "Le Moyne Dolphins vs. LIU Sharks|over": {
+    "captured_at": "2026-01-18T21:06:28.712647+00:00",
+    "edge_type": "over"
+  },
+  "Dartmouth Big Green vs. Princeton Tigers|Dartmouth Big Green|moneyline": {
+    "captured_at": "2026-01-18T21:06:28.713124+00:00",
+    "edge_type": "moneyline"
+  },
+  "N Colorado Bears vs. Montana St Bobcats|under": {
+    "captured_at": "2026-01-18T21:06:28.713451+00:00",
+    "edge_type": "under"
   }
 }
