@@ -1850,5 +1850,33 @@
   "Dartmouth Big Green vs. Princeton Tigers|Dartmouth Big Green|spread": {
     "captured_at": "2026-01-18T22:06:55.541408+00:00",
     "edge_type": "spread"
+  },
+  "Alcorn St Braves vs. Prairie View Panthers|over": {
+    "captured_at": "2026-01-18T23:07:03.060894+00:00",
+    "edge_type": "over"
+  },
+  "Alcorn St Braves vs. Prairie View Panthers|Alcorn St Braves|spread": {
+    "captured_at": "2026-01-18T23:07:03.061014+00:00",
+    "edge_type": "spread"
+  },
+  "Alabama St Hornets vs. Alabama A&M Bulldogs|Alabama St Hornets|spread": {
+    "captured_at": "2026-01-18T23:07:03.061441+00:00",
+    "edge_type": "spread"
+  },
+  "Arkansas-Pine Bluff Golden Lions vs. Bethune-Cookman Wildcats|Arkansas-Pine Bluff Golden Lions|spread": {
+    "captured_at": "2026-01-18T23:07:03.061917+00:00",
+    "edge_type": "spread"
+  },
+  "Nicholls St Colonels vs. Stephen F. Austin Lumberjacks|Stephen F. Austin Lumberjacks|moneyline": {
+    "captured_at": "2026-01-18T23:07:03.062164+00:00",
+    "edge_type": "moneyline"
+  },
+  "UT Rio Grande Valley Vaqueros vs. SE Louisiana Lions|UT Rio Grande Valley Vaqueros|moneyline": {
+    "captured_at": "2026-01-18T23:07:03.062345+00:00",
+    "edge_type": "moneyline"
+  },
+  "New Orleans Privateers vs. Lamar Cardinals|New Orleans Privateers|moneyline": {
+    "captured_at": "2026-01-18T23:07:03.062630+00:00",
+    "edge_type": "moneyline"
   }
 }
