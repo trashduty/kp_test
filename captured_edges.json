@@ -1770,5 +1770,9 @@
   "San Francisco Dons vs. Washington St Cougars|San Francisco Dons|moneyline": {
     "captured_at": "2026-01-18T02:51:35.609982+00:00",
     "edge_type": "moneyline"
+  },
+  "Towson Tigers vs. Drexel Dragons|Drexel Dragons|spread": {
+    "captured_at": "2026-01-18T20:07:37.120636+00:00",
+    "edge_type": "spread"
   }
 }
