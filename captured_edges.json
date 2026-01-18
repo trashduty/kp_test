@@ -1750,5 +1750,21 @@
   "High Point Panthers vs. South Carolina Upstate Spartans|over": {
     "captured_at": "2026-01-17T06:09:56.937619+00:00",
     "edge_type": "over"
+  },
+  "East Carolina Pirates vs. Charlotte 49ers|Charlotte 49ers|spread": {
+    "captured_at": "2026-01-18T00:33:05.970303+00:00",
+    "edge_type": "spread"
+  },
+  "UAB Blazers vs. Tulsa Golden Hurricane|Tulsa Golden Hurricane|spread": {
+    "captured_at": "2026-01-18T00:33:05.970735+00:00",
+    "edge_type": "spread"
+  },
+  "Memphis Tigers vs. UTSA Roadrunners|under": {
+    "captured_at": "2026-01-18T00:33:05.971032+00:00",
+    "edge_type": "under"
+  },
+  "Memphis Tigers vs. UTSA Roadrunners|Memphis Tigers|spread": {
+    "captured_at": "2026-01-18T00:33:05.971140+00:00",
+    "edge_type": "spread"
   }
 }
