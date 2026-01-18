@@ -1810,5 +1810,45 @@
   "N Colorado Bears vs. Montana St Bobcats|under": {
     "captured_at": "2026-01-18T21:06:28.713451+00:00",
     "edge_type": "under"
+  },
+  "Albany Great Danes vs. Vermont Catamounts|Albany Great Danes|spread": {
+    "captured_at": "2026-01-18T22:06:55.537874+00:00",
+    "edge_type": "spread"
+  },
+  "Mercyhurst Lakers vs. Central Connecticut St Blue Devils|Mercyhurst Lakers|spread": {
+    "captured_at": "2026-01-18T22:06:55.538500+00:00",
+    "edge_type": "spread"
+  },
+  "Mercyhurst Lakers vs. Central Connecticut St Blue Devils|under": {
+    "captured_at": "2026-01-18T22:06:55.538544+00:00",
+    "edge_type": "under"
+  },
+  "Maine Black Bears vs. New Hampshire Wildcats|New Hampshire Wildcats|spread": {
+    "captured_at": "2026-01-18T22:06:55.539428+00:00",
+    "edge_type": "spread"
+  },
+  "Yale Bulldogs vs. Columbia Lions|Yale Bulldogs|spread": {
+    "captured_at": "2026-01-18T22:06:55.540297+00:00",
+    "edge_type": "spread"
+  },
+  "NJIT Highlanders vs. Bryant Bulldogs|NJIT Highlanders|spread": {
+    "captured_at": "2026-01-18T22:06:55.540494+00:00",
+    "edge_type": "spread"
+  },
+  "NJIT Highlanders vs. Bryant Bulldogs|NJIT Highlanders|moneyline": {
+    "captured_at": "2026-01-18T22:06:55.540531+00:00",
+    "edge_type": "moneyline"
+  },
+  "Texas A&M-CC Islanders vs. McNeese Cowboys|under": {
+    "captured_at": "2026-01-18T22:06:55.540965+00:00",
+    "edge_type": "under"
+  },
+  "Texas A&M-CC Islanders vs. McNeese Cowboys|Texas A&M-CC Islanders|spread": {
+    "captured_at": "2026-01-18T22:06:55.541073+00:00",
+    "edge_type": "spread"
+  },
+  "Dartmouth Big Green vs. Princeton Tigers|Dartmouth Big Green|spread": {
+    "captured_at": "2026-01-18T22:06:55.541408+00:00",
+    "edge_type": "spread"
   }
 }
