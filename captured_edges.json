@@ -1902,5 +1902,9 @@
   "Colorado Buffaloes vs. Kansas Jayhawks|Kansas Jayhawks|spread": {
     "captured_at": "2026-01-19T20:08:15.579665+00:00",
     "edge_type": "spread"
+  },
+  "TCU Horned Frogs vs. Oklahoma St Cowboys|Oklahoma St Cowboys|spread": {
+    "captured_at": "2026-01-19T21:06:58.918077+00:00",
+    "edge_type": "spread"
   }
 }
