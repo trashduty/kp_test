@@ -1878,5 +1878,13 @@
   "New Orleans Privateers vs. Lamar Cardinals|New Orleans Privateers|moneyline": {
     "captured_at": "2026-01-18T23:07:03.062630+00:00",
     "edge_type": "moneyline"
+  },
+  "Alabama St Hornets vs. Alabama A&M Bulldogs|Alabama St Hornets|moneyline": {
+    "captured_at": "2026-01-19T00:32:10.812617+00:00",
+    "edge_type": "moneyline"
+  },
+  "Jackson St Tigers vs. Texas Southern Tigers|Jackson St Tigers|moneyline": {
+    "captured_at": "2026-01-19T00:32:10.814070+00:00",
+    "edge_type": "moneyline"
   }
 }
