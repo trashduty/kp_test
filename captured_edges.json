@@ -1886,5 +1886,9 @@
   "Jackson St Tigers vs. Texas Southern Tigers|Jackson St Tigers|moneyline": {
     "captured_at": "2026-01-19T00:32:10.814070+00:00",
     "edge_type": "moneyline"
+  },
+  "South Carolina Gamecocks vs. Oklahoma Sooners|South Carolina Gamecocks|spread": {
+    "captured_at": "2026-01-19T19:07:40.491305+00:00",
+    "edge_type": "spread"
   }
 }
