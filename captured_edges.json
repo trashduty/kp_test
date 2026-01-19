@@ -1910,5 +1910,45 @@
   "Butler Bulldogs vs. DePaul Blue Demons|Butler Bulldogs|spread": {
     "captured_at": "2026-01-19T22:07:29.318977+00:00",
     "edge_type": "spread"
+  },
+  "Massachusetts Minutemen vs. Toledo Rockets|Massachusetts Minutemen|moneyline": {
+    "captured_at": "2026-01-19T23:07:05.687518+00:00",
+    "edge_type": "moneyline"
+  },
+  "Ohio State Buckeyes vs. Minnesota Golden Gophers|Ohio State Buckeyes|spread": {
+    "captured_at": "2026-01-19T23:07:05.687728+00:00",
+    "edge_type": "spread"
+  },
+  "Buffalo Bulls vs. Akron Zips|Buffalo Bulls|spread": {
+    "captured_at": "2026-01-19T23:07:05.688054+00:00",
+    "edge_type": "spread"
+  },
+  "Ohio Bobcats vs. Northern Illinois Huskies|Northern Illinois Huskies|spread": {
+    "captured_at": "2026-01-19T23:07:05.688876+00:00",
+    "edge_type": "spread"
+  },
+  "Western Michigan Broncos vs. Bowling Green Falcons|Western Michigan Broncos|spread": {
+    "captured_at": "2026-01-19T23:07:05.689008+00:00",
+    "edge_type": "spread"
+  },
+  "Florida Gators vs. LSU Tigers|LSU Tigers|spread": {
+    "captured_at": "2026-01-19T23:07:05.689468+00:00",
+    "edge_type": "spread"
+  },
+  "Iowa State Cyclones vs. UCF Knights|UCF Knights|spread": {
+    "captured_at": "2026-01-19T23:07:05.689722+00:00",
+    "edge_type": "spread"
+  },
+  "Central Michigan Chippewas vs. Ball State Cardinals|Central Michigan Chippewas|moneyline": {
+    "captured_at": "2026-01-19T23:07:05.689857+00:00",
+    "edge_type": "moneyline"
+  },
+  "Wyoming Cowboys vs. Boise State Broncos|Wyoming Cowboys|moneyline": {
+    "captured_at": "2026-01-19T23:07:05.690935+00:00",
+    "edge_type": "moneyline"
+  },
+  "SE Missouri St Redhawks vs. Tenn-Martin Skyhawks|Tenn-Martin Skyhawks|spread": {
+    "captured_at": "2026-01-19T23:07:05.691192+00:00",
+    "edge_type": "spread"
   }
 }
