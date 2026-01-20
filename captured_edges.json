@@ -1954,5 +1954,9 @@
   "Central Michigan Chippewas vs. Ball State Cardinals|under": {
     "captured_at": "2026-01-20T02:46:50.935846+00:00",
     "edge_type": "under"
+  },
+  "La Salle Explorers vs. Dayton Flyers|La Salle Explorers|spread": {
+    "captured_at": "2026-01-20T22:08:02.254808+00:00",
+    "edge_type": "spread"
   }
 }
