@@ -1950,5 +1950,9 @@
   "SE Missouri St Redhawks vs. Tenn-Martin Skyhawks|Tenn-Martin Skyhawks|spread": {
     "captured_at": "2026-01-19T23:07:05.691192+00:00",
     "edge_type": "spread"
+  },
+  "Central Michigan Chippewas vs. Ball State Cardinals|under": {
+    "captured_at": "2026-01-20T02:46:50.935846+00:00",
+    "edge_type": "under"
   }
 }
