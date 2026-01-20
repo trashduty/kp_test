@@ -1958,5 +1958,13 @@
   "La Salle Explorers vs. Dayton Flyers|La Salle Explorers|spread": {
     "captured_at": "2026-01-20T22:08:02.254808+00:00",
     "edge_type": "spread"
+  },
+  "Kentucky Wildcats vs. Texas Longhorns|Texas Longhorns|spread": {
+    "captured_at": "2026-01-20T23:07:24.013425+00:00",
+    "edge_type": "spread"
+  },
+  "Gonzaga Bulldogs vs. Pepperdine Waves|Gonzaga Bulldogs|spread": {
+    "captured_at": "2026-01-20T23:07:24.014928+00:00",
+    "edge_type": "spread"
   }
 }
