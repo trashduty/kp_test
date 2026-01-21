@@ -2002,5 +2002,9 @@
   "UT-Arlington Mavericks vs. Tarleton State Texans|UT-Arlington Mavericks|spread": {
     "captured_at": "2026-01-21T02:45:56.483605+00:00",
     "edge_type": "spread"
+  },
+  "Georgia St Panthers vs. Southern Miss Golden Eagles|Georgia St Panthers|moneyline": {
+    "captured_at": "2026-01-21T21:11:56.133175+00:00",
+    "edge_type": "moneyline"
   }
 }
