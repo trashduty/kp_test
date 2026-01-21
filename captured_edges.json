@@ -2006,5 +2006,17 @@
   "Georgia St Panthers vs. Southern Miss Golden Eagles|Georgia St Panthers|moneyline": {
     "captured_at": "2026-01-21T21:11:56.133175+00:00",
     "edge_type": "moneyline"
+  },
+  "William & Mary Tribe vs. UNC Wilmington Seahawks|William & Mary Tribe|moneyline": {
+    "captured_at": "2026-01-21T23:09:25.680879+00:00",
+    "edge_type": "moneyline"
+  },
+  "William & Mary Tribe vs. UNC Wilmington Seahawks|under": {
+    "captured_at": "2026-01-21T23:09:25.680927+00:00",
+    "edge_type": "under"
+  },
+  "Eastern Washington Eagles vs. Portland St Vikings|over": {
+    "captured_at": "2026-01-21T23:09:25.682086+00:00",
+    "edge_type": "over"
   }
 }
