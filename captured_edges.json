@@ -1966,5 +1966,29 @@
   "Gonzaga Bulldogs vs. Pepperdine Waves|Gonzaga Bulldogs|spread": {
     "captured_at": "2026-01-20T23:07:24.014928+00:00",
     "edge_type": "spread"
+  },
+  "Detroit Mercy Titans vs. Fort Wayne Mastodons|Detroit Mercy Titans|spread": {
+    "captured_at": "2026-01-21T00:31:20.648188+00:00",
+    "edge_type": "spread"
+  },
+  "Richmond Spiders vs. Rhode Island Rams|Richmond Spiders|spread": {
+    "captured_at": "2026-01-21T00:31:20.648316+00:00",
+    "edge_type": "spread"
+  },
+  "Oakland Golden Grizzlies vs. IUPUI Jaguars|Oakland Golden Grizzlies|spread": {
+    "captured_at": "2026-01-21T00:31:20.649323+00:00",
+    "edge_type": "spread"
+  },
+  "Illinois Fighting Illini vs. Maryland Terrapins|Illinois Fighting Illini|spread": {
+    "captured_at": "2026-01-21T00:31:20.650475+00:00",
+    "edge_type": "spread"
+  },
+  "Sam Houston St Bearkats vs. Kennesaw St Owls|Sam Houston St Bearkats|spread": {
+    "captured_at": "2026-01-21T00:31:20.651918+00:00",
+    "edge_type": "spread"
+  },
+  "Arizona Wildcats vs. Cincinnati Bearcats|under": {
+    "captured_at": "2026-01-21T00:31:20.653550+00:00",
+    "edge_type": "under"
   }
 }
