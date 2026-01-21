@@ -1990,5 +1990,17 @@
   "Arizona Wildcats vs. Cincinnati Bearcats|under": {
     "captured_at": "2026-01-21T00:31:20.653550+00:00",
     "edge_type": "under"
+  },
+  "Presbyterian Blue Hose vs. Charleston Southern Buccaneers|under": {
+    "captured_at": "2026-01-21T02:45:56.480845+00:00",
+    "edge_type": "under"
+  },
+  "North Texas Mean Green vs. UTSA Roadrunners|under": {
+    "captured_at": "2026-01-21T02:45:56.483034+00:00",
+    "edge_type": "under"
+  },
+  "UT-Arlington Mavericks vs. Tarleton State Texans|UT-Arlington Mavericks|spread": {
+    "captured_at": "2026-01-21T02:45:56.483605+00:00",
+    "edge_type": "spread"
   }
 }
