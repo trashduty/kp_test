@@ -12,6 +12,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: model-performance-update
+  cancel-in-progress: false  # Let current run finish, queue the next
+
 jobs:
   analyze:
     runs-on: ubuntu-latest

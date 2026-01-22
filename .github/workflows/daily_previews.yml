@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: daily-previews-update
+  cancel-in-progress: false  # Let current run finish, queue the next
+
 jobs:
   generate-previews:
     runs-on: ubuntu-latest
