@@ -8,6 +8,10 @@ name: Update Weekly Performance Report
 permissions:
   contents:  write
 
+concurrency:
+  group: weekly-report-update
+  cancel-in-progress: false  # Let current run finish, queue the next
+
 jobs:
   update-report:
     runs-on:  ubuntu-latest

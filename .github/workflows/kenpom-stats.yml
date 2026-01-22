@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: kenpom-stats-update
+  cancel-in-progress: false  # Let current run finish, queue the next
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
