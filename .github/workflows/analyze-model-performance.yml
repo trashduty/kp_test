@@ -38,8 +38,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/model_performance_analysis.txt docs/model_performance_analysis.html
-          git commit -m "Update model performance analysis [skip ci]" || echo "No changes to commit"
-          git push
+          if git commit -m "Update model performance analysis [skip ci]"; then
+            git pull --rebase origin main
+            git push
+          else
+            echo "No changes to commit"
+          fi
 
       - name: 📸 Upload analysis logs
         if: always()

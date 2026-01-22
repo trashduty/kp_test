@@ -57,5 +57,9 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add kenpom_stats.csv _posts/
-          git commit -m "🤖 Daily update: KenPom stats and game previews [skip ci]" || echo "No changes to commit"
-          git push
+          if git commit -m "🤖 Daily update: KenPom stats and game previews [skip ci]"; then
+            git pull --rebase origin main
+            git push
+          else
+            echo "No changes to commit"
+          fi

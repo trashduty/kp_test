@@ -110,7 +110,11 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add docs/plots/*.png daily_matchups.csv championship_odds.csv kenpom-data/*
-        git commit -m "Update daily plots and matchups ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))" || echo "No changes to commit"
-        git push
+        if git commit -m "Update daily plots and matchups ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))"; then
+          git pull --rebase origin main
+          git push
+        else
+          echo "No changes to commit"
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -36,6 +36,10 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add performance_tracking/ captured_edges.json
-          git diff --staged --quiet || git commit -m "Update weekly performance tracking [automated]"
-          git push
+          if git commit -m "Update weekly performance tracking [automated]"; then
+            git pull --rebase origin main
+            git push
+          else
+            echo "No changes to commit"
+          fi
         continue-on-error: true
