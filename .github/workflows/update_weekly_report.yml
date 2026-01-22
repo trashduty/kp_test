@@ -47,13 +47,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/weekly/current_week.html docs/weekly/previous_week.html
-          # Only commit if there are changes
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Auto-update weekly reports for week of ${{ steps.calc_date.outputs.week_start }} [skip ci]"
+          if git commit -m "Auto-update weekly reports for week of ${{ steps.calc_date.outputs.week_start }} [skip ci]"; then
+            git pull --rebase origin main
             git push
             echo "✓ Weekly reports updated and pushed"
+          else
+            echo "No changes to commit"
           fi
 
       - name: 📸 Upload report artifacts
