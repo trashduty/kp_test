@@ -2018,5 +2018,29 @@
   "Eastern Washington Eagles vs. Portland St Vikings|over": {
     "captured_at": "2026-01-21T23:09:25.682086+00:00",
     "edge_type": "over"
+  },
+  "Iona Gaels vs. Merrimack Warriors|Iona Gaels|spread": {
+    "captured_at": "2026-01-22T00:31:57.249763+00:00",
+    "edge_type": "spread"
+  },
+  "Iona Gaels vs. Merrimack Warriors|Iona Gaels|moneyline": {
+    "captured_at": "2026-01-22T00:31:57.249809+00:00",
+    "edge_type": "moneyline"
+  },
+  "Coastal Carolina Chanticleers vs. Texas State Bobcats|Coastal Carolina Chanticleers|moneyline": {
+    "captured_at": "2026-01-22T00:31:57.250415+00:00",
+    "edge_type": "moneyline"
+  },
+  "Elon Phoenix vs. Towson Tigers|Elon Phoenix|spread": {
+    "captured_at": "2026-01-22T00:31:57.251484+00:00",
+    "edge_type": "spread"
+  },
+  "Elon Phoenix vs. Towson Tigers|Elon Phoenix|moneyline": {
+    "captured_at": "2026-01-22T00:31:57.251521+00:00",
+    "edge_type": "moneyline"
+  },
+  "Oral Roberts Golden Eagles vs. North Dakota Fighting Hawks|Oral Roberts Golden Eagles|moneyline": {
+    "captured_at": "2026-01-22T00:31:57.252608+00:00",
+    "edge_type": "moneyline"
   }
 }
