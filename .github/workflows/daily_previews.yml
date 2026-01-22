@@ -1,0 +1,59 @@
+name: Daily Basketball Previews
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *'  # Run daily at 06:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  generate-previews:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧾 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 📦 Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🌐 Install Google Chrome
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+
+      - name: 🚗 Install ChromeDriver
+        uses: nanasess/setup-chromedriver@v2
+
+      - name: ✅ Verify Chrome and ChromeDriver versions
+        run: |
+          google-chrome --version
+          chromedriver --version
+
+      - name: 🕷️ Scrape KenPom stats
+        env:
+          KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
+          KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
+        run: python scrape_kenpom_stats.py
+
+      - name: 📝 Generate game previews
+        run: python generate_previews.py
+
+      - name: 💾 Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add kenpom_stats.csv _posts/
+          git commit -m "🤖 Daily update: KenPom stats and game previews [skip ci]" || echo "No changes to commit"
+          git push
