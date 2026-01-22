@@ -19,7 +19,7 @@ jobs:
       - name: 🧾 Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1  # This ensures we get the latest code
+          fetch-depth: 1
 
       - name: 🐍 Set up Python
         uses: actions/setup-python@v5
@@ -31,39 +31,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: 🌐 Install Google Chrome
-        uses: browser-actions/setup-chrome@v1
-        with:
-          chrome-version: stable
-
-      - name: 🚗 Install ChromeDriver
-        uses: nanasess/setup-chromedriver@v2
-
-      - name: ✅ Verify Chrome and ChromeDriver versions
-        run: |
-          google-chrome --version
-          chromedriver --version
-
-      - name: 🔐 Set up environment variables
-        run: |
-          echo "KENPOM_USERNAME=${{ secrets.KENPOM_USERNAME }}" >> $GITHUB_ENV
-          echo "KENPOM_PASSWORD=${{ secrets.KENPOM_PASSWORD }}" >> $GITHUB_ENV
-          echo "TWOCAPTCHA_API_KEY=${{ secrets.TWOCAPTCHA_API_KEY }}" >> $GITHUB_ENV
-
-      - name: 🕷️ Run Python scraper
+      - name: 🕷️ Run Python scraper (API)
         env:
-          KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
-          KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
-          TWOCAPTCHA_API_KEY: ${{ secrets.TWOCAPTCHA_API_KEY }}
+          KENPOM_API_KEY: ${{ secrets.KENPOM_API_KEY }}
         run: python scrape_kenpom_stats.py
 
       - name: 🏀 Scrape AP Top 25 rankings
-        env:
-          KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
-          KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
-          TWOCAPTCHA_API_KEY: ${{ secrets.TWOCAPTCHA_API_KEY }}
         run: python scrape_ap_rankings.py
-        continue-on-error: true  # Don't fail if ESPN is temporarily unavailable
+        continue-on-error: true
 
       - name: 📸 Upload debug artifacts
         if: always()
@@ -71,10 +46,8 @@ jobs:
         with:
           name: kenpom-debug
           path: |
-            error_screenshot.png
-            kenpom_stats_raw.csv
             kenpom_stats.csv
-            kenpom-data/**
+            ap_top25.csv
           if-no-files-found: ignore
 
       - name: 🧰 Set up R
@@ -126,18 +99,15 @@ jobs:
         env:
           R_LIBS_USER: /home/runner/work/_temp/Library
         run: |
-          # Debug: List files in current directory
           ls -la
-          # Run the R script
           Rscript generate_kenpom_plot.R
 
-      # After generating plots, copy them to docs/plots
       - name: 📁 Copy plots to docs directory
         run: |
           mkdir -p docs/plots/conferences
-          cp plots/kenpom_top100_eff.png docs/plots/
-          cp plots/kenpom_ap25_eff.png docs/plots/
-          cp plots/conferences/* docs/plots/conferences/
+          cp plots/kenpom_top100_eff.png docs/plots/ 2>/dev/null || echo "No top100 plot found"
+          cp plots/kenpom_ap25_eff.png docs/plots/ 2>/dev/null || echo "No ap25 plot found"
+          cp plots/conferences/* docs/plots/conferences/ 2>/dev/null || echo "No conference plots found"
 
       - name: 💾 Commit files to repo
         run: |
