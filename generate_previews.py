@@ -198,7 +198,7 @@ Our model predicts **{predicted_winner}** will win this matchup.
 
 ### Key Matchup Factors
 
-The efficiency ratings suggest {"an offensive battle" if str(home_ortg) != 'N/A' and float(str(home_ortg)) > 110 or str(away_ortg) != 'N/A' and float(str(away_ortg)) > 110 else "a defensive struggle"}. The tempo differential will be crucial in determining which team can impose their style of play.
+The efficiency ratings suggest {"an offensive battle" if _is_offensive_battle(home_ortg, away_ortg) else "a defensive struggle"}. The tempo differential will be crucial in determining which team can impose their style of play.
 
 ---
 
@@ -206,6 +206,17 @@ The efficiency ratings suggest {"an offensive battle" if str(home_ortg) != 'N/A'
 """
     
     return front_matter + content
+
+def _is_offensive_battle(home_ortg, away_ortg):
+    """Helper to determine if game will be offensive battle"""
+    try:
+        if str(home_ortg) != 'N/A' and float(str(home_ortg)) > 110:
+            return True
+        if str(away_ortg) != 'N/A' and float(str(away_ortg)) > 110:
+            return True
+    except (ValueError, TypeError):
+        pass
+    return False
 
 def main():
     """Main function to generate previews"""

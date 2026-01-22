@@ -88,30 +88,31 @@ def scrape_kenpom_ratings():
                 continue
             
             # Extract data based on the 21-column format
-            team_data = {
-                'Rk': cols[0].text.strip(),
-                'Team': cols[1].text.strip(),
-                'Conf': cols[2].text.strip(),
-                'W-L': cols[3].text.strip(),
-                'NetRtg_value': cols[4].text.strip(),
-                'ORtg_value': cols[5].text.strip(),
-                'ORtg_rank': cols[6].text.strip(),
-                'DRtg_value': cols[7].text.strip(),
-                'DRtg_rank': cols[8].text.strip(),
-                'AdjT_value': cols[9].text.strip(),
-                'AdjT_rank': cols[10].text.strip(),
-                'Luck_value': cols[11].text.strip(),
-                'Luck_rank': cols[12].text.strip(),
-                'NetRtg_rank': cols[13].text.strip(),
-                'NetRtg_rank': cols[14].text.strip(),
-                'ORtg_rank': cols[15].text.strip(),
-                'ORtg_rank': cols[16].text.strip(),
-                'DRtg_rank': cols[17].text.strip(),
-                'DRtg_rank': cols[18].text.strip(),
-                'NetRtg_rank': cols[19].text.strip(),
-                'NetRtg_rank': cols[20].text.strip(),
-            }
-            data.append(team_data)
+            # Use list to preserve all columns including duplicates
+            team_row = [
+                cols[0].text.strip(),  # Rk
+                cols[1].text.strip(),  # Team
+                cols[2].text.strip(),  # Conf
+                cols[3].text.strip(),  # W-L
+                cols[4].text.strip(),  # NetRtg_value
+                cols[5].text.strip(),  # ORtg_value
+                cols[6].text.strip(),  # ORtg_rank
+                cols[7].text.strip(),  # DRtg_value
+                cols[8].text.strip(),  # DRtg_rank
+                cols[9].text.strip(),  # AdjT_value
+                cols[10].text.strip(), # AdjT_rank
+                cols[11].text.strip(), # Luck_value
+                cols[12].text.strip(), # Luck_rank
+                cols[13].text.strip(), # NetRtg_rank (dup 1)
+                cols[14].text.strip(), # NetRtg_rank (dup 2)
+                cols[15].text.strip(), # ORtg_rank (dup 1)
+                cols[16].text.strip(), # ORtg_rank (dup 2)
+                cols[17].text.strip(), # DRtg_rank (dup 1)
+                cols[18].text.strip(), # DRtg_rank (dup 2)
+                cols[19].text.strip(), # NetRtg_rank (dup 3)
+                cols[20].text.strip(), # NetRtg_rank (dup 4)
+            ]
+            data.append(team_row)
         
         print(f"✅ Successfully scraped {len(data)} teams.")
         return data
@@ -128,7 +129,7 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
     if not data:
         return
     
-    # Header as specified in requirements
+    # Header as specified in requirements (with duplicates)
     header = [
         'Rk', 'Team', 'Conf', 'W-L', 'NetRtg_value', 'ORtg_value', 'ORtg_rank',
         'DRtg_value', 'DRtg_rank', 'AdjT_value', 'AdjT_rank', 'Luck_value',
@@ -138,8 +139,8 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
     
     try:
         with open(filename, 'w', newline='', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fieldnames=header)
-            writer.writeheader()
+            writer = csv.writer(f)
+            writer.writerow(header)
             writer.writerows(data)
         
         print(f"📄 Data saved successfully to {filename}")
