@@ -2050,5 +2050,25 @@
   "SIU-Edwardsville Cougars vs. Tennessee St Tigers|SIU-Edwardsville Cougars|moneyline": {
     "captured_at": "2026-01-22T01:36:37.259046+00:00",
     "edge_type": "moneyline"
+  },
+  "Austin Peay Governors vs. Florida Gulf Coast Eagles|under": {
+    "captured_at": "2026-01-22T02:49:57.978470+00:00",
+    "edge_type": "under"
+  },
+  "UMass Lowell River Hawks vs. Vermont Catamounts|over": {
+    "captured_at": "2026-01-22T02:49:57.978962+00:00",
+    "edge_type": "over"
+  },
+  "New Hampshire Wildcats vs. Binghamton Bearcats|New Hampshire Wildcats|spread": {
+    "captured_at": "2026-01-22T02:49:57.979157+00:00",
+    "edge_type": "spread"
+  },
+  "North Florida Ospreys vs. Eastern Kentucky Colonels|North Florida Ospreys|spread": {
+    "captured_at": "2026-01-22T02:49:57.980546+00:00",
+    "edge_type": "spread"
+  },
+  "Oral Roberts Golden Eagles vs. North Dakota Fighting Hawks|Oral Roberts Golden Eagles|spread": {
+    "captured_at": "2026-01-22T02:49:57.982658+00:00",
+    "edge_type": "spread"
   }
 }
