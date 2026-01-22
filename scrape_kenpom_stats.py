@@ -51,6 +51,7 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
     field_mapping = {
         'TeamName': 'Team',
         'AdjOE': 'ORtg_value',
+        'RankAdjEM': 'Rk',
         'RankAdjOE': 'ORtg_rank',
         'AdjDE': 'DRtg_value',
         'RankAdjDE': 'DRtg_rank',
