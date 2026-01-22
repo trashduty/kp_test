@@ -2070,5 +2070,17 @@
   "Oral Roberts Golden Eagles vs. North Dakota Fighting Hawks|Oral Roberts Golden Eagles|spread": {
     "captured_at": "2026-01-22T02:49:57.982658+00:00",
     "edge_type": "spread"
+  },
+  "Rutgers Scarlet Knights vs. Indiana Hoosiers|Indiana Hoosiers|spread": {
+    "captured_at": "2026-01-22T21:08:53.212148+00:00",
+    "edge_type": "spread"
+  },
+  "Buffalo Bulls vs. Massachusetts Minutemen|Buffalo Bulls|spread": {
+    "captured_at": "2026-01-22T21:08:53.212485+00:00",
+    "edge_type": "spread"
+  },
+  "Buffalo Bulls vs. Massachusetts Minutemen|Buffalo Bulls|moneyline": {
+    "captured_at": "2026-01-22T21:08:53.212522+00:00",
+    "edge_type": "moneyline"
   }
 }
