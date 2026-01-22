@@ -43,6 +43,8 @@ jobs:
 
       - name: 🕷️ Scrape KenPom stats
         env:
+          KENPOM_API_KEY: ${{ secrets.KENPOM_API_KEY }}
+          # Keep these if your other scripts (like generate_previews) need them
           KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
           KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
         run: python scrape_kenpom_stats.py
