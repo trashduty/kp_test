@@ -47,25 +47,23 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
     if not data:
         return
 
-    # Define the mapping from API fields to the names expected by plotting scripts
+    # Define the mapping from API fields to the names expected by other scripts
     field_mapping = {
         'TeamName': 'Team',
+        'RankAdjEM': 'Rk',           # Map the overall rank to 'Rk'
         'AdjOE': 'ORtg_value',
-        'RankAdjEM': 'Rk',
         'RankAdjOE': 'ORtg_rank',
         'AdjDE': 'DRtg_value',
         'RankAdjDE': 'DRtg_rank',
         'AdjTempo': 'AdjT_value',
         'RankAdjTempo': 'AdjT_rank',
-        # Luck is not always in the four-factors endpoint, but we check for it
         'Luck': 'Luck_value',
         'RankLuck': 'Luck_rank'
     }
 
-    # Original header structure from the scraper, but with renamed 'Team' column
-    # and metric names aligned with R script expectations
+    # IMPORTANT: 'Rk' MUST be in this list
     header = [
-        'Team', 'Season', 'ConfOnly', 'ORtg_value', 'ORtg_rank', 'DRtg_value', 'DRtg_rank',
+        'Team', 'Rk', 'Season', 'ConfOnly', 'ORtg_value', 'ORtg_rank', 'DRtg_value', 'DRtg_rank',
         'AdjT_value', 'AdjT_rank', 'Luck_value', 'Luck_rank',
         'OE', 'RankOE', 'DE', 'RankDE', 'Tempo', 'RankTempo',
         'eFG_Pct', 'RankeFG_Pct', 'TO_Pct', 'RankTO_Pct', 'OR_Pct', 'RankOR_Pct', 
@@ -75,18 +73,22 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
 
     try:
         with open(filename, 'w', newline='', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fieldnames=header)
+            # extrasaction='ignore' is the key fix here
+            writer = csv.DictWriter(f, fieldnames=header, extrasaction='ignore')
             writer.writeheader()
+            
             for team in data:
                 row = {}
-                # Map the fields we need to rename
+                
+                # 1. Map renamed fields
                 for api_key, target_key in field_mapping.items():
                     row[target_key] = team.get(api_key, "")
                 
-                # Fill in the rest of the fields using their original API names
-                for key in header:
+                # 2. Fill the rest of the fields from the API data
+                # Any fields in 'team' that aren't in 'header' will be ignored by DictWriter
+                for key, value in team.items():
                     if key not in row:
-                        row[key] = team.get(key, "")
+                        row[key] = value
                 
                 writer.writerow(row)
         
