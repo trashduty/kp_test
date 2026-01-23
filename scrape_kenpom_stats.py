@@ -4,6 +4,7 @@ import requests
 import csv
 import json
 from dotenv import load_dotenv
+from collections import defaultdict
 
 # Load API key
 load_dotenv()
@@ -21,106 +22,58 @@ HEADERS = {
     "Accept": "application/json"
 }
 
-def fetch_ratings():
-    params = {
-        "endpoint": "ratings",
-        "y": SEASON
-    }
-    
-    try:
-        print(f"🚀 Fetching Ratings data for {SEASON}...")
-        response = requests.get(BASE_URL, headers=HEADERS, params=params)
-        response.raise_for_status()
-        
-        data = response.json()
-        if not data:
-            print("⚠️ No data returned from API.")
-            return []
-            
-        print(f"✅ Successfully retrieved data for {len(data)} teams.")
-        print()
-        
-        # ============================================================
-        # COMPREHENSIVE DEBUG LOGGING
-        # ============================================================
-        
-        if data:
-            # 1. Print full raw API response structure (first team only)
-            print("🔍 DEBUG: Raw API Response (first team):")
-            print("-" * 60)
-            print(json.dumps(data[0], indent=2, default=str))
-            print("-" * 60)
-            print()
-            
-            # 2. List all available field names
-            all_fields = list(data[0].keys())
-            print("📋 DEBUG: Available fields in API response:")
-            print(f"   {all_fields}")
-            print()
-            
-            # 3. Check specifically for rank-related fields
-            print("🔍 DEBUG: Rank-related fields analysis:")
-            rank_related_fields = []
-            for field in all_fields:
-                if 'rank' in field.lower():
-                    rank_related_fields.append(field)
-                    value = data[0].get(field)
-                    print(f"   - {field}: {value}")
-            
-            if not rank_related_fields:
-                print("   ⚠️  No rank-related fields found in response!")
-            print()
-            
-            # 4. Specifically check for expected rank fields
-            print("🔍 DEBUG: Checking for specific expected fields:")
-            expected_fields = ['RankAdjEM', 'Rank', 'RankOverall', 'AdjEM']
-            for field in expected_fields:
-                if field in data[0]:
-                    print(f"   ✓ {field}: {data[0][field]}")
-                else:
-                    print(f"   ✗ {field}: NOT FOUND")
-            print()
-            
-            # 5. Print sample of 3-5 teams with key fields
-            print("📊 DEBUG: Sample teams with all fields:")
-            sample_size = min(5, len(data))
-            for i in range(sample_size):
-                team = data[i]
-                team_name = team.get('TeamName', 'Unknown')
-                rank_adj_em = team.get('RankAdjEM', 'N/A')
-                adj_em = team.get('AdjEM', 'N/A')
-                print(f"   {i+1}. {team_name}")
-                print(f"      - RankAdjEM: {rank_adj_em}")
-                print(f"      - AdjEM: {adj_em}")
-                print(f"      - All fields: {list(team.keys())[:10]}...")  # First 10 fields
-            print()
-            
-            # 6. Log summary of missing vs present fields
-            print("📝 DEBUG: Field availability summary:")
-            critical_fields = ['TeamName', 'RankAdjEM', 'AdjEM', 'AdjOE', 'RankAdjOE', 'AdjDE', 'RankAdjDE']
-            missing_fields = []
-            present_fields = []
-            for field in critical_fields:
-                if field in data[0]:
-                    present_fields.append(field)
-                else:
-                    missing_fields.append(field)
-            
-            print(f"   ✓ Present fields ({len(present_fields)}): {present_fields}")
-            if missing_fields:
-                print(f"   ✗ Missing fields ({len(missing_fields)}): {missing_fields}")
-            else:
-                print(f"   ✓ All critical fields are present!")
-            print()
-            
-        print("=" * 60)
-        print()
-        
-        return data
+ENDPOINTS_TO_FETCH = [
+    'ratings',
+    'four-factors',
+    'pointdist', 
+    'height',
+    'misc-stats',
+    'teams'
+]
 
-    except requests.exceptions.RequestException as e:
-        print(f"❌ API Request failed: {e}")
-        sys.exit(1)
+def fetch_all_data():
+    all_data = defaultdict(dict)
+    
+    for endpoint in ENDPOINTS_TO_FETCH:
+        params = {
+            "endpoint": endpoint,
+            "y": SEASON
+        }
+        
+        try:
+            print(f"🚀 Fetching {endpoint} data for {SEASON}...")
+            response = requests.get(BASE_URL, headers=HEADERS, params=params)
+            response.raise_for_status()
+            
+            data = response.json()
+            if not data:
+                print(f"⚠️ No data returned from {endpoint} API.")
+                continue
+                
+            print(f"✅ Successfully retrieved {len(data)} records from {endpoint}.")
+            
+            # Merge data by TeamName
+            for record in data:
+                team_name = record.get('TeamName')
+                if not team_name:
+                    print(f"⚠️ Record without TeamName in {endpoint}: {record}")
+                    continue
+                # Merge all fields into the team dict
+                all_data[team_name].update(record)
+            
+        except requests.exceptions.RequestException as e:
+            print(f"❌ API Request failed for {endpoint}: {e}")
+            sys.exit(1)
+    
+    # Convert back to list
+    merged_data = list(all_data.values())
+    print(f"📊 Total unique teams after merging: {len(merged_data)}")
+    
+    # Debug: Show fields for first team
+    if merged_data:
+        print(f"🔍 DEBUG: Fields for first team ({merged_data[0].get('TeamName')}): {list(merged_data[0].keys())}")
+    
+    return merged_data
 
 def save_to_csv(data, filename="kenpom_stats.csv"):
     if not data:
@@ -147,7 +100,18 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
         'OE', 'RankOE', 'DE', 'RankDE', 'Tempo', 'RankTempo',
         'eFG_Pct', 'RankeFG_Pct', 'TO_Pct', 'RankTO_Pct', 'OR_Pct', 'RankOR_Pct', 
         'FT_Rate', 'RankFT_Rate', 'DeFG_Pct', 'RankDeFG_Pct', 'DTO_Pct', 
-        'RankDTO_Pct', 'DOR_Pct', 'RankDOR_Pct', 'DFT_Rate', 'RankDFT_Rate'
+        'RankDTO_Pct', 'DOR_Pct', 'RankDOR_Pct', 'DFT_Rate', 'RankDFT_Rate',
+        'OffFt', 'RankOffFt', 'OffFg2', 'RankOffFg2', 'OffFg3', 'RankOffFg3',
+        'DefFt', 'RankDefFt', 'DefFg2', 'RankDefFg2', 'DefFg3', 'RankDefFg3',
+        'AvgHgt', 'AvgHgtRank', 'HgtEff', 'HgtEffRank', 'Hgt5', 'Hgt5Rank',
+        'Hgt4', 'Hgt4Rank', 'Hgt3', 'Hgt3Rank', 'Hgt2', 'Hgt2Rank', 'Hgt1', 'Hgt1Rank',
+        'Exp', 'ExpRank', 'Bench', 'BenchRank', 'Continuity', 'RankContinuity',
+        'FG3Pct', 'RankFG3Pct', 'FG2Pct', 'RankFG2Pct', 'FTPct', 'RankFTPct',
+        'BlockPct', 'RankBlockPct', 'StlRate', 'RankStlRate', 'NSTRate', 'RankNSTRate',
+        'ARate', 'RankARate', 'F3GRate', 'RankF3GRate', 'OppFG3Pct', 'RankOppFG3Pct',
+        'OppFG2Pct', 'RankOppFG2Pct', 'OppFTPct', 'RankOppFTPct', 'OppBlockPct', 'RankOppBlockPct',
+        'OppStlRate', 'RankOppStlRate', 'OppNSTRate', 'RankOppNSTRate', 'OppARate', 'RankOppARate',
+        'OppF3GRate', 'RankOppF3GRate'
     ]
 
     # Check if RankAdjEM field exists in the data
@@ -239,5 +203,5 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
         sys.exit(1)
 
 if __name__ == "__main__":
-    ratings_data = fetch_ratings()
+    ratings_data = fetch_all_data()
     save_to_csv(ratings_data)
