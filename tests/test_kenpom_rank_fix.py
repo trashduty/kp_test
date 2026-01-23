@@ -94,34 +94,39 @@ def test_save_to_csv_with_rank_field():
 
 
 def test_save_to_csv_without_rank_field():
-    """Test that Rk column is populated via enumeration when RankAdjEM is missing"""
+    """Test that Rk column is populated by sorting by AdjEM when RankAdjEM is missing"""
     
     print("=" * 80)
-    print("Test: save_to_csv WITHOUT RankAdjEM field (enumeration fallback)")
+    print("Test: save_to_csv WITHOUT RankAdjEM field (AdjEM sort fallback)")
     print("=" * 80)
     
-    # Mock data WITHOUT RankAdjEM field (simulating the bug)
+    # Mock data WITHOUT RankAdjEM field but WITH AdjEM
+    # Teams are intentionally in WRONG order (alphabetical)
+    # to test that they get sorted by AdjEM descending
     mock_data = [
         {
-            'TeamName': 'Duke',
+            'TeamName': 'Kansas',  # 3rd best by AdjEM
+            'AdjEM': 26.5,
+            'AdjOE': 118.9,
+            'RankAdjOE': 10,
+            'AdjDE': 97.0,
+            'RankAdjDE': 20
+        },
+        {
+            'TeamName': 'Duke',  # BEST by AdjEM (highest)
+            'AdjEM': 28.9,
             'AdjOE': 120.5,
             'RankAdjOE': 5,
             'AdjDE': 95.2,
             'RankAdjDE': 10
         },
         {
-            'TeamName': 'Kentucky',
+            'TeamName': 'Kentucky',  # 2nd best by AdjEM
+            'AdjEM': 27.8,
             'AdjOE': 119.8,
             'RankAdjOE': 7,
             'AdjDE': 96.1,
             'RankAdjDE': 15
-        },
-        {
-            'TeamName': 'Kansas',
-            'AdjOE': 118.9,
-            'RankAdjOE': 10,
-            'AdjDE': 97.0,
-            'RankAdjDE': 20
         }
     ]
     
@@ -140,18 +145,26 @@ def test_save_to_csv_without_rank_field():
             
             print(f"✓ CSV created with {len(rows)} rows")
             
-            # Verify Rk column exists and has enumerated values (1, 2, 3...)
+            # Expected order after sorting by AdjEM descending:
+            # 1. Duke (28.9)
+            # 2. Kentucky (27.8)
+            # 3. Kansas (26.5)
+            expected_order = ['Duke', 'Kentucky', 'Kansas']
+            
+            # Verify teams are in correct order with correct ranks
             for idx, row in enumerate(rows):
                 team = row['Team']
                 rk = row['Rk']
                 expected_rk = str(idx + 1)
+                expected_team = expected_order[idx]
                 
-                print(f"  Team: {team}, Rk: {rk} (enumerated)")
+                print(f"  Rank {rk}: {team} (expected: {expected_team})")
                 
                 assert rk, f"Rk column is empty for {team}"
                 assert rk == expected_rk, f"Expected Rk={expected_rk} for {team}, got {rk}"
+                assert team == expected_team, f"Expected {expected_team} at rank {idx+1}, got {team}"
             
-            print("✓ All teams have enumerated Rk values (1, 2, 3...)")
+            print("✓ All teams have correct Rk values based on AdjEM sorting")
     
     finally:
         # Clean up
@@ -241,7 +254,7 @@ if __name__ == "__main__":
         print()
         print("Summary:")
         print("  ✓ save_to_csv correctly uses RankAdjEM when present")
-        print("  ✓ save_to_csv falls back to enumeration when RankAdjEM is missing")
+        print("  ✓ save_to_csv sorts by AdjEM descending when RankAdjEM is missing")
         print("  ✓ save_to_csv falls back to enumeration when RankAdjEM is empty")
         sys.exit(0)
         

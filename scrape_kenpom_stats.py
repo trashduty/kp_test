@@ -155,7 +155,33 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
     if data and 'RankAdjEM' not in data[0]:
         rank_field_missing = True
         print("⚠️  WARNING: 'RankAdjEM' field not found in API response.")
-        print("⚠️  Falling back to enumeration: assigning ranks 1, 2, 3... based on position.")
+        print("⚠️  Falling back to sorting by AdjEM descending to determine ranks.")
+        
+        # Check if AdjEM field exists
+        if 'AdjEM' not in data[0]:
+            print("❌ ERROR: Neither 'RankAdjEM' nor 'AdjEM' found in API response!")
+            print("❌ Cannot determine team rankings. Using alphabetical order as last resort.")
+        else:
+            # Sort teams by AdjEM (efficiency margin) descending
+            # Higher AdjEM = better team = lower rank number
+            print(f"📊 Sorting {len(data)} teams by AdjEM (efficiency margin) descending...")
+            
+            # Convert AdjEM to float once before sorting for better performance
+            # and to handle potential non-numeric values
+            try:
+                data = sorted(data, key=lambda x: float(x.get('AdjEM', -999)), reverse=True)
+            except (ValueError, TypeError) as e:
+                print(f"❌ ERROR: Failed to sort by AdjEM - invalid numeric values: {e}")
+                print("❌ Using input order as last resort.")
+            else:
+                # Show top 5 teams for validation
+                print("\n✅ Top 5 teams after sorting by AdjEM:")
+                for i in range(min(5, len(data))):
+                    team = data[i]
+                    team_name = team.get('TeamName', 'Unknown')
+                    adj_em = team.get('AdjEM', 'N/A')
+                    print(f"   {i+1}. {team_name} (AdjEM: {adj_em})")
+                print()
     
     try:
         with open(filename, 'w', newline='', encoding='utf-8') as f:
@@ -186,6 +212,27 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
                 writer.writerow(row)
         
         print(f"📄 Data saved successfully to {filename}")
+        
+        # Validation: Check that rankings make sense
+        print("\n🔍 VALIDATION: Checking that rankings make sense...")
+        if rank_field_missing and 'AdjEM' in data[0]:
+            # Verify that AdjEM values decrease as rank increases
+            print("   Checking that AdjEM decreases with rank...")
+            for i in range(min(10, len(data))):
+                team_name = data[i].get('TeamName', 'Unknown')
+                adj_em = data[i].get('AdjEM', 'N/A')
+                rank = i + 1
+                print(f"   Rank {rank}: {team_name} (AdjEM: {adj_em})")
+            
+            # Check if top 5 AdjEM values are decreasing
+            if len(data) >= 5:
+                top_5_adem = [float(data[i].get('AdjEM', -999)) for i in range(5)]
+                is_sorted = all(top_5_adem[i] >= top_5_adem[i+1] for i in range(4))
+                if is_sorted:
+                    print("   ✅ Top 5 teams have correctly decreasing AdjEM values")
+                else:
+                    print("   ⚠️  WARNING: Top 5 teams do NOT have decreasing AdjEM values")
+        print()
 
     except Exception as e:
         print(f"❌ Error saving to CSV: {e}")
