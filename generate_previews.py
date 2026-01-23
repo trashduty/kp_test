@@ -25,24 +25,67 @@ def load_data_from_github():
         return None, None, None
 
 def get_tomorrows_games(kp_df):
-    """Filter games for tomorrow's date"""
+    """Filter games for tomorrow's date and reconstruct matchups"""
     tomorrow = (datetime.now() + timedelta(days=1)).strftime('%Y-%m-%d')
     
     # Filter for tomorrow's games
-    # Assuming date column could be 'Date', 'date', or similar
-    date_col = None
-    for col in kp_df.columns:
-        if col.lower() in ['date', 'gamedate', 'game_date']:
-            date_col = col
-            break
+    tomorrow_games = kp_df[kp_df['date'] == tomorrow].copy()
     
-    if date_col is None:
-        print(f"Could not find date column. Available columns: {kp_df.columns.tolist()}")
-        return pd.DataFrame()
+    if tomorrow_games.empty:
+        return []
     
-    tomorrow_games = kp_df[kp_df[date_col] == tomorrow].copy()
+    # Reconstruct matchups from the two-row format
+    # Group by date, team, and opponent to identify unique games
+    games = []
+    processed_pairs = set()
     
-    return tomorrow_games
+    for idx, row in tomorrow_games.iterrows():
+        team = row['team']
+        opponent = row['opponent']
+        side = row['side']
+        
+        # Create a sorted tuple to avoid duplicates
+        pair = tuple(sorted([team, opponent]))
+        
+        if pair not in processed_pairs:
+            processed_pairs.add(pair)
+            
+            # Find both rows for this matchup
+            team_row = tomorrow_games[
+                (tomorrow_games['team'] == team) & 
+                (tomorrow_games['opponent'] == opponent)
+            ].iloc[0]
+            
+            opp_row = tomorrow_games[
+                (tomorrow_games['team'] == opponent) & 
+                (tomorrow_games['opponent'] == team)
+            ].iloc[0]
+            
+            # Determine home and away
+            if team_row['side'] == 'away':
+                away_team = team
+                home_team = opponent
+                away_data = team_row
+                home_data = opp_row
+            else:
+                away_team = opponent
+                home_team = team
+                away_data = opp_row
+                home_data = team_row
+            
+            game = {
+                'date': row['date'],
+                'away_team': away_team,
+                'home_team': home_team,
+                'away_score': away_data['team_score'],
+                'home_score': home_data['team_score'],
+                'away_win_prob': away_data['win_prob'],
+                'home_win_prob': home_data['win_prob'],
+            }
+            
+            games.append(game)
+    
+    return games
 
 def get_team_stats(team_name, kenpom_stats_df):
     """Extract all relevant KenPom stats for a team"""
@@ -67,8 +110,8 @@ def get_team_stats(team_name, kenpom_stats_df):
     def safe_get(col_name, default='N/A'):
         if col_name in team_data.columns:
             val = team_data[col_name].values[0]
-            # Format numbers nicely
-            if isinstance(val, (int, float)) and val != val:  # Check for NaN
+            # Check for NaN
+            if isinstance(val, (int, float)) and val != val:
                 return default
             if isinstance(val, float):
                 return round(val, 1)
@@ -124,8 +167,8 @@ def get_team_stats(team_name, kenpom_stats_df):
     
     return stats
 
-def get_game_prediction(away_team, home_team, predictions_df):
-    """Get prediction data from CBB_Output.csv"""
+def get_game_prediction(away_team, home_team, predictions_df, game):
+    """Get prediction data from CBB_Output.csv or use kp.csv data"""
     # Find team name column
     team_col = None
     for col in predictions_df.columns:
@@ -133,61 +176,58 @@ def get_game_prediction(away_team, home_team, predictions_df):
             team_col = col
             break
     
-    if team_col is None:
-        print(f"Could not find team column in predictions. Available columns: {predictions_df.columns.tolist()}")
-        return None
-    
-    # Get both team predictions
-    away_pred = predictions_df[predictions_df[team_col] == away_team]
-    home_pred = predictions_df[predictions_df[team_col] == home_team]
-    
-    if away_pred.empty or home_pred.empty:
-        print(f"  ⚠️  Could not find prediction for {away_team} or {home_team}")
-        return None
-    
-    # Helper function to safely get column value
-    def safe_get(df, col_name, default='N/A'):
-        if col_name in df.columns:
-            val = df[col_name].values[0]
-            if isinstance(val, (int, float)) and val != val:  # Check for NaN
+    # Try to get predictions from CBB_Output first
+    if team_col is not None:
+        away_pred = predictions_df[predictions_df[team_col] == away_team]
+        home_pred = predictions_df[predictions_df[team_col] == home_team]
+        
+        if not away_pred.empty and not home_pred.empty:
+            # Helper function to safely get column value
+            def safe_get(df, col_name, default='N/A'):
+                if col_name in df.columns:
+                    val = df[col_name].values[0]
+                    if isinstance(val, (int, float)) and val != val:
+                        return default
+                    return val
                 return default
-            return val
-        return default
-    
-    # Get predicted outcome values (negative = favorite)
-    away_outcome = safe_get(away_pred, 'Predicted Outcome', 0)
-    home_outcome = safe_get(home_pred, 'Predicted Outcome', 0)
-    
-    # Get moneyline win probabilities
-    away_win_prob = safe_get(away_pred, 'Moneyline Win Probability', 0)
-    home_win_prob = safe_get(home_pred, 'Moneyline Win Probability', 0)
-    
-    # Determine winner based on:
-    # 1. Who has negative Predicted Outcome (favorite)
-    # 2. Who has higher Moneyline Win Probability
-    if isinstance(away_outcome, (int, float)) and isinstance(home_outcome, (int, float)):
-        if away_outcome < 0 or away_win_prob > home_win_prob:
-            predicted_winner = away_team
-            winner_prob = away_win_prob
-            spread = away_outcome
+            
+            # Get predicted outcome values (negative = favorite)
+            away_outcome = safe_get(away_pred, 'Predicted Outcome', 0)
+            home_outcome = safe_get(home_pred, 'Predicted Outcome', 0)
+            
+            # Get moneyline win probabilities
+            away_win_prob = safe_get(away_pred, 'Moneyline Win Probability', game['away_win_prob'])
+            home_win_prob = safe_get(home_pred, 'Moneyline Win Probability', game['home_win_prob'])
+            
+            # Determine winner
+            if isinstance(away_outcome, (int, float)) and isinstance(home_outcome, (int, float)):
+                if away_outcome < 0 or away_win_prob > home_win_prob:
+                    predicted_winner = away_team
+                    winner_prob = away_win_prob
+                    spread = away_outcome
+                else:
+                    predicted_winner = home_team
+                    winner_prob = home_win_prob
+                    spread = home_outcome
+            else:
+                if away_win_prob > home_win_prob:
+                    predicted_winner = away_team
+                    winner_prob = away_win_prob
+                    spread = away_outcome
+                else:
+                    predicted_winner = home_team
+                    winner_prob = home_win_prob
+                    spread = home_outcome
+            
+            # Get scores if available
+            away_score = safe_get(away_pred, 'Predicted Score', game['away_score'])
+            home_score = safe_get(home_pred, 'Predicted Score', game['home_score'])
         else:
-            predicted_winner = home_team
-            winner_prob = home_win_prob
-            spread = home_outcome
+            # Fall back to kp.csv data
+            return create_prediction_from_kp(away_team, home_team, game)
     else:
-        # Fallback to win probability only
-        if away_win_prob > home_win_prob:
-            predicted_winner = away_team
-            winner_prob = away_win_prob
-            spread = away_outcome
-        else:
-            predicted_winner = home_team
-            winner_prob = home_win_prob
-            spread = home_outcome
-    
-    # Get scores if available
-    away_score = safe_get(away_pred, 'Predicted Score', 'N/A')
-    home_score = safe_get(home_pred, 'Predicted Score', 'N/A')
+        # Fall back to kp.csv data
+        return create_prediction_from_kp(away_team, home_team, game)
     
     # Calculate confidence based on probability difference
     if isinstance(away_win_prob, (int, float)) and isinstance(home_win_prob, (int, float)):
@@ -226,7 +266,52 @@ def get_game_prediction(away_team, home_team, predictions_df):
     
     return prediction
 
-def generate_preview_content(away_team, home_team, game_time, game_date, away_stats, home_stats, prediction):
+def create_prediction_from_kp(away_team, home_team, game):
+    """Create prediction object from kp.csv data when CBB_Output is not available"""
+    away_win_prob = game['away_win_prob']
+    home_win_prob = game['home_win_prob']
+    
+    # Determine winner based on win probability
+    if away_win_prob > home_win_prob:
+        predicted_winner = away_team
+        winner_prob = away_win_prob
+        # Calculate implied spread (rough estimate)
+        spread = -(away_win_prob - 50) / 3.5
+    else:
+        predicted_winner = home_team
+        winner_prob = home_win_prob
+        spread = -(home_win_prob - 50) / 3.5
+    
+    # Calculate confidence
+    prob_diff = abs(away_win_prob - home_win_prob)
+    if prob_diff > 20:
+        confidence = "High"
+    elif prob_diff > 10:
+        confidence = "Medium"
+    else:
+        confidence = "Low"
+    
+    # Determine model lean
+    if abs(spread) > 10:
+        model_lean = f"Strong lean towards {predicted_winner}"
+    elif abs(spread) > 5:
+        model_lean = f"Moderate lean towards {predicted_winner}"
+    else:
+        model_lean = "Close game, slight edge"
+    
+    return {
+        'predicted_winner': predicted_winner,
+        'away_score': game['away_score'],
+        'home_score': game['home_score'],
+        'spread': round(spread, 1),
+        'win_probability': winner_prob,
+        'confidence': confidence,
+        'model_lean': model_lean,
+        'away_win_prob': away_win_prob,
+        'home_win_prob': home_win_prob,
+    }
+
+def generate_preview_content(away_team, home_team, game_date, away_stats, home_stats, prediction):
     """Generate the game preview content using the new template format"""
     
     # Format team names for URL slug
@@ -254,7 +339,7 @@ excerpt: "Expert analysis and prediction for {away_team} vs {home_team}. Get the
 
 ## {away_team} (#{away_stats['rank']}) @ {home_team} (#{home_stats['rank']})
 
-**Game Time:** {game_time}
+**Game Date:** {game_date}
 
 ### Game Overview
 
@@ -419,38 +504,16 @@ def main():
     print("Getting tomorrow's games...")
     tomorrow_games = get_tomorrows_games(kp_df)
     
-    if tomorrow_games.empty:
+    if not tomorrow_games:
         print("No games scheduled for tomorrow.")
         return
     
     print(f"Found {len(tomorrow_games)} games for tomorrow.\n")
     
-    # Find column names in kp.csv
-    away_col = None
-    home_col = None
-    time_col = None
-    date_col = None
-    
-    for col in tomorrow_games.columns:
-        col_lower = col.lower()
-        if col_lower in ['away', 'awayteam', 'away_team', 'visitor']:
-            away_col = col
-        elif col_lower in ['home', 'hometeam', 'home_team']:
-            home_col = col
-        elif col_lower in ['time', 'gametime', 'game_time']:
-            time_col = col
-        elif col_lower in ['date', 'gamedate', 'game_date']:
-            date_col = col
-    
-    if away_col is None or home_col is None:
-        print(f"Could not find away/home columns. Available columns: {tomorrow_games.columns.tolist()}")
-        return
-    
-    for idx, game in tomorrow_games.iterrows():
-        away_team = game[away_col]
-        home_team = game[home_col]
-        game_time = game[time_col] if time_col and time_col in game else 'TBD'
-        game_date = game[date_col] if date_col and date_col in game else datetime.now().strftime('%Y-%m-%d')
+    for game in tomorrow_games:
+        away_team = game['away_team']
+        home_team = game['home_team']
+        game_date = game['date']
         
         print(f"Generating preview for: {away_team} @ {home_team}")
         
@@ -463,15 +526,15 @@ def main():
             continue
         
         # Get prediction
-        prediction = get_game_prediction(away_team, home_team, predictions_df)
+        prediction = get_game_prediction(away_team, home_team, predictions_df, game)
         
         if prediction is None:
-            print(f"  ⚠️  Could not find prediction data. Skipping...\n")
+            print(f"  ⚠️  Could not create prediction. Skipping...\n")
             continue
         
         # Generate preview content
         content, slug = generate_preview_content(
-            away_team, home_team, game_time, game_date, 
+            away_team, home_team, game_date, 
             away_stats, home_stats, prediction
         )
         
