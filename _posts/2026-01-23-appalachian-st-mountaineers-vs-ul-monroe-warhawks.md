@@ -19,7 +19,7 @@ The Appalachian St Mountaineers will face off against the UL Monroe Warhawks in 
 #### Appalachian St Mountaineers
 - **KenPom Rank:** #10
 - **Offensive Rating:** 107.123
-- **Defensive Rating:** 111.939
+- **Defensive Rating:** 111.938
 - **Adjusted Tempo:** 62.3423
 
 #### UL Monroe Warhawks
@@ -33,7 +33,7 @@ The Appalachian St Mountaineers will face off against the UL Monroe Warhawks in 
 Our model predicts **Appalachian St Mountaineers** will win this matchup.
 
 - **Predicted Spread:** 17.1
-- **Win Probability:** 9.0%
+- **Win Probability:** 9.2%
 
 ### Key Matchup Factors
 
