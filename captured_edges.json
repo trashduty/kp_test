@@ -2090,5 +2090,13 @@
   "Jacksonville St Gamecocks vs. Middle Tennessee Blue Raiders|Middle Tennessee Blue Raiders|moneyline": {
     "captured_at": "2026-01-23T02:46:14.665570+00:00",
     "edge_type": "moneyline"
+  },
+  "Stonehill Skyhawks vs. LIU Sharks|Stonehill Skyhawks|spread": {
+    "captured_at": "2026-01-23T04:23:26.116813+00:00",
+    "edge_type": "spread"
+  },
+  "Le Moyne Dolphins vs. Wagner Seahawks|over": {
+    "captured_at": "2026-01-23T04:23:26.116964+00:00",
+    "edge_type": "over"
   }
 }
