@@ -165,16 +165,23 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
             # Sort teams by AdjEM (efficiency margin) descending
             # Higher AdjEM = better team = lower rank number
             print(f"📊 Sorting {len(data)} teams by AdjEM (efficiency margin) descending...")
-            data = sorted(data, key=lambda x: float(x.get('AdjEM', -999)), reverse=True)
             
-            # Show top 5 teams for validation
-            print("\n✅ Top 5 teams after sorting by AdjEM:")
-            for i in range(min(5, len(data))):
-                team = data[i]
-                team_name = team.get('TeamName', 'Unknown')
-                adj_em = team.get('AdjEM', 'N/A')
-                print(f"   {i+1}. {team_name} (AdjEM: {adj_em})")
-            print()
+            # Convert AdjEM to float once before sorting for better performance
+            # and to handle potential non-numeric values
+            try:
+                data = sorted(data, key=lambda x: float(x.get('AdjEM', -999)), reverse=True)
+            except (ValueError, TypeError) as e:
+                print(f"❌ ERROR: Failed to sort by AdjEM - invalid numeric values: {e}")
+                print("❌ Using input order as last resort.")
+            else:
+                # Show top 5 teams for validation
+                print("\n✅ Top 5 teams after sorting by AdjEM:")
+                for i in range(min(5, len(data))):
+                    team = data[i]
+                    team_name = team.get('TeamName', 'Unknown')
+                    adj_em = team.get('AdjEM', 'N/A')
+                    print(f"   {i+1}. {team_name} (AdjEM: {adj_em})")
+                print()
     
     try:
         with open(filename, 'w', newline='', encoding='utf-8') as f:
@@ -219,7 +226,7 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
             
             # Check if top 5 AdjEM values are decreasing
             if len(data) >= 5:
-                top_5_adem = [float(data[i].get('AdjEM', 0)) for i in range(5)]
+                top_5_adem = [float(data[i].get('AdjEM', -999)) for i in range(5)]
                 is_sorted = all(top_5_adem[i] >= top_5_adem[i+1] for i in range(4))
                 if is_sorted:
                     print("   ✅ Top 5 teams have correctly decreasing AdjEM values")

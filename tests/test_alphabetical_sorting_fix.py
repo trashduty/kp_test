@@ -149,23 +149,29 @@ def test_alphabetical_bug_is_fixed():
             print()
             
             # Verify Alabama is ranked #1 (the key fix)
-            alabama_row = [r for r in rows if r['Team'] == 'Alabama'][0]
-            alabama_rank = int(alabama_row['Rk'])
-            
-            print("=" * 80)
-            print("KEY VALIDATION: Alabama's Rank")
-            print("=" * 80)
-            print(f"  Before fix: Alabama would be Rk=4 (alphabetical position)")
-            print(f"  After fix:  Alabama is Rk={alabama_rank} (based on AdjEM)")
-            print()
-            
-            if alabama_rank == 1:
-                print("  ✅ SUCCESS! Alabama correctly ranked #1 (highest AdjEM)")
-            else:
-                print(f"  ❌ FAILED! Alabama should be #1, but got #{alabama_rank}")
+            alabama_row = next((r for r in rows if r['Team'] == 'Alabama'), None)
+            if not alabama_row:
+                print(f"❌ ERROR: Alabama not found in results!")
                 all_correct = False
-            
-            print()
+            else:
+                alabama_rank = int(alabama_row['Rk'])
+                
+                print("=" * 80)
+                print("KEY VALIDATION: Alabama's Rank")
+                print("=" * 80)
+                print(f"  Before fix: Alabama would be Rk=4 (alphabetical position)")
+                print(f"  After fix:  Alabama is Rk={alabama_rank} (based on AdjEM)")
+                print()
+                
+                if alabama_rank == 1:
+                    print("  ✅ SUCCESS! Alabama correctly ranked #1 (highest AdjEM)")
+                else:
+                    print(f"  ❌ FAILED! Alabama should be #1, but got #{alabama_rank}")
+                    all_correct = False
+                
+                print()
+                
+                assert alabama_rank == 1, f"Alabama should be ranked #1, got #{alabama_rank}"
             
             assert all_correct, "Team rankings do not match expected order"
             assert alabama_rank == 1, f"Alabama should be ranked #1, got #{alabama_rank}"
