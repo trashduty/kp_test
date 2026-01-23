@@ -37,6 +37,14 @@ def fetch_four_factors():
             return []
             
         print(f"✅ Successfully retrieved data for {len(data)} teams.")
+        
+        # Debug: Print first team's keys to understand API structure
+        if data:
+            print(f"🔍 DEBUG: Sample team data keys: {list(data[0].keys())}")
+            print(f"🔍 DEBUG: Sample team: {data[0].get('TeamName', 'N/A')}")
+            print(f"🔍 DEBUG: Has 'RankAdjEM' field: {'RankAdjEM' in data[0]}")
+            print(f"🔍 DEBUG: RankAdjEM value: {data[0].get('RankAdjEM', 'NOT_FOUND')}")
+        
         return data
 
     except requests.exceptions.RequestException as e:
@@ -71,20 +79,34 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
         'RankDTO_Pct', 'DOR_Pct', 'RankDOR_Pct', 'DFT_Rate', 'RankDFT_Rate'
     ]
 
+    # Check if RankAdjEM field exists in the data
+    rank_field_missing = False
+    if data and 'RankAdjEM' not in data[0]:
+        rank_field_missing = True
+        print("⚠️  WARNING: 'RankAdjEM' field not found in API response.")
+        print("⚠️  Falling back to enumeration: assigning ranks 1, 2, 3... based on position.")
+    
     try:
         with open(filename, 'w', newline='', encoding='utf-8') as f:
             # extrasaction='ignore' is the key fix here
             writer = csv.DictWriter(f, fieldnames=header, extrasaction='ignore')
             writer.writeheader()
             
-            for team in data:
+            for idx, team in enumerate(data, start=1):
                 row = {}
                 
                 # 1. Map renamed fields
                 for api_key, target_key in field_mapping.items():
                     row[target_key] = team.get(api_key, "")
                 
-                # 2. Fill the rest of the fields from the API data
+                # 2. Handle missing or empty Rk field
+                # If RankAdjEM is missing or the mapped value is empty, use enumeration
+                # ASSUMPTION: The KenPom API returns teams pre-sorted by rank (best to worst)
+                # This enumeration (1, 2, 3...) is only valid if the input data is sorted
+                if rank_field_missing or not row.get('Rk'):
+                    row['Rk'] = idx
+                
+                # 3. Fill the rest of the fields from the API data
                 # Any fields in 'team' that aren't in 'header' will be ignored by DictWriter
                 for key, value in team.items():
                     if key not in row:
