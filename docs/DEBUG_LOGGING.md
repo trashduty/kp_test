@@ -6,7 +6,7 @@ This document explains the comprehensive debug logging added to `scrape_kenpom_s
 
 ## What Was Added
 
-The `fetch_four_factors()` function now includes extensive debug logging that displays:
+The `fetch_ratings()` function now includes extensive debug logging that displays:
 
 ### 1. Full Raw API Response (First Team)
 - Pretty-printed JSON structure of the first team's data
@@ -40,7 +40,7 @@ The `fetch_four_factors()` function now includes extensive debug logging that di
 ## Example Output
 
 ```
-🚀 Fetching Four Factors data for 2026...
+🚀 Fetching Ratings data for 2026...
 ✅ Successfully retrieved data for 365 teams.
 
 🔍 DEBUG: Raw API Response (first team):

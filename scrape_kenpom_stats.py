@@ -21,14 +21,14 @@ HEADERS = {
     "Accept": "application/json"
 }
 
-def fetch_four_factors():
+def fetch_ratings():
     params = {
-        "endpoint": "four-factors",
+        "endpoint": "ratings",
         "y": SEASON
     }
     
     try:
-        print(f"🚀 Fetching Four Factors data for {SEASON}...")
+        print(f"🚀 Fetching Ratings data for {SEASON}...")
         response = requests.get(BASE_URL, headers=HEADERS, params=params)
         response.raise_for_status()
         
@@ -239,5 +239,5 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
         sys.exit(1)
 
 if __name__ == "__main__":
-    four_factors_data = fetch_four_factors()
-    save_to_csv(four_factors_data)
+    ratings_data = fetch_ratings()
+    save_to_csv(ratings_data)
