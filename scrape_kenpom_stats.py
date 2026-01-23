@@ -2,6 +2,7 @@ import os
 import sys
 import requests
 import csv
+import json
 from dotenv import load_dotenv
 
 # Load API key
@@ -37,13 +38,83 @@ def fetch_four_factors():
             return []
             
         print(f"✅ Successfully retrieved data for {len(data)} teams.")
+        print()
         
-        # Debug: Print first team's keys to understand API structure
+        # ============================================================
+        # COMPREHENSIVE DEBUG LOGGING
+        # ============================================================
+        
         if data:
-            print(f"🔍 DEBUG: Sample team data keys: {list(data[0].keys())}")
-            print(f"🔍 DEBUG: Sample team: {data[0].get('TeamName', 'N/A')}")
-            print(f"🔍 DEBUG: Has 'RankAdjEM' field: {'RankAdjEM' in data[0]}")
-            print(f"🔍 DEBUG: RankAdjEM value: {data[0].get('RankAdjEM', 'NOT_FOUND')}")
+            # 1. Print full raw API response structure (first team only)
+            print("🔍 DEBUG: Raw API Response (first team):")
+            print("-" * 60)
+            print(json.dumps(data[0], indent=2, default=str))
+            print("-" * 60)
+            print()
+            
+            # 2. List all available field names
+            all_fields = list(data[0].keys())
+            print("📋 DEBUG: Available fields in API response:")
+            print(f"   {all_fields}")
+            print()
+            
+            # 3. Check specifically for rank-related fields
+            print("🔍 DEBUG: Rank-related fields analysis:")
+            rank_related_fields = []
+            for field in all_fields:
+                if 'rank' in field.lower():
+                    rank_related_fields.append(field)
+                    value = data[0].get(field)
+                    print(f"   - {field}: {value}")
+            
+            if not rank_related_fields:
+                print("   ⚠️  No rank-related fields found in response!")
+            print()
+            
+            # 4. Specifically check for expected rank fields
+            print("🔍 DEBUG: Checking for specific expected fields:")
+            expected_fields = ['RankAdjEM', 'Rank', 'RankOverall', 'AdjEM']
+            for field in expected_fields:
+                if field in data[0]:
+                    print(f"   ✓ {field}: {data[0][field]}")
+                else:
+                    print(f"   ✗ {field}: NOT FOUND")
+            print()
+            
+            # 5. Print sample of 3-5 teams with key fields
+            print("📊 DEBUG: Sample teams with all fields:")
+            sample_size = min(5, len(data))
+            for i in range(sample_size):
+                team = data[i]
+                team_name = team.get('TeamName', 'Unknown')
+                rank_adj_em = team.get('RankAdjEM', 'N/A')
+                adj_em = team.get('AdjEM', 'N/A')
+                print(f"   {i+1}. {team_name}")
+                print(f"      - RankAdjEM: {rank_adj_em}")
+                print(f"      - AdjEM: {adj_em}")
+                print(f"      - All fields: {list(team.keys())[:10]}...")  # First 10 fields
+            print()
+            
+            # 6. Log summary of missing vs present fields
+            print("📝 DEBUG: Field availability summary:")
+            critical_fields = ['TeamName', 'RankAdjEM', 'AdjEM', 'AdjOE', 'RankAdjOE', 'AdjDE', 'RankAdjDE']
+            missing_fields = []
+            present_fields = []
+            for field in critical_fields:
+                if field in data[0]:
+                    present_fields.append(field)
+                else:
+                    missing_fields.append(field)
+            
+            print(f"   ✓ Present fields ({len(present_fields)}): {present_fields}")
+            if missing_fields:
+                print(f"   ✗ Missing fields ({len(missing_fields)}): {missing_fields}")
+            else:
+                print(f"   ✓ All critical fields are present!")
+            print()
+            
+        print("=" * 60)
+        print()
         
         return data
 
