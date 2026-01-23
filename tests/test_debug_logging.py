@@ -8,6 +8,10 @@ import os
 import sys
 import json
 
+# Add parent directory to path
+parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, parent_dir)
+
 # Set dummy API key for testing
 os.environ['KENPOM_API_KEY'] = 'dummy_key_for_testing'
 
