@@ -18,15 +18,15 @@ The UC Santa Barbara Gauchos will face off against the Cal Poly Mustangs in what
 
 #### UC Santa Barbara Gauchos
 - **KenPom Rank:** #318
-- **Offensive Rating:** 115.337
-- **Defensive Rating:** 114.708
-- **Adjusted Tempo:** 64.2226
+- **Offensive Rating:** 115.576
+- **Defensive Rating:** 114.944
+- **Adjusted Tempo:** 64.0544
 
 #### Cal Poly Mustangs
 - **KenPom Rank:** #37
-- **Offensive Rating:** 105.804
-- **Defensive Rating:** 112.313
-- **Adjusted Tempo:** 74.4788
+- **Offensive Rating:** 106.042
+- **Defensive Rating:** 112.549
+- **Adjusted Tempo:** 74.3094
 
 ### Prediction
 

@@ -18,9 +18,9 @@ The Appalachian St Mountaineers will face off against the UL Monroe Warhawks in 
 
 #### Appalachian St Mountaineers
 - **KenPom Rank:** #10
-- **Offensive Rating:** 106.928
-- **Defensive Rating:** 111.676
-- **Adjusted Tempo:** 62.5429
+- **Offensive Rating:** 107.123
+- **Defensive Rating:** 111.939
+- **Adjusted Tempo:** 62.3423
 
 #### UL Monroe Warhawks
 - **KenPom Rank:** #Unranked

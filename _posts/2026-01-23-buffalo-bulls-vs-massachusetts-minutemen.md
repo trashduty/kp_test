@@ -18,15 +18,15 @@ The Buffalo Bulls will face off against the Massachusetts Minutemen in what prom
 
 #### Buffalo Bulls
 - **KenPom Rank:** #33
-- **Offensive Rating:** 113.727
-- **Defensive Rating:** 115.671
-- **Adjusted Tempo:** 66.5786
+- **Offensive Rating:** 113.962
+- **Defensive Rating:** 115.913
+- **Adjusted Tempo:** 66.4095
 
 #### Massachusetts Minutemen
 - **KenPom Rank:** #166
-- **Offensive Rating:** 107.029
-- **Defensive Rating:** 108.973
-- **Adjusted Tempo:** 71.9156
+- **Offensive Rating:** 107.25
+- **Defensive Rating:** 109.199
+- **Adjusted Tempo:** 71.746
 
 ### Prediction
 
