@@ -12,8 +12,10 @@ import tempfile
 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, parent_dir)
 
-# Set a dummy API key to allow import
-os.environ['KENPOM_API_KEY'] = 'test_key_for_unit_tests'
+# Set a dummy API key to allow import of scrape_kenpom_stats module
+# This is only used for unit testing the save_to_csv function and doesn't make any API calls
+if 'KENPOM_API_KEY' not in os.environ:
+    os.environ['KENPOM_API_KEY'] = 'dummy_key_for_unit_tests_only'
 
 # Import the function we need to test
 from scrape_kenpom_stats import save_to_csv

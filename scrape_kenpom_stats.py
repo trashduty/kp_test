@@ -101,6 +101,8 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
                 
                 # 2. Handle missing or empty Rk field
                 # If RankAdjEM is missing or the mapped value is empty, use enumeration
+                # ASSUMPTION: The KenPom API returns teams pre-sorted by rank (best to worst)
+                # This enumeration (1, 2, 3...) is only valid if the input data is sorted
                 if rank_field_missing or not row.get('Rk'):
                     row['Rk'] = idx
                 
