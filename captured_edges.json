@@ -2082,5 +2082,13 @@
   "Buffalo Bulls vs. Massachusetts Minutemen|Buffalo Bulls|moneyline": {
     "captured_at": "2026-01-22T21:08:53.212522+00:00",
     "edge_type": "moneyline"
+  },
+  "Jacksonville St Gamecocks vs. Middle Tennessee Blue Raiders|Middle Tennessee Blue Raiders|spread": {
+    "captured_at": "2026-01-23T02:46:14.665527+00:00",
+    "edge_type": "spread"
+  },
+  "Jacksonville St Gamecocks vs. Middle Tennessee Blue Raiders|Middle Tennessee Blue Raiders|moneyline": {
+    "captured_at": "2026-01-23T02:46:14.665570+00:00",
+    "edge_type": "moneyline"
   }
 }
