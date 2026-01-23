@@ -2098,5 +2098,13 @@
   "Le Moyne Dolphins vs. Wagner Seahawks|over": {
     "captured_at": "2026-01-23T04:23:26.116964+00:00",
     "edge_type": "over"
+  },
+  "Alabama Crimson Tide vs. Tennessee Volunteers|Alabama Crimson Tide|spread": {
+    "captured_at": "2026-01-23T06:11:25.404204+00:00",
+    "edge_type": "spread"
+  },
+  "Virginia Cavaliers vs. North Carolina Tar Heels|Virginia Cavaliers|spread": {
+    "captured_at": "2026-01-23T06:11:25.404393+00:00",
+    "edge_type": "spread"
   }
 }
