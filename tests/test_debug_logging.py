@@ -16,11 +16,11 @@ sys.path.insert(0, parent_dir)
 os.environ['KENPOM_API_KEY'] = 'dummy_key_for_testing'
 
 # Import after setting env var
-from scrape_kenpom_stats import fetch_four_factors
+from scrape_kenpom_stats import fetch_ratings
 
 def mock_fetch_with_sample_data():
     """
-    Simulate what fetch_four_factors would do with sample data.
+    Simulate what fetch_ratings would do with sample data.
     This tests the debug logging output without making real API calls.
     """
     print("=" * 70)
@@ -97,14 +97,14 @@ def mock_fetch_with_sample_data():
         }
     ]
     
-    # Simulate the debug logging that fetch_four_factors does
+    # Simulate the debug logging that fetch_ratings does
     data = mock_data
     
     print(f"✅ Successfully retrieved data for {len(data)} teams.")
     print()
     
     # ============================================================
-    # COMPREHENSIVE DEBUG LOGGING (same as in fetch_four_factors)
+    # COMPREHENSIVE DEBUG LOGGING (same as in fetch_ratings)
     # ============================================================
     
     if data:
