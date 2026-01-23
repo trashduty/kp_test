@@ -18,9 +18,9 @@ The Michigan Wolverines will face off against the Ohio State Buckeyes in what pr
 
 #### Michigan Wolverines
 - **KenPom Rank:** #1
-- **Offensive Rating:** 127.157
-- **Defensive Rating:** 91.2089
-- **Adjusted Tempo:** 73.038
+- **Offensive Rating:** 127.16
+- **Defensive Rating:** 91.2169
+- **Adjusted Tempo:** 73.0394
 
 #### Ohio State Buckeyes
 - **KenPom Rank:** #Unranked
@@ -33,7 +33,7 @@ The Michigan Wolverines will face off against the Ohio State Buckeyes in what pr
 Our model predicts **Michigan Wolverines** will win this matchup.
 
 - **Predicted Spread:** 17.299999999999997
-- **Win Probability:** 7.1%
+- **Win Probability:** 7.4%
 
 ### Key Matchup Factors
 
