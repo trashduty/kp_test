@@ -2246,5 +2246,9 @@
   "Holy Cross Crusaders vs. American Eagles|American Eagles|moneyline": {
     "captured_at": "2026-01-24T06:09:58.022715+00:00",
     "edge_type": "moneyline"
+  },
+  "Belmont Bruins vs. Illinois St Redbirds|Illinois St Redbirds|spread": {
+    "captured_at": "2026-01-24T14:06:52.104498+00:00",
+    "edge_type": "spread"
   }
 }
