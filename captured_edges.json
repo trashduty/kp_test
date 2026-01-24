@@ -2202,5 +2202,21 @@
   "Bradley Braves vs. UIC Flames|UIC Flames|spread": {
     "captured_at": "2026-01-24T02:42:41.507751+00:00",
     "edge_type": "spread"
+  },
+  "UMBC Retrievers vs. UMass Lowell River Hawks|UMBC Retrievers|moneyline": {
+    "captured_at": "2026-01-24T04:18:30.868953+00:00",
+    "edge_type": "moneyline"
+  },
+  "New Hampshire Wildcats vs. Albany Great Danes|New Hampshire Wildcats|spread": {
+    "captured_at": "2026-01-24T04:18:30.870953+00:00",
+    "edge_type": "spread"
+  },
+  "Howard Bison vs. Morgan St Bears|Howard Bison|spread": {
+    "captured_at": "2026-01-24T04:18:30.871147+00:00",
+    "edge_type": "spread"
+  },
+  "Texas Southern Tigers vs. Alabama A&M Bulldogs|Texas Southern Tigers|moneyline": {
+    "captured_at": "2026-01-24T04:18:30.874250+00:00",
+    "edge_type": "moneyline"
   }
 }
