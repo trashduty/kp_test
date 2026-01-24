@@ -2106,5 +2106,77 @@
   "Virginia Cavaliers vs. North Carolina Tar Heels|Virginia Cavaliers|spread": {
     "captured_at": "2026-01-23T06:11:25.404393+00:00",
     "edge_type": "spread"
+  },
+  "Marist Red Foxes vs. Quinnipiac Bobcats|Marist Red Foxes|moneyline": {
+    "captured_at": "2026-01-24T00:29:18.020474+00:00",
+    "edge_type": "moneyline"
+  },
+  "Sam Houston St Bearkats vs. Western Kentucky Hilltoppers|Sam Houston St Bearkats|moneyline": {
+    "captured_at": "2026-01-24T00:29:18.021410+00:00",
+    "edge_type": "moneyline"
+  },
+  "Dartmouth Big Green vs. Columbia Lions|Dartmouth Big Green|spread": {
+    "captured_at": "2026-01-24T00:29:18.022161+00:00",
+    "edge_type": "spread"
+  },
+  "Loyola (Chi) Ramblers vs. Duquesne Dukes|Duquesne Dukes|spread": {
+    "captured_at": "2026-01-24T00:29:18.022561+00:00",
+    "edge_type": "spread"
+  },
+  "Loyola (Chi) Ramblers vs. Duquesne Dukes|Duquesne Dukes|moneyline": {
+    "captured_at": "2026-01-24T00:29:18.022597+00:00",
+    "edge_type": "moneyline"
+  },
+  "Eastern Michigan Eagles vs. Kent State Golden Flashes|Eastern Michigan Eagles|spread": {
+    "captured_at": "2026-01-24T00:29:18.024976+00:00",
+    "edge_type": "spread"
+  },
+  "Mt. St. Mary's Mountaineers vs. Rider Broncs|Mt. St. Mary's Mountaineers|spread": {
+    "captured_at": "2026-01-24T00:29:18.025571+00:00",
+    "edge_type": "spread"
+  },
+  "Northern Iowa Panthers vs. Murray St Racers|Northern Iowa Panthers|moneyline": {
+    "captured_at": "2026-01-24T00:29:18.026261+00:00",
+    "edge_type": "moneyline"
+  },
+  "SMU Mustangs vs. Florida St Seminoles|SMU Mustangs|spread": {
+    "captured_at": "2026-01-24T00:29:18.026373+00:00",
+    "edge_type": "spread"
+  },
+  "Prairie View Panthers vs. Alabama St Hornets|over": {
+    "captured_at": "2026-01-24T00:29:18.027649+00:00",
+    "edge_type": "over"
+  },
+  "Montana Grizzlies vs. Idaho State Bengals|Montana Grizzlies|spread": {
+    "captured_at": "2026-01-24T00:29:18.028475+00:00",
+    "edge_type": "spread"
+  },
+  "Montana Grizzlies vs. Idaho State Bengals|Montana Grizzlies|moneyline": {
+    "captured_at": "2026-01-24T00:29:18.028512+00:00",
+    "edge_type": "moneyline"
+  },
+  "Western Michigan Broncos vs. Central Michigan Chippewas|Western Michigan Broncos|spread": {
+    "captured_at": "2026-01-24T00:29:18.028617+00:00",
+    "edge_type": "spread"
+  },
+  "Western Michigan Broncos vs. Central Michigan Chippewas|Western Michigan Broncos|moneyline": {
+    "captured_at": "2026-01-24T00:29:18.028651+00:00",
+    "edge_type": "moneyline"
+  },
+  "Cal Poly Mustangs vs. CSU Fullerton Titans|over": {
+    "captured_at": "2026-01-24T00:29:18.029102+00:00",
+    "edge_type": "over"
+  },
+  "Wofford Terriers vs. Mercer Bears|Mercer Bears|spread": {
+    "captured_at": "2026-01-24T00:29:18.031251+00:00",
+    "edge_type": "spread"
+  },
+  "Wofford Terriers vs. Mercer Bears|Mercer Bears|moneyline": {
+    "captured_at": "2026-01-24T00:29:18.031287+00:00",
+    "edge_type": "moneyline"
+  },
+  "Princeton Tigers vs. Brown Bears|under": {
+    "captured_at": "2026-01-24T00:29:18.032188+00:00",
+    "edge_type": "under"
   }
 }
