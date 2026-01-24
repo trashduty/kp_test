@@ -2218,5 +2218,21 @@
   "Texas Southern Tigers vs. Alabama A&M Bulldogs|Texas Southern Tigers|moneyline": {
     "captured_at": "2026-01-24T04:18:30.874250+00:00",
     "edge_type": "moneyline"
+  },
+  "Lamar Cardinals vs. Stephen F. Austin Lumberjacks|Stephen F. Austin Lumberjacks|spread": {
+    "captured_at": "2026-01-24T05:08:03.156790+00:00",
+    "edge_type": "spread"
+  },
+  "Lamar Cardinals vs. Stephen F. Austin Lumberjacks|Stephen F. Austin Lumberjacks|moneyline": {
+    "captured_at": "2026-01-24T05:08:03.156831+00:00",
+    "edge_type": "moneyline"
+  },
+  "Incarnate Word Cardinals vs. Texas A&M-CC Islanders|Incarnate Word Cardinals|spread": {
+    "captured_at": "2026-01-24T05:08:03.158010+00:00",
+    "edge_type": "spread"
+  },
+  "Lehigh Mountain Hawks vs. Lafayette Leopards|over": {
+    "captured_at": "2026-01-24T05:08:03.160094+00:00",
+    "edge_type": "over"
   }
 }
