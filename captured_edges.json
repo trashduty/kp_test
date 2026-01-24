@@ -2194,5 +2194,13 @@
   "Prairie View Panthers vs. Alabama St Hornets|Prairie View Panthers|moneyline": {
     "captured_at": "2026-01-24T01:36:00.715356+00:00",
     "edge_type": "moneyline"
+  },
+  "Northern Iowa Panthers vs. Murray St Racers|Northern Iowa Panthers|spread": {
+    "captured_at": "2026-01-24T02:42:41.504583+00:00",
+    "edge_type": "spread"
+  },
+  "Bradley Braves vs. UIC Flames|UIC Flames|spread": {
+    "captured_at": "2026-01-24T02:42:41.507751+00:00",
+    "edge_type": "spread"
   }
 }
