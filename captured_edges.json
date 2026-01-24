@@ -2234,5 +2234,17 @@
   "Lehigh Mountain Hawks vs. Lafayette Leopards|over": {
     "captured_at": "2026-01-24T05:08:03.160094+00:00",
     "edge_type": "over"
+  },
+  "Maine Black Bears vs. Binghamton Bearcats|Maine Black Bears|moneyline": {
+    "captured_at": "2026-01-24T06:09:58.010640+00:00",
+    "edge_type": "moneyline"
+  },
+  "Lehigh Mountain Hawks vs. Lafayette Leopards|Lafayette Leopards|spread": {
+    "captured_at": "2026-01-24T06:09:58.018927+00:00",
+    "edge_type": "spread"
+  },
+  "Holy Cross Crusaders vs. American Eagles|American Eagles|moneyline": {
+    "captured_at": "2026-01-24T06:09:58.022715+00:00",
+    "edge_type": "moneyline"
   }
 }
