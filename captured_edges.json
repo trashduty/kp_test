@@ -2250,5 +2250,13 @@
   "Belmont Bruins vs. Illinois St Redbirds|Illinois St Redbirds|spread": {
     "captured_at": "2026-01-24T14:06:52.104498+00:00",
     "edge_type": "spread"
+  },
+  "Mercyhurst Lakers vs. Chicago St Cougars|over": {
+    "captured_at": "2026-01-25T00:33:46.458726+00:00",
+    "edge_type": "over"
+  },
+  "Evansville Purple Aces vs. Southern Illinois Salukis|Southern Illinois Salukis|moneyline": {
+    "captured_at": "2026-01-25T00:33:46.459279+00:00",
+    "edge_type": "moneyline"
   }
 }
