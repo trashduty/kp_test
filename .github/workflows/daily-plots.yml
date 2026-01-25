@@ -87,6 +87,7 @@ jobs:
         KENPOM_USERNAME: ${{ secrets.KENPOM_USERNAME }}
         KENPOM_PASSWORD: ${{ secrets.KENPOM_PASSWORD }}
         TWOCAPTCHA_API_KEY: ${{ secrets.TWOCAPTCHA_API_KEY }}
+        KENPOM_API_KEY: ${{ secrets.KENPOM_API_KEY }} 
     
     - name: Upload error screenshots
       if: always()
