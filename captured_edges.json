@@ -2270,5 +2270,13 @@
   "South Carolina St Bulldogs vs. Delaware St Hornets|South Carolina St Bulldogs|moneyline": {
     "captured_at": "2026-01-25T21:06:39.203818+00:00",
     "edge_type": "moneyline"
+  },
+  "Tarleton State Texans vs. Abilene Christian Wildcats|Tarleton State Texans|spread": {
+    "captured_at": "2026-01-25T23:07:07.765470+00:00",
+    "edge_type": "spread"
+  },
+  "Tarleton State Texans vs. Abilene Christian Wildcats|Tarleton State Texans|moneyline": {
+    "captured_at": "2026-01-25T23:07:07.765514+00:00",
+    "edge_type": "moneyline"
   }
 }
