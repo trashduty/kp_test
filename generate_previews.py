@@ -99,19 +99,63 @@ def find_team_in_kenpom(team_name, kenpom_df):
 
 
 def find_team_logo(team_name, logos_df):
-    """Find team logo URL from logos dataframe using exact name match."""
+    """Find team logo URL from logos dataframe using robust multi-column matching."""
     
-    # First: Try exact match on 'name' column
-    exact_match = logos_df[logos_df['name'] == team_name]
-    if not exact_match.empty:
-        return exact_match.iloc[0]['logos']
+    # Step 1: Exact match on 'name' column
+    if 'name' in logos_df.columns:
+        exact_match = logos_df[logos_df['name'] == team_name]
+        if not exact_match.empty:
+            return exact_match.iloc[0]['logos']
     
-    # Second: Try case-insensitive match on 'name' column
-    for _, row in logos_df.iterrows():
-        if str(row['name']).lower() == team_name.lower():
-            return row['logos']
+    # Step 2: Exact match on 'ncaa_name' column
+    if 'ncaa_name' in logos_df.columns:
+        exact_match = logos_df[logos_df['ncaa_name'] == team_name]
+        if not exact_match.empty:
+            return exact_match.iloc[0]['logos']
     
-    # If no match found, return placeholder
+    # Step 3: Exact match on 'reference_name' column
+    if 'reference_name' in logos_df.columns:
+        exact_match = logos_df[logos_df['reference_name'] == team_name]
+        if not exact_match.empty:
+            return exact_match.iloc[0]['logos']
+    
+    # Step 4: Try stripping mascot (last word) and match on ncaa_name
+    # e.g., "South Carolina St Bulldogs" -> "South Carolina St"
+    if 'ncaa_name' in logos_df.columns:
+        words = team_name.split()
+        if len(words) > 1:
+            base_name = ' '.join(words[:-1])  # Remove last word (mascot)
+            
+            # Try with period at end (common pattern like "South Carolina St.")
+            for variant in [base_name, base_name + "."]:
+                exact_match = logos_df[logos_df['ncaa_name'] == variant]
+                if not exact_match.empty:
+                    return exact_match.iloc[0]['logos']
+    
+    # Pre-compute normalized team name for case-insensitive comparisons
+    team_name_normalized = team_name.lower().strip()
+    
+    # Step 5: Case-insensitive match on 'name' column
+    if 'name' in logos_df.columns:
+        for _, row in logos_df.iterrows():
+            if str(row['name']).lower().strip() == team_name_normalized:
+                return row['logos']
+    
+    # Step 6: Case-insensitive match on 'ncaa_name' column
+    if 'ncaa_name' in logos_df.columns:
+        for _, row in logos_df.iterrows():
+            if str(row['ncaa_name']).lower().strip() == team_name_normalized:
+                return row['logos']
+    
+    # Step 7: Partial match - check if team_name contains ncaa_name or vice versa
+    if 'ncaa_name' in logos_df.columns:
+        team_name_lower = team_name.lower()
+        for _, row in logos_df.iterrows():
+            ncaa_name_lower = str(row['ncaa_name']).lower()
+            if ncaa_name_lower in team_name_lower or team_name_lower in ncaa_name_lower:
+                return row['logos']
+    
+    # If all else fails, return placeholder
     print(f"  Warning: No logo found for '{team_name}'")
     return "https://via.placeholder.com/150"
 

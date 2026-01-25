@@ -55,20 +55,18 @@ def test_integration_logo_matching():
     sc_state_logo = find_team_logo('South Carolina St Bulldogs', logos_df)
     delaware_logo = find_team_logo('Delaware St Hornets', logos_df)
     
-    # These should NOT find matches because the team names in CBB_Output.csv
-    # are slightly different from logos.csv (missing "ate" in "State")
-    # The problem statement says they should match directly, but looking at the data:
-    # - CBB_Output.csv has: "South Carolina St Bulldogs" (abbreviated St)
-    # - logos.csv has: "South Carolina State Bulldogs" (full State)
-    # So we expect placeholder for exact match
+    # With the updated function, these should now match by:
+    # 1. Stripping the mascot (Bulldogs/Hornets)
+    # 2. Adding a period to get "South Carolina St." / "Delaware St."
+    # 3. Matching against ncaa_name column
     
-    assert sc_state_logo == 'https://via.placeholder.com/150', \
-        f"Expected placeholder for 'South Carolina St Bulldogs', got: {sc_state_logo}"
+    assert 'south-carolina-st.svg' in sc_state_logo, \
+        f"Expected SC State logo for 'South Carolina St Bulldogs', got: {sc_state_logo}"
     
-    assert delaware_logo == 'https://via.placeholder.com/150', \
-        f"Expected placeholder for 'Delaware St Hornets', got: {delaware_logo}"
+    assert 'delaware-st.svg' in delaware_logo, \
+        f"Expected Delaware State logo for 'Delaware St Hornets', got: {delaware_logo}"
     
-    print("✓ Team names from CBB_Output.csv don't match logos.csv (abbreviated St vs full State)")
+    print("✓ Team names with abbreviated 'St' now match via ncaa_name column")
     
     # However, the FULL names should match
     sc_state_full = find_team_logo('South Carolina State Bulldogs', logos_df)
@@ -124,6 +122,7 @@ if __name__ == '__main__':
     test_integration_logo_matching()
     test_team_name_variations()
     print("\n✅ All integration tests passed!")
-    print("\nNote: The problem statement assumes team names in CBB_Output.csv match")
-    print("the 'name' column in logos.csv, but they appear to have slight differences")
-    print("(abbreviated 'St' vs full 'State'). The function works correctly per the spec.")
+    print("\nNote: The updated function now handles team name variations:")
+    print("- Matches on 'name', 'ncaa_name', and 'reference_name' columns")
+    print("- Strips mascot and matches abbreviated names like 'South Carolina St Bulldogs'")
+    print("- Handles case-insensitive and partial matches")
