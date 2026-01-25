@@ -267,7 +267,7 @@ def generate_seo_metadata(away_team, home_team, game_date, away_predictions, hom
 
 
 def convert_to_html(markdown_content):
-    """Convert markdown to clean, SEO-optimized HTML for Squarespace."""
+    """Convert markdown to clean, SEO-optimized HTML for Squarespace with dark theme."""
     
     # Remove frontmatter
     lines = markdown_content.split('\n')
@@ -345,7 +345,7 @@ def convert_to_html(markdown_content):
     # Clean up extra spacing
     html = re.sub(r'\n{3,}', '\n\n', html)
     
-    # Add CSS for better styling
+    # Add CSS for dark theme with #23A354 green
     css = """
 <style>
   .game-preview-container {
@@ -353,26 +353,29 @@ def convert_to_html(markdown_content):
     margin: 0 auto;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     line-height: 1.6;
-    color: #333;
+    color: #ffffff;
+    background-color: transparent;
   }
   
   .betting-lines {
     text-align: center;
     margin: 20px 0;
     padding: 20px;
-    background-color: #f5f5f5;
+    background-color: #000000;
     border-radius: 8px;
-    border: 1px solid #e0e0e0;
+    border: 2px solid #23A354;
   }
   
   .betting-lines h3 {
     margin-top: 0;
-    color: #2c3e50;
+    color: #23A354;
+    font-weight: bold;
   }
   
   .betting-lines p {
     font-size: 1.1em;
     margin: 10px 0;
+    color: #ffffff;
   }
   
   table {
@@ -395,24 +398,31 @@ def convert_to_html(markdown_content):
     margin: 0 auto;
   }
   
+  td p {
+    color: #ffffff;
+  }
+  
   h1 {
-    color: #2c3e50;
+    color: #23A354;
     font-size: 2em;
     margin-bottom: 0.2em;
+    font-weight: bold;
   }
   
   h2 {
-    color: #34495e;
+    color: #23A354;
     font-size: 1.8em;
     margin-top: 1.5em;
-    border-bottom: 2px solid #3498db;
+    border-bottom: 2px solid #23A354;
     padding-bottom: 0.3em;
+    font-weight: bold;
   }
   
   h3 {
-    color: #7f8c8d;
+    color: #23A354;
     font-size: 1.3em;
     margin-top: 1.2em;
+    font-weight: bold;
   }
   
   ul {
@@ -421,25 +431,32 @@ def convert_to_html(markdown_content):
   
   li {
     margin: 8px 0;
+    color: #ffffff;
+  }
+  
+  p {
+    color: #ffffff;
   }
   
   strong {
-    color: #2c3e50;
+    color: #23A354;
+    font-weight: bold;
   }
   
   hr {
     border: none;
-    border-top: 2px solid #ecf0f1;
+    border-top: 2px solid #23A354;
     margin: 30px 0;
   }
   
   a {
-    color: #3498db;
+    color: #23A354;
     text-decoration: none;
   }
   
   a:hover {
     text-decoration: underline;
+    color: #2bc46a;
   }
   
   @media (max-width: 768px) {
