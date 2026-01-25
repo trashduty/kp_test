@@ -4,6 +4,9 @@ Tests for generate_previews.py script
 import re
 import sys
 import os
+import pandas as pd
+
+# Add parent directory to path to import generate_previews
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from generate_previews import (
@@ -11,7 +14,6 @@ from generate_previews import (
     replace_comparison_section,
     parse_and_replace_placeholders
 )
-import pandas as pd
 
 
 def test_template_has_no_incomplete_text():
@@ -67,7 +69,7 @@ def test_double_space_removal():
     result = replace_comparison_section(text, 'TeamA', 'TeamB', kenpom_df, predictions_df)
     
     # Should not have double spaces
-    assert '  ' not in result.replace('  ', ' ').strip()  # Allow single trailing space
+    assert '  ' not in result, f"Found double space in: {result}"
     assert 'TeamA' in result
     assert 'TeamB' in result
     

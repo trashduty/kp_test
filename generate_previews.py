@@ -382,7 +382,8 @@ def replace_comparison_section(text, away_team, home_team, kenpom_stats_df, pred
                             parts[0] = parts[0].replace('Away Team', away_team)
                             
                             # Second part is about home team (add marker back)
-                            # marker[1:] already includes the leading space, so trim it
+                            # marker[1:] removes the first character (period/comma)
+                            # lstrip() removes any leading whitespace
                             parts[1] = marker[1:].lstrip() + parts[1]
                             parts[1] = replace_placeholders_for_team(
                                 parts[1], home_team, kenpom_stats_df, predictions_df,
