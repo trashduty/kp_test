@@ -69,15 +69,15 @@ def test_narrative_uses_plural_verbs():
     singular_patterns = [
         r'South Carolina St Bulldogs\*?\*? brings',
         r'Delaware St Hornets\*?\*? counters',
-        r'South Carolina St Bulldogs operates',
-        r'Delaware St Hornets checks in',
-        r'South Carolina St Bulldogs wants',
-        r'Delaware St Hornets prefers',
-        r'South Carolina St Bulldogs likes',
-        r'Delaware St Hornets shoots',
-        r'South Carolina St Bulldogs converts',
-        r'Delaware St Hornets gets',
-        r'South Carolina St Bulldogs defends'
+        r'South Carolina St Bulldogs\*?\*? operates',
+        r'Delaware St Hornets\*?\*? checks in',
+        r'South Carolina St Bulldogs\*?\*? wants',
+        r'Delaware St Hornets\*?\*? prefers',
+        r'South Carolina St Bulldogs\*?\*? likes',
+        r'Delaware St Hornets\*?\*? shoots',
+        r'South Carolina St Bulldogs\*?\*? converts',
+        r'Delaware St Hornets\*?\*? gets',
+        r'South Carolina St Bulldogs\*?\*? defends'
     ]
     
     for pattern in singular_patterns:
