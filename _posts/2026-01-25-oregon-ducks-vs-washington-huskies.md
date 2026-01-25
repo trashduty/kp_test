@@ -8,21 +8,29 @@ categories: [basketball, preview]
 # Oregon Ducks vs Washington Huskies
 ## Game Preview for January 25, 2026
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
   <tr>
     <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/oregon.svg" alt="Oregon Ducks logo" style="width: 150px; height: 150px; object-fit: contain;">
+      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/oregon.svg" alt="Oregon Ducks logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
       <p><strong>Oregon Ducks</strong></p>
     </td>
     <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
       VS
     </td>
     <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/washington.svg" alt="Washington Huskies logo" style="width: 150px; height: 150px; object-fit: contain;">
+      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/washington.svg" alt="Washington Huskies logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
       <p><strong>Washington Huskies</strong></p>
     </td>
   </tr>
 </table>
+
+
+<div style="text-align: center; margin: 20px 0; padding: 15px; background-color: #f5f5f5; border-radius: 8px;">
+  <h3 style="margin-top: 0;">Betting Lines</h3>
+  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Spread:</strong> Washington Huskies -9.5</p>
+  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Moneyline:</strong> Oregon Ducks (+375) | Washington Huskies (-516)</p>
+  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Total:</strong> 147.5</p>
+</div>
 
 ### Game Storylines
 

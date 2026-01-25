@@ -8,21 +8,29 @@ categories: [basketball, preview]
 # Fort Wayne Mastodons vs IUPUI Jaguars
 ## Game Preview for January 25, 2026
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
   <tr>
     <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/ipfw.svg" alt="Fort Wayne Mastodons logo" style="width: 150px; height: 150px; object-fit: contain;">
+      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/ipfw.svg" alt="Fort Wayne Mastodons logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
       <p><strong>Fort Wayne Mastodons</strong></p>
     </td>
     <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
       VS
     </td>
     <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://via.placeholder.com/150" alt="IUPUI Jaguars logo" style="width: 150px; height: 150px; object-fit: contain;">
+      <img src="https://via.placeholder.com/150" alt="IUPUI Jaguars logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
       <p><strong>IUPUI Jaguars</strong></p>
     </td>
   </tr>
 </table>
+
+
+<div style="text-align: center; margin: 20px 0; padding: 15px; background-color: #f5f5f5; border-radius: 8px;">
+  <h3 style="margin-top: 0;">Betting Lines</h3>
+  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Spread:</strong> Fort Wayne Mastodons -3.5</p>
+  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Moneyline:</strong> Fort Wayne Mastodons (-185) | IUPUI Jaguars (+154)</p>
+  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Total:</strong> 164.5</p>
+</div>
 
 ### Game Storylines
 
@@ -70,7 +78,7 @@ Fort Wayne Mastodons comes in ranked #224 overall by KenPom. Defense has been a 
 
 ## Home Team: IUPUI Jaguars
 
-IUPUI Jaguars comes in ranked #316 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+IUPUI Jaguars comes in ranked #316 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Stopping opponents has been an issue all season long. 
 
 ### Record & Ranking
 - **KenPom Rank:** #316

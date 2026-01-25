@@ -8,21 +8,29 @@ categories: [basketball, preview]
 # Southern Illinois Salukis vs Evansville Purple Aces
 ## Game Preview for January 25, 2026
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
   <tr>
     <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/southern-ill.svg" alt="Southern Illinois Salukis logo" style="width: 150px; height: 150px; object-fit: contain;">
+      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/southern-ill.svg" alt="Southern Illinois Salukis logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
       <p><strong>Southern Illinois Salukis</strong></p>
     </td>
     <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
       VS
     </td>
     <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/evansville.svg" alt="Evansville Purple Aces logo" style="width: 150px; height: 150px; object-fit: contain;">
+      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/evansville.svg" alt="Evansville Purple Aces logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
       <p><strong>Evansville Purple Aces</strong></p>
     </td>
   </tr>
 </table>
+
+
+<div style="text-align: center; margin: 20px 0; padding: 15px; background-color: #f5f5f5; border-radius: 8px;">
+  <h3 style="margin-top: 0;">Betting Lines</h3>
+  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Spread:</strong> Southern Illinois Salukis -3.5</p>
+  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Moneyline:</strong> Southern Illinois Salukis (-185) | Evansville Purple Aces (+150)</p>
+  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Total:</strong> 142.5</p>
+</div>
 
 ### Game Storylines
 
@@ -68,7 +76,7 @@ Southern Illinois Salukis comes in ranked #136 overall by KenPom. The three-poin
 
 ## Home Team: Evansville Purple Aces
 
-Evansville Purple Aces comes in ranked #288 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
+Evansville Purple Aces comes in ranked #288 overall by KenPom. They've struggled from deep this year, meaning they'll need to rely on interior scoring and getting to the free throw line. 
 
 ### Record & Ranking
 - **KenPom Rank:** #288
