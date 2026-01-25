@@ -127,21 +127,24 @@ def find_team_logo(team_name, logos_df):
             base_name = ' '.join(words[:-1])  # Remove last word (mascot)
             
             # Try with period at end (common pattern like "South Carolina St.")
-            for variant in [base_name, base_name + ".", base_name + " "]:
+            for variant in [base_name, base_name + "."]:
                 exact_match = logos_df[logos_df['ncaa_name'] == variant]
                 if not exact_match.empty:
                     return exact_match.iloc[0]['logos']
     
+    # Pre-compute normalized team name for case-insensitive comparisons
+    team_name_normalized = team_name.lower().strip()
+    
     # Step 5: Case-insensitive match on 'name' column
     if 'name' in logos_df.columns:
         for _, row in logos_df.iterrows():
-            if str(row['name']).lower().strip() == team_name.lower().strip():
+            if str(row['name']).lower().strip() == team_name_normalized:
                 return row['logos']
     
     # Step 6: Case-insensitive match on 'ncaa_name' column
     if 'ncaa_name' in logos_df.columns:
         for _, row in logos_df.iterrows():
-            if str(row['ncaa_name']).lower().strip() == team_name.lower().strip():
+            if str(row['ncaa_name']).lower().strip() == team_name_normalized:
                 return row['logos']
     
     # Step 7: Partial match - check if team_name contains ncaa_name or vice versa
