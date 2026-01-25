@@ -59,7 +59,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add kenpom_stats.csv _posts/
+          mkdir -p _posts
+          git add kenpom_stats.csv
+          if [ -n "$(find _posts -maxdepth 1 -name '*.md' 2>/dev/null)" ]; then
+            git add _posts/
+          fi
           if git commit -m "🤖 Daily update: KenPom stats and game previews [skip ci]"; then
             git pull --rebase origin main
             git push
