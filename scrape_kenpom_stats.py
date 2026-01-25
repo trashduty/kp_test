@@ -95,7 +95,7 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
 
     # IMPORTANT: 'Rk' MUST be in this list
     header = [
-        'Team', 'Rk', 'Season', 'ConfOnly', 'ORtg_value', 'ORtg_rank', 'DRtg_value', 'DRtg_rank',
+        'Team', 'Rk', 'Coach', 'Wins', 'Losses', 'Season', 'ConfOnly', 'ORtg_value', 'ORtg_rank', 'DRtg_value', 'DRtg_rank',
         'AdjT_value', 'AdjT_rank', 'Luck_value', 'Luck_rank',
         'OE', 'RankOE', 'DE', 'RankDE', 'Tempo', 'RankTempo',
         'eFG_Pct', 'RankeFG_Pct', 'TO_Pct', 'RankTO_Pct', 'OR_Pct', 'RankOR_Pct', 
@@ -111,7 +111,7 @@ def save_to_csv(data, filename="kenpom_stats.csv"):
         'ARate', 'RankARate', 'F3GRate', 'RankF3GRate', 'OppFG3Pct', 'RankOppFG3Pct',
         'OppFG2Pct', 'RankOppFG2Pct', 'OppFTPct', 'RankOppFTPct', 'OppBlockPct', 'RankOppBlockPct',
         'OppStlRate', 'RankOppStlRate', 'OppNSTRate', 'RankOppNSTRate', 'OppARate', 'RankOppARate',
-        'OppF3GRate', 'RankOppF3GRate'
+        'OppF3GRate', 'RankOppF3GRate', 'Arena', 'ArenaCity', 'ArenaState'
     ]
 
     # Check if RankAdjEM field exists in the data
