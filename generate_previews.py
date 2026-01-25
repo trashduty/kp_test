@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import re
+import copy
 from datetime import datetime, timedelta
 
 # GitHub raw content base URLs
@@ -30,7 +31,7 @@ The Away Team (["Rk", kenpom_stats]) will travel to face the Home Team (["Rk", k
 
 **Record & Ranking:**
 - **KenPom Rank:** #["Rk", kenpom_stats]
-- **Adjusted Efficiency Margin:** ["OE", kenpom_stats] (Rank: #["RankOE", kenpom_stats])
+- **Offensive Efficiency:** ["OE", kenpom_stats] (Rank: #["RankOE", kenpom_stats])
 
 **Offensive Profile:**
 Offensively, the four-factor profile suggests a team that relies on efficient shooting (["eFG_Pct", kenpom_stats]%, #["RankeFG_Pct", kenpom_stats]), ball security (["TO_Pct", kenpom_stats]% turnover rate, #["RankTO_Pct", kenpom_stats]), offensive rebounding (["OR_Pct", kenpom_stats]%, #["RankOR_Pct", kenpom_stats]), and getting to the line (["FT_Rate", kenpom_stats] FT Rate, #["RankFT_Rate", kenpom_stats]).
@@ -68,7 +69,7 @@ Defensively, Away Team ranks #["RankDE", kenpom_stats] with a defensive efficien
 
 **Record & Ranking:**
 - **KenPom Rank:** #["Rk", kenpom_stats]
-- **Adjusted Efficiency Margin:** ["OE", kenpom_stats] (Rank: #["RankOE", kenpom_stats])
+- **Offensive Efficiency:** ["OE", kenpom_stats] (Rank: #["RankOE", kenpom_stats])
 
 **Offensive Profile:**
 Offensively, the four-factor profile suggests a team that relies on efficient shooting (["eFG_Pct", kenpom_stats]%, #["RankeFG_Pct", kenpom_stats]), ball security (["TO_Pct", kenpom_stats]% turnover rate, #["RankTO_Pct", kenpom_stats]), offensive rebounding (["OR_Pct", kenpom_stats]%, #["RankOR_Pct", kenpom_stats]), and getting to the line (["FT_Rate", kenpom_stats] FT Rate, #["RankFT_Rate", kenpom_stats]).
@@ -263,10 +264,14 @@ def get_column_value(df, team_name, column_name, file_name):
 
 
 def parse_and_replace_placeholders(template, away_team, home_team, kenpom_stats_df, predictions_df):
-    """Parse template and replace all placeholders with actual data"""
+    """Parse template and replace all placeholders with actual data
+    
+    Note: This function splits on '###' to identify sections in the markdown template.
+    The template should use '###' only for section headers (### Section Name).
+    """
     content = template
     
-    # Split content into sections
+    # Split content into sections using markdown header delimiter
     parts = content.split('###')
     processed_parts = []
     
@@ -378,13 +383,10 @@ def replace_comparison_section(text, away_team, home_team, kenpom_stats_df, pred
                             )
                             parts[1] = parts[1].replace('Home Team', home_team)
                             
-                            line = marker[0] + parts[1] if marker[0] in '.,;' else parts[1]
                             line = parts[0] + marker[0] + ' ' + parts[1]
                             break
                 else:
                     # Default: process sequentially (may not work perfectly)
-                    # Split into away and home mentions
-                    import copy
                     # Process each placeholder individually based on surrounding context
                     pattern = r'\["([^"]+)",\s*([^\]]+)\]'
                     matches = list(re.finditer(pattern, line))
