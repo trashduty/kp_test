@@ -19,7 +19,7 @@ categories: [basketball, preview]
 
 ### Offensive Profile
 
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (50.0%, #231), ball security (17.8% turnover rate, #228), offensive rebounding (31.1%, #175), and getting to the line (35.5 FT Rate, #188).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (50.0%, #231), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -30,7 +30,7 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Defensive Profile
 
-Defensively, they hold opponents to 49.6% effective FG (#105), force turnovers at a 17.5% rate (#150), limit offensive rebounds to 29.2% (#101), and allow a 35.2 FT Rate (#172).
+Defensively, they hold opponents to 49.6% effective FG (#105), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
 - **2-Point Defense:** 49.3% (Rank: #151)
@@ -62,7 +62,7 @@ Defensively, they hold opponents to 49.6% effective FG (#105), force turnovers a
 
 ### Offensive Profile
 
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (47.4%, #318), ball security (20.4% turnover rate, #345), offensive rebounding (24.1%, #344), and getting to the line (34.7 FT Rate, #203).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (47.4%, #318), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -73,7 +73,7 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Defensive Profile
 
-Defensively, they hold opponents to 53.3% effective FG (#263), force turnovers at a 16.6% rate (#211), limit offensive rebounds to 29.6% (#123), and allow a 34.2 FT Rate (#146).
+Defensively, they hold opponents to 53.3% effective FG (#263), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
 - **2-Point Defense:** 48.4% (Rank: #186)
@@ -92,3 +92,23 @@ Defensively, they hold opponents to 53.3% effective FG (#263), force turnovers a
 
 - **Average Height:** 78.8" (Rank: #17)
 - **Height Efficiency:** 1.3 (Rank: #37)
+
+
+---
+
+## Model Predictions
+
+All that being said, here's how our model prices this game.
+
+### Spread
+- **Southern Illinois Salukis**: -4.0, Cover Probability: 51.7%
+- **Evansville Purple Aces**: 4.0, Cover Probability: 48.3%
+
+### Moneyline
+- **Southern Illinois Salukis Win Probability**: 63.1%
+- **Evansville Purple Aces Win Probability**: 36.9%
+
+### Total
+- **Predicted Total**: 141.5
+- **Over Cover Probability**: 48.4%
+- **Under Cover Probability**: 51.6%

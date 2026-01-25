@@ -19,7 +19,7 @@ categories: [basketball, preview]
 
 ### Offensive Profile
 
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (54.3%, #67), ball security (17.5% turnover rate, #214), offensive rebounding (32.0%, #147), and getting to the line (33.0 FT Rate, #244).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (54.3%, #67), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -30,7 +30,7 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Defensive Profile
 
-Defensively, they hold opponents to 49.9% effective FG (#117), force turnovers at a 17.2% rate (#172), limit offensive rebounds to 26.8% (#36), and allow a 37.8 FT Rate (#243).
+Defensively, they hold opponents to 49.9% effective FG (#117), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
 - **2-Point Defense:** 48.2% (Rank: #195)
@@ -62,7 +62,7 @@ Defensively, they hold opponents to 49.9% effective FG (#117), force turnovers a
 
 ### Offensive Profile
 
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (51.1%, #185), ball security (15.7% turnover rate, #90), offensive rebounding (37.1%, #25), and getting to the line (42.4 FT Rate, #43).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (51.1%, #185), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -73,7 +73,7 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Defensive Profile
 
-Defensively, they hold opponents to 48.9% effective FG (#84), force turnovers at a 18.8% rate (#84), limit offensive rebounds to 32.2% (#245), and allow a 43.5 FT Rate (#329).
+Defensively, they hold opponents to 48.9% effective FG (#84), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
 - **2-Point Defense:** 46.4% (Rank: #265)
@@ -92,3 +92,23 @@ Defensively, they hold opponents to 48.9% effective FG (#84), force turnovers at
 
 - **Average Height:** 77.1" (Rank: #225)
 - **Height Efficiency:** -0.6 (Rank: #262)
+
+
+---
+
+## Model Predictions
+
+All that being said, here's how our model prices this game.
+
+### Spread
+- **Florida Atlantic Owls**: 5.0, Cover Probability: 50.0%
+- **South Florida Bulls**: -5.0, Cover Probability: 50.0%
+
+### Moneyline
+- **Florida Atlantic Owls Win Probability**: 31.6%
+- **South Florida Bulls Win Probability**: 68.4%
+
+### Total
+- **Predicted Total**: 166.0
+- **Over Cover Probability**: 47.7%
+- **Under Cover Probability**: 50.8%

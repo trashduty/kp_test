@@ -19,7 +19,7 @@ categories: [basketball, preview]
 
 ### Offensive Profile
 
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (50.3%, #219), ball security (18.5% turnover rate, #265), offensive rebounding (36.4%, #38), and getting to the line (36.0 FT Rate, #175).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (50.3%, #219), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -30,7 +30,7 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Defensive Profile
 
-Defensively, they hold opponents to 50.9% effective FG (#166), force turnovers at a 16.3% rate (#223), limit offensive rebounds to 31.2% (#199), and allow a 32.9 FT Rate (#114).
+Defensively, they hold opponents to 50.9% effective FG (#166), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
 - **2-Point Defense:** 47.6% (Rank: #217)
@@ -62,7 +62,7 @@ Defensively, they hold opponents to 50.9% effective FG (#166), force turnovers a
 
 ### Offensive Profile
 
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (50.3%, #222), ball security (15.0% turnover rate, #51), offensive rebounding (34.2%, #77), and getting to the line (34.7 FT Rate, #202).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (50.3%, #222), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -73,7 +73,7 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Defensive Profile
 
-Defensively, they hold opponents to 49.6% effective FG (#102), force turnovers at a 15.2% rate (#299), limit offensive rebounds to 29.5% (#120), and allow a 31.0 FT Rate (#71).
+Defensively, they hold opponents to 49.6% effective FG (#102), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
 - **2-Point Defense:** 52.1% (Rank: #58)
@@ -92,3 +92,23 @@ Defensively, they hold opponents to 49.6% effective FG (#102), force turnovers a
 
 - **Average Height:** 77.7" (Rank: #124)
 - **Height Efficiency:** 1.5 (Rank: #25)
+
+
+---
+
+## Model Predictions
+
+All that being said, here's how our model prices this game.
+
+### Spread
+- **Oregon Ducks**: 8.5, Cover Probability: 53.2%
+- **Washington Huskies**: -8.5, Cover Probability: 46.8%
+
+### Moneyline
+- **Oregon Ducks Win Probability**: 22.7%
+- **Washington Huskies Win Probability**: 77.3%
+
+### Total
+- **Predicted Total**: 146.5
+- **Over Cover Probability**: 50.0%
+- **Under Cover Probability**: 50.0%

@@ -19,7 +19,7 @@ categories: [basketball, preview]
 
 ### Offensive Profile
 
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (58.6%, #8), ball security (13.8% turnover rate, #15), offensive rebounding (36.2%, #41), and getting to the line (26.8 FT Rate, #347).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (58.6%, #8), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -30,7 +30,7 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Defensive Profile
 
-Defensively, they hold opponents to 50.2% effective FG (#134), force turnovers at a 16.4% rate (#219), limit offensive rebounds to 27.3% (#44), and allow a 22.2 FT Rate (#3).
+Defensively, they hold opponents to 50.2% effective FG (#134), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
 - **2-Point Defense:** 48.6% (Rank: #177)
@@ -62,7 +62,7 @@ Defensively, they hold opponents to 50.2% effective FG (#134), force turnovers a
 
 ### Offensive Profile
 
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (51.7%, #161), ball security (15.8% turnover rate, #96), offensive rebounding (29.3%, #232), and getting to the line (22.1 FT Rate, #365).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (51.7%, #161), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -73,7 +73,7 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Defensive Profile
 
-Defensively, they hold opponents to 58.4% effective FG (#362), force turnovers at a 19.9% rate (#44), limit offensive rebounds to 37.4% (#353), and allow a 47.5 FT Rate (#354).
+Defensively, they hold opponents to 58.4% effective FG (#362), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
 - **2-Point Defense:** 48.8% (Rank: #168)
@@ -92,3 +92,23 @@ Defensively, they hold opponents to 58.4% effective FG (#362), force turnovers a
 
 - **Average Height:** 76.4" (Rank: #326)
 - **Height Efficiency:** -1.6 (Rank: #350)
+
+
+---
+
+## Model Predictions
+
+All that being said, here's how our model prices this game.
+
+### Spread
+- **Fort Wayne Mastodons**: -3.5, Cover Probability: 50.0%
+- **IUPUI Jaguars**: 3.5, Cover Probability: 50.0%
+
+### Moneyline
+- **Fort Wayne Mastodons Win Probability**: 63.4%
+- **IUPUI Jaguars Win Probability**: 36.6%
+
+### Total
+- **Predicted Total**: 166.5
+- **Over Cover Probability**: 53.1%
+- **Under Cover Probability**: 46.9%

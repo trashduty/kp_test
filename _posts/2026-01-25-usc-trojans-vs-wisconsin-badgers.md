@@ -19,7 +19,7 @@ categories: [basketball, preview]
 
 ### Offensive Profile
 
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (52.1%, #145), ball security (17.2% turnover rate, #192), offensive rebounding (32.3%, #138), and getting to the line (48.9 FT Rate, #3).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (52.1%, #145), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -30,7 +30,7 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Defensive Profile
 
-Defensively, they hold opponents to 48.0% effective FG (#59), force turnovers at a 17.3% rate (#163), limit offensive rebounds to 30.8% (#172), and allow a 36.2 FT Rate (#205).
+Defensively, they hold opponents to 48.0% effective FG (#59), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
 - **2-Point Defense:** 48.3% (Rank: #189)
@@ -62,7 +62,7 @@ Defensively, they hold opponents to 48.0% effective FG (#59), force turnovers at
 
 ### Offensive Profile
 
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (54.7%, #59), ball security (14.0% turnover rate, #17), offensive rebounding (29.7%, #216), and getting to the line (36.3 FT Rate, #168).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (54.7%, #59), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -73,7 +73,7 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Defensive Profile
 
-Defensively, they hold opponents to 50.3% effective FG (#142), force turnovers at a 15.1% rate (#306), limit offensive rebounds to 25.1% (#13), and allow a 33.7 FT Rate (#133).
+Defensively, they hold opponents to 50.3% effective FG (#142), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
 - **2-Point Defense:** 50.0% (Rank: #131)
@@ -92,3 +92,23 @@ Defensively, they hold opponents to 50.3% effective FG (#142), force turnovers a
 
 - **Average Height:** 79.0" (Rank: #10)
 - **Height Efficiency:** 2.3 (Rank: #10)
+
+
+---
+
+## Model Predictions
+
+All that being said, here's how our model prices this game.
+
+### Spread
+- **USC Trojans**: 7.5, Cover Probability: 50.0%
+- **Wisconsin Badgers**: -7.5, Cover Probability: 50.0%
+
+### Moneyline
+- **USC Trojans Win Probability**: 25.2%
+- **Wisconsin Badgers Win Probability**: 74.8%
+
+### Total
+- **Predicted Total**: 159.5
+- **Over Cover Probability**: 50.0%
+- **Under Cover Probability**: 50.0%

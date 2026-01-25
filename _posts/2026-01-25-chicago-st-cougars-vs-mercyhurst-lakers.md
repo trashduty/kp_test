@@ -19,7 +19,7 @@ categories: [basketball, preview]
 
 ### Offensive Profile
 
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (43.6%, #360), ball security (17.3% turnover rate, #197), offensive rebounding (28.4%, #259), and getting to the line (29.8 FT Rate, #309).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (43.6%, #360), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -30,7 +30,7 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Defensive Profile
 
-Defensively, they hold opponents to 57.7% effective FG (#355), force turnovers at a 19.6% rate (#55), limit offensive rebounds to 37.7% (#355), and allow a 39.7 FT Rate (#280).
+Defensively, they hold opponents to 57.7% effective FG (#355), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
 - **2-Point Defense:** 40.4% (Rank: #358)
@@ -62,7 +62,7 @@ Defensively, they hold opponents to 57.7% effective FG (#355), force turnovers a
 
 ### Offensive Profile
 
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (48.4%, #286), ball security (15.7% turnover rate, #91), offensive rebounding (26.2%, #318), and getting to the line (23.9 FT Rate, #363).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (48.4%, #286), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -73,7 +73,7 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Defensive Profile
 
-Defensively, they hold opponents to 50.1% effective FG (#127), force turnovers at a 20.0% rate (#42), limit offensive rebounds to 32.9% (#269), and allow a 42.1 FT Rate (#318).
+Defensively, they hold opponents to 50.1% effective FG (#127), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
 - **2-Point Defense:** 50.4% (Rank: #114)
@@ -92,3 +92,23 @@ Defensively, they hold opponents to 50.1% effective FG (#127), force turnovers a
 
 - **Average Height:** 75.0" (Rank: #365)
 - **Height Efficiency:** -2.5 (Rank: #364)
+
+
+---
+
+## Model Predictions
+
+All that being said, here's how our model prices this game.
+
+### Spread
+- **Chicago St Cougars**: 9.5, Cover Probability: 50.0%
+- **Mercyhurst Lakers**: -9.5, Cover Probability: 50.0%
+
+### Moneyline
+- **Chicago St Cougars Win Probability**: 19.4%
+- **Mercyhurst Lakers Win Probability**: 80.6%
+
+### Total
+- **Predicted Total**: 131.0
+- **Over Cover Probability**: 50.8%
+- **Under Cover Probability**: 49.2%
