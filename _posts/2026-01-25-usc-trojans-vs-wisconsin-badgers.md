@@ -8,6 +8,20 @@ categories: [basketball, preview]
 # USC Trojans vs Wisconsin Badgers
 ## Game Preview for January 25, 2026
 
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <div style="text-align: center;">
+    <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/usc-upstate.svg" alt="USC Trojans logo" style="width: 150px; height: 150px; object-fit: contain;">
+    <p><strong>USC Trojans</strong></p>
+  </div>
+  <div style="text-align: center; font-size: 2em; font-weight: bold;">
+    VS
+  </div>
+  <div style="text-align: center;">
+    <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/wisconsin.svg" alt="Wisconsin Badgers logo" style="width: 150px; height: 150px; object-fit: contain;">
+    <p><strong>Wisconsin Badgers</strong></p>
+  </div>
+</div>
+
 
 ## Away Team: USC Trojans
 

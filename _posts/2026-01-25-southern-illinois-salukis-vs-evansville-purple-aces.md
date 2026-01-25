@@ -8,6 +8,20 @@ categories: [basketball, preview]
 # Southern Illinois Salukis vs Evansville Purple Aces
 ## Game Preview for January 25, 2026
 
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <div style="text-align: center;">
+    <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/southern-ill.svg" alt="Southern Illinois Salukis logo" style="width: 150px; height: 150px; object-fit: contain;">
+    <p><strong>Southern Illinois Salukis</strong></p>
+  </div>
+  <div style="text-align: center; font-size: 2em; font-weight: bold;">
+    VS
+  </div>
+  <div style="text-align: center;">
+    <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/evansville.svg" alt="Evansville Purple Aces logo" style="width: 150px; height: 150px; object-fit: contain;">
+    <p><strong>Evansville Purple Aces</strong></p>
+  </div>
+</div>
+
 
 ## Away Team: Southern Illinois Salukis
 

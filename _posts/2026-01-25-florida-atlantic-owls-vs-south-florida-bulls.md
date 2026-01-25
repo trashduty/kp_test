@@ -8,6 +8,20 @@ categories: [basketball, preview]
 # Florida Atlantic Owls vs South Florida Bulls
 ## Game Preview for January 25, 2026
 
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <div style="text-align: center;">
+    <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/fla-atlantic.svg" alt="Florida Atlantic Owls logo" style="width: 150px; height: 150px; object-fit: contain;">
+    <p><strong>Florida Atlantic Owls</strong></p>
+  </div>
+  <div style="text-align: center; font-size: 2em; font-weight: bold;">
+    VS
+  </div>
+  <div style="text-align: center;">
+    <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/south-fla.svg" alt="South Florida Bulls logo" style="width: 150px; height: 150px; object-fit: contain;">
+    <p><strong>South Florida Bulls</strong></p>
+  </div>
+</div>
+
 
 ## Away Team: Florida Atlantic Owls
 
