@@ -38,7 +38,7 @@ jobs:
         # Create _posts directory if it doesn't exist
         mkdir -p _posts
         # Only add and commit if there are files to add
-        if [ -n "$(find _posts -name '*.md' 2>/dev/null)" ]; then
+        if [ -n "$(find _posts -maxdepth 1 -name '*.md' 2>/dev/null)" ]; then
           git add _posts/
           git diff --staged --quiet || git commit -m "Generate game previews for $(date +%Y-%m-%d)"
           git push
