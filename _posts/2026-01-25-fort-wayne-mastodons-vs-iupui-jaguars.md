@@ -115,8 +115,8 @@ IUPUI Jaguars comes in ranked #316 overall by KenPom. The three-point shot hasn'
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fort Wayne Mastodons**: -3.5, Cover Probability: -4.1%
-- **IUPUI Jaguars**: 3.5, Cover Probability: -0.5%
+- **Fort Wayne Mastodons**: -3.5, Edge For Covering Spread: -4.1%
+- **IUPUI Jaguars**: 3.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
 - **Fort Wayne Mastodons Win Probability**: 63.4%
@@ -124,8 +124,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 166.5
-- **Over Cover Probability**: 0.7%
-- **Under Cover Probability**: -5.5%
+- **Edge For Covering Over**: 0.7%
+- **Edge For Covering Under**: -5.5%
 
 ---
 

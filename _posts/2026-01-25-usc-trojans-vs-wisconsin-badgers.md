@@ -28,7 +28,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wisconsin Badgers -7.5</p>
-  <p><strong>Moneyline:</strong> USC Trojans (+274) | Wisconsin Badgers (-349)</p>
+  <p><strong>Moneyline:</strong> USC Trojans (+259) | Wisconsin Badgers (-328)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
@@ -113,17 +113,17 @@ Wisconsin Badgers comes in ranked #39 overall by KenPom. They boast one of the n
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **USC Trojans**: 7.5, Cover Probability: -1.8%
-- **Wisconsin Badgers**: -7.5, Cover Probability: -2.9%
+- **USC Trojans**: 7.5, Edge For Covering Spread: -1.8%
+- **Wisconsin Badgers**: -7.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **USC Trojans Win Probability**: 25.2%
-- **Wisconsin Badgers Win Probability**: 74.8%
+- **USC Trojans Win Probability**: 25.7%
+- **Wisconsin Badgers Win Probability**: 74.3%
 
 ### Total
 - **Predicted Total**: 159.5
-- **Over Cover Probability**: -2.4%
-- **Under Cover Probability**: -2.4%
+- **Edge For Covering Over**: -2.4%
+- **Edge For Covering Under**: -2.4%
 
 ---
 

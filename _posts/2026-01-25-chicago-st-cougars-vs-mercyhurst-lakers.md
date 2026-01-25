@@ -113,8 +113,8 @@ Mercyhurst Lakers comes in ranked #296 overall by KenPom. They've struggled from
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Chicago St Cougars**: 9.5, Cover Probability: -1.8%
-- **Mercyhurst Lakers**: -9.5, Cover Probability: -2.9%
+- **Chicago St Cougars**: 9.5, Edge For Covering Spread: -1.8%
+- **Mercyhurst Lakers**: -9.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
 - **Chicago St Cougars Win Probability**: 19.0%
@@ -122,8 +122,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 130.5
-- **Over Cover Probability**: -1.4%
-- **Under Cover Probability**: -3.4%
+- **Edge For Covering Over**: -1.4%
+- **Edge For Covering Under**: -3.4%
 
 ---
 

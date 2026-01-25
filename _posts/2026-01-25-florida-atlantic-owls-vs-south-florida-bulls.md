@@ -113,8 +113,8 @@ South Florida Bulls comes in ranked #73 overall by KenPom.
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Atlantic Owls**: 5.0, Cover Probability: -2.1%
-- **South Florida Bulls**: -5.0, Cover Probability: -2.7%
+- **Florida Atlantic Owls**: 5.0, Edge For Covering Spread: -2.1%
+- **South Florida Bulls**: -5.0, Edge For Covering Spread: -2.7%
 
 ### Moneyline
 - **Florida Atlantic Owls Win Probability**: 32.2%
@@ -122,8 +122,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 166.0
-- **Over Cover Probability**: -3.4%
-- **Under Cover Probability**: -1.4%
+- **Edge For Covering Over**: -3.4%
+- **Edge For Covering Under**: -1.4%
 
 ---
 
