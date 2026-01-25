@@ -98,8 +98,22 @@ def find_team_in_kenpom(team_name, kenpom_df):
     return best_match
 
 
-def find_team_logo(team_name, logos_df):
+def find_team_logo(team_name, logos_df, crosswalk_df):
     """Find team logo URL from logos dataframe using robust multi-column matching."""
+    
+    # Step 0: Check crosswalk for canonical name
+    original_team_name = team_name
+    if crosswalk_df is not None and not crosswalk_df.empty:
+        team_name_lower = team_name.strip().lower()
+        for _, row in crosswalk_df.iterrows():
+            for col in crosswalk_df.columns[1:]:  # Skip the first column (API is the canonical)
+                if str(row[col]).strip().lower() == team_name_lower:
+                    canonical = str(row['API']).strip()
+                    if canonical:
+                        team_name = canonical
+                    break
+            if team_name != original_team_name:
+                break
     
     # Step 1: Exact match on 'name' column
     if 'name' in logos_df.columns:
@@ -154,6 +168,23 @@ def find_team_logo(team_name, logos_df):
             ncaa_name_lower = str(row['ncaa_name']).lower()
             if ncaa_name_lower in team_name_lower or team_name_lower in ncaa_name_lower:
                 return row['logos']
+    
+    # Step 8: Try progressively shortening the team name
+    words = team_name.split()
+    for i in range(len(words) - 1, 0, -1):
+        shortened = ' '.join(words[:i])
+        # Try exact match on each column
+        for col in ['name', 'ncaa_name', 'reference_name']:
+            if col in logos_df.columns:
+                exact_match = logos_df[logos_df[col] == shortened]
+                if not exact_match.empty:
+                    return exact_match.iloc[0]['logos']
+        # Case-insensitive match
+        shortened_lower = shortened.lower().strip()
+        for _, row in logos_df.iterrows():
+            for col in ['name', 'ncaa_name', 'reference_name']:
+                if col in logos_df.columns and str(row[col]).lower().strip() == shortened_lower:
+                    return row['logos']
     
     # If all else fails, return placeholder
     print(f"  Warning: No logo found for '{team_name}'")
@@ -260,8 +291,8 @@ def generate_seo_metadata(away_team, home_team, game_date, away_predictions, hom
     seo_title = f"{away_team} vs {home_team} Prediction & Picks - {game_date.strftime('%b %d')}"
     
     # Meta Description (155-160 characters for optimal display)
-    meta_description = f"Expert {away_team} vs {home_team} prediction for {game_date.strftime('%B %d, %Y')}. Spread: {spread_text}, Total: {total}. View our model's picks, KenPom analysis & betting edge."
-    
+    meta_description = f"Expert {away_team} vs {home_team} prediction for {game_date.strftime('%B %d, %Y')}. Spread: {spread_text}, Total: {total}. View our model's picks, KenPom analysis & betting ed[...]"
+
     # Keywords
     keywords = [
         f"{away_team}",
@@ -641,11 +672,11 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
     # Spread discussion
     sections.append("\n#### Breaking Down the Spread\n")
     if spread_value < 3:
-        sections.append(f"A spread under a field goal suggests the books see this as essentially a coin flip. {favorite}'s {spread_value:.1f}-point cushion reflects home court advantage more than a talent disparity. ")
+        sections.append(f"A spread under a field goal suggests the books see this as essentially a coin flip. {favorite}'s {spread_value:.1f}-point cushion reflects home court advantage more than a talent gap. ")
     elif spread_value < 7:
-        sections.append(f"The {spread_value:.1f}-point spread indicates {favorite} is viewed as the better team, but this isn't an overwhelming edge. {underdog} has a legitimate path to covering or winning outright with a solid performance. ")
+        sections.append(f"The {spread_value:.1f}-point spread indicates {favorite} is viewed as the better team, but this isn't an overwhelming edge. {underdog} has a legitimate path to covering or winning outright. ")
     elif spread_value < 12:
-        sections.append(f"A spread around {spread_value:.1f} points tells us {favorite} has clear advantages, but games aren't played on paper. {underdog} needs to punch above their weight class to keep this competitive. ")
+        sections.append(f"A spread around {spread_value:.1f} points tells us {favorite} has clear advantages, but games aren't played on paper. {underdog} needs to punch above their weight class to keep it close. ")
     else:
         sections.append(f"The {spread_value:.1f}-point spread screams mismatch. The books are asking {underdog} to hang within two possessions, which based on the profiles, requires {favorite} to play below their standard. ")
     
@@ -827,7 +858,7 @@ def generate_game_narrative(away_team, home_team, away_stats, home_stats):
         away_fg3_pct = float(away_stats.get('FG3Pct', 0))
         home_fg3_pct = float(home_stats.get('FG3Pct', 0))
         away_opp_fg3_pct = float(home_stats.get('OppFG3Pct', 0))
-        home_opp_fg3_pct = float(home_stats.get('OppFG3Pct', 0))
+        home_opp_fg3_pct = float(away_stats.get('OppFG3Pct', 0))
     except:
         return ""
     
@@ -836,7 +867,7 @@ def generate_game_narrative(away_team, home_team, away_stats, home_stats):
     # Overall matchup comparison
     rank_diff = abs(away_rank - home_rank)
     if rank_diff <= 10:
-        narrative += f"This matchup features two evenly-matched teams, with {away_team} at #{away_rank} and {home_team} at #{home_rank} in the KenPom rankings. Expect a competitive battle throughout. "
+        narrative += f"This matchup features two evenly-matched teams, with {away_team} at #{away_rank} and {home_team} at #{home_rank} in the KenPom rankings. Expect a competitive battle throughout. ")
     elif rank_diff <= 50:
         favorite = away_team if away_rank < home_rank else home_team
         underdog = home_team if away_rank < home_rank else away_team
@@ -844,7 +875,7 @@ def generate_game_narrative(away_team, home_team, away_stats, home_stats):
     else:
         favorite = away_team if away_rank < home_rank else home_team
         underdog = home_team if away_rank < home_rank else away_team
-        narrative += f"This looks like a mismatch on paper with {favorite} significantly higher in the rankings, but as they say, that's why they play the games. {underdog} will need their best performance of the season to pull off the upset. "
+        narrative += f"This looks like a mismatch on paper with {favorite} significantly higher in the rankings, but as they say, that's why they play the games. {underdog} will need their best performance to keep it close. "
     
     # Offensive vs Defensive matchup
     narrative += "\n\n**Key Matchup: "
@@ -869,13 +900,13 @@ def generate_game_narrative(away_team, home_team, away_stats, home_stats):
     if tempo_diff > 5:
         faster_team = away_team if away_tempo > home_tempo else home_team
         slower_team = home_team if away_tempo > home_tempo else away_team
-        narrative += f"\n\n**Pace of Play:** {faster_team} like to push the pace, while {slower_team} prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. "
+        narrative += f"\n\n**Pace of Play:** {faster_team} like to push the pace, while {slower_team} prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant edge. "
     
     # Three-point shooting matchup
     if away_fg3_pct > 35 and home_opp_fg3_pct < 32:
-        narrative += f"\n\n**X-Factor:** {away_team} can light it up from three-point range ({away_fg3_pct:.1f}%), but {home_team} defend the arc exceptionally well, holding opponents to just {home_opp_fg3_pct:.1f}%. This battle could determine the outcome. "
+        narrative += f"\n\n**X-Factor:** {away_team} can light it up from three-point range ({away_fg3_pct:.1f}%), but {home_team} defend the arc exceptionally well, holding opponents to just {home_opp_fg3_pct:.1f}%. "
     elif home_fg3_pct > 35 and away_opp_fg3_pct < 32:
-        narrative += f"\n\n**X-Factor:** {home_team}'s three-point shooting ({home_fg3_pct:.1f}%) faces a tough test against {away_team}'s perimeter defense, which limits opponents to {away_opp_fg3_pct:.1f}% from deep. "
+        narrative += f"\n\n**X-Factor:** {home_team}'s three-point shooting ({home_fg3_pct:.1f}%) faces a tough test against {away_team}'s perimeter defense, which limits opponents to {away_opp_fg3_pct:.1f}%. "
     elif away_fg3_pct > 37 and home_fg3_pct > 37:
         narrative += f"\n\n**Shootout Alert:** Both teams can stroke it from downtown. Don't be surprised if this turns into a high-scoring affair with plenty of made threes. "
     
@@ -1095,6 +1126,7 @@ def main():
     CBB_OUTPUT_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/CBB_Output.csv"
     KP_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/kp.csv"
     LOGOS_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/data/logos.csv"
+    CROSSWALK_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/data/crosswalk.csv"
     
     # Download external data
     print("Downloading CBB_Output.csv...")
@@ -1105,6 +1137,9 @@ def main():
     
     print("Downloading logos.csv...")
     logos_data = download_csv(LOGOS_URL)
+    
+    print("Downloading crosswalk.csv...")
+    crosswalk_data = download_csv(CROSSWALK_URL)
     
     # Load local KenPom stats
     print("Loading kenpom_stats.csv...")
@@ -1223,8 +1258,8 @@ def main():
         print(f"  Home team matched: {home_stats.get('Team', 'Unknown')} (Rank: {home_stats.get('Rk', 'N/A')})")
         
         # Find logos for both teams
-        away_logo = find_team_logo(away_team, logos_data)
-        home_logo = find_team_logo(home_team, logos_data)
+        away_logo = find_team_logo(away_team, logos_data, crosswalk_data)
+        home_logo = find_team_logo(home_team, logos_data, crosswalk_data)
         print(f"  Away logo: {away_logo}")
         print(f"  Home logo: {home_logo}")
         
