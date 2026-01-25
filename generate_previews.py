@@ -7,6 +7,7 @@ This script:
 2. Loads local kenpom_stats.csv
 3. Identifies games for today and tomorrow
 4. Generates markdown preview posts for each game
+5. Generates SEO-optimized HTML versions for Squarespace
 """
 
 import pandas as pd
@@ -203,6 +204,281 @@ def get_rank_description(rank):
         return "N/A"
 
 
+def generate_seo_metadata(away_team, home_team, game_date, away_predictions, home_predictions):
+    """Generate comprehensive SEO metadata."""
+    
+    try:
+        # Get betting info
+        away_spread = float(away_predictions.get('market_spread', 0))
+        home_spread = float(home_predictions.get('market_spread', 0))
+        if away_spread < 0:
+            spread_text = f"{away_team} {away_spread}"
+            favorite = away_team
+        elif home_spread < 0:
+            spread_text = f"{home_team} {home_spread}"
+            favorite = home_team
+        else:
+            spread_text = "Pick'em"
+            favorite = away_team
+        
+        total = format_stat(away_predictions.get('Opening Total', 'N/A'), 1)
+    except:
+        spread_text = "N/A"
+        total = "N/A"
+        favorite = away_team
+    
+    # SEO Title (60 characters max for best display)
+    seo_title = f"{away_team} vs {home_team} Prediction & Picks - {game_date.strftime('%b %d')}"
+    
+    # Meta Description (155-160 characters for optimal display)
+    meta_description = f"Expert {away_team} vs {home_team} prediction for {game_date.strftime('%B %d, %Y')}. Spread: {spread_text}, Total: {total}. View our model's picks, KenPom analysis & betting edge."
+    
+    # Keywords
+    keywords = [
+        f"{away_team}",
+        f"{home_team}",
+        f"{away_team} vs {home_team}",
+        "college basketball prediction",
+        "college basketball picks",
+        "betting picks",
+        "game preview",
+        "KenPom",
+        f"{away_team} prediction",
+        f"{home_team} prediction",
+        f"{game_date.strftime('%B %d')} basketball"
+    ]
+    
+    # Open Graph tags for social media
+    og_title = f"{away_team} vs {home_team}: Prediction & Betting Analysis"
+    og_description = f"Our model predicts {favorite} covers. Full analysis, KenPom stats, and betting edge for {game_date.strftime('%B %d')}."
+    
+    return {
+        'seo_title': seo_title,
+        'meta_description': meta_description,
+        'keywords': ', '.join(keywords),
+        'og_title': og_title,
+        'og_description': og_description,
+        'canonical_url': f"https://btb-analytics.com/blog/{game_date.strftime('%Y-%m-%d')}-{slugify(away_team)}-vs-{slugify(home_team)}"
+    }
+
+
+def convert_to_html(markdown_content, away_team, home_team, game_date, away_predictions, home_predictions, away_logo, home_logo):
+    """Convert markdown to clean, SEO-optimized HTML for Squarespace."""
+    
+    # Get SEO metadata
+    seo = generate_seo_metadata(away_team, home_team, game_date, away_predictions, home_predictions)
+    
+    # Remove frontmatter
+    lines = markdown_content.split('\n')
+    if lines[0] == '---':
+        try:
+            end_idx = lines[1:].index('---') + 1
+            markdown_content = '\n'.join(lines[end_idx+1:])
+        except ValueError:
+            pass
+    
+    html = markdown_content
+    
+    # Convert headers with proper semantic HTML
+    html = re.sub(r'^### (.+)$', r'<h3>\1</h3>', html, flags=re.MULTILINE)
+    html = re.sub(r'^## (.+)$', r'<h2>\1</h2>', html, flags=re.MULTILINE)
+    html = re.sub(r'^# (.+)$', r'<h1>\1</h1>', html, flags=re.MULTILINE)
+    
+    # Convert bold and emphasis
+    html = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', html)
+    html = re.sub(r'\*([^*]+)\*', r'<em>\1</em>', html)
+    
+    # Convert links
+    html = re.sub(r'\[([^\]]+)\]\(([^\)]+)\)', r'<a href="\2" target="_blank" rel="noopener">\1</a>', html)
+    
+    # Keep the table as-is (it's already HTML)
+    # Just ensure it's clean
+    
+    # Convert horizontal rules
+    html = html.replace('---', '<hr>')
+    
+    # Convert lists
+    lines = html.split('\n')
+    in_list = False
+    new_lines = []
+    
+    for line in lines:
+        if line.strip().startswith('- '):
+            if not in_list:
+                new_lines.append('<ul>')
+                in_list = True
+            new_lines.append(f'  <li>{line.strip()[2:]}</li>')
+        else:
+            if in_list:
+                new_lines.append('</ul>')
+                in_list = False
+            new_lines.append(line)
+    
+    if in_list:
+        new_lines.append('</ul>')
+    
+    html = '\n'.join(new_lines)
+    
+    # Convert paragraphs (but avoid breaking HTML tags)
+    lines = html.split('\n')
+    new_lines = []
+    in_paragraph = False
+    
+    for line in lines:
+        stripped = line.strip()
+        
+        # Check if line is HTML tag or empty
+        if not stripped or stripped.startswith('<'):
+            if in_paragraph:
+                new_lines.append('</p>')
+                in_paragraph = False
+            new_lines.append(line)
+        else:
+            if not in_paragraph:
+                new_lines.append('<p>')
+                in_paragraph = True
+            new_lines.append(line)
+    
+    if in_paragraph:
+        new_lines.append('</p>')
+    
+    html = '\n'.join(new_lines)
+    
+    # Clean up extra spacing
+    html = re.sub(r'\n{3,}', '\n\n', html)
+    
+    # Add CSS for better styling
+    css = """
+<style>
+  .game-preview-container {
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  .betting-lines {
+    text-align: center;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+  }
+  
+  .betting-lines h3 {
+    margin-top: 0;
+    color: #2c3e50;
+  }
+  
+  .betting-lines p {
+    font-size: 1.1em;
+    margin: 10px 0;
+  }
+  
+  .team-logos-container {
+    width: 100%;
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .team-logos-row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .team-logo-cell {
+    flex: 1;
+    min-width: 150px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .team-logo-cell img {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    color: #2c3e50;
+    font-size: 2em;
+    margin-bottom: 0.2em;
+  }
+  
+  h2 {
+    color: #34495e;
+    font-size: 1.8em;
+    margin-top: 1.5em;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 0.3em;
+  }
+  
+  h3 {
+    color: #7f8c8d;
+    font-size: 1.3em;
+    margin-top: 1.2em;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
+  li {
+    margin: 8px 0;
+  }
+  
+  strong {
+    color: #2c3e50;
+  }
+  
+  hr {
+    border: none;
+    border-top: 2px solid #ecf0f1;
+    margin: 30px 0;
+  }
+  
+  a {
+    color: #3498db;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  @media (max-width: 768px) {
+    .team-logos-row {
+      flex-direction: column;
+    }
+    
+    h1 {
+      font-size: 1.5em;
+    }
+    
+    h2 {
+      font-size: 1.3em;
+    }
+  }
+</style>
+"""
+    
+    # Wrap everything in a container
+    full_html = f"""
+{css}
+<div class="game-preview-container">
+{html}
+</div>
+"""
+    
+    return full_html, seo
+
+
 def generate_betting_info(away_team, home_team, away_predictions, home_predictions):
     """Generate betting lines section."""
     try:
@@ -225,11 +501,11 @@ def generate_betting_info(away_team, home_team, away_predictions, home_predictio
         total = format_stat(away_predictions.get('Opening Total', 'N/A'), 1)
         
         betting_info = f"""
-<div style="text-align: center; margin: 20px 0; padding: 15px; background-color: #f5f5f5; border-radius: 8px;">
-  <h3 style="margin-top: 0;">Betting Lines</h3>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Spread:</strong> {spread_text}</p>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Moneyline:</strong> {away_team} ({away_ml}) | {home_team} ({home_ml})</p>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Total:</strong> {total}</p>
+<div class="betting-lines">
+  <h3>Betting Lines</h3>
+  <p><strong>Spread:</strong> {spread_text}</p>
+  <p><strong>Moneyline:</strong> {away_team} ({away_ml}) | {home_team} ({home_ml})</p>
+  <p><strong>Total:</strong> {total}</p>
 </div>
 """
         return betting_info
@@ -333,8 +609,8 @@ def generate_predictions_section(away_team, home_team, away_predictions, home_pr
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **{away_team}**: {away_spread}, Edge For Covering Spread: {away_spread_edge}
-- **{home_team}**: {home_spread}, Edge FOr Covering Spread: {home_spread_edge}
+- **{away_team}**: {away_spread}, Cover Probability: {away_spread_edge}
+- **{home_team}**: {home_spread}, Cover Probability: {home_spread_edge}
 
 ### Moneyline
 - **{away_team} Win Probability**: {away_ml_prob}
@@ -342,8 +618,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: {predicted_total}
-- **Edge For Covering Over**: {over_edge}
-- **Edge For Covering Under**: {under_edge}
+- **Over Cover Probability**: {over_edge}
+- **Under Cover Probability**: {under_edge}
 
 ---
 
@@ -361,7 +637,6 @@ def generate_post_content(away_team, home_team, away_stats, home_stats, away_pre
     
     def team_section(team_name, stats, is_away=True):
         """Generate content section for a team."""
-        side = "Away" if is_away else "Home"
         
         # Generate conversational analysis without duplicates
         try:
@@ -418,7 +693,7 @@ def generate_post_content(away_team, home_team, away_stats, home_stats, away_pre
             defensive_style = ""
         
         content = f"""
-## Team: {team_name}
+## {team_name}
 
 {team_name} comes in ranked #{format_stat(stats.get('Rk', 'N/A'), 0)} overall by KenPom. {offensive_style}{defensive_style}
 
@@ -552,6 +827,11 @@ def main():
     
     posts_created = 0
     
+    # Create directories
+    os.makedirs('_posts', exist_ok=True)
+    os.makedirs('_html', exist_ok=True)
+    os.makedirs('_seo', exist_ok=True)
+    
     for game_name in unique_games:
         print(f"\nProcessing: {game_name}")
         game_entries = target_games[target_games['Game'] == game_name]
@@ -639,7 +919,7 @@ def main():
         # Get the actual game date from parsed_time
         game_date = game_entries.iloc[0]['parsed_time']
         
-        # Generate post content
+        # Generate post content (markdown)
         post_content = generate_post_content(
             away_team, home_team,
             away_stats, home_stats,
@@ -651,21 +931,52 @@ def main():
         # Create filename
         away_slug = slugify(away_team)
         home_slug = slugify(home_team)
-        filename = f"{game_date.strftime('%Y-%m-%d')}-{away_slug}-vs-{home_slug}.md"
+        filename = f"{game_date.strftime('%Y-%m-%d')}-{away_slug}-vs-{home_slug}"
         
-        # Ensure _posts directory exists
-        os.makedirs('_posts', exist_ok=True)
-        filepath = os.path.join('_posts', filename)
-        
-        # Write post to file
-        with open(filepath, 'w') as f:
+        # Save markdown version
+        md_filepath = os.path.join('_posts', f"{filename}.md")
+        with open(md_filepath, 'w') as f:
             f.write(post_content)
+        print(f"  ✓ Created Markdown: {md_filepath}")
         
-        print(f"  Created: {filepath}")
+        # Convert to HTML and save
+        html_content, seo_data = convert_to_html(
+            post_content, 
+            away_team, home_team, 
+            game_date, 
+            away_predictions, home_predictions,
+            away_logo, home_logo
+        )
+        
+        html_filepath = os.path.join('_html', f"{filename}.html")
+        with open(html_filepath, 'w') as f:
+            f.write(html_content)
+        print(f"  ✓ Created HTML: {html_filepath}")
+        
+        # Save SEO metadata as separate file for easy reference
+        seo_filepath = os.path.join('_seo', f"{filename}-seo.txt")
+        with open(seo_filepath, 'w') as f:
+            f.write("="*60 + "\n")
+            f.write(f"SEO METADATA FOR: {away_team} vs {home_team}\n")
+            f.write("="*60 + "\n\n")
+            f.write(f"BLOG POST TITLE:\n{seo_data['seo_title']}\n\n")
+            f.write(f"META DESCRIPTION (copy this into Squarespace):\n{seo_data['meta_description']}\n\n")
+            f.write(f"URL SLUG (copy this into Squarespace):\n{filename}\n\n")
+            f.write(f"KEYWORDS:\n{seo_data['keywords']}\n\n")
+            f.write(f"OPEN GRAPH TITLE (for social media):\n{seo_data['og_title']}\n\n")
+            f.write(f"OPEN GRAPH DESCRIPTION:\n{seo_data['og_description']}\n\n")
+            f.write(f"CANONICAL URL:\n{seo_data['canonical_url']}\n\n")
+            f.write("="*60 + "\n")
+        print(f"  ✓ Created SEO file: {seo_filepath}")
+        
         posts_created += 1
     
     print(f"\n{'='*60}")
     print(f"Generation complete! Created {posts_created} preview posts.")
+    print(f"Files created in:")
+    print(f"  - _posts/ (markdown versions)")
+    print(f"  - _html/ (ready for Squarespace)")
+    print(f"  - _seo/ (SEO metadata)")
     print(f"{'='*60}")
 
 
