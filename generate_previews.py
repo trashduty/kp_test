@@ -522,6 +522,247 @@ def generate_betting_info(away_team, home_team, away_predictions, home_predictio
         return ""
 
 
+def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, away_predictions, home_predictions):
+    """Generate professional-style enhanced narrative content with betting insights."""
+    
+    try:
+        # Extract key stats
+        away_rank = int(away_stats.get('Rk', 999))
+        home_rank = int(home_stats.get('Rk', 999))
+        away_oe = float(away_stats.get('OE', 0))
+        home_oe = float(home_stats.get('OE', 0))
+        away_de = float(away_stats.get('DE', 0))
+        home_de = float(home_stats.get('DE', 0))
+        away_oe_rank = int(away_stats.get('RankOE', 999))
+        home_oe_rank = int(home_stats.get('RankOE', 999))
+        away_de_rank = int(away_stats.get('RankDE', 999))
+        home_de_rank = int(home_stats.get('RankDE', 999))
+        away_tempo = float(away_stats.get('Tempo', 0))
+        home_tempo = float(home_stats.get('Tempo', 0))
+        away_tempo_rank = int(away_stats.get('RankTempo', 999))
+        home_tempo_rank = int(home_stats.get('RankTempo', 999))
+        away_fg2_pct = float(away_stats.get('FG2Pct', 0))
+        home_fg2_pct = float(home_stats.get('FG2Pct', 0))
+        away_fg3_pct = float(away_stats.get('FG3Pct', 0))
+        home_fg3_pct = float(home_stats.get('FG3Pct', 0))
+        away_ft_rate = float(away_stats.get('FT_Rate', 0))
+        home_ft_rate = float(home_stats.get('FT_Rate', 0))
+        away_ft_pct = float(away_stats.get('FTPct', 0))
+        home_ft_pct = float(home_stats.get('FTPct', 0))
+        
+        # Extract betting lines
+        away_spread = float(away_predictions.get('market_spread', 0))
+        home_spread = float(home_predictions.get('market_spread', 0))
+        total = float(away_predictions.get('Opening Total', 0))
+        
+        # Determine favorite and underdog
+        if away_spread < 0:
+            favorite = away_team
+            underdog = home_team
+            spread_value = abs(away_spread)
+            fav_stats = away_stats
+            dog_stats = home_stats
+        else:
+            favorite = home_team
+            underdog = away_team
+            spread_value = abs(home_spread)
+            fav_stats = home_stats
+            dog_stats = away_stats
+            
+    except Exception as e:
+        print(f"  Warning: Could not generate enhanced narrative: {e}")
+        return ""
+    
+    narrative = "### Game Analysis & Betting Breakdown\n\n"
+    
+    # Opening scene-setting
+    narrative += "#### Setting the Stage\n\n"
+    rank_diff = abs(away_rank - home_rank)
+    if rank_diff <= 15:
+        narrative += f"When #{away_rank} {away_team} travels to face #{home_rank} {home_team}, we're looking at a matchup between two programs with similar profiles in the national landscape. "
+    elif away_rank < home_rank:
+        narrative += f"#{away_rank} {away_team} enters hostile territory as they take on #{home_rank} {home_team} in what the oddsmakers see as a significant talent gap. "
+    else:
+        narrative += f"#{home_rank} {home_team} hosts #{away_rank} {away_team} in a game where the home team finds itself as the underdog in their own building. "
+    
+    narrative += f"The early betting action has shaped into {favorite} favored by {spread_value:.1f} points, with the total sitting at {total:.1f}. "
+    narrative += "These numbers tell us a story, but let's dig deeper into what's really happening on the court.\n\n"
+    
+    # Spread discussion
+    narrative += "#### Breaking Down the Spread\n\n"
+    if spread_value < 3:
+        narrative += f"A spread under a field goal suggests the books see this as essentially a coin flip. {favorite}'s {spread_value:.1f}-point cushion reflects home court advantage more than a talent disparity. "
+    elif spread_value < 7:
+        narrative += f"The {spread_value:.1f}-point spread indicates {favorite} is viewed as the better team, but this isn't an overwhelming edge. {underdog} has a legitimate path to covering or winning outright with a solid performance. "
+    elif spread_value < 12:
+        narrative += f"A spread around {spread_value:.1f} points tells us {favorite} has clear advantages, but games aren't played on paper. {underdog} needs to punch above their weight class to keep this competitive. "
+    else:
+        narrative += f"The {spread_value:.1f}-point spread screams mismatch. The books are asking {underdog} to hang within two possessions, which based on the profiles, requires {favorite} to play below their standard. "
+    
+    narrative += f"The total of {total:.1f} "
+    if total < 135:
+        narrative += "suggests a defensive slugfest or slower tempo that limits possessions. "
+    elif total < 150:
+        narrative += "sits right around league average, indicating a standard pace without extreme scoring expectations either way. "
+    else:
+        narrative += "points to a track meet. The books are anticipating fireworks with both teams getting their shots up. "
+    narrative += "\n\n"
+    
+    # Deep offensive breakdown
+    narrative += "#### Offensive Firepower\n\n"
+    narrative += f"**{away_team}** brings an offensive efficiency of {away_oe:.2f} (ranked #{away_oe_rank} nationally). "
+    if away_oe_rank < 50:
+        narrative += "This is an elite offense that can score in multiple ways. "
+    elif away_oe_rank < 150:
+        narrative += "They're solid offensively, capable of putting up points but not overwhelming. "
+    else:
+        narrative += "Scoring has been a struggle, and they'll need their best offensive showing to hit their number. "
+    
+    if away_fg3_pct > 36:
+        narrative += f"The three-ball has been a weapon, connecting at {away_fg3_pct:.1f}% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. "
+    elif away_fg3_pct < 32:
+        narrative += f"At {away_fg3_pct:.1f}% from three, they can't rely on the arc. Expect a paint-focused attack. "
+    else:
+        narrative += f"Their {away_fg3_pct:.1f}% three-point shooting is serviceable but won't scare anyone. "
+    
+    narrative += f"\n\nMeanwhile, **{home_team}** counters with {home_oe:.2f} offensive efficiency (#{home_oe_rank}). "
+    if home_oe_rank < 50:
+        narrative += "This offense can match anyone bucket-for-bucket. "
+    elif home_oe_rank < 150:
+        narrative += "They're competent on offense without being spectacular. "
+    else:
+        narrative += "Points have been hard to come by, making every possession critical. "
+    
+    if home_fg3_pct > 36:
+        narrative += f"They're lethal from beyond the arc at {home_fg3_pct:.1f}%, giving them spacing and shot creation. "
+    elif home_fg3_pct < 32:
+        narrative += f"The three-point shot hasn't fallen this year at {home_fg3_pct:.1f}%, forcing them to grind in the half court. "
+    else:
+        narrative += f"At {home_fg3_pct:.1f}% from three, they have adequate spacing but must pick their spots. "
+    narrative += "\n\n"
+    
+    # Tempo and style
+    narrative += "#### Tempo & Playing Style\n\n"
+    tempo_diff = abs(away_tempo - home_tempo)
+    avg_tempo = (away_tempo + home_tempo) / 2
+    
+    narrative += f"{away_team} operates at a {away_tempo:.1f} tempo (#{away_tempo_rank}), while {home_team} plays at {home_tempo:.1f} (#{home_tempo_rank}). "
+    
+    if tempo_diff > 5:
+        if away_tempo > home_tempo:
+            narrative += f"{away_team} wants to run, but {home_team} prefers to slow things down. "
+        else:
+            narrative += f"{home_team} likes to push the pace, while {away_team} wants to control the clock. "
+        narrative += "This tempo battle will be crucial—whoever dictates pace gains a significant edge. "
+    else:
+        narrative += "Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. "
+    
+    if avg_tempo > 72:
+        narrative += f"With an average tempo around {avg_tempo:.1f}, expect plenty of possessions and transition opportunities. "
+    elif avg_tempo < 68:
+        narrative += f"The slower pace (averaging {avg_tempo:.1f}) means fewer possessions, making each one more valuable. "
+    else:
+        narrative += f"The moderate pace (around {avg_tempo:.1f}) should create a standard flow. "
+    narrative += "\n\n"
+    
+    # Interior game
+    narrative += "#### The Interior Battle\n\n"
+    narrative += f"Inside the paint, {away_team} shoots {away_fg2_pct:.1f}% on two-pointers, while {home_team} converts at {home_fg2_pct:.1f}%. "
+    
+    if abs(away_fg2_pct - home_fg2_pct) > 5:
+        better_interior = away_team if away_fg2_pct > home_fg2_pct else home_team
+        narrative += f"{better_interior} has a clear edge in interior scoring efficiency. "
+    else:
+        narrative += "Both teams are evenly matched in paint efficiency. "
+    
+    narrative += f"\n\nGetting to the line matters too. {away_team}'s free throw rate sits at {away_ft_rate:.1f}, "
+    if away_ft_rate > 35:
+        narrative += "indicating they're aggressive attacking the rim and drawing contact. "
+    else:
+        narrative += "suggesting they're more perimeter-oriented or struggle to draw fouls. "
+    
+    narrative += f"{home_team} checks in at {home_ft_rate:.1f}, "
+    if home_ft_rate > 35:
+        narrative += "showing they also get to the stripe frequently. "
+    else:
+        narrative += "meaning they don't manufacture easy points at the line. "
+    
+    narrative += f"When they do get fouled, {away_team} converts {away_ft_pct:.1f}% while {home_team} hits {home_ft_pct:.1f}%. "
+    if abs(away_ft_pct - home_ft_pct) > 5:
+        if away_ft_pct > home_ft_pct:
+            narrative += f"{away_team}'s superior free throw shooting could be the difference in a tight game. "
+        else:
+            narrative += f"{home_team}'s edge at the charity stripe matters in close finishes. "
+    else:
+        narrative += "Both teams are comparable from the stripe. "
+    narrative += "\n\n"
+    
+    # X-factors
+    narrative += "#### X-Factors & Intangibles\n\n"
+    narrative += f"Playing at home, {home_team} gets the crowd advantage and familiar surroundings. "
+    if home_rank < away_rank - 20:
+        narrative += f"But despite the friendly confines, they're significant underdogs for a reason—{away_team} is simply the superior team on paper. "
+    elif home_rank > away_rank + 20:
+        narrative += f"Combined with their ranking advantage, this home court could create an intimidating environment for {away_team}. "
+    else:
+        narrative += "In a fairly even matchup, home court becomes magnified as a potential deciding factor. "
+    
+    narrative += "\n\nDefensively, "
+    if away_de_rank < home_de_rank - 50:
+        narrative += f"{away_team} (#{away_de_rank} defensive efficiency) should have success against {home_team}'s weaker defense (#{home_de_rank}). "
+    elif home_de_rank < away_de_rank - 50:
+        narrative += f"{home_team} (#{home_de_rank} defensive efficiency) will look to clamp down on {away_team} (#{away_de_rank} defensively). "
+    else:
+        narrative += f"both teams rank similarly on the defensive end (#{away_de_rank} and #{home_de_rank}), so offense may determine the outcome. "
+    narrative += "\n\n"
+    
+    # Betting angles
+    narrative += "#### The Betting Angle\n\n"
+    
+    # Spread value discussion
+    if spread_value < 5:
+        narrative += f"Small spreads like {spread_value:.1f} create interesting dynamics. "
+        narrative += f"I'm looking at whether {favorite} can actually separate, or if this stays inside one possession. "
+    elif spread_value < 10:
+        narrative += f"The {spread_value:.1f}-point spread asks: can {underdog} keep it within striking distance? "
+    else:
+        narrative += f"With {spread_value:.1f} points to work with, {underdog} doesn't need to win—just stay competitive. "
+    
+    # Provide actual betting insight
+    if away_oe_rank < 50 and home_de_rank > 200:
+        narrative += f"The matchup favors {away_team}'s offense against a porous defense. "
+        if away_team == favorite:
+            narrative += "Laying the points makes sense. "
+        else:
+            narrative += "The underdog has an offensive path to covering. "
+    elif home_oe_rank < 50 and away_de_rank > 200:
+        narrative += f"The matchup favors {home_team}'s offense against a weak defense. "
+        if home_team == favorite:
+            narrative += "The favorite should be able to flex here. "
+        else:
+            narrative += "Don't sleep on the home dog with that offensive capability. "
+    
+    # Total discussion
+    narrative += f"\n\nRegarding the total of {total:.1f}: "
+    combined_oe = away_oe + home_oe
+    combined_de = away_de + home_de
+    
+    if combined_oe > 240 and avg_tempo > 70:
+        narrative += "Two offenses that can score, playing at pace? I lean over. "
+    elif combined_de < 195 and avg_tempo < 68:
+        narrative += "Elite defenses playing slower? Under has my attention. "
+    elif total > 150 and combined_oe < 230:
+        narrative += "The number seems inflated relative to the offensive profiles. Under could be the move. "
+    elif total < 135 and combined_oe > 235:
+        narrative += "This total feels low given the offensive firepower. Over has value. "
+    else:
+        narrative += "The total seems fairly priced. I'd need to see where sharp money moves it. "
+    
+    narrative += "\n\nThe sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.\n\n"
+    
+    return narrative
+
+
 def generate_game_narrative(away_team, home_team, away_stats, home_stats):
     """Generate conversational narrative comparing the two teams."""
     
@@ -765,6 +1006,9 @@ categories: [basketball, preview]
     
     # Add betting information
     post += generate_betting_info(away_team, home_team, away_predictions, home_predictions)
+    
+    # Add enhanced narrative with betting insights
+    post += "\n" + generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, away_predictions, home_predictions)
     
     # Add game narrative
     post += "\n" + generate_game_narrative(away_team, home_team, away_stats, home_stats)
