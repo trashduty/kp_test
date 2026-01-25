@@ -101,8 +101,8 @@ Defensively, they hold opponents to 48.9% effective FG (#84), force turnovers at
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Atlantic Owls**: 5.0, Cover Probability: 50.0%
-- **South Florida Bulls**: -5.0, Cover Probability: 50.0%
+- **Florida Atlantic Owls**: 5.0, Cover Probability: -2.4%
+- **South Florida Bulls**: -5.0, Cover Probability: -2.4%
 
 ### Moneyline
 - **Florida Atlantic Owls Win Probability**: 31.6%
@@ -110,5 +110,9 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 166.0
-- **Over Cover Probability**: 47.7%
-- **Under Cover Probability**: 50.8%
+- **Over Cover Probability**: -4.5%
+- **Under Cover Probability**: -1.8%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

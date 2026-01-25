@@ -101,8 +101,8 @@ Defensively, they hold opponents to 58.4% effective FG (#362), force turnovers a
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fort Wayne Mastodons**: -3.5, Cover Probability: 50.0%
-- **IUPUI Jaguars**: 3.5, Cover Probability: 50.0%
+- **Fort Wayne Mastodons**: -3.5, Cover Probability: -4.1%
+- **IUPUI Jaguars**: 3.5, Cover Probability: -0.5%
 
 ### Moneyline
 - **Fort Wayne Mastodons Win Probability**: 63.4%
@@ -110,5 +110,9 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 166.5
-- **Over Cover Probability**: 53.1%
-- **Under Cover Probability**: 46.9%
+- **Over Cover Probability**: 0.7%
+- **Under Cover Probability**: -5.5%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

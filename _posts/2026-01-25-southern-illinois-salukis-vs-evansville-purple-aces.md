@@ -101,8 +101,8 @@ Defensively, they hold opponents to 53.3% effective FG (#263), force turnovers a
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Southern Illinois Salukis**: -4.0, Cover Probability: 51.7%
-- **Evansville Purple Aces**: 4.0, Cover Probability: 48.3%
+- **Southern Illinois Salukis**: -4.0, Cover Probability: -2.4%
+- **Evansville Purple Aces**: 4.0, Cover Probability: -2.2%
 
 ### Moneyline
 - **Southern Illinois Salukis Win Probability**: 63.1%
@@ -110,5 +110,9 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 141.5
-- **Over Cover Probability**: 48.4%
-- **Under Cover Probability**: 51.6%
+- **Over Cover Probability**: -4.4%
+- **Under Cover Probability**: -0.4%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

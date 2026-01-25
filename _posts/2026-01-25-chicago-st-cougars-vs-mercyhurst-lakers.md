@@ -101,8 +101,8 @@ Defensively, they hold opponents to 50.1% effective FG (#127), force turnovers a
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Chicago St Cougars**: 9.5, Cover Probability: 50.0%
-- **Mercyhurst Lakers**: -9.5, Cover Probability: 50.0%
+- **Chicago St Cougars**: 9.5, Cover Probability: -2.4%
+- **Mercyhurst Lakers**: -9.5, Cover Probability: -2.4%
 
 ### Moneyline
 - **Chicago St Cougars Win Probability**: 19.4%
@@ -110,5 +110,9 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 131.0
-- **Over Cover Probability**: 50.8%
-- **Under Cover Probability**: 49.2%
+- **Over Cover Probability**: -0.4%
+- **Under Cover Probability**: -4.3%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

@@ -101,8 +101,8 @@ Defensively, they hold opponents to 49.6% effective FG (#102), force turnovers a
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oregon Ducks**: 8.5, Cover Probability: 53.2%
-- **Washington Huskies**: -8.5, Cover Probability: 46.8%
+- **Oregon Ducks**: 8.5, Cover Probability: 0.0%
+- **Washington Huskies**: -8.5, Cover Probability: -4.8%
 
 ### Moneyline
 - **Oregon Ducks Win Probability**: 22.7%
@@ -110,5 +110,9 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 146.5
-- **Over Cover Probability**: 50.0%
-- **Under Cover Probability**: 50.0%
+- **Over Cover Probability**: -3.5%
+- **Under Cover Probability**: -1.2%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
