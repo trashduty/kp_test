@@ -23,9 +23,9 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 45.0% (Rank: #286)
-- **3-Point Shooting:** 35.0% (Rank: #86)
-- **Free Throw Shooting:** 20.0% (Rank: #176)
+- **2-Point Shooting:** 50.3% (Rank: #226)
+- **3-Point Shooting:** 33.5% (Rank: #207)
+- **Free Throw Shooting:** 69.9% (Rank: #257)
 - **3-Point Rate:** 43.8% (Rank: #97)
 
 ### Defensive Profile
@@ -33,8 +33,8 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 Defensively, they hold opponents to 50.9% effective FG (#166), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
-- **2-Point Defense:** 47.6% (Rank: #217)
-- **3-Point Defense:** 32.3% (Rank: #147)
+- **2-Point Defense:** 51.3% (Rank: #172)
+- **3-Point Defense:** 33.5% (Rank: #159)
 - **Block Percentage:** 12.7% (Rank: #47)
 - **Steal Rate:** 0.1% (Rank: #232)
 
@@ -66,9 +66,9 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 54.4% (Rank: #38)
-- **3-Point Shooting:** 24.5% (Rank: #336)
-- **Free Throw Shooting:** 21.2% (Rank: #120)
+- **2-Point Shooting:** 52.5% (Rank: #149)
+- **3-Point Shooting:** 30.6% (Rank: #320)
+- **Free Throw Shooting:** 77.6% (Rank: #24)
 - **3-Point Rate:** 34.0% (Rank: #303)
 
 ### Defensive Profile
@@ -76,8 +76,8 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 Defensively, they hold opponents to 49.6% effective FG (#102), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
-- **2-Point Defense:** 52.1% (Rank: #58)
-- **3-Point Defense:** 29.6% (Rank: #239)
+- **2-Point Defense:** 50.4% (Rank: #131)
+- **3-Point Defense:** 32.1% (Rank: #95)
 - **Block Percentage:** 11.3% (Rank: #92)
 - **Steal Rate:** 0.1% (Rank: #282)
 
@@ -101,17 +101,17 @@ Defensively, they hold opponents to 49.6% effective FG (#102), force turnovers a
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oregon Ducks**: 8.5, Cover Probability: 0.0%
-- **Washington Huskies**: -8.5, Cover Probability: -4.8%
+- **Oregon Ducks**: 8.5, Edge For Covering Spread: 0.0%
+- **Washington Huskies**: -8.5, Edge For Covering Spread: -4.8%
 
 ### Moneyline
-- **Oregon Ducks Win Probability**: 22.7%
-- **Washington Huskies Win Probability**: 77.3%
+- **Oregon Ducks Win Probability**: 22.5%
+- **Washington Huskies Win Probability**: 77.5%
 
 ### Total
 - **Predicted Total**: 146.5
-- **Over Cover Probability**: -3.5%
-- **Under Cover Probability**: -1.2%
+- **Edge For Covering Over**: -3.5%
+- **Edge For Covering Under**: -1.2%
 
 ---
 

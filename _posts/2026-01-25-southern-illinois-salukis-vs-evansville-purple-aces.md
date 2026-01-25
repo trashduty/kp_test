@@ -23,9 +23,9 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 61.9% (Rank: #1)
-- **3-Point Shooting:** 18.9% (Rank: #363)
-- **Free Throw Shooting:** 19.2% (Rank: #230)
+- **2-Point Shooting:** 53.3% (Rank: #129)
+- **3-Point Shooting:** 27.9% (Rank: #356)
+- **Free Throw Shooting:** 67.0% (Rank: #338)
 - **3-Point Rate:** 28.1% (Rank: #360)
 
 ### Defensive Profile
@@ -33,8 +33,8 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 Defensively, they hold opponents to 49.6% effective FG (#105), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
-- **2-Point Defense:** 49.3% (Rank: #151)
-- **3-Point Defense:** 30.8% (Rank: #195)
+- **2-Point Defense:** 51.5% (Rank: #181)
+- **3-Point Defense:** 31.3% (Rank: #69)
 - **Block Percentage:** 9.4% (Rank: #180)
 - **Steal Rate:** 0.1% (Rank: #100)
 
@@ -66,9 +66,9 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 48.4% (Rank: #190)
-- **3-Point Shooting:** 30.6% (Rank: #200)
-- **Free Throw Shooting:** 21.0% (Rank: #126)
+- **2-Point Shooting:** 49.4% (Rank: #260)
+- **3-Point Shooting:** 29.6% (Rank: #338)
+- **Free Throw Shooting:** 72.4% (Rank: #176)
 - **3-Point Rate:** 41.2% (Rank: #147)
 
 ### Defensive Profile
@@ -76,8 +76,8 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 Defensively, they hold opponents to 53.3% effective FG (#263), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
-- **2-Point Defense:** 48.4% (Rank: #186)
-- **3-Point Defense:** 32.8% (Rank: #132)
+- **2-Point Defense:** 53.2% (Rank: #242)
+- **3-Point Defense:** 35.7% (Rank: #269)
 - **Block Percentage:** 10.7% (Rank: #113)
 - **Steal Rate:** 0.1% (Rank: #321)
 
@@ -101,8 +101,8 @@ Defensively, they hold opponents to 53.3% effective FG (#263), force turnovers a
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Southern Illinois Salukis**: -4.0, Cover Probability: -2.4%
-- **Evansville Purple Aces**: 4.0, Cover Probability: -2.2%
+- **Southern Illinois Salukis**: -4.0, Edge For Covering Spread: -2.4%
+- **Evansville Purple Aces**: 4.0, Edge For Covering Spread: -2.2%
 
 ### Moneyline
 - **Southern Illinois Salukis Win Probability**: 63.1%
@@ -110,8 +110,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 141.5
-- **Over Cover Probability**: -4.4%
-- **Under Cover Probability**: -0.4%
+- **Edge For Covering Over**: -4.4%
+- **Edge For Covering Under**: -0.4%
 
 ---
 

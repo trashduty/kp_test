@@ -23,9 +23,9 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 50.3% (Rank: #134)
-- **3-Point Shooting:** 24.5% (Rank: #334)
-- **Free Throw Shooting:** 25.2% (Rank: #13)
+- **2-Point Shooting:** 53.7% (Rank: #110)
+- **3-Point Shooting:** 32.7% (Rank: #234)
+- **Free Throw Shooting:** 71.7% (Rank: #200)
 - **3-Point Rate:** 34.8% (Rank: #283)
 
 ### Defensive Profile
@@ -33,8 +33,8 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 Defensively, they hold opponents to 48.0% effective FG (#59), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
-- **2-Point Defense:** 48.3% (Rank: #189)
-- **3-Point Defense:** 29.5% (Rank: #244)
+- **2-Point Defense:** 50.7% (Rank: #139)
+- **3-Point Defense:** 29.5% (Rank: #18)
 - **Block Percentage:** 15.3% (Rank: #10)
 - **Steal Rate:** 0.1% (Rank: #273)
 
@@ -66,9 +66,9 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 41.0% (Rank: #347)
-- **3-Point Shooting:** 38.6% (Rank: #34)
-- **Free Throw Shooting:** 20.4% (Rank: #155)
+- **2-Point Shooting:** 57.1% (Rank: #43)
+- **3-Point Shooting:** 34.9% (Rank: #131)
+- **Free Throw Shooting:** 77.3% (Rank: #29)
 - **3-Point Rate:** 50.7% (Rank: #13)
 
 ### Defensive Profile
@@ -76,8 +76,8 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 Defensively, they hold opponents to 50.3% effective FG (#142), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
-- **2-Point Defense:** 50.0% (Rank: #131)
-- **3-Point Defense:** 30.6% (Rank: #206)
+- **2-Point Defense:** 51.4% (Rank: #177)
+- **3-Point Defense:** 32.5% (Rank: #111)
 - **Block Percentage:** 8.8% (Rank: #215)
 - **Steal Rate:** 0.1% (Rank: #281)
 
@@ -101,8 +101,8 @@ Defensively, they hold opponents to 50.3% effective FG (#142), force turnovers a
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **USC Trojans**: 7.5, Cover Probability: -1.8%
-- **Wisconsin Badgers**: -7.5, Cover Probability: -2.9%
+- **USC Trojans**: 7.5, Edge For Covering Spread: -1.8%
+- **Wisconsin Badgers**: -7.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
 - **USC Trojans Win Probability**: 25.2%
@@ -110,8 +110,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 159.5
-- **Over Cover Probability**: -2.4%
-- **Under Cover Probability**: -2.4%
+- **Edge For Covering Over**: -2.4%
+- **Edge For Covering Under**: -2.4%
 
 ---
 

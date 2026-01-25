@@ -23,9 +23,9 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 53.2% (Rank: #60)
-- **3-Point Shooting:** 32.1% (Rank: #165)
-- **Free Throw Shooting:** 14.6% (Rank: #363)
+- **2-Point Shooting:** 59.4% (Rank: #17)
+- **3-Point Shooting:** 38.3% (Rank: #21)
+- **Free Throw Shooting:** 75.0% (Rank: #87)
 - **3-Point Rate:** 38.4% (Rank: #207)
 
 ### Defensive Profile
@@ -33,8 +33,8 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 Defensively, they hold opponents to 50.2% effective FG (#134), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
-- **2-Point Defense:** 48.6% (Rank: #177)
-- **3-Point Defense:** 38.0% (Rank: #14)
+- **2-Point Defense:** 51.6% (Rank: #188)
+- **3-Point Defense:** 32.3% (Rank: #107)
 - **Block Percentage:** 9.4% (Rank: #182)
 - **Steal Rate:** 0.1% (Rank: #242)
 
@@ -66,9 +66,9 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 52.6% (Rank: #74)
-- **3-Point Shooting:** 34.2% (Rank: #120)
-- **Free Throw Shooting:** 13.2% (Rank: #365)
+- **2-Point Shooting:** 55.5% (Rank: #72)
+- **3-Point Shooting:** 31.3% (Rank: #293)
+- **Free Throw Shooting:** 71.4% (Rank: #209)
 - **3-Point Rate:** 43.4% (Rank: #111)
 
 ### Defensive Profile
@@ -76,8 +76,8 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 Defensively, they hold opponents to 58.4% effective FG (#362), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
-- **2-Point Defense:** 48.8% (Rank: #168)
-- **3-Point Defense:** 27.8% (Rank: #295)
+- **2-Point Defense:** 58.3% (Rank: #348)
+- **3-Point Defense:** 38.9% (Rank: #359)
 - **Block Percentage:** 7.7% (Rank: #279)
 - **Steal Rate:** 0.1% (Rank: #75)
 
@@ -101,8 +101,8 @@ Defensively, they hold opponents to 58.4% effective FG (#362), force turnovers a
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fort Wayne Mastodons**: -3.5, Cover Probability: -4.1%
-- **IUPUI Jaguars**: 3.5, Cover Probability: -0.5%
+- **Fort Wayne Mastodons**: -3.5, Edge For Covering Spread: -4.1%
+- **IUPUI Jaguars**: 3.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
 - **Fort Wayne Mastodons Win Probability**: 63.4%
@@ -110,8 +110,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 166.5
-- **Over Cover Probability**: 0.7%
-- **Under Cover Probability**: -5.5%
+- **Edge For Covering Over**: 0.7%
+- **Edge For Covering Under**: -5.5%
 
 ---
 

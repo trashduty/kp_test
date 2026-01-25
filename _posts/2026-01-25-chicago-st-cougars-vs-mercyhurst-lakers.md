@@ -23,9 +23,9 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 55.0% (Rank: #28)
-- **3-Point Shooting:** 24.3% (Rank: #339)
-- **Free Throw Shooting:** 20.6% (Rank: #145)
+- **2-Point Shooting:** 42.2% (Rank: #364)
+- **3-Point Shooting:** 31.4% (Rank: #286)
+- **Free Throw Shooting:** 76.1% (Rank: #60)
 - **3-Point Rate:** 28.3% (Rank: #359)
 
 ### Defensive Profile
@@ -33,8 +33,8 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 Defensively, they hold opponents to 57.7% effective FG (#355), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
-- **2-Point Defense:** 40.4% (Rank: #358)
-- **3-Point Defense:** 39.1% (Rank: #7)
+- **2-Point Defense:** 63.2% (Rank: #365)
+- **3-Point Defense:** 35.3% (Rank: #252)
 - **Block Percentage:** 4.6% (Rank: #357)
 - **Steal Rate:** 0.1% (Rank: #32)
 
@@ -66,9 +66,9 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 60.6% (Rank: #3)
-- **3-Point Shooting:** 24.6% (Rank: #332)
-- **Free Throw Shooting:** 14.8% (Rank: #361)
+- **2-Point Shooting:** 49.2% (Rank: #269)
+- **3-Point Shooting:** 31.1% (Rank: #296)
+- **Free Throw Shooting:** 70.1% (Rank: #251)
 - **3-Point Rate:** 29.9% (Rank: #349)
 
 ### Defensive Profile
@@ -76,8 +76,8 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 Defensively, they hold opponents to 50.1% effective FG (#127), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
-- **2-Point Defense:** 50.4% (Rank: #114)
-- **3-Point Defense:** 26.3% (Rank: #333)
+- **2-Point Defense:** 50.2% (Rank: #123)
+- **3-Point Defense:** 33.2% (Rank: #144)
 - **Block Percentage:** 12.4% (Rank: #59)
 - **Steal Rate:** 0.1% (Rank: #57)
 
@@ -101,17 +101,17 @@ Defensively, they hold opponents to 50.1% effective FG (#127), force turnovers a
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Chicago St Cougars**: 9.5, Cover Probability: -2.4%
-- **Mercyhurst Lakers**: -9.5, Cover Probability: -2.4%
+- **Chicago St Cougars**: 9.5, Edge For Covering Spread: -2.4%
+- **Mercyhurst Lakers**: -9.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
 - **Chicago St Cougars Win Probability**: 19.4%
 - **Mercyhurst Lakers Win Probability**: 80.6%
 
 ### Total
-- **Predicted Total**: 131.0
-- **Over Cover Probability**: -0.4%
-- **Under Cover Probability**: -4.3%
+- **Predicted Total**: 130.5
+- **Edge For Covering Over**: -0.8%
+- **Edge For Covering Under**: -3.9%
 
 ---
 

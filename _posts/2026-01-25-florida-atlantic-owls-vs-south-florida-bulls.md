@@ -23,9 +23,9 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 49.9% (Rank: #143)
-- **3-Point Shooting:** 32.3% (Rank: #155)
-- **Free Throw Shooting:** 17.8% (Rank: #279)
+- **2-Point Shooting:** 55.9% (Rank: #63)
+- **3-Point Shooting:** 34.7% (Rank: #141)
+- **Free Throw Shooting:** 71.2% (Rank: #218)
 - **3-Point Rate:** 41.0% (Rank: #154)
 
 ### Defensive Profile
@@ -33,8 +33,8 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 Defensively, they hold opponents to 49.9% effective FG (#117), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
-- **2-Point Defense:** 48.2% (Rank: #195)
-- **3-Point Defense:** 30.2% (Rank: #219)
+- **2-Point Defense:** 48.4% (Rank: #69)
+- **3-Point Defense:** 35.0% (Rank: #238)
 - **Block Percentage:** 15.3% (Rank: #9)
 - **Steal Rate:** 0.1% (Rank: #240)
 
@@ -66,9 +66,9 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 42.3% (Rank: #335)
-- **3-Point Shooting:** 34.4% (Rank: #114)
-- **Free Throw Shooting:** 23.3% (Rank: #46)
+- **2-Point Shooting:** 51.1% (Rank: #195)
+- **3-Point Shooting:** 34.0% (Rank: #180)
+- **Free Throw Shooting:** 73.4% (Rank: #141)
 - **3-Point Rate:** 44.9% (Rank: #69)
 
 ### Defensive Profile
@@ -76,8 +76,8 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 Defensively, they hold opponents to 48.9% effective FG (#84), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
-- **2-Point Defense:** 46.4% (Rank: #265)
-- **3-Point Defense:** 29.8% (Rank: #236)
+- **2-Point Defense:** 46.7% (Rank: #32)
+- **3-Point Defense:** 35.2% (Rank: #250)
 - **Block Percentage:** 11.9% (Rank: #73)
 - **Steal Rate:** 0.1% (Rank: #50)
 
@@ -101,8 +101,8 @@ Defensively, they hold opponents to 48.9% effective FG (#84), force turnovers at
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Atlantic Owls**: 5.0, Cover Probability: -2.4%
-- **South Florida Bulls**: -5.0, Cover Probability: -2.4%
+- **Florida Atlantic Owls**: 5.0, Edge For Covering Spread: -2.4%
+- **South Florida Bulls**: -5.0, Edge For Covering Spread: -2.4%
 
 ### Moneyline
 - **Florida Atlantic Owls Win Probability**: 31.6%
@@ -110,8 +110,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 166.0
-- **Over Cover Probability**: -4.5%
-- **Under Cover Probability**: -1.8%
+- **Edge For Covering Over**: -4.5%
+- **Edge For Covering Under**: -1.8%
 
 ---
 
