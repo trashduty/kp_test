@@ -59,16 +59,33 @@ def find_team_in_kenpom(team_name, kenpom_df):
     
     # Try normalized match
     normalized = normalize_team_name(team_name)
+    exact_match_normalized = kenpom_df[kenpom_df['Team'] == normalized]
+    if not exact_match_normalized.empty:
+        return exact_match_normalized.iloc[0]
+    
+    # Try matching normalized names
     for _, row in kenpom_df.iterrows():
         if normalize_team_name(row['Team']) == normalized:
             return row
     
-    # Try partial match
-    for _, row in kenpom_df.iterrows():
-        if normalized.lower() in row['Team'].lower() or row['Team'].lower() in normalized.lower():
-            return row
+    # Only do partial match if no exact or normalized match found
+    # And prefer longer matches (more specific)
+    best_match = None
+    best_match_length = 0
     
-    return None
+    normalized_lower = normalized.lower()
+    for _, row in kenpom_df.iterrows():
+        row_team_lower = row['Team'].lower()
+        
+        # Check if either string contains the other
+        if normalized_lower in row_team_lower or row_team_lower in normalized_lower:
+            # Prefer the match with the longest common substring
+            match_length = min(len(normalized_lower), len(row_team_lower))
+            if match_length > best_match_length:
+                best_match = row
+                best_match_length = match_length
+    
+    return best_match
 
 
 def parse_game_time(game_time_str):
@@ -129,7 +146,7 @@ def generate_predictions_section(away_team, home_team, away_predictions, home_pr
     # For total, we can use either team's row (should be the same)
     predicted_total = format_stat(away_predictions.get('average_total', 'N/A'), 1)
     over_edge = format_percentage(away_predictions.get('Over Total Edge', 'N/A'))
-    under_edge = format_percentage(away_predictions.get('Under Total Edge', 'N/A'))
+    under_edge = format_percentage(under_predictions.get('Under Total Edge', 'N/A'))
     
     predictions = f"""
 ---
@@ -139,8 +156,8 @@ def generate_predictions_section(away_team, home_team, away_predictions, home_pr
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **{away_team}**: {away_spread}, Edge For Covering Spread: {away_spread_edge}
-- **{home_team}**: {home_spread}, Edge For Covering Spread: {home_spread_edge}
+- **{away_team}**: {away_spread}, Cover Probability: {away_spread_edge}
+- **{home_team}**: {home_spread}, Cover Probability: {home_spread_edge}
 
 ### Moneyline
 - **{away_team} Win Probability**: {away_ml_prob}
@@ -148,8 +165,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: {predicted_total}
-- **Edge For Covering Over**: {over_edge}
-- **Edge For Covering Under**: {under_edge}
+- **Over Cover Probability**: {over_edge}
+- **Under Cover Probability**: {under_edge}
 
 ---
 
@@ -356,6 +373,8 @@ def main():
             continue
         
         print(f"  Found stats for both teams")
+        print(f"  Away team matched: {away_stats.get('Team', 'Unknown')} (Rank: {away_stats.get('Rk', 'N/A')})")
+        print(f"  Home team matched: {home_stats.get('Team', 'Unknown')} (Rank: {home_stats.get('Rk', 'N/A')})")
         
         # Get predictions for both teams from game_entries
         away_predictions = game_entries[game_entries['Team'] == away_team].iloc[0]
