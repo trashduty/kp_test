@@ -100,7 +100,62 @@ def format_stat(value, decimals=1):
         return "N/A"
 
 
-def generate_post_content(away_team, home_team, away_stats, home_stats, game_date):
+def format_percentage(value):
+    """Format probability value as percentage."""
+    try:
+        if pd.isna(value):
+            return "N/A"
+        # If value is already a percentage (>1), use as is
+        if float(value) > 1:
+            return f"{float(value):.1f}%"
+        # If value is a decimal (0-1), convert to percentage
+        return f"{float(value) * 100:.1f}%"
+    except:
+        return "N/A"
+
+
+def generate_predictions_section(away_team, home_team, away_predictions, home_predictions):
+    """Generate the model predictions section."""
+    
+    # Extract prediction values
+    away_spread = format_stat(away_predictions.get('Predicted Outcome', 'N/A'), 1)
+    away_spread_prob = format_percentage(away_predictions.get('Spread Cover Probability', 'N/A'))
+    home_spread = format_stat(home_predictions.get('Predicted Outcome', 'N/A'), 1)
+    home_spread_prob = format_percentage(home_predictions.get('Spread Cover Probability', 'N/A'))
+    
+    away_ml_prob = format_percentage(away_predictions.get('Moneyline Win Probability', 'N/A'))
+    home_ml_prob = format_percentage(home_predictions.get('Moneyline Win Probability', 'N/A'))
+    
+    # For total, we can use either team's row (should be the same)
+    predicted_total = format_stat(away_predictions.get('average_total', 'N/A'), 1)
+    over_prob = format_percentage(away_predictions.get('Over Cover Probability', 'N/A'))
+    under_prob = format_percentage(away_predictions.get('Under Cover Probability', 'N/A'))
+    
+    predictions = f"""
+---
+
+## Model Predictions
+
+All that being said, here's how our model prices this game.
+
+### Spread
+- **{away_team}**: {away_spread}, Cover Probability: {away_spread_prob}
+- **{home_team}**: {home_spread}, Cover Probability: {home_spread_prob}
+
+### Moneyline
+- **{away_team} Win Probability**: {away_ml_prob}
+- **{home_team} Win Probability**: {home_ml_prob}
+
+### Total
+- **Predicted Total**: {predicted_total}
+- **Over Cover Probability**: {over_prob}
+- **Under Cover Probability**: {under_prob}
+"""
+    
+    return predictions
+
+
+def generate_post_content(away_team, home_team, away_stats, home_stats, away_predictions, home_predictions, game_date):
     """Generate markdown content for a game preview post."""
     
     def team_section(team_name, stats, is_away=True):
@@ -118,7 +173,7 @@ def generate_post_content(away_team, home_team, away_stats, home_stats, game_dat
 
 ### Offensive Profile
 
-Offensively, the four-factor profile suggests a team that relies on efficient shooting ({format_stat(stats.get('eFG_Pct', 'N/A'))}%, #{format_stat(stats.get('RankeFG_Pct', 'N/A'), 0)}), ball security ({format_stat(stats.get('TO_Pct', 'N/A'))}% turnover rate, #{format_stat(stats.get('RankTO_Pct', 'N/A'), 0)}), offensive rebounding ({format_stat(stats.get('OR_Pct', 'N/A'))}%, #{format_stat(stats.get('RankOR_Pct', 'N/A'), 0)}), and getting to the line ({format_stat(stats.get('FT_Rate', 'N/A'))} FT Rate, #{format_stat(stats.get('RankFT_Rate', 'N/A'), 0)}).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting ({format_stat(stats.get('eFG_Pct', 'N/A'))}%, #{format_stat(stats.get('RankeFG_Pct', 'N/A'), 0)}), ball security [...]
 
 ### Shooting Breakdown
 
@@ -129,7 +184,7 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Defensive Profile
 
-Defensively, they hold opponents to {format_stat(stats.get('DeFG_Pct', 'N/A'))}% effective FG (#{format_stat(stats.get('RankDeFG_Pct', 'N/A'), 0)}), force turnovers at a {format_stat(stats.get('DTO_Pct', 'N/A'))}% rate (#{format_stat(stats.get('RankDTO_Pct', 'N/A'), 0)}), limit offensive rebounds to {format_stat(stats.get('DOR_Pct', 'N/A'))}% (#{format_stat(stats.get('RankDOR_Pct', 'N/A'), 0)}), and allow a {format_stat(stats.get('DFT_Rate', 'N/A'))} FT Rate (#{format_stat(stats.get('RankDFT_Rate', 'N/A'), 0)}).
+Defensively, they hold opponents to {format_stat(stats.get('DeFG_Pct', 'N/A'))}% effective FG (#{format_stat(stats.get('RankDeFG_Pct', 'N/A'), 0)}), force turnovers at a {format_stat(stats.get('DTO_Pc[...]
 
 **Opponent Shooting:**
 - **2-Point Defense:** {format_stat(stats.get('DefFg2', 'N/A'))}% (Rank: #{format_stat(stats.get('RankDefFg2', 'N/A'), 0)})
@@ -167,6 +222,8 @@ categories: [basketball, preview]
     post += team_section(away_team, away_stats, is_away=True)
     post += "\n---\n"
     post += team_section(home_team, home_stats, is_away=False)
+    post += "\n"
+    post += generate_predictions_section(away_team, home_team, away_predictions, home_predictions)
     
     return post
 
@@ -296,6 +353,10 @@ def main():
         
         print(f"  Found stats for both teams")
         
+        # Get predictions for both teams from game_entries
+        away_predictions = game_entries[game_entries['Team'] == away_team].iloc[0]
+        home_predictions = game_entries[game_entries['Team'] == home_team].iloc[0]
+        
         # Get the actual game date from parsed_time
         game_date = game_entries.iloc[0]['parsed_time']
         
@@ -303,6 +364,7 @@ def main():
         post_content = generate_post_content(
             away_team, home_team,
             away_stats, home_stats,
+            away_predictions, home_predictions,
             game_date
         )
         
