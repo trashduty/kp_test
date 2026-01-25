@@ -173,6 +173,18 @@ def format_percentage(value):
         return "N/A"
 
 
+def format_moneyline(value):
+    """Format moneyline odds."""
+    try:
+        val = float(value)
+        if val > 0:
+            return f"+{int(val)}"
+        else:
+            return str(int(val))
+    except:
+        return "N/A"
+
+
 def get_rank_description(rank):
     """Get descriptive text for a team's rank."""
     try:
@@ -189,6 +201,41 @@ def get_rank_description(rank):
             return "struggling"
     except:
         return "N/A"
+
+
+def generate_betting_info(away_team, home_team, away_predictions, home_predictions):
+    """Generate betting lines section."""
+    try:
+        # Get spread - use the favorite's line (negative number)
+        away_spread = float(away_predictions.get('market_spread', 0))
+        home_spread = float(home_predictions.get('market_spread', 0))
+        
+        if away_spread < 0:
+            spread_text = f"{away_team} {away_spread}"
+        elif home_spread < 0:
+            spread_text = f"{home_team} {home_spread}"
+        else:
+            spread_text = "Pick'em"
+        
+        # Get moneylines from "Current Moneyline" column
+        away_ml = format_moneyline(away_predictions.get('Current Moneyline', 'N/A'))
+        home_ml = format_moneyline(home_predictions.get('Current Moneyline', 'N/A'))
+        
+        # Get total from "Opening Total" column (should be same for both)
+        total = format_stat(away_predictions.get('Opening Total', 'N/A'), 1)
+        
+        betting_info = f"""
+<div style="text-align: center; margin: 20px 0; padding: 15px; background-color: #f5f5f5; border-radius: 8px;">
+  <h3 style="margin-top: 0;">Betting Lines</h3>
+  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Spread:</strong> {spread_text}</p>
+  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Moneyline:</strong> {away_team} ({away_ml}) | {home_team} ({home_ml})</p>
+  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Total:</strong> {total}</p>
+</div>
+"""
+        return betting_info
+    except Exception as e:
+        print(f"  Warning: Could not generate betting info: {e}")
+        return ""
 
 
 def generate_game_narrative(away_team, home_team, away_stats, home_stats):
@@ -309,11 +356,14 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 def generate_post_content(away_team, home_team, away_stats, home_stats, away_predictions, home_predictions, away_logo, home_logo, game_date):
     """Generate markdown content for a game preview post."""
     
+    # Track which analysis snippets have been used to avoid duplicates
+    used_snippets = set()
+    
     def team_section(team_name, stats, is_away=True):
         """Generate content section for a team."""
         side = "Away" if is_away else "Home"
         
-        # Generate conversational analysis
+        # Generate conversational analysis without duplicates
         try:
             rank = int(stats.get('Rk', 999))
             oe_rank = int(stats.get('RankOE', 999))
@@ -321,20 +371,47 @@ def generate_post_content(away_team, home_team, away_stats, home_stats, away_pre
             fg3_pct = float(stats.get('FG3Pct', 0))
             fg3_rank = int(stats.get('RankFG3Pct', 999))
             opp_fg3_pct = float(stats.get('OppFG3Pct', 0))
+            opp_fg3_rank = int(stats.get('RankOppFG3Pct', 999))
             
             offensive_style = ""
-            if fg3_pct > 36 and fg3_rank < 100:
+            # Good 3-point shooting
+            if fg3_pct > 36 and fg3_rank < 100 and "good_3pt" not in used_snippets:
                 offensive_style = f"They're dangerous from beyond the arc, shooting {fg3_pct:.1f}% from three (ranked #{fg3_rank} nationally), so expect them to let it fly from deep. "
-            elif fg3_pct < 32:
+                used_snippets.add("good_3pt")
+            # Poor 3-point shooting
+            elif fg3_pct < 32 and "poor_3pt" not in used_snippets:
                 offensive_style = "The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. "
+                used_snippets.add("poor_3pt")
+            # Alternative for poor shooting if already used
+            elif fg3_pct < 32 and "poor_3pt" in used_snippets and "alt_poor_3pt" not in used_snippets:
+                offensive_style = "They've struggled from deep this year, meaning they'll need to rely on interior scoring and getting to the free throw line. "
+                used_snippets.add("alt_poor_3pt")
+            # Strong offensive efficiency
+            elif oe_rank < 50 and "strong_offense" not in used_snippets:
+                offensive_style = f"They boast one of the nation's top offenses, ranked #{oe_rank} in efficiency. "
+                used_snippets.add("strong_offense")
             
             defensive_style = ""
-            if opp_fg3_pct < 30:
+            # Elite perimeter defense
+            if opp_fg3_pct < 30 and opp_fg3_rank < 100 and "elite_perimeter_d" not in used_snippets:
                 defensive_style = f"On the defensive end, they're lockdown on the perimeter, holding opponents to just {opp_fg3_pct:.1f}% from three. "
-            elif de_rank < 50:
+                used_snippets.add("elite_perimeter_d")
+            # Strong overall defense
+            elif de_rank < 50 and "strong_defense" not in used_snippets:
                 defensive_style = "Their defense has been a calling card this season, making life difficult for opposing offenses. "
-            elif de_rank > 250:
+                used_snippets.add("strong_defense")
+            # Alternative strong defense
+            elif de_rank < 50 and "strong_defense" in used_snippets and "alt_strong_defense" not in used_snippets:
+                defensive_style = f"Defensively, they've been rock solid, ranking #{de_rank} nationally in efficiency. "
+                used_snippets.add("alt_strong_defense")
+            # Weak defense
+            elif de_rank > 250 and "weak_defense" not in used_snippets:
                 defensive_style = "Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. "
+                used_snippets.add("weak_defense")
+            # Alternative weak defense
+            elif de_rank > 250 and "weak_defense" in used_snippets and "alt_weak_defense" not in used_snippets:
+                defensive_style = "Stopping opponents has been an issue all season long. "
+                used_snippets.add("alt_weak_defense")
                 
         except:
             offensive_style = ""
@@ -374,7 +451,7 @@ def generate_post_content(away_team, home_team, away_stats, home_stats, away_pre
 """
         return content
     
-    # Create the full post with logos displayed horizontally using table
+    # Create the full post with centered logos using table
     post = f"""---
 layout: post
 title: "{away_team} vs {home_team} - Game Preview"
@@ -385,17 +462,17 @@ categories: [basketball, preview]
 # {away_team} vs {home_team}
 ## Game Preview for {game_date.strftime('%B %d, %Y')}
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
   <tr>
     <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="{away_logo}" alt="{away_team} logo" style="width: 150px; height: 150px; object-fit: contain;">
+      <img src="{away_logo}" alt="{away_team} logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
       <p><strong>{away_team}</strong></p>
     </td>
     <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
       VS
     </td>
     <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="{home_logo}" alt="{home_team} logo" style="width: 150px; height: 150px; object-fit: contain;">
+      <img src="{home_logo}" alt="{home_team} logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
       <p><strong>{home_team}</strong></p>
     </td>
   </tr>
@@ -403,8 +480,11 @@ categories: [basketball, preview]
 
 """
     
+    # Add betting information
+    post += generate_betting_info(away_team, home_team, away_predictions, home_predictions)
+    
     # Add game narrative
-    post += generate_game_narrative(away_team, home_team, away_stats, home_stats)
+    post += "\n" + generate_game_narrative(away_team, home_team, away_stats, home_stats)
     
     post += team_section(away_team, away_stats, is_away=True)
     post += "\n---\n"
