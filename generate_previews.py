@@ -5,7 +5,7 @@ Generate college basketball game matchup preview posts.
 This script:
 1. Downloads CBB_Output.csv and kp.csv from the trashduty/cbb repository
 2. Loads local kenpom_stats.csv
-3. Identifies games for the next day
+3. Identifies games for today and tomorrow
 4. Generates markdown preview posts for each game
 """
 
@@ -198,23 +198,25 @@ def main():
     print("Loading kenpom_stats.csv...")
     kenpom_stats = pd.read_csv('kenpom_stats.csv')
     
-    # Determine target date (next day)
+    # Determine target dates (today and tomorrow)
     today = datetime.now()
-    target_date = today + timedelta(days=1)
-    target_date_str = target_date.strftime('%b %d').replace(' 0', ' ')  # e.g., "Jan 25"
-    
-    print(f"Looking for games on: {target_date_str} (tomorrow)")
-    
-    # Parse game times and filter for target date
+    tomorrow = today + timedelta(days=1)
+
+    print(f"Looking for games on: {today.strftime('%b %d').replace(' 0', ' ')} (today) and {tomorrow.strftime('%b %d').replace(' 0', ' ')} (tomorrow)")
+
+    # Parse game times and filter for valid dates
     cbb_output['parsed_time'] = cbb_output['Game Time'].apply(parse_game_time)
     cbb_output = cbb_output[cbb_output['parsed_time'].notna()]
-    
-    # Filter for target date
+
+    # Filter for today and tomorrow
     target_games = cbb_output[
-        cbb_output['parsed_time'].dt.date == target_date.date()
+        (cbb_output['parsed_time'].dt.date == today.date()) |
+        (cbb_output['parsed_time'].dt.date == tomorrow.date())
     ]
-    
-    print(f"Found {len(target_games)} game entries for {target_date_str}")
+
+    today_str = today.strftime('%b %d').replace(' 0', ' ')
+    tomorrow_str = tomorrow.strftime('%b %d').replace(' 0', ' ')
+    print(f"Found {len(target_games)} game entries for {today_str} and {tomorrow_str}")
     
     # Get unique games
     unique_games = target_games['Game'].unique()
@@ -239,22 +241,22 @@ def main():
         team1, team2 = teams[0], teams[1]
         
         # Determine away and home teams using kp.csv
-        # Convert kp date format to match target date
-        kp_target_date = target_date.strftime('%Y-%m-%d')
+        # Convert kp date format to match target dates
+        kp_today = today.strftime('%Y-%m-%d')
+        kp_tomorrow = tomorrow.strftime('%Y-%m-%d')
         
         # Normalize team names for matching with kp.csv
         team1_normalized = normalize_team_name(team1)
         team2_normalized = normalize_team_name(team2)
         
-        # Find entries in kp.csv for this date and these teams
-        # Try exact match first, then normalized
+        # Find entries in kp.csv for these dates and teams
         team1_kp = kp_data[
-            (kp_data['date'] == kp_target_date) &
+            ((kp_data['date'] == kp_today) | (kp_data['date'] == kp_tomorrow)) &
             ((kp_data['team'] == team1) | (kp_data['team'] == team1_normalized))
         ]
         
         team2_kp = kp_data[
-            (kp_data['date'] == kp_target_date) &
+            ((kp_data['date'] == kp_today) | (kp_data['date'] == kp_tomorrow)) &
             ((kp_data['team'] == team2) | (kp_data['team'] == team2_normalized))
         ]
         
@@ -294,17 +296,20 @@ def main():
         
         print(f"  Found stats for both teams")
         
+        # Get the actual game date from parsed_time
+        game_date = game_entries.iloc[0]['parsed_time']
+        
         # Generate post content
         post_content = generate_post_content(
             away_team, home_team,
             away_stats, home_stats,
-            target_date
+            game_date
         )
         
         # Create filename
         away_slug = slugify(away_team)
         home_slug = slugify(home_team)
-        filename = f"{target_date.strftime('%Y-%m-%d')}-{away_slug}-vs-{home_slug}.md"
+        filename = f"{game_date.strftime('%Y-%m-%d')}-{away_slug}-vs-{home_slug}.md"
         
         # Ensure _posts directory exists
         os.makedirs('_posts', exist_ok=True)
