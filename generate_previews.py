@@ -139,8 +139,8 @@ def generate_predictions_section(away_team, home_team, away_predictions, home_pr
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **{away_team}**: {away_spread}, Cover Probability: {away_spread_edge}
-- **{home_team}**: {home_spread}, Cover Probability: {home_spread_edge}
+- **{away_team}**: {away_spread}, Edge For Covering Spread: {away_spread_edge}
+- **{home_team}**: {home_spread}, Edge For Covering Spread: {home_spread_edge}
 
 ### Moneyline
 - **{away_team} Win Probability**: {away_ml_prob}
@@ -148,8 +148,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: {predicted_total}
-- **Over Cover Probability**: {over_edge}
-- **Under Cover Probability**: {under_edge}
+- **Edge For Covering Over**: {over_edge}
+- **Edge For Covering Under**: {under_edge}
 
 ---
 
@@ -181,9 +181,9 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** {format_stat(stats.get('OffFg2', 'N/A'))}% (Rank: #{format_stat(stats.get('RankOffFg2', 'N/A'), 0)})
-- **3-Point Shooting:** {format_stat(stats.get('OffFg3', 'N/A'))}% (Rank: #{format_stat(stats.get('RankOffFg3', 'N/A'), 0)})
-- **Free Throw Shooting:** {format_stat(stats.get('OffFt', 'N/A'))}% (Rank: #{format_stat(stats.get('RankOffFt', 'N/A'), 0)})
+- **2-Point Shooting:** {format_stat(stats.get('FG2Pct', 'N/A'))}% (Rank: #{format_stat(stats.get('RankFG2Pct', 'N/A'), 0)})
+- **3-Point Shooting:** {format_stat(stats.get('FG3Pct', 'N/A'))}% (Rank: #{format_stat(stats.get('RankFG3Pct', 'N/A'), 0)})
+- **Free Throw Shooting:** {format_stat(stats.get('FTPct', 'N/A'))}% (Rank: #{format_stat(stats.get('RankFTPct', 'N/A'), 0)})
 - **3-Point Rate:** {format_stat(stats.get('F3GRate', 'N/A'))}% (Rank: #{format_stat(stats.get('RankF3GRate', 'N/A'), 0)})
 
 ### Defensive Profile
@@ -191,8 +191,8 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 Defensively, they hold opponents to {format_stat(stats.get('DeFG_Pct', 'N/A'))}% effective FG (#{format_stat(stats.get('RankDeFG_Pct', 'N/A'), 0)}), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
-- **2-Point Defense:** {format_stat(stats.get('DefFg2', 'N/A'))}% (Rank: #{format_stat(stats.get('RankDefFg2', 'N/A'), 0)})
-- **3-Point Defense:** {format_stat(stats.get('DefFg3', 'N/A'))}% (Rank: #{format_stat(stats.get('RankDefFg3', 'N/A'), 0)})
+- **2-Point Defense:** {format_stat(stats.get('OppFG2Pct', 'N/A'))}% (Rank: #{format_stat(stats.get('RankOppFG2Pct', 'N/A'), 0)})
+- **3-Point Defense:** {format_stat(stats.get('OppFG3Pct', 'N/A'))}% (Rank: #{format_stat(stats.get('RankOppFG3Pct', 'N/A'), 0)})
 - **Block Percentage:** {format_stat(stats.get('BlockPct', 'N/A'))}% (Rank: #{format_stat(stats.get('RankBlockPct', 'N/A'), 0)})
 - **Steal Rate:** {format_stat(stats.get('StlRate', 'N/A'))}% (Rank: #{format_stat(stats.get('RankStlRate', 'N/A'), 0)})
 
