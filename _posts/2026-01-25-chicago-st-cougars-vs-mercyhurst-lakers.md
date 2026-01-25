@@ -25,11 +25,11 @@ categories: [basketball, preview]
 </table>
 
 
-<div style="text-align: center; margin: 20px 0; padding: 15px; background-color: #f5f5f5; border-radius: 8px;">
-  <h3 style="margin-top: 0;">Betting Lines</h3>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Spread:</strong> Mercyhurst Lakers -9.5</p>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Moneyline:</strong> Chicago St Cougars (+350) | Mercyhurst Lakers (-475)</p>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Total:</strong> 130.5</p>
+<div class="betting-lines">
+  <h3>Betting Lines</h3>
+  <p><strong>Spread:</strong> Mercyhurst Lakers -9.5</p>
+  <p><strong>Moneyline:</strong> Chicago St Cougars (+374) | Mercyhurst Lakers (-523)</p>
+  <p><strong>Total:</strong> 130.5</p>
 </div>
 
 ### Game Storylines
@@ -41,7 +41,7 @@ This looks like a mismatch on paper with Mercyhurst Lakers significantly higher 
 Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
 
 
-## Team: Chicago St Cougars
+## Chicago St Cougars
 
 Chicago St Cougars comes in ranked #359 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
@@ -74,7 +74,7 @@ Chicago St Cougars comes in ranked #359 overall by KenPom. The three-point shot 
 
 ---
 
-## Team: Mercyhurst Lakers
+## Mercyhurst Lakers
 
 Mercyhurst Lakers comes in ranked #296 overall by KenPom. They've struggled from deep this year, meaning they'll need to rely on interior scoring and getting to the free throw line. 
 
@@ -113,17 +113,17 @@ Mercyhurst Lakers comes in ranked #296 overall by KenPom. They've struggled from
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Chicago St Cougars**: 9.5, Cover Probability: -1.2%
-- **Mercyhurst Lakers**: -9.5, Cover Probability: -3.5%
+- **Chicago St Cougars**: 9.5, Cover Probability: -1.8%
+- **Mercyhurst Lakers**: -9.5, Cover Probability: -2.9%
 
 ### Moneyline
-- **Chicago St Cougars Win Probability**: 19.6%
-- **Mercyhurst Lakers Win Probability**: 80.4%
+- **Chicago St Cougars Win Probability**: 19.0%
+- **Mercyhurst Lakers Win Probability**: 81.0%
 
 ### Total
 - **Predicted Total**: 130.5
-- **Over Cover Probability**: -0.8%
-- **Under Cover Probability**: -3.9%
+- **Over Cover Probability**: -1.4%
+- **Under Cover Probability**: -3.4%
 
 ---
 

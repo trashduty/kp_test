@@ -25,11 +25,11 @@ categories: [basketball, preview]
 </table>
 
 
-<div style="text-align: center; margin: 20px 0; padding: 15px; background-color: #f5f5f5; border-radius: 8px;">
-  <h3 style="margin-top: 0;">Betting Lines</h3>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Spread:</strong> Washington Huskies -9.5</p>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Moneyline:</strong> Oregon Ducks (+375) | Washington Huskies (-516)</p>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Total:</strong> 147.5</p>
+<div class="betting-lines">
+  <h3>Betting Lines</h3>
+  <p><strong>Spread:</strong> Washington Huskies -9.5</p>
+  <p><strong>Moneyline:</strong> Oregon Ducks (+375) | Washington Huskies (-516)</p>
+  <p><strong>Total:</strong> 147.5</p>
 </div>
 
 ### Game Storylines
@@ -41,7 +41,7 @@ On paper, Washington Huskies holds the advantage as the higher-ranked team, but 
 Washington Huskies features a solid offense (ranked #100) that should find success against Oregon Ducks's defensive unit (ranked #221). 
 
 
-## Team: Oregon Ducks
+## Oregon Ducks
 
 Oregon Ducks comes in ranked #85 overall by KenPom. 
 
@@ -74,7 +74,7 @@ Oregon Ducks comes in ranked #85 overall by KenPom.
 
 ---
 
-## Team: Washington Huskies
+## Washington Huskies
 
 Washington Huskies comes in ranked #49 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
 

@@ -25,11 +25,11 @@ categories: [basketball, preview]
 </table>
 
 
-<div style="text-align: center; margin: 20px 0; padding: 15px; background-color: #f5f5f5; border-radius: 8px;">
-  <h3 style="margin-top: 0;">Betting Lines</h3>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Spread:</strong> Fort Wayne Mastodons -3.5</p>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Moneyline:</strong> Fort Wayne Mastodons (-185) | IUPUI Jaguars (+154)</p>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Total:</strong> 164.5</p>
+<div class="betting-lines">
+  <h3>Betting Lines</h3>
+  <p><strong>Spread:</strong> Fort Wayne Mastodons -3.5</p>
+  <p><strong>Moneyline:</strong> Fort Wayne Mastodons (-185) | IUPUI Jaguars (+154)</p>
+  <p><strong>Total:</strong> 164.5</p>
 </div>
 
 ### Game Storylines
@@ -43,7 +43,7 @@ Fort Wayne Mastodons brings a middle-of-the-pack offense (ranked #180) that coul
 **Pace of Play:** IUPUI Jaguars likes to push the pace, while Fort Wayne Mastodons prefers a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
 
 
-## Team: Fort Wayne Mastodons
+## Fort Wayne Mastodons
 
 Fort Wayne Mastodons comes in ranked #224 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
@@ -76,7 +76,7 @@ Fort Wayne Mastodons comes in ranked #224 overall by KenPom. Defense has been a 
 
 ---
 
-## Team: IUPUI Jaguars
+## IUPUI Jaguars
 
 IUPUI Jaguars comes in ranked #316 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Stopping opponents has been an issue all season long. 
 

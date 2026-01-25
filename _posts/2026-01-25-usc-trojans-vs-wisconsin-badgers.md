@@ -25,11 +25,11 @@ categories: [basketball, preview]
 </table>
 
 
-<div style="text-align: center; margin: 20px 0; padding: 15px; background-color: #f5f5f5; border-radius: 8px;">
-  <h3 style="margin-top: 0;">Betting Lines</h3>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Spread:</strong> Wisconsin Badgers -7.5</p>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Moneyline:</strong> USC Trojans (+274) | Wisconsin Badgers (-349)</p>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Total:</strong> 159.5</p>
+<div class="betting-lines">
+  <h3>Betting Lines</h3>
+  <p><strong>Spread:</strong> Wisconsin Badgers -7.5</p>
+  <p><strong>Moneyline:</strong> USC Trojans (+274) | Wisconsin Badgers (-349)</p>
+  <p><strong>Total:</strong> 159.5</p>
 </div>
 
 ### Game Storylines
@@ -41,7 +41,7 @@ On paper, Wisconsin Badgers holds the advantage as the higher-ranked team, but U
 Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
 
 
-## Team: USC Trojans
+## USC Trojans
 
 USC Trojans comes in ranked #51 overall by KenPom. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.5% from three. 
 
@@ -74,7 +74,7 @@ USC Trojans comes in ranked #51 overall by KenPom. On the defensive end, they're
 
 ---
 
-## Team: Wisconsin Badgers
+## Wisconsin Badgers
 
 Wisconsin Badgers comes in ranked #39 overall by KenPom. They boast one of the nation's top offenses, ranked #48 in efficiency. 
 

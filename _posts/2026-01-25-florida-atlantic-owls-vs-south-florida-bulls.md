@@ -25,11 +25,11 @@ categories: [basketball, preview]
 </table>
 
 
-<div style="text-align: center; margin: 20px 0; padding: 15px; background-color: #f5f5f5; border-radius: 8px;">
-  <h3 style="margin-top: 0;">Betting Lines</h3>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Spread:</strong> South Florida Bulls -4.5</p>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Moneyline:</strong> Florida Atlantic Owls (+180) | South Florida Bulls (-215)</p>
-  <p style="font-size: 1.1em; margin: 10px 0;"><strong>Total:</strong> 166.5</p>
+<div class="betting-lines">
+  <h3>Betting Lines</h3>
+  <p><strong>Spread:</strong> South Florida Bulls -4.5</p>
+  <p><strong>Moneyline:</strong> Florida Atlantic Owls (+180) | South Florida Bulls (-215)</p>
+  <p><strong>Total:</strong> 166.5</p>
 </div>
 
 ### Game Storylines
@@ -41,7 +41,7 @@ On paper, South Florida Bulls holds the advantage as the higher-ranked team, but
 Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
 
 
-## Team: Florida Atlantic Owls
+## Florida Atlantic Owls
 
 Florida Atlantic Owls comes in ranked #92 overall by KenPom. 
 
@@ -74,7 +74,7 @@ Florida Atlantic Owls comes in ranked #92 overall by KenPom.
 
 ---
 
-## Team: South Florida Bulls
+## South Florida Bulls
 
 South Florida Bulls comes in ranked #73 overall by KenPom. 
 
