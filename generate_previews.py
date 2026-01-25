@@ -867,7 +867,7 @@ def generate_game_narrative(away_team, home_team, away_stats, home_stats):
     # Overall matchup comparison
     rank_diff = abs(away_rank - home_rank)
     if rank_diff <= 10:
-        narrative += f"This matchup features two evenly-matched teams, with {away_team} at #{away_rank} and {home_team} at #{home_rank} in the KenPom rankings. Expect a competitive battle throughout. ")
+        narrative += f"This matchup features two evenly-matched teams, with {away_team} at #{away_rank} and {home_team} at #{home_rank} in the KenPom rankings. Expect a competitive battle throughout."
     elif rank_diff <= 50:
         favorite = away_team if away_rank < home_rank else home_team
         underdog = home_team if away_rank < home_rank else away_team
