@@ -418,7 +418,7 @@ def generate_post_content(away_team, home_team, away_stats, home_stats, away_pre
             defensive_style = ""
         
         content = f"""
-## {side} Team: {team_name}
+## Team: {team_name}
 
 {team_name} comes in ranked #{format_stat(stats.get('Rk', 'N/A'), 0)} overall by KenPom. {offensive_style}{defensive_style}
 
