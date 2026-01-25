@@ -113,8 +113,8 @@ Evansville Purple Aces comes in ranked #288 overall by KenPom. They've struggled
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Southern Illinois Salukis**: -4.0, Edge For Covering Spread: 0.5%
-- **Evansville Purple Aces**: 4.0, Edge For Covering Spread: -5.2%
+- **Southern Illinois Salukis**: -4.0, Cover Probability: 0.5%
+- **Evansville Purple Aces**: 4.0, Cover Probability: -5.2%
 
 ### Moneyline
 - **Southern Illinois Salukis Win Probability**: 62.4%
@@ -122,8 +122,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 140.5
-- **Edge For Covering Over**: -3.3%
-- **Edge For Covering Under**: -1.5%
+- **Over Cover Probability**: -3.3%
+- **Under Cover Probability**: -1.5%
 
 ---
 

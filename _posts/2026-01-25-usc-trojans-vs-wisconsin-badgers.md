@@ -113,8 +113,8 @@ Wisconsin Badgers comes in ranked #39 overall by KenPom. They boast one of the n
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **USC Trojans**: 7.5, Edge For Covering Spread: -1.2%
-- **Wisconsin Badgers**: -7.5, Edge For Covering Spread: -3.5%
+- **USC Trojans**: 7.5, Cover Probability: -1.2%
+- **Wisconsin Badgers**: -7.5, Cover Probability: -3.5%
 
 ### Moneyline
 - **USC Trojans Win Probability**: 24.9%
@@ -122,8 +122,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 159.0
-- **Edge For Covering Over**: -2.4%
-- **Edge For Covering Under**: -2.4%
+- **Over Cover Probability**: -2.4%
+- **Under Cover Probability**: -2.4%
 
 ---
 

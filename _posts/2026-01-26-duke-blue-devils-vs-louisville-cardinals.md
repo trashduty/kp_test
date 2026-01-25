@@ -113,8 +113,8 @@ Louisville Cardinals comes in ranked #15 overall by KenPom. Defensively, they've
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Duke Blue Devils**: -7.5, Edge For Covering Spread: 0.8%
-- **Louisville Cardinals**: 7.5, Edge For Covering Spread: -5.6%
+- **Duke Blue Devils**: -7.5, Cover Probability: 0.8%
+- **Louisville Cardinals**: 7.5, Cover Probability: -5.6%
 
 ### Moneyline
 - **Duke Blue Devils Win Probability**: N/A
@@ -122,8 +122,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 156.0
-- **Edge For Covering Over**: -1.6%
-- **Edge For Covering Under**: -3.2%
+- **Over Cover Probability**: -1.6%
+- **Under Cover Probability**: -3.2%
 
 ---
 
