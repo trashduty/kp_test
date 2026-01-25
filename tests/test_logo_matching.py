@@ -90,12 +90,13 @@ def test_find_team_logo_no_match():
     print("✓ Placeholder returned for no match")
 
 
-def test_find_team_logo_uses_name_not_ncaa_name():
-    """Test that find_team_logo uses 'name' column, not 'ncaa_name' column"""
+def test_find_team_logo_uses_multiple_columns():
+    """Test that find_team_logo uses 'name', 'ncaa_name', and other columns for matching"""
     # Create logos with different values in name vs ncaa_name
     logos_df = pd.DataFrame({
         'name': ['South Carolina State Bulldogs'],
         'ncaa_name': ['South Carolina St.'],
+        'reference_name': ['South Carolina State'],
         'logos': ['https://example.com/sc-state.svg']
     })
     
@@ -103,11 +104,15 @@ def test_find_team_logo_uses_name_not_ncaa_name():
     result = find_team_logo('South Carolina State Bulldogs', logos_df)
     assert result == 'https://example.com/sc-state.svg', f"Expected SC State logo, got: {result}"
     
-    # This should NOT match (ncaa_name is not used for matching)
+    # This should now match using 'ncaa_name' column
     result = find_team_logo('South Carolina St.', logos_df)
-    assert result == 'https://via.placeholder.com/150', f"Expected placeholder for ncaa_name, got: {result}"
+    assert result == 'https://example.com/sc-state.svg', f"Expected SC State logo for ncaa_name match, got: {result}"
     
-    print("✓ Uses 'name' column, not 'ncaa_name' column")
+    # This should also match using 'reference_name' column
+    result = find_team_logo('South Carolina State', logos_df)
+    assert result == 'https://example.com/sc-state.svg', f"Expected SC State logo for reference_name match, got: {result}"
+    
+    print("✓ Uses 'name', 'ncaa_name', and 'reference_name' columns for matching")
 
 
 def test_find_team_logo_returns_from_logos_column():
@@ -125,10 +130,37 @@ def test_find_team_logo_returns_from_logos_column():
     print("✓ Returns URL from 'logos' column")
 
 
+def test_find_team_logo_strips_mascot():
+    """Test that find_team_logo can strip mascot and match on ncaa_name"""
+    # Test the exact scenario from the problem statement
+    logos_df = pd.DataFrame({
+        'name': ['South Carolina State Bulldogs', 'Delaware State Hornets'],
+        'ncaa_name': ['South Carolina St.', 'Delaware St.'],
+        'reference_name': ['South Carolina State', 'Delaware State'],
+        'logos': [
+            'https://example.com/sc-state.svg',
+            'https://example.com/delaware-state.svg'
+        ]
+    })
+    
+    # These team names should match by stripping the mascot (Bulldogs/Hornets)
+    # and adding a period to match ncaa_name
+    result = find_team_logo('South Carolina St Bulldogs', logos_df)
+    assert result == 'https://example.com/sc-state.svg', \
+        f"Expected SC State logo for 'South Carolina St Bulldogs', got: {result}"
+    
+    result = find_team_logo('Delaware St Hornets', logos_df)
+    assert result == 'https://example.com/delaware-state.svg', \
+        f"Expected Delaware State logo for 'Delaware St Hornets', got: {result}"
+    
+    print("✓ Strips mascot and matches on ncaa_name column")
+
+
 if __name__ == '__main__':
     test_find_team_logo_exact_match()
     test_find_team_logo_case_insensitive()
     test_find_team_logo_no_match()
-    test_find_team_logo_uses_name_not_ncaa_name()
+    test_find_team_logo_uses_multiple_columns()
     test_find_team_logo_returns_from_logos_column()
+    test_find_team_logo_strips_mascot()
     print("\n✅ All logo matching tests passed!")
