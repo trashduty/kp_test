@@ -12,44 +12,44 @@ excerpt: "Expert analysis and prediction for New Orleans vs Nicholls. Get the la
 
 ### Game Overview
 
-The New Orleans (215) will travel to face the Nicholls (215) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The New Orleans (221) will travel to face the Nicholls (221) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
 ### New Orleans Analysis
 
 **Record & Ranking:**
-- **KenPom Rank:** #215
-- **Offensive Efficiency:** 106.77 (Rank: #202)
+- **KenPom Rank:** #221
+- **Offensive Efficiency:** 105.96 (Rank: #218)
 
 **Offensive Profile:**
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (50.2%, #227), ball security (20.4% turnover rate, #341), offensive rebounding (35.6%, #50), and getting to the line (41.2 FT Rate, #59).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (50.2%, #224), ball security (21.0% turnover rate, #351), offensive rebounding (35.2%, #56), and getting to the line (41.8 FT Rate, #49).
 
-The team's offensive efficiency ranks #202 nationally at 106.77 points per 100 possessions. They play at an adjusted tempo of 69.74 possessions per game (Rank: #146).
+The team's offensive efficiency ranks #218 nationally at 105.96 points per 100 possessions. They play at an adjusted tempo of 69.73 possessions per game (Rank: #145).
 
 **Shooting Breakdown:**
-- Three-point shooting: 33.5% (Rank: #206)
-- Two-point shooting: 50.1% (Rank: #230)
-- Free throw percentage: 74.9% (Rank: #91)
-- Three-point rate: 36.4% (Rank: #246)
+- Three-point shooting: 33.3% (Rank: #215)
+- Two-point shooting: 50.3% (Rank: #222)
+- Free throw percentage: 74.7% (Rank: #101)
+- Three-point rate: 36.5% (Rank: #245)
 
 **Defensive Profile:**
-Defensively, New Orleans ranks #321 with a defensive efficiency of 116.26. They force opponents into:
-- Opponent eFG%: 50.3% (Rank: #140)
-- Opponent turnover rate: 13.6% (Rank: #347)
-- Defensive rebounding: 36.0% (Rank: #341)
-- Opponent free throw rate: 40.0 (Rank: #283)
+Defensively, New Orleans ranks #323 with a defensive efficiency of 116.34. They force opponents into:
+- Opponent eFG%: 50.1% (Rank: #128)
+- Opponent turnover rate: 13.6% (Rank: #348)
+- Defensive rebounding: 36.6% (Rank: #346)
+- Opponent free throw rate: 40.4 (Rank: #294)
 
 **Advanced Metrics:**
-- Block percentage: 11.0% (Rank: #99)
-- Steal rate: 0.1 (Rank: #327)
-- Assist rate: 49.7% (Rank: #250)
+- Block percentage: 10.7% (Rank: #115)
+- Steal rate: 0.1 (Rank: #326)
+- Assist rate: 50.1% (Rank: #244)
 
 **Team Composition:**
 - Average height: 77.82" (Rank: #109)
-- Effective height: 0.48 (Rank: #110)
-- Experience: 1.52 (Rank: #162)
-- Bench strength: 33.44 (Rank: #159)
+- Effective height: 0.48 (Rank: #111)
+- Experience: 1.53 (Rank: #159)
+- Bench strength: 33.15 (Rank: #170)
 - Continuity: 0.14 (Rank: #248)
 
 ---
@@ -57,37 +57,37 @@ Defensively, New Orleans ranks #321 with a defensive efficiency of 116.26. They 
 ### Nicholls Analysis
 
 **Record & Ranking:**
-- **KenPom Rank:** #228
-- **Offensive Efficiency:** 105.50 (Rank: #224)
+- **KenPom Rank:** #233
+- **Offensive Efficiency:** 104.50 (Rank: #239)
 
 **Offensive Profile:**
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (51.5%, #168), ball security (17.2% turnover rate, #186), offensive rebounding (28.2%, #271), and getting to the line (35.2 FT Rate, #193).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (50.9%, #192), ball security (17.3% turnover rate, #200), offensive rebounding (28.0%, #275), and getting to the line (35.6 FT Rate, #185).
 
-The team's offensive efficiency ranks #224 nationally at 105.50 points per 100 possessions. They play at an adjusted tempo of 69.50 possessions per game (Rank: #160).
+The team's offensive efficiency ranks #239 nationally at 104.50 points per 100 possessions. They play at an adjusted tempo of 69.56 possessions per game (Rank: #153).
 
 **Shooting Breakdown:**
-- Three-point shooting: 35.5% (Rank: #90)
-- Two-point shooting: 50.2% (Rank: #228)
-- Free throw percentage: 65.4% (Rank: #352)
-- Three-point rate: 45.2% (Rank: #64)
+- Three-point shooting: 34.9% (Rank: #128)
+- Two-point shooting: 49.7% (Rank: #247)
+- Free throw percentage: 66.0% (Rank: #350)
+- Three-point rate: 45.4% (Rank: #59)
 
 **Defensive Profile:**
-Defensively, Nicholls ranks #282 with a defensive efficiency of 113.31. They force opponents into:
-- Opponent eFG%: 56.8% (Rank: #347)
-- Opponent turnover rate: 21.4% (Rank: #12)
-- Defensive rebounding: 34.6% (Rank: #318)
-- Opponent free throw rate: 40.3 (Rank: #291)
+Defensively, Nicholls ranks #270 with a defensive efficiency of 112.34. They force opponents into:
+- Opponent eFG%: 56.1% (Rank: #334)
+- Opponent turnover rate: 21.6% (Rank: #11)
+- Defensive rebounding: 35.0% (Rank: #325)
+- Opponent free throw rate: 41.0 (Rank: #303)
 
 **Advanced Metrics:**
-- Block percentage: 6.5% (Rank: #324)
-- Steal rate: 0.1 (Rank: #14)
-- Assist rate: 53.7% (Rank: #151)
+- Block percentage: 6.8% (Rank: #311)
+- Steal rate: 0.1 (Rank: #12)
+- Assist rate: 53.4% (Rank: #161)
 
 **Team Composition:**
-- Average height: 77.47" (Rank: #162)
-- Effective height: -0.20 (Rank: #201)
-- Experience: 1.84 (Rank: #91)
-- Bench strength: 29.60 (Rank: #260)
+- Average height: 77.52" (Rank: #156)
+- Effective height: -0.18 (Rank: #200)
+- Experience: 1.83 (Rank: #91)
+- Bench strength: 29.51 (Rank: #260)
 - Continuity: 0.30 (Rank: #138)
 
 ---
@@ -105,22 +105,22 @@ Our model predicts **Nicholls** will win this matchup.
 ### Key Matchup Factors
 
 **Tempo Battle:**
-New Orleans plays at a tempo of 69.74 possessions per game (Rank #146), while Nicholls operates at 69.50 (Rank #160). The team that can impose their preferred pace will have a significant advantage.
+New Orleans plays at a tempo of 69.73 possessions per game (Rank #145), while Nicholls operates at 69.56 (Rank #153). The team that can impose their preferred pace will have a significant advantage.
 
 **Offensive Efficiency:**
-New Orleans ranks #202 in adjusted offensive efficiency (106.77), compared to Nicholls's #224 ranking (105.50).
+New Orleans ranks #218 in adjusted offensive efficiency (105.96), compared to Nicholls's #239 ranking (104.50).
 
 **Defensive Matchup:**
-Defensively, New Orleans ranks #321 (116.26), while Nicholls ranks #282 (113.31).
+Defensively, New Orleans ranks #323 (116.34), while Nicholls ranks #270 (112.34).
 
 **Three-Point Shooting:**
-New Orleans shoots 33.5% from beyond the arc and attempts threes at a rate of 36.4%.  Nicholls  counters with 35.5% shooting and a 45.2% three-point rate.
+New Orleans shoots 33.3% from beyond the arc and attempts threes at a rate of 36.5%.  Nicholls  counters with 34.9% shooting and a 45.4% three-point rate.
 
 **Rebounding:**
-New Orleans grabs offensive rebounds at a 35.6% rate, while Nicholls secures 34.6% of available defensive rebounds.
+New Orleans grabs offensive rebounds at a 35.2% rate, while Nicholls secures 35.0% of available defensive rebounds.
 
 **Ball Security:**
-New Orleans turns the ball over on 20.4% of possessions, while Nicholls's defense forces turnovers at a 21.4% rate.
+New Orleans turns the ball over on 21.0% of possessions, while Nicholls's defense forces turnovers at a 21.6% rate.
 
 ---
 

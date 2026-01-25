@@ -12,83 +12,83 @@ excerpt: "Expert analysis and prediction for Incarnate Word vs Houston Christian
 
 ### Game Overview
 
-The Incarnate Word (237) will travel to face the Houston Christian (237) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The Incarnate Word (243) will travel to face the Houston Christian (243) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
 ### Incarnate Word Analysis
 
 **Record & Ranking:**
-- **KenPom Rank:** #237
-- **Offensive Efficiency:** 105.30 (Rank: #225)
+- **KenPom Rank:** #243
+- **Offensive Efficiency:** 105.19 (Rank: #229)
 
 **Offensive Profile:**
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (48.2%, #287), ball security (15.3% turnover rate, #70), offensive rebounding (31.0%, #179), and getting to the line (33.8 FT Rate, #227).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (48.5%, #283), ball security (15.9% turnover rate, #108), offensive rebounding (31.2%, #174), and getting to the line (33.4 FT Rate, #235).
 
-The team's offensive efficiency ranks #225 nationally at 105.30 points per 100 possessions. They play at an adjusted tempo of 66.15 possessions per game (Rank: #314).
+The team's offensive efficiency ranks #229 nationally at 105.19 points per 100 possessions. They play at an adjusted tempo of 66.29 possessions per game (Rank: #300).
 
 **Shooting Breakdown:**
-- Three-point shooting: 34.2% (Rank: #166)
-- Two-point shooting: 46.3% (Rank: #327)
-- Free throw percentage: 70.2% (Rank: #249)
-- Three-point rate: 37.4% (Rank: #230)
+- Three-point shooting: 34.4% (Rank: #159)
+- Two-point shooting: 46.6% (Rank: #324)
+- Free throw percentage: 69.7% (Rank: #263)
+- Three-point rate: 37.9% (Rank: #217)
 
 **Defensive Profile:**
-Defensively, Incarnate Word ranks #258 with a defensive efficiency of 111.54. They force opponents into:
-- Opponent eFG%: 53.0% (Rank: #255)
-- Opponent turnover rate: 16.8% (Rank: #198)
-- Defensive rebounding: 31.9% (Rank: #224)
-- Opponent free throw rate: 41.5 (Rank: #308)
+Defensively, Incarnate Word ranks #261 with a defensive efficiency of 111.75. They force opponents into:
+- Opponent eFG%: 53.4% (Rank: #264)
+- Opponent turnover rate: 17.1% (Rank: #178)
+- Defensive rebounding: 32.4% (Rank: #252)
+- Opponent free throw rate: 43.3 (Rank: #326)
 
 **Advanced Metrics:**
-- Block percentage: 7.4% (Rank: #287)
-- Steal rate: 0.1 (Rank: #278)
-- Assist rate: 44.0% (Rank: #342)
+- Block percentage: 8.2% (Rank: #256)
+- Steal rate: 0.1 (Rank: #274)
+- Assist rate: 43.6% (Rank: #344)
 
 **Team Composition:**
-- Average height: 76.63" (Rank: #297)
-- Effective height: -0.73 (Rank: #277)
-- Experience: 2.27 (Rank: #33)
-- Bench strength: 25.07 (Rank: #330)
-- Continuity: 0.44 (Rank: #41)
+- Average height: 76.59" (Rank: #305)
+- Effective height: -0.76 (Rank: #280)
+- Experience: 2.27 (Rank: #31)
+- Bench strength: 25.08 (Rank: #331)
+- Continuity: 0.45 (Rank: #37)
 
 ---
 
 ### Houston Christian Analysis
 
 **Record & Ranking:**
-- **KenPom Rank:** #299
-- **Offensive Efficiency:** 106.31 (Rank: #209)
+- **KenPom Rank:** #308
+- **Offensive Efficiency:** 105.06 (Rank: #232)
 
 **Offensive Profile:**
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (52.0%, #155), ball security (18.7% turnover rate, #281), offensive rebounding (29.9%, #212), and getting to the line (37.2 FT Rate, #146).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (51.8%, #155), ball security (19.4% turnover rate, #313), offensive rebounding (30.0%, #207), and getting to the line (36.2 FT Rate, #167).
 
-The team's offensive efficiency ranks #209 nationally at 106.31 points per 100 possessions. They play at an adjusted tempo of 64.52 possessions per game (Rank: #352).
+The team's offensive efficiency ranks #232 nationally at 105.06 points per 100 possessions. They play at an adjusted tempo of 64.32 possessions per game (Rank: #355).
 
 **Shooting Breakdown:**
-- Three-point shooting: 34.3% (Rank: #160)
-- Two-point shooting: 52.3% (Rank: #159)
-- Free throw percentage: 66.5% (Rank: #340)
-- Three-point rate: 38.0% (Rank: #216)
+- Three-point shooting: 34.4% (Rank: #153)
+- Two-point shooting: 51.9% (Rank: #172)
+- Free throw percentage: 66.4% (Rank: #345)
+- Three-point rate: 37.8% (Rank: #220)
 
 **Defensive Profile:**
-Defensively, Houston Christian ranks #327 with a defensive efficiency of 116.79. They force opponents into:
-- Opponent eFG%: 56.2% (Rank: #336)
-- Opponent turnover rate: 16.2% (Rank: #229)
-- Defensive rebounding: 32.0% (Rank: #225)
-- Opponent free throw rate: 30.7 (Rank: #66)
+Defensively, Houston Christian ranks #326 with a defensive efficiency of 116.51. They force opponents into:
+- Opponent eFG%: 56.4% (Rank: #341)
+- Opponent turnover rate: 16.3% (Rank: #225)
+- Defensive rebounding: 31.4% (Rank: #212)
+- Opponent free throw rate: 29.5 (Rank: #55)
 
 **Advanced Metrics:**
-- Block percentage: 10.1% (Rank: #141)
-- Steal rate: 0.1 (Rank: #201)
-- Assist rate: 59.7% (Rank: #37)
+- Block percentage: 9.9% (Rank: #152)
+- Steal rate: 0.1 (Rank: #197)
+- Assist rate: 60.2% (Rank: #34)
 
 **Team Composition:**
-- Average height: 76.55" (Rank: #308)
+- Average height: 76.53" (Rank: #311)
 - Effective height: -2.00 (Rank: #360)
 - Experience: 1.10 (Rank: #264)
-- Bench strength: 30.77 (Rank: #231)
-- Continuity: 0.33 (Rank: #110)
+- Bench strength: 30.09 (Rank: #246)
+- Continuity: 0.33 (Rank: #114)
 
 ---
 
@@ -105,22 +105,22 @@ Our model predicts **Incarnate Word** will win this matchup.
 ### Key Matchup Factors
 
 **Tempo Battle:**
-Incarnate Word plays at a tempo of 66.15 possessions per game (Rank #314), while Houston Christian operates at 64.52 (Rank #352). The team that can impose their preferred pace will have a significant advantage.
+Incarnate Word plays at a tempo of 66.29 possessions per game (Rank #300), while Houston Christian operates at 64.32 (Rank #355). The team that can impose their preferred pace will have a significant advantage.
 
 **Offensive Efficiency:**
-Incarnate Word ranks #225 in adjusted offensive efficiency (105.30), compared to Houston Christian's #209 ranking (106.31).
+Incarnate Word ranks #229 in adjusted offensive efficiency (105.19), compared to Houston Christian's #232 ranking (105.06).
 
 **Defensive Matchup:**
-Defensively, Incarnate Word ranks #258 (111.54), while Houston Christian ranks #327 (116.79).
+Defensively, Incarnate Word ranks #261 (111.75), while Houston Christian ranks #326 (116.51).
 
 **Three-Point Shooting:**
-Incarnate Word shoots 34.2% from beyond the arc and attempts threes at a rate of 37.4%.  Houston Christian  counters with 34.3% shooting and a 38.0% three-point rate.
+Incarnate Word shoots 34.4% from beyond the arc and attempts threes at a rate of 37.9%.  Houston Christian  counters with 34.4% shooting and a 37.8% three-point rate.
 
 **Rebounding:**
-Incarnate Word grabs offensive rebounds at a 31.0% rate, while Houston Christian secures 32.0% of available defensive rebounds.
+Incarnate Word grabs offensive rebounds at a 31.2% rate, while Houston Christian secures 31.4% of available defensive rebounds.
 
 **Ball Security:**
-Incarnate Word turns the ball over on 15.3% of possessions, while Houston Christian's defense forces turnovers at a 16.2% rate.
+Incarnate Word turns the ball over on 15.9% of possessions, while Houston Christian's defense forces turnovers at a 16.3% rate.
 
 ---
 
