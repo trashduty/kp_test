@@ -559,6 +559,15 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
         away_ft_pct = float(away_stats.get('FTPct', 0))
         home_ft_pct = float(home_stats.get('FTPct', 0))
         
+        # Extract new fields - wins, losses, coach, arena
+        away_wins = int(away_stats.get('Wins', 0))
+        away_losses = int(away_stats.get('Losses', 0))
+        home_wins = int(home_stats.get('Wins', 0))
+        home_losses = int(home_stats.get('Losses', 0))
+        away_coach = away_stats.get('Coach', 'N/A')
+        home_coach = home_stats.get('Coach', 'N/A')
+        home_arena = home_stats.get('Arena', 'N/A')
+        
         # Extract betting lines
         away_spread = float(away_predictions.get('market_spread', 0))
         home_spread = float(home_predictions.get('market_spread', 0))
@@ -589,12 +598,22 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
     # Opening scene-setting
     sections.append("#### Setting the Stage\n")
     rank_diff = abs(away_rank - home_rank)
+    
+    # Create team names with records
+    away_team_with_record = f"{away_team} ({away_wins}-{away_losses})"
+    home_team_with_record = f"{home_team} ({home_wins}-{home_losses})"
+    
+    # Add arena info if available
+    arena_text = ""
+    if home_arena and home_arena != 'N/A':
+        arena_text = f" at {home_arena}"
+    
     if rank_diff <= 15:
-        sections.append(f"When #{away_rank} {away_team} travels to face #{home_rank} {home_team}, we're looking at a matchup between two programs with similar profiles in the national landscape. ")
+        sections.append(f"When {away_team_with_record} travels to face {home_team_with_record}{arena_text}, we're looking at a matchup between two programs with similar profiles in the national landscape. ")
     elif away_rank < home_rank:
-        sections.append(f"#{away_rank} {away_team} enters hostile territory as they take on #{home_rank} {home_team} in what the oddsmakers see as a significant talent gap. ")
+        sections.append(f"{away_team_with_record} enters hostile territory as they take on {home_team_with_record}{arena_text} in what the oddsmakers see as a significant talent gap. ")
     else:
-        sections.append(f"#{home_rank} {home_team} hosts #{away_rank} {away_team} in a game where the home team finds itself as the underdog in their own building. ")
+        sections.append(f"{home_team_with_record} hosts {away_team_with_record}{arena_text} in a game where the home team finds itself as the underdog in their own building. ")
     
     sections.append(f"The early betting action has shaped into {favorite} favored by {spread_value:.1f} points, with the total sitting at {total:.1f}. ")
     sections.append("These numbers tell us a story, but let's dig deeper into what's really happening on the court.\n")
@@ -712,6 +731,11 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
         sections.append(f"Combined with their ranking advantage, this home court could create an intimidating environment for {away_team}. ")
     else:
         sections.append("In a fairly even matchup, home court becomes magnified as a potential deciding factor. ")
+    
+    # Add coaching reference
+    if away_coach != 'N/A' and home_coach != 'N/A':
+        sections.append(f"\nFrom a coaching perspective, {away_coach} leads {away_team} while {home_coach} guides {home_team}. ")
+        sections.append("Experience and game planning will be critical in what promises to be a tactical chess match. ")
     
     sections.append("\nDefensively, ")
     if away_de_rank < home_de_rank - ELITE_RANK_THRESHOLD:
@@ -863,8 +887,8 @@ def generate_predictions_section(away_team, home_team, away_predictions, home_pr
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **{away_team}**: {away_spread}, Cover Probability: {away_spread_edge}
-- **{home_team}**: {home_spread}, Cover Probability: {home_spread_edge}
+- **{away_team}**: {away_spread}, Edge For Covering Spread: {away_spread_edge}
+- **{home_team}**: {home_spread}, Edge For Covering Spread: {home_spread_edge}
 
 ### Moneyline
 - **{away_team} Win Probability**: {away_ml_prob}
@@ -872,8 +896,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: {predicted_total}
-- **Over Cover Probability**: {over_edge}
-- **Under Cover Probability**: {under_edge}
+- **Edge For Covering The Over**: {over_edge}
+- **Edge For Covering The Under**: {under_edge}
 
 ---
 
@@ -952,6 +976,14 @@ def generate_post_content(away_team, home_team, away_stats, home_stats, away_pre
 {team_name} comes in ranked #{format_stat(stats.get('Rk', 'N/A'), 0)} overall by KenPom. {offensive_style}{defensive_style}
 
 ### Record & Ranking
+- **Record:** {format_stat(stats.get('Wins', 'N/A'), 0)}-{format_stat(stats.get('Losses', 'N/A'), 0)}
+- **Head Coach:** {stats.get('Coach', 'N/A')}"""
+        
+        # Add home arena for home team only
+        if not is_away:
+            content += f"\n- **Home Arena:** {stats.get('Arena', 'N/A')}"
+        
+        content += f"""
 - **KenPom Rank:** #{format_stat(stats.get('Rk', 'N/A'), 0)}
 - **Offensive Efficiency:** {format_stat(stats.get('OE', 'N/A'))} (Rank: #{format_stat(stats.get('RankOE', 'N/A'), 0)})
 - **Defensive Efficiency:** {format_stat(stats.get('DE', 'N/A'))} (Rank: #{format_stat(stats.get('RankDE', 'N/A'), 0)})
