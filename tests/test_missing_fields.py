@@ -8,12 +8,14 @@ import sys
 import os
 import csv
 import tempfile
+import traceback
 
 # Add parent directory to path
 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, parent_dir)
 
 # Set a dummy API key to allow import of scrape_kenpom_stats module
+# This approach matches the pattern used in other test files (test_kenpom_rank_fix.py, test_ratings_endpoint.py)
 if 'KENPOM_API_KEY' not in os.environ:
     os.environ['KENPOM_API_KEY'] = 'dummy_key_for_unit_tests_only'
 
@@ -147,6 +149,5 @@ if __name__ == "__main__":
         sys.exit(1)
     except Exception as e:
         print(f"\n❌ Unexpected error: {e}")
-        import traceback
         traceback.print_exc()
         sys.exit(1)
