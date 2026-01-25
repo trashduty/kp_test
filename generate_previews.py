@@ -269,7 +269,7 @@ Defensively, they hold opponents to {format_stat(stats.get('DeFG_Pct', 'N/A'))}%
 """
         return content
     
-    # Create the full post with logos displayed horizontally
+    # Create the full post with logos displayed horizontally using table
     post = f"""---
 layout: post
 title: "{away_team} vs {home_team} - Game Preview"
@@ -280,19 +280,21 @@ categories: [basketball, preview]
 # {away_team} vs {home_team}
 ## Game Preview for {game_date.strftime('%B %d, %Y')}
 
-<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; margin: 20px 0;">
-  <div style="text-align: center; flex: 1;">
-    <img src="{away_logo}" alt="{away_team} logo" style="width: 150px; height: 150px; object-fit: contain;">
-    <p><strong>{away_team}</strong></p>
-  </div>
-  <div style="text-align: center; font-size: 2em; font-weight: bold; flex: 0;">
-    VS
-  </div>
-  <div style="text-align: center; flex: 1;">
-    <img src="{home_logo}" alt="{home_team} logo" style="width: 150px; height: 150px; object-fit: contain;">
-    <p><strong>{home_team}</strong></p>
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+  <tr>
+    <td style="width: 45%; text-align: center; vertical-align: middle;">
+      <img src="{away_logo}" alt="{away_team} logo" style="width: 150px; height: 150px; object-fit: contain;">
+      <p><strong>{away_team}</strong></p>
+    </td>
+    <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
+      VS
+    </td>
+    <td style="width: 45%; text-align: center; vertical-align: middle;">
+      <img src="{home_logo}" alt="{home_team} logo" style="width: 150px; height: 150px; object-fit: contain;">
+      <p><strong>{home_team}</strong></p>
+    </td>
+  </tr>
+</table>
 
 """
     
