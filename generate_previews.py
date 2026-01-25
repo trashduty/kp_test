@@ -173,6 +173,94 @@ def format_percentage(value):
         return "N/A"
 
 
+def get_rank_description(rank):
+    """Get descriptive text for a team's rank."""
+    try:
+        rank = int(rank)
+        if rank <= 25:
+            return "elite"
+        elif rank <= 50:
+            return "very strong"
+        elif rank <= 100:
+            return "solid"
+        elif rank <= 200:
+            return "middle-of-the-pack"
+        else:
+            return "struggling"
+    except:
+        return "N/A"
+
+
+def generate_game_narrative(away_team, home_team, away_stats, home_stats):
+    """Generate conversational narrative comparing the two teams."""
+    
+    try:
+        away_rank = int(away_stats.get('Rk', 999))
+        home_rank = int(home_stats.get('Rk', 999))
+        away_oe_rank = int(away_stats.get('RankOE', 999))
+        home_oe_rank = int(home_stats.get('RankOE', 999))
+        away_de_rank = int(away_stats.get('RankDE', 999))
+        home_de_rank = int(home_stats.get('RankDE', 999))
+        away_tempo = float(away_stats.get('Tempo', 0))
+        home_tempo = float(home_stats.get('Tempo', 0))
+        away_fg3_pct = float(away_stats.get('FG3Pct', 0))
+        home_fg3_pct = float(home_stats.get('FG3Pct', 0))
+        away_opp_fg3_pct = float(home_stats.get('OppFG3Pct', 0))
+        home_opp_fg3_pct = float(home_stats.get('OppFG3Pct', 0))
+    except:
+        return ""
+    
+    narrative = "### Game Storylines\n\n"
+    
+    # Overall matchup comparison
+    rank_diff = abs(away_rank - home_rank)
+    if rank_diff <= 10:
+        narrative += f"This matchup features two evenly-matched teams, with {away_team} at #{away_rank} and {home_team} at #{home_rank} in the KenPom rankings. Expect a competitive battle throughout. "
+    elif rank_diff <= 50:
+        favorite = away_team if away_rank < home_rank else home_team
+        underdog = home_team if away_rank < home_rank else away_team
+        narrative += f"On paper, {favorite} holds the advantage as the higher-ranked team, but {underdog} could make this interesting if they play to their potential. "
+    else:
+        favorite = away_team if away_rank < home_rank else home_team
+        underdog = home_team if away_rank < home_rank else away_team
+        narrative += f"This looks like a mismatch on paper with {favorite} significantly higher in the rankings, but as they say, that's why they play the games. {underdog} will need their best performance of the season to pull off the upset. "
+    
+    # Offensive vs Defensive matchup
+    narrative += "\n\n**Key Matchup: "
+    if away_oe_rank < home_de_rank - 50:
+        narrative += f"{away_team}'s Offense vs {home_team}'s Defense**\n\n"
+        narrative += f"{away_team} brings a {get_rank_description(away_oe_rank)} offense (ranked #{away_oe_rank}) that could exploit {home_team}'s defensive vulnerabilities (ranked #{home_de_rank}). "
+    elif home_oe_rank < away_de_rank - 50:
+        narrative += f"{home_team}'s Offense vs {away_team}'s Defense**\n\n"
+        narrative += f"{home_team} features a {get_rank_description(home_oe_rank)} offense (ranked #{home_oe_rank}) that should find success against {away_team}'s defensive unit (ranked #{away_de_rank}). "
+    elif away_de_rank < 50 and home_oe_rank > 150:
+        narrative += f"{away_team}'s Defense vs {home_team}'s Offense**\n\n"
+        narrative += f"{away_team}'s stingy defense (ranked #{away_de_rank}) will look to frustrate {home_team}'s offense, which has struggled at times this season. "
+    elif home_de_rank < 50 and away_oe_rank > 150:
+        narrative += f"{home_team}'s Defense vs {away_team}'s Offense**\n\n"
+        narrative += f"{home_team}'s defensive prowess (ranked #{home_de_rank}) sets up well against {away_team}'s offense. Expect a grind-it-out game. "
+    else:
+        narrative += "The Battle in the Trenches**\n\n"
+        narrative += f"Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. "
+    
+    # Tempo analysis
+    tempo_diff = abs(away_tempo - home_tempo)
+    if tempo_diff > 5:
+        faster_team = away_team if away_tempo > home_tempo else home_team
+        slower_team = home_team if away_tempo > home_tempo else away_team
+        narrative += f"\n\n**Pace of Play:** {faster_team} likes to push the pace, while {slower_team} prefers a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. "
+    
+    # Three-point shooting matchup
+    if away_fg3_pct > 35 and home_opp_fg3_pct < 32:
+        narrative += f"\n\n**X-Factor:** {away_team} can light it up from three-point range ({away_fg3_pct:.1f}%), but {home_team} defends the arc exceptionally well, holding opponents to just {home_opp_fg3_pct:.1f}%. This battle could determine the outcome. "
+    elif home_fg3_pct > 35 and away_opp_fg3_pct < 32:
+        narrative += f"\n\n**X-Factor:** {home_team}'s three-point shooting ({home_fg3_pct:.1f}%) faces a tough test against {away_team}'s perimeter defense, which limits opponents to {away_opp_fg3_pct:.1f}% from deep. "
+    elif away_fg3_pct > 37 and home_fg3_pct > 37:
+        narrative += f"\n\n**Shootout Alert:** Both teams can stroke it from downtown. Don't be surprised if this turns into a high-scoring affair with plenty of made threes. "
+    
+    return narrative + "\n\n"
+
+
 def generate_predictions_section(away_team, home_team, away_predictions, home_predictions):
     """Generate the model predictions section."""
     
@@ -225,18 +313,43 @@ def generate_post_content(away_team, home_team, away_stats, home_stats, away_pre
         """Generate content section for a team."""
         side = "Away" if is_away else "Home"
         
+        # Generate conversational analysis
+        try:
+            rank = int(stats.get('Rk', 999))
+            oe_rank = int(stats.get('RankOE', 999))
+            de_rank = int(stats.get('RankDE', 999))
+            fg3_pct = float(stats.get('FG3Pct', 0))
+            fg3_rank = int(stats.get('RankFG3Pct', 999))
+            opp_fg3_pct = float(stats.get('OppFG3Pct', 0))
+            
+            offensive_style = ""
+            if fg3_pct > 36 and fg3_rank < 100:
+                offensive_style = f"They're dangerous from beyond the arc, shooting {fg3_pct:.1f}% from three (ranked #{fg3_rank} nationally), so expect them to let it fly from deep. "
+            elif fg3_pct < 32:
+                offensive_style = "The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. "
+            
+            defensive_style = ""
+            if opp_fg3_pct < 30:
+                defensive_style = f"On the defensive end, they're lockdown on the perimeter, holding opponents to just {opp_fg3_pct:.1f}% from three. "
+            elif de_rank < 50:
+                defensive_style = "Their defense has been a calling card this season, making life difficult for opposing offenses. "
+            elif de_rank > 250:
+                defensive_style = "Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. "
+                
+        except:
+            offensive_style = ""
+            defensive_style = ""
+        
         content = f"""
 ## {side} Team: {team_name}
+
+{team_name} comes in ranked #{format_stat(stats.get('Rk', 'N/A'), 0)} overall by KenPom. {offensive_style}{defensive_style}
 
 ### Record & Ranking
 - **KenPom Rank:** #{format_stat(stats.get('Rk', 'N/A'), 0)}
 - **Offensive Efficiency:** {format_stat(stats.get('OE', 'N/A'))} (Rank: #{format_stat(stats.get('RankOE', 'N/A'), 0)})
 - **Defensive Efficiency:** {format_stat(stats.get('DE', 'N/A'))} (Rank: #{format_stat(stats.get('RankDE', 'N/A'), 0)})
 - **Tempo:** {format_stat(stats.get('Tempo', 'N/A'))} (Rank: #{format_stat(stats.get('RankTempo', 'N/A'), 0)})
-
-### Offensive Profile
-
-Offensively, the four-factor profile suggests a team that relies on efficient shooting ({format_stat(stats.get('eFG_Pct', 'N/A'))}%, #{format_stat(stats.get('RankeFG_Pct', 'N/A'), 0)}), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -245,27 +358,19 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 - **Free Throw Shooting:** {format_stat(stats.get('FTPct', 'N/A'))}% (Rank: #{format_stat(stats.get('RankFTPct', 'N/A'), 0)})
 - **3-Point Rate:** {format_stat(stats.get('F3GRate', 'N/A'))}% (Rank: #{format_stat(stats.get('RankF3GRate', 'N/A'), 0)})
 
-### Defensive Profile
+### Defensive Stats
 
-Defensively, they hold opponents to {format_stat(stats.get('DeFG_Pct', 'N/A'))}% effective FG (#{format_stat(stats.get('RankDeFG_Pct', 'N/A'), 0)}), force turnovers at a solid rate, and limit second-chance opportunities.
-
-**Opponent Shooting:**
-- **2-Point Defense:** {format_stat(stats.get('OppFG2Pct', 'N/A'))}% (Rank: #{format_stat(stats.get('RankOppFG2Pct', 'N/A'), 0)})
-- **3-Point Defense:** {format_stat(stats.get('OppFG3Pct', 'N/A'))}% (Rank: #{format_stat(stats.get('RankOppFG3Pct', 'N/A'), 0)})
+- **Opponent 2-Point Shooting:** {format_stat(stats.get('OppFG2Pct', 'N/A'))}% (Rank: #{format_stat(stats.get('RankOppFG2Pct', 'N/A'), 0)})
+- **Opponent 3-Point Shooting:** {format_stat(stats.get('OppFG3Pct', 'N/A'))}% (Rank: #{format_stat(stats.get('RankOppFG3Pct', 'N/A'), 0)})
 - **Block Percentage:** {format_stat(stats.get('BlockPct', 'N/A'))}% (Rank: #{format_stat(stats.get('RankBlockPct', 'N/A'), 0)})
 - **Steal Rate:** {format_stat(stats.get('StlRate', 'N/A'))}% (Rank: #{format_stat(stats.get('RankStlRate', 'N/A'), 0)})
 
-### Advanced Metrics
+### Team Metrics
 
 - **Assist Rate:** {format_stat(stats.get('ARate', 'N/A'))}% (Rank: #{format_stat(stats.get('RankARate', 'N/A'), 0)})
-- **Experience:** {format_stat(stats.get('Exp', 'N/A'))} (Rank: #{format_stat(stats.get('ExpRank', 'N/A'), 0)})
+- **Experience:** {format_stat(stats.get('Exp', 'N/A'))} years (Rank: #{format_stat(stats.get('ExpRank', 'N/A'), 0)})
 - **Bench Minutes:** {format_stat(stats.get('Bench', 'N/A'))}% (Rank: #{format_stat(stats.get('BenchRank', 'N/A'), 0)})
-- **Continuity:** {format_stat(stats.get('Continuity', 'N/A'))} (Rank: #{format_stat(stats.get('RankContinuity', 'N/A'), 0)})
-
-### Team Composition
-
 - **Average Height:** {format_stat(stats.get('AvgHgt', 'N/A'))}" (Rank: #{format_stat(stats.get('AvgHgtRank', 'N/A'), 0)})
-- **Height Efficiency:** {format_stat(stats.get('HgtEff', 'N/A'))} (Rank: #{format_stat(stats.get('HgtEffRank', 'N/A'), 0)})
 """
         return content
     
@@ -297,6 +402,9 @@ categories: [basketball, preview]
 </table>
 
 """
+    
+    # Add game narrative
+    post += generate_game_narrative(away_team, home_team, away_stats, home_stats)
     
     post += team_section(away_team, away_stats, is_away=True)
     post += "\n---\n"
