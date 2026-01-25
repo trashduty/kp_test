@@ -28,36 +28,36 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Texas A&M-CC Islanders -3.5</p>
-  <p><strong>Moneyline:</strong> UT Rio Grande Valley Vaqueros (+151) | Texas A&M-CC Islanders (-181)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Moneyline:</strong> UT Rio Grande Valley Vaqueros (+145) | Texas A&M-CC Islanders (-175)</p>
+  <p><strong>Total:</strong> 133.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Texas A&M-CC Islanders (16-4) hosts UT Rio Grande Valley Vaqueros (9-11) at Reed Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Texas A&M-CC Islanders favored by 3.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Texas A&M-CC Islanders (16-4) hosts UT Rio Grande Valley Vaqueros (9-11) at Reed Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Texas A&M-CC Islanders favored by 3.5 points, with the total sitting at 133.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Texas A&M-CC Islanders is viewed as the better team, but this isn't an overwhelming edge. UT Rio Grande Valley Vaqueros has a legitimate path to covering or winning outright with a solid performance. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.5-point spread indicates Texas A&M-CC Islanders is viewed as the better team, but this isn't an overwhelming edge. UT Rio Grande Valley Vaqueros has a legitimate path to covering or winning outright with a solid performance. The total of 133.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
-**UT Rio Grande Valley Vaqueros** brings an offensive efficiency of 103.75 (ranked #251 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.2% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
-Meanwhile, **Texas A&M-CC Islanders** counters with 122.02 offensive efficiency (#17). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 37.3%, giving them spacing and shot creation. 
+**UT Rio Grande Valley Vaqueros** bring an offensive efficiency of 103.75 (ranked #251 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.2% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
+Meanwhile, **Texas A&M-CC Islanders** counter with 122.02 offensive efficiency (#17). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 37.3%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-UT Rio Grande Valley Vaqueros operates at a 67.5 tempo (#248), while Texas A&M-CC Islanders plays at 73.8 (#15). Texas A&M-CC Islanders likes to push the pace, while UT Rio Grande Valley Vaqueros wants to control the clock. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 70.7) should create a standard flow. 
+UT Rio Grande Valley Vaqueros operate at a 67.5 tempo (#248), while Texas A&M-CC Islanders play at 73.8 (#15). Texas A&M-CC Islanders like to push the pace, while UT Rio Grande Valley Vaqueros want to control the clock. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 70.7) should create a standard flow. 
 
 #### The Interior Battle
-Inside the paint, UT Rio Grande Valley Vaqueros shoots 51.5% on two-pointers, while Texas A&M-CC Islanders converts at 57.0%. Texas A&M-CC Islanders has a clear edge in interior scoring efficiency. 
-Getting to the line matters too. UT Rio Grande Valley Vaqueros's free throw rate sits at 25.4, suggesting they're more perimeter-oriented or struggle to draw fouls. Texas A&M-CC Islanders checks in at 39.4, showing they also get to the stripe frequently. When they do get fouled, UT Rio Grande Valley Vaqueros converts 72.2% while Texas A&M-CC Islanders hits 74.8%. Both teams are comparable from the stripe. 
+Inside the paint, UT Rio Grande Valley Vaqueros shoot 51.5% on two-pointers, while Texas A&M-CC Islanders convert at 57.0%. Texas A&M-CC Islanders has a clear edge in interior scoring efficiency. 
+Getting to the line matters too. UT Rio Grande Valley Vaqueros's free throw rate sits at 25.4, suggesting they're more perimeter-oriented or struggle to draw fouls. Texas A&M-CC Islanders check in at 39.4, showing they also get to the stripe frequently. When they do get fouled, UT Rio Grande Valley Vaqueros convert 72.2% while Texas A&M-CC Islanders hit 74.8%. Both teams are comparable from the stripe. 
 
 #### X-Factors & Intangibles
-Playing at home, Texas A&M-CC Islanders gets the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—UT Rio Grande Valley Vaqueros is simply the superior team on paper. 
+Playing at home, Texas A&M-CC Islanders get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—UT Rio Grande Valley Vaqueros is simply the superior team on paper. 
 From a coaching perspective, Kahil Fennell leads UT Rio Grande Valley Vaqueros while Bucky McMillan guides Texas A&M-CC Islanders. Experience and game planning will be critical in what promises to be a tactical chess match. 
 Defensively, Texas A&M-CC Islanders (#69 defensive efficiency) will look to clamp down on UT Rio Grande Valley Vaqueros (#124 defensively). 
 
 #### The Betting Angle
 Small spreads like 3.5 create interesting dynamics. I'm looking at whether Texas A&M-CC Islanders can actually separate, or if this stays inside one possession. 
-Regarding the total of nan: The total seems fairly priced. I'd need to see where sharp money moves it. 
+Regarding the total of 133.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
 
 The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
 
@@ -70,7 +70,7 @@ This looks like a mismatch on paper with Texas A&M-CC Islanders significantly hi
 
 Texas A&M-CC Islanders features a elite offense (ranked #17) that should find success against UT Rio Grande Valley Vaqueros's defensive unit (ranked #124). 
 
-**Pace of Play:** Texas A&M-CC Islanders likes to push the pace, while UT Rio Grande Valley Vaqueros prefers a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
+**Pace of Play:** Texas A&M-CC Islanders like to push the pace, while UT Rio Grande Valley Vaqueros prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
 
 
 ## UT Rio Grande Valley Vaqueros
@@ -154,8 +154,8 @@ All that being said, here's how our model prices this game.
 - **Texas A&M-CC Islanders**: -3.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **UT Rio Grande Valley Vaqueros Win Probability**: 37.3%
-- **Texas A&M-CC Islanders Win Probability**: 62.7%
+- **UT Rio Grande Valley Vaqueros Win Probability**: 37.7%
+- **Texas A&M-CC Islanders Win Probability**: 62.3%
 
 ### Total
 - **Predicted Total**: 133.5

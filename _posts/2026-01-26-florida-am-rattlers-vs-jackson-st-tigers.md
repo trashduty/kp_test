@@ -40,18 +40,18 @@ Florida A&M Rattlers (8-9) enters hostile territory as they take on Jackson St T
 The 6.5-point spread indicates Florida A&M Rattlers is viewed as the better team, but this isn't an overwhelming edge. Jackson St Tigers has a legitimate path to covering or winning outright with a solid performance. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Florida A&M Rattlers** brings an offensive efficiency of 95.85 (ranked #342 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.3% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Jackson St Tigers** counters with 92.22 offensive efficiency (#359). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 30.9%, forcing them to grind in the half court. 
+**Florida A&M Rattlers** bring an offensive efficiency of 95.85 (ranked #342 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.3% three-point shooting is serviceable but won't scare anyone. 
+Meanwhile, **Jackson St Tigers** counter with 92.22 offensive efficiency (#359). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 30.9%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
-Florida A&M Rattlers operates at a 71.1 tempo (#79), while Jackson St Tigers plays at 72.4 (#37). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.8) should create a standard flow. 
+Florida A&M Rattlers operate at a 71.1 tempo (#79), while Jackson St Tigers play at 72.4 (#37). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.8) should create a standard flow. 
 
 #### The Interior Battle
-Inside the paint, Florida A&M Rattlers shoots 49.8% on two-pointers, while Jackson St Tigers converts at 44.6%. Florida A&M Rattlers has a clear edge in interior scoring efficiency. 
-Getting to the line matters too. Florida A&M Rattlers's free throw rate sits at 36.7, indicating they're aggressive attacking the rim and drawing contact. Jackson St Tigers checks in at 30.5, meaning they don't manufacture easy points at the line. When they do get fouled, Florida A&M Rattlers converts 66.3% while Jackson St Tigers hits 77.1%. Jackson St Tigers's edge at the charity stripe matters in close finishes. 
+Inside the paint, Florida A&M Rattlers shoot 49.8% on two-pointers, while Jackson St Tigers convert at 44.6%. Florida A&M Rattlers has a clear edge in interior scoring efficiency. 
+Getting to the line matters too. Florida A&M Rattlers's free throw rate sits at 36.7, indicating they're aggressive attacking the rim and drawing contact. Jackson St Tigers check in at 30.5, meaning they don't manufacture easy points at the line. When they do get fouled, Florida A&M Rattlers convert 66.3% while Jackson St Tigers hit 77.1%. Jackson St Tigers's edge at the charity stripe matters in close finishes. 
 
 #### X-Factors & Intangibles
-Playing at home, Jackson St Tigers gets the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Florida A&M Rattlers. 
+Playing at home, Jackson St Tigers get the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Florida A&M Rattlers. 
 From a coaching perspective, Charlie Ward leads Florida A&M Rattlers while Mo Williams guides Jackson St Tigers. Experience and game planning will be critical in what promises to be a tactical chess match. 
 Defensively, Florida A&M Rattlers (#203 defensive efficiency) should have success against Jackson St Tigers's weaker defense (#358). 
 
@@ -156,9 +156,9 @@ All that being said, here's how our model prices this game.
 - **Jackson St Tigers Win Probability**: 28.0%
 
 ### Total
-- **Predicted Total**: 148.5
-- **Edge For Covering The Over**: -3.5%
-- **Edge For Covering The Under**: -1.2%
+- **Predicted Total**: 149.0
+- **Edge For Covering The Over**: -4.3%
+- **Edge For Covering The Under**: -0.4%
 
 ---
 

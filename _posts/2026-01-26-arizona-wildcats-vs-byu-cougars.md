@@ -18,7 +18,7 @@ categories: [basketball, preview]
       VS
     </td>
     <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/byu.svg" alt="BYU Cougars logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
+      <img src="https://via.placeholder.com/150" alt="BYU Cougars logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
       <p><strong>BYU Cougars</strong></p>
     </td>
   </tr>
@@ -40,18 +40,18 @@ When Arizona Wildcats (20-0) travels to face BYU Cougars (17-2) at Marriott Cent
 The 3.0-point spread indicates Arizona Wildcats is viewed as the better team, but this isn't an overwhelming edge. BYU Cougars has a legitimate path to covering or winning outright with a solid performance. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
-**Arizona Wildcats** brings an offensive efficiency of 122.67 (ranked #13 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.4% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
-Meanwhile, **BYU Cougars** counters with 122.18 offensive efficiency (#15). This offense can match anyone bucket-for-bucket. At 35.4% from three, they have adequate spacing but must pick their spots. 
+**Arizona Wildcats** bring an offensive efficiency of 122.67 (ranked #13 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.4% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
+Meanwhile, **BYU Cougars** counter with 122.18 offensive efficiency (#15). This offense can match anyone bucket-for-bucket. At 35.4% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Arizona Wildcats operates at a 73.0 tempo (#25), while BYU Cougars plays at 71.1 (#83). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. With an average tempo around 72.1, expect plenty of possessions and transition opportunities. 
+Arizona Wildcats operate at a 73.0 tempo (#25), while BYU Cougars play at 71.1 (#83). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. With an average tempo around 72.1, expect plenty of possessions and transition opportunities. 
 
 #### The Interior Battle
-Inside the paint, Arizona Wildcats shoots 57.3% on two-pointers, while BYU Cougars converts at 58.3%. Both teams are evenly matched in paint efficiency. 
-Getting to the line matters too. Arizona Wildcats's free throw rate sits at 42.9, indicating they're aggressive attacking the rim and drawing contact. BYU Cougars checks in at 36.5, showing they also get to the stripe frequently. When they do get fouled, Arizona Wildcats converts 73.4% while BYU Cougars hits 75.6%. Both teams are comparable from the stripe. 
+Inside the paint, Arizona Wildcats shoot 57.3% on two-pointers, while BYU Cougars convert at 58.3%. Both teams are evenly matched in paint efficiency. 
+Getting to the line matters too. Arizona Wildcats's free throw rate sits at 42.9, indicating they're aggressive attacking the rim and drawing contact. BYU Cougars check in at 36.5, showing they also get to the stripe frequently. When they do get fouled, Arizona Wildcats convert 73.4% while BYU Cougars hit 75.6%. Both teams are comparable from the stripe. 
 
 #### X-Factors & Intangibles
-Playing at home, BYU Cougars gets the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
+Playing at home, BYU Cougars get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Tommy Lloyd leads Arizona Wildcats while Kevin Young guides BYU Cougars. Experience and game planning will be critical in what promises to be a tactical chess match. 
 Defensively, both teams rank similarly on the defensive end (#3 and #31), so offense may determine the outcome. 
 
@@ -70,7 +70,7 @@ On paper, Arizona Wildcats holds the advantage as the higher-ranked team, but BY
 
 Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
 
-**X-Factor:** Arizona Wildcats can light it up from three-point range (36.4%), but BYU Cougars defends the arc exceptionally well, holding opponents to just 31.8%. This battle could determine the outcome. 
+**X-Factor:** Arizona Wildcats can light it up from three-point range (36.4%), but BYU Cougars defend the arc exceptionally well, holding opponents to just 31.8%. This battle could determine the outcome. 
 
 
 ## Arizona Wildcats

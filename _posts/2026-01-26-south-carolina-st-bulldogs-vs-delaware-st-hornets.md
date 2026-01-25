@@ -40,18 +40,18 @@ When South Carolina St Bulldogs (4-16) travels to face Delaware St Hornets (5-14
 A spread under a field goal suggests the books see this as essentially a coin flip. Delaware St Hornets's 0.0-point cushion reflects home court advantage more than a talent disparity. The total of 134.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
-**South Carolina St Bulldogs** brings an offensive efficiency of 93.79 (ranked #349 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.2% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Delaware St Hornets** counters with 86.38 offensive efficiency (#364). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 29.8%, forcing them to grind in the half court. 
+**South Carolina St Bulldogs** bring an offensive efficiency of 93.79 (ranked #349 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.2% three-point shooting is serviceable but won't scare anyone. 
+Meanwhile, **Delaware St Hornets** counter with 86.38 offensive efficiency (#364). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 29.8%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
-South Carolina St Bulldogs operates at a 70.8 tempo (#93), while Delaware St Hornets plays at 67.6 (#234). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.2) should create a standard flow. 
+South Carolina St Bulldogs operate at a 70.8 tempo (#93), while Delaware St Hornets play at 67.6 (#234). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.2) should create a standard flow. 
 
 #### The Interior Battle
-Inside the paint, South Carolina St Bulldogs shoots 43.0% on two-pointers, while Delaware St Hornets converts at 40.9%. Both teams are evenly matched in paint efficiency. 
-Getting to the line matters too. South Carolina St Bulldogs's free throw rate sits at 38.0, indicating they're aggressive attacking the rim and drawing contact. Delaware St Hornets checks in at 30.7, meaning they don't manufacture easy points at the line. When they do get fouled, South Carolina St Bulldogs converts 63.0% while Delaware St Hornets hits 67.2%. Both teams are comparable from the stripe. 
+Inside the paint, South Carolina St Bulldogs shoot 43.0% on two-pointers, while Delaware St Hornets convert at 40.9%. Both teams are evenly matched in paint efficiency. 
+Getting to the line matters too. South Carolina St Bulldogs's free throw rate sits at 38.0, indicating they're aggressive attacking the rim and drawing contact. Delaware St Hornets check in at 30.7, meaning they don't manufacture easy points at the line. When they do get fouled, South Carolina St Bulldogs convert 63.0% while Delaware St Hornets hit 67.2%. Both teams are comparable from the stripe. 
 
 #### X-Factors & Intangibles
-Playing at home, Delaware St Hornets gets the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
+Playing at home, Delaware St Hornets get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Erik Martin leads South Carolina St Bulldogs while Stan Waterman guides Delaware St Hornets. Experience and game planning will be critical in what promises to be a tactical chess match. 
 Defensively, Delaware St Hornets (#167 defensive efficiency) will look to clamp down on South Carolina St Bulldogs (#357 defensively). 
 

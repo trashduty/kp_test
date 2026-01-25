@@ -28,36 +28,36 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Central Connecticut St Blue Devils -2.5</p>
-  <p><strong>Moneyline:</strong> Central Connecticut St Blue Devils (-138) | Stonehill Skyhawks (+115)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Moneyline:</strong> Central Connecticut St Blue Devils (-142) | Stonehill Skyhawks (+120)</p>
+  <p><strong>Total:</strong> 135.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Central Connecticut St Blue Devils (10-8) enters hostile territory as they take on Stonehill Skyhawks (6-14) at Merkert Gymnasium in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Central Connecticut St Blue Devils favored by 2.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Central Connecticut St Blue Devils (10-8) enters hostile territory as they take on Stonehill Skyhawks (6-14) at Merkert Gymnasium in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Central Connecticut St Blue Devils favored by 2.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under a field goal suggests the books see this as essentially a coin flip. Central Connecticut St Blue Devils's 2.5-point cushion reflects home court advantage more than a talent disparity. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under a field goal suggests the books see this as essentially a coin flip. Central Connecticut St Blue Devils's 2.5-point cushion reflects home court advantage more than a talent disparity. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Central Connecticut St Blue Devils** brings an offensive efficiency of 108.61 (ranked #170 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.9% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
-Meanwhile, **Stonehill Skyhawks** counters with 93.27 offensive efficiency (#354). Points have been hard to come by, making every possession critical. At 33.6% from three, they have adequate spacing but must pick their spots. 
+**Central Connecticut St Blue Devils** bring an offensive efficiency of 108.61 (ranked #170 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.9% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
+Meanwhile, **Stonehill Skyhawks** counter with 93.27 offensive efficiency (#354). Points have been hard to come by, making every possession critical. At 33.6% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Central Connecticut St Blue Devils operates at a 65.8 tempo (#319), while Stonehill Skyhawks plays at 67.0 (#271). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.4) means fewer possessions, making each one more valuable. 
+Central Connecticut St Blue Devils operate at a 65.8 tempo (#319), while Stonehill Skyhawks play at 67.0 (#271). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.4) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
-Inside the paint, Central Connecticut St Blue Devils shoots 49.3% on two-pointers, while Stonehill Skyhawks converts at 45.8%. Both teams are evenly matched in paint efficiency. 
-Getting to the line matters too. Central Connecticut St Blue Devils's free throw rate sits at 31.9, suggesting they're more perimeter-oriented or struggle to draw fouls. Stonehill Skyhawks checks in at 24.2, meaning they don't manufacture easy points at the line. When they do get fouled, Central Connecticut St Blue Devils converts 74.8% while Stonehill Skyhawks hits 67.5%. Central Connecticut St Blue Devils's superior free throw shooting could be the difference in a tight game. 
+Inside the paint, Central Connecticut St Blue Devils shoot 49.3% on two-pointers, while Stonehill Skyhawks convert at 45.8%. Both teams are evenly matched in paint efficiency. 
+Getting to the line matters too. Central Connecticut St Blue Devils's free throw rate sits at 31.9, suggesting they're more perimeter-oriented or struggle to draw fouls. Stonehill Skyhawks check in at 24.2, meaning they don't manufacture easy points at the line. When they do get fouled, Central Connecticut St Blue Devils convert 74.8% while Stonehill Skyhawks hit 67.5%. Central Connecticut St Blue Devils's superior free throw shooting could be the difference in a tight game. 
 
 #### X-Factors & Intangibles
-Playing at home, Stonehill Skyhawks gets the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Central Connecticut St Blue Devils. 
+Playing at home, Stonehill Skyhawks get the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Central Connecticut St Blue Devils. 
 From a coaching perspective, Patrick Sellers leads Central Connecticut St Blue Devils while Chris Kraus guides Stonehill Skyhawks. Experience and game planning will be critical in what promises to be a tactical chess match. 
 Defensively, Stonehill Skyhawks (#135 defensive efficiency) will look to clamp down on Central Connecticut St Blue Devils (#273 defensively). 
 
 #### The Betting Angle
 Small spreads like 2.5 create interesting dynamics. I'm looking at whether Central Connecticut St Blue Devils can actually separate, or if this stays inside one possession. 
-Regarding the total of nan: The total seems fairly priced. I'd need to see where sharp money moves it. 
+Regarding the total of 135.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
 
 The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
 
@@ -148,17 +148,17 @@ Stonehill Skyhawks comes in ranked #341 overall by KenPom.
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Central Connecticut St Blue Devils**: -1.5, Edge For Covering Spread: -5.9%
+- **Central Connecticut St Blue Devils**: -1.5, Edge For Covering Spread: -4.0%
 - **Stonehill Skyhawks**: 1.5, Edge For Covering Spread: -1.1%
 
 ### Moneyline
-- **Central Connecticut St Blue Devils Win Probability**: 54.4%
-- **Stonehill Skyhawks Win Probability**: 45.6%
+- **Central Connecticut St Blue Devils Win Probability**: 54.7%
+- **Stonehill Skyhawks Win Probability**: 45.3%
 
 ### Total
-- **Predicted Total**: 136.5
+- **Predicted Total**: 136.0
 - **Edge For Covering The Over**: -1.1%
-- **Edge For Covering The Under**: -3.8%
+- **Edge For Covering The Under**: -3.7%
 
 ---
 

@@ -40,18 +40,18 @@ Norfolk St Spartans (10-12) enters hostile territory as they take on Morgan St B
 A spread around 9.5 points tells us Norfolk St Spartans has clear advantages, but games aren't played on paper. Morgan St Bears needs to punch above their weight class to keep this competitive. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
-**Norfolk St Spartans** brings an offensive efficiency of 99.81 (ranked #311 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.9% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Morgan St Bears** counters with 96.89 offensive efficiency (#334). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 29.3%, forcing them to grind in the half court. 
+**Norfolk St Spartans** bring an offensive efficiency of 99.81 (ranked #311 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.9% three-point shooting is serviceable but won't scare anyone. 
+Meanwhile, **Morgan St Bears** counter with 96.89 offensive efficiency (#334). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 29.3%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
-Norfolk St Spartans operates at a 68.8 tempo (#198), while Morgan St Bears plays at 69.9 (#125). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.4) should create a standard flow. 
+Norfolk St Spartans operate at a 68.8 tempo (#198), while Morgan St Bears play at 69.9 (#125). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.4) should create a standard flow. 
 
 #### The Interior Battle
-Inside the paint, Norfolk St Spartans shoots 46.5% on two-pointers, while Morgan St Bears converts at 44.5%. Both teams are evenly matched in paint efficiency. 
-Getting to the line matters too. Norfolk St Spartans's free throw rate sits at 44.3, indicating they're aggressive attacking the rim and drawing contact. Morgan St Bears checks in at 40.8, showing they also get to the stripe frequently. When they do get fouled, Norfolk St Spartans converts 65.9% while Morgan St Bears hits 73.0%. Morgan St Bears's edge at the charity stripe matters in close finishes. 
+Inside the paint, Norfolk St Spartans shoot 46.5% on two-pointers, while Morgan St Bears convert at 44.5%. Both teams are evenly matched in paint efficiency. 
+Getting to the line matters too. Norfolk St Spartans's free throw rate sits at 44.3, indicating they're aggressive attacking the rim and drawing contact. Morgan St Bears check in at 40.8, showing they also get to the stripe frequently. When they do get fouled, Norfolk St Spartans convert 65.9% while Morgan St Bears hit 73.0%. Morgan St Bears's edge at the charity stripe matters in close finishes. 
 
 #### X-Factors & Intangibles
-Playing at home, Morgan St Bears gets the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Norfolk St Spartans. 
+Playing at home, Morgan St Bears get the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Norfolk St Spartans. 
 From a coaching perspective, Robert Jones leads Norfolk St Spartans while Kevin Broadus guides Morgan St Bears. Experience and game planning will be critical in what promises to be a tactical chess match. 
 Defensively, Norfolk St Spartans (#164 defensive efficiency) should have success against Morgan St Bears's weaker defense (#333). 
 
@@ -156,9 +156,9 @@ All that being said, here's how our model prices this game.
 - **Morgan St Bears Win Probability**: N/A
 
 ### Total
-- **Predicted Total**: 152.5
-- **Edge For Covering The Over**: -3.5%
-- **Edge For Covering The Under**: -1.3%
+- **Predicted Total**: 153.0
+- **Edge For Covering The Over**: -4.3%
+- **Edge For Covering The Under**: -0.5%
 
 ---
 
