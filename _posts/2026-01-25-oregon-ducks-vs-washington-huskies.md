@@ -113,12 +113,12 @@ Washington Huskies comes in ranked #49 overall by KenPom. The three-point shot h
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oregon Ducks**: 8.5, Edge For Covering Spread: -3.2%
-- **Washington Huskies**: -8.5, Edge For Covering Spread: -1.6%
+- **Oregon Ducks**: 8.0, Edge For Covering Spread: -1.5%
+- **Washington Huskies**: -8.0, Edge For Covering Spread: -3.3%
 
 ### Moneyline
-- **Oregon Ducks Win Probability**: 21.8%
-- **Washington Huskies Win Probability**: 78.2%
+- **Oregon Ducks Win Probability**: 23.6%
+- **Washington Huskies Win Probability**: 76.4%
 
 ### Total
 - **Predicted Total**: 144.5
