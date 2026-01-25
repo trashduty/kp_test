@@ -11,7 +11,7 @@ categories: [basketball, preview]
 <table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
   <tr>
     <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://via.placeholder.com/150" alt="Jackson St Tigers logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
+      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/jackson-st.svg" alt="Jackson St Tigers logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
       <p><strong>Jackson St Tigers</strong></p>
     </td>
     <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
@@ -27,37 +27,37 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Florida A&M Rattlers -6.5</p>
-  <p><strong>Moneyline:</strong> Jackson St Tigers (+250) | Florida A&M Rattlers (-315)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Florida A&M Rattlers -5.5</p>
+  <p><strong>Moneyline:</strong> Jackson St Tigers (+222) | Florida A&M Rattlers (-272)</p>
+  <p><strong>Total:</strong> 149.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Florida A&M Rattlers (8-9) hosts Jackson St Tigers (5-14) at Lawson Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Florida A&M Rattlers favored by 6.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Florida A&M Rattlers (8-9) hosts Jackson St Tigers (5-14) at Lawson Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Florida A&M Rattlers favored by 5.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates Florida A&M Rattlers is viewed as the better team, but this isn't an overwhelming edge. Jackson St Tigers has a legitimate path to covering or winning outright with a solid performance. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 5.5-point spread indicates Florida A&M Rattlers is viewed as the better team, but this isn't an overwhelming edge. Jackson St Tigers has a legitimate path to covering or winning outright with a solid performance. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Jackson St Tigers** brings an offensive efficiency of 92.22 (ranked #359 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.9% from three, they can't rely on the arc. Expect a paint-focused attack. 
-Meanwhile, **Florida A&M Rattlers** counters with 95.85 offensive efficiency (#342). Points have been hard to come by, making every possession critical. At 32.3% from three, they have adequate spacing but must pick their spots. 
+**Jackson St Tigers** bring an offensive efficiency of 92.22 (ranked #359 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.9% from three, they can't rely on the arc. Expect a paint-focused attack. 
+Meanwhile, **Florida A&M Rattlers** counter with 95.85 offensive efficiency (#342). Points have been hard to come by, making every possession critical. At 32.3% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Jackson St Tigers operates at a 72.4 tempo (#37), while Florida A&M Rattlers plays at 71.1 (#79). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.8) should create a standard flow. 
+Jackson St Tigers operate at a 72.4 tempo (#37), while Florida A&M Rattlers play at 71.1 (#79). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.8) should create a standard flow. 
 
 #### The Interior Battle
-Inside the paint, Jackson St Tigers shoots 44.6% on two-pointers, while Florida A&M Rattlers converts at 49.8%. Florida A&M Rattlers has a clear edge in interior scoring efficiency. 
-Getting to the line matters too. Jackson St Tigers's free throw rate sits at 30.5, suggesting they're more perimeter-oriented or struggle to draw fouls. Florida A&M Rattlers checks in at 36.7, showing they also get to the stripe frequently. When they do get fouled, Jackson St Tigers converts 77.1% while Florida A&M Rattlers hits 66.3%. Jackson St Tigers's superior free throw shooting could be the difference in a tight game. 
+Inside the paint, Jackson St Tigers shoot 44.6% on two-pointers, while Florida A&M Rattlers convert at 49.8%. Florida A&M Rattlers has a clear edge in interior scoring efficiency. 
+Getting to the line matters too. Jackson St Tigers's free throw rate sits at 30.5, suggesting they're more perimeter-oriented or struggle to draw fouls. Florida A&M Rattlers check in at 36.7, showing they also get to the stripe frequently. When they do get fouled, Jackson St Tigers convert 77.1% while Florida A&M Rattlers hit 66.3%. Jackson St Tigers's superior free throw shooting could be the difference in a tight game. 
 
 #### X-Factors & Intangibles
-Playing at home, Florida A&M Rattlers gets the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Jackson St Tigers is simply the superior team on paper. 
+Playing at home, Florida A&M Rattlers get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Jackson St Tigers is simply the superior team on paper. 
 From a coaching perspective, Mo Williams leads Jackson St Tigers while Charlie Ward guides Florida A&M Rattlers. Experience and game planning will be critical in what promises to be a tactical chess match. 
 Defensively, Florida A&M Rattlers (#203 defensive efficiency) will look to clamp down on Jackson St Tigers (#358 defensively). 
 
 #### The Betting Angle
-The 6.5-point spread asks: can Jackson St Tigers keep it within striking distance? 
-Regarding the total of nan: The total seems fairly priced. I'd need to see where sharp money moves it. 
+The 5.5-point spread asks: can Jackson St Tigers keep it within striking distance? 
+Regarding the total of 149.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
 
 The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
 
@@ -148,17 +148,17 @@ Florida A&M Rattlers comes in ranked #307 overall by KenPom.
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Jackson St Tigers**: 7.0, Edge For Covering Spread: -4.0%
-- **Florida A&M Rattlers**: -7.0, Edge For Covering Spread: -0.8%
+- **Jackson St Tigers**: 6.5, Edge For Covering Spread: -5.1%
+- **Florida A&M Rattlers**: -6.5, Edge For Covering Spread: 0.4%
 
 ### Moneyline
-- **Jackson St Tigers Win Probability**: 27.9%
-- **Florida A&M Rattlers Win Probability**: 72.1%
+- **Jackson St Tigers Win Probability**: 29.1%
+- **Florida A&M Rattlers Win Probability**: 70.9%
 
 ### Total
-- **Predicted Total**: 148.5
-- **Edge For Covering The Over**: -3.5%
-- **Edge For Covering The Under**: -1.2%
+- **Predicted Total**: 149.0
+- **Edge For Covering The Over**: -4.3%
+- **Edge For Covering The Under**: -0.4%
 
 ---
 

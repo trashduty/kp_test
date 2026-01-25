@@ -156,9 +156,9 @@ All that being said, here's how our model prices this game.
 - **Stonehill Skyhawks Win Probability**: 45.3%
 
 ### Total
-- **Predicted Total**: 136.0
-- **Edge For Covering The Over**: -1.1%
-- **Edge For Covering The Under**: -3.7%
+- **Predicted Total**: 135.5
+- **Edge For Covering The Over**: -1.9%
+- **Edge For Covering The Under**: -2.8%
 
 ---
 
