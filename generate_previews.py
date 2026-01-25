@@ -119,17 +119,17 @@ def generate_predictions_section(away_team, home_team, away_predictions, home_pr
     
     # Extract prediction values
     away_spread = format_stat(away_predictions.get('Predicted Outcome', 'N/A'), 1)
-    away_spread_prob = format_percentage(away_predictions.get('Spread Cover Probability', 'N/A'))
+    away_spread_edge = format_percentage(away_predictions.get('Edge For Covering Spread', 'N/A'))
     home_spread = format_stat(home_predictions.get('Predicted Outcome', 'N/A'), 1)
-    home_spread_prob = format_percentage(home_predictions.get('Spread Cover Probability', 'N/A'))
+    home_spread_edge = format_percentage(home_predictions.get('Edge For Covering Spread', 'N/A'))
     
     away_ml_prob = format_percentage(away_predictions.get('Moneyline Win Probability', 'N/A'))
     home_ml_prob = format_percentage(home_predictions.get('Moneyline Win Probability', 'N/A'))
     
     # For total, we can use either team's row (should be the same)
     predicted_total = format_stat(away_predictions.get('average_total', 'N/A'), 1)
-    over_prob = format_percentage(away_predictions.get('Over Cover Probability', 'N/A'))
-    under_prob = format_percentage(away_predictions.get('Under Cover Probability', 'N/A'))
+    over_edge = format_percentage(away_predictions.get('Over Total Edge', 'N/A'))
+    under_edge = format_percentage(away_predictions.get('Under Total Edge', 'N/A'))
     
     predictions = f"""
 ---
@@ -139,8 +139,8 @@ def generate_predictions_section(away_team, home_team, away_predictions, home_pr
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **{away_team}**: {away_spread}, Cover Probability: {away_spread_prob}
-- **{home_team}**: {home_spread}, Cover Probability: {home_spread_prob}
+- **{away_team}**: {away_spread}, Cover Probability: {away_spread_edge}
+- **{home_team}**: {home_spread}, Cover Probability: {home_spread_edge}
 
 ### Moneyline
 - **{away_team} Win Probability**: {away_ml_prob}
@@ -148,8 +148,12 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: {predicted_total}
-- **Over Cover Probability**: {over_prob}
-- **Under Cover Probability**: {under_prob}
+- **Over Cover Probability**: {over_edge}
+- **Under Cover Probability**: {under_edge}
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
 """
     
     return predictions
