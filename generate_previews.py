@@ -18,10 +18,13 @@ import re
 
 def download_csv(url):
     """Download CSV file from URL and return as pandas DataFrame."""
-    response = requests.get(url)
-    response.raise_for_status()
-    from io import StringIO
-    return pd.read_csv(StringIO(response.text))
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        from io import StringIO
+        return pd.read_csv(StringIO(response.text))
+    except requests.RequestException as e:
+        raise Exception(f"Failed to download {url}: {e}")
 
 
 def normalize_team_name(team_name):
@@ -74,8 +77,9 @@ def parse_game_time(game_time_str):
     try:
         # Remove timezone
         time_str = game_time_str.replace(' ET', '')
-        # Parse the date and time
-        dt = datetime.strptime(f"2026 {time_str}", "%Y %b %d %I:%M%p")
+        # Parse the date and time using current year
+        current_year = datetime.now().year
+        dt = datetime.strptime(f"{current_year} {time_str}", "%Y %b %d %I:%M%p")
         return dt
     except Exception as e:
         print(f"Error parsing time '{game_time_str}': {e}")
@@ -301,6 +305,9 @@ def main():
         away_slug = slugify(away_team)
         home_slug = slugify(home_team)
         filename = f"{target_date.strftime('%Y-%m-%d')}-{away_slug}-vs-{home_slug}.md"
+        
+        # Ensure _posts directory exists
+        os.makedirs('_posts', exist_ok=True)
         filepath = os.path.join('_posts', filename)
         
         # Write post to file
