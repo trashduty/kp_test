@@ -173,7 +173,7 @@ def generate_post_content(away_team, home_team, away_stats, home_stats, away_pre
 
 ### Offensive Profile
 
-Offensively, the four-factor profile suggests a team that relies on efficient shooting ({format_stat(stats.get('eFG_Pct', 'N/A'))}%, #{format_stat(stats.get('RankeFG_Pct', 'N/A'), 0)}), ball security [...]
+Offensively, the four-factor profile suggests a team that relies on efficient shooting ({format_stat(stats.get('eFG_Pct', 'N/A'))}%, #{format_stat(stats.get('RankeFG_Pct', 'N/A'), 0)}), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -184,7 +184,7 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 
 ### Defensive Profile
 
-Defensively, they hold opponents to {format_stat(stats.get('DeFG_Pct', 'N/A'))}% effective FG (#{format_stat(stats.get('RankDeFG_Pct', 'N/A'), 0)}), force turnovers at a {format_stat(stats.get('DTO_Pc[...]
+Defensively, they hold opponents to {format_stat(stats.get('DeFG_Pct', 'N/A'))}% effective FG (#{format_stat(stats.get('RankDeFG_Pct', 'N/A'), 0)}), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
 - **2-Point Defense:** {format_stat(stats.get('DefFg2', 'N/A'))}% (Rank: #{format_stat(stats.get('RankDefFg2', 'N/A'), 0)})
