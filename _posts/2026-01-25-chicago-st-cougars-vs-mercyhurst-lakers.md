@@ -28,7 +28,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Mercyhurst Lakers -8.5</p>
-  <p><strong>Moneyline:</strong> Chicago St Cougars (+372) | Mercyhurst Lakers (-492)</p>
+  <p><strong>Moneyline:</strong> Chicago St Cougars (+382) | Mercyhurst Lakers (-510)</p>
   <p><strong>Total:</strong> 130.5</p>
 </div>
 
@@ -117,13 +117,13 @@ All that being said, here's how our model prices this game.
 - **Mercyhurst Lakers**: -9.0, Edge For Covering Spread: -2.1%
 
 ### Moneyline
-- **Chicago St Cougars Win Probability**: 19.1%
-- **Mercyhurst Lakers Win Probability**: 80.9%
+- **Chicago St Cougars Win Probability**: 18.9%
+- **Mercyhurst Lakers Win Probability**: 81.1%
 
 ### Total
 - **Predicted Total**: 131.5
-- **Edge For Covering Over**: -1.6%
-- **Edge For Covering Under**: -3.1%
+- **Edge For Covering Over**: -1.4%
+- **Edge For Covering Under**: -3.4%
 
 ---
 
