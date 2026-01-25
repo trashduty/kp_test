@@ -27,17 +27,17 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Washington Huskies -8.5</p>
-  <p><strong>Moneyline:</strong> Oregon Ducks (+325) | Washington Huskies (-427)</p>
+  <p><strong>Spread:</strong> Washington Huskies -7.5</p>
+  <p><strong>Moneyline:</strong> Oregon Ducks (+310) | Washington Huskies (-401)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-#49 Washington Huskies hosts #85 Oregon Ducks in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Washington Huskies favored by 8.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+#49 Washington Huskies hosts #85 Oregon Ducks in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Washington Huskies favored by 7.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Washington Huskies has clear advantages, but games aren't played on paper. Oregon Ducks needs to punch above their weight class to keep this competitive. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 7.5 points tells us Washington Huskies has clear advantages, but games aren't played on paper. Oregon Ducks needs to punch above their weight class to keep this competitive. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Oregon Ducks** brings an offensive efficiency of 108.31 (ranked #176 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.5% three-point shooting is serviceable but won't scare anyone. 
@@ -55,7 +55,7 @@ Playing at home, Washington Huskies gets the crowd advantage and familiar surrou
 Defensively, Washington Huskies (#128 defensive efficiency) will look to clamp down on Oregon Ducks (#221 defensively). 
 
 #### The Betting Angle
-The 8.5-point spread asks: can Oregon Ducks keep it within striking distance? 
+The 7.5-point spread asks: can Oregon Ducks keep it within striking distance? 
 Regarding the total of 147.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
 
 The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
@@ -142,17 +142,17 @@ Washington Huskies comes in ranked #49 overall by KenPom. The three-point shot h
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oregon Ducks**: 8.0, Cover Probability: -1.5%
-- **Washington Huskies**: -8.0, Cover Probability: -3.3%
+- **Oregon Ducks**: 7.5, Cover Probability: -0.5%
+- **Washington Huskies**: -7.5, Cover Probability: -4.1%
 
 ### Moneyline
-- **Oregon Ducks Win Probability**: 23.8%
-- **Washington Huskies Win Probability**: 76.2%
+- **Oregon Ducks Win Probability**: 24.2%
+- **Washington Huskies Win Probability**: 75.8%
 
 ### Total
-- **Predicted Total**: 144.5
-- **Over Cover Probability**: 0.3%
-- **Under Cover Probability**: -5.0%
+- **Predicted Total**: 144.0
+- **Over Cover Probability**: -0.6%
+- **Under Cover Probability**: -4.1%
 
 ---
 
