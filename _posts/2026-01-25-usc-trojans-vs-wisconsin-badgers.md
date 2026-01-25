@@ -101,8 +101,8 @@ Defensively, they hold opponents to 50.3% effective FG (#142), force turnovers a
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **USC Trojans**: 7.5, Edge For Covering Spread: -1.8%
-- **Wisconsin Badgers**: -7.5, Edge For Covering Spread: -2.9%
+- **USC Trojans**: 7.5, Cover Probability: -1.8%
+- **Wisconsin Badgers**: -7.5, Cover Probability: -2.9%
 
 ### Moneyline
 - **USC Trojans Win Probability**: 25.2%
@@ -110,8 +110,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 159.5
-- **Edge For Covering Over**: -2.4%
-- **Edge For Covering Under**: -2.4%
+- **Over Cover Probability**: -2.4%
+- **Under Cover Probability**: -2.4%
 
 ---
 

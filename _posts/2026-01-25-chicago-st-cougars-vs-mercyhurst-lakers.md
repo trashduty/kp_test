@@ -101,17 +101,17 @@ Defensively, they hold opponents to 50.1% effective FG (#127), force turnovers a
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Chicago St Cougars**: 9.5, Edge For Covering Spread: -2.4%
-- **Mercyhurst Lakers**: -9.5, Edge For Covering Spread: -2.4%
+- **Chicago St Cougars**: 9.5, Cover Probability: -1.2%
+- **Mercyhurst Lakers**: -9.5, Cover Probability: -3.5%
 
 ### Moneyline
-- **Chicago St Cougars Win Probability**: 19.4%
-- **Mercyhurst Lakers Win Probability**: 80.6%
+- **Chicago St Cougars Win Probability**: 19.6%
+- **Mercyhurst Lakers Win Probability**: 80.4%
 
 ### Total
 - **Predicted Total**: 130.5
-- **Edge For Covering Over**: -0.8%
-- **Edge For Covering Under**: -3.9%
+- **Over Cover Probability**: -0.8%
+- **Under Cover Probability**: -3.9%
 
 ---
 

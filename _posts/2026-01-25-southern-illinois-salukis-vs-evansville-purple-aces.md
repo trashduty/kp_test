@@ -101,8 +101,8 @@ Defensively, they hold opponents to 53.3% effective FG (#263), force turnovers a
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Southern Illinois Salukis**: -4.0, Edge For Covering Spread: -2.4%
-- **Evansville Purple Aces**: 4.0, Edge For Covering Spread: -2.2%
+- **Southern Illinois Salukis**: -4.0, Cover Probability: -2.4%
+- **Evansville Purple Aces**: 4.0, Cover Probability: -2.2%
 
 ### Moneyline
 - **Southern Illinois Salukis Win Probability**: 63.1%
@@ -110,8 +110,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 141.5
-- **Edge For Covering Over**: -4.4%
-- **Edge For Covering Under**: -0.4%
+- **Over Cover Probability**: -4.4%
+- **Under Cover Probability**: -0.4%
 
 ---
 

@@ -12,43 +12,43 @@ categories: [basketball, preview]
 ## Away Team: Fort Wayne Mastodons
 
 ### Record & Ranking
-- **KenPom Rank:** #8
-- **Offensive Efficiency:** 124.8 (Rank: #4)
-- **Defensive Efficiency:** 103.1 (Rank: #78)
-- **Tempo:** 67.2 (Rank: #263)
+- **KenPom Rank:** #224
+- **Offensive Efficiency:** 108.0 (Rank: #180)
+- **Defensive Efficiency:** 113.6 (Rank: #287)
+- **Tempo:** 69.8 (Rank: #135)
 
 ### Offensive Profile
 
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (58.6%, #8), ball security, and getting to the line.
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (52.8%, #121), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 59.4% (Rank: #17)
-- **3-Point Shooting:** 38.3% (Rank: #21)
-- **Free Throw Shooting:** 75.0% (Rank: #87)
-- **3-Point Rate:** 38.4% (Rank: #207)
+- **2-Point Shooting:** 54.3% (Rank: #93)
+- **3-Point Shooting:** 34.1% (Rank: #173)
+- **Free Throw Shooting:** 71.4% (Rank: #208)
+- **3-Point Rate:** 47.7% (Rank: #28)
 
 ### Defensive Profile
 
-Defensively, they hold opponents to 50.2% effective FG (#134), force turnovers at a solid rate, and limit second-chance opportunities.
+Defensively, they hold opponents to 55.2% effective FG (#317), force turnovers at a solid rate, and limit second-chance opportunities.
 
 **Opponent Shooting:**
-- **2-Point Defense:** 51.6% (Rank: #188)
-- **3-Point Defense:** 32.3% (Rank: #107)
-- **Block Percentage:** 9.4% (Rank: #182)
-- **Steal Rate:** 0.1% (Rank: #242)
+- **2-Point Defense:** 53.8% (Rank: #257)
+- **3-Point Defense:** 38.1% (Rank: #348)
+- **Block Percentage:** 9.8% (Rank: #159)
+- **Steal Rate:** 0.1% (Rank: #41)
 
 ### Advanced Metrics
 
-- **Assist Rate:** 65.2% (Rank: #7)
-- **Experience:** 2.0 (Rank: #171)
-- **Bench Minutes:** 31.6% (Rank: #207)
-- **Continuity:** 0.6 (Rank: #7)
+- **Assist Rate:** 52.5% (Rank: #187)
+- **Experience:** 2.2 (Rank: #102)
+- **Bench Minutes:** 25.8% (Rank: #317)
+- **Continuity:** 0.3 (Rank: #143)
 
 ### Team Composition
 
-- **Average Height:** 77.8" (Rank: #108)
-- **Height Efficiency:** 2.0 (Rank: #13)
+- **Average Height:** 76.3" (Rank: #338)
+- **Height Efficiency:** -0.2 (Rank: #201)
 
 ---
 
@@ -101,8 +101,8 @@ Defensively, they hold opponents to 58.4% effective FG (#362), force turnovers a
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fort Wayne Mastodons**: -3.5, Edge For Covering Spread: -4.1%
-- **IUPUI Jaguars**: 3.5, Edge For Covering Spread: -0.5%
+- **Fort Wayne Mastodons**: -3.5, Cover Probability: -4.1%
+- **IUPUI Jaguars**: 3.5, Cover Probability: -0.5%
 
 ### Moneyline
 - **Fort Wayne Mastodons Win Probability**: 63.4%
@@ -110,8 +110,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 166.5
-- **Edge For Covering Over**: 0.7%
-- **Edge For Covering Under**: -5.5%
+- **Over Cover Probability**: 0.7%
+- **Under Cover Probability**: -5.5%
 
 ---
 

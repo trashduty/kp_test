@@ -101,17 +101,17 @@ Defensively, they hold opponents to 48.9% effective FG (#84), force turnovers at
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Atlantic Owls**: 5.0, Edge For Covering Spread: -2.4%
-- **South Florida Bulls**: -5.0, Edge For Covering Spread: -2.4%
+- **Florida Atlantic Owls**: 5.0, Cover Probability: -2.4%
+- **South Florida Bulls**: -5.0, Cover Probability: -2.4%
 
 ### Moneyline
-- **Florida Atlantic Owls Win Probability**: 31.6%
-- **South Florida Bulls Win Probability**: 68.4%
+- **Florida Atlantic Owls Win Probability**: 32.2%
+- **South Florida Bulls Win Probability**: 67.8%
 
 ### Total
 - **Predicted Total**: 166.0
-- **Edge For Covering Over**: -4.5%
-- **Edge For Covering Under**: -1.8%
+- **Over Cover Probability**: -4.5%
+- **Under Cover Probability**: -1.8%
 
 ---
 
