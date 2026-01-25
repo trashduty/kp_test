@@ -8,19 +8,21 @@ categories: [basketball, preview]
 # Florida Atlantic Owls vs South Florida Bulls
 ## Game Preview for January 25, 2026
 
-<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; margin: 20px 0;">
-  <div style="text-align: center; flex: 1;">
-    <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/fla-atlantic.svg" alt="Florida Atlantic Owls logo" style="width: 150px; height: 150px; object-fit: contain;">
-    <p><strong>Florida Atlantic Owls</strong></p>
-  </div>
-  <div style="text-align: center; font-size: 2em; font-weight: bold; flex: 0;">
-    VS
-  </div>
-  <div style="text-align: center; flex: 1;">
-    <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/south-fla.svg" alt="South Florida Bulls logo" style="width: 150px; height: 150px; object-fit: contain;">
-    <p><strong>South Florida Bulls</strong></p>
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+  <tr>
+    <td style="width: 45%; text-align: center; vertical-align: middle;">
+      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/fla-atlantic.svg" alt="Florida Atlantic Owls logo" style="width: 150px; height: 150px; object-fit: contain;">
+      <p><strong>Florida Atlantic Owls</strong></p>
+    </td>
+    <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
+      VS
+    </td>
+    <td style="width: 45%; text-align: center; vertical-align: middle;">
+      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/south-fla.svg" alt="South Florida Bulls logo" style="width: 150px; height: 150px; object-fit: contain;">
+      <p><strong>South Florida Bulls</strong></p>
+    </td>
+  </tr>
+</table>
 
 
 ## Away Team: Florida Atlantic Owls
@@ -115,8 +117,8 @@ Defensively, they hold opponents to 48.9% effective FG (#84), force turnovers at
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Atlantic Owls**: 5.0, Cover Probability: -2.4%
-- **South Florida Bulls**: -5.0, Cover Probability: -2.4%
+- **Florida Atlantic Owls**: 5.0, Cover Probability: -2.1%
+- **South Florida Bulls**: -5.0, Cover Probability: -2.7%
 
 ### Moneyline
 - **Florida Atlantic Owls Win Probability**: 32.2%
@@ -124,8 +126,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 166.0
-- **Over Cover Probability**: -4.5%
-- **Under Cover Probability**: -1.8%
+- **Over Cover Probability**: -3.4%
+- **Under Cover Probability**: -1.4%
 
 ---
 

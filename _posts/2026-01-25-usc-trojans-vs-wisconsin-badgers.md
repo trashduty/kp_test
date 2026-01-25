@@ -8,19 +8,21 @@ categories: [basketball, preview]
 # USC Trojans vs Wisconsin Badgers
 ## Game Preview for January 25, 2026
 
-<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; margin: 20px 0;">
-  <div style="text-align: center; flex: 1;">
-    <img src="https://via.placeholder.com/150" alt="USC Trojans logo" style="width: 150px; height: 150px; object-fit: contain;">
-    <p><strong>USC Trojans</strong></p>
-  </div>
-  <div style="text-align: center; font-size: 2em; font-weight: bold; flex: 0;">
-    VS
-  </div>
-  <div style="text-align: center; flex: 1;">
-    <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/wisconsin.svg" alt="Wisconsin Badgers logo" style="width: 150px; height: 150px; object-fit: contain;">
-    <p><strong>Wisconsin Badgers</strong></p>
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+  <tr>
+    <td style="width: 45%; text-align: center; vertical-align: middle;">
+      <img src="https://via.placeholder.com/150" alt="USC Trojans logo" style="width: 150px; height: 150px; object-fit: contain;">
+      <p><strong>USC Trojans</strong></p>
+    </td>
+    <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
+      VS
+    </td>
+    <td style="width: 45%; text-align: center; vertical-align: middle;">
+      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/wisconsin.svg" alt="Wisconsin Badgers logo" style="width: 150px; height: 150px; object-fit: contain;">
+      <p><strong>Wisconsin Badgers</strong></p>
+    </td>
+  </tr>
+</table>
 
 
 ## Away Team: USC Trojans
