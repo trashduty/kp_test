@@ -1,47 +1,42 @@
-name: Generate Game Previews
+name: Generate Game Previews Daily
 
 on:
   schedule:
-    # Run daily at 00:00 UTC
-    - cron: '0 0 * * *'
-  workflow_dispatch:  # Allow manual triggering
+    # Run at 8am EST (13:00 UTC) every day
+    - cron: '0 13 * * *'
+  workflow_dispatch:  # Allows manual trigger from GitHub UI
+  push:
+    branches:
+      - main
 
 jobs:
   generate-previews:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # Need write permission to commit and push
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+      uses: actions/checkout@v3
     
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v4
       with:
-        python-version: '3.x'
+        python-version: '3.11'
     
     - name: Install dependencies
       run: |
-        pip install pandas requests pytz
+        pip install pandas requests
     
-    - name: Run preview generation script
-      run: |
-        python generate_previews.py
+    - name: Run preview generator
+      run: python generate_previews.py
     
-    - name: Commit and push generated files
+    - name: Commit and push all generated files
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        # Create _posts directory if it doesn't exist
-        mkdir -p _posts
-        # Only add and commit if there are files to add
-        if [ -n "$(find _posts -maxdepth 1 -name '*.md' 2>/dev/null)" ]; then
-          git add _posts/
-          git diff --staged --quiet || git commit -m "Generate game previews for $(date +%Y-%m-%d)"
-          git push
-        else
-          echo "No preview files generated, skipping commit"
-        fi
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add _posts/
+        git add _html/
+        git add _seo/
+        git status
+        git diff --quiet && git diff --staged --quiet || git commit -m "Generated game previews for $(date +'%Y-%m-%d')"
+        git push
+      continue-on-error: true
