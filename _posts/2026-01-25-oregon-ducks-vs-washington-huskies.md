@@ -24,18 +24,24 @@ categories: [basketball, preview]
   </tr>
 </table>
 
+### Game Storylines
+
+On paper, Washington Huskies holds the advantage as the higher-ranked team, but Oregon Ducks could make this interesting if they play to their potential. 
+
+**Key Matchup: Washington Huskies's Offense vs Oregon Ducks's Defense**
+
+Washington Huskies features a solid offense (ranked #100) that should find success against Oregon Ducks's defensive unit (ranked #221). 
+
 
 ## Away Team: Oregon Ducks
+
+Oregon Ducks comes in ranked #85 overall by KenPom. 
 
 ### Record & Ranking
 - **KenPom Rank:** #85
 - **Offensive Efficiency:** 108.3 (Rank: #176)
 - **Defensive Efficiency:** 109.6 (Rank: #221)
 - **Tempo:** 67.6 (Rank: #233)
-
-### Offensive Profile
-
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (50.3%, #219), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -44,41 +50,31 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 - **Free Throw Shooting:** 69.9% (Rank: #257)
 - **3-Point Rate:** 43.8% (Rank: #97)
 
-### Defensive Profile
+### Defensive Stats
 
-Defensively, they hold opponents to 50.9% effective FG (#166), force turnovers at a solid rate, and limit second-chance opportunities.
-
-**Opponent Shooting:**
-- **2-Point Defense:** 51.3% (Rank: #172)
-- **3-Point Defense:** 33.5% (Rank: #159)
+- **Opponent 2-Point Shooting:** 51.3% (Rank: #172)
+- **Opponent 3-Point Shooting:** 33.5% (Rank: #159)
 - **Block Percentage:** 12.7% (Rank: #47)
 - **Steal Rate:** 0.1% (Rank: #232)
 
-### Advanced Metrics
+### Team Metrics
 
 - **Assist Rate:** 58.1% (Rank: #61)
-- **Experience:** 2.3 (Rank: #64)
+- **Experience:** 2.3 years (Rank: #64)
 - **Bench Minutes:** 38.6% (Rank: #43)
-- **Continuity:** 0.3 (Rank: #122)
-
-### Team Composition
-
 - **Average Height:** 78.8" (Rank: #18)
-- **Height Efficiency:** 1.9 (Rank: #15)
 
 ---
 
 ## Home Team: Washington Huskies
+
+Washington Huskies comes in ranked #49 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
 
 ### Record & Ranking
 - **KenPom Rank:** #49
 - **Offensive Efficiency:** 112.9 (Rank: #100)
 - **Defensive Efficiency:** 105.8 (Rank: #128)
 - **Tempo:** 69.5 (Rank: #154)
-
-### Offensive Profile
-
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (50.3%, #222), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -87,27 +83,19 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 - **Free Throw Shooting:** 77.6% (Rank: #24)
 - **3-Point Rate:** 34.0% (Rank: #303)
 
-### Defensive Profile
+### Defensive Stats
 
-Defensively, they hold opponents to 49.6% effective FG (#102), force turnovers at a solid rate, and limit second-chance opportunities.
-
-**Opponent Shooting:**
-- **2-Point Defense:** 50.4% (Rank: #131)
-- **3-Point Defense:** 32.1% (Rank: #95)
+- **Opponent 2-Point Shooting:** 50.4% (Rank: #131)
+- **Opponent 3-Point Shooting:** 32.1% (Rank: #95)
 - **Block Percentage:** 11.3% (Rank: #92)
 - **Steal Rate:** 0.1% (Rank: #282)
 
-### Advanced Metrics
+### Team Metrics
 
 - **Assist Rate:** 49.3% (Rank: #261)
-- **Experience:** 1.5 (Rank: #300)
+- **Experience:** 1.5 years (Rank: #300)
 - **Bench Minutes:** 31.8% (Rank: #203)
-- **Continuity:** 0.2 (Rank: #219)
-
-### Team Composition
-
 - **Average Height:** 77.7" (Rank: #124)
-- **Height Efficiency:** 1.5 (Rank: #25)
 
 
 ---

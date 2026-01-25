@@ -24,18 +24,24 @@ categories: [basketball, preview]
   </tr>
 </table>
 
+### Game Storylines
+
+On paper, Wisconsin Badgers holds the advantage as the higher-ranked team, but USC Trojans could make this interesting if they play to their potential. 
+
+**Key Matchup: The Battle in the Trenches**
+
+Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
+
 
 ## Away Team: USC Trojans
+
+USC Trojans comes in ranked #51 overall by KenPom. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.5% from three. 
 
 ### Record & Ranking
 - **KenPom Rank:** #51
 - **Offensive Efficiency:** 110.5 (Rank: #130)
 - **Defensive Efficiency:** 103.6 (Rank: #85)
 - **Tempo:** 71.9 (Rank: #48)
-
-### Offensive Profile
-
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (52.1%, #145), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -44,41 +50,31 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 - **Free Throw Shooting:** 71.7% (Rank: #200)
 - **3-Point Rate:** 34.8% (Rank: #283)
 
-### Defensive Profile
+### Defensive Stats
 
-Defensively, they hold opponents to 48.0% effective FG (#59), force turnovers at a solid rate, and limit second-chance opportunities.
-
-**Opponent Shooting:**
-- **2-Point Defense:** 50.7% (Rank: #139)
-- **3-Point Defense:** 29.5% (Rank: #18)
+- **Opponent 2-Point Shooting:** 50.7% (Rank: #139)
+- **Opponent 3-Point Shooting:** 29.5% (Rank: #18)
 - **Block Percentage:** 15.3% (Rank: #10)
 - **Steal Rate:** 0.1% (Rank: #273)
 
-### Advanced Metrics
+### Team Metrics
 
 - **Assist Rate:** 57.7% (Rank: #66)
-- **Experience:** 2.2 (Rank: #86)
+- **Experience:** 2.2 years (Rank: #86)
 - **Bench Minutes:** 38.3% (Rank: #52)
-- **Continuity:** 0.0 (Rank: #319)
-
-### Team Composition
-
 - **Average Height:** 79.2" (Rank: #4)
-- **Height Efficiency:** 2.3 (Rank: #11)
 
 ---
 
 ## Home Team: Wisconsin Badgers
+
+Wisconsin Badgers comes in ranked #39 overall by KenPom. 
 
 ### Record & Ranking
 - **KenPom Rank:** #39
 - **Offensive Efficiency:** 117.7 (Rank: #48)
 - **Defensive Efficiency:** 105.3 (Rank: #118)
 - **Tempo:** 71.3 (Rank: #67)
-
-### Offensive Profile
-
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (54.7%, #59), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -87,27 +83,19 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 - **Free Throw Shooting:** 77.3% (Rank: #29)
 - **3-Point Rate:** 50.7% (Rank: #13)
 
-### Defensive Profile
+### Defensive Stats
 
-Defensively, they hold opponents to 50.3% effective FG (#142), force turnovers at a solid rate, and limit second-chance opportunities.
-
-**Opponent Shooting:**
-- **2-Point Defense:** 51.4% (Rank: #177)
-- **3-Point Defense:** 32.5% (Rank: #111)
+- **Opponent 2-Point Shooting:** 51.4% (Rank: #177)
+- **Opponent 3-Point Shooting:** 32.5% (Rank: #111)
 - **Block Percentage:** 8.8% (Rank: #215)
 - **Steal Rate:** 0.1% (Rank: #281)
 
-### Advanced Metrics
+### Team Metrics
 
 - **Assist Rate:** 58.4% (Rank: #55)
-- **Experience:** 1.8 (Rank: #217)
+- **Experience:** 1.8 years (Rank: #217)
 - **Bench Minutes:** 32.2% (Rank: #191)
-- **Continuity:** 0.3 (Rank: #119)
-
-### Team Composition
-
 - **Average Height:** 79.0" (Rank: #10)
-- **Height Efficiency:** 2.3 (Rank: #10)
 
 
 ---

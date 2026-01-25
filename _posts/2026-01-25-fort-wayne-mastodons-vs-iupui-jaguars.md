@@ -24,18 +24,26 @@ categories: [basketball, preview]
   </tr>
 </table>
 
+### Game Storylines
+
+This looks like a mismatch on paper with Fort Wayne Mastodons significantly higher in the rankings, but as they say, that's why they play the games. IUPUI Jaguars will need their best performance of the season to pull off the upset. 
+
+**Key Matchup: Fort Wayne Mastodons's Offense vs IUPUI Jaguars's Defense**
+
+Fort Wayne Mastodons brings a middle-of-the-pack offense (ranked #180) that could exploit IUPUI Jaguars's defensive vulnerabilities (ranked #349). 
+
+**Pace of Play:** IUPUI Jaguars likes to push the pace, while Fort Wayne Mastodons prefers a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
+
 
 ## Away Team: Fort Wayne Mastodons
+
+Fort Wayne Mastodons comes in ranked #224 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **KenPom Rank:** #224
 - **Offensive Efficiency:** 108.0 (Rank: #180)
 - **Defensive Efficiency:** 113.6 (Rank: #287)
 - **Tempo:** 69.8 (Rank: #135)
-
-### Offensive Profile
-
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (52.8%, #121), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -44,41 +52,31 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 - **Free Throw Shooting:** 71.4% (Rank: #208)
 - **3-Point Rate:** 47.7% (Rank: #28)
 
-### Defensive Profile
+### Defensive Stats
 
-Defensively, they hold opponents to 55.2% effective FG (#317), force turnovers at a solid rate, and limit second-chance opportunities.
-
-**Opponent Shooting:**
-- **2-Point Defense:** 53.8% (Rank: #257)
-- **3-Point Defense:** 38.1% (Rank: #348)
+- **Opponent 2-Point Shooting:** 53.8% (Rank: #257)
+- **Opponent 3-Point Shooting:** 38.1% (Rank: #348)
 - **Block Percentage:** 9.8% (Rank: #159)
 - **Steal Rate:** 0.1% (Rank: #41)
 
-### Advanced Metrics
+### Team Metrics
 
 - **Assist Rate:** 52.5% (Rank: #187)
-- **Experience:** 2.2 (Rank: #102)
+- **Experience:** 2.2 years (Rank: #102)
 - **Bench Minutes:** 25.8% (Rank: #317)
-- **Continuity:** 0.3 (Rank: #143)
-
-### Team Composition
-
 - **Average Height:** 76.3" (Rank: #338)
-- **Height Efficiency:** -0.2 (Rank: #201)
 
 ---
 
 ## Home Team: IUPUI Jaguars
+
+IUPUI Jaguars comes in ranked #316 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **KenPom Rank:** #316
 - **Offensive Efficiency:** 107.4 (Rank: #187)
 - **Defensive Efficiency:** 119.2 (Rank: #349)
 - **Tempo:** 76.1 (Rank: #3)
-
-### Offensive Profile
-
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (51.7%, #161), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -87,27 +85,19 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 - **Free Throw Shooting:** 71.4% (Rank: #209)
 - **3-Point Rate:** 43.4% (Rank: #111)
 
-### Defensive Profile
+### Defensive Stats
 
-Defensively, they hold opponents to 58.4% effective FG (#362), force turnovers at a solid rate, and limit second-chance opportunities.
-
-**Opponent Shooting:**
-- **2-Point Defense:** 58.3% (Rank: #348)
-- **3-Point Defense:** 38.9% (Rank: #359)
+- **Opponent 2-Point Shooting:** 58.3% (Rank: #348)
+- **Opponent 3-Point Shooting:** 38.9% (Rank: #359)
 - **Block Percentage:** 7.7% (Rank: #279)
 - **Steal Rate:** 0.1% (Rank: #75)
 
-### Advanced Metrics
+### Team Metrics
 
 - **Assist Rate:** 61.4% (Rank: #23)
-- **Experience:** 1.6 (Rank: #269)
+- **Experience:** 1.6 years (Rank: #269)
 - **Bench Minutes:** 32.6% (Rank: #180)
-- **Continuity:** 0.0 (Rank: #341)
-
-### Team Composition
-
 - **Average Height:** 76.4" (Rank: #326)
-- **Height Efficiency:** -1.6 (Rank: #350)
 
 
 ---

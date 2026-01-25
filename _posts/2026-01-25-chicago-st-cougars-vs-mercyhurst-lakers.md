@@ -24,18 +24,24 @@ categories: [basketball, preview]
   </tr>
 </table>
 
+### Game Storylines
+
+This looks like a mismatch on paper with Mercyhurst Lakers significantly higher in the rankings, but as they say, that's why they play the games. Chicago St Cougars will need their best performance of the season to pull off the upset. 
+
+**Key Matchup: The Battle in the Trenches**
+
+Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
+
 
 ## Away Team: Chicago St Cougars
+
+Chicago St Cougars comes in ranked #359 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **KenPom Rank:** #359
 - **Offensive Efficiency:** 94.1 (Rank: #347)
 - **Defensive Efficiency:** 119.4 (Rank: #350)
 - **Tempo:** 67.7 (Rank: #230)
-
-### Offensive Profile
-
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (43.6%, #360), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -44,41 +50,31 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 - **Free Throw Shooting:** 76.1% (Rank: #60)
 - **3-Point Rate:** 28.3% (Rank: #359)
 
-### Defensive Profile
+### Defensive Stats
 
-Defensively, they hold opponents to 57.7% effective FG (#355), force turnovers at a solid rate, and limit second-chance opportunities.
-
-**Opponent Shooting:**
-- **2-Point Defense:** 63.2% (Rank: #365)
-- **3-Point Defense:** 35.3% (Rank: #252)
+- **Opponent 2-Point Shooting:** 63.2% (Rank: #365)
+- **Opponent 3-Point Shooting:** 35.3% (Rank: #252)
 - **Block Percentage:** 4.6% (Rank: #357)
 - **Steal Rate:** 0.1% (Rank: #32)
 
-### Advanced Metrics
+### Team Metrics
 
 - **Assist Rate:** 44.4% (Rank: #338)
-- **Experience:** 2.5 (Rank: #37)
+- **Experience:** 2.5 years (Rank: #37)
 - **Bench Minutes:** 41.6% (Rank: #21)
-- **Continuity:** 0.1 (Rank: #303)
-
-### Team Composition
-
 - **Average Height:** 75.7" (Rank: #360)
-- **Height Efficiency:** -1.8 (Rank: #356)
 
 ---
 
 ## Home Team: Mercyhurst Lakers
+
+Mercyhurst Lakers comes in ranked #296 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
 
 ### Record & Ranking
 - **KenPom Rank:** #296
 - **Offensive Efficiency:** 99.7 (Rank: #314)
 - **Defensive Efficiency:** 105.4 (Rank: #121)
 - **Tempo:** 64.0 (Rank: #359)
-
-### Offensive Profile
-
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (48.4%, #286), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -87,27 +83,19 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 - **Free Throw Shooting:** 70.1% (Rank: #251)
 - **3-Point Rate:** 29.9% (Rank: #349)
 
-### Defensive Profile
+### Defensive Stats
 
-Defensively, they hold opponents to 50.1% effective FG (#127), force turnovers at a solid rate, and limit second-chance opportunities.
-
-**Opponent Shooting:**
-- **2-Point Defense:** 50.2% (Rank: #123)
-- **3-Point Defense:** 33.2% (Rank: #144)
+- **Opponent 2-Point Shooting:** 50.2% (Rank: #123)
+- **Opponent 3-Point Shooting:** 33.2% (Rank: #144)
 - **Block Percentage:** 12.4% (Rank: #59)
 - **Steal Rate:** 0.1% (Rank: #57)
 
-### Advanced Metrics
+### Team Metrics
 
 - **Assist Rate:** 54.3% (Rank: #141)
-- **Experience:** 1.9 (Rank: #201)
+- **Experience:** 1.9 years (Rank: #201)
 - **Bench Minutes:** 31.3% (Rank: #217)
-- **Continuity:** 0.4 (Rank: #51)
-
-### Team Composition
-
 - **Average Height:** 75.0" (Rank: #365)
-- **Height Efficiency:** -2.5 (Rank: #364)
 
 
 ---

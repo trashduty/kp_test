@@ -24,18 +24,24 @@ categories: [basketball, preview]
   </tr>
 </table>
 
+### Game Storylines
+
+This looks like a mismatch on paper with Southern Illinois Salukis significantly higher in the rankings, but as they say, that's why they play the games. Evansville Purple Aces will need their best performance of the season to pull off the upset. 
+
+**Key Matchup: The Battle in the Trenches**
+
+Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
+
 
 ## Away Team: Southern Illinois Salukis
+
+Southern Illinois Salukis comes in ranked #136 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
 
 ### Record & Ranking
 - **KenPom Rank:** #136
 - **Offensive Efficiency:** 103.8 (Rank: #248)
 - **Defensive Efficiency:** 103.5 (Rank: #83)
 - **Tempo:** 70.8 (Rank: #91)
-
-### Offensive Profile
-
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (50.0%, #231), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -44,41 +50,31 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 - **Free Throw Shooting:** 67.0% (Rank: #338)
 - **3-Point Rate:** 28.1% (Rank: #360)
 
-### Defensive Profile
+### Defensive Stats
 
-Defensively, they hold opponents to 49.6% effective FG (#105), force turnovers at a solid rate, and limit second-chance opportunities.
-
-**Opponent Shooting:**
-- **2-Point Defense:** 51.5% (Rank: #181)
-- **3-Point Defense:** 31.3% (Rank: #69)
+- **Opponent 2-Point Shooting:** 51.5% (Rank: #181)
+- **Opponent 3-Point Shooting:** 31.3% (Rank: #69)
 - **Block Percentage:** 9.4% (Rank: #180)
 - **Steal Rate:** 0.1% (Rank: #100)
 
-### Advanced Metrics
+### Team Metrics
 
 - **Assist Rate:** 48.8% (Rank: #275)
-- **Experience:** 1.8 (Rank: #215)
+- **Experience:** 1.8 years (Rank: #215)
 - **Bench Minutes:** 38.2% (Rank: #54)
-- **Continuity:** 0.4 (Rank: #55)
-
-### Team Composition
-
 - **Average Height:** 77.3" (Rank: #189)
-- **Height Efficiency:** 0.3 (Rank: #135)
 
 ---
 
 ## Home Team: Evansville Purple Aces
+
+Evansville Purple Aces comes in ranked #288 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
 
 ### Record & Ranking
 - **KenPom Rank:** #288
 - **Offensive Efficiency:** 94.0 (Rank: #348)
 - **Defensive Efficiency:** 110.5 (Rank: #237)
 - **Tempo:** 68.9 (Rank: #191)
-
-### Offensive Profile
-
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (47.4%, #318), ball security, and getting to the line.
 
 ### Shooting Breakdown
 
@@ -87,27 +83,19 @@ Offensively, the four-factor profile suggests a team that relies on efficient sh
 - **Free Throw Shooting:** 72.4% (Rank: #176)
 - **3-Point Rate:** 41.2% (Rank: #147)
 
-### Defensive Profile
+### Defensive Stats
 
-Defensively, they hold opponents to 53.3% effective FG (#263), force turnovers at a solid rate, and limit second-chance opportunities.
-
-**Opponent Shooting:**
-- **2-Point Defense:** 53.2% (Rank: #242)
-- **3-Point Defense:** 35.7% (Rank: #269)
+- **Opponent 2-Point Shooting:** 53.2% (Rank: #242)
+- **Opponent 3-Point Shooting:** 35.7% (Rank: #269)
 - **Block Percentage:** 10.7% (Rank: #113)
 - **Steal Rate:** 0.1% (Rank: #321)
 
-### Advanced Metrics
+### Team Metrics
 
 - **Assist Rate:** 55.8% (Rank: #97)
-- **Experience:** 1.8 (Rank: #223)
+- **Experience:** 1.8 years (Rank: #223)
 - **Bench Minutes:** 34.0% (Rank: #141)
-- **Continuity:** 0.3 (Rank: #157)
-
-### Team Composition
-
 - **Average Height:** 78.8" (Rank: #17)
-- **Height Efficiency:** 1.3 (Rank: #37)
 
 
 ---
