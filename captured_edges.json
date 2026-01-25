@@ -2258,5 +2258,17 @@
   "Evansville Purple Aces vs. Southern Illinois Salukis|Southern Illinois Salukis|moneyline": {
     "captured_at": "2026-01-25T00:33:46.459279+00:00",
     "edge_type": "moneyline"
+  },
+  "Ohio State Buckeyes vs. Penn State Nittany Lions|Ohio State Buckeyes|spread": {
+    "captured_at": "2026-01-25T21:06:39.202600+00:00",
+    "edge_type": "spread"
+  },
+  "South Carolina St Bulldogs vs. Delaware St Hornets|South Carolina St Bulldogs|spread": {
+    "captured_at": "2026-01-25T21:06:39.203712+00:00",
+    "edge_type": "spread"
+  },
+  "South Carolina St Bulldogs vs. Delaware St Hornets|South Carolina St Bulldogs|moneyline": {
+    "captured_at": "2026-01-25T21:06:39.203818+00:00",
+    "edge_type": "moneyline"
   }
 }
