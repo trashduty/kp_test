@@ -89,37 +89,44 @@ def find_team_in_kenpom(team_name, kenpom_df):
 
 
 def find_team_logo(team_name, logos_df):
-    """Find team logo URL from logos dataframe."""
-    # Try exact match on ncaa_name first
-    exact_match = logos_df[logos_df['ncaa_name'] == team_name]
-    if not exact_match.empty:
-        return exact_match.iloc[0]['logos']
-    
-    # Try exact match on name
-    exact_match = logos_df[logos_df['name'] == team_name]
-    if not exact_match.empty:
-        return exact_match.iloc[0]['logos']
-    
-    # Try exact match on reference_name
-    exact_match = logos_df[logos_df['reference_name'] == team_name]
-    if not exact_match.empty:
-        return exact_match.iloc[0]['logos']
-    
-    # Try normalized matching
+    """Find team logo URL from logos dataframe using only exact matches on ncaa_name."""
+    # Normalize the search term
     normalized = normalize_team_name(team_name)
-    for _, row in logos_df.iterrows():
-        for col in ['ncaa_name', 'name', 'reference_name']:
-            if normalize_team_name(str(row[col])) == normalized:
-                return row['logos']
     
-    # Try partial match as last resort
-    normalized_lower = normalized.lower()
+    # First priority: Try exact match on ncaa_name
+    exact_match = logos_df[logos_df['ncaa_name'].str.strip() == team_name.strip()]
+    if not exact_match.empty:
+        return exact_match.iloc[0]['logos']
+    
+    # Second priority: Try exact match on normalized ncaa_name
+    exact_match = logos_df[logos_df['ncaa_name'].str.strip() == normalized.strip()]
+    if not exact_match.empty:
+        return exact_match.iloc[0]['logos']
+    
+    # Third priority: Try case-insensitive exact match on ncaa_name
     for _, row in logos_df.iterrows():
-        for col in ['ncaa_name', 'name', 'reference_name']:
-            if normalized_lower in str(row[col]).lower() or str(row[col]).lower() in normalized_lower:
+        if str(row['ncaa_name']).strip().lower() == team_name.strip().lower():
+            return row['logos']
+    
+    # Fourth priority: Try case-insensitive exact match on normalized ncaa_name
+    for _, row in logos_df.iterrows():
+        if str(row['ncaa_name']).strip().lower() == normalized.strip().lower():
+            return row['logos']
+    
+    # Fifth priority: Try exact match on other columns (name, reference_name)
+    for col in ['name', 'reference_name']:
+        exact_match = logos_df[logos_df[col].str.strip() == normalized.strip()]
+        if not exact_match.empty:
+            return exact_match.iloc[0]['logos']
+    
+    # Sixth priority: Try case-insensitive exact match on other columns
+    for col in ['name', 'reference_name']:
+        for _, row in logos_df.iterrows():
+            if str(row[col]).strip().lower() == normalized.strip().lower():
                 return row['logos']
     
     # Return a default placeholder if no match found
+    print(f"  Warning: No logo found for '{team_name}' (normalized: '{normalized}')")
     return "https://via.placeholder.com/150"
 
 
@@ -262,7 +269,7 @@ Defensively, they hold opponents to {format_stat(stats.get('DeFG_Pct', 'N/A'))}%
 """
         return content
     
-    # Create the full post with logos
+    # Create the full post with logos displayed horizontally
     post = f"""---
 layout: post
 title: "{away_team} vs {home_team} - Game Preview"
@@ -273,15 +280,15 @@ categories: [basketball, preview]
 # {away_team} vs {home_team}
 ## Game Preview for {game_date.strftime('%B %d, %Y')}
 
-<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
-  <div style="text-align: center;">
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <div style="text-align: center; flex: 1;">
     <img src="{away_logo}" alt="{away_team} logo" style="width: 150px; height: 150px; object-fit: contain;">
     <p><strong>{away_team}</strong></p>
   </div>
-  <div style="text-align: center; font-size: 2em; font-weight: bold;">
+  <div style="text-align: center; font-size: 2em; font-weight: bold; flex: 0;">
     VS
   </div>
-  <div style="text-align: center;">
+  <div style="text-align: center; flex: 1;">
     <img src="{home_logo}" alt="{home_team} logo" style="width: 150px; height: 150px; object-fit: contain;">
     <p><strong>{home_team}</strong></p>
   </div>
