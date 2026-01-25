@@ -617,8 +617,8 @@ def generate_predictions_section(away_team, home_team, away_predictions, home_pr
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **{away_team}**: {away_spread}, Cover Probability: {away_spread_edge}
-- **{home_team}**: {home_spread}, Cover Probability: {home_spread_edge}
+- **{away_team}**: {away_spread}, Edge For Covering Spread: {away_spread_edge}
+- **{home_team}**: {home_spread}, Edge For Covering Spread: {home_spread_edge}
 
 ### Moneyline
 - **{away_team} Win Probability**: {away_ml_prob}
@@ -626,8 +626,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: {predicted_total}
-- **Over Cover Probability**: {over_edge}
-- **Under Cover Probability**: {under_edge}
+- **Edge For Covering Over**: {over_edge}
+- **Edge For Covering Under**: {under_edge}
 
 ---
 
