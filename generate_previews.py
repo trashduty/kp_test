@@ -547,7 +547,7 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
         away_de_rank = int(away_stats.get('RankDE', UNRANKED_DEFAULT))
         home_de_rank = int(home_stats.get('RankDE', UNRANKED_DEFAULT))
         away_tempo = float(away_stats.get('Tempo', 0))
-        home_tempo = float(away_stats.get('Tempo', 0))
+        home_tempo = float(home_stats.get('Tempo', 0))
         away_tempo_rank = int(away_stats.get('RankTempo', UNRANKED_DEFAULT))
         home_tempo_rank = int(home_stats.get('RankTempo', UNRANKED_DEFAULT))
         away_fg2_pct = float(away_stats.get('FG2Pct', 0))
