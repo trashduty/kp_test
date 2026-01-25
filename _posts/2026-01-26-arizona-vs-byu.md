@@ -12,45 +12,45 @@ excerpt: "Expert analysis and prediction for Arizona vs BYU. Get the latest stat
 
 ### Game Overview
 
-The Arizona (2) will travel to face the BYU (2) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The Arizona (1) will travel to face the BYU (14) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
 ### Arizona Analysis
 
 **Record & Ranking:**
-- **KenPom Rank:** #2
-- **Offensive Efficiency:** 122.30 (Rank: #15)
+- **KenPom Rank:** #1
+- **Offensive Efficiency:** 122.67 (Rank: #15)
 
 **Offensive Profile:**
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (56.4%, #27), ball security (15.9% turnover rate, #104), offensive rebounding (40.6%, #3), and getting to the line (43.1 FT Rate, #35).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (56.6%, #25), ball security (15.5% turnover rate, #80), offensive rebounding (40.0%, #5), and getting to the line (42.9 FT Rate, #39).
 
-The team's offensive efficiency ranks #15 nationally at 122.30 points per 100 possessions. They play at an adjusted tempo of 73.30 possessions per game (Rank: #23).
+The team's offensive efficiency ranks #15 nationally at 122.67 points per 100 possessions. They play at an adjusted tempo of 73.03 possessions per game (Rank: #25).
 
 **Shooting Breakdown:**
-- Three-point shooting: 35.9% (Rank: #68)
-- Two-point shooting: 57.3% (Rank: #41)
-- Free throw percentage: 73.5% (Rank: #139)
-- Three-point rate: 27.1% (Rank: #363)
+- Three-point shooting: 36.4% (Rank: #55)
+- Two-point shooting: 57.3% (Rank: #36)
+- Free throw percentage: 73.4% (Rank: #142)
+- Three-point rate: 27.6% (Rank: #362)
 
 **Defensive Profile:**
-Defensively, Arizona ranks #6 with a defensive efficiency of 92.99. They force opponents into:
-- Opponent eFG%: 45.2% (Rank: #10)
-- Opponent turnover rate: 18.4% (Rank: #109)
-- Defensive rebounding: 25.2% (Rank: #11)
-- Opponent free throw rate: 28.9 (Rank: #46)
+Defensively, Arizona ranks #3 with a defensive efficiency of 92.24. They force opponents into:
+- Opponent eFG%: 44.9% (Rank: #9)
+- Opponent turnover rate: 18.3% (Rank: #108)
+- Defensive rebounding: 24.8% (Rank: #11)
+- Opponent free throw rate: 27.8 (Rank: #30)
 
 **Advanced Metrics:**
-- Block percentage: 11.0% (Rank: #103)
-- Steal rate: 0.1 (Rank: #58)
-- Assist rate: 57.6% (Rank: #72)
+- Block percentage: 11.1% (Rank: #96)
+- Steal rate: 0.1 (Rank: #50)
+- Assist rate: 58.0% (Rank: #63)
 
 **Team Composition:**
-- Average height: 79.06" (Rank: #7)
-- Effective height: 1.44 (Rank: #28)
-- Experience: 1.55 (Rank: #155)
-- Bench strength: 30.42 (Rank: #241)
-- Continuity: 0.35 (Rank: #102)
+- Average height: 79.07" (Rank: #7)
+- Effective height: 1.44 (Rank: #29)
+- Experience: 1.54 (Rank: #156)
+- Bench strength: 30.40 (Rank: #240)
+- Continuity: 0.35 (Rank: #100)
 
 ---
 
@@ -58,37 +58,37 @@ Defensively, Arizona ranks #6 with a defensive efficiency of 92.99. They force o
 
 **Record & Ranking:**
 - **KenPom Rank:** #14
-- **Offensive Efficiency:** 121.14 (Rank: #22)
+- **Offensive Efficiency:** 122.18 (Rank: #17)
 
 **Offensive Profile:**
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (56.0%, #37), ball security (15.4% turnover rate, #76), offensive rebounding (35.7%, #49), and getting to the line (36.4 FT Rate, #163).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (56.2%, #33), ball security (15.3% turnover rate, #66), offensive rebounding (36.1%, #43), and getting to the line (36.5 FT Rate, #159).
 
-The team's offensive efficiency ranks #22 nationally at 121.14 points per 100 possessions. They play at an adjusted tempo of 71.43 possessions per game (Rank: #65).
+The team's offensive efficiency ranks #17 nationally at 122.18 points per 100 possessions. They play at an adjusted tempo of 71.07 possessions per game (Rank: #84).
 
 **Shooting Breakdown:**
-- Three-point shooting: 35.1% (Rank: #108)
-- Two-point shooting: 58.3% (Rank: #28)
-- Free throw percentage: 75.2% (Rank: #83)
-- Three-point rate: 40.5% (Rank: #165)
+- Three-point shooting: 35.4% (Rank: #97)
+- Two-point shooting: 58.3% (Rank: #26)
+- Free throw percentage: 75.6% (Rank: #72)
+- Three-point rate: 40.0% (Rank: #172)
 
 **Defensive Profile:**
-Defensively, BYU ranks #27 with a defensive efficiency of 97.62. They force opponents into:
-- Opponent eFG%: 46.9% (Rank: #35)
-- Opponent turnover rate: 17.9% (Rank: #128)
-- Defensive rebounding: 29.1% (Rank: #97)
-- Opponent free throw rate: 25.5 (Rank: #15)
+Defensively, BYU ranks #31 with a defensive efficiency of 98.84. They force opponents into:
+- Opponent eFG%: 47.4% (Rank: #44)
+- Opponent turnover rate: 17.5% (Rank: #154)
+- Defensive rebounding: 28.6% (Rank: #83)
+- Opponent free throw rate: 25.2 (Rank: #14)
 
 **Advanced Metrics:**
 - Block percentage: 13.3% (Rank: #32)
-- Steal rate: 0.1 (Rank: #33)
-- Assist rate: 49.5% (Rank: #253)
+- Steal rate: 0.1 (Rank: #39)
+- Assist rate: 49.7% (Rank: #253)
 
 **Team Composition:**
-- Average height: 78.06" (Rank: #81)
-- Effective height: 0.42 (Rank: #119)
-- Experience: 1.77 (Rank: #106)
-- Bench strength: 26.96 (Rank: #306)
-- Continuity: 0.31 (Rank: #122)
+- Average height: 78.16" (Rank: #69)
+- Effective height: 0.55 (Rank: #104)
+- Experience: 1.75 (Rank: #109)
+- Bench strength: 28.59 (Rank: #278)
+- Continuity: 0.31 (Rank: #125)
 
 ---
 
@@ -105,22 +105,22 @@ Our model predicts **Arizona** will win this matchup.
 ### Key Matchup Factors
 
 **Tempo Battle:**
-Arizona plays at a tempo of 73.30 possessions per game (Rank #23), while BYU operates at 71.43 (Rank #65). The team that can impose their preferred pace will have a significant advantage.
+Arizona plays at a tempo of 73.03 possessions per game (Rank #25), while BYU operates at 71.07 (Rank #84). The team that can impose their preferred pace will have a significant advantage.
 
 **Offensive Efficiency:**
-Arizona ranks #15 in adjusted offensive efficiency (122.30), compared to BYU's #22 ranking (121.14).
+Arizona ranks #15 in adjusted offensive efficiency (122.67), compared to BYU's #17 ranking (122.18).
 
 **Defensive Matchup:**
-Defensively, Arizona ranks #6 (92.99), while BYU ranks #27 (97.62).
+Defensively, Arizona ranks #3 (92.24), while BYU ranks #31 (98.84).
 
 **Three-Point Shooting:**
-Arizona shoots 35.9% from beyond the arc and attempts threes at a rate of 27.1%.  BYU  counters with 35.1% shooting and a 40.5% three-point rate.
+Arizona shoots 36.4% from beyond the arc and attempts threes at a rate of 27.6%. BYU counters with 35.4% shooting and a 40.0% three-point rate.
 
 **Rebounding:**
-Arizona grabs offensive rebounds at a 40.6% rate, while BYU secures 29.1% of available defensive rebounds.
+Arizona grabs offensive rebounds at a 40.0% rate, while BYU secures 28.6% of available defensive rebounds.
 
 **Ball Security:**
-Arizona turns the ball over on 15.9% of possessions, while BYU's defense forces turnovers at a 17.9% rate.
+Arizona turns the ball over on 15.5% of possessions, while BYU's defense forces turnovers at a 17.5% rate.
 
 ---
 

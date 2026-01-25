@@ -277,10 +277,16 @@ def parse_and_replace_placeholders(template, away_team, home_team, kenpom_stats_
     
     for i, part in enumerate(parts):
         if i == 0:
-            # Header section before any ###
+            # Header section before any ### (front matter and title)
             part = part.replace('Away Team', away_team)
             part = part.replace('Home Team', home_team)
             processed_parts.append(part)
+        elif 'Game Overview' in part:
+            # Game Overview section has both teams, so handle like comparison section
+            part = replace_comparison_section(
+                part, away_team, home_team, kenpom_stats_df, predictions_df
+            )
+            processed_parts.append('###' + part)
         elif 'Away Team Analysis' in part:
             # Process away team section
             part = replace_placeholders_for_team(
@@ -376,7 +382,9 @@ def replace_comparison_section(text, away_team, home_team, kenpom_stats_df, pred
                             parts[0] = parts[0].replace('Away Team', away_team)
                             
                             # Second part is about home team (add marker back)
-                            parts[1] = marker[1:] + ' ' + parts[1]  # Add back without the period/comma
+                            # marker[1:] removes the first character (period/comma)
+                            # lstrip() removes any leading whitespace
+                            parts[1] = marker[1:].lstrip() + parts[1]
                             parts[1] = replace_placeholders_for_team(
                                 parts[1], home_team, kenpom_stats_df, predictions_df,
                                 r'\["([^"]+)",\s*([^\]]+)\]'

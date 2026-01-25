@@ -12,44 +12,44 @@ excerpt: "Expert analysis and prediction for Louisville vs Duke. Get the latest 
 
 ### Game Overview
 
-The Louisville (16) will travel to face the Duke (16) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The Louisville (15) will travel to face the Duke (3) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
 ### Louisville Analysis
 
 **Record & Ranking:**
-- **KenPom Rank:** #16
-- **Offensive Efficiency:** 122.23 (Rank: #16)
+- **KenPom Rank:** #15
+- **Offensive Efficiency:** 122.10 (Rank: #18)
 
 **Offensive Profile:**
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (56.4%, #26), ball security (15.8% turnover rate, #98), offensive rebounding (34.9%, #60), and getting to the line (35.8 FT Rate, #179).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (56.5%, #30), ball security (16.0% turnover rate, #114), offensive rebounding (35.2%, #57), and getting to the line (34.9 FT Rate, #201).
 
-The team's offensive efficiency ranks #16 nationally at 122.23 points per 100 possessions. They play at an adjusted tempo of 71.94 possessions per game (Rank: #49).
+The team's offensive efficiency ranks #18 nationally at 122.10 points per 100 possessions. They play at an adjusted tempo of 71.89 possessions per game (Rank: #49).
 
 **Shooting Breakdown:**
-- Three-point shooting: 35.1% (Rank: #110)
-- Two-point shooting: 60.9% (Rank: #5)
-- Free throw percentage: 77.2% (Rank: #32)
-- Three-point rate: 54.1% (Rank: #1)
+- Three-point shooting: 35.3% (Rank: #101)
+- Two-point shooting: 60.5% (Rank: #6)
+- Free throw percentage: 77.2% (Rank: #31)
+- Three-point rate: 53.9% (Rank: #1)
 
 **Defensive Profile:**
-Defensively, Louisville ranks #19 with a defensive efficiency of 96.98. They force opponents into:
-- Opponent eFG%: 45.8% (Rank: #16)
-- Opponent turnover rate: 17.5% (Rank: #154)
-- Defensive rebounding: 26.4% (Rank: #27)
-- Opponent free throw rate: 35.9 (Rank: #190)
+Defensively, Louisville ranks #19 with a defensive efficiency of 97.14. They force opponents into:
+- Opponent eFG%: 46.2% (Rank: #20)
+- Opponent turnover rate: 17.6% (Rank: #149)
+- Defensive rebounding: 26.3% (Rank: #27)
+- Opponent free throw rate: 34.7 (Rank: #158)
 
 **Advanced Metrics:**
-- Block percentage: 9.6% (Rank: #167)
-- Steal rate: 0.1 (Rank: #140)
-- Assist rate: 60.9% (Rank: #26)
+- Block percentage: 9.5% (Rank: #176)
+- Steal rate: 0.1 (Rank: #133)
+- Assist rate: 60.5% (Rank: #28)
 
 **Team Composition:**
-- Average height: 78.44" (Rank: #42)
-- Effective height: 1.35 (Rank: #35)
-- Experience: 2.48 (Rank: #16)
-- Bench strength: 34.51 (Rank: #129)
+- Average height: 78.42" (Rank: #43)
+- Effective height: 1.33 (Rank: #36)
+- Experience: 2.48 (Rank: #17)
+- Bench strength: 34.30 (Rank: #134)
 - Continuity: 0.22 (Rank: #190)
 
 ---
@@ -58,36 +58,36 @@ Defensively, Louisville ranks #19 with a defensive efficiency of 96.98. They for
 
 **Record & Ranking:**
 - **KenPom Rank:** #3
-- **Offensive Efficiency:** 121.56 (Rank: #18)
+- **Offensive Efficiency:** 122.47 (Rank: #16)
 
 **Offensive Profile:**
-Offensively, the four-factor profile suggests a team that relies on efficient shooting (57.8%, #12), ball security (16.4% turnover rate, #134), offensive rebounding (36.7%, #34), and getting to the line (43.3 FT Rate, #32).
+Offensively, the four-factor profile suggests a team that relies on efficient shooting (57.7%, #14), ball security (16.3% turnover rate, #127), offensive rebounding (37.4%, #22), and getting to the line (43.1 FT Rate, #36).
 
-The team's offensive efficiency ranks #18 nationally at 121.56 points per 100 possessions. They play at an adjusted tempo of 70.21 possessions per game (Rank: #122).
+The team's offensive efficiency ranks #16 nationally at 122.47 points per 100 possessions. They play at an adjusted tempo of 69.93 possessions per game (Rank: #127).
 
 **Shooting Breakdown:**
-- Three-point shooting: 34.7% (Rank: #133)
-- Two-point shooting: 62.7% (Rank: #3)
-- Free throw percentage: 70.8% (Rank: #228)
-- Three-point rate: 46.0% (Rank: #43)
+- Three-point shooting: 34.4% (Rank: #161)
+- Two-point shooting: 62.8% (Rank: #3)
+- Free throw percentage: 71.7% (Rank: #199)
+- Three-point rate: 45.7% (Rank: #55)
 
 **Defensive Profile:**
-Defensively, Duke ranks #5 with a defensive efficiency of 92.76. They force opponents into:
-- Opponent eFG%: 45.8% (Rank: #15)
-- Opponent turnover rate: 20.0% (Rank: #41)
-- Defensive rebounding: 26.4% (Rank: #28)
+Defensively, Duke ranks #7 with a defensive efficiency of 93.49. They force opponents into:
+- Opponent eFG%: 46.2% (Rank: #17)
+- Opponent turnover rate: 19.7% (Rank: #50)
+- Defensive rebounding: 26.1% (Rank: #23)
 - Opponent free throw rate: 23.9 (Rank: #8)
 
 **Advanced Metrics:**
-- Block percentage: 12.5% (Rank: #58)
-- Steal rate: 0.1 (Rank: #37)
-- Assist rate: 60.3% (Rank: #30)
+- Block percentage: 12.2% (Rank: #65)
+- Steal rate: 0.1 (Rank: #35)
+- Assist rate: 59.8% (Rank: #37)
 
 **Team Composition:**
 - Average height: 79.37" (Rank: #2)
-- Effective height: 1.09 (Rank: #49)
-- Experience: 0.88 (Rank: #311)
-- Bench strength: 34.19 (Rank: #135)
+- Effective height: 1.08 (Rank: #51)
+- Experience: 0.88 (Rank: #310)
+- Bench strength: 34.46 (Rank: #132)
 - Continuity: 0.24 (Rank: #170)
 
 ---
@@ -105,22 +105,22 @@ Our model predicts **Duke** will win this matchup.
 ### Key Matchup Factors
 
 **Tempo Battle:**
-Louisville plays at a tempo of 71.94 possessions per game (Rank #49), while Duke operates at 70.21 (Rank #122). The team that can impose their preferred pace will have a significant advantage.
+Louisville plays at a tempo of 71.89 possessions per game (Rank #49), while Duke operates at 69.93 (Rank #127). The team that can impose their preferred pace will have a significant advantage.
 
 **Offensive Efficiency:**
-Louisville ranks #16 in adjusted offensive efficiency (122.23), compared to Duke's #18 ranking (121.56).
+Louisville ranks #18 in adjusted offensive efficiency (122.10), compared to Duke's #16 ranking (122.47).
 
 **Defensive Matchup:**
-Defensively, Louisville ranks #19 (96.98), while Duke ranks #5 (92.76).
+Defensively, Louisville ranks #19 (97.14), while Duke ranks #7 (93.49).
 
 **Three-Point Shooting:**
-Louisville shoots 35.1% from beyond the arc and attempts threes at a rate of 54.1%.  Duke  counters with 34.7% shooting and a 46.0% three-point rate.
+Louisville shoots 35.3% from beyond the arc and attempts threes at a rate of 53.9%. Duke counters with 34.4% shooting and a 45.7% three-point rate.
 
 **Rebounding:**
-Louisville grabs offensive rebounds at a 34.9% rate, while Duke secures 26.4% of available defensive rebounds.
+Louisville grabs offensive rebounds at a 35.2% rate, while Duke secures 26.1% of available defensive rebounds.
 
 **Ball Security:**
-Louisville turns the ball over on 15.8% of possessions, while Duke's defense forces turnovers at a 20.0% rate.
+Louisville turns the ball over on 16.0% of possessions, while Duke's defense forces turnovers at a 19.7% rate.
 
 ---
 
