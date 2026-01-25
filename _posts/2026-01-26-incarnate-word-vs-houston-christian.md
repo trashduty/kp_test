@@ -12,7 +12,7 @@ excerpt: "Expert analysis and prediction for Incarnate Word vs Houston Christian
 
 ### Game Overview
 
-The Incarnate Word (243) will travel to face the Houston Christian (243) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The Incarnate Word (243) will travel to face the Houston Christian (308) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
@@ -114,7 +114,7 @@ Incarnate Word ranks #229 in adjusted offensive efficiency (105.19), compared to
 Defensively, Incarnate Word ranks #261 (111.75), while Houston Christian ranks #326 (116.51).
 
 **Three-Point Shooting:**
-Incarnate Word shoots 34.4% from beyond the arc and attempts threes at a rate of 37.9%.  Houston Christian  counters with 34.4% shooting and a 37.8% three-point rate.
+Incarnate Word shoots 34.4% from beyond the arc and attempts threes at a rate of 37.9%. Houston Christian counters with 34.4% shooting and a 37.8% three-point rate.
 
 **Rebounding:**
 Incarnate Word grabs offensive rebounds at a 31.2% rate, while Houston Christian secures 31.4% of available defensive rebounds.

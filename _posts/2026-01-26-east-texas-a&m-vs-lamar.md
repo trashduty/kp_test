@@ -12,7 +12,7 @@ excerpt: "Expert analysis and prediction for East Texas A&M vs Lamar. Get the la
 
 ### Game Overview
 
-The East Texas A&M (284) will travel to face the Lamar (284) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The East Texas A&M (284) will travel to face the Lamar (220) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
@@ -114,7 +114,7 @@ East Texas A&M ranks #337 in adjusted offensive efficiency (96.61), compared to 
 Defensively, East Texas A&M ranks #232 (109.99), while Lamar ranks #150 (106.65).
 
 **Three-Point Shooting:**
-East Texas A&M shoots 31.5% from beyond the arc and attempts threes at a rate of 46.0%.  Lamar  counters with 33.9% shooting and a 34.6% three-point rate.
+East Texas A&M shoots 31.5% from beyond the arc and attempts threes at a rate of 46.0%. Lamar counters with 33.9% shooting and a 34.6% three-point rate.
 
 **Rebounding:**
 East Texas A&M grabs offensive rebounds at a 25.9% rate, while Lamar secures 29.6% of available defensive rebounds.

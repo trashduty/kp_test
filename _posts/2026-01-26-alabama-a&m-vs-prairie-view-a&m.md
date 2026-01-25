@@ -12,7 +12,7 @@ excerpt: "Expert analysis and prediction for Alabama A&M vs Prairie View A&M. Ge
 
 ### Game Overview
 
-The Alabama A&M (310) will travel to face the Prairie View A&M (310) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The Alabama A&M (310) will travel to face the Prairie View A&M (313) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
@@ -114,7 +114,7 @@ Alabama A&M ranks #285 in adjusted offensive efficiency (101.78), compared to Pr
 Defensively, Alabama A&M ranks #238 (110.47), while Prairie View A&M ranks #281 (113.12).
 
 **Three-Point Shooting:**
-Alabama A&M shoots 31.9% from beyond the arc and attempts threes at a rate of 35.1%.  Prairie View A&M  counters with 33.3% shooting and a 31.2% three-point rate.
+Alabama A&M shoots 31.9% from beyond the arc and attempts threes at a rate of 35.1%. Prairie View A&M counters with 33.3% shooting and a 31.2% three-point rate.
 
 **Rebounding:**
 Alabama A&M grabs offensive rebounds at a 27.3% rate, while Prairie View A&M secures 37.2% of available defensive rebounds.

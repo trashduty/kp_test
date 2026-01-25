@@ -12,7 +12,7 @@ excerpt: "Expert analysis and prediction for Alabama St. vs Texas Southern. Get 
 
 ### Game Overview
 
-The Alabama St. (295) will travel to face the Texas Southern (295) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The Alabama St. (295) will travel to face the Texas Southern (332) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
@@ -114,7 +114,7 @@ Alabama St. ranks #292 in adjusted offensive efficiency (101.33), compared to Te
 Defensively, Alabama St. ranks #289 (113.75), while Texas Southern ranks #341 (118.31).
 
 **Three-Point Shooting:**
-Alabama St. shoots 34.2% from beyond the arc and attempts threes at a rate of 37.5%.  Texas Southern  counters with 32.4% shooting and a 32.6% three-point rate.
+Alabama St. shoots 34.2% from beyond the arc and attempts threes at a rate of 37.5%. Texas Southern counters with 32.4% shooting and a 32.6% three-point rate.
 
 **Rebounding:**
 Alabama St. grabs offensive rebounds at a 32.1% rate, while Texas Southern secures 31.9% of available defensive rebounds.

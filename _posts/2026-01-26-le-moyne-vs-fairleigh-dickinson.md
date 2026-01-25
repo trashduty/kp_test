@@ -12,7 +12,7 @@ excerpt: "Expert analysis and prediction for Le Moyne vs Fairleigh Dickinson. Ge
 
 ### Game Overview
 
-The Le Moyne (272) will travel to face the Fairleigh Dickinson (272) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The Le Moyne (272) will travel to face the Fairleigh Dickinson (337) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
@@ -114,7 +114,7 @@ Le Moyne ranks #204 in adjusted offensive efficiency (106.60), compared to Fairl
 Defensively, Le Moyne ranks #205 (108.87), while Fairleigh Dickinson ranks #297 (114.31).
 
 **Three-Point Shooting:**
-Le Moyne shoots 35.0% from beyond the arc and attempts threes at a rate of 41.2%.  Fairleigh Dickinson  counters with 31.0% shooting and a 49.1% three-point rate.
+Le Moyne shoots 35.0% from beyond the arc and attempts threes at a rate of 41.2%. Fairleigh Dickinson counters with 31.0% shooting and a 49.1% three-point rate.
 
 **Rebounding:**
 Le Moyne grabs offensive rebounds at a 28.0% rate, while Fairleigh Dickinson secures 29.2% of available defensive rebounds.

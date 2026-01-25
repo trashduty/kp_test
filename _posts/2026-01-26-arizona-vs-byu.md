@@ -12,7 +12,7 @@ excerpt: "Expert analysis and prediction for Arizona vs BYU. Get the latest stat
 
 ### Game Overview
 
-The Arizona (1) will travel to face the BYU (1) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The Arizona (1) will travel to face the BYU (14) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
@@ -114,7 +114,7 @@ Arizona ranks #15 in adjusted offensive efficiency (122.67), compared to BYU's #
 Defensively, Arizona ranks #3 (92.24), while BYU ranks #31 (98.84).
 
 **Three-Point Shooting:**
-Arizona shoots 36.4% from beyond the arc and attempts threes at a rate of 27.6%.  BYU  counters with 35.4% shooting and a 40.0% three-point rate.
+Arizona shoots 36.4% from beyond the arc and attempts threes at a rate of 27.6%. BYU counters with 35.4% shooting and a 40.0% three-point rate.
 
 **Rebounding:**
 Arizona grabs offensive rebounds at a 40.0% rate, while BYU secures 28.6% of available defensive rebounds.

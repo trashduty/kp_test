@@ -12,7 +12,7 @@ excerpt: "Expert analysis and prediction for New Orleans vs Nicholls. Get the la
 
 ### Game Overview
 
-The New Orleans (221) will travel to face the Nicholls (221) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The New Orleans (221) will travel to face the Nicholls (233) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
@@ -114,7 +114,7 @@ New Orleans ranks #218 in adjusted offensive efficiency (105.96), compared to Ni
 Defensively, New Orleans ranks #323 (116.34), while Nicholls ranks #270 (112.34).
 
 **Three-Point Shooting:**
-New Orleans shoots 33.3% from beyond the arc and attempts threes at a rate of 36.5%.  Nicholls  counters with 34.9% shooting and a 45.4% three-point rate.
+New Orleans shoots 33.3% from beyond the arc and attempts threes at a rate of 36.5%. Nicholls counters with 34.9% shooting and a 45.4% three-point rate.
 
 **Rebounding:**
 New Orleans grabs offensive rebounds at a 35.2% rate, while Nicholls secures 35.0% of available defensive rebounds.

@@ -12,7 +12,7 @@ excerpt: "Expert analysis and prediction for Louisville vs Duke. Get the latest 
 
 ### Game Overview
 
-The Louisville (15) will travel to face the Duke (15) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The Louisville (15) will travel to face the Duke (3) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
@@ -114,7 +114,7 @@ Louisville ranks #18 in adjusted offensive efficiency (122.10), compared to Duke
 Defensively, Louisville ranks #19 (97.14), while Duke ranks #7 (93.49).
 
 **Three-Point Shooting:**
-Louisville shoots 35.3% from beyond the arc and attempts threes at a rate of 53.9%.  Duke  counters with 34.4% shooting and a 45.7% three-point rate.
+Louisville shoots 35.3% from beyond the arc and attempts threes at a rate of 53.9%. Duke counters with 34.4% shooting and a 45.7% three-point rate.
 
 **Rebounding:**
 Louisville grabs offensive rebounds at a 35.2% rate, while Duke secures 26.1% of available defensive rebounds.

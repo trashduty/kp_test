@@ -12,7 +12,7 @@ excerpt: "Expert analysis and prediction for UT Rio Grande Valley vs Texas A&M C
 
 ### Game Overview
 
-The UT Rio Grande Valley (188) will travel to face the Texas A&M Corpus Chris (188) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The UT Rio Grande Valley (188) will travel to face the Texas A&M Corpus Chris (175) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
@@ -114,7 +114,7 @@ UT Rio Grande Valley ranks #250 in adjusted offensive efficiency (103.75), compa
 Defensively, UT Rio Grande Valley ranks #124 (105.55), while Texas A&M Corpus Chris ranks #75 (102.91).
 
 **Three-Point Shooting:**
-UT Rio Grande Valley shoots 36.2% from beyond the arc and attempts threes at a rate of 41.8%.  Texas A&M Corpus Chris  counters with 32.8% shooting and a 30.2% three-point rate.
+UT Rio Grande Valley shoots 36.2% from beyond the arc and attempts threes at a rate of 41.8%. Texas A&M Corpus Chris counters with 32.8% shooting and a 30.2% three-point rate.
 
 **Rebounding:**
 UT Rio Grande Valley grabs offensive rebounds at a 26.4% rate, while Texas A&M Corpus Chris secures 29.8% of available defensive rebounds.

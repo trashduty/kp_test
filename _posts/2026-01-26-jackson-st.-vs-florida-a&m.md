@@ -12,7 +12,7 @@ excerpt: "Expert analysis and prediction for Jackson St. vs Florida A&M. Get the
 
 ### Game Overview
 
-The Jackson St. (341) will travel to face the Florida A&M (341) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The Jackson St. (341) will travel to face the Florida A&M (307) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
@@ -114,7 +114,7 @@ Jackson St. ranks #359 in adjusted offensive efficiency (92.22), compared to Flo
 Defensively, Jackson St. ranks #358 (121.81), while Florida A&M ranks #204 (108.85).
 
 **Three-Point Shooting:**
-Jackson St. shoots 30.9% from beyond the arc and attempts threes at a rate of 44.2%.  Florida A&M  counters with 32.3% shooting and a 39.3% three-point rate.
+Jackson St. shoots 30.9% from beyond the arc and attempts threes at a rate of 44.2%. Florida A&M counters with 32.3% shooting and a 39.3% three-point rate.
 
 **Rebounding:**
 Jackson St. grabs offensive rebounds at a 24.2% rate, while Florida A&M secures 32.8% of available defensive rebounds.

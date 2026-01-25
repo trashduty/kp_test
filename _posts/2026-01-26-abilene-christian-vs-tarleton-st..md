@@ -12,7 +12,7 @@ excerpt: "Expert analysis and prediction for Abilene Christian vs Tarleton St.. 
 
 ### Game Overview
 
-The Abilene Christian (255) will travel to face the Tarleton St. (255) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The Abilene Christian (255) will travel to face the Tarleton St. (178) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
@@ -114,7 +114,7 @@ Abilene Christian ranks #318 in adjusted offensive efficiency (99.16), compared 
 Defensively, Abilene Christian ranks #216 (109.21), while Tarleton St. ranks #174 (107.56).
 
 **Three-Point Shooting:**
-Abilene Christian shoots 32.0% from beyond the arc and attempts threes at a rate of 31.0%.  Tarleton St.  counters with 34.5% shooting and a 24.7% three-point rate.
+Abilene Christian shoots 32.0% from beyond the arc and attempts threes at a rate of 31.0%. Tarleton St. counters with 34.5% shooting and a 24.7% three-point rate.
 
 **Rebounding:**
 Abilene Christian grabs offensive rebounds at a 33.0% rate, while Tarleton St. secures 33.3% of available defensive rebounds.

@@ -12,7 +12,7 @@ excerpt: "Expert analysis and prediction for Delaware St. vs South Carolina St..
 
 ### Game Overview
 
-The Delaware St. (357) will travel to face the South Carolina St. (357) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
+The Delaware St. (357) will travel to face the South Carolina St. (361) in what promises to be an exciting matchup. Both teams bring unique strengths to the court, and our analysis breaks down the key factors that will determine the outcome.
 
 ---
 
@@ -114,7 +114,7 @@ Delaware St. ranks #364 in adjusted offensive efficiency (86.38), compared to So
 Defensively, Delaware St. ranks #167 (107.32), while South Carolina St. ranks #357 (121.75).
 
 **Three-Point Shooting:**
-Delaware St. shoots 29.8% from beyond the arc and attempts threes at a rate of 29.0%.  South Carolina St.  counters with 34.2% shooting and a 32.6% three-point rate.
+Delaware St. shoots 29.8% from beyond the arc and attempts threes at a rate of 29.0%. South Carolina St. counters with 34.2% shooting and a 32.6% three-point rate.
 
 **Rebounding:**
 Delaware St. grabs offensive rebounds at a 25.8% rate, while South Carolina St. secures 39.9% of available defensive rebounds.
