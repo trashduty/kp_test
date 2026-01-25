@@ -8,15 +8,15 @@ categories: [basketball, preview]
 # Chicago St Cougars vs Mercyhurst Lakers
 ## Game Preview for January 25, 2026
 
-<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
-  <div style="text-align: center;">
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <div style="text-align: center; flex: 1;">
     <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/chicago-st.svg" alt="Chicago St Cougars logo" style="width: 150px; height: 150px; object-fit: contain;">
     <p><strong>Chicago St Cougars</strong></p>
   </div>
-  <div style="text-align: center; font-size: 2em; font-weight: bold;">
+  <div style="text-align: center; font-size: 2em; font-weight: bold; flex: 0;">
     VS
   </div>
-  <div style="text-align: center;">
+  <div style="text-align: center; flex: 1;">
     <img src="https://via.placeholder.com/150" alt="Mercyhurst Lakers logo" style="width: 150px; height: 150px; object-fit: contain;">
     <p><strong>Mercyhurst Lakers</strong></p>
   </div>
