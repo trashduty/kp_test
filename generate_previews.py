@@ -99,44 +99,20 @@ def find_team_in_kenpom(team_name, kenpom_df):
 
 
 def find_team_logo(team_name, logos_df):
-    """Find team logo URL from logos dataframe using only exact matches on ncaa_name."""
-    # Normalize the search term
-    normalized = normalize_team_name(team_name)
+    """Find team logo URL from logos dataframe using exact name match."""
     
-    # First priority: Try exact match on ncaa_name
-    exact_match = logos_df[logos_df['ncaa_name'].str.strip() == team_name.strip()]
+    # First: Try exact match on 'name' column
+    exact_match = logos_df[logos_df['name'] == team_name]
     if not exact_match.empty:
         return exact_match.iloc[0]['logos']
     
-    # Second priority: Try exact match on normalized ncaa_name
-    exact_match = logos_df[logos_df['ncaa_name'].str.strip() == normalized.strip()]
-    if not exact_match.empty:
-        return exact_match.iloc[0]['logos']
-    
-    # Third priority: Try case-insensitive exact match on ncaa_name
+    # Second: Try case-insensitive match on 'name' column
     for _, row in logos_df.iterrows():
-        if str(row['ncaa_name']).strip().lower() == team_name.strip().lower():
+        if str(row['name']).lower() == team_name.lower():
             return row['logos']
     
-    # Fourth priority: Try case-insensitive exact match on normalized ncaa_name
-    for _, row in logos_df.iterrows():
-        if str(row['ncaa_name']).strip().lower() == normalized.strip().lower():
-            return row['logos']
-    
-    # Fifth priority: Try exact match on other columns (name, reference_name)
-    for col in ['name', 'reference_name']:
-        exact_match = logos_df[logos_df[col].str.strip() == normalized.strip()]
-        if not exact_match.empty:
-            return exact_match.iloc[0]['logos']
-    
-    # Sixth priority: Try case-insensitive exact match on other columns
-    for col in ['name', 'reference_name']:
-        for _, row in logos_df.iterrows():
-            if str(row[col]).strip().lower() == normalized.strip().lower():
-                return row['logos']
-    
-    # Return a default placeholder if no match found
-    print(f"  Warning: No logo found for '{team_name}' (normalized: '{normalized}')")
+    # If no match found, return placeholder
+    print(f"  Warning: No logo found for '{team_name}'")
     return "https://via.placeholder.com/150"
 
 
@@ -638,7 +614,7 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
     
     # Deep offensive breakdown
     sections.append("\n\n#### Offensive Firepower\n")
-    sections.append(f"**{away_team}** brings an offensive efficiency of {away_oe:.2f} (ranked #{away_oe_rank} nationally). ")
+    sections.append(f"**{away_team}** bring an offensive efficiency of {away_oe:.2f} (ranked #{away_oe_rank} nationally). ")
     if away_oe_rank < ELITE_RANK_THRESHOLD:
         sections.append("This is an elite offense that can score in multiple ways. ")
     elif away_oe_rank < 150:
@@ -653,7 +629,7 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
     else:
         sections.append(f"Their {away_fg3_pct:.1f}% three-point shooting is serviceable but won't scare anyone. ")
     
-    sections.append(f"\nMeanwhile, **{home_team}** counters with {home_oe:.2f} offensive efficiency (#{home_oe_rank}). ")
+    sections.append(f"\nMeanwhile, **{home_team}** counter with {home_oe:.2f} offensive efficiency (#{home_oe_rank}). ")
     if home_oe_rank < ELITE_RANK_THRESHOLD:
         sections.append("This offense can match anyone bucket-for-bucket. ")
     elif home_oe_rank < 150:
@@ -673,13 +649,13 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
     tempo_diff = abs(away_tempo - home_tempo)
     avg_tempo = (away_tempo + home_tempo) / 2
     
-    sections.append(f"{away_team} operates at a {away_tempo:.1f} tempo (#{away_tempo_rank}), while {home_team} plays at {home_tempo:.1f} (#{home_tempo_rank}). ")
+    sections.append(f"{away_team} operate at a {away_tempo:.1f} tempo (#{away_tempo_rank}), while {home_team} play at {home_tempo:.1f} (#{home_tempo_rank}). ")
     
     if tempo_diff > 5:
         if away_tempo > home_tempo:
-            sections.append(f"{away_team} wants to run, but {home_team} prefers to slow things down. ")
+            sections.append(f"{away_team} want to run, but {home_team} prefer to slow things down. ")
         else:
-            sections.append(f"{home_team} likes to push the pace, while {away_team} wants to control the clock. ")
+            sections.append(f"{home_team} like to push the pace, while {away_team} want to control the clock. ")
         sections.append("This tempo battle will be crucial—whoever dictates pace gains a significant edge. ")
     else:
         sections.append("Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. ")
@@ -693,7 +669,7 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
     
     # Interior game
     sections.append("\n\n#### The Interior Battle\n")
-    sections.append(f"Inside the paint, {away_team} shoots {away_fg2_pct:.1f}% on two-pointers, while {home_team} converts at {home_fg2_pct:.1f}%. ")
+    sections.append(f"Inside the paint, {away_team} shoot {away_fg2_pct:.1f}% on two-pointers, while {home_team} convert at {home_fg2_pct:.1f}%. ")
     
     if abs(away_fg2_pct - home_fg2_pct) > 5:
         better_interior = away_team if away_fg2_pct > home_fg2_pct else home_team
@@ -707,13 +683,13 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
     else:
         sections.append("suggesting they're more perimeter-oriented or struggle to draw fouls. ")
     
-    sections.append(f"{home_team} checks in at {home_ft_rate:.1f}, ")
+    sections.append(f"{home_team} check in at {home_ft_rate:.1f}, ")
     if home_ft_rate > 35:
         sections.append("showing they also get to the stripe frequently. ")
     else:
         sections.append("meaning they don't manufacture easy points at the line. ")
     
-    sections.append(f"When they do get fouled, {away_team} converts {away_ft_pct:.1f}% while {home_team} hits {home_ft_pct:.1f}%. ")
+    sections.append(f"When they do get fouled, {away_team} convert {away_ft_pct:.1f}% while {home_team} hit {home_ft_pct:.1f}%. ")
     if abs(away_ft_pct - home_ft_pct) > 5:
         if away_ft_pct > home_ft_pct:
             sections.append(f"{away_team}'s superior free throw shooting could be the difference in a tight game. ")
@@ -724,7 +700,7 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
     
     # X-factors
     sections.append("\n\n#### X-Factors & Intangibles\n")
-    sections.append(f"Playing at home, {home_team} gets the crowd advantage and familiar surroundings. ")
+    sections.append(f"Playing at home, {home_team} get the crowd advantage and familiar surroundings. ")
     if home_rank < away_rank - 20:
         sections.append(f"But despite the friendly confines, they're significant underdogs for a reason—{away_team} is simply the superior team on paper. ")
     elif home_rank > away_rank + 20:
@@ -830,7 +806,7 @@ def generate_game_narrative(away_team, home_team, away_stats, home_stats):
     narrative += "\n\n**Key Matchup: "
     if away_oe_rank < home_de_rank - 50:
         narrative += f"{away_team}'s Offense vs {home_team}'s Defense**\n\n"
-        narrative += f"{away_team} brings a {get_rank_description(away_oe_rank)} offense (ranked #{away_oe_rank}) that could exploit {home_team}'s defensive vulnerabilities (ranked #{home_de_rank}). "
+        narrative += f"{away_team} bring a {get_rank_description(away_oe_rank)} offense (ranked #{away_oe_rank}) that could exploit {home_team}'s defensive vulnerabilities (ranked #{home_de_rank}). "
     elif home_oe_rank < away_de_rank - 50:
         narrative += f"{home_team}'s Offense vs {away_team}'s Defense**\n\n"
         narrative += f"{home_team} features a {get_rank_description(home_oe_rank)} offense (ranked #{home_oe_rank}) that should find success against {away_team}'s defensive unit (ranked #{away_de_rank}). "
@@ -849,11 +825,11 @@ def generate_game_narrative(away_team, home_team, away_stats, home_stats):
     if tempo_diff > 5:
         faster_team = away_team if away_tempo > home_tempo else home_team
         slower_team = home_team if away_tempo > home_tempo else away_team
-        narrative += f"\n\n**Pace of Play:** {faster_team} likes to push the pace, while {slower_team} prefers a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. "
+        narrative += f"\n\n**Pace of Play:** {faster_team} like to push the pace, while {slower_team} prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. "
     
     # Three-point shooting matchup
     if away_fg3_pct > 35 and home_opp_fg3_pct < 32:
-        narrative += f"\n\n**X-Factor:** {away_team} can light it up from three-point range ({away_fg3_pct:.1f}%), but {home_team} defends the arc exceptionally well, holding opponents to just {home_opp_fg3_pct:.1f}%. This battle could determine the outcome. "
+        narrative += f"\n\n**X-Factor:** {away_team} can light it up from three-point range ({away_fg3_pct:.1f}%), but {home_team} defend the arc exceptionally well, holding opponents to just {home_opp_fg3_pct:.1f}%. This battle could determine the outcome. "
     elif home_fg3_pct > 35 and away_opp_fg3_pct < 32:
         narrative += f"\n\n**X-Factor:** {home_team}'s three-point shooting ({home_fg3_pct:.1f}%) faces a tough test against {away_team}'s perimeter defense, which limits opponents to {away_opp_fg3_pct:.1f}% from deep. "
     elif away_fg3_pct > 37 and home_fg3_pct > 37:
