@@ -1,126 +1,23 @@
-name: Scrape KenPom and Generate Plot
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 6 * * *'
-
-permissions:
-  contents: write
-
-concurrency:
-  group: kenpom-stats-update
-  cancel-in-progress: false  # Let current run finish, queue the next
-
-jobs:
-  scrape:
-    runs-on: ubuntu-latest
-
-    env:
-      R_LIBS_USER: /home/runner/work/_temp/Library
-
-    steps:
-      - name: 🧾 Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
-
-      - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10.13'
-
-      - name: 📦 Install Python dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: 🕷️ Run Python scraper (API)
-        env:
-          KENPOM_API_KEY: ${{ secrets.KENPOM_API_KEY }}
-        run: python scrape_kenpom_stats.py
-
-      - name: 🏀 Scrape AP Top 25 rankings
-        run: python scrape_ap_rankings.py
-        continue-on-error: true
-
-      - name: 📸 Upload debug artifacts
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: kenpom-debug
-          path: |
-            kenpom_stats.csv
-            ap_top25.csv
-          if-no-files-found: ignore
-
-      - name: 🧰 Set up R
-        uses: r-lib/actions/setup-r@v2
-        with:
-          r-version: '4.3.2'
-
-      - name: 🛠️ Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y --no-install-recommends \
-            libcurl4-openssl-dev \
-            libssl-dev \
-            libxml2-dev \
-            libfontconfig1-dev \
-            libfreetype6-dev \
-            libharfbuzz-dev \
-            libfribidi-dev \
-            libpng-dev \
-            libtiff5-dev \
-            libjpeg-dev \
-            libmagick++-dev \
-            imagemagick \
-            libmagickwand-dev \
-            librsvg2-dev \
-            libwebp-dev \
-            libzip-dev \
-            ghostscript \
-            gsfonts
-
-      - name: 🔧 Configure ImageMagick policy
-        run: |
-          sudo sed -i 's/rights="none" pattern="PDF"/rights="read|write" pattern="PDF"/' /etc/ImageMagick-6/policy.xml
-          sudo sed -i 's/rights="none" pattern="HTTPS"/rights="read|write" pattern="HTTPS"/' /etc/ImageMagick-6/policy.xml
-          sudo sed -i 's/rights="none" pattern="HTTP"/rights="read|write" pattern="HTTP"/' /etc/ImageMagick-6/policy.xml
-
-      - name: 📦 Install R packages
-        env:
-          R_LIBS_USER: /home/runner/work/_temp/Library
-        run: |
-          mkdir -p "$R_LIBS_USER"
-          Rscript -e '
-            .libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
-            options(repos = c(CRAN = "https://cloud.r-project.org"))
-            install.packages(c("tidyverse", "ggimage", "scales"), dependencies = TRUE)
-          '
-
-      - name: 📊 Generate plot
-        env:
-          R_LIBS_USER: /home/runner/work/_temp/Library
-        run: |
-          ls -la
-          Rscript generate_kenpom_plot.R
-
-      - name: 📁 Copy plots to docs directory
-        run: |
-          mkdir -p docs/plots/conferences
-          cp plots/kenpom_top100_eff.png docs/plots/ 2>/dev/null || echo "No top100 plot found"
-          cp plots/kenpom_ap25_eff.png docs/plots/ 2>/dev/null || echo "No ap25 plot found"
-          cp plots/conferences/* docs/plots/conferences/ 2>/dev/null || echo "No conference plots found"
-
       - name: 💾 Commit files to repo
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/ kenpom_stats.csv ap_top25.csv
-          if git commit -m "🤖 Update plots and website [skip ci]"; then
-            git pull --rebase origin main
-            git push
+          
+          # Add all changes
+          git add -A
+          
+          # Check if there are changes to commit
+          if git diff-index --quiet HEAD --; then
+            echo "✅ No changes to commit"
           else
-            echo "No changes to commit"
+            echo "📝 Changes detected, committing..."
+            git commit -m "🤖 Update plots and website [skip ci] ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))"
+            
+            # Try to push, if it fails pull and merge
+            if ! git push origin main; then
+              echo "⚠️ Push failed, pulling latest changes..."
+              git pull --no-rebase origin main
+              git push origin main
+            fi
+            echo "✅ Changes pushed successfully"
           fi
