@@ -146,7 +146,7 @@ def generate_predictions_section(away_team, home_team, away_predictions, home_pr
     # For total, we can use either team's row (should be the same)
     predicted_total = format_stat(away_predictions.get('average_total', 'N/A'), 1)
     over_edge = format_percentage(away_predictions.get('Over Total Edge', 'N/A'))
-    under_edge = format_percentage(under_predictions.get('Under Total Edge', 'N/A'))
+    under_edge = format_percentage(away_predictions.get('Under Total Edge', 'N/A'))
     
     predictions = f"""
 ---
