@@ -34,7 +34,7 @@ categories: [basketball, preview]
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-#296 Mercyhurst Lakers hosts #359 Chicago St Cougars in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Mercyhurst Lakers favored by 9.5 points, with the total sitting at 130.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Mercyhurst Lakers (9-11) hosts Chicago St Cougars (2-18) at Mercyhurst Athletic Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Mercyhurst Lakers favored by 9.5 points, with the total sitting at 130.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
 A spread around 9.5 points tells us Mercyhurst Lakers has clear advantages, but games aren't played on paper. Chicago St Cougars needs to punch above their weight class to keep this competitive. The total of 130.5 suggests a defensive slugfest or slower tempo that limits possessions. 
@@ -44,7 +44,7 @@ A spread around 9.5 points tells us Mercyhurst Lakers has clear advantages, but 
 Meanwhile, **Mercyhurst Lakers** counters with 99.75 offensive efficiency (#314). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 31.1%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
-Chicago St Cougars operates at a 67.7 tempo (#230), while Mercyhurst Lakers plays at 67.7 (#359). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.7) means fewer possessions, making each one more valuable. 
+Chicago St Cougars operates at a 67.7 tempo (#230), while Mercyhurst Lakers plays at 64.0 (#359). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 65.9) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Chicago St Cougars shoots 42.2% on two-pointers, while Mercyhurst Lakers converts at 49.2%. Mercyhurst Lakers has a clear edge in interior scoring efficiency. 
@@ -52,6 +52,7 @@ Getting to the line matters too. Chicago St Cougars's free throw rate sits at 29
 
 #### X-Factors & Intangibles
 Playing at home, Mercyhurst Lakers gets the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Chicago St Cougars is simply the superior team on paper. 
+From a coaching perspective, Landon Bussie leads Chicago St Cougars while Gary Manchel guides Mercyhurst Lakers. Experience and game planning will be critical in what promises to be a tactical chess match. 
 Defensively, Mercyhurst Lakers (#121 defensive efficiency) will look to clamp down on Chicago St Cougars (#350 defensively). 
 
 #### The Betting Angle
@@ -75,6 +76,8 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 Chicago St Cougars comes in ranked #359 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
+- **Record:** 2-18
+- **Head Coach:** Landon Bussie
 - **KenPom Rank:** #359
 - **Offensive Efficiency:** 94.1 (Rank: #347)
 - **Defensive Efficiency:** 119.4 (Rank: #350)
@@ -97,7 +100,7 @@ Chicago St Cougars comes in ranked #359 overall by KenPom. The three-point shot 
 ### Team Metrics
 
 - **Assist Rate:** 44.4% (Rank: #338)
-- **Experience:** 2.5 years (Rank: #37)
+- **Experience:** 1.3 years (Rank: #228)
 - **Bench Minutes:** 41.6% (Rank: #21)
 - **Average Height:** 75.7" (Rank: #360)
 
@@ -105,10 +108,13 @@ Chicago St Cougars comes in ranked #359 overall by KenPom. The three-point shot 
 
 ## Mercyhurst Lakers
 
-Mercyhurst Lakers comes in ranked #296 overall by KenPom. They've struggled from deep this year, meaning they'll need to rely on interior scoring and getting to the free throw line. 
+Mercyhurst Lakers comes in ranked #295 overall by KenPom. They've struggled from deep this year, meaning they'll need to rely on interior scoring and getting to the free throw line. 
 
 ### Record & Ranking
-- **KenPom Rank:** #296
+- **Record:** 9-11
+- **Head Coach:** Gary Manchel
+- **Home Arena:** Mercyhurst Athletic Center
+- **KenPom Rank:** #295
 - **Offensive Efficiency:** 99.7 (Rank: #314)
 - **Defensive Efficiency:** 105.4 (Rank: #121)
 - **Tempo:** 64.0 (Rank: #359)
@@ -125,12 +131,12 @@ Mercyhurst Lakers comes in ranked #296 overall by KenPom. They've struggled from
 - **Opponent 2-Point Shooting:** 50.2% (Rank: #123)
 - **Opponent 3-Point Shooting:** 33.2% (Rank: #144)
 - **Block Percentage:** 12.4% (Rank: #59)
-- **Steal Rate:** 0.1% (Rank: #57)
+- **Steal Rate:** 0.1% (Rank: #58)
 
 ### Team Metrics
 
 - **Assist Rate:** 54.3% (Rank: #141)
-- **Experience:** 1.9 years (Rank: #201)
+- **Experience:** 0.7 years (Rank: #337)
 - **Bench Minutes:** 31.3% (Rank: #217)
 - **Average Height:** 75.0" (Rank: #365)
 
@@ -142,8 +148,8 @@ Mercyhurst Lakers comes in ranked #296 overall by KenPom. They've struggled from
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Chicago St Cougars**: 9.5, Cover Probability: -4.1%
-- **Mercyhurst Lakers**: -9.5, Cover Probability: -2.4%
+- **Chicago St Cougars**: 9.5, Edge For Covering Spread: -4.1%
+- **Mercyhurst Lakers**: -9.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
 - **Chicago St Cougars Win Probability**: 19.1%
@@ -151,8 +157,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 132.0
-- **Over Cover Probability**: -1.6%
-- **Under Cover Probability**: -3.2%
+- **Edge For Covering The Over**: -1.6%
+- **Edge For Covering The Under**: -3.2%
 
 ---
 

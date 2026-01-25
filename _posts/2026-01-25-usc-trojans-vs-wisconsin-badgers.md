@@ -34,7 +34,7 @@ categories: [basketball, preview]
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When #51 USC Trojans travels to face #39 Wisconsin Badgers, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Wisconsin Badgers favored by 7.5 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When USC Trojans (14-5) travels to face Wisconsin Badgers (14-5) at Kohl Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Wisconsin Badgers favored by 7.5 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
 A spread around 7.5 points tells us Wisconsin Badgers has clear advantages, but games aren't played on paper. USC Trojans needs to punch above their weight class to keep this competitive. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
@@ -44,7 +44,7 @@ A spread around 7.5 points tells us Wisconsin Badgers has clear advantages, but 
 Meanwhile, **Wisconsin Badgers** counters with 117.69 offensive efficiency (#48). This offense can match anyone bucket-for-bucket. At 34.9% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-USC Trojans operates at a 71.9 tempo (#48), while Wisconsin Badgers plays at 71.9 (#67). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.9) should create a standard flow. 
+USC Trojans operates at a 71.9 tempo (#48), while Wisconsin Badgers plays at 71.3 (#67). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.6) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, USC Trojans shoots 53.7% on two-pointers, while Wisconsin Badgers converts at 57.1%. Both teams are evenly matched in paint efficiency. 
@@ -52,7 +52,8 @@ Getting to the line matters too. USC Trojans's free throw rate sits at 48.9, ind
 
 #### X-Factors & Intangibles
 Playing at home, Wisconsin Badgers gets the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
-Defensively, both teams rank similarly on the defensive end (#85 and #118), so offense may determine the outcome. 
+From a coaching perspective, Eric Musselman leads USC Trojans while Greg Gard guides Wisconsin Badgers. Experience and game planning will be critical in what promises to be a tactical chess match. 
+Defensively, both teams rank similarly on the defensive end (#86 and #118), so offense may determine the outcome. 
 
 #### The Betting Angle
 The 7.5-point spread asks: can USC Trojans keep it within striking distance? 
@@ -72,19 +73,21 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## USC Trojans
 
-USC Trojans comes in ranked #51 overall by KenPom. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.5% from three. 
+USC Trojans comes in ranked #50 overall by KenPom. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.5% from three. 
 
 ### Record & Ranking
-- **KenPom Rank:** #51
+- **Record:** 14-5
+- **Head Coach:** Eric Musselman
+- **KenPom Rank:** #50
 - **Offensive Efficiency:** 110.5 (Rank: #130)
-- **Defensive Efficiency:** 103.6 (Rank: #85)
+- **Defensive Efficiency:** 103.6 (Rank: #86)
 - **Tempo:** 71.9 (Rank: #48)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 53.7% (Rank: #110)
+- **2-Point Shooting:** 53.7% (Rank: #111)
 - **3-Point Shooting:** 32.7% (Rank: #234)
-- **Free Throw Shooting:** 71.7% (Rank: #200)
+- **Free Throw Shooting:** 71.7% (Rank: #201)
 - **3-Point Rate:** 34.8% (Rank: #283)
 
 ### Defensive Stats
@@ -97,7 +100,7 @@ USC Trojans comes in ranked #51 overall by KenPom. On the defensive end, they're
 ### Team Metrics
 
 - **Assist Rate:** 57.7% (Rank: #66)
-- **Experience:** 2.2 years (Rank: #86)
+- **Experience:** 2.5 years (Rank: #13)
 - **Bench Minutes:** 38.3% (Rank: #52)
 - **Average Height:** 79.2" (Rank: #4)
 
@@ -108,6 +111,9 @@ USC Trojans comes in ranked #51 overall by KenPom. On the defensive end, they're
 Wisconsin Badgers comes in ranked #39 overall by KenPom. They boast one of the nation's top offenses, ranked #48 in efficiency. 
 
 ### Record & Ranking
+- **Record:** 14-5
+- **Head Coach:** Greg Gard
+- **Home Arena:** Kohl Center
 - **KenPom Rank:** #39
 - **Offensive Efficiency:** 117.7 (Rank: #48)
 - **Defensive Efficiency:** 105.3 (Rank: #118)
@@ -122,17 +128,17 @@ Wisconsin Badgers comes in ranked #39 overall by KenPom. They boast one of the n
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.4% (Rank: #177)
+- **Opponent 2-Point Shooting:** 51.4% (Rank: #176)
 - **Opponent 3-Point Shooting:** 32.5% (Rank: #111)
 - **Block Percentage:** 8.8% (Rank: #215)
 - **Steal Rate:** 0.1% (Rank: #281)
 
 ### Team Metrics
 
-- **Assist Rate:** 58.4% (Rank: #55)
-- **Experience:** 1.8 years (Rank: #217)
-- **Bench Minutes:** 32.2% (Rank: #191)
-- **Average Height:** 79.0" (Rank: #10)
+- **Assist Rate:** 58.4% (Rank: #54)
+- **Experience:** 2.3 years (Rank: #35)
+- **Bench Minutes:** 32.2% (Rank: #190)
+- **Average Height:** 79.0" (Rank: #11)
 
 
 ---
@@ -142,8 +148,8 @@ Wisconsin Badgers comes in ranked #39 overall by KenPom. They boast one of the n
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **USC Trojans**: 7.5, Cover Probability: -1.2%
-- **Wisconsin Badgers**: -7.5, Cover Probability: -3.5%
+- **USC Trojans**: 7.5, Edge For Covering Spread: -1.2%
+- **Wisconsin Badgers**: -7.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
 - **USC Trojans Win Probability**: 25.0%
@@ -151,8 +157,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 159.0
-- **Over Cover Probability**: -1.6%
-- **Under Cover Probability**: -3.2%
+- **Edge For Covering The Over**: -1.6%
+- **Edge For Covering The Under**: -3.2%
 
 ---
 

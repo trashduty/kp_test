@@ -34,7 +34,7 @@ categories: [basketball, preview]
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-#272 Le Moyne Dolphins hosts #337 Fairleigh Dickinson Knights in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Le Moyne Dolphins favored by 2.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Le Moyne Dolphins (10-10) hosts Fairleigh Dickinson Knights (7-13) at Ted Grant Court in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Le Moyne Dolphins favored by 2.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
 A spread under a field goal suggests the books see this as essentially a coin flip. Le Moyne Dolphins's 2.5-point cushion reflects home court advantage more than a talent disparity. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
@@ -44,7 +44,7 @@ A spread under a field goal suggests the books see this as essentially a coin fl
 Meanwhile, **Le Moyne Dolphins** counters with 106.60 offensive efficiency (#205). Points have been hard to come by, making every possession critical. At 35.0% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Fairleigh Dickinson Knights operates at a 66.2 tempo (#305), while Le Moyne Dolphins plays at 66.2 (#203). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.2) means fewer possessions, making each one more valuable. 
+Fairleigh Dickinson Knights operates at a 66.2 tempo (#305), while Le Moyne Dolphins plays at 68.7 (#203). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.4) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Fairleigh Dickinson Knights shoots 47.5% on two-pointers, while Le Moyne Dolphins converts at 52.3%. Both teams are evenly matched in paint efficiency. 
@@ -52,7 +52,8 @@ Getting to the line matters too. Fairleigh Dickinson Knights's free throw rate s
 
 #### X-Factors & Intangibles
 Playing at home, Le Moyne Dolphins gets the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Fairleigh Dickinson Knights is simply the superior team on paper. 
-Defensively, Le Moyne Dolphins (#204 defensive efficiency) will look to clamp down on Fairleigh Dickinson Knights (#298 defensively). 
+From a coaching perspective, Jack Castleberry leads Fairleigh Dickinson Knights while Nate Champion guides Le Moyne Dolphins. Experience and game planning will be critical in what promises to be a tactical chess match. 
+Defensively, Le Moyne Dolphins (#204 defensive efficiency) will look to clamp down on Fairleigh Dickinson Knights (#297 defensively). 
 
 #### The Betting Angle
 Small spreads like 2.5 create interesting dynamics. I'm looking at whether Le Moyne Dolphins can actually separate, or if this stays inside one possession. 
@@ -67,7 +68,7 @@ This looks like a mismatch on paper with Le Moyne Dolphins significantly higher 
 
 **Key Matchup: Le Moyne Dolphins's Offense vs Fairleigh Dickinson Knights's Defense**
 
-Le Moyne Dolphins features a struggling offense (ranked #205) that should find success against Fairleigh Dickinson Knights's defensive unit (ranked #298). 
+Le Moyne Dolphins features a struggling offense (ranked #205) that should find success against Fairleigh Dickinson Knights's defensive unit (ranked #297). 
 
 
 ## Fairleigh Dickinson Knights
@@ -75,16 +76,18 @@ Le Moyne Dolphins features a struggling offense (ranked #205) that should find s
 Fairleigh Dickinson Knights comes in ranked #337 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
+- **Record:** 7-13
+- **Head Coach:** Jack Castleberry
 - **KenPom Rank:** #337
 - **Offensive Efficiency:** 99.3 (Rank: #317)
-- **Defensive Efficiency:** 114.3 (Rank: #298)
+- **Defensive Efficiency:** 114.3 (Rank: #297)
 - **Tempo:** 66.2 (Rank: #305)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 47.5% (Rank: #305)
 - **3-Point Shooting:** 31.0% (Rank: #302)
-- **Free Throw Shooting:** 68.8% (Rank: #290)
+- **Free Throw Shooting:** 68.8% (Rank: #289)
 - **3-Point Rate:** 49.1% (Rank: #22)
 
 ### Defensive Stats
@@ -97,27 +100,30 @@ Fairleigh Dickinson Knights comes in ranked #337 overall by KenPom. The three-po
 ### Team Metrics
 
 - **Assist Rate:** 51.5% (Rank: #216)
-- **Experience:** 2.3 years (Rank: #59)
-- **Bench Minutes:** 30.4% (Rank: #241)
+- **Experience:** 0.9 years (Rank: #314)
+- **Bench Minutes:** 30.4% (Rank: #240)
 - **Average Height:** 77.3" (Rank: #194)
 
 ---
 
 ## Le Moyne Dolphins
 
-Le Moyne Dolphins comes in ranked #272 overall by KenPom. 
+Le Moyne Dolphins comes in ranked #273 overall by KenPom. 
 
 ### Record & Ranking
-- **KenPom Rank:** #272
+- **Record:** 10-10
+- **Head Coach:** Nate Champion
+- **Home Arena:** Ted Grant Court
+- **KenPom Rank:** #273
 - **Offensive Efficiency:** 106.6 (Rank: #205)
 - **Defensive Efficiency:** 108.9 (Rank: #204)
 - **Tempo:** 68.7 (Rank: #203)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 52.3% (Rank: #154)
+- **2-Point Shooting:** 52.3% (Rank: #153)
 - **3-Point Shooting:** 35.0% (Rank: #120)
-- **Free Throw Shooting:** 72.2% (Rank: #186)
+- **Free Throw Shooting:** 72.2% (Rank: #187)
 - **3-Point Rate:** 41.2% (Rank: #150)
 
 ### Defensive Stats
@@ -129,8 +135,8 @@ Le Moyne Dolphins comes in ranked #272 overall by KenPom.
 
 ### Team Metrics
 
-- **Assist Rate:** 56.8% (Rank: #82)
-- **Experience:** 1.6 years (Rank: #281)
+- **Assist Rate:** 56.8% (Rank: #81)
+- **Experience:** 0.7 years (Rank: #343)
 - **Bench Minutes:** 25.3% (Rank: #325)
 - **Average Height:** 77.3" (Rank: #195)
 
@@ -142,8 +148,8 @@ Le Moyne Dolphins comes in ranked #272 overall by KenPom.
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fairleigh Dickinson Knights**: 2.5, Cover Probability: -2.4%
-- **Le Moyne Dolphins**: -2.5, Cover Probability: -2.4%
+- **Fairleigh Dickinson Knights**: 2.5, Edge For Covering Spread: -2.4%
+- **Le Moyne Dolphins**: -2.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
 - **Fairleigh Dickinson Knights Win Probability**: 41.7%
@@ -151,8 +157,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 143.0
-- **Over Cover Probability**: -0.9%
-- **Under Cover Probability**: -3.8%
+- **Edge For Covering The Over**: -0.9%
+- **Edge For Covering The Under**: -3.8%
 
 ---
 

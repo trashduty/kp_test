@@ -34,17 +34,17 @@ categories: [basketball, preview]
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-#194 Penn State Nittany Lions hosts #229 Ohio State Buckeyes in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Ohio State Buckeyes favored by 13.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Penn State Nittany Lions (9-9) hosts Ohio State Buckeyes (11-10) at The Palestra in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Ohio State Buckeyes favored by 13.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
 The 13.5-point spread screams mismatch. The books are asking Penn State Nittany Lions to hang within two possessions, which based on the profiles, requires Ohio State Buckeyes to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
-**Ohio State Buckeyes** brings an offensive efficiency of 105.75 (ranked #220 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.6% from three, they can't rely on the arc. Expect a paint-focused attack. 
+**Ohio State Buckeyes** brings an offensive efficiency of 105.75 (ranked #219 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.6% from three, they can't rely on the arc. Expect a paint-focused attack. 
 Meanwhile, **Penn State Nittany Lions** counters with 107.44 offensive efficiency (#186). Points have been hard to come by, making every possession critical. They're lethal from beyond the arc at 38.5%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-Ohio State Buckeyes operates at a 71.0 tempo (#85), while Penn State Nittany Lions plays at 71.0 (#173). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.0) should create a standard flow. 
+Ohio State Buckeyes operates at a 71.0 tempo (#85), while Penn State Nittany Lions plays at 69.3 (#173). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.1) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Ohio State Buckeyes shoots 55.1% on two-pointers, while Penn State Nittany Lions converts at 46.3%. Ohio State Buckeyes has a clear edge in interior scoring efficiency. 
@@ -52,7 +52,8 @@ Getting to the line matters too. Ohio State Buckeyes's free throw rate sits at 3
 
 #### X-Factors & Intangibles
 Playing at home, Penn State Nittany Lions gets the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Ohio State Buckeyes is simply the superior team on paper. 
-Defensively, both teams rank similarly on the defensive end (#255 and #217), so offense may determine the outcome. 
+From a coaching perspective, Jeff Boals leads Ohio State Buckeyes while Fran McCaffery guides Penn State Nittany Lions. Experience and game planning will be critical in what promises to be a tactical chess match. 
+Defensively, both teams rank similarly on the defensive end (#256 and #217), so offense may determine the outcome. 
 
 #### The Betting Angle
 With 13.5 points to work with, Penn State Nittany Lions doesn't need to win—just stay competitive. 
@@ -67,7 +68,7 @@ On paper, Penn State Nittany Lions holds the advantage as the higher-ranked team
 
 **Key Matchup: Penn State Nittany Lions's Offense vs Ohio State Buckeyes's Defense**
 
-Penn State Nittany Lions features a middle-of-the-pack offense (ranked #186) that should find success against Ohio State Buckeyes's defensive unit (ranked #255). 
+Penn State Nittany Lions features a middle-of-the-pack offense (ranked #186) that should find success against Ohio State Buckeyes's defensive unit (ranked #256). 
 
 **X-Factor:** Penn State Nittany Lions's three-point shooting (38.5%) faces a tough test against Ohio State Buckeyes's perimeter defense, which limits opponents to 31.2% from deep. 
 
@@ -77,9 +78,11 @@ Penn State Nittany Lions features a middle-of-the-pack offense (ranked #186) tha
 Ohio State Buckeyes comes in ranked #229 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
+- **Record:** 11-10
+- **Head Coach:** Jeff Boals
 - **KenPom Rank:** #229
-- **Offensive Efficiency:** 105.7 (Rank: #220)
-- **Defensive Efficiency:** 111.5 (Rank: #255)
+- **Offensive Efficiency:** 105.7 (Rank: #219)
+- **Defensive Efficiency:** 111.5 (Rank: #256)
 - **Tempo:** 71.0 (Rank: #85)
 
 ### Shooting Breakdown
@@ -93,13 +96,13 @@ Ohio State Buckeyes comes in ranked #229 overall by KenPom. The three-point shot
 
 - **Opponent 2-Point Shooting:** 51.6% (Rank: #187)
 - **Opponent 3-Point Shooting:** 36.5% (Rank: #303)
-- **Block Percentage:** 8.2% (Rank: #253)
+- **Block Percentage:** 8.2% (Rank: #252)
 - **Steal Rate:** 0.1% (Rank: #259)
 
 ### Team Metrics
 
 - **Assist Rate:** 43.6% (Rank: #343)
-- **Experience:** 2.2 years (Rank: #106)
+- **Experience:** 2.2 years (Rank: #42)
 - **Bench Minutes:** 24.1% (Rank: #341)
 - **Average Height:** 76.8" (Rank: #271)
 
@@ -107,10 +110,13 @@ Ohio State Buckeyes comes in ranked #229 overall by KenPom. The three-point shot
 
 ## Penn State Nittany Lions
 
-Penn State Nittany Lions comes in ranked #194 overall by KenPom. They're dangerous from beyond the arc, shooting 38.5% from three (ranked #18 nationally), so expect them to let it fly from deep. 
+Penn State Nittany Lions comes in ranked #193 overall by KenPom. They're dangerous from beyond the arc, shooting 38.5% from three (ranked #18 nationally), so expect them to let it fly from deep. 
 
 ### Record & Ranking
-- **KenPom Rank:** #194
+- **Record:** 9-9
+- **Head Coach:** Fran McCaffery
+- **Home Arena:** The Palestra
+- **KenPom Rank:** #193
 - **Offensive Efficiency:** 107.4 (Rank: #186)
 - **Defensive Efficiency:** 109.3 (Rank: #217)
 - **Tempo:** 69.3 (Rank: #173)
@@ -131,8 +137,8 @@ Penn State Nittany Lions comes in ranked #194 overall by KenPom. They're dangero
 
 ### Team Metrics
 
-- **Assist Rate:** 53.7% (Rank: #156)
-- **Experience:** 1.9 years (Rank: #185)
+- **Assist Rate:** 53.7% (Rank: #157)
+- **Experience:** 1.2 years (Rank: #233)
 - **Bench Minutes:** 29.9% (Rank: #249)
 - **Average Height:** 77.8" (Rank: #106)
 
@@ -144,8 +150,8 @@ Penn State Nittany Lions comes in ranked #194 overall by KenPom. They're dangero
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ohio State Buckeyes**: -14.5, Cover Probability: 0.8%
-- **Penn State Nittany Lions**: 14.5, Cover Probability: -5.6%
+- **Ohio State Buckeyes**: -14.5, Edge For Covering Spread: 0.8%
+- **Penn State Nittany Lions**: 14.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
 - **Ohio State Buckeyes Win Probability**: 89.7%
@@ -153,8 +159,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 154.5
-- **Over Cover Probability**: -2.4%
-- **Under Cover Probability**: -2.4%
+- **Edge For Covering The Over**: -2.4%
+- **Edge For Covering The Under**: -2.4%
 
 ---
 

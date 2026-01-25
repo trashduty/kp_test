@@ -34,7 +34,7 @@ categories: [basketball, preview]
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When #3 Duke Blue Devils travels to face #15 Louisville Cardinals, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Duke Blue Devils favored by 6.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Duke Blue Devils (18-1) travels to face Louisville Cardinals (14-5) at KFC Yum! Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Duke Blue Devils favored by 6.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
 The 6.5-point spread indicates Duke Blue Devils is viewed as the better team, but this isn't an overwhelming edge. Louisville Cardinals has a legitimate path to covering or winning outright with a solid performance. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
@@ -44,7 +44,7 @@ The 6.5-point spread indicates Duke Blue Devils is viewed as the better team, bu
 Meanwhile, **Louisville Cardinals** counters with 122.10 offensive efficiency (#16). This offense can match anyone bucket-for-bucket. At 35.3% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Duke Blue Devils operates at a 69.9 tempo (#126), while Louisville Cardinals plays at 69.9 (#49). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.9) should create a standard flow. 
+Duke Blue Devils operates at a 69.9 tempo (#126), while Louisville Cardinals plays at 71.9 (#49). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.9) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Duke Blue Devils shoots 62.8% on two-pointers, while Louisville Cardinals converts at 60.5%. Both teams are evenly matched in paint efficiency. 
@@ -52,11 +52,12 @@ Getting to the line matters too. Duke Blue Devils's free throw rate sits at 43.1
 
 #### X-Factors & Intangibles
 Playing at home, Louisville Cardinals gets the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
-Defensively, both teams rank similarly on the defensive end (#7 and #19), so offense may determine the outcome. 
+From a coaching perspective, Jon Scheyer leads Duke Blue Devils while Pat Kelsey guides Louisville Cardinals. Experience and game planning will be critical in what promises to be a tactical chess match. 
+Defensively, both teams rank similarly on the defensive end (#7 and #20), so offense may determine the outcome. 
 
 #### The Betting Angle
 The 6.5-point spread asks: can Louisville Cardinals keep it within striking distance? 
-Regarding the total of 155.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
+Regarding the total of 155.5: Two offenses that can score, playing at pace? I lean over. 
 
 The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
 
@@ -75,6 +76,8 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 Duke Blue Devils comes in ranked #3 overall by KenPom. They boast one of the nation's top offenses, ranked #14 in efficiency. Their defense has been a calling card this season, making life difficult for opposing offenses. 
 
 ### Record & Ranking
+- **Record:** 18-1
+- **Head Coach:** Jon Scheyer
 - **KenPom Rank:** #3
 - **Offensive Efficiency:** 122.5 (Rank: #14)
 - **Defensive Efficiency:** 93.5 (Rank: #7)
@@ -84,7 +87,7 @@ Duke Blue Devils comes in ranked #3 overall by KenPom. They boast one of the nat
 
 - **2-Point Shooting:** 62.8% (Rank: #3)
 - **3-Point Shooting:** 34.4% (Rank: #159)
-- **Free Throw Shooting:** 71.7% (Rank: #199)
+- **Free Throw Shooting:** 71.7% (Rank: #200)
 - **3-Point Rate:** 45.7% (Rank: #55)
 
 ### Defensive Stats
@@ -97,20 +100,23 @@ Duke Blue Devils comes in ranked #3 overall by KenPom. They boast one of the nat
 ### Team Metrics
 
 - **Assist Rate:** 59.8% (Rank: #37)
-- **Experience:** 0.8 years (Rank: #362)
-- **Bench Minutes:** 34.5% (Rank: #132)
+- **Experience:** 0.9 years (Rank: #309)
+- **Bench Minutes:** 34.5% (Rank: #131)
 - **Average Height:** 79.4" (Rank: #2)
 
 ---
 
 ## Louisville Cardinals
 
-Louisville Cardinals comes in ranked #15 overall by KenPom. Defensively, they've been rock solid, ranking #19 nationally in efficiency. 
+Louisville Cardinals comes in ranked #16 overall by KenPom. Defensively, they've been rock solid, ranking #20 nationally in efficiency. 
 
 ### Record & Ranking
-- **KenPom Rank:** #15
+- **Record:** 14-5
+- **Head Coach:** Pat Kelsey
+- **Home Arena:** KFC Yum! Center
+- **KenPom Rank:** #16
 - **Offensive Efficiency:** 122.1 (Rank: #16)
-- **Defensive Efficiency:** 97.1 (Rank: #19)
+- **Defensive Efficiency:** 97.1 (Rank: #20)
 - **Tempo:** 71.9 (Rank: #49)
 
 ### Shooting Breakdown
@@ -124,15 +130,15 @@ Louisville Cardinals comes in ranked #15 overall by KenPom. Defensively, they've
 
 - **Opponent 2-Point Shooting:** 43.5% (Rank: #4)
 - **Opponent 3-Point Shooting:** 33.5% (Rank: #158)
-- **Block Percentage:** 9.5% (Rank: #175)
+- **Block Percentage:** 9.5% (Rank: #174)
 - **Steal Rate:** 0.1% (Rank: #133)
 
 ### Team Metrics
 
 - **Assist Rate:** 60.5% (Rank: #27)
-- **Experience:** 2.2 years (Rank: #83)
-- **Bench Minutes:** 34.3% (Rank: #135)
-- **Average Height:** 78.4" (Rank: #43)
+- **Experience:** 2.5 years (Rank: #17)
+- **Bench Minutes:** 34.3% (Rank: #134)
+- **Average Height:** 78.4" (Rank: #44)
 
 
 ---
@@ -142,8 +148,8 @@ Louisville Cardinals comes in ranked #15 overall by KenPom. Defensively, they've
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Duke Blue Devils**: -7.5, Cover Probability: -0.3%
-- **Louisville Cardinals**: 7.5, Cover Probability: -4.4%
+- **Duke Blue Devils**: -7.5, Edge For Covering Spread: -0.3%
+- **Louisville Cardinals**: 7.5, Edge For Covering Spread: -4.4%
 
 ### Moneyline
 - **Duke Blue Devils Win Probability**: 74.2%
@@ -151,8 +157,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 156.5
-- **Over Cover Probability**: -2.4%
-- **Under Cover Probability**: -2.4%
+- **Edge For Covering The Over**: -2.4%
+- **Edge For Covering The Under**: -2.4%
 
 ---
 

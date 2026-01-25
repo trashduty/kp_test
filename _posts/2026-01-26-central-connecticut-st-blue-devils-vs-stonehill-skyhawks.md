@@ -34,7 +34,7 @@ categories: [basketball, preview]
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-#291 Central Connecticut St Blue Devils enters hostile territory as they take on #341 Stonehill Skyhawks in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Central Connecticut St Blue Devils favored by 1.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Central Connecticut St Blue Devils (10-8) enters hostile territory as they take on Stonehill Skyhawks (6-14) at Merkert Gymnasium in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Central Connecticut St Blue Devils favored by 1.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
 A spread under a field goal suggests the books see this as essentially a coin flip. Central Connecticut St Blue Devils's 1.5-point cushion reflects home court advantage more than a talent disparity. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
@@ -44,7 +44,7 @@ A spread under a field goal suggests the books see this as essentially a coin fl
 Meanwhile, **Stonehill Skyhawks** counters with 93.27 offensive efficiency (#354). Points have been hard to come by, making every possession critical. At 33.6% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Central Connecticut St Blue Devils operates at a 65.8 tempo (#319), while Stonehill Skyhawks plays at 65.8 (#271). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 65.8) means fewer possessions, making each one more valuable. 
+Central Connecticut St Blue Devils operates at a 65.8 tempo (#319), while Stonehill Skyhawks plays at 67.0 (#271). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.4) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Central Connecticut St Blue Devils shoots 49.3% on two-pointers, while Stonehill Skyhawks converts at 45.8%. Both teams are evenly matched in paint efficiency. 
@@ -52,6 +52,7 @@ Getting to the line matters too. Central Connecticut St Blue Devils's free throw
 
 #### X-Factors & Intangibles
 Playing at home, Stonehill Skyhawks gets the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Central Connecticut St Blue Devils. 
+From a coaching perspective, Patrick Sellers leads Central Connecticut St Blue Devils while Chris Kraus guides Stonehill Skyhawks. Experience and game planning will be critical in what promises to be a tactical chess match. 
 Defensively, Stonehill Skyhawks (#135 defensive efficiency) will look to clamp down on Central Connecticut St Blue Devils (#273 defensively). 
 
 #### The Betting Angle
@@ -75,6 +76,8 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 Central Connecticut St Blue Devils comes in ranked #291 overall by KenPom. They're dangerous from beyond the arc, shooting 36.9% from three (ranked #42 nationally), so expect them to let it fly from deep. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
+- **Record:** 10-8
+- **Head Coach:** Patrick Sellers
 - **KenPom Rank:** #291
 - **Offensive Efficiency:** 108.6 (Rank: #170)
 - **Defensive Efficiency:** 112.5 (Rank: #273)
@@ -97,7 +100,7 @@ Central Connecticut St Blue Devils comes in ranked #291 overall by KenPom. They'
 ### Team Metrics
 
 - **Assist Rate:** 52.6% (Rank: #185)
-- **Experience:** 1.7 years (Rank: #245)
+- **Experience:** 0.8 years (Rank: #322)
 - **Bench Minutes:** 28.5% (Rank: #280)
 - **Average Height:** 77.4" (Rank: #181)
 
@@ -108,6 +111,9 @@ Central Connecticut St Blue Devils comes in ranked #291 overall by KenPom. They'
 Stonehill Skyhawks comes in ranked #341 overall by KenPom. 
 
 ### Record & Ranking
+- **Record:** 6-14
+- **Head Coach:** Chris Kraus
+- **Home Arena:** Merkert Gymnasium
 - **KenPom Rank:** #341
 - **Offensive Efficiency:** 93.3 (Rank: #354)
 - **Defensive Efficiency:** 106.1 (Rank: #135)
@@ -116,21 +122,21 @@ Stonehill Skyhawks comes in ranked #341 overall by KenPom.
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 45.8% (Rank: #336)
-- **3-Point Shooting:** 33.6% (Rank: #202)
+- **3-Point Shooting:** 33.6% (Rank: #200)
 - **Free Throw Shooting:** 67.5% (Rank: #325)
-- **3-Point Rate:** 39.1% (Rank: #195)
+- **3-Point Rate:** 39.1% (Rank: #196)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 47.8% (Rank: #52)
-- **Opponent 3-Point Shooting:** 34.8% (Rank: #230)
+- **Opponent 2-Point Shooting:** 47.8% (Rank: #53)
+- **Opponent 3-Point Shooting:** 34.8% (Rank: #229)
 - **Block Percentage:** 9.7% (Rank: #165)
 - **Steal Rate:** 0.1% (Rank: #361)
 
 ### Team Metrics
 
 - **Assist Rate:** 53.8% (Rank: #150)
-- **Experience:** 2.2 years (Rank: #105)
+- **Experience:** 1.5 years (Rank: #173)
 - **Bench Minutes:** 27.1% (Rank: #304)
 - **Average Height:** 77.7" (Rank: #130)
 
@@ -142,8 +148,8 @@ Stonehill Skyhawks comes in ranked #341 overall by KenPom.
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Central Connecticut St Blue Devils**: -1.0, Cover Probability: -4.1%
-- **Stonehill Skyhawks**: 1.0, Cover Probability: -0.6%
+- **Central Connecticut St Blue Devils**: -1.0, Edge For Covering Spread: -4.1%
+- **Stonehill Skyhawks**: 1.0, Edge For Covering Spread: -0.6%
 
 ### Moneyline
 - **Central Connecticut St Blue Devils Win Probability**: 53.6%
@@ -151,8 +157,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 136.5
-- **Over Cover Probability**: -1.0%
-- **Under Cover Probability**: -4.1%
+- **Edge For Covering The Over**: -1.0%
+- **Edge For Covering The Under**: -4.1%
 
 ---
 
