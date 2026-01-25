@@ -28,16 +28,16 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Le Moyne Dolphins -2.5</p>
-  <p><strong>Moneyline:</strong> Le Moyne Dolphins (-154) | Fairleigh Dickinson Knights (+128)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Moneyline:</strong> Le Moyne Dolphins (-154) | Fairleigh Dickinson Knights (+130)</p>
+  <p><strong>Total:</strong> 140.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Le Moyne Dolphins (10-10) enters hostile territory as they take on Fairleigh Dickinson Knights (7-13) at Bogota Savings Bank Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Le Moyne Dolphins favored by 2.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Le Moyne Dolphins (10-10) enters hostile territory as they take on Fairleigh Dickinson Knights (7-13) at Bogota Savings Bank Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Le Moyne Dolphins favored by 2.5 points, with the total sitting at 140.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under a field goal suggests the books see this as essentially a coin flip. Le Moyne Dolphins's 2.5-point cushion reflects home court advantage more than a talent disparity. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under a field goal suggests the books see this as essentially a coin flip. Le Moyne Dolphins's 2.5-point cushion reflects home court advantage more than a talent disparity. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Le Moyne Dolphins** brings an offensive efficiency of 106.60 (ranked #205 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.0% three-point shooting is serviceable but won't scare anyone. 
@@ -57,7 +57,7 @@ Defensively, Le Moyne Dolphins (#204 defensive efficiency) should have success a
 
 #### The Betting Angle
 Small spreads like 2.5 create interesting dynamics. I'm looking at whether Le Moyne Dolphins can actually separate, or if this stays inside one possession. 
-Regarding the total of nan: The total seems fairly priced. I'd need to see where sharp money moves it. 
+Regarding the total of 140.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
 
 The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
 
@@ -148,17 +148,17 @@ Fairleigh Dickinson Knights comes in ranked #337 overall by KenPom. The three-po
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Le Moyne Dolphins**: -2.5, Edge For Covering Spread: -2.4%
-- **Fairleigh Dickinson Knights**: 2.5, Edge For Covering Spread: -2.4%
+- **Le Moyne Dolphins**: -2.5, Edge For Covering Spread: -3.5%
+- **Fairleigh Dickinson Knights**: 2.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Le Moyne Dolphins Win Probability**: 58.3%
-- **Fairleigh Dickinson Knights Win Probability**: 41.7%
+- **Le Moyne Dolphins Win Probability**: 58.4%
+- **Fairleigh Dickinson Knights Win Probability**: 41.6%
 
 ### Total
 - **Predicted Total**: 143.0
-- **Edge For Covering The Over**: -0.9%
-- **Edge For Covering The Under**: -3.8%
+- **Edge For Covering The Over**: 0.2%
+- **Edge For Covering The Under**: -4.9%
 
 ---
 

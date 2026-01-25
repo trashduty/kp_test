@@ -27,17 +27,17 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Central Connecticut St Blue Devils -1.5</p>
-  <p><strong>Moneyline:</strong> Central Connecticut St Blue Devils (-130) | Stonehill Skyhawks (+108)</p>
+  <p><strong>Spread:</strong> Central Connecticut St Blue Devils -2.5</p>
+  <p><strong>Moneyline:</strong> Central Connecticut St Blue Devils (-138) | Stonehill Skyhawks (+115)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Central Connecticut St Blue Devils (10-8) enters hostile territory as they take on Stonehill Skyhawks (6-14) at Merkert Gymnasium in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Central Connecticut St Blue Devils favored by 1.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Central Connecticut St Blue Devils (10-8) enters hostile territory as they take on Stonehill Skyhawks (6-14) at Merkert Gymnasium in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Central Connecticut St Blue Devils favored by 2.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under a field goal suggests the books see this as essentially a coin flip. Central Connecticut St Blue Devils's 1.5-point cushion reflects home court advantage more than a talent disparity. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under a field goal suggests the books see this as essentially a coin flip. Central Connecticut St Blue Devils's 2.5-point cushion reflects home court advantage more than a talent disparity. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Central Connecticut St Blue Devils** brings an offensive efficiency of 108.61 (ranked #170 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.9% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -56,7 +56,7 @@ From a coaching perspective, Patrick Sellers leads Central Connecticut St Blue D
 Defensively, Stonehill Skyhawks (#135 defensive efficiency) will look to clamp down on Central Connecticut St Blue Devils (#273 defensively). 
 
 #### The Betting Angle
-Small spreads like 1.5 create interesting dynamics. I'm looking at whether Central Connecticut St Blue Devils can actually separate, or if this stays inside one possession. 
+Small spreads like 2.5 create interesting dynamics. I'm looking at whether Central Connecticut St Blue Devils can actually separate, or if this stays inside one possession. 
 Regarding the total of nan: The total seems fairly priced. I'd need to see where sharp money moves it. 
 
 The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
@@ -148,17 +148,17 @@ Stonehill Skyhawks comes in ranked #341 overall by KenPom.
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Central Connecticut St Blue Devils**: -1.0, Edge For Covering Spread: -4.1%
-- **Stonehill Skyhawks**: 1.0, Edge For Covering Spread: -0.6%
+- **Central Connecticut St Blue Devils**: -1.5, Edge For Covering Spread: -5.9%
+- **Stonehill Skyhawks**: 1.5, Edge For Covering Spread: -1.1%
 
 ### Moneyline
-- **Central Connecticut St Blue Devils Win Probability**: 53.6%
-- **Stonehill Skyhawks Win Probability**: 46.4%
+- **Central Connecticut St Blue Devils Win Probability**: 54.4%
+- **Stonehill Skyhawks Win Probability**: 45.6%
 
 ### Total
 - **Predicted Total**: 136.5
-- **Edge For Covering The Over**: -1.0%
-- **Edge For Covering The Under**: -4.1%
+- **Edge For Covering The Over**: -1.1%
+- **Edge For Covering The Under**: -3.8%
 
 ---
 

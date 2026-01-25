@@ -27,17 +27,17 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Delaware St Hornets -1.5</p>
-  <p><strong>Moneyline:</strong> South Carolina St Bulldogs (-102) | Delaware St Hornets (-118)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Pick'em</p>
+  <p><strong>Moneyline:</strong> South Carolina St Bulldogs (-107) | Delaware St Hornets (-113)</p>
+  <p><strong>Total:</strong> 134.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When South Carolina St Bulldogs (4-16) travels to face Delaware St Hornets (5-14) at Memorial Hall, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Delaware St Hornets favored by 1.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When South Carolina St Bulldogs (4-16) travels to face Delaware St Hornets (5-14) at Memorial Hall, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Delaware St Hornets favored by 0.0 points, with the total sitting at 134.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under a field goal suggests the books see this as essentially a coin flip. Delaware St Hornets's 1.5-point cushion reflects home court advantage more than a talent disparity. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under a field goal suggests the books see this as essentially a coin flip. Delaware St Hornets's 0.0-point cushion reflects home court advantage more than a talent disparity. The total of 134.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **South Carolina St Bulldogs** brings an offensive efficiency of 93.79 (ranked #349 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.2% three-point shooting is serviceable but won't scare anyone. 
@@ -56,8 +56,8 @@ From a coaching perspective, Erik Martin leads South Carolina St Bulldogs while 
 Defensively, Delaware St Hornets (#167 defensive efficiency) will look to clamp down on South Carolina St Bulldogs (#357 defensively). 
 
 #### The Betting Angle
-Small spreads like 1.5 create interesting dynamics. I'm looking at whether Delaware St Hornets can actually separate, or if this stays inside one possession. 
-Regarding the total of nan: The total seems fairly priced. I'd need to see where sharp money moves it. 
+Small spreads like 0.0 create interesting dynamics. I'm looking at whether Delaware St Hornets can actually separate, or if this stays inside one possession. 
+Regarding the total of 134.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
 
 The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
 
@@ -148,17 +148,17 @@ Delaware St Hornets comes in ranked #357 overall by KenPom. The three-point shot
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Carolina St Bulldogs**: -0.5, Edge For Covering Spread: 2.4%
-- **Delaware St Hornets**: 0.5, Edge For Covering Spread: -7.4%
+- **South Carolina St Bulldogs**: -1.0, Edge For Covering Spread: 1.1%
+- **Delaware St Hornets**: 1.0, Edge For Covering Spread: -6.6%
 
 ### Moneyline
-- **South Carolina St Bulldogs Win Probability**: 56.1%
-- **Delaware St Hornets Win Probability**: 43.9%
+- **South Carolina St Bulldogs Win Probability**: 56.7%
+- **Delaware St Hornets Win Probability**: 43.3%
 
 ### Total
-- **Predicted Total**: 136.5
-- **Edge For Covering The Over**: -2.4%
-- **Edge For Covering The Under**: -2.4%
+- **Predicted Total**: 136.0
+- **Edge For Covering The Over**: N/A
+- **Edge For Covering The Under**: N/A
 
 ---
 
