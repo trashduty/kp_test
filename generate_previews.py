@@ -252,21 +252,22 @@ def generate_seo_metadata(away_team, home_team, game_date, away_predictions, hom
     og_title = f"{away_team} vs {home_team}: Prediction & Betting Analysis"
     og_description = f"Our model predicts {favorite} covers. Full analysis, KenPom stats, and betting edge for {game_date.strftime('%B %d')}."
     
+    # Create slug
+    slug = f"{game_date.strftime('%Y-%m-%d')}-{slugify(away_team)}-vs-{slugify(home_team)}"
+    
     return {
         'seo_title': seo_title,
         'meta_description': meta_description,
         'keywords': ', '.join(keywords),
         'og_title': og_title,
         'og_description': og_description,
-        'canonical_url': f"https://btb-analytics.com/blog/{game_date.strftime('%Y-%m-%d')}-{slugify(away_team)}-vs-{slugify(home_team)}"
+        'canonical_url': f"https://btb-analytics.com/blog/{slug}",
+        'slug': slug
     }
 
 
-def convert_to_html(markdown_content, away_team, home_team, game_date, away_predictions, home_predictions, away_logo, home_logo):
+def convert_to_html(markdown_content):
     """Convert markdown to clean, SEO-optimized HTML for Squarespace."""
-    
-    # Get SEO metadata
-    seo = generate_seo_metadata(away_team, home_team, game_date, away_predictions, home_predictions)
     
     # Remove frontmatter
     lines = markdown_content.split('\n')
@@ -290,9 +291,6 @@ def convert_to_html(markdown_content, away_team, home_team, game_date, away_pred
     
     # Convert links
     html = re.sub(r'\[([^\]]+)\]\(([^\)]+)\)', r'<a href="\2" target="_blank" rel="noopener">\1</a>', html)
-    
-    # Keep the table as-is (it's already HTML)
-    # Just ensure it's clean
     
     # Convert horizontal rules
     html = html.replace('---', '<hr>')
@@ -377,27 +375,19 @@ def convert_to_html(markdown_content, away_team, home_team, game_date, away_pred
     margin: 10px 0;
   }
   
-  .team-logos-container {
+  table {
     width: 100%;
     margin: 20px 0;
+    border-collapse: collapse;
+  }
+  
+  td {
     text-align: center;
-  }
-  
-  .team-logos-row {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    flex-wrap: wrap;
-  }
-  
-  .team-logo-cell {
-    flex: 1;
-    min-width: 150px;
+    vertical-align: middle;
     padding: 10px;
-    text-align: center;
   }
   
-  .team-logo-cell img {
+  td img {
     width: 150px;
     height: 150px;
     object-fit: contain;
@@ -453,16 +443,17 @@ def convert_to_html(markdown_content, away_team, home_team, game_date, away_pred
   }
   
   @media (max-width: 768px) {
-    .team-logos-row {
-      flex-direction: column;
-    }
-    
     h1 {
       font-size: 1.5em;
     }
     
     h2 {
       font-size: 1.3em;
+    }
+    
+    td img {
+      width: 100px;
+      height: 100px;
     }
   }
 </style>
@@ -476,7 +467,7 @@ def convert_to_html(markdown_content, away_team, home_team, game_date, away_pred
 </div>
 """
     
-    return full_html, seo
+    return full_html
 
 
 def generate_betting_info(away_team, home_team, away_predictions, home_predictions):
@@ -832,6 +823,13 @@ def main():
     os.makedirs('_html', exist_ok=True)
     os.makedirs('_seo', exist_ok=True)
     
+    print("\n" + "="*60)
+    print("Created directories:")
+    print(f"  _posts/: {os.path.exists('_posts')}")
+    print(f"  _html/: {os.path.exists('_html')}")
+    print(f"  _seo/: {os.path.exists('_seo')}")
+    print("="*60 + "\n")
+    
     for game_name in unique_games:
         print(f"\nProcessing: {game_name}")
         game_entries = target_games[target_games['Game'] == game_name]
@@ -935,33 +933,29 @@ def main():
         
         # Save markdown version
         md_filepath = os.path.join('_posts', f"{filename}.md")
-        with open(md_filepath, 'w') as f:
+        with open(md_filepath, 'w', encoding='utf-8') as f:
             f.write(post_content)
         print(f"  ✓ Created Markdown: {md_filepath}")
         
         # Convert to HTML and save
-        html_content, seo_data = convert_to_html(
-            post_content, 
-            away_team, home_team, 
-            game_date, 
-            away_predictions, home_predictions,
-            away_logo, home_logo
-        )
+        html_content = convert_to_html(post_content)
         
         html_filepath = os.path.join('_html', f"{filename}.html")
-        with open(html_filepath, 'w') as f:
+        with open(html_filepath, 'w', encoding='utf-8') as f:
             f.write(html_content)
         print(f"  ✓ Created HTML: {html_filepath}")
         
-        # Save SEO metadata as separate file for easy reference
+        # Generate and save SEO metadata
+        seo_data = generate_seo_metadata(away_team, home_team, game_date, away_predictions, home_predictions)
+        
         seo_filepath = os.path.join('_seo', f"{filename}-seo.txt")
-        with open(seo_filepath, 'w') as f:
+        with open(seo_filepath, 'w', encoding='utf-8') as f:
             f.write("="*60 + "\n")
             f.write(f"SEO METADATA FOR: {away_team} vs {home_team}\n")
             f.write("="*60 + "\n\n")
             f.write(f"BLOG POST TITLE:\n{seo_data['seo_title']}\n\n")
             f.write(f"META DESCRIPTION (copy this into Squarespace):\n{seo_data['meta_description']}\n\n")
-            f.write(f"URL SLUG (copy this into Squarespace):\n{filename}\n\n")
+            f.write(f"URL SLUG (copy this into Squarespace):\n{seo_data['slug']}\n\n")
             f.write(f"KEYWORDS:\n{seo_data['keywords']}\n\n")
             f.write(f"OPEN GRAPH TITLE (for social media):\n{seo_data['og_title']}\n\n")
             f.write(f"OPEN GRAPH DESCRIPTION:\n{seo_data['og_description']}\n\n")
@@ -969,14 +963,20 @@ def main():
             f.write("="*60 + "\n")
         print(f"  ✓ Created SEO file: {seo_filepath}")
         
+        # Verify files were created
+        if not os.path.exists(html_filepath):
+            print(f"  ⚠ WARNING: HTML file was not created!")
+        if not os.path.exists(seo_filepath):
+            print(f"  ⚠ WARNING: SEO file was not created!")
+        
         posts_created += 1
     
     print(f"\n{'='*60}")
     print(f"Generation complete! Created {posts_created} preview posts.")
     print(f"Files created in:")
-    print(f"  - _posts/ (markdown versions)")
-    print(f"  - _html/ (ready for Squarespace)")
-    print(f"  - _seo/ (SEO metadata)")
+    print(f"  - _posts/ ({len(os.listdir('_posts'))} files)")
+    print(f"  - _html/ ({len(os.listdir('_html'))} files)")
+    print(f"  - _seo/ ({len(os.listdir('_seo'))} files)")
     print(f"{'='*60}")
 
 
