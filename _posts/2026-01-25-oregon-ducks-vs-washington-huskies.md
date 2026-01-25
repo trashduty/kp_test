@@ -27,8 +27,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Washington Huskies -9.5</p>
-  <p><strong>Moneyline:</strong> Oregon Ducks (+375) | Washington Huskies (-516)</p>
+  <p><strong>Spread:</strong> Washington Huskies -8.5</p>
+  <p><strong>Moneyline:</strong> Oregon Ducks (+330) | Washington Huskies (-429)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -113,17 +113,17 @@ Washington Huskies comes in ranked #49 overall by KenPom. The three-point shot h
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oregon Ducks**: 8.5, Edge For Covering Spread: 0.0%
-- **Washington Huskies**: -8.5, Edge For Covering Spread: -4.8%
+- **Oregon Ducks**: 8.5, Edge For Covering Spread: -3.2%
+- **Washington Huskies**: -8.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Oregon Ducks Win Probability**: 22.5%
-- **Washington Huskies Win Probability**: 77.5%
+- **Oregon Ducks Win Probability**: 21.8%
+- **Washington Huskies Win Probability**: 78.2%
 
 ### Total
-- **Predicted Total**: 146.5
-- **Edge For Covering Over**: -3.5%
-- **Edge For Covering Under**: -1.2%
+- **Predicted Total**: 144.5
+- **Edge For Covering Over**: -1.1%
+- **Edge For Covering Under**: -3.7%
 
 ---
 
