@@ -28,9 +28,38 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Southern Illinois Salukis -3.5</p>
-  <p><strong>Moneyline:</strong> Southern Illinois Salukis (-170) | Evansville Purple Aces (+140)</p>
+  <p><strong>Moneyline:</strong> Southern Illinois Salukis (-167) | Evansville Purple Aces (+139)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
+
+### Game Analysis & Betting Breakdown
+#### Setting the Stage
+#136 Southern Illinois Salukis enters hostile territory as they take on #288 Evansville Purple Aces in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Southern Illinois Salukis favored by 3.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+
+#### Breaking Down the Spread
+The 3.5-point spread indicates Southern Illinois Salukis is viewed as the better team, but this isn't an overwhelming edge. Evansville Purple Aces has a legitimate path to covering or winning outright with a solid performance. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+
+#### Offensive Firepower
+**Southern Illinois Salukis** brings an offensive efficiency of 103.83 (ranked #248 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 27.9% from three, they can't rely on the arc. Expect a paint-focused attack. 
+Meanwhile, **Evansville Purple Aces** counters with 93.95 offensive efficiency (#348). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 29.6%, forcing them to grind in the half court. 
+
+#### Tempo & Playing Style
+Southern Illinois Salukis operates at a 70.8 tempo (#91), while Evansville Purple Aces plays at 70.8 (#191). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.8) should create a standard flow. 
+
+#### The Interior Battle
+Inside the paint, Southern Illinois Salukis shoots 53.3% on two-pointers, while Evansville Purple Aces converts at 49.4%. Both teams are evenly matched in paint efficiency. 
+Getting to the line matters too. Southern Illinois Salukis's free throw rate sits at 35.5, indicating they're aggressive attacking the rim and drawing contact. Evansville Purple Aces checks in at 34.7, meaning they don't manufacture easy points at the line. When they do get fouled, Southern Illinois Salukis converts 67.0% while Evansville Purple Aces hits 72.4%. Evansville Purple Aces's edge at the charity stripe matters in close finishes. 
+
+#### X-Factors & Intangibles
+Playing at home, Evansville Purple Aces gets the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Southern Illinois Salukis. 
+Defensively, Southern Illinois Salukis (#83 defensive efficiency) should have success against Evansville Purple Aces's weaker defense (#237). 
+
+#### The Betting Angle
+Small spreads like 3.5 create interesting dynamics. I'm looking at whether Southern Illinois Salukis can actually separate, or if this stays inside one possession. 
+Regarding the total of 142.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
+
+The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
+
 
 ### Game Storylines
 
@@ -113,17 +142,17 @@ Evansville Purple Aces comes in ranked #288 overall by KenPom. They've struggled
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Southern Illinois Salukis**: -4.0, Cover Probability: 0.5%
-- **Evansville Purple Aces**: 4.0, Cover Probability: -5.2%
+- **Southern Illinois Salukis**: -4.0, Cover Probability: 0.6%
+- **Evansville Purple Aces**: 4.0, Cover Probability: -5.5%
 
 ### Moneyline
-- **Southern Illinois Salukis Win Probability**: 62.4%
-- **Evansville Purple Aces Win Probability**: 37.6%
+- **Southern Illinois Salukis Win Probability**: 62.3%
+- **Evansville Purple Aces Win Probability**: 37.7%
 
 ### Total
 - **Predicted Total**: 140.5
-- **Over Cover Probability**: -3.3%
-- **Under Cover Probability**: -1.5%
+- **Over Cover Probability**: -3.4%
+- **Under Cover Probability**: -1.3%
 
 ---
 

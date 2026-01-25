@@ -28,9 +28,38 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Duke Blue Devils -6.5</p>
-  <p><strong>Moneyline:</strong> Duke Blue Devils (N/A) | Louisville Cardinals (N/A)</p>
+  <p><strong>Moneyline:</strong> Duke Blue Devils (-275) | Louisville Cardinals (+225)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
+
+### Game Analysis & Betting Breakdown
+#### Setting the Stage
+When #3 Duke Blue Devils travels to face #15 Louisville Cardinals, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Duke Blue Devils favored by 6.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+
+#### Breaking Down the Spread
+The 6.5-point spread indicates Duke Blue Devils is viewed as the better team, but this isn't an overwhelming edge. Louisville Cardinals has a legitimate path to covering or winning outright with a solid performance. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+
+#### Offensive Firepower
+**Duke Blue Devils** brings an offensive efficiency of 122.47 (ranked #14 nationally). This is an elite offense that can score in multiple ways. Their 34.4% three-point shooting is serviceable but won't scare anyone. 
+Meanwhile, **Louisville Cardinals** counters with 122.10 offensive efficiency (#16). This offense can match anyone bucket-for-bucket. At 35.3% from three, they have adequate spacing but must pick their spots. 
+
+#### Tempo & Playing Style
+Duke Blue Devils operates at a 69.9 tempo (#126), while Louisville Cardinals plays at 69.9 (#49). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.9) should create a standard flow. 
+
+#### The Interior Battle
+Inside the paint, Duke Blue Devils shoots 62.8% on two-pointers, while Louisville Cardinals converts at 60.5%. Both teams are evenly matched in paint efficiency. 
+Getting to the line matters too. Duke Blue Devils's free throw rate sits at 43.1, indicating they're aggressive attacking the rim and drawing contact. Louisville Cardinals checks in at 34.9, meaning they don't manufacture easy points at the line. When they do get fouled, Duke Blue Devils converts 71.7% while Louisville Cardinals hits 77.2%. Louisville Cardinals's edge at the charity stripe matters in close finishes. 
+
+#### X-Factors & Intangibles
+Playing at home, Louisville Cardinals gets the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
+Defensively, both teams rank similarly on the defensive end (#7 and #19), so offense may determine the outcome. 
+
+#### The Betting Angle
+The 6.5-point spread asks: can Louisville Cardinals keep it within striking distance? 
+Regarding the total of 155.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
+
+The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
+
 
 ### Game Storylines
 
@@ -113,17 +142,17 @@ Louisville Cardinals comes in ranked #15 overall by KenPom. Defensively, they've
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Duke Blue Devils**: -7.5, Cover Probability: 0.8%
-- **Louisville Cardinals**: 7.5, Cover Probability: -5.6%
+- **Duke Blue Devils**: -7.5, Cover Probability: 0.3%
+- **Louisville Cardinals**: 7.5, Cover Probability: -5.0%
 
 ### Moneyline
-- **Duke Blue Devils Win Probability**: N/A
-- **Louisville Cardinals Win Probability**: N/A
+- **Duke Blue Devils Win Probability**: 73.7%
+- **Louisville Cardinals Win Probability**: 26.3%
 
 ### Total
-- **Predicted Total**: 156.0
-- **Over Cover Probability**: -1.6%
-- **Under Cover Probability**: -3.2%
+- **Predicted Total**: 156.5
+- **Over Cover Probability**: -2.4%
+- **Under Cover Probability**: -2.4%
 
 ---
 
