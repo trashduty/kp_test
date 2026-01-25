@@ -9,6 +9,8 @@ on:
 jobs:
   generate-previews:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Need write permission to commit and push
     
     steps:
     - name: Checkout repository
