@@ -28,7 +28,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Florida A&M Rattlers -5.5</p>
-  <p><strong>Moneyline:</strong> Jackson St Tigers (+222) | Florida A&M Rattlers (-272)</p>
+  <p><strong>Moneyline:</strong> Jackson St Tigers (+220) | Florida A&M Rattlers (-270)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -37,7 +37,7 @@ categories: [basketball, preview]
 Florida A&M Rattlers (8-9) hosts Jackson St Tigers (5-14) at Lawson Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Florida A&M Rattlers favored by 5.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Florida A&M Rattlers is viewed as the better team, but this isn't an overwhelming edge. Jackson St Tigers has a legitimate path to covering or winning outright with a solid performance. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 5.5-point spread indicates Florida A&M Rattlers is viewed as the better team, but this isn't an overwhelming edge. Jackson St Tigers has a legitimate path to covering or winning outright. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Jackson St Tigers** bring an offensive efficiency of 92.22 (ranked #359 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.9% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -152,8 +152,8 @@ All that being said, here's how our model prices this game.
 - **Florida A&M Rattlers**: -6.5, Edge For Covering Spread: 0.4%
 
 ### Moneyline
-- **Jackson St Tigers Win Probability**: 29.1%
-- **Florida A&M Rattlers Win Probability**: 70.9%
+- **Jackson St Tigers Win Probability**: 29.2%
+- **Florida A&M Rattlers Win Probability**: 70.8%
 
 ### Total
 - **Predicted Total**: 149.0

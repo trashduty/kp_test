@@ -37,7 +37,7 @@ categories: [basketball, preview]
 Central Connecticut St Blue Devils (10-8) enters hostile territory as they take on Stonehill Skyhawks (6-14) at Merkert Gymnasium in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Central Connecticut St Blue Devils favored by 2.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under a field goal suggests the books see this as essentially a coin flip. Central Connecticut St Blue Devils's 2.5-point cushion reflects home court advantage more than a talent disparity. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under a field goal suggests the books see this as essentially a coin flip. Central Connecticut St Blue Devils's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Central Connecticut St Blue Devils** bring an offensive efficiency of 108.61 (ranked #170 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.9% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

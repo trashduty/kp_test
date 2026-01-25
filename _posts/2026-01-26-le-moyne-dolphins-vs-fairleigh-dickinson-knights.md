@@ -37,7 +37,7 @@ categories: [basketball, preview]
 Le Moyne Dolphins (10-10) enters hostile territory as they take on Fairleigh Dickinson Knights (7-13) at Bogota Savings Bank Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Le Moyne Dolphins favored by 2.5 points, with the total sitting at 140.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under a field goal suggests the books see this as essentially a coin flip. Le Moyne Dolphins's 2.5-point cushion reflects home court advantage more than a talent disparity. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under a field goal suggests the books see this as essentially a coin flip. Le Moyne Dolphins's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Le Moyne Dolphins** bring an offensive efficiency of 106.60 (ranked #205 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.0% three-point shooting is serviceable but won't scare anyone. 
@@ -64,7 +64,7 @@ The sharp play isn't always obvious. Watch for line movement, injury reports, an
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Le Moyne Dolphins significantly higher in the rankings, but as they say, that's why they play the games. Fairleigh Dickinson Knights will need their best performance of the season to pull off the upset. 
+This looks like a mismatch on paper with Le Moyne Dolphins significantly higher in the rankings, but as they say, that's why they play the games. Fairleigh Dickinson Knights will need their best performance to keep it close. 
 
 **Key Matchup: Le Moyne Dolphins's Offense vs Fairleigh Dickinson Knights's Defense**
 

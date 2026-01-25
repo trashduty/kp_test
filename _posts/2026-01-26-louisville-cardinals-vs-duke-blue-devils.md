@@ -37,7 +37,7 @@ categories: [basketball, preview]
 When Louisville Cardinals (14-5) travels to face Duke Blue Devils (18-1) at Cameron Indoor Stadium, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Duke Blue Devils favored by 7.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us Duke Blue Devils has clear advantages, but games aren't played on paper. Louisville Cardinals needs to punch above their weight class to keep this competitive. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us Duke Blue Devils has clear advantages, but games aren't played on paper. Louisville Cardinals needs to punch above their weight class to keep it close. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Louisville Cardinals** bring an offensive efficiency of 122.10 (ranked #16 nationally). This is an elite offense that can score in multiple ways. Their 35.3% three-point shooting is serviceable but won't scare anyone. 
@@ -69,8 +69,6 @@ On paper, Duke Blue Devils holds the advantage as the higher-ranked team, but Lo
 **Key Matchup: The Battle in the Trenches**
 
 Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
-
-**X-Factor:** Louisville Cardinals can light it up from three-point range (35.3%), but Duke Blue Devils defend the arc exceptionally well, holding opponents to just 31.1%. This battle could determine the outcome. 
 
 
 ## Louisville Cardinals

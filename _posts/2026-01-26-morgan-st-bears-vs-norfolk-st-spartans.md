@@ -37,7 +37,7 @@ categories: [basketball, preview]
 Norfolk St Spartans (10-12) hosts Morgan St Bears (7-13) at Echols Hall in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Norfolk St Spartans favored by 9.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Norfolk St Spartans has clear advantages, but games aren't played on paper. Morgan St Bears needs to punch above their weight class to keep this competitive. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 9.5 points tells us Norfolk St Spartans has clear advantages, but games aren't played on paper. Morgan St Bears needs to punch above their weight class to keep it close. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Morgan St Bears** bring an offensive efficiency of 96.89 (ranked #334 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.3% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -64,7 +64,7 @@ The sharp play isn't always obvious. Watch for line movement, injury reports, an
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Norfolk St Spartans significantly higher in the rankings, but as they say, that's why they play the games. Morgan St Bears will need their best performance of the season to pull off the upset. 
+This looks like a mismatch on paper with Norfolk St Spartans significantly higher in the rankings, but as they say, that's why they play the games. Morgan St Bears will need their best performance to keep it close. 
 
 **Key Matchup: The Battle in the Trenches**
 

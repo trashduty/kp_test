@@ -37,7 +37,7 @@ categories: [basketball, preview]
 When South Carolina St Bulldogs (4-16) travels to face Delaware St Hornets (5-14) at Memorial Hall, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Delaware St Hornets favored by 0.0 points, with the total sitting at 134.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under a field goal suggests the books see this as essentially a coin flip. Delaware St Hornets's 0.0-point cushion reflects home court advantage more than a talent disparity. The total of 134.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+A spread under a field goal suggests the books see this as essentially a coin flip. Delaware St Hornets's 0.0-point cushion reflects home court advantage more than a talent gap. The total of 134.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **South Carolina St Bulldogs** bring an offensive efficiency of 93.79 (ranked #349 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.2% three-point shooting is serviceable but won't scare anyone. 
@@ -64,7 +64,7 @@ The sharp play isn't always obvious. Watch for line movement, injury reports, an
 
 ### Game Storylines
 
-This matchup features two evenly-matched teams, with South Carolina St Bulldogs at #361 and Delaware St Hornets at #357 in the KenPom rankings. Expect a competitive battle throughout. 
+This matchup features two evenly-matched teams, with South Carolina St Bulldogs at #361 and Delaware St Hornets at #357 in the KenPom rankings. Expect a competitive battle throughout.
 
 **Key Matchup: The Battle in the Trenches**
 

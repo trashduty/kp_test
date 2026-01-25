@@ -28,7 +28,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Ohio State Buckeyes -13.5</p>
-  <p><strong>Moneyline:</strong> Penn State Nittany Lions (+800) | Ohio State Buckeyes (-1400)</p>
+  <p><strong>Moneyline:</strong> Penn State Nittany Lions (+733) | Ohio State Buckeyes (-1202)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -69,6 +69,8 @@ On paper, Penn State Nittany Lions holds the advantage as the higher-ranked team
 **Key Matchup: Penn State Nittany Lions's Offense vs Ohio State Buckeyes's Defense**
 
 Penn State Nittany Lions bring a middle-of-the-pack offense (ranked #186) that could exploit Ohio State Buckeyes's defensive vulnerabilities (ranked #256). 
+
+**X-Factor:** Penn State Nittany Lions can light it up from three-point range (38.5%), but Ohio State Buckeyes defend the arc exceptionally well, holding opponents to just 31.2%. 
 
 
 ## Penn State Nittany Lions
@@ -152,8 +154,8 @@ All that being said, here's how our model prices this game.
 - **Ohio State Buckeyes**: -14.5, Edge For Covering Spread: 1.3%
 
 ### Moneyline
-- **Penn State Nittany Lions Win Probability**: 10.3%
-- **Ohio State Buckeyes Win Probability**: 89.7%
+- **Penn State Nittany Lions Win Probability**: 10.8%
+- **Ohio State Buckeyes Win Probability**: 89.2%
 
 ### Total
 - **Predicted Total**: 154.0
