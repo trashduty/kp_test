@@ -41,7 +41,7 @@ On paper, Wisconsin Badgers holds the advantage as the higher-ranked team, but U
 Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
 
 
-## Away Team: USC Trojans
+## Team: USC Trojans
 
 USC Trojans comes in ranked #51 overall by KenPom. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.5% from three. 
 
@@ -74,7 +74,7 @@ USC Trojans comes in ranked #51 overall by KenPom. On the defensive end, they're
 
 ---
 
-## Home Team: Wisconsin Badgers
+## Team: Wisconsin Badgers
 
 Wisconsin Badgers comes in ranked #39 overall by KenPom. They boast one of the nation's top offenses, ranked #48 in efficiency. 
 

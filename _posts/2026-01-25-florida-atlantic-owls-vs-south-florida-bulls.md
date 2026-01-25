@@ -41,7 +41,7 @@ On paper, South Florida Bulls holds the advantage as the higher-ranked team, but
 Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
 
 
-## Away Team: Florida Atlantic Owls
+## Team: Florida Atlantic Owls
 
 Florida Atlantic Owls comes in ranked #92 overall by KenPom. 
 
@@ -74,7 +74,7 @@ Florida Atlantic Owls comes in ranked #92 overall by KenPom.
 
 ---
 
-## Home Team: South Florida Bulls
+## Team: South Florida Bulls
 
 South Florida Bulls comes in ranked #73 overall by KenPom. 
 

@@ -41,7 +41,7 @@ On paper, Washington Huskies holds the advantage as the higher-ranked team, but 
 Washington Huskies features a solid offense (ranked #100) that should find success against Oregon Ducks's defensive unit (ranked #221). 
 
 
-## Away Team: Oregon Ducks
+## Team: Oregon Ducks
 
 Oregon Ducks comes in ranked #85 overall by KenPom. 
 
@@ -74,7 +74,7 @@ Oregon Ducks comes in ranked #85 overall by KenPom.
 
 ---
 
-## Home Team: Washington Huskies
+## Team: Washington Huskies
 
 Washington Huskies comes in ranked #49 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
 

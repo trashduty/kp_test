@@ -41,7 +41,7 @@ This looks like a mismatch on paper with Mercyhurst Lakers significantly higher 
 Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
 
 
-## Away Team: Chicago St Cougars
+## Team: Chicago St Cougars
 
 Chicago St Cougars comes in ranked #359 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
@@ -74,7 +74,7 @@ Chicago St Cougars comes in ranked #359 overall by KenPom. The three-point shot 
 
 ---
 
-## Home Team: Mercyhurst Lakers
+## Team: Mercyhurst Lakers
 
 Mercyhurst Lakers comes in ranked #296 overall by KenPom. They've struggled from deep this year, meaning they'll need to rely on interior scoring and getting to the free throw line. 
 

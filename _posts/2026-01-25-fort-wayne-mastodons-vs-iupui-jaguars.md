@@ -43,7 +43,7 @@ Fort Wayne Mastodons brings a middle-of-the-pack offense (ranked #180) that coul
 **Pace of Play:** IUPUI Jaguars likes to push the pace, while Fort Wayne Mastodons prefers a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
 
 
-## Away Team: Fort Wayne Mastodons
+## Team: Fort Wayne Mastodons
 
 Fort Wayne Mastodons comes in ranked #224 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
@@ -76,7 +76,7 @@ Fort Wayne Mastodons comes in ranked #224 overall by KenPom. Defense has been a 
 
 ---
 
-## Home Team: IUPUI Jaguars
+## Team: IUPUI Jaguars
 
 IUPUI Jaguars comes in ranked #316 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Stopping opponents has been an issue all season long. 
 

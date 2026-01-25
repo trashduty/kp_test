@@ -41,7 +41,7 @@ This looks like a mismatch on paper with Southern Illinois Salukis significantly
 Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
 
 
-## Away Team: Southern Illinois Salukis
+## Team: Southern Illinois Salukis
 
 Southern Illinois Salukis comes in ranked #136 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
 
@@ -74,7 +74,7 @@ Southern Illinois Salukis comes in ranked #136 overall by KenPom. The three-poin
 
 ---
 
-## Home Team: Evansville Purple Aces
+## Team: Evansville Purple Aces
 
 Evansville Purple Aces comes in ranked #288 overall by KenPom. They've struggled from deep this year, meaning they'll need to rely on interior scoring and getting to the free throw line. 
 
