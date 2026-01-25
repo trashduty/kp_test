@@ -27,17 +27,17 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Arizona Wildcats -3.5</p>
-  <p><strong>Moneyline:</strong> Arizona Wildcats (-148) | BYU Cougars (+121)</p>
+  <p><strong>Spread:</strong> Arizona Wildcats -3.0</p>
+  <p><strong>Moneyline:</strong> Arizona Wildcats (-155) | BYU Cougars (+130)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When #1 Arizona Wildcats travels to face #16 BYU Cougars, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Arizona Wildcats favored by 3.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When #1 Arizona Wildcats travels to face #16 BYU Cougars, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Arizona Wildcats favored by 3.0 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Arizona Wildcats is viewed as the better team, but this isn't an overwhelming edge. BYU Cougars has a legitimate path to covering or winning outright with a solid performance. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.0-point spread indicates Arizona Wildcats is viewed as the better team, but this isn't an overwhelming edge. BYU Cougars has a legitimate path to covering or winning outright with a solid performance. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Arizona Wildcats** brings an offensive efficiency of 122.67 (ranked #13 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.4% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -55,7 +55,7 @@ Playing at home, BYU Cougars gets the crowd advantage and familiar surroundings.
 Defensively, both teams rank similarly on the defensive end (#3 and #31), so offense may determine the outcome. 
 
 #### The Betting Angle
-Small spreads like 3.5 create interesting dynamics. I'm looking at whether Arizona Wildcats can actually separate, or if this stays inside one possession. 
+Small spreads like 3.0 create interesting dynamics. I'm looking at whether Arizona Wildcats can actually separate, or if this stays inside one possession. 
 Regarding the total of 161.5: Two offenses that can score, playing at pace? I lean over. 
 
 The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
@@ -144,12 +144,12 @@ BYU Cougars comes in ranked #16 overall by KenPom. They boast one of the nation'
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arizona Wildcats**: -3.0, Cover Probability: -2.8%
-- **BYU Cougars**: 3.0, Cover Probability: -1.9%
+- **Arizona Wildcats**: -3.0, Cover Probability: -1.8%
+- **BYU Cougars**: 3.0, Cover Probability: -2.9%
 
 ### Moneyline
-- **Arizona Wildcats Win Probability**: 57.4%
-- **BYU Cougars Win Probability**: 42.6%
+- **Arizona Wildcats Win Probability**: 58.1%
+- **BYU Cougars Win Probability**: 41.9%
 
 ### Total
 - **Predicted Total**: 163.0
