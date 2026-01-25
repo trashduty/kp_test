@@ -36,19 +36,16 @@ def test_date_filtering_logic():
     tomorrow = today + timedelta(days=1)
     day_after = today + timedelta(days=2)
     
-    # Create mock game data
+    # Create mock parsed datetime objects directly (avoiding string formatting issues)
     mock_data = pd.DataFrame({
-        'Game Time': [
-            today.strftime('%b %d 07:00PM ET').replace(' 0', ' '),
-            tomorrow.strftime('%b %d 08:00PM ET').replace(' 0', ' '),
-            day_after.strftime('%b %d 09:00PM ET').replace(' 0', ' '),
-        ],
         'Game': ['Game1', 'Game2', 'Game3'],
-        'Team': ['TeamA', 'TeamB', 'TeamC']
+        'Team': ['TeamA', 'TeamB', 'TeamC'],
+        'parsed_time': [
+            today.replace(hour=19, minute=0, second=0, microsecond=0),
+            tomorrow.replace(hour=20, minute=0, second=0, microsecond=0),
+            day_after.replace(hour=21, minute=0, second=0, microsecond=0),
+        ]
     })
-    
-    # Parse game times
-    mock_data['parsed_time'] = mock_data['Game Time'].apply(parse_game_time)
     
     # Filter for today and tomorrow (same logic as in the script)
     target_games = mock_data[

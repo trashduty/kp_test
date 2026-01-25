@@ -5,7 +5,7 @@ Generate college basketball game matchup preview posts.
 This script:
 1. Downloads CBB_Output.csv and kp.csv from the trashduty/cbb repository
 2. Loads local kenpom_stats.csv
-3. Identifies games for the next day
+3. Identifies games for today and tomorrow
 4. Generates markdown preview posts for each game
 """
 
