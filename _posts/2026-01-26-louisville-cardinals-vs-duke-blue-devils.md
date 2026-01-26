@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Duke Blue Devils -7.5</p>
-  <p><strong>Moneyline:</strong> Louisville Cardinals (+247) | Duke Blue Devils (-302)</p>
+  <p><strong>Moneyline:</strong> Louisville Cardinals (+252) | Duke Blue Devils (-312)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -138,8 +138,8 @@ All that being said, here's how our model prices this game.
 - **Duke Blue Devils**: -8.0, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Louisville Cardinals Win Probability**: 25.3%
-- **Duke Blue Devils Win Probability**: 74.7%
+- **Louisville Cardinals Win Probability**: 25.1%
+- **Duke Blue Devils Win Probability**: 74.9%
 
 ### Total
 - **Predicted Total**: 157.0

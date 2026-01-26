@@ -142,9 +142,9 @@ All that being said, here's how our model prices this game.
 - **Texas A&M-CC Islanders Win Probability**: 62.6%
 
 ### Total
-- **Predicted Total**: 133.0
-- **Edge For Covering The Over**: -2.2%
-- **Edge For Covering The Under**: -2.6%
+- **Predicted Total**: 134.0
+- **Edge For Covering The Over**: -2.0%
+- **Edge For Covering The Under**: -2.7%
 
 ---
 

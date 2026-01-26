@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arizona Wildcats -1.5</p>
-  <p><strong>Moneyline:</strong> Arizona Wildcats (-130) | BYU Cougars (+107)</p>
+  <p><strong>Moneyline:</strong> Arizona Wildcats (-132) | BYU Cougars (+110)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -134,17 +134,17 @@ BYU Cougars comes in ranked #15 overall by KenPom. They boast one of the nation'
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arizona Wildcats**: -2.0, Edge For Covering Spread: -0.5%
-- **BYU Cougars**: 2.0, Edge For Covering Spread: -4.2%
+- **Arizona Wildcats**: -2.0, Edge For Covering Spread: -1.9%
+- **BYU Cougars**: 2.0, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Arizona Wildcats Win Probability**: 55.8%
-- **BYU Cougars Win Probability**: 44.2%
+- **Arizona Wildcats Win Probability**: 56.0%
+- **BYU Cougars Win Probability**: 44.0%
 
 ### Total
-- **Predicted Total**: 163.5
-- **Edge For Covering The Over**: -4.3%
-- **Edge For Covering The Under**: -0.4%
+- **Predicted Total**: 164.5
+- **Edge For Covering The Over**: -4.5%
+- **Edge For Covering The Under**: -0.2%
 
 ---
 

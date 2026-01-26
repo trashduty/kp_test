@@ -132,8 +132,8 @@ Norfolk St Spartans comes in ranked #298 overall by KenPom. On the defensive end
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Morgan St Bears**: 10.5, Edge For Covering Spread: -4.4%
-- **Norfolk St Spartans**: -10.5, Edge For Covering Spread: -0.3%
+- **Morgan St Bears**: 10.5, Edge For Covering Spread: -5.6%
+- **Norfolk St Spartans**: -10.5, Edge For Covering Spread: 0.8%
 
 ### Moneyline
 - **Morgan St Bears Win Probability**: 17.0%

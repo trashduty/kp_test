@@ -140,9 +140,9 @@ All that being said, here's how our model prices this game.
 - **Ohio State Buckeyes Win Probability**: 88.9%
 
 ### Total
-- **Predicted Total**: 154.0
+- **Predicted Total**: 154.5
 - **Edge For Covering The Over**: -2.4%
-- **Edge For Covering The Under**: -2.3%
+- **Edge For Covering The Under**: -2.4%
 
 ---
 

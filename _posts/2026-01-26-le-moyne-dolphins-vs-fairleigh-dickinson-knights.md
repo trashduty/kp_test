@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Le Moyne Dolphins -2.5</p>
-  <p><strong>Moneyline:</strong> Le Moyne Dolphins (-152) | Fairleigh Dickinson Knights (+129)</p>
+  <p><strong>Moneyline:</strong> Le Moyne Dolphins (-145) | Fairleigh Dickinson Knights (+122)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -132,17 +132,17 @@ Fairleigh Dickinson Knights comes in ranked #337 overall by KenPom. The three-po
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Le Moyne Dolphins**: -2.5, Edge For Covering Spread: -3.5%
-- **Fairleigh Dickinson Knights**: 2.5, Edge For Covering Spread: -1.2%
+- **Le Moyne Dolphins**: -2.5, Edge For Covering Spread: -2.4%
+- **Fairleigh Dickinson Knights**: 2.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Le Moyne Dolphins Win Probability**: 58.4%
-- **Fairleigh Dickinson Knights Win Probability**: 41.6%
+- **Le Moyne Dolphins Win Probability**: 57.8%
+- **Fairleigh Dickinson Knights Win Probability**: 42.2%
 
 ### Total
-- **Predicted Total**: 143.0
-- **Edge For Covering The Over**: 0.2%
-- **Edge For Covering The Under**: -4.9%
+- **Predicted Total**: 143.5
+- **Edge For Covering The Over**: -1.2%
+- **Edge For Covering The Under**: -3.5%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> South Carolina St Bulldogs -1.5</p>
-  <p><strong>Moneyline:</strong> South Carolina St Bulldogs (-115) | Delaware St Hornets (-105)</p>
+  <p><strong>Moneyline:</strong> South Carolina St Bulldogs (-125) | Delaware St Hornets (+105)</p>
   <p><strong>Total:</strong> 134.5</p>
 </div>
 
@@ -132,12 +132,12 @@ Delaware St Hornets comes in ranked #357 overall by KenPom. The three-point shot
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Carolina St Bulldogs**: -2.0, Edge For Covering Spread: 1.2%
-- **Delaware St Hornets**: 2.0, Edge For Covering Spread: -5.9%
+- **South Carolina St Bulldogs**: -2.0, Edge For Covering Spread: -0.2%
+- **Delaware St Hornets**: 2.0, Edge For Covering Spread: -4.6%
 
 ### Moneyline
-- **South Carolina St Bulldogs Win Probability**: 57.5%
-- **Delaware St Hornets Win Probability**: 42.5%
+- **South Carolina St Bulldogs Win Probability**: 58.6%
+- **Delaware St Hornets Win Probability**: 41.4%
 
 ### Total
 - **Predicted Total**: 136.0
