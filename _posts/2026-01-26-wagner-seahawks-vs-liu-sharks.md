@@ -8,22 +8,6 @@ categories: [basketball, preview]
 # Wagner Seahawks vs LIU Sharks
 ## Game Preview for January 26, 2026
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
-  <tr>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://via.placeholder.com/150" alt="Wagner Seahawks logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>Wagner Seahawks</strong></p>
-    </td>
-    <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
-      VS
-    </td>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://via.placeholder.com/150" alt="LIU Sharks logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>LIU Sharks</strong></p>
-    </td>
-  </tr>
-</table>
-
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
@@ -148,8 +132,8 @@ LIU Sharks comes in ranked #216 overall by KenPom.
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wagner Seahawks**: 9.5, Edge For Covering Spread: 1.0%
-- **LIU Sharks**: -9.5, Edge For Covering Spread: -5.7%
+- **Wagner Seahawks**: 9.5, Edge For Covering Spread: 0.4%
+- **LIU Sharks**: -9.5, Edge For Covering Spread: -5.2%
 
 ### Moneyline
 - **Wagner Seahawks Win Probability**: 18.3%
@@ -157,8 +141,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 146.5
-- **Edge For Covering The Over**: 1.8%
-- **Edge For Covering The Under**: -6.5%
+- **Edge For Covering The Over**: 1.2%
+- **Edge For Covering The Under**: -5.9%
 
 ---
 

@@ -8,27 +8,11 @@ categories: [basketball, preview]
 # Central Connecticut St Blue Devils vs Stonehill Skyhawks
 ## Game Preview for January 26, 2026
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
-  <tr>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://via.placeholder.com/150" alt="Central Connecticut St Blue Devils logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>Central Connecticut St Blue Devils</strong></p>
-    </td>
-    <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
-      VS
-    </td>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://via.placeholder.com/150" alt="Stonehill Skyhawks logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>Stonehill Skyhawks</strong></p>
-    </td>
-  </tr>
-</table>
-
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Central Connecticut St Blue Devils -2.5</p>
-  <p><strong>Moneyline:</strong> Central Connecticut St Blue Devils (-142) | Stonehill Skyhawks (+120)</p>
+  <p><strong>Moneyline:</strong> Central Connecticut St Blue Devils (-143) | Stonehill Skyhawks (+120)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -148,17 +132,17 @@ Stonehill Skyhawks comes in ranked #341 overall by KenPom.
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Central Connecticut St Blue Devils**: -1.5, Edge For Covering Spread: -4.7%
-- **Stonehill Skyhawks**: 1.5, Edge For Covering Spread: -0.0%
+- **Central Connecticut St Blue Devils**: -1.5, Edge For Covering Spread: -5.0%
+- **Stonehill Skyhawks**: 1.5, Edge For Covering Spread: 0.3%
 
 ### Moneyline
-- **Central Connecticut St Blue Devils Win Probability**: 54.7%
-- **Stonehill Skyhawks Win Probability**: 45.3%
+- **Central Connecticut St Blue Devils Win Probability**: 54.8%
+- **Stonehill Skyhawks Win Probability**: 45.2%
 
 ### Total
 - **Predicted Total**: 135.5
-- **Edge For Covering The Over**: -2.4%
-- **Edge For Covering The Under**: -2.4%
+- **Edge For Covering The Over**: -2.9%
+- **Edge For Covering The Under**: -3.5%
 
 ---
 

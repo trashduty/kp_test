@@ -8,36 +8,20 @@ categories: [basketball, preview]
 # South Carolina St Bulldogs vs Delaware St Hornets
 ## Game Preview for January 26, 2026
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
-  <tr>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://via.placeholder.com/150" alt="South Carolina St Bulldogs logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>South Carolina St Bulldogs</strong></p>
-    </td>
-    <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
-      VS
-    </td>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://via.placeholder.com/150" alt="Delaware St Hornets logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>Delaware St Hornets</strong></p>
-    </td>
-  </tr>
-</table>
-
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Pick'em</p>
-  <p><strong>Moneyline:</strong> South Carolina St Bulldogs (-107) | Delaware St Hornets (-113)</p>
+  <p><strong>Spread:</strong> South Carolina St Bulldogs -1.5</p>
+  <p><strong>Moneyline:</strong> South Carolina St Bulldogs (-115) | Delaware St Hornets (-105)</p>
   <p><strong>Total:</strong> 134.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When South Carolina St Bulldogs (4-16) travels to face Delaware St Hornets (5-14) at Memorial Hall, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Delaware St Hornets favored by 0.0 points, with the total sitting at 134.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When South Carolina St Bulldogs (4-16) travels to face Delaware St Hornets (5-14) at Memorial Hall, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into South Carolina St Bulldogs favored by 1.5 points, with the total sitting at 134.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under a field goal suggests the books see this as essentially a coin flip. Delaware St Hornets's 0.0-point cushion reflects home court advantage more than a talent disparity. The total of 134.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+A spread under a field goal suggests the books see this as essentially a coin flip. South Carolina St Bulldogs's 1.5-point cushion reflects home court advantage more than a talent disparity. The total of 134.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **South Carolina St Bulldogs** bring an offensive efficiency of 93.79 (ranked #349 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.2% three-point shooting is serviceable but won't scare anyone. 
@@ -56,7 +40,7 @@ From a coaching perspective, Erik Martin leads South Carolina St Bulldogs while 
 Defensively, Delaware St Hornets (#167 defensive efficiency) will look to clamp down on South Carolina St Bulldogs (#357 defensively). 
 
 #### The Betting Angle
-Small spreads like 0.0 create interesting dynamics. I'm looking at whether Delaware St Hornets can actually separate, or if this stays inside one possession. 
+Small spreads like 1.5 create interesting dynamics. I'm looking at whether South Carolina St Bulldogs can actually separate, or if this stays inside one possession. 
 Regarding the total of 134.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
 
 The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
@@ -148,17 +132,17 @@ Delaware St Hornets comes in ranked #357 overall by KenPom. The three-point shot
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Carolina St Bulldogs**: -1.0, Edge For Covering Spread: 1.1%
-- **Delaware St Hornets**: 1.0, Edge For Covering Spread: -6.6%
+- **South Carolina St Bulldogs**: -2.0, Edge For Covering Spread: 1.2%
+- **Delaware St Hornets**: 2.0, Edge For Covering Spread: -5.9%
 
 ### Moneyline
-- **South Carolina St Bulldogs Win Probability**: 56.7%
-- **Delaware St Hornets Win Probability**: 43.3%
+- **South Carolina St Bulldogs Win Probability**: 57.5%
+- **Delaware St Hornets Win Probability**: 42.5%
 
 ### Total
 - **Predicted Total**: 136.0
-- **Edge For Covering The Over**: N/A
-- **Edge For Covering The Under**: N/A
+- **Edge For Covering The Over**: -2.4%
+- **Edge For Covering The Under**: -2.3%
 
 ---
 

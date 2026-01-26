@@ -8,27 +8,11 @@ categories: [basketball, preview]
 # Morgan St Bears vs Norfolk St Spartans
 ## Game Preview for January 26, 2026
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
-  <tr>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://via.placeholder.com/150" alt="Morgan St Bears logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>Morgan St Bears</strong></p>
-    </td>
-    <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
-      VS
-    </td>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://via.placeholder.com/150" alt="Norfolk St Spartans logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>Norfolk St Spartans</strong></p>
-    </td>
-  </tr>
-</table>
-
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Norfolk St Spartans -9.5</p>
-  <p><strong>Moneyline:</strong> Morgan St Bears (+380) | Norfolk St Spartans (-550)</p>
+  <p><strong>Moneyline:</strong> Morgan St Bears (+375) | Norfolk St Spartans (-516)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -152,13 +136,13 @@ All that being said, here's how our model prices this game.
 - **Norfolk St Spartans**: -10.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **Morgan St Bears Win Probability**: 16.9%
-- **Norfolk St Spartans Win Probability**: 83.1%
+- **Morgan St Bears Win Probability**: 17.0%
+- **Norfolk St Spartans Win Probability**: 83.0%
 
 ### Total
 - **Predicted Total**: 152.5
-- **Edge For Covering The Over**: -5.8%
-- **Edge For Covering The Under**: -0.5%
+- **Edge For Covering The Over**: -5.0%
+- **Edge For Covering The Under**: 0.3%
 
 ---
 

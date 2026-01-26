@@ -8,27 +8,11 @@ categories: [basketball, preview]
 # Le Moyne Dolphins vs Fairleigh Dickinson Knights
 ## Game Preview for January 26, 2026
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
-  <tr>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://via.placeholder.com/150" alt="Le Moyne Dolphins logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>Le Moyne Dolphins</strong></p>
-    </td>
-    <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
-      VS
-    </td>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/fairleigh-dickinson.svg" alt="Fairleigh Dickinson Knights logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>Fairleigh Dickinson Knights</strong></p>
-    </td>
-  </tr>
-</table>
-
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Le Moyne Dolphins -2.5</p>
-  <p><strong>Moneyline:</strong> Le Moyne Dolphins (-154) | Fairleigh Dickinson Knights (+130)</p>
+  <p><strong>Moneyline:</strong> Le Moyne Dolphins (-152) | Fairleigh Dickinson Knights (+129)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -152,13 +136,13 @@ All that being said, here's how our model prices this game.
 - **Fairleigh Dickinson Knights**: 2.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Le Moyne Dolphins Win Probability**: 58.4%
-- **Fairleigh Dickinson Knights Win Probability**: 41.6%
+- **Le Moyne Dolphins Win Probability**: 58.3%
+- **Fairleigh Dickinson Knights Win Probability**: 41.7%
 
 ### Total
-- **Predicted Total**: 143.0
-- **Edge For Covering The Over**: -0.3%
-- **Edge For Covering The Under**: -4.5%
+- **Predicted Total**: 142.5
+- **Edge For Covering The Over**: -1.5%
+- **Edge For Covering The Under**: -5.0%
 
 ---
 

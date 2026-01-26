@@ -8,36 +8,20 @@ categories: [basketball, preview]
 # Louisville Cardinals vs Duke Blue Devils
 ## Game Preview for January 26, 2026
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
-  <tr>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/louisville.svg" alt="Louisville Cardinals logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>Louisville Cardinals</strong></p>
-    </td>
-    <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
-      VS
-    </td>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Duke_Athletics_logo.svg/300px-Duke_Athletics_logo.svg.png" alt="Duke Blue Devils logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>Duke Blue Devils</strong></p>
-    </td>
-  </tr>
-</table>
-
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Duke Blue Devils -7.0</p>
-  <p><strong>Moneyline:</strong> Louisville Cardinals (+235) | Duke Blue Devils (-295)</p>
+  <p><strong>Spread:</strong> Duke Blue Devils -7.5</p>
+  <p><strong>Moneyline:</strong> Louisville Cardinals (+247) | Duke Blue Devils (-302)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Louisville Cardinals (14-5) travels to face Duke Blue Devils (18-1) at Cameron Indoor Stadium, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Duke Blue Devils favored by 7.0 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Louisville Cardinals (14-5) travels to face Duke Blue Devils (18-1) at Cameron Indoor Stadium, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Duke Blue Devils favored by 7.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.0 points tells us Duke Blue Devils has clear advantages, but games aren't played on paper. Louisville Cardinals needs to punch above their weight class to keep this competitive. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us Duke Blue Devils has clear advantages, but games aren't played on paper. Louisville Cardinals needs to punch above their weight class to keep this competitive. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Louisville Cardinals** bring an offensive efficiency of 122.10 (ranked #16 nationally). This is an elite offense that can score in multiple ways. Their 35.3% three-point shooting is serviceable but won't scare anyone. 
@@ -56,7 +40,7 @@ From a coaching perspective, Pat Kelsey leads Louisville Cardinals while Jon Sch
 Defensively, both teams rank similarly on the defensive end (#20 and #7), so offense may determine the outcome. 
 
 #### The Betting Angle
-The 7.0-point spread asks: can Louisville Cardinals keep it within striking distance? 
+The 7.5-point spread asks: can Louisville Cardinals keep it within striking distance? 
 Regarding the total of 155.5: Two offenses that can score, playing at pace? I lean over. 
 
 The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
@@ -150,17 +134,17 @@ Duke Blue Devils comes in ranked #3 overall by KenPom. Defensively, they've been
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Louisville Cardinals**: 7.5, Edge For Covering Spread: -3.3%
-- **Duke Blue Devils**: -7.5, Edge For Covering Spread: -1.7%
+- **Louisville Cardinals**: 8.0, Edge For Covering Spread: -4.0%
+- **Duke Blue Devils**: -8.0, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Louisville Cardinals Win Probability**: 25.8%
-- **Duke Blue Devils Win Probability**: 74.2%
+- **Louisville Cardinals Win Probability**: 25.3%
+- **Duke Blue Devils Win Probability**: 74.7%
 
 ### Total
 - **Predicted Total**: 157.0
-- **Edge For Covering The Over**: -2.0%
-- **Edge For Covering The Under**: -2.7%
+- **Edge For Covering The Over**: -2.1%
+- **Edge For Covering The Under**: -2.6%
 
 ---
 

@@ -8,27 +8,11 @@ categories: [basketball, preview]
 # Florida A&M Rattlers vs Jackson St Tigers
 ## Game Preview for January 26, 2026
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
-  <tr>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/florida-am.svg" alt="Florida A&M Rattlers logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>Florida A&M Rattlers</strong></p>
-    </td>
-    <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
-      VS
-    </td>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://via.placeholder.com/150" alt="Jackson St Tigers logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>Jackson St Tigers</strong></p>
-    </td>
-  </tr>
-</table>
-
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Florida A&M Rattlers -5.5</p>
-  <p><strong>Moneyline:</strong> Florida A&M Rattlers (-270) | Jackson St Tigers (+220)</p>
+  <p><strong>Moneyline:</strong> Florida A&M Rattlers (-260) | Jackson St Tigers (+210)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -148,17 +132,17 @@ Jackson St Tigers comes in ranked #342 overall by KenPom. The three-point shot h
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida A&M Rattlers**: -6.5, Edge For Covering Spread: 0.4%
-- **Jackson St Tigers**: 6.5, Edge For Covering Spread: -5.1%
+- **Florida A&M Rattlers**: -6.5, Edge For Covering Spread: -0.3%
+- **Jackson St Tigers**: 6.5, Edge For Covering Spread: -4.4%
 
 ### Moneyline
-- **Florida A&M Rattlers Win Probability**: 70.8%
-- **Jackson St Tigers Win Probability**: 29.2%
+- **Florida A&M Rattlers Win Probability**: 70.3%
+- **Jackson St Tigers Win Probability**: 29.7%
 
 ### Total
 - **Predicted Total**: 149.0
-- **Edge For Covering The Over**: -4.3%
-- **Edge For Covering The Under**: -0.4%
+- **Edge For Covering The Over**: -3.7%
+- **Edge For Covering The Under**: -1.0%
 
 ---
 

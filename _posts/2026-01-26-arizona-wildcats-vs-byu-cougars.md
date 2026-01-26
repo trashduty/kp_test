@@ -8,27 +8,11 @@ categories: [basketball, preview]
 # Arizona Wildcats vs BYU Cougars
 ## Game Preview for January 26, 2026
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
-  <tr>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/arizona-st.svg" alt="Arizona Wildcats logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>Arizona Wildcats</strong></p>
-    </td>
-    <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
-      VS
-    </td>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://via.placeholder.com/150" alt="BYU Cougars logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>BYU Cougars</strong></p>
-    </td>
-  </tr>
-</table>
-
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arizona Wildcats -2.5</p>
-  <p><strong>Moneyline:</strong> Arizona Wildcats (-149) | BYU Cougars (+125)</p>
+  <p><strong>Moneyline:</strong> Arizona Wildcats (-150) | BYU Cougars (+127)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -150,17 +134,17 @@ BYU Cougars comes in ranked #15 overall by KenPom. They boast one of the nation'
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arizona Wildcats**: -2.5, Edge For Covering Spread: -2.6%
-- **BYU Cougars**: 2.5, Edge For Covering Spread: -2.2%
+- **Arizona Wildcats**: -2.5, Edge For Covering Spread: -3.2%
+- **BYU Cougars**: 2.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Arizona Wildcats Win Probability**: 57.6%
-- **BYU Cougars Win Probability**: 42.4%
+- **Arizona Wildcats Win Probability**: 57.8%
+- **BYU Cougars Win Probability**: 42.2%
 
 ### Total
-- **Predicted Total**: 164.0
-- **Edge For Covering The Over**: -4.9%
-- **Edge For Covering The Under**: -1.5%
+- **Predicted Total**: 163.5
+- **Edge For Covering The Over**: -4.7%
+- **Edge For Covering The Under**: -0.1%
 
 ---
 

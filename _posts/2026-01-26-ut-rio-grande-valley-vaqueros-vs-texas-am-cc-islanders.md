@@ -8,27 +8,11 @@ categories: [basketball, preview]
 # UT Rio Grande Valley Vaqueros vs Texas A&M-CC Islanders
 ## Game Preview for January 26, 2026
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
-  <tr>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://via.placeholder.com/150" alt="UT Rio Grande Valley Vaqueros logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>UT Rio Grande Valley Vaqueros</strong></p>
-    </td>
-    <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
-      VS
-    </td>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://via.placeholder.com/150" alt="Texas A&M-CC Islanders logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>Texas A&M-CC Islanders</strong></p>
-    </td>
-  </tr>
-</table>
-
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Texas A&M-CC Islanders -3.5</p>
-  <p><strong>Moneyline:</strong> UT Rio Grande Valley Vaqueros (+150) | Texas A&M-CC Islanders (-175)</p>
+  <p><strong>Moneyline:</strong> UT Rio Grande Valley Vaqueros (+150) | Texas A&M-CC Islanders (-180)</p>
   <p><strong>Total:</strong> 133.5</p>
 </div>
 
@@ -154,13 +138,13 @@ All that being said, here's how our model prices this game.
 - **Texas A&M-CC Islanders**: -3.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **UT Rio Grande Valley Vaqueros Win Probability**: 37.5%
-- **Texas A&M-CC Islanders Win Probability**: 62.5%
+- **UT Rio Grande Valley Vaqueros Win Probability**: 37.4%
+- **Texas A&M-CC Islanders Win Probability**: 62.6%
 
 ### Total
 - **Predicted Total**: 133.0
-- **Edge For Covering The Over**: -2.7%
-- **Edge For Covering The Under**: -2.0%
+- **Edge For Covering The Over**: -2.2%
+- **Edge For Covering The Under**: -2.6%
 
 ---
 
