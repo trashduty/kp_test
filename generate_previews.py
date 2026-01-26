@@ -237,7 +237,10 @@ def main():
     print(f"\n{'='*60}")
     print(f"Generation complete! Created {posts_created} preview posts.")
     print(f"Files created in:")
-    print(f"  - _posts/ ({len(os.listdir('_posts'))} files)")
+    try:
+        print(f"  - _posts/ ({len(os.listdir('_posts'))} files)")
+    except Exception as e:
+        print(f"  - _posts/ (error listing files: {e})")
     print(f"{'='*60}")
 
 if __name__ == "__main__":
