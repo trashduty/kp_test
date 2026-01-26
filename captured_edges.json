@@ -2290,5 +2290,9 @@
   "Oklahoma Sooners vs. Arkansas Razorbacks|Arkansas Razorbacks|spread": {
     "captured_at": "2026-01-26T19:10:47.948790+00:00",
     "edge_type": "spread"
+  },
+  "Miami (OH) RedHawks vs. Massachusetts Minutemen|Miami (OH) RedHawks|spread": {
+    "captured_at": "2026-01-26T23:08:19.604872+00:00",
+    "edge_type": "spread"
   }
 }
