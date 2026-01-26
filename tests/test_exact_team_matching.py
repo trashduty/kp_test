@@ -51,7 +51,7 @@ def test_exact_matching_penn():
     kenpom_df = pd.DataFrame({
         'Team': ['Penn', 'Penn St.', 'Arizona', 'Duke'],
         'Rk': [193, 133, 1, 3],
-        'Coach': ['Fran McCaffery', 'Mike Rhoades', 'Tommy Lloyd', 'Jon Scheyer']
+        'Coach': ['Steve Donahue', 'Mike Rhoades', 'Tommy Lloyd', 'Jon Scheyer']  # Fixed Penn coach
     })
     
     # Test Penn State (should normalize to "Penn St." and match)

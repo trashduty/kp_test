@@ -73,12 +73,12 @@ def find_team_in_kenpom(team_name, kenpom_df):
         print(f"  [DEBUG] Normalized match found for '{team_name}' -> '{normalized}'")
         return exact_match_normalized.iloc[0]
     
-    # Try matching with normalized kenpom names
-    for _, row in kenpom_df.iterrows():
-        kenpom_normalized = normalize_team_name(row['Team'])
-        if kenpom_normalized == normalized:
-            print(f"  [DEBUG] Match found after normalizing both: '{team_name}' -> '{row['Team']}'")
-            return row
+    # Try matching with normalized kenpom names (using vectorized operation)
+    kenpom_df['normalized_team'] = kenpom_df['Team'].apply(normalize_team_name)
+    matching_rows = kenpom_df[kenpom_df['normalized_team'] == normalized]
+    if not matching_rows.empty:
+        print(f"  [DEBUG] Match found after normalizing both: '{team_name}' -> '{matching_rows.iloc[0]['Team']}'")
+        return matching_rows.iloc[0]
     
     # No match found - DO NOT use partial matching
     print(f"  [DEBUG] No match found for '{team_name}' (normalized: '{normalized}')")
