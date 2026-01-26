@@ -136,8 +136,8 @@ All that being said, here's how our model prices this game.
 - **Fairleigh Dickinson Knights**: 2.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Le Moyne Dolphins Win Probability**: 58.3%
-- **Fairleigh Dickinson Knights Win Probability**: 41.7%
+- **Le Moyne Dolphins Win Probability**: 58.4%
+- **Fairleigh Dickinson Knights Win Probability**: 41.6%
 
 ### Total
 - **Predicted Total**: 142.5

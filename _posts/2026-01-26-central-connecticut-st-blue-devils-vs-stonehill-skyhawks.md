@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Central Connecticut St Blue Devils -2.5</p>
-  <p><strong>Moneyline:</strong> Central Connecticut St Blue Devils (-143) | Stonehill Skyhawks (+120)</p>
+  <p><strong>Moneyline:</strong> Central Connecticut St Blue Devils (-141) | Stonehill Skyhawks (+120)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -136,13 +136,13 @@ All that being said, here's how our model prices this game.
 - **Stonehill Skyhawks**: 1.5, Edge For Covering Spread: 0.3%
 
 ### Moneyline
-- **Central Connecticut St Blue Devils Win Probability**: 54.8%
-- **Stonehill Skyhawks Win Probability**: 45.2%
+- **Central Connecticut St Blue Devils Win Probability**: 54.9%
+- **Stonehill Skyhawks Win Probability**: 45.1%
 
 ### Total
 - **Predicted Total**: 135.5
-- **Edge For Covering The Over**: -2.9%
-- **Edge For Covering The Under**: -3.5%
+- **Edge For Covering The Over**: -2.5%
+- **Edge For Covering The Under**: -4.0%
 
 ---
 
