@@ -7,3 +7,4 @@ selenium>=4.0.0
 jinja2>=3.0.0
 rich>=10.0.0
 pillow>=8.0.0
+cairosvg>=2.5.0
