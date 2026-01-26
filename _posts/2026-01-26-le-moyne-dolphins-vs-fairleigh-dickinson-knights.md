@@ -140,9 +140,9 @@ All that being said, here's how our model prices this game.
 - **Fairleigh Dickinson Knights Win Probability**: 41.6%
 
 ### Total
-- **Predicted Total**: 142.5
-- **Edge For Covering The Over**: -1.5%
-- **Edge For Covering The Under**: -5.0%
+- **Predicted Total**: 143.0
+- **Edge For Covering The Over**: 0.2%
+- **Edge For Covering The Under**: -4.9%
 
 ---
 

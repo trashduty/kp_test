@@ -140,9 +140,9 @@ All that being said, here's how our model prices this game.
 - **Norfolk St Spartans Win Probability**: 83.0%
 
 ### Total
-- **Predicted Total**: 152.5
-- **Edge For Covering The Over**: -5.0%
-- **Edge For Covering The Under**: 0.3%
+- **Predicted Total**: 152.0
+- **Edge For Covering The Over**: -4.7%
+- **Edge For Covering The Under**: -1.6%
 
 ---
 

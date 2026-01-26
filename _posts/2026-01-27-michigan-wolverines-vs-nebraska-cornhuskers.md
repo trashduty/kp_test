@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan Wolverines -10.5</p>
-  <p><strong>Moneyline:</strong> Michigan Wolverines (-774) | Nebraska Cornhuskers (+510)</p>
+  <p><strong>Moneyline:</strong> Michigan Wolverines (-741) | Nebraska Cornhuskers (+490)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -136,12 +136,12 @@ Nebraska Cornhuskers comes in ranked #12 overall by KenPom. Defensively, they've
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan Wolverines**: -10.5, Edge For Covering Spread: -4.5%
-- **Nebraska Cornhuskers**: 10.5, Edge For Covering Spread: -0.5%
+- **Michigan Wolverines**: -10.5, Edge For Covering Spread: -3.5%
+- **Nebraska Cornhuskers**: 10.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Michigan Wolverines Win Probability**: 83.8%
-- **Nebraska Cornhuskers Win Probability**: 16.2%
+- **Michigan Wolverines Win Probability**: 83.5%
+- **Nebraska Cornhuskers Win Probability**: 16.5%
 
 ### Total
 - **Predicted Total**: 154.0

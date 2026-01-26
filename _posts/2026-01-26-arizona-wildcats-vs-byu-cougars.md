@@ -134,8 +134,8 @@ BYU Cougars comes in ranked #15 overall by KenPom. They boast one of the nation'
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arizona Wildcats**: -2.0, Edge For Covering Spread: -0.8%
-- **BYU Cougars**: 2.0, Edge For Covering Spread: -4.0%
+- **Arizona Wildcats**: -2.0, Edge For Covering Spread: -0.5%
+- **BYU Cougars**: 2.0, Edge For Covering Spread: -4.2%
 
 ### Moneyline
 - **Arizona Wildcats Win Probability**: 55.8%
