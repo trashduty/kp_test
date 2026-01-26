@@ -42,14 +42,40 @@ def normalize_team_name(team_name):
 
 def find_team_in_kenpom(team_name, kenpom_df):
     """Find team in KenPom stats using flexible matching."""
+    # Try exact match first
     exact_match = kenpom_df[kenpom_df['Team'] == team_name]
     if not exact_match.empty:
         return exact_match.iloc[0]
+    
+    # Try normalized match
     normalized = normalize_team_name(team_name)
+    exact_match_normalized = kenpom_df[kenpom_df['Team'] == normalized]
+    if not exact_match_normalized.empty:
+        return exact_match_normalized.iloc[0]
+    
+    # Try matching normalized names
     for _, row in kenpom_df.iterrows():
         if normalize_team_name(row['Team']) == normalized:
             return row
-    return None
+    
+    # Only do partial match if no exact or normalized match found
+    # And prefer longer matches (more specific)
+    best_match = None
+    best_match_length = 0
+    
+    normalized_lower = normalized.lower()
+    for _, row in kenpom_df.iterrows():
+        row_team_lower = row['Team'].lower()
+        
+        # Check if either string contains the other
+        if normalized_lower in row_team_lower or row_team_lower in normalized_lower:
+            # Prefer the match with the longest common substring
+            match_length = min(len(normalized_lower), len(row_team_lower))
+            if match_length > best_match_length:
+                best_match = row
+                best_match_length = match_length
+    
+    return best_match
 
 def find_team_logo(team_name, logos_df, crosswalk_df):
     """
@@ -103,6 +129,14 @@ def format_percentage(value):
         return f"{float(value)*100:.1f}%" if float(value) < 1 and float(value) > -1 else f"{float(value):.1f}%"
     except: return "N/A"
 
+def slugify(text):
+    """Convert text to URL-friendly slug."""
+    text = text.lower()
+    text = re.sub(r'[^\w\s-]', '', text)
+    text = re.sub(r'[\s_-]+', '-', text)
+    text = re.sub(r'^-+|-+$', '', text)
+    return text
+
 def generate_post_content(away_team, home_team, away_stats, home_stats, away_predictions, home_predictions, away_logo, home_logo, game_date):
     def team_section(team_name, stats):
         return f"""
@@ -144,6 +178,13 @@ categories: [basketball, preview]
     return post
 
 def main():
+    print("Starting game preview generation...")
+    
+    # Create output directories if they don't exist
+    os.makedirs('_posts', exist_ok=True)
+    os.makedirs('_html', exist_ok=True)
+    os.makedirs('_seo', exist_ok=True)
+    
     CBB_OUTPUT_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/CBB_Output.csv"
     KP_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/kp.csv"
     LOGOS_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/data/logos.csv"
@@ -158,6 +199,7 @@ def main():
     cbb_output['parsed_time'] = cbb_output['Game Time'].apply(parse_game_time)
     target_games = cbb_output[cbb_output['parsed_time'].notna()]
     
+    posts_created = 0
     for game_name in target_games['Game'].unique():
         game_entries = target_games[target_games['Game'] == game_name]
         if len(game_entries) < 2: continue
@@ -175,7 +217,28 @@ def main():
         
         if away_stats is not None and home_stats is not None:
             post_content = generate_post_content(away_team, home_team, away_stats, home_stats, None, None, away_logo, home_logo, game_entries.iloc[0]['parsed_time'])
-            # Save logic...
+            
+            # Generate filename
+            game_date = game_entries.iloc[0]['parsed_time']
+            away_slug = slugify(away_team)
+            home_slug = slugify(home_team)
+            filename = f"{game_date.strftime('%Y-%m-%d')}-{away_slug}-vs-{home_slug}"
+            
+            # Save markdown file to _posts
+            try:
+                md_filepath = os.path.join('_posts', f"{filename}.md")
+                with open(md_filepath, 'w', encoding='utf-8') as f:
+                    f.write(post_content)
+                print(f"  ✓ Created: {md_filepath}")
+                posts_created += 1
+            except Exception as e:
+                print(f"  ✗ Error saving {filename}.md: {e}")
+    
+    print(f"\n{'='*60}")
+    print(f"Generation complete! Created {posts_created} preview posts.")
+    print(f"Files created in:")
+    print(f"  - _posts/ ({len(os.listdir('_posts'))} files)")
+    print(f"{'='*60}")
 
 if __name__ == "__main__":
     main()
