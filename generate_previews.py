@@ -74,8 +74,9 @@ def find_team_in_kenpom(team_name, kenpom_df):
         return exact_match_normalized.iloc[0]
     
     # Try matching with normalized kenpom names (using vectorized operation)
-    kenpom_df['normalized_team'] = kenpom_df['Team'].apply(normalize_team_name)
-    matching_rows = kenpom_df[kenpom_df['normalized_team'] == normalized]
+    # Create a temporary series to avoid modifying the input DataFrame
+    normalized_kenpom_names = kenpom_df['Team'].apply(normalize_team_name)
+    matching_rows = kenpom_df[normalized_kenpom_names == normalized]
     if not matching_rows.empty:
         print(f"  [DEBUG] Match found after normalizing both: '{team_name}' -> '{matching_rows.iloc[0]['Team']}'")
         return matching_rows.iloc[0]
