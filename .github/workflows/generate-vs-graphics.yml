@@ -1,0 +1,80 @@
+name: Generate Daily VS Graphics
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 6 AM UTC
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate-graphics:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas pillow requests
+      
+      - name: Generate VS graphics
+        id: generate
+        run: |
+          echo "Starting VS graphics generation..."
+          python generate_vs_graphics.py 2>&1 | tee generation.log
+          
+          # Count generated files
+          if [ -d "_vs_graphics" ]; then
+            COUNT=$(ls -1 _vs_graphics/*.png 2>/dev/null | wc -l)
+            echo "generated_count=$COUNT" >> $GITHUB_OUTPUT
+            echo "✓ Generated $COUNT VS graphics"
+          else
+            echo "generated_count=0" >> $GITHUB_OUTPUT
+            echo "⚠ No graphics generated (no games scheduled)"
+          fi
+        continue-on-error: false
+      
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add generated graphics
+          git add _vs_graphics/
+          
+          # Check if there are changes to commit
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "✅ No changes to commit"
+          else
+            echo "📝 Changes detected, committing..."
+            git commit -m "Generate VS graphics for $(date +'%Y-%m-%d')"
+            git push
+            echo "✅ Changes pushed successfully"
+          fi
+      
+      - name: Generate workflow summary
+        if: always()
+        run: |
+          echo "## VS Graphics Generation Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Date**: $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- **Graphics Generated**: ${{ steps.generate.outputs.generated_count }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ -d "_vs_graphics" ] && [ "$(ls -A _vs_graphics 2>/dev/null)" ]; then
+            echo "### Generated Files:" >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            ls -lh _vs_graphics/*.png 2>/dev/null || echo "No PNG files found"
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ No graphics were generated (likely no games scheduled)" >> $GITHUB_STEP_SUMMARY
+          fi
