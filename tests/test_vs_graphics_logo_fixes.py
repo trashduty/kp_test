@@ -43,18 +43,18 @@ def test_match_team_logo_partial_match():
     print("✓ Partial matching works")
 
 
-def test_match_team_logo_debug_output(capsys=None):
+def test_match_team_logo_debug_output():
     """Test that debug output is being generated"""
     logos_df = pd.DataFrame({
         'ncaa_name': ['Arizona', 'Duke'],
         'logos': ['http://example.com/arizona.png', 'http://example.com/duke.png']
     })
     
-    # This should print debug output
+    # This should print debug output and return the correct URL
     result = match_team_logo('Arizona', logos_df)
     
-    # We can't easily capture stdout in this test format, but at least verify it runs
-    assert result is not None
+    # Verify the match was found correctly
+    assert result == 'http://example.com/arizona.png'
     print("✓ Debug output generation works")
 
 
@@ -80,11 +80,12 @@ def test_download_logo_svg_handling():
             import cairosvg
             result = download_logo(url)
             # Should successfully convert SVG to image
-            assert result is not None or result is None  # May fail due to test environment
+            assert result is not None
             print("✓ SVG handling with cairosvg works")
         except ImportError:
             # If cairosvg not available, should return None
             result = download_logo(url)
+            assert result is None
             print("✓ SVG handling without cairosvg returns None gracefully")
 
 

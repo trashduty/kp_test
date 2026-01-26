@@ -173,9 +173,8 @@ def match_team_logo(team_name, logos_df):
         return url
     
     # Strategy 2: Case-insensitive match on ncaa_name
-    logos_df_lower = logos_df.copy()
-    logos_df_lower['ncaa_name_lower'] = logos_df_lower['ncaa_name'].str.lower()
-    case_match = logos_df_lower[logos_df_lower['ncaa_name_lower'] == team_name.lower()]
+    team_lower = team_name.lower()
+    case_match = logos_df[logos_df['ncaa_name'].str.lower() == team_lower]
     if not case_match.empty:
         url = case_match.iloc[0]['logos']
         print(f"  ✓ Found case-insensitive match: {url}")
@@ -183,7 +182,7 @@ def match_team_logo(team_name, logos_df):
     
     # Strategy 3: Try 'name' column if it exists
     if 'name' in logos_df.columns:
-        name_match = logos_df[logos_df['name'].str.lower() == team_name.lower()]
+        name_match = logos_df[logos_df['name'].str.lower() == team_lower]
         if not name_match.empty:
             url = name_match.iloc[0]['logos']
             print(f"  ✓ Found match in 'name' column: {url}")
@@ -192,7 +191,6 @@ def match_team_logo(team_name, logos_df):
     # Strategy 4: Partial match (substring matching)
     for idx, row in logos_df.iterrows():
         ncaa_name = str(row['ncaa_name']).lower()
-        team_lower = team_name.lower()
         if team_lower in ncaa_name or ncaa_name in team_lower:
             url = row['logos']
             print(f"  ✓ Found partial match: {url}")
