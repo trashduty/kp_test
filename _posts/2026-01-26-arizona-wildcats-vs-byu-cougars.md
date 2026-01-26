@@ -10,20 +10,17 @@ categories: [basketball, preview]
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
   <tr>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/arizona-st.svg" alt="Arizona Wildcats logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
+    <td style="width: 45%; text-align: center;">
+      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/arizona.svg" alt="Arizona Wildcats logo">
       <p><strong>Arizona Wildcats</strong></p>
     </td>
-    <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
-      VS
-    </td>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/byu.svg" alt="BYU Cougars logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
+    <td style="width: 10%; font-size: 2em; font-weight: bold;">VS</td>
+    <td style="width: 45%; text-align: center;">
+      <img src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgd/byu.svg" alt="BYU Cougars logo">
       <p><strong>BYU Cougars</strong></p>
     </td>
   </tr>
 </table>
-
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
@@ -34,134 +31,53 @@ categories: [basketball, preview]
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Arizona Wildcats (20-0) travels to face BYU Cougars (17-2) at Marriott Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Arizona Wildcats favored by 2.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Arizona Wildcats travels to face BYU Cougars. The early betting action has shaped into Arizona Wildcats favored by 2.5 points, with the total sitting at 161.5.
 
 #### Breaking Down the Spread
-A spread under a field goal suggests the books see this as essentially a coin flip. Arizona Wildcats's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 2.5-point spread indicates Arizona Wildcats is viewed as the better team. The total of 161.5 points to the scoring expectations for this matchup.
 
 #### Offensive Firepower
-**Arizona Wildcats** bring an offensive efficiency of 122.67 (ranked #13 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.4% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
-Meanwhile, **BYU Cougars** counter with 122.18 offensive efficiency (#15). This offense can match anyone bucket-for-bucket. At 35.4% from three, they have adequate spacing but must pick their spots. 
+**Arizona Wildcats** bring an offensive efficiency of 122.67, while **BYU Cougars** counter with 122.18.
 
 #### Tempo & Playing Style
-Arizona Wildcats operate at a 73.0 tempo (#25), while BYU Cougars play at 71.1 (#83). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. With an average tempo around 72.1, expect plenty of possessions and transition opportunities. 
-
-#### The Interior Battle
-Inside the paint, Arizona Wildcats shoot 57.3% on two-pointers, while BYU Cougars convert at 58.3%. Both teams are evenly matched in paint efficiency. 
-Getting to the line matters too. Arizona Wildcats's free throw rate sits at 42.9, indicating they're aggressive attacking the rim and drawing contact. BYU Cougars check in at 36.5, showing they also get to the stripe frequently. When they do get fouled, Arizona Wildcats convert 73.4% while BYU Cougars hit 75.6%. Both teams are comparable from the stripe. 
-
-#### X-Factors & Intangibles
-Playing at home, BYU Cougars get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
-From a coaching perspective, Tommy Lloyd leads Arizona Wildcats while Kevin Young guides BYU Cougars. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, both teams rank similarly on the defensive end (#3 and #31), so offense may determine the outcome. 
-
-#### The Betting Angle
-Small spreads like 2.5 create interesting dynamics. I'm looking at whether Arizona Wildcats can actually separate, or if this stays inside one possession. 
-Regarding the total of 161.5: Two offenses that can score, playing at pace? I lean over. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
+Arizona Wildcats operate at a 73.0 tempo, while BYU Cougars play at 71.1.
 
 ### Game Storylines
 
-On paper, Arizona Wildcats holds the advantage as the higher-ranked team, but BYU Cougars could make this interesting if they play to their potential. 
-
-**Key Matchup: The Battle in the Trenches**
-
-Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
-
-**X-Factor:** Arizona Wildcats can light it up from three-point range (36.4%), but BYU Cougars defend the arc exceptionally well, holding opponents to just 31.4%. 
+This matchup features two evenly-matched teams according to KenPom (#1 vs #15).
 
 
 ## Arizona Wildcats
+Arizona Wildcats comes in ranked #1 overall by KenPom.
 
-Arizona Wildcats comes in ranked #1 overall by KenPom. They're dangerous from beyond the arc, shooting 36.4% from three (ranked #55 nationally), so expect them to let it fly from deep. Their defense has been a calling card this season, making life difficult for opposing offenses. 
-
-### Record & Ranking
+### Record & Metrics
 - **Record:** 20-0
-- **Head Coach:** Tommy Lloyd
 - **KenPom Rank:** #1
 - **Offensive Efficiency:** 122.7 (Rank: #13)
 - **Defensive Efficiency:** 92.2 (Rank: #3)
-- **Tempo:** 73.0 (Rank: #25)
-
-### Shooting Breakdown
-
-- **2-Point Shooting:** 57.3% (Rank: #36)
-- **3-Point Shooting:** 36.4% (Rank: #55)
-- **Free Throw Shooting:** 73.4% (Rank: #141)
-- **3-Point Rate:** 27.6% (Rank: #362)
-
-### Defensive Stats
-
-- **Opponent 2-Point Shooting:** 43.7% (Rank: #5)
-- **Opponent 3-Point Shooting:** 31.4% (Rank: #72)
-- **Block Percentage:** 11.1% (Rank: #96)
-- **Steal Rate:** 0.1% (Rank: #50)
-
-### Team Metrics
-
-- **Assist Rate:** 58.0% (Rank: #63)
-- **Experience:** 1.5 years (Rank: #156)
-- **Bench Minutes:** 30.4% (Rank: #239)
-- **Average Height:** 79.1" (Rank: #7)
 
 ---
 
 ## BYU Cougars
+BYU Cougars comes in ranked #15 overall by KenPom.
 
-BYU Cougars comes in ranked #15 overall by KenPom. They boast one of the nation's top offenses, ranked #15 in efficiency. Defensively, they've been rock solid, ranking #31 nationally in efficiency. 
-
-### Record & Ranking
+### Record & Metrics
 - **Record:** 17-2
-- **Head Coach:** Kevin Young
-- **Home Arena:** Marriott Center
 - **KenPom Rank:** #15
 - **Offensive Efficiency:** 122.2 (Rank: #15)
 - **Defensive Efficiency:** 98.8 (Rank: #31)
-- **Tempo:** 71.1 (Rank: #83)
-
-### Shooting Breakdown
-
-- **2-Point Shooting:** 58.3% (Rank: #26)
-- **3-Point Shooting:** 35.4% (Rank: #99)
-- **Free Throw Shooting:** 75.6% (Rank: #72)
-- **3-Point Rate:** 40.0% (Rank: #172)
-
-### Defensive Stats
-
-- **Opponent 2-Point Shooting:** 47.2% (Rank: #41)
-- **Opponent 3-Point Shooting:** 31.8% (Rank: #84)
-- **Block Percentage:** 13.3% (Rank: #33)
-- **Steal Rate:** 0.1% (Rank: #39)
-
-### Team Metrics
-
-- **Assist Rate:** 49.7% (Rank: #253)
-- **Experience:** 1.8 years (Rank: #109)
-- **Bench Minutes:** 28.6% (Rank: #279)
-- **Average Height:** 78.2" (Rank: #69)
 
 
 ---
-
 ## Model Predictions
 
-All that being said, here's how our model prices this game.
-
 ### Spread
-- **Arizona Wildcats**: -2.5, Edge For Covering Spread: -2.4%
-- **BYU Cougars**: 2.5, Edge For Covering Spread: -2.4%
-
-### Moneyline
-- **Arizona Wildcats Win Probability**: 57.5%
-- **BYU Cougars Win Probability**: 42.5%
+- **Arizona Wildcats**: -2.5, Edge: -2.4%
+- **BYU Cougars**: 2.5, Edge: -2.4%
 
 ### Total
-- **Predicted Total**: 163.5
-- **Edge For Covering The Over**: -4.1%
-- **Edge For Covering The Under**: -0.7%
+- **Predicted Total**: 164.0
+- **Edge Over**: -4.9%
+- **Edge Under**: -1.5%
 
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+To see all predictions, visit [btb-analytics.com](https://btb-analytics.com)
