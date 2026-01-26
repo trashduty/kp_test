@@ -68,7 +68,12 @@ def slugify(text):
 
 
 def download_logo(url, cache_dir="_logo_cache"):
-    """Download logo from URL and return PIL Image. Cache for reuse."""
+    """Download logo from URL and return PIL Image. Cache for reuse. Handles SVG files."""
+    if url is None:
+        return None
+    
+    print(f"  Downloading logo from: {url}")
+    
     os.makedirs(cache_dir, exist_ok=True)
     
     # Create cache filename using hash of URL to avoid collisions
@@ -77,26 +82,45 @@ def download_logo(url, cache_dir="_logo_cache"):
     file_ext = url.split('.')[-1].lower()
     if file_ext not in ['png', 'jpg', 'jpeg', 'svg', 'gif']:
         file_ext = 'png'
-    cache_filename = os.path.join(cache_dir, f"{url_hash}.{file_ext}")
+    cache_filename = os.path.join(cache_dir, f"{url_hash}.png")  # Always cache as PNG
     
     # Check cache first
     if os.path.exists(cache_filename):
         try:
-            return Image.open(cache_filename).convert('RGBA')
+            img = Image.open(cache_filename).convert('RGBA')
+            print(f"  ✓ Loaded from cache")
+            return img
         except Exception as e:
-            print(f"Warning: Failed to load cached logo {cache_filename}: {e}")
+            print(f"  ⚠ Failed to load cached logo {cache_filename}: {e}")
     
     # Download logo
     try:
         response = requests.get(url, timeout=10)
         response.raise_for_status()
-        img = Image.open(BytesIO(response.content)).convert('RGBA')
+        
+        # Handle SVG files
+        if url.lower().endswith('.svg'):
+            try:
+                import cairosvg
+                png_data = cairosvg.svg2png(bytestring=response.content)
+                img = Image.open(BytesIO(png_data)).convert('RGBA')
+                print(f"  ✓ Successfully converted SVG to PNG")
+            except ImportError:
+                print(f"  ⚠ cairosvg not installed, cannot process SVG - using placeholder")
+                return None
+            except Exception as e:
+                print(f"  ✗ Failed to process SVG: {e}")
+                return None
+        else:
+            # Handle regular image formats
+            img = Image.open(BytesIO(response.content)).convert('RGBA')
+            print(f"  ✓ Successfully downloaded and processed logo")
         
         # Save to cache
         img.save(cache_filename, 'PNG')
         return img
     except Exception as e:
-        print(f"Warning: Failed to download logo from {url}: {e}")
+        print(f"  ✗ Failed to download logo: {e}")
         return None
 
 
@@ -138,22 +162,42 @@ def resize_logo(logo, target_size=LOGO_SIZE):
 
 
 def match_team_logo(team_name, logos_df):
-    """Match team name to logo URL from logos dataframe."""
-    # Try exact match first
-    match = logos_df[logos_df['ncaa_name'] == team_name]
-    if not match.empty:
-        return match.iloc[0]['logos']
+    """Match team name to logo URL from logos dataframe with multiple strategies."""
+    print(f"  Looking for logo for: {team_name}")
     
-    # Try case-insensitive match
-    match = logos_df[logos_df['ncaa_name'].str.lower() == team_name.lower()]
-    if not match.empty:
-        return match.iloc[0]['logos']
+    # Strategy 1: Exact match on ncaa_name
+    exact_match = logos_df[logos_df['ncaa_name'] == team_name]
+    if not exact_match.empty:
+        url = exact_match.iloc[0]['logos']
+        print(f"  ✓ Found exact match: {url}")
+        return url
     
-    # Try partial match
+    # Strategy 2: Case-insensitive match on ncaa_name
+    team_lower = team_name.lower()
+    case_match = logos_df[logos_df['ncaa_name'].str.lower() == team_lower]
+    if not case_match.empty:
+        url = case_match.iloc[0]['logos']
+        print(f"  ✓ Found case-insensitive match: {url}")
+        return url
+    
+    # Strategy 3: Try 'name' column if it exists
+    if 'name' in logos_df.columns:
+        name_match = logos_df[logos_df['name'].str.lower() == team_lower]
+        if not name_match.empty:
+            url = name_match.iloc[0]['logos']
+            print(f"  ✓ Found match in 'name' column: {url}")
+            return url
+    
+    # Strategy 4: Partial match (substring matching)
     for idx, row in logos_df.iterrows():
-        if team_name.lower() in row['ncaa_name'].lower() or row['ncaa_name'].lower() in team_name.lower():
-            return row['logos']
+        ncaa_name = str(row['ncaa_name']).lower()
+        if team_lower in ncaa_name or ncaa_name in team_lower:
+            url = row['logos']
+            print(f"  ✓ Found partial match: {url}")
+            return url
     
+    print(f"  ✗ No logo found for: {team_name}")
+    print(f"    Available teams sample: {list(logos_df['ncaa_name'].head(5))}")
     return None
 
 
@@ -164,18 +208,32 @@ def generate_vs_graphic(away_team, home_team, game_date_str, away_logo_url, home
     img = Image.new('RGB', (IMAGE_WIDTH, IMAGE_HEIGHT), BACKGROUND_COLOR)
     draw = ImageDraw.Draw(img)
     
-    # Download and resize logos
-    away_logo = download_logo(away_logo_url) if away_logo_url else None
-    home_logo = download_logo(home_logo_url) if home_logo_url else None
+    # Download and resize logos with error handling
+    away_logo = None
+    home_logo = None
+    
+    if away_logo_url:
+        try:
+            away_logo = download_logo(away_logo_url)
+        except Exception as e:
+            print(f"  ✗ Exception downloading away logo: {e}")
+            away_logo = None
+    
+    if home_logo_url:
+        try:
+            home_logo = download_logo(home_logo_url)
+        except Exception as e:
+            print(f"  ✗ Exception downloading home logo: {e}")
+            home_logo = None
     
     if away_logo is None:
-        print(f"Warning: Using placeholder for {away_team} logo")
+        print(f"  ⚠ Using placeholder for {away_team} logo")
         away_logo = create_placeholder_logo()
     else:
         away_logo = resize_logo(away_logo)
     
     if home_logo is None:
-        print(f"Warning: Using placeholder for {home_team} logo")
+        print(f"  ⚠ Using placeholder for {home_team} logo")
         home_logo = create_placeholder_logo()
     else:
         home_logo = resize_logo(home_logo)
@@ -299,16 +357,22 @@ def main():
         home_team = row['Home Team']
         game_date = row['Game Date']
         
-        print(f"\nProcessing: {away_team} @ {home_team} on {game_date}")
+        print(f"\n{'='*60}")
+        print(f"Processing: {away_team} @ {home_team} on {game_date}")
+        print(f"{'='*60}")
         
-        # Match logos
-        away_logo_url = match_team_logo(away_team, logos_df)
-        home_logo_url = match_team_logo(home_team, logos_df)
-        
-        if away_logo_url is None:
-            print(f"Warning: No logo found for {away_team}")
-        if home_logo_url is None:
-            print(f"Warning: No logo found for {home_team}")
+        # Match logos with error handling
+        try:
+            away_logo_url = match_team_logo(away_team, logos_df)
+        except Exception as e:
+            print(f"  ✗ Error matching away team logo: {e}")
+            away_logo_url = None
+            
+        try:
+            home_logo_url = match_team_logo(home_team, logos_df)
+        except Exception as e:
+            print(f"  ✗ Error matching home team logo: {e}")
+            home_logo_url = None
         
         # Generate filename
         away_slug = slugify(away_team)
@@ -335,7 +399,9 @@ def main():
             )
             generated_count += 1
         except Exception as e:
-            print(f"Error generating graphic for {away_team} vs {home_team}: {e}")
+            print(f"  ✗ Error generating graphic for {away_team} vs {home_team}: {e}")
+            import traceback
+            traceback.print_exc()
     
     print(f"\n✓ Successfully generated {generated_count} graphics")
     print(f"✓ Output directory: {OUTPUT_DIR}/")
