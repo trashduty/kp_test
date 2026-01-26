@@ -62,10 +62,6 @@ def test_full_preview_generation():
         'Current Moneyline': -170
     }
     
-    # Test logos
-    away_logo = "https://example.com/arizona.png"
-    home_logo = "https://example.com/michigan.png"
-    
     from datetime import datetime
     game_date = datetime(2026, 1, 26)
     
@@ -74,7 +70,6 @@ def test_full_preview_generation():
         'Arizona', 'Michigan',
         arizona_stats, michigan_stats,
         away_predictions, home_predictions,
-        away_logo, home_logo,
         game_date
     )
     
