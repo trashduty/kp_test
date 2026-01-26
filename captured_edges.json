@@ -2278,5 +2278,13 @@
   "Tarleton State Texans vs. Abilene Christian Wildcats|Tarleton State Texans|moneyline": {
     "captured_at": "2026-01-25T23:07:07.765514+00:00",
     "edge_type": "moneyline"
+  },
+  "Vanderbilt Commodores vs. Kentucky Wildcats|Vanderbilt Commodores|spread": {
+    "captured_at": "2026-01-26T17:12:17.334175+00:00",
+    "edge_type": "spread"
+  },
+  "Vanderbilt Commodores vs. Kentucky Wildcats|Vanderbilt Commodores|moneyline": {
+    "captured_at": "2026-01-26T17:12:17.334218+00:00",
+    "edge_type": "moneyline"
   }
 }
