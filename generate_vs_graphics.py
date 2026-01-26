@@ -162,42 +162,18 @@ def resize_logo(logo, target_size=LOGO_SIZE):
 
 
 def match_team_logo(team_name, logos_df):
-    """Match team name to logo URL from logos dataframe with multiple strategies."""
+    """Match team name from kp.csv with ncaa_name in logos.csv."""
     print(f"  Looking for logo for: {team_name}")
     
-    # Strategy 1: Exact match on ncaa_name
-    exact_match = logos_df[logos_df['ncaa_name'] == team_name]
-    if not exact_match.empty:
-        url = exact_match.iloc[0]['logos']
-        print(f"  ✓ Found exact match: {url}")
+    # Exact match on ncaa_name column
+    match = logos_df[logos_df['ncaa_name'] == team_name]
+    if not match.empty:
+        url = match.iloc[0]['logos']
+        print(f"  ✓ Found logo: {url}")
         return url
-    
-    # Strategy 2: Case-insensitive match on ncaa_name
-    team_lower = team_name.lower()
-    case_match = logos_df[logos_df['ncaa_name'].str.lower() == team_lower]
-    if not case_match.empty:
-        url = case_match.iloc[0]['logos']
-        print(f"  ✓ Found case-insensitive match: {url}")
-        return url
-    
-    # Strategy 3: Try 'name' column if it exists
-    if 'name' in logos_df.columns:
-        name_match = logos_df[logos_df['name'].str.lower() == team_lower]
-        if not name_match.empty:
-            url = name_match.iloc[0]['logos']
-            print(f"  ✓ Found match in 'name' column: {url}")
-            return url
-    
-    # Strategy 4: Partial match (substring matching)
-    for idx, row in logos_df.iterrows():
-        ncaa_name = str(row['ncaa_name']).lower()
-        if team_lower in ncaa_name or ncaa_name in team_lower:
-            url = row['logos']
-            print(f"  ✓ Found partial match: {url}")
-            return url
     
     print(f"  ✗ No logo found for: {team_name}")
-    print(f"    Available teams sample: {list(logos_df['ncaa_name'].head(5))}")
+    print(f"     Available teams: {list(logos_df['ncaa_name'].head(10))}")
     return None
 
 
@@ -332,7 +308,9 @@ def main():
     logos_df = download_csv(LOGOS_CSV_URL)
     
     print(f"Loaded {len(kp_df)} rows from kp.csv")
+    print(f"kp.csv columns: {list(kp_df.columns)}")
     print(f"Loaded {len(logos_df)} logos from logos.csv")
+    print(f"logos.csv columns: {list(logos_df.columns)}")
     
     # Get target dates
     target_dates = get_target_dates()
