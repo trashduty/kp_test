@@ -44,16 +44,17 @@ def test_match_team_logo_exact_match():
     print("✓ Exact team name matching works")
 
 
-def test_match_team_logo_case_insensitive():
-    """Test case-insensitive team name matching"""
+def test_match_team_logo_case_sensitive():
+    """Test that matching is case-sensitive (exact match only)"""
     logos_df = pd.DataFrame({
         'ncaa_name': ['Arizona', 'Duke'],
         'logos': ['http://example.com/arizona.png', 'http://example.com/duke.png']
     })
     
+    # Should NOT match with different case (exact match only)
     result = match_team_logo('ARIZONA', logos_df)
-    assert result == 'http://example.com/arizona.png'
-    print("✓ Case-insensitive matching works")
+    assert result is None
+    print("✓ Case-sensitive matching works (no fallback)")
 
 
 def test_match_team_logo_no_match():
@@ -104,7 +105,7 @@ def test_create_placeholder_logo():
 if __name__ == '__main__':
     test_slugify()
     test_match_team_logo_exact_match()
-    test_match_team_logo_case_insensitive()
+    test_match_team_logo_case_sensitive()
     test_match_team_logo_no_match()
     test_get_target_dates()
     test_image_dimensions_constants()

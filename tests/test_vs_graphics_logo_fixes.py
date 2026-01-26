@@ -16,31 +16,41 @@ from generate_vs_graphics import (
 )
 
 
-def test_match_team_logo_with_name_column():
-    """Test matching using the 'name' column fallback"""
+def test_match_team_logo_exact_matching_only():
+    """Test that only exact ncaa_name matching works"""
     logos_df = pd.DataFrame({
         'name': ['Arizona Wildcats', 'Duke Blue Devils'],
         'ncaa_name': ['Arizona', 'Duke'],
         'logos': ['http://example.com/arizona.png', 'http://example.com/duke.png']
     })
     
-    # Should match via name column when ncaa_name doesn't match
-    result = match_team_logo('arizona wildcats', logos_df)
+    # Should match via exact ncaa_name
+    result = match_team_logo('Arizona', logos_df)
     assert result == 'http://example.com/arizona.png'
-    print("✓ Matching with 'name' column works")
+    
+    # Should NOT match via name column
+    result = match_team_logo('arizona wildcats', logos_df)
+    assert result is None
+    
+    print("✓ Only exact ncaa_name matching works")
 
 
-def test_match_team_logo_partial_match():
-    """Test partial/substring matching"""
+def test_match_team_logo_no_partial_match():
+    """Test that partial/substring matching does NOT work"""
     logos_df = pd.DataFrame({
         'ncaa_name': ['Texas A&M', 'Alabama St.'],
         'logos': ['http://example.com/tam.png', 'http://example.com/alast.png']
     })
     
-    # Test partial match
+    # Test exact match (should work)
     result = match_team_logo('Alabama St.', logos_df)
     assert result == 'http://example.com/alast.png'
-    print("✓ Partial matching works")
+    
+    # Test partial match (should NOT work - exact only)
+    result = match_team_logo('Alabama', logos_df)
+    assert result is None
+    
+    print("✓ Partial matching correctly does NOT work")
 
 
 def test_match_team_logo_debug_output():
@@ -104,34 +114,34 @@ def test_download_logo_error_handling():
         print("✓ Handles download errors gracefully")
 
 
-def test_match_team_logo_multiple_strategies():
-    """Test that multiple matching strategies work in order"""
+def test_match_team_logo_exact_only():
+    """Test that only exact matching works (no fallback strategies)"""
     logos_df = pd.DataFrame({
         'name': ['Some Full Name', 'Another Team Name'],
         'ncaa_name': ['Short Name', 'Other Name'],
         'logos': ['http://example.com/logo1.png', 'http://example.com/logo2.png']
     })
     
-    # Test exact match (strategy 1)
+    # Test exact match (should work)
     result = match_team_logo('Short Name', logos_df)
     assert result == 'http://example.com/logo1.png'
     
-    # Test case-insensitive match (strategy 2)
+    # Test case-insensitive (should NOT work - exact match only)
     result = match_team_logo('short name', logos_df)
-    assert result == 'http://example.com/logo1.png'
+    assert result is None
     
-    # Test name column match (strategy 3)
-    result = match_team_logo('some full name', logos_df)
-    assert result == 'http://example.com/logo1.png'
+    # Test name column match (should NOT work - exact ncaa_name only)
+    result = match_team_logo('Some Full Name', logos_df)
+    assert result is None
     
-    print("✓ Multiple matching strategies work in correct order")
+    print("✓ Only exact ncaa_name matching works (no fallback strategies)")
 
 
 if __name__ == '__main__':
-    test_match_team_logo_with_name_column()
-    test_match_team_logo_partial_match()
+    test_match_team_logo_exact_matching_only()
+    test_match_team_logo_no_partial_match()
     test_match_team_logo_debug_output()
     test_download_logo_svg_handling()
     test_download_logo_error_handling()
-    test_match_team_logo_multiple_strategies()
+    test_match_team_logo_exact_only()
     print("\n✅ All logo fix tests passed!")
