@@ -49,6 +49,10 @@ filtered_graded_results.csv
 page_source*.html
 *_with_confirmed_spreads.csv
 
+# VS Graphics
+_vs_graphics/
+_logo_cache/
+
 # Environment variables
 .env
 
