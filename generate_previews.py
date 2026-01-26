@@ -98,24 +98,6 @@ def find_team_in_kenpom(team_name, kenpom_df):
     return best_match
 
 
-def find_team_logo(team_name, logos_df):
-    """Find team logo URL from logos dataframe using exact name match."""
-    
-    # First: Try exact match on 'name' column
-    exact_match = logos_df[logos_df['name'] == team_name]
-    if not exact_match.empty:
-        return exact_match.iloc[0]['logos']
-    
-    # Second: Try case-insensitive match on 'name' column
-    for _, row in logos_df.iterrows():
-        if str(row['name']).lower() == team_name.lower():
-            return row['logos']
-    
-    # If no match found, return placeholder
-    print(f"  Warning: No logo found for '{team_name}'")
-    return "https://via.placeholder.com/150"
-
-
 def parse_game_time(game_time_str):
     """Parse game time string to datetime object."""
     # Example: "Jan 24 11:59PM ET" or "Jan 25 01:00PM ET"
@@ -883,7 +865,7 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
     return predictions
 
 
-def generate_post_content(away_team, home_team, away_stats, home_stats, away_predictions, home_predictions, away_logo, home_logo, game_date):
+def generate_post_content(away_team, home_team, away_stats, home_stats, away_predictions, home_predictions, game_date):
     """Generate markdown content for a game preview post."""
     
     # Track which analysis snippets have been used to avoid duplicates
@@ -988,7 +970,7 @@ def generate_post_content(away_team, home_team, away_stats, home_stats, away_pre
 """
         return content
     
-    # Create the full post with centered logos using table
+    # Create the full post without logos
     post = f"""---
 layout: post
 title: "{away_team} vs {home_team} - Game Preview"
@@ -998,22 +980,6 @@ categories: [basketball, preview]
 
 # {away_team} vs {home_team}
 ## Game Preview for {game_date.strftime('%B %d, %Y')}
-
-<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
-  <tr>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="{away_logo}" alt="{away_team} logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>{away_team}</strong></p>
-    </td>
-    <td style="width: 10%; text-align: center; vertical-align: middle; font-size: 2em; font-weight: bold;">
-      VS
-    </td>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <img src="{home_logo}" alt="{home_team} logo" style="width: 150px; height: 150px; object-fit: contain; display: block; margin: 0 auto;">
-      <p><strong>{home_team}</strong></p>
-    </td>
-  </tr>
-</table>
 
 """
     
@@ -1050,7 +1016,6 @@ def main():
     # URLs for external data
     CBB_OUTPUT_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/CBB_Output.csv"
     KP_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/kp.csv"
-    LOGOS_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/data/logos.csv"
     
     # Download external data
     print("Downloading CBB_Output.csv...")
@@ -1058,9 +1023,6 @@ def main():
     
     print("Downloading kp.csv...")
     kp_data = download_csv(KP_URL)
-    
-    print("Downloading logos.csv...")
-    logos_data = download_csv(LOGOS_URL)
     
     # Load local KenPom stats
     print("Loading kenpom_stats.csv...")
@@ -1178,12 +1140,6 @@ def main():
         print(f"  Away team matched: {away_stats.get('Team', 'Unknown')} (Rank: {away_stats.get('Rk', 'N/A')})")
         print(f"  Home team matched: {home_stats.get('Team', 'Unknown')} (Rank: {home_stats.get('Rk', 'N/A')})")
         
-        # Find logos for both teams
-        away_logo = find_team_logo(away_team, logos_data)
-        home_logo = find_team_logo(home_team, logos_data)
-        print(f"  Away logo: {away_logo}")
-        print(f"  Home logo: {home_logo}")
-        
         # Get predictions for both teams from game_entries
         away_predictions = game_entries[game_entries['Team'] == away_team].iloc[0]
         home_predictions = game_entries[game_entries['Team'] == home_team].iloc[0]
@@ -1196,7 +1152,6 @@ def main():
             away_team, home_team,
             away_stats, home_stats,
             away_predictions, home_predictions,
-            away_logo, home_logo,
             game_date
         )
         
