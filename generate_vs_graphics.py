@@ -32,6 +32,21 @@ IMAGE_HEIGHT = 600
 LOGO_SIZE = 300
 BACKGROUND_COLOR = (245, 245, 245)  # Light gray
 
+# Font paths for different systems
+FONT_PATHS = [
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+    "/System/Library/Fonts/Helvetica.ttc",
+    "C:\\Windows\\Fonts\\arial.ttf",
+    "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"
+]
+
+DATE_FONT_PATHS = [
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+    "/System/Library/Fonts/Helvetica.ttc",
+    "C:\\Windows\\Fonts\\arial.ttf",
+    "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf"
+]
+
 
 def download_csv(url):
     """Download CSV file from URL and return as pandas DataFrame."""
@@ -56,8 +71,13 @@ def download_logo(url, cache_dir="_logo_cache"):
     """Download logo from URL and return PIL Image. Cache for reuse."""
     os.makedirs(cache_dir, exist_ok=True)
     
-    # Create cache filename from URL
-    cache_filename = os.path.join(cache_dir, slugify(url.split('/')[-1]))
+    # Create cache filename using hash of URL to avoid collisions
+    import hashlib
+    url_hash = hashlib.md5(url.encode()).hexdigest()[:16]
+    file_ext = url.split('.')[-1].lower()
+    if file_ext not in ['png', 'jpg', 'jpeg', 'svg', 'gif']:
+        file_ext = 'png'
+    cache_filename = os.path.join(cache_dir, f"{url_hash}.{file_ext}")
     
     # Check cache first
     if os.path.exists(cache_filename):
@@ -86,9 +106,15 @@ def create_placeholder_logo(size=LOGO_SIZE):
     draw = ImageDraw.Draw(img)
     
     # Draw a simple "?" in the center
-    try:
-        font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 120)
-    except:
+    font = None
+    for font_path in FONT_PATHS:
+        try:
+            font = ImageFont.truetype(font_path, 120)
+            break
+        except:
+            continue
+    
+    if font is None:
         font = ImageFont.load_default()
     
     text = "?"
@@ -105,8 +131,10 @@ def create_placeholder_logo(size=LOGO_SIZE):
 
 def resize_logo(logo, target_size=LOGO_SIZE):
     """Resize logo to target size while maintaining aspect ratio."""
-    logo.thumbnail((target_size, target_size), Image.Resampling.LANCZOS)
-    return logo
+    # Create a copy to avoid modifying the original
+    logo_copy = logo.copy()
+    logo_copy.thumbnail((target_size, target_size), Image.Resampling.LANCZOS)
+    return logo_copy
 
 
 def match_team_logo(team_name, logos_df):
@@ -173,11 +201,25 @@ def generate_vs_graphic(away_team, home_team, game_date_str, away_logo_url, home
     img.paste(home_logo, (home_logo_x, home_logo_y), home_logo)
     
     # Draw "VS" text in center
-    try:
-        vs_font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 100)
-        date_font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 36)
-    except:
+    vs_font = None
+    for font_path in FONT_PATHS:
+        try:
+            vs_font = ImageFont.truetype(font_path, 100)
+            break
+        except:
+            continue
+    
+    date_font = None
+    for font_path in DATE_FONT_PATHS:
+        try:
+            date_font = ImageFont.truetype(font_path, 36)
+            break
+        except:
+            continue
+    
+    if vs_font is None:
         vs_font = ImageFont.load_default()
+    if date_font is None:
         date_font = ImageFont.load_default()
     
     vs_text = "VS"
