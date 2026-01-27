@@ -28,7 +28,7 @@ import re
 
 
 # Constants
-CBB_OUTPUT_URL = "https://docs.google.com/spreadsheets/d/1vF_w3u2ngSwyjL99KPe34H-LxSNm1lQAmN4PV32z7qE/export?format=csv&gid=0"
+CBB_OUTPUT_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/CBB_Output.csv"
 KP_CSV_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/kp.csv"  # For step 4 (checking "side" column)
 LOGOS_CSV_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/data/logos.csv"
 CROSSWALK_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/data/crosswalk.csv"
