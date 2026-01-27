@@ -1184,11 +1184,11 @@ def main():
         home_stats = find_team_in_kenpom(home_team_kenpom, kenpom_stats)
         
         if away_stats is None:
-            print(f"  Warning: Could not find stats for {away_team}")
+            print(f"  Warning: Could not find stats for {away_team} (kenpom: {away_team_kenpom})")
             continue
         
         if home_stats is None:
-            print(f"  Warning: Could not find stats for {home_team}")
+            print(f"  Warning: Could not find stats for {home_team} (kenpom: {home_team_kenpom})")
             continue
         
         print(f"  Found stats for both teams")
@@ -1203,6 +1203,8 @@ def main():
         print(f"  Home logo: {home_logo}")
         
         # Get predictions for both teams from game_entries
+        # Note: game_entries contains original API team names from CBB_Output.csv,
+        # so we use away_team/home_team (not kenpom names) for lookup
         away_predictions = game_entries[game_entries['Team'] == away_team].iloc[0]
         home_predictions = game_entries[game_entries['Team'] == home_team].iloc[0]
         
