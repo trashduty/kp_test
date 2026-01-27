@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Miami (OH) RedHawks -9.5</p>
-  <p><strong>Moneyline:</strong> Massachusetts Minutemen (+360) | Miami (OH) RedHawks (-500)</p>
+  <p><strong>Moneyline:</strong> Massachusetts Minutemen (+380) | Miami (OH) RedHawks (-550)</p>
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
@@ -124,12 +124,12 @@ Miami (OH) RedHawks comes in ranked #86 overall by KenPom. They're dangerous fro
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Massachusetts Minutemen**: 9.5, Edge For Covering Spread: -5.1%
-- **Miami (OH) RedHawks**: -9.5, Edge For Covering Spread: 0.4%
+- **Massachusetts Minutemen**: 9.5, Edge For Covering Spread: -5.6%
+- **Miami (OH) RedHawks**: -9.5, Edge For Covering Spread: 0.8%
 
 ### Moneyline
-- **Massachusetts Minutemen Win Probability**: 18.3%
-- **Miami (OH) RedHawks Win Probability**: 81.7%
+- **Massachusetts Minutemen Win Probability**: 17.9%
+- **Miami (OH) RedHawks Win Probability**: 82.1%
 
 ### Total
 - **Predicted Total**: 164.0

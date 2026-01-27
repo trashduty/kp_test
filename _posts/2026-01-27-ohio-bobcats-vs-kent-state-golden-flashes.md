@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kent State Golden Flashes -8.5</p>
-  <p><strong>Moneyline:</strong> Ohio Bobcats (+300) | Kent State Golden Flashes (-400)</p>
+  <p><strong>Moneyline:</strong> Ohio Bobcats (+292) | Kent State Golden Flashes (-379)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -128,8 +128,8 @@ All that being said, here's how our model prices this game.
 - **Kent State Golden Flashes**: -8.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Ohio Bobcats Win Probability**: 23.9%
-- **Kent State Golden Flashes Win Probability**: 76.1%
+- **Ohio Bobcats Win Probability**: 24.2%
+- **Kent State Golden Flashes Win Probability**: 75.8%
 
 ### Total
 - **Predicted Total**: 163.0

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> McNeese Cowboys -12.5</p>
-  <p><strong>Moneyline:</strong> McNeese Cowboys (-950) | SE Louisiana Lions (+610)</p>
+  <p><strong>Moneyline:</strong> McNeese Cowboys (-974) | SE Louisiana Lions (+605)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -125,11 +125,11 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **McNeese Cowboys**: -12.5, Edge For Covering Spread: -4.0%
-- **SE Louisiana Lions**: 12.5, Edge For Covering Spread: -0.9%
+- **SE Louisiana Lions**: 12.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **McNeese Cowboys Win Probability**: 83.8%
-- **SE Louisiana Lions Win Probability**: 16.2%
+- **McNeese Cowboys Win Probability**: 83.7%
+- **SE Louisiana Lions Win Probability**: 16.3%
 
 ### Total
 - **Predicted Total**: 136.5

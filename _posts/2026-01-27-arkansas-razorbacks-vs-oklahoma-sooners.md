@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arkansas Razorbacks -2.5</p>
-  <p><strong>Moneyline:</strong> Arkansas Razorbacks (-152) | Oklahoma Sooners (+130)</p>
+  <p><strong>Moneyline:</strong> Arkansas Razorbacks (-150) | Oklahoma Sooners (+126)</p>
   <p><strong>Total:</strong> 167.5</p>
 </div>
 
@@ -128,8 +128,8 @@ All that being said, here's how our model prices this game.
 - **Oklahoma Sooners**: 2.5, Edge For Covering Spread: -5.0%
 
 ### Moneyline
-- **Arkansas Razorbacks Win Probability**: 61.1%
-- **Oklahoma Sooners Win Probability**: 38.9%
+- **Arkansas Razorbacks Win Probability**: 60.8%
+- **Oklahoma Sooners Win Probability**: 39.2%
 
 ### Total
 - **Predicted Total**: 167.0

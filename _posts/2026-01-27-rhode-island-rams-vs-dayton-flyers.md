@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Dayton Flyers -8.0</p>
-  <p><strong>Moneyline:</strong> Rhode Island Rams (+300) | Dayton Flyers (-400)</p>
+  <p><strong>Moneyline:</strong> Rhode Island Rams (+297) | Dayton Flyers (-387)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -128,8 +128,8 @@ All that being said, here's how our model prices this game.
 - **Dayton Flyers**: -8.0, Edge For Covering Spread: -4.7%
 
 ### Moneyline
-- **Rhode Island Rams Win Probability**: 23.4%
-- **Dayton Flyers Win Probability**: 76.6%
+- **Rhode Island Rams Win Probability**: 23.5%
+- **Dayton Flyers Win Probability**: 76.5%
 
 ### Total
 - **Predicted Total**: 136.5

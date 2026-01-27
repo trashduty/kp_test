@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Western Michigan Broncos -1.5</p>
-  <p><strong>Moneyline:</strong> Western Michigan Broncos (-128) | Northern Illinois Huskies (+106)</p>
+  <p><strong>Moneyline:</strong> Western Michigan Broncos (-126) | Northern Illinois Huskies (+105)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -128,13 +128,13 @@ All that being said, here's how our model prices this game.
 - **Northern Illinois Huskies**: 1.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Western Michigan Broncos Win Probability**: 56.3%
-- **Northern Illinois Huskies Win Probability**: 43.7%
+- **Western Michigan Broncos Win Probability**: 56.2%
+- **Northern Illinois Huskies Win Probability**: 43.8%
 
 ### Total
 - **Predicted Total**: 147.0
-- **Edge For Covering The Over**: -2.1%
-- **Edge For Covering The Under**: -2.7%
+- **Edge For Covering The Over**: -1.0%
+- **Edge For Covering The Under**: -3.8%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Purdue Boilermakers -4.5</p>
-  <p><strong>Moneyline:</strong> Purdue Boilermakers (-190) | Indiana Hoosiers (+157)</p>
+  <p><strong>Moneyline:</strong> Purdue Boilermakers (-191) | Indiana Hoosiers (+160)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -130,8 +130,8 @@ All that being said, here's how our model prices this game.
 - **Indiana Hoosiers**: 4.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Purdue Boilermakers Win Probability**: 62.9%
-- **Indiana Hoosiers Win Probability**: 37.1%
+- **Purdue Boilermakers Win Probability**: 63.0%
+- **Indiana Hoosiers Win Probability**: 37.0%
 
 ### Total
 - **Predicted Total**: 151.5

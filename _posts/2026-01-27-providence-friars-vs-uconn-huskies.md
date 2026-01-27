@@ -128,17 +128,17 @@ UConn Huskies comes in ranked #10 overall by KenPom. On the defensive end, they'
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Providence Friars**: 16.5, Edge For Covering Spread: -2.9%
-- **UConn Huskies**: -16.5, Edge For Covering Spread: -1.8%
+- **Providence Friars**: 16.5, Edge For Covering Spread: -2.4%
+- **UConn Huskies**: -16.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
 - **Providence Friars Win Probability**: 6.9%
 - **UConn Huskies Win Probability**: 93.1%
 
 ### Total
-- **Predicted Total**: 157.0
-- **Edge For Covering The Over**: -1.6%
-- **Edge For Covering The Under**: -3.1%
+- **Predicted Total**: 156.5
+- **Edge For Covering The Over**: -0.9%
+- **Edge For Covering The Under**: -3.9%
 
 ---
 

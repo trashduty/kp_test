@@ -11,17 +11,17 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Bowling Green Falcons -7.5</p>
-  <p><strong>Moneyline:</strong> Buffalo Bulls (+300) | Bowling Green Falcons (-400)</p>
+  <p><strong>Spread:</strong> Bowling Green Falcons -8.0</p>
+  <p><strong>Moneyline:</strong> Buffalo Bulls (+297) | Bowling Green Falcons (-387)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Bowling Green Falcons (13-7) hosts Buffalo Bulls (13-7) at Stroh Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Bowling Green Falcons favored by 7.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Bowling Green Falcons (13-7) hosts Buffalo Bulls (13-7) at Stroh Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Bowling Green Falcons favored by 8.0 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us Bowling Green Falcons has clear advantages, but games aren't played on paper. Buffalo Bulls needs to punch above their weight class to keep this competitive. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.0 points tells us Bowling Green Falcons has clear advantages, but games aren't played on paper. Buffalo Bulls needs to punch above their weight class to keep this competitive. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Buffalo Bulls** bring an offensive efficiency of 115.80 (ranked #64 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 37.9% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -124,17 +124,17 @@ Bowling Green Falcons comes in ranked #113 overall by KenPom. Their defense has 
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Buffalo Bulls**: 7.5, Edge For Covering Spread: -0.9%
-- **Bowling Green Falcons**: -7.5, Edge For Covering Spread: -4.0%
+- **Buffalo Bulls**: 8.0, Edge For Covering Spread: -2.0%
+- **Bowling Green Falcons**: -8.0, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Buffalo Bulls Win Probability**: 24.4%
-- **Bowling Green Falcons Win Probability**: 75.6%
+- **Buffalo Bulls Win Probability**: 24.5%
+- **Bowling Green Falcons Win Probability**: 75.5%
 
 ### Total
 - **Predicted Total**: 149.5
-- **Edge For Covering The Over**: -2.4%
-- **Edge For Covering The Under**: -2.4%
+- **Edge For Covering The Over**: -2.9%
+- **Edge For Covering The Under**: -1.8%
 
 ---
 

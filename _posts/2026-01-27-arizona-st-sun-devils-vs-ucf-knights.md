@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UCF Knights -8.5</p>
-  <p><strong>Moneyline:</strong> Arizona St Sun Devils (+300) | UCF Knights (-400)</p>
+  <p><strong>Moneyline:</strong> Arizona St Sun Devils (+297) | UCF Knights (-387)</p>
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
@@ -128,13 +128,13 @@ All that being said, here's how our model prices this game.
 - **UCF Knights**: -8.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Arizona St Sun Devils Win Probability**: 23.4%
-- **UCF Knights Win Probability**: 76.6%
+- **Arizona St Sun Devils Win Probability**: 23.5%
+- **UCF Knights Win Probability**: 76.5%
 
 ### Total
 - **Predicted Total**: 162.5
-- **Edge For Covering The Over**: -2.7%
-- **Edge For Covering The Under**: -3.6%
+- **Edge For Covering The Over**: -2.9%
+- **Edge For Covering The Under**: -3.4%
 
 ---
 

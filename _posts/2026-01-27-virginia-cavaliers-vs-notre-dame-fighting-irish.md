@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Virginia Cavaliers -9.5</p>
-  <p><strong>Moneyline:</strong> Virginia Cavaliers (-580) | Notre Dame Fighting Irish (+420)</p>
+  <p><strong>Moneyline:</strong> Virginia Cavaliers (-565) | Notre Dame Fighting Irish (+410)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -130,8 +130,8 @@ All that being said, here's how our model prices this game.
 - **Notre Dame Fighting Irish**: 9.5, Edge For Covering Spread: 0.1%
 
 ### Moneyline
-- **Virginia Cavaliers Win Probability**: 78.8%
-- **Notre Dame Fighting Irish Win Probability**: 21.2%
+- **Virginia Cavaliers Win Probability**: 78.7%
+- **Notre Dame Fighting Irish Win Probability**: 21.3%
 
 ### Total
 - **Predicted Total**: 141.0

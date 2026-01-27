@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> VCU Rams -11.0</p>
-  <p><strong>Moneyline:</strong> Richmond Spiders (+475) | VCU Rams (-750)</p>
+  <p><strong>Moneyline:</strong> Richmond Spiders (+500) | VCU Rams (-724)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -124,12 +124,12 @@ VCU Rams comes in ranked #47 overall by KenPom. They boast one of the nation's t
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Richmond Spiders**: 11.0, Edge For Covering Spread: -2.7%
-- **VCU Rams**: -11.0, Edge For Covering Spread: -2.0%
+- **Richmond Spiders**: 11.0, Edge For Covering Spread: -1.8%
+- **VCU Rams**: -11.0, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Richmond Spiders Win Probability**: 16.2%
-- **VCU Rams Win Probability**: 83.8%
+- **Richmond Spiders Win Probability**: 16.0%
+- **VCU Rams Win Probability**: 84.0%
 
 ### Total
 - **Predicted Total**: 156.0

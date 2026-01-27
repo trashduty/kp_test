@@ -11,17 +11,17 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UIC Flames -6.0</p>
-  <p><strong>Moneyline:</strong> Indiana St Sycamores (+230) | UIC Flames (-280)</p>
+  <p><strong>Spread:</strong> UIC Flames -6.5</p>
+  <p><strong>Moneyline:</strong> Indiana St Sycamores (+225) | UIC Flames (-276)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UIC Flames (11-10) hosts Indiana St Sycamores (9-12) at Credit Union 1 Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UIC Flames favored by 6.0 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UIC Flames (11-10) hosts Indiana St Sycamores (9-12) at Credit Union 1 Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UIC Flames favored by 6.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.0-point spread indicates UIC Flames is viewed as the better team, but this isn't an overwhelming edge. Indiana St Sycamores has a legitimate path to covering or winning outright with a solid performance. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 6.5-point spread indicates UIC Flames is viewed as the better team, but this isn't an overwhelming edge. Indiana St Sycamores has a legitimate path to covering or winning outright with a solid performance. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Indiana St Sycamores** bring an offensive efficiency of 102.50 (ranked #273 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.1% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -124,17 +124,17 @@ UIC Flames comes in ranked #135 overall by KenPom. They've struggled from deep t
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Indiana St Sycamores**: 6.0, Edge For Covering Spread: -5.9%
-- **UIC Flames**: -6.0, Edge For Covering Spread: 1.2%
+- **Indiana St Sycamores**: 6.5, Edge For Covering Spread: -5.4%
+- **UIC Flames**: -6.5, Edge For Covering Spread: 0.7%
 
 ### Moneyline
-- **Indiana St Sycamores Win Probability**: 26.7%
-- **UIC Flames Win Probability**: 73.3%
+- **Indiana St Sycamores Win Probability**: 26.9%
+- **UIC Flames Win Probability**: 73.1%
 
 ### Total
-- **Predicted Total**: 145.5
-- **Edge For Covering The Over**: -3.9%
-- **Edge For Covering The Under**: -0.8%
+- **Predicted Total**: 146.0
+- **Edge For Covering The Over**: -4.7%
+- **Edge For Covering The Under**: -0.0%
 
 ---
 

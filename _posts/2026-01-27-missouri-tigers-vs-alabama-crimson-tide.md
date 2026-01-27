@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama Crimson Tide -10.5</p>
-  <p><strong>Moneyline:</strong> Missouri Tigers (+500) | Alabama Crimson Tide (-780)</p>
+  <p><strong>Moneyline:</strong> Missouri Tigers (+500) | Alabama Crimson Tide (-738)</p>
   <p><strong>Total:</strong> 165.5</p>
 </div>
 
@@ -132,13 +132,13 @@ All that being said, here's how our model prices this game.
 - **Alabama Crimson Tide**: -10.5, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **Missouri Tigers Win Probability**: 15.9%
-- **Alabama Crimson Tide Win Probability**: 84.1%
+- **Missouri Tigers Win Probability**: 16.0%
+- **Alabama Crimson Tide Win Probability**: 84.0%
 
 ### Total
 - **Predicted Total**: 165.5
-- **Edge For Covering The Over**: -1.7%
-- **Edge For Covering The Under**: -3.1%
+- **Edge For Covering The Over**: -0.9%
+- **Edge For Covering The Under**: -3.9%
 
 ---
 
