@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UConn Huskies -16.5</p>
-  <p><strong>Moneyline:</strong> Providence Friars (+1160) | UConn Huskies (-2800)</p>
+  <p><strong>Moneyline:</strong> Providence Friars (+1060) | UConn Huskies (-2500)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -132,8 +132,8 @@ All that being said, here's how our model prices this game.
 - **UConn Huskies**: -16.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Providence Friars Win Probability**: 6.9%
-- **UConn Huskies Win Probability**: 93.1%
+- **Providence Friars Win Probability**: 7.2%
+- **UConn Huskies Win Probability**: 92.8%
 
 ### Total
 - **Predicted Total**: 156.5

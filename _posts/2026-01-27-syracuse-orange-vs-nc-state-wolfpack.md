@@ -124,8 +124,8 @@ NC State Wolfpack comes in ranked #26 overall by KenPom. They're dangerous from 
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Syracuse Orange**: 11.0, Edge For Covering Spread: -2.6%
-- **NC State Wolfpack**: -11.0, Edge For Covering Spread: -2.2%
+- **Syracuse Orange**: 11.0, Edge For Covering Spread: -1.0%
+- **NC State Wolfpack**: -11.0, Edge For Covering Spread: -3.8%
 
 ### Moneyline
 - **Syracuse Orange Win Probability**: 16.4%

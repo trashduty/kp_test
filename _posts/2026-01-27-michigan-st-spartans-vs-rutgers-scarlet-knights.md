@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan St Spartans -14.5</p>
-  <p><strong>Moneyline:</strong> Michigan St Spartans (-1600) | Rutgers Scarlet Knights (+860)</p>
+  <p><strong>Moneyline:</strong> Michigan St Spartans (-1800) | Rutgers Scarlet Knights (+980)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -124,12 +124,12 @@ Rutgers Scarlet Knights comes in ranked #159 overall by KenPom. The three-point 
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan St Spartans**: -14.5, Edge For Covering Spread: -0.6%
-- **Rutgers Scarlet Knights**: 14.5, Edge For Covering Spread: -4.1%
+- **Michigan St Spartans**: -14.5, Edge For Covering Spread: -1.2%
+- **Rutgers Scarlet Knights**: 14.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Michigan St Spartans Win Probability**: 91.5%
-- **Rutgers Scarlet Knights Win Probability**: 8.5%
+- **Michigan St Spartans Win Probability**: 92.0%
+- **Rutgers Scarlet Knights Win Probability**: 8.0%
 
 ### Total
 - **Predicted Total**: 135.5

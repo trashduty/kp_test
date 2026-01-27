@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Eastern Michigan Eagles -3.5</p>
-  <p><strong>Moneyline:</strong> Eastern Michigan Eagles (-155) | Central Michigan Chippewas (+135)</p>
+  <p><strong>Moneyline:</strong> Eastern Michigan Eagles (-165) | Central Michigan Chippewas (+140)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -128,13 +128,13 @@ All that being said, here's how our model prices this game.
 - **Central Michigan Chippewas**: 3.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Eastern Michigan Eagles Win Probability**: 62.4%
-- **Central Michigan Chippewas Win Probability**: 37.6%
+- **Eastern Michigan Eagles Win Probability**: 62.9%
+- **Central Michigan Chippewas Win Probability**: 37.1%
 
 ### Total
 - **Predicted Total**: 138.0
-- **Edge For Covering The Over**: -2.0%
-- **Edge For Covering The Under**: -2.7%
+- **Edge For Covering The Over**: -2.6%
+- **Edge For Covering The Under**: -2.2%
 
 ---
 

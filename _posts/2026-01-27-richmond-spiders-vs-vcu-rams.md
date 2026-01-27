@@ -124,8 +124,8 @@ VCU Rams comes in ranked #47 overall by KenPom. They boast one of the nation's t
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Richmond Spiders**: 11.0, Edge For Covering Spread: -1.8%
-- **VCU Rams**: -11.0, Edge For Covering Spread: -2.9%
+- **Richmond Spiders**: 11.0, Edge For Covering Spread: -2.4%
+- **VCU Rams**: -11.0, Edge For Covering Spread: -2.4%
 
 ### Moneyline
 - **Richmond Spiders Win Probability**: 16.0%

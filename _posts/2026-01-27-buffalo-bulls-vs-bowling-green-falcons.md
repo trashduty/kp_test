@@ -124,8 +124,8 @@ Bowling Green Falcons comes in ranked #113 overall by KenPom. Their defense has 
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Buffalo Bulls**: 8.0, Edge For Covering Spread: -2.4%
-- **Bowling Green Falcons**: -8.0, Edge For Covering Spread: -2.6%
+- **Buffalo Bulls**: 8.0, Edge For Covering Spread: -2.0%
+- **Bowling Green Falcons**: -8.0, Edge For Covering Spread: -2.9%
 
 ### Moneyline
 - **Buffalo Bulls Win Probability**: 24.5%

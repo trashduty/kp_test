@@ -126,8 +126,8 @@ Virginia Tech Hokies comes in ranked #57 overall by KenPom.
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Georgia Tech Yellow Jackets**: 9.5, Edge For Covering Spread: -3.4%
-- **Virginia Tech Hokies**: -9.5, Edge For Covering Spread: -1.3%
+- **Georgia Tech Yellow Jackets**: 9.5, Edge For Covering Spread: -4.0%
+- **Virginia Tech Hokies**: -9.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
 - **Georgia Tech Yellow Jackets Win Probability**: 17.9%
