@@ -334,7 +334,7 @@ def parse_game_time_to_date(game_time_str):
         current_year = datetime.now().year
         dt = datetime.strptime(f"{current_year} {time_str}", "%Y %b %d %I:%M%p")
         return dt.strftime('%Y%m%d')
-    except Exception as e:
+    except (ValueError, TypeError) as e:
         print(f"Error parsing time '{game_time_str}': {e}")
         return None
 

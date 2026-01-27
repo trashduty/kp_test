@@ -151,14 +151,17 @@ def test_convert_api_to_kenpom_name_empty_df():
 
 def test_parse_game_time_to_date():
     """Test parsing game time strings to date format"""
+    current_year = datetime.now().year
+    
     # Test valid game time string
     result = parse_game_time_to_date('Jan 27 02:00PM ET')
     assert result is not None
     assert len(result) == 8
     assert result.isdigit()
     
-    # Verify it's the correct format (YYYYMMDD)
+    # Verify it's the correct format (YYYYMMDD) and correct year
     date_obj = datetime.strptime(result, '%Y%m%d')
+    assert date_obj.year == current_year
     assert date_obj.month == 1
     assert date_obj.day == 27
     
@@ -166,6 +169,7 @@ def test_parse_game_time_to_date():
     result2 = parse_game_time_to_date('Dec 15 11:30PM ET')
     assert result2 is not None
     date_obj2 = datetime.strptime(result2, '%Y%m%d')
+    assert date_obj2.year == current_year
     assert date_obj2.month == 12
     assert date_obj2.day == 15
     
