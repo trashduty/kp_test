@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Virginia Cavaliers -9.5</p>
-  <p><strong>Moneyline:</strong> Virginia Cavaliers (-637) | Notre Dame Fighting Irish (+435)</p>
+  <p><strong>Moneyline:</strong> Virginia Cavaliers (-580) | Notre Dame Fighting Irish (+420)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -37,14 +37,6 @@ Getting to the line matters too. Virginia Cavaliers's free throw rate sits at 36
 #### X-Factors & Intangibles
 Playing at home, Notre Dame Fighting Irish get the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Virginia Cavaliers. 
 From a coaching perspective, Ryan Odom leads Virginia Cavaliers while Micah Shrewsberry guides Notre Dame Fighting Irish. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, Virginia Cavaliers (#36 defensive efficiency) should have success against Notre Dame Fighting Irish's weaker defense (#116). 
-
-#### The Betting Angle
-The 9.5-point spread asks: can Notre Dame Fighting Irish keep it within striking distance? 
-Regarding the total of 140.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -134,17 +126,17 @@ Notre Dame Fighting Irish comes in ranked #82 overall by KenPom.
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Virginia Cavaliers**: -9.0, Edge For Covering Spread: -4.1%
-- **Notre Dame Fighting Irish**: 9.0, Edge For Covering Spread: -0.7%
+- **Virginia Cavaliers**: -9.5, Edge For Covering Spread: -4.8%
+- **Notre Dame Fighting Irish**: 9.5, Edge For Covering Spread: 0.1%
 
 ### Moneyline
-- **Virginia Cavaliers Win Probability**: 79.2%
-- **Notre Dame Fighting Irish Win Probability**: 20.8%
+- **Virginia Cavaliers Win Probability**: 78.8%
+- **Notre Dame Fighting Irish Win Probability**: 21.2%
 
 ### Total
-- **Predicted Total**: 140.5
-- **Edge For Covering The Over**: -2.4%
-- **Edge For Covering The Under**: -2.4%
+- **Predicted Total**: 141.0
+- **Edge For Covering The Over**: -3.7%
+- **Edge For Covering The Under**: -1.0%
 
 ---
 

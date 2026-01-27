@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan Wolverines -10.5</p>
-  <p><strong>Moneyline:</strong> Nebraska Cornhuskers (+427) | Michigan Wolverines (-660)</p>
+  <p><strong>Moneyline:</strong> Nebraska Cornhuskers (+425) | Michigan Wolverines (-650)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -37,15 +37,7 @@ Getting to the line matters too. Nebraska Cornhuskers's free throw rate sits at 
 #### X-Factors & Intangibles
 Playing at home, Michigan Wolverines get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Fred Hoiberg leads Nebraska Cornhuskers while Dusty May guides Michigan Wolverines. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, both teams rank similarly on the defensive end (#12 and #4), so offense may determine the outcome. 
-
-#### The Betting Angle
-With 10.5 points to work with, Nebraska Cornhuskers doesn't need to win—just stay competitive. 
-Regarding the total of 154.5: Two offenses that can score, playing at pace? I lean over. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
-
+Both teams feature strong defenses (#12 and #4), so offense may be at a premium. 
 ### Game Storylines
 
 This matchup features two evenly-matched teams, with Nebraska Cornhuskers at #12 and Michigan Wolverines at #2 in the KenPom rankings. Expect a competitive battle throughout. 
@@ -136,17 +128,17 @@ Michigan Wolverines comes in ranked #2 overall by KenPom. Defensively, they've b
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Nebraska Cornhuskers**: 10.5, Edge For Covering Spread: -3.5%
-- **Michigan Wolverines**: -10.5, Edge For Covering Spread: -1.2%
+- **Nebraska Cornhuskers**: 10.5, Edge For Covering Spread: -2.4%
+- **Michigan Wolverines**: -10.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Nebraska Cornhuskers Win Probability**: 17.2%
-- **Michigan Wolverines Win Probability**: 82.8%
+- **Nebraska Cornhuskers Win Probability**: 17.3%
+- **Michigan Wolverines Win Probability**: 82.7%
 
 ### Total
 - **Predicted Total**: 154.0
-- **Edge For Covering The Over**: -3.1%
-- **Edge For Covering The Under**: -1.6%
+- **Edge For Covering The Over**: -2.9%
+- **Edge For Covering The Under**: -1.9%
 
 ---
 

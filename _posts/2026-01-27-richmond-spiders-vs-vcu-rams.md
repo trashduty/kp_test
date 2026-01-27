@@ -11,17 +11,17 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> VCU Rams -10.5</p>
-  <p><strong>Moneyline:</strong> Richmond Spiders (+497) | VCU Rams (-750)</p>
+  <p><strong>Spread:</strong> VCU Rams -11.0</p>
+  <p><strong>Moneyline:</strong> Richmond Spiders (+475) | VCU Rams (-750)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-VCU Rams (14-6) hosts Richmond Spiders (13-8) at Siegel Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into VCU Rams favored by 10.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+VCU Rams (14-6) hosts Richmond Spiders (13-8) at Siegel Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into VCU Rams favored by 11.0 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us VCU Rams has clear advantages, but games aren't played on paper. Richmond Spiders needs to punch above their weight class to keep this competitive. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 11.0 points tells us VCU Rams has clear advantages, but games aren't played on paper. Richmond Spiders needs to punch above their weight class to keep this competitive. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Richmond Spiders** bring an offensive efficiency of 113.25 (ranked #93 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 38.8% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -37,14 +37,6 @@ Getting to the line matters too. Richmond Spiders's free throw rate sits at 38.6
 #### X-Factors & Intangibles
 Playing at home, VCU Rams get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Richmond Spiders is simply the superior team on paper. 
 From a coaching perspective, Chris Mooney leads Richmond Spiders while Phil Martelli Jr. guides VCU Rams. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, both teams rank similarly on the defensive end (#120 and #97), so offense may determine the outcome. 
-
-#### The Betting Angle
-With 10.5 points to work with, Richmond Spiders doesn't need to win—just stay competitive. 
-Regarding the total of 155.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -132,12 +124,12 @@ VCU Rams comes in ranked #47 overall by KenPom. They boast one of the nation's t
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Richmond Spiders**: 11.0, Edge For Covering Spread: -2.8%
-- **VCU Rams**: -11.0, Edge For Covering Spread: -1.9%
+- **Richmond Spiders**: 11.0, Edge For Covering Spread: -2.7%
+- **VCU Rams**: -11.0, Edge For Covering Spread: -2.0%
 
 ### Moneyline
-- **Richmond Spiders Win Probability**: 16.0%
-- **VCU Rams Win Probability**: 84.0%
+- **Richmond Spiders Win Probability**: 16.2%
+- **VCU Rams Win Probability**: 83.8%
 
 ### Total
 - **Predicted Total**: 156.0

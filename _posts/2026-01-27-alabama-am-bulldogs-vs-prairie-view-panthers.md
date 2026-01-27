@@ -12,16 +12,16 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Prairie View Panthers -1.5</p>
-  <p><strong>Moneyline:</strong> Alabama A&M Bulldogs (+118) | Prairie View Panthers (-142)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Moneyline:</strong> Alabama A&M Bulldogs (+113) | Prairie View Panthers (-135)</p>
+  <p><strong>Total:</strong> 153.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Alabama A&M Bulldogs (10-9) travels to face Prairie View Panthers (8-12) at William Nicks Building, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Prairie View Panthers favored by 1.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Alabama A&M Bulldogs (10-9) travels to face Prairie View Panthers (8-12) at William Nicks Building, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Prairie View Panthers favored by 1.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under a field goal suggests the books see this as essentially a coin flip. Prairie View Panthers's 1.5-point cushion reflects home court advantage more than a talent disparity. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Prairie View Panthers's 1.5-point cushion reflects home court advantage more than a talent disparity. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Alabama A&M Bulldogs** bring an offensive efficiency of 101.78 (ranked #285 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.9% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -37,14 +37,6 @@ Getting to the line matters too. Alabama A&M Bulldogs's free throw rate sits at 
 #### X-Factors & Intangibles
 Playing at home, Prairie View Panthers get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Donte Jackson leads Alabama A&M Bulldogs while Byron Smith guides Prairie View Panthers. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, both teams rank similarly on the defensive end (#237 and #282), so offense may determine the outcome. 
-
-#### The Betting Angle
-Small spreads like 1.5 create interesting dynamics. I'm looking at whether Prairie View Panthers can actually separate, or if this stays inside one possession. 
-Regarding the total of nan: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -134,15 +126,15 @@ Prairie View Panthers comes in ranked #313 overall by KenPom. Defense has been a
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Alabama A&M Bulldogs**: 2.0, Edge For Covering Spread: -2.1%
-- **Prairie View Panthers**: -2.0, Edge For Covering Spread: -2.9%
+- **Alabama A&M Bulldogs**: 1.5, Edge For Covering Spread: -3.1%
+- **Prairie View Panthers**: -1.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Alabama A&M Bulldogs Win Probability**: 42.2%
-- **Prairie View Panthers Win Probability**: 57.8%
+- **Alabama A&M Bulldogs Win Probability**: 42.8%
+- **Prairie View Panthers Win Probability**: 57.2%
 
 ### Total
-- **Predicted Total**: 150.5
+- **Predicted Total**: 152.5
 - **Edge For Covering The Over**: -1.8%
 - **Edge For Covering The Under**: -2.9%
 

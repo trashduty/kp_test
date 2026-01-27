@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Virginia Tech Hokies -9.5</p>
-  <p><strong>Moneyline:</strong> Georgia Tech Yellow Jackets (+404) | Virginia Tech Hokies (-574)</p>
+  <p><strong>Moneyline:</strong> Georgia Tech Yellow Jackets (+380) | Virginia Tech Hokies (-550)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -37,14 +37,6 @@ Getting to the line matters too. Georgia Tech Yellow Jackets's free throw rate s
 #### X-Factors & Intangibles
 Playing at home, Virginia Tech Hokies get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Georgia Tech Yellow Jackets is simply the superior team on paper. 
 From a coaching perspective, Damon Stoudamire leads Georgia Tech Yellow Jackets while Mike Young guides Virginia Tech Hokies. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, both teams rank similarly on the defensive end (#59 and #99), so offense may determine the outcome. 
-
-#### The Betting Angle
-The 9.5-point spread asks: can Georgia Tech Yellow Jackets keep it within striking distance? 
-Regarding the total of 155.5: The number seems inflated relative to the offensive profiles. Under could be the move. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -134,17 +126,17 @@ Virginia Tech Hokies comes in ranked #57 overall by KenPom.
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Georgia Tech Yellow Jackets**: 10.0, Edge For Covering Spread: -2.8%
-- **Virginia Tech Hokies**: -10.0, Edge For Covering Spread: -1.9%
+- **Georgia Tech Yellow Jackets**: 9.5, Edge For Covering Spread: -2.5%
+- **Virginia Tech Hokies**: -9.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Georgia Tech Yellow Jackets Win Probability**: 17.5%
-- **Virginia Tech Hokies Win Probability**: 82.5%
+- **Georgia Tech Yellow Jackets Win Probability**: 17.9%
+- **Virginia Tech Hokies Win Probability**: 82.1%
 
 ### Total
 - **Predicted Total**: 153.5
-- **Edge For Covering The Over**: -5.5%
-- **Edge For Covering The Under**: 0.7%
+- **Edge For Covering The Over**: -6.0%
+- **Edge For Covering The Under**: 1.3%
 
 ---
 

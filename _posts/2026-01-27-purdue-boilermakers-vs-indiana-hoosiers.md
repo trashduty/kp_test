@@ -12,13 +12,13 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Purdue Boilermakers -4.5</p>
-  <p><strong>Moneyline:</strong> Purdue Boilermakers (-190) | Indiana Hoosiers (+160)</p>
+  <p><strong>Moneyline:</strong> Purdue Boilermakers (-190) | Indiana Hoosiers (+157)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Purdue Boilermakers (17-3) enters hostile territory as they take on Indiana Hoosiers (13-7) at Assembly Hall in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Purdue Boilermakers favored by 4.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Purdue Boilermakers (17-3) travels to face Indiana Hoosiers (13-7) at Assembly Hall in what shapes up to be a competitive matchup. The early betting action has shaped into Purdue Boilermakers favored by 4.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
 The 4.5-point spread indicates Purdue Boilermakers is viewed as the better team, but this isn't an overwhelming edge. Indiana Hoosiers has a legitimate path to covering or winning outright with a solid performance. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
@@ -37,14 +37,6 @@ Getting to the line matters too. Purdue Boilermakers's free throw rate sits at 2
 #### X-Factors & Intangibles
 Playing at home, Indiana Hoosiers get the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Purdue Boilermakers. 
 From a coaching perspective, Matt Painter leads Purdue Boilermakers while Darian DeVries guides Indiana Hoosiers. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, both teams rank similarly on the defensive end (#78 and #66), so offense may determine the outcome. 
-
-#### The Betting Angle
-Small spreads like 4.5 create interesting dynamics. I'm looking at whether Purdue Boilermakers can actually separate, or if this stays inside one possession. 
-Regarding the total of 151.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -134,12 +126,12 @@ Indiana Hoosiers comes in ranked #35 overall by KenPom. They boast one of the na
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Purdue Boilermakers**: -4.0, Edge For Covering Spread: -2.1%
-- **Indiana Hoosiers**: 4.0, Edge For Covering Spread: -2.9%
+- **Purdue Boilermakers**: -4.5, Edge For Covering Spread: -2.5%
+- **Indiana Hoosiers**: 4.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Purdue Boilermakers Win Probability**: 63.0%
-- **Indiana Hoosiers Win Probability**: 37.0%
+- **Purdue Boilermakers Win Probability**: 62.9%
+- **Indiana Hoosiers Win Probability**: 37.1%
 
 ### Total
 - **Predicted Total**: 151.5

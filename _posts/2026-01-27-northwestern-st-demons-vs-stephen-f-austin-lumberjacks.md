@@ -12,16 +12,16 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Stephen F. Austin Lumberjacks -14.5</p>
-  <p><strong>Moneyline:</strong> Northwestern St Demons (+890) | Stephen F. Austin Lumberjacks (-1700)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Moneyline:</strong> Northwestern St Demons (+800) | Stephen F. Austin Lumberjacks (-1410)</p>
+  <p><strong>Total:</strong> 142.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Stephen F. Austin Lumberjacks (17-3) hosts Northwestern St Demons (6-13) at Johnson Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Stephen F. Austin Lumberjacks favored by 14.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Stephen F. Austin Lumberjacks (17-3) hosts Northwestern St Demons (6-13) at Johnson Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Stephen F. Austin Lumberjacks favored by 14.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 14.5-point spread screams mismatch. The books are asking Northwestern St Demons to hang within two possessions, which based on the profiles, requires Stephen F. Austin Lumberjacks to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 14.5-point spread screams mismatch. The books are asking Northwestern St Demons to hang within two possessions, which based on the profiles, requires Stephen F. Austin Lumberjacks to play below their standard. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Northwestern St Demons** bring an offensive efficiency of 104.72 (ranked #237 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.8% three-point shooting is serviceable but won't scare anyone. 
@@ -37,14 +37,6 @@ Getting to the line matters too. Northwestern St Demons's free throw rate sits a
 #### X-Factors & Intangibles
 Playing at home, Stephen F. Austin Lumberjacks get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Northwestern St Demons is simply the superior team on paper. 
 From a coaching perspective, Rick Cabrera leads Northwestern St Demons while Matt Braeuer guides Stephen F. Austin Lumberjacks. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, Stephen F. Austin Lumberjacks (#26 defensive efficiency) will look to clamp down on Northwestern St Demons (#348 defensively). 
-
-#### The Betting Angle
-With 14.5 points to work with, Northwestern St Demons doesn't need to win—just stay competitive. 
-Regarding the total of nan: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -134,17 +126,17 @@ Stephen F. Austin Lumberjacks comes in ranked #93 overall by KenPom. On the defe
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northwestern St Demons**: 14.5, Edge For Covering Spread: -2.4%
-- **Stephen F. Austin Lumberjacks**: -14.5, Edge For Covering Spread: -2.4%
+- **Northwestern St Demons**: 14.5, Edge For Covering Spread: -4.1%
+- **Stephen F. Austin Lumberjacks**: -14.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **Northwestern St Demons Win Probability**: 8.5%
-- **Stephen F. Austin Lumberjacks Win Probability**: 91.5%
+- **Northwestern St Demons Win Probability**: 9.0%
+- **Stephen F. Austin Lumberjacks Win Probability**: 91.0%
 
 ### Total
-- **Predicted Total**: 143.5
-- **Edge For Covering The Over**: -2.4%
-- **Edge For Covering The Under**: -2.4%
+- **Predicted Total**: 143.0
+- **Edge For Covering The Over**: -2.7%
+- **Edge For Covering The Under**: -2.0%
 
 ---
 

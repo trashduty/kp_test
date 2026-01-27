@@ -11,17 +11,17 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Miami (OH) RedHawks -8.5</p>
-  <p><strong>Moneyline:</strong> Massachusetts Minutemen (+367) | Miami (OH) RedHawks (-500)</p>
+  <p><strong>Spread:</strong> Miami (OH) RedHawks -9.5</p>
+  <p><strong>Moneyline:</strong> Massachusetts Minutemen (+360) | Miami (OH) RedHawks (-500)</p>
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Miami (OH) RedHawks (20-0) hosts Massachusetts Minutemen (13-8) at Millett Hall in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Miami (OH) RedHawks favored by 8.5 points, with the total sitting at 164.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Miami (OH) RedHawks (20-0) hosts Massachusetts Minutemen (13-8) at Millett Hall in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Miami (OH) RedHawks favored by 9.5 points, with the total sitting at 164.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Miami (OH) RedHawks has clear advantages, but games aren't played on paper. Massachusetts Minutemen needs to punch above their weight class to keep this competitive. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 9.5 points tells us Miami (OH) RedHawks has clear advantages, but games aren't played on paper. Massachusetts Minutemen needs to punch above their weight class to keep this competitive. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Massachusetts Minutemen** bring an offensive efficiency of 108.06 (ranked #177 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.7% three-point shooting is serviceable but won't scare anyone. 
@@ -37,14 +37,6 @@ Getting to the line matters too. Massachusetts Minutemen's free throw rate sits 
 #### X-Factors & Intangibles
 Playing at home, Miami (OH) RedHawks get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Massachusetts Minutemen is simply the superior team on paper. 
 From a coaching perspective, Frank Martin leads Massachusetts Minutemen while Travis Steele guides Miami (OH) RedHawks. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, both teams rank similarly on the defensive end (#89 and #88), so offense may determine the outcome. 
-
-#### The Betting Angle
-The 8.5-point spread asks: can Massachusetts Minutemen keep it within striking distance? 
-Regarding the total of 164.5: The number seems inflated relative to the offensive profiles. Under could be the move. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -132,17 +124,17 @@ Miami (OH) RedHawks comes in ranked #86 overall by KenPom. They're dangerous fro
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Massachusetts Minutemen**: 10.0, Edge For Covering Spread: -6.0%
-- **Miami (OH) RedHawks**: -10.0, Edge For Covering Spread: 1.3%
+- **Massachusetts Minutemen**: 9.5, Edge For Covering Spread: -5.1%
+- **Miami (OH) RedHawks**: -9.5, Edge For Covering Spread: 0.4%
 
 ### Moneyline
-- **Massachusetts Minutemen Win Probability**: 18.2%
-- **Miami (OH) RedHawks Win Probability**: 81.8%
+- **Massachusetts Minutemen Win Probability**: 18.3%
+- **Miami (OH) RedHawks Win Probability**: 81.7%
 
 ### Total
 - **Predicted Total**: 164.0
-- **Edge For Covering The Over**: -4.3%
-- **Edge For Covering The Under**: -0.4%
+- **Edge For Covering The Over**: -3.7%
+- **Edge For Covering The Under**: -1.0%
 
 ---
 

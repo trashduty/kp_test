@@ -12,16 +12,16 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Western Michigan Broncos -1.5</p>
-  <p><strong>Moneyline:</strong> Western Michigan Broncos (-126) | Northern Illinois Huskies (+105)</p>
+  <p><strong>Moneyline:</strong> Western Michigan Broncos (-128) | Northern Illinois Huskies (+106)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Western Michigan Broncos (8-12) enters hostile territory as they take on Northern Illinois Huskies (6-13) at Convocation Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Western Michigan Broncos favored by 1.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Western Michigan Broncos (8-12) travels to face Northern Illinois Huskies (6-13) at Convocation Center in what shapes up to be a competitive matchup. The early betting action has shaped into Western Michigan Broncos favored by 1.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under a field goal suggests the books see this as essentially a coin flip. Western Michigan Broncos's 1.5-point cushion reflects home court advantage more than a talent disparity. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Western Michigan Broncos's 1.5-point cushion reflects home court advantage more than a talent disparity. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Western Michigan Broncos** bring an offensive efficiency of 106.86 (ranked #199 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.1% three-point shooting is serviceable but won't scare anyone. 
@@ -37,14 +37,6 @@ Getting to the line matters too. Western Michigan Broncos's free throw rate sits
 #### X-Factors & Intangibles
 Playing at home, Northern Illinois Huskies get the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Western Michigan Broncos. 
 From a coaching perspective, Dwayne Stephens leads Western Michigan Broncos while Rashon Burno guides Northern Illinois Huskies. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, both teams rank similarly on the defensive end (#303 and #264), so offense may determine the outcome. 
-
-#### The Betting Angle
-Small spreads like 1.5 create interesting dynamics. I'm looking at whether Western Michigan Broncos can actually separate, or if this stays inside one possession. 
-Regarding the total of 147.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -132,17 +124,17 @@ Northern Illinois Huskies comes in ranked #317 overall by KenPom. The three-poin
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Western Michigan Broncos**: -2.0, Edge For Covering Spread: -0.8%
-- **Northern Illinois Huskies**: 2.0, Edge For Covering Spread: -4.0%
+- **Western Michigan Broncos**: -1.5, Edge For Covering Spread: -0.8%
+- **Northern Illinois Huskies**: 1.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Western Michigan Broncos Win Probability**: 56.2%
-- **Northern Illinois Huskies Win Probability**: 43.8%
+- **Western Michigan Broncos Win Probability**: 56.3%
+- **Northern Illinois Huskies Win Probability**: 43.7%
 
 ### Total
 - **Predicted Total**: 147.0
-- **Edge For Covering The Over**: -2.6%
-- **Edge For Covering The Under**: -2.1%
+- **Edge For Covering The Over**: -2.1%
+- **Edge For Covering The Under**: -2.7%
 
 ---
 

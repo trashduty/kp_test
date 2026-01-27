@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan St Spartans -14.5</p>
-  <p><strong>Moneyline:</strong> Michigan St Spartans (-1779) | Rutgers Scarlet Knights (+925)</p>
+  <p><strong>Moneyline:</strong> Michigan St Spartans (-1600) | Rutgers Scarlet Knights (+860)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -37,14 +37,6 @@ Getting to the line matters too. Michigan St Spartans's free throw rate sits at 
 #### X-Factors & Intangibles
 Playing at home, Rutgers Scarlet Knights get the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Michigan St Spartans. 
 From a coaching perspective, Tom Izzo leads Michigan St Spartans while Steve Pikiell guides Rutgers Scarlet Knights. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, Michigan St Spartans (#5 defensive efficiency) should have success against Rutgers Scarlet Knights's weaker defense (#252). 
-
-#### The Betting Angle
-With 14.5 points to work with, Rutgers Scarlet Knights doesn't need to win—just stay competitive. 
-Regarding the total of 135.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -132,17 +124,17 @@ Rutgers Scarlet Knights comes in ranked #159 overall by KenPom. The three-point 
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan St Spartans**: -15.0, Edge For Covering Spread: -0.6%
-- **Rutgers Scarlet Knights**: 15.0, Edge For Covering Spread: -4.1%
+- **Michigan St Spartans**: -14.5, Edge For Covering Spread: -1.2%
+- **Rutgers Scarlet Knights**: 14.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Michigan St Spartans Win Probability**: 91.8%
-- **Rutgers Scarlet Knights Win Probability**: 8.2%
+- **Michigan St Spartans Win Probability**: 91.5%
+- **Rutgers Scarlet Knights Win Probability**: 8.5%
 
 ### Total
 - **Predicted Total**: 135.5
-- **Edge For Covering The Over**: -3.9%
-- **Edge For Covering The Under**: -0.9%
+- **Edge For Covering The Over**: -4.4%
+- **Edge For Covering The Under**: -0.3%
 
 ---
 

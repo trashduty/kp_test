@@ -11,17 +11,17 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> West Virginia Mountaineers -7.5</p>
-  <p><strong>Moneyline:</strong> Kansas St Wildcats (+325) | West Virginia Mountaineers (-427)</p>
+  <p><strong>Spread:</strong> West Virginia Mountaineers -8.0</p>
+  <p><strong>Moneyline:</strong> Kansas St Wildcats (+310) | West Virginia Mountaineers (-400)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-West Virginia Mountaineers (13-7) hosts Kansas St Wildcats (10-10) at Hope Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into West Virginia Mountaineers favored by 7.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+West Virginia Mountaineers (13-7) hosts Kansas St Wildcats (10-10) at Hope Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into West Virginia Mountaineers favored by 8.0 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us West Virginia Mountaineers has clear advantages, but games aren't played on paper. Kansas St Wildcats needs to punch above their weight class to keep this competitive. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.0 points tells us West Virginia Mountaineers has clear advantages, but games aren't played on paper. Kansas St Wildcats needs to punch above their weight class to keep this competitive. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Kansas St Wildcats** bring an offensive efficiency of 113.20 (ranked #94 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 37.3% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -37,14 +37,6 @@ Getting to the line matters too. Kansas St Wildcats's free throw rate sits at 28
 #### X-Factors & Intangibles
 Playing at home, West Virginia Mountaineers get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Kansas St Wildcats is simply the superior team on paper. 
 From a coaching perspective, Jerome Tang leads Kansas St Wildcats while Ross Hodge guides West Virginia Mountaineers. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, West Virginia Mountaineers (#29 defensive efficiency) will look to clamp down on Kansas St Wildcats (#196 defensively). 
-
-#### The Betting Angle
-The 7.5-point spread asks: can Kansas St Wildcats keep it within striking distance? 
-Regarding the total of 145.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -134,17 +126,17 @@ West Virginia Mountaineers comes in ranked #58 overall by KenPom. Their defense 
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kansas St Wildcats**: 7.5, Edge For Covering Spread: -0.5%
-- **West Virginia Mountaineers**: -7.5, Edge For Covering Spread: -4.5%
+- **Kansas St Wildcats**: 8.0, Edge For Covering Spread: -0.4%
+- **West Virginia Mountaineers**: -8.0, Edge For Covering Spread: -4.5%
 
 ### Moneyline
-- **Kansas St Wildcats Win Probability**: 23.3%
-- **West Virginia Mountaineers Win Probability**: 76.7%
+- **Kansas St Wildcats Win Probability**: 23.7%
+- **West Virginia Mountaineers Win Probability**: 76.3%
 
 ### Total
-- **Predicted Total**: 145.0
-- **Edge For Covering The Over**: -2.7%
-- **Edge For Covering The Under**: -2.0%
+- **Predicted Total**: 146.0
+- **Edge For Covering The Over**: -3.2%
+- **Edge For Covering The Under**: -1.6%
 
 ---
 

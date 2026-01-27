@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Nevada Wolf Pack -3.5</p>
-  <p><strong>Moneyline:</strong> Grand Canyon Antelopes (+155) | Nevada Wolf Pack (-185)</p>
+  <p><strong>Moneyline:</strong> Grand Canyon Antelopes (+150) | Nevada Wolf Pack (-180)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -37,14 +37,6 @@ Getting to the line matters too. Grand Canyon Antelopes's free throw rate sits a
 #### X-Factors & Intangibles
 Playing at home, Nevada Wolf Pack get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Bryce Drew leads Grand Canyon Antelopes while Steve Alford guides Nevada Wolf Pack. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, Grand Canyon Antelopes (#24 defensive efficiency) should have success against Nevada Wolf Pack's weaker defense (#141). 
-
-#### The Betting Angle
-Small spreads like 3.5 create interesting dynamics. I'm looking at whether Nevada Wolf Pack can actually separate, or if this stays inside one possession. 
-Regarding the total of 138.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -132,17 +124,17 @@ Nevada Wolf Pack comes in ranked #67 overall by KenPom. They're dangerous from b
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Grand Canyon Antelopes**: 4.0, Edge For Covering Spread: -2.2%
-- **Nevada Wolf Pack**: -4.0, Edge For Covering Spread: -2.9%
+- **Grand Canyon Antelopes**: 3.5, Edge For Covering Spread: -2.5%
+- **Nevada Wolf Pack**: -3.5, Edge For Covering Spread: -2.3%
 
 ### Moneyline
-- **Grand Canyon Antelopes Win Probability**: 36.8%
-- **Nevada Wolf Pack Win Probability**: 63.2%
+- **Grand Canyon Antelopes Win Probability**: 37.1%
+- **Nevada Wolf Pack Win Probability**: 62.9%
 
 ### Total
-- **Predicted Total**: 140.0
-- **Edge For Covering The Over**: -2.7%
-- **Edge For Covering The Under**: -2.0%
+- **Predicted Total**: 141.5
+- **Edge For Covering The Over**: -1.2%
+- **Edge For Covering The Under**: -3.5%
 
 ---
 

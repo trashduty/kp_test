@@ -11,17 +11,17 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Kent State Golden Flashes -7.5</p>
-  <p><strong>Moneyline:</strong> Ohio Bobcats (+295) | Kent State Golden Flashes (-387)</p>
+  <p><strong>Spread:</strong> Kent State Golden Flashes -8.5</p>
+  <p><strong>Moneyline:</strong> Ohio Bobcats (+300) | Kent State Golden Flashes (-400)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Kent State Golden Flashes (15-5) hosts Ohio Bobcats (11-10) at Memorial Athletic & Convocation Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Kent State Golden Flashes favored by 7.5 points, with the total sitting at 163.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Kent State Golden Flashes (15-5) hosts Ohio Bobcats (11-10) at Memorial Athletic & Convocation Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Kent State Golden Flashes favored by 8.5 points, with the total sitting at 163.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us Kent State Golden Flashes has clear advantages, but games aren't played on paper. Ohio Bobcats needs to punch above their weight class to keep this competitive. The total of 163.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 8.5 points tells us Kent State Golden Flashes has clear advantages, but games aren't played on paper. Ohio Bobcats needs to punch above their weight class to keep this competitive. The total of 163.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Ohio Bobcats** bring an offensive efficiency of 105.75 (ranked #219 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.6% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -37,14 +37,6 @@ Getting to the line matters too. Ohio Bobcats's free throw rate sits at 37.5, in
 #### X-Factors & Intangibles
 Playing at home, Kent State Golden Flashes get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Ohio Bobcats is simply the superior team on paper. 
 From a coaching perspective, Jeff Boals leads Ohio Bobcats while Rob Senderoff guides Kent State Golden Flashes. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, both teams rank similarly on the defensive end (#256 and #262), so offense may determine the outcome. 
-
-#### The Betting Angle
-The 7.5-point spread asks: can Ohio Bobcats keep it within striking distance? 
-Regarding the total of 163.5: The number seems inflated relative to the offensive profiles. Under could be the move. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -132,17 +124,17 @@ Kent State Golden Flashes comes in ranked #143 overall by KenPom. Stopping oppon
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ohio Bobcats**: 8.0, Edge For Covering Spread: -2.8%
-- **Kent State Golden Flashes**: -8.0, Edge For Covering Spread: -1.9%
+- **Ohio Bobcats**: 8.5, Edge For Covering Spread: -3.5%
+- **Kent State Golden Flashes**: -8.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Ohio Bobcats Win Probability**: 24.1%
-- **Kent State Golden Flashes Win Probability**: 75.9%
+- **Ohio Bobcats Win Probability**: 23.9%
+- **Kent State Golden Flashes Win Probability**: 76.1%
 
 ### Total
-- **Predicted Total**: 163.5
-- **Edge For Covering The Over**: -2.4%
-- **Edge For Covering The Under**: -2.4%
+- **Predicted Total**: 163.0
+- **Edge For Covering The Over**: -2.7%
+- **Edge For Covering The Under**: -2.0%
 
 ---
 

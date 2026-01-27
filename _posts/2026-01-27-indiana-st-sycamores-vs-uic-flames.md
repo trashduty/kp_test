@@ -11,17 +11,17 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UIC Flames -5.5</p>
-  <p><strong>Moneyline:</strong> Indiana St Sycamores (+240) | UIC Flames (-295)</p>
+  <p><strong>Spread:</strong> UIC Flames -6.0</p>
+  <p><strong>Moneyline:</strong> Indiana St Sycamores (+230) | UIC Flames (-280)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UIC Flames (11-10) hosts Indiana St Sycamores (9-12) at Credit Union 1 Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UIC Flames favored by 5.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UIC Flames (11-10) hosts Indiana St Sycamores (9-12) at Credit Union 1 Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UIC Flames favored by 6.0 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates UIC Flames is viewed as the better team, but this isn't an overwhelming edge. Indiana St Sycamores has a legitimate path to covering or winning outright with a solid performance. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 6.0-point spread indicates UIC Flames is viewed as the better team, but this isn't an overwhelming edge. Indiana St Sycamores has a legitimate path to covering or winning outright with a solid performance. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Indiana St Sycamores** bring an offensive efficiency of 102.50 (ranked #273 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.1% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -37,14 +37,6 @@ Getting to the line matters too. Indiana St Sycamores's free throw rate sits at 
 #### X-Factors & Intangibles
 Playing at home, UIC Flames get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Indiana St Sycamores is simply the superior team on paper. 
 From a coaching perspective, Matthew Graves leads Indiana St Sycamores while Rob Ehsan guides UIC Flames. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, both teams rank similarly on the defensive end (#153 and #106), so offense may determine the outcome. 
-
-#### The Betting Angle
-The 5.5-point spread asks: can Indiana St Sycamores keep it within striking distance? 
-Regarding the total of 144.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -132,17 +124,17 @@ UIC Flames comes in ranked #135 overall by KenPom. They've struggled from deep t
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Indiana St Sycamores**: 6.5, Edge For Covering Spread: -4.6%
-- **UIC Flames**: -6.5, Edge For Covering Spread: -0.1%
+- **Indiana St Sycamores**: 6.0, Edge For Covering Spread: -5.9%
+- **UIC Flames**: -6.0, Edge For Covering Spread: 1.2%
 
 ### Moneyline
-- **Indiana St Sycamores Win Probability**: 26.3%
-- **UIC Flames Win Probability**: 73.7%
+- **Indiana St Sycamores Win Probability**: 26.7%
+- **UIC Flames Win Probability**: 73.3%
 
 ### Total
-- **Predicted Total**: 144.5
-- **Edge For Covering The Over**: -3.5%
-- **Edge For Covering The Under**: -1.2%
+- **Predicted Total**: 145.5
+- **Edge For Covering The Over**: -3.9%
+- **Edge For Covering The Under**: -0.8%
 
 ---
 

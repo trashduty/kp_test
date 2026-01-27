@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Bowling Green Falcons -7.5</p>
-  <p><strong>Moneyline:</strong> Buffalo Bulls (+300) | Bowling Green Falcons (-390)</p>
+  <p><strong>Moneyline:</strong> Buffalo Bulls (+300) | Bowling Green Falcons (-400)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -37,14 +37,6 @@ Getting to the line matters too. Buffalo Bulls's free throw rate sits at 43.1, i
 #### X-Factors & Intangibles
 Playing at home, Bowling Green Falcons get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Buffalo Bulls is simply the superior team on paper. 
 From a coaching perspective, George Halcovage leads Buffalo Bulls while Todd Simon guides Bowling Green Falcons. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, Bowling Green Falcons (#47 defensive efficiency) will look to clamp down on Buffalo Bulls (#246 defensively). 
-
-#### The Betting Angle
-The 7.5-point spread asks: can Buffalo Bulls keep it within striking distance? 
-Regarding the total of 149.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -132,12 +124,12 @@ Bowling Green Falcons comes in ranked #113 overall by KenPom. Their defense has 
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Buffalo Bulls**: 7.5, Edge For Covering Spread: -1.2%
-- **Bowling Green Falcons**: -7.5, Edge For Covering Spread: -3.5%
+- **Buffalo Bulls**: 7.5, Edge For Covering Spread: -0.9%
+- **Bowling Green Falcons**: -7.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Buffalo Bulls Win Probability**: 24.5%
-- **Bowling Green Falcons Win Probability**: 75.5%
+- **Buffalo Bulls Win Probability**: 24.4%
+- **Bowling Green Falcons Win Probability**: 75.6%
 
 ### Total
 - **Predicted Total**: 149.5

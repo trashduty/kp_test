@@ -12,16 +12,16 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arkansas Razorbacks -2.5</p>
-  <p><strong>Moneyline:</strong> Arkansas Razorbacks (-155) | Oklahoma Sooners (+130)</p>
+  <p><strong>Moneyline:</strong> Arkansas Razorbacks (-152) | Oklahoma Sooners (+130)</p>
   <p><strong>Total:</strong> 167.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Arkansas Razorbacks (15-5) enters hostile territory as they take on Oklahoma Sooners (11-9) at Lloyd Noble Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Arkansas Razorbacks favored by 2.5 points, with the total sitting at 167.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Arkansas Razorbacks (15-5) travels to face Oklahoma Sooners (11-9) at Lloyd Noble Center in what shapes up to be a competitive matchup. The early betting action has shaped into Arkansas Razorbacks favored by 2.5 points, with the total sitting at 167.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under a field goal suggests the books see this as essentially a coin flip. Arkansas Razorbacks's 2.5-point cushion reflects home court advantage more than a talent disparity. The total of 167.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Arkansas Razorbacks's 2.5-point cushion reflects home court advantage more than a talent disparity. The total of 167.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Arkansas Razorbacks** bring an offensive efficiency of 122.69 (ranked #12 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 38.8% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -37,14 +37,6 @@ Getting to the line matters too. Arkansas Razorbacks's free throw rate sits at 3
 #### X-Factors & Intangibles
 Playing at home, Oklahoma Sooners get the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Arkansas Razorbacks. 
 From a coaching perspective, John Calipari leads Arkansas Razorbacks while Porter Moser guides Oklahoma Sooners. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, Arkansas Razorbacks (#130 defensive efficiency) should have success against Oklahoma Sooners's weaker defense (#181). 
-
-#### The Betting Angle
-Small spreads like 2.5 create interesting dynamics. I'm looking at whether Arkansas Razorbacks can actually separate, or if this stays inside one possession. 
-Regarding the total of 167.5: Two offenses that can score, playing at pace? I lean over. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -132,8 +124,8 @@ Oklahoma Sooners comes in ranked #65 overall by KenPom. They boast one of the na
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arkansas Razorbacks**: -3.5, Edge For Covering Spread: -0.3%
-- **Oklahoma Sooners**: 3.5, Edge For Covering Spread: -4.4%
+- **Arkansas Razorbacks**: -2.5, Edge For Covering Spread: 0.3%
+- **Oklahoma Sooners**: 2.5, Edge For Covering Spread: -5.0%
 
 ### Moneyline
 - **Arkansas Razorbacks Win Probability**: 61.1%
@@ -141,8 +133,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 167.0
-- **Edge For Covering The Over**: -1.5%
-- **Edge For Covering The Under**: -3.2%
+- **Edge For Covering The Over**: -1.3%
+- **Edge For Covering The Under**: -3.5%
 
 ---
 

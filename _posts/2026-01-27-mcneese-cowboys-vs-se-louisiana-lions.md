@@ -11,17 +11,17 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> McNeese Cowboys -11.5</p>
-  <p><strong>Moneyline:</strong> McNeese Cowboys (-820) | SE Louisiana Lions (+550)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> McNeese Cowboys -12.5</p>
+  <p><strong>Moneyline:</strong> McNeese Cowboys (-950) | SE Louisiana Lions (+610)</p>
+  <p><strong>Total:</strong> 136.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-McNeese Cowboys (16-4) enters hostile territory as they take on SE Louisiana Lions (6-14) at University Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into McNeese Cowboys favored by 11.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+McNeese Cowboys (16-4) enters hostile territory as they take on SE Louisiana Lions (6-14) at University Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into McNeese Cowboys favored by 12.5 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us McNeese Cowboys has clear advantages, but games aren't played on paper. SE Louisiana Lions needs to punch above their weight class to keep this competitive. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 12.5-point spread screams mismatch. The books are asking SE Louisiana Lions to hang within two possessions, which based on the profiles, requires McNeese Cowboys to play below their standard. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **McNeese Cowboys** bring an offensive efficiency of 116.74 (ranked #59 nationally). They're solid offensively, capable of putting up points but not overwhelming. At 31.5% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -37,14 +37,6 @@ Getting to the line matters too. McNeese Cowboys's free throw rate sits at 38.4,
 #### X-Factors & Intangibles
 Playing at home, SE Louisiana Lions get the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for McNeese Cowboys. 
 From a coaching perspective, Bill Armstrong leads McNeese Cowboys while David Kiefer guides SE Louisiana Lions. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, McNeese Cowboys (#70 defensive efficiency) should have success against SE Louisiana Lions's weaker defense (#126). 
-
-#### The Betting Angle
-With 11.5 points to work with, SE Louisiana Lions doesn't need to win—just stay competitive. 
-Regarding the total of nan: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -132,12 +124,12 @@ SE Louisiana Lions comes in ranked #263 overall by KenPom. They've struggled fro
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **McNeese Cowboys**: -11.0, Edge For Covering Spread: -4.1%
-- **SE Louisiana Lions**: 11.0, Edge For Covering Spread: -0.6%
+- **McNeese Cowboys**: -12.5, Edge For Covering Spread: -4.0%
+- **SE Louisiana Lions**: 12.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **McNeese Cowboys Win Probability**: 83.1%
-- **SE Louisiana Lions Win Probability**: 16.9%
+- **McNeese Cowboys Win Probability**: 83.8%
+- **SE Louisiana Lions Win Probability**: 16.2%
 
 ### Total
 - **Predicted Total**: 136.5

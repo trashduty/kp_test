@@ -12,16 +12,16 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama St Hornets -1.5</p>
-  <p><strong>Moneyline:</strong> Alabama St Hornets (-126) | Texas Southern Tigers (+105)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Moneyline:</strong> Alabama St Hornets (-124) | Texas Southern Tigers (+103)</p>
+  <p><strong>Total:</strong> 159.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Alabama St Hornets (6-13) enters hostile territory as they take on Texas Southern Tigers (5-13) at Health & PE Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Alabama St Hornets favored by 1.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Alabama St Hornets (6-13) travels to face Texas Southern Tigers (5-13) at Health & PE Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Alabama St Hornets favored by 1.5 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under a field goal suggests the books see this as essentially a coin flip. Alabama St Hornets's 1.5-point cushion reflects home court advantage more than a talent disparity. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Alabama St Hornets's 1.5-point cushion reflects home court advantage more than a talent disparity. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Alabama St Hornets** bring an offensive efficiency of 101.33 (ranked #293 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.2% three-point shooting is serviceable but won't scare anyone. 
@@ -37,14 +37,6 @@ Getting to the line matters too. Alabama St Hornets's free throw rate sits at 35
 #### X-Factors & Intangibles
 Playing at home, Texas Southern Tigers get the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Alabama St Hornets. 
 From a coaching perspective, Tony Madlock leads Alabama St Hornets while Johnny Jones guides Texas Southern Tigers. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, Alabama St Hornets (#290 defensive efficiency) should have success against Texas Southern Tigers's weaker defense (#342). 
-
-#### The Betting Angle
-Small spreads like 1.5 create interesting dynamics. I'm looking at whether Alabama St Hornets can actually separate, or if this stays inside one possession. 
-Regarding the total of nan: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -132,17 +124,17 @@ Texas Southern Tigers comes in ranked #332 overall by KenPom. Stopping opponents
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Alabama St Hornets**: -1.0, Edge For Covering Spread: -4.0%
-- **Texas Southern Tigers**: 1.0, Edge For Covering Spread: -0.8%
+- **Alabama St Hornets**: -1.5, Edge For Covering Spread: -3.8%
+- **Texas Southern Tigers**: 1.5, Edge For Covering Spread: -1.0%
 
 ### Moneyline
-- **Alabama St Hornets Win Probability**: 49.2%
-- **Texas Southern Tigers Win Probability**: 50.8%
+- **Alabama St Hornets Win Probability**: 49.0%
+- **Texas Southern Tigers Win Probability**: 51.0%
 
 ### Total
-- **Predicted Total**: 157.0
-- **Edge For Covering The Over**: -1.5%
-- **Edge For Covering The Under**: -3.2%
+- **Predicted Total**: 158.0
+- **Edge For Covering The Over**: -3.2%
+- **Edge For Covering The Under**: -1.5%
 
 ---
 

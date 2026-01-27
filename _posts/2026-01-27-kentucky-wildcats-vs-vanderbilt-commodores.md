@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Vanderbilt Commodores -6.5</p>
-  <p><strong>Moneyline:</strong> Kentucky Wildcats (+250) | Vanderbilt Commodores (-300)</p>
+  <p><strong>Moneyline:</strong> Kentucky Wildcats (+232) | Vanderbilt Commodores (-284)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -37,14 +37,6 @@ Getting to the line matters too. Kentucky Wildcats's free throw rate sits at 37.
 #### X-Factors & Intangibles
 Playing at home, Vanderbilt Commodores get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Mark Pope leads Kentucky Wildcats while Mark Byington guides Vanderbilt Commodores. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, both teams rank similarly on the defensive end (#55 and #50), so offense may determine the outcome. 
-
-#### The Betting Angle
-The 6.5-point spread asks: can Kentucky Wildcats keep it within striking distance? 
-Regarding the total of 158.5: Two offenses that can score, playing at pace? I lean over. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -134,17 +126,17 @@ Vanderbilt Commodores comes in ranked #13 overall by KenPom. They're dangerous f
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kentucky Wildcats**: 7.0, Edge For Covering Spread: -4.0%
-- **Vanderbilt Commodores**: -7.0, Edge For Covering Spread: -0.8%
+- **Kentucky Wildcats**: 6.5, Edge For Covering Spread: -4.0%
+- **Vanderbilt Commodores**: -6.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Kentucky Wildcats Win Probability**: 25.2%
-- **Vanderbilt Commodores Win Probability**: 74.8%
+- **Kentucky Wildcats Win Probability**: 25.8%
+- **Vanderbilt Commodores Win Probability**: 74.2%
 
 ### Total
-- **Predicted Total**: 159.0
-- **Edge For Covering The Over**: -3.2%
-- **Edge For Covering The Under**: -1.6%
+- **Predicted Total**: 159.5
+- **Edge For Covering The Over**: -3.7%
+- **Edge For Covering The Under**: -2.6%
 
 ---
 

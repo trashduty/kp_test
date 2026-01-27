@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama Crimson Tide -10.5</p>
-  <p><strong>Moneyline:</strong> Missouri Tigers (+540) | Alabama Crimson Tide (-836)</p>
+  <p><strong>Moneyline:</strong> Missouri Tigers (+500) | Alabama Crimson Tide (-780)</p>
   <p><strong>Total:</strong> 165.5</p>
 </div>
 
@@ -37,14 +37,6 @@ Getting to the line matters too. Missouri Tigers's free throw rate sits at 41.2,
 #### X-Factors & Intangibles
 Playing at home, Alabama Crimson Tide get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Missouri Tigers is simply the superior team on paper. 
 From a coaching perspective, Dennis Gates leads Missouri Tigers while Nate Oats guides Alabama Crimson Tide. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, Missouri Tigers (#139 defensive efficiency) should have success against Alabama Crimson Tide's weaker defense (#218). 
-
-#### The Betting Angle
-With 10.5 points to work with, Missouri Tigers doesn't need to win—just stay competitive. 
-Regarding the total of 165.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -136,17 +128,17 @@ Alabama Crimson Tide comes in ranked #19 overall by KenPom. They boast one of th
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Missouri Tigers**: 11.0, Edge For Covering Spread: -2.1%
-- **Alabama Crimson Tide**: -11.0, Edge For Covering Spread: -2.5%
+- **Missouri Tigers**: 10.5, Edge For Covering Spread: -2.1%
+- **Alabama Crimson Tide**: -10.5, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **Missouri Tigers Win Probability**: 15.4%
-- **Alabama Crimson Tide Win Probability**: 84.6%
+- **Missouri Tigers Win Probability**: 15.9%
+- **Alabama Crimson Tide Win Probability**: 84.1%
 
 ### Total
 - **Predicted Total**: 165.5
-- **Edge For Covering The Over**: -2.0%
-- **Edge For Covering The Under**: -2.7%
+- **Edge For Covering The Over**: -1.7%
+- **Edge For Covering The Under**: -3.1%
 
 ---
 

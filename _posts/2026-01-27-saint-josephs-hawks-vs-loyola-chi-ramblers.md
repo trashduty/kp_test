@@ -12,13 +12,13 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Saint Joseph's Hawks -3.5</p>
-  <p><strong>Moneyline:</strong> Saint Joseph's Hawks (-183) | Loyola (Chi) Ramblers (+154)</p>
+  <p><strong>Moneyline:</strong> Saint Joseph's Hawks (-165) | Loyola (Chi) Ramblers (+140)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Saint Joseph's Hawks (12-8) enters hostile territory as they take on Loyola (Chi) Ramblers (5-16) at Gentile Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Saint Joseph's Hawks favored by 3.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Saint Joseph's Hawks (12-8) travels to face Loyola (Chi) Ramblers (5-16) at Gentile Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Saint Joseph's Hawks favored by 3.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
 The 3.5-point spread indicates Saint Joseph's Hawks is viewed as the better team, but this isn't an overwhelming edge. Loyola (Chi) Ramblers has a legitimate path to covering or winning outright with a solid performance. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
@@ -37,14 +37,6 @@ Getting to the line matters too. Saint Joseph's Hawks's free throw rate sits at 
 #### X-Factors & Intangibles
 Playing at home, Loyola (Chi) Ramblers get the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Saint Joseph's Hawks. 
 From a coaching perspective, Steve Donahue leads Saint Joseph's Hawks while Drew Valentine guides Loyola (Chi) Ramblers. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, Saint Joseph's Hawks (#123 defensive efficiency) should have success against Loyola (Chi) Ramblers's weaker defense (#330). 
-
-#### The Betting Angle
-Small spreads like 3.5 create interesting dynamics. I'm looking at whether Saint Joseph's Hawks can actually separate, or if this stays inside one possession. 
-Regarding the total of 143.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -132,17 +124,17 @@ Loyola (Chi) Ramblers comes in ranked #310 overall by KenPom. They've struggled 
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Saint Joseph's Hawks**: -4.0, Edge For Covering Spread: 0.5%
-- **Loyola (Chi) Ramblers**: 4.0, Edge For Covering Spread: -5.2%
+- **Saint Joseph's Hawks**: -3.5, Edge For Covering Spread: 1.2%
+- **Loyola (Chi) Ramblers**: 3.5, Edge For Covering Spread: -6.2%
 
 ### Moneyline
-- **Saint Joseph's Hawks Win Probability**: 64.7%
-- **Loyola (Chi) Ramblers Win Probability**: 35.3%
+- **Saint Joseph's Hawks Win Probability**: 63.6%
+- **Loyola (Chi) Ramblers Win Probability**: 36.4%
 
 ### Total
-- **Predicted Total**: 142.5
-- **Edge For Covering The Over**: -3.5%
-- **Edge For Covering The Under**: -1.2%
+- **Predicted Total**: 143.5
+- **Edge For Covering The Over**: -2.4%
+- **Edge For Covering The Under**: -2.4%
 
 ---
 

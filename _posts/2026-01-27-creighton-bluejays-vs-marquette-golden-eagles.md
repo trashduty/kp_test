@@ -11,17 +11,17 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Creighton Bluejays -1.5</p>
-  <p><strong>Moneyline:</strong> Creighton Bluejays (-130) | Marquette Golden Eagles (+110)</p>
+  <p><strong>Spread:</strong> Creighton Bluejays -2.0</p>
+  <p><strong>Moneyline:</strong> Creighton Bluejays (-137) | Marquette Golden Eagles (+114)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Creighton Bluejays (12-8) enters hostile territory as they take on Marquette Golden Eagles (7-14) at Fiserv Forum in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Creighton Bluejays favored by 1.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Creighton Bluejays (12-8) travels to face Marquette Golden Eagles (7-14) at Fiserv Forum in what shapes up to be a competitive matchup. The early betting action has shaped into Creighton Bluejays favored by 2.0 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under a field goal suggests the books see this as essentially a coin flip. Creighton Bluejays's 1.5-point cushion reflects home court advantage more than a talent disparity. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Creighton Bluejays's 2.0-point cushion reflects home court advantage more than a talent disparity. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Creighton Bluejays** bring an offensive efficiency of 114.40 (ranked #78 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.5% three-point shooting is serviceable but won't scare anyone. 
@@ -37,14 +37,6 @@ Getting to the line matters too. Creighton Bluejays's free throw rate sits at 27
 #### X-Factors & Intangibles
 Playing at home, Marquette Golden Eagles get the crowd advantage and familiar surroundings. Combined with their ranking advantage, this home court could create an intimidating environment for Creighton Bluejays. 
 From a coaching perspective, Greg McDermott leads Creighton Bluejays while Shaka Smart guides Marquette Golden Eagles. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, both teams rank similarly on the defensive end (#179 and #225), so offense may determine the outcome. 
-
-#### The Betting Angle
-Small spreads like 1.5 create interesting dynamics. I'm looking at whether Creighton Bluejays can actually separate, or if this stays inside one possession. 
-Regarding the total of 155.5: The number seems inflated relative to the offensive profiles. Under could be the move. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -132,12 +124,12 @@ Marquette Golden Eagles comes in ranked #124 overall by KenPom. The three-point 
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Creighton Bluejays**: -2.0, Edge For Covering Spread: -0.8%
-- **Marquette Golden Eagles**: 2.0, Edge For Covering Spread: -4.0%
+- **Creighton Bluejays**: -2.0, Edge For Covering Spread: -0.4%
+- **Marquette Golden Eagles**: 2.0, Edge For Covering Spread: -4.3%
 
 ### Moneyline
-- **Creighton Bluejays Win Probability**: 57.6%
-- **Marquette Golden Eagles Win Probability**: 42.4%
+- **Creighton Bluejays Win Probability**: 58.2%
+- **Marquette Golden Eagles Win Probability**: 41.8%
 
 ### Total
 - **Predicted Total**: 154.5

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Akron Zips -12.5</p>
-  <p><strong>Moneyline:</strong> Toledo Rockets (+669) | Akron Zips (-1092)</p>
+  <p><strong>Moneyline:</strong> Toledo Rockets (+640) | Akron Zips (-1000)</p>
   <p><strong>Total:</strong> 169.5</p>
 </div>
 
@@ -37,15 +37,7 @@ Getting to the line matters too. Toledo Rockets's free throw rate sits at 35.0, 
 #### X-Factors & Intangibles
 Playing at home, Akron Zips get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Toledo Rockets is simply the superior team on paper. 
 From a coaching perspective, Tod Kowalczyk leads Toledo Rockets while John Groce guides Akron Zips. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, Akron Zips (#162 defensive efficiency) will look to clamp down on Toledo Rockets (#283 defensively). 
-
-#### The Betting Angle
-With 12.5 points to work with, Toledo Rockets doesn't need to win—just stay competitive. The matchup favors Akron Zips's offense against a weak defense. The favorite should be able to flex here. 
-Regarding the total of 169.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
-
+Akron Zips's offense (#2) could exploit Toledo Rockets's defensive vulnerabilities (#283). 
 ### Game Storylines
 
 This looks like a mismatch on paper with Akron Zips significantly higher in the rankings, but as they say, that's why they play the games. Toledo Rockets will need their best performance of the season to pull off the upset. 
@@ -132,12 +124,12 @@ Akron Zips comes in ranked #54 overall by KenPom. They're dangerous from beyond 
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Toledo Rockets**: 13.0, Edge For Covering Spread: -5.1%
-- **Akron Zips**: -13.0, Edge For Covering Spread: 0.4%
+- **Toledo Rockets**: 12.5, Edge For Covering Spread: -5.0%
+- **Akron Zips**: -12.5, Edge For Covering Spread: 0.3%
 
 ### Moneyline
-- **Toledo Rockets Win Probability**: 12.7%
-- **Akron Zips Win Probability**: 87.3%
+- **Toledo Rockets Win Probability**: 13.0%
+- **Akron Zips Win Probability**: 87.0%
 
 ### Total
 - **Predicted Total**: 170.0

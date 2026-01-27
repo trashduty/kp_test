@@ -11,17 +11,17 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> NC State Wolfpack -11.5</p>
-  <p><strong>Moneyline:</strong> Syracuse Orange (+519) | NC State Wolfpack (-800)</p>
+  <p><strong>Spread:</strong> NC State Wolfpack -11.0</p>
+  <p><strong>Moneyline:</strong> Syracuse Orange (+500) | NC State Wolfpack (-800)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-NC State Wolfpack (14-6) hosts Syracuse Orange (12-8) at Lenovo Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into NC State Wolfpack favored by 11.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+NC State Wolfpack (14-6) hosts Syracuse Orange (12-8) at Lenovo Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into NC State Wolfpack favored by 11.0 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us NC State Wolfpack has clear advantages, but games aren't played on paper. Syracuse Orange needs to punch above their weight class to keep this competitive. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 11.0 points tells us NC State Wolfpack has clear advantages, but games aren't played on paper. Syracuse Orange needs to punch above their weight class to keep this competitive. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Syracuse Orange** bring an offensive efficiency of 109.48 (ranked #152 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.5% three-point shooting is serviceable but won't scare anyone. 
@@ -37,14 +37,6 @@ Getting to the line matters too. Syracuse Orange's free throw rate sits at 39.5,
 #### X-Factors & Intangibles
 Playing at home, NC State Wolfpack get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Syracuse Orange is simply the superior team on paper. 
 From a coaching perspective, Adrian Autry leads Syracuse Orange while Will Wade guides NC State Wolfpack. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, both teams rank similarly on the defensive end (#38 and #53), so offense may determine the outcome. 
-
-#### The Betting Angle
-With 11.5 points to work with, Syracuse Orange doesn't need to win—just stay competitive. 
-Regarding the total of 152.5: The number seems inflated relative to the offensive profiles. Under could be the move. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -132,17 +124,17 @@ NC State Wolfpack comes in ranked #26 overall by KenPom. They're dangerous from 
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Syracuse Orange**: 11.0, Edge For Covering Spread: -1.7%
-- **NC State Wolfpack**: -11.0, Edge For Covering Spread: -3.1%
+- **Syracuse Orange**: 11.0, Edge For Covering Spread: -2.6%
+- **NC State Wolfpack**: -11.0, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Syracuse Orange Win Probability**: 16.2%
-- **NC State Wolfpack Win Probability**: 83.8%
+- **Syracuse Orange Win Probability**: 16.4%
+- **NC State Wolfpack Win Probability**: 83.6%
 
 ### Total
 - **Predicted Total**: 152.0
-- **Edge For Covering The Over**: -2.1%
-- **Edge For Covering The Under**: -2.7%
+- **Edge For Covering The Over**: -1.9%
+- **Edge For Covering The Under**: -2.9%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UConn Huskies -16.5</p>
-  <p><strong>Moneyline:</strong> Providence Friars (+1226) | UConn Huskies (-3297)</p>
+  <p><strong>Moneyline:</strong> Providence Friars (+1160) | UConn Huskies (-2800)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -37,14 +37,6 @@ Getting to the line matters too. Providence Friars's free throw rate sits at 36.
 #### X-Factors & Intangibles
 Playing at home, UConn Huskies get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Providence Friars is simply the superior team on paper. 
 From a coaching perspective, Kim English leads Providence Friars while Dan Hurley guides UConn Huskies. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Defensively, UConn Huskies (#8 defensive efficiency) will look to clamp down on Providence Friars (#280 defensively). 
-
-#### The Betting Angle
-With 16.5 points to work with, Providence Friars doesn't need to win—just stay competitive. 
-Regarding the total of 156.5: The total seems fairly priced. I'd need to see where sharp money moves it. 
-
-The sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.
-
 
 ### Game Storylines
 
@@ -136,17 +128,17 @@ UConn Huskies comes in ranked #10 overall by KenPom. On the defensive end, they'
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Providence Friars**: 16.5, Edge For Covering Spread: -2.4%
-- **UConn Huskies**: -16.5, Edge For Covering Spread: -2.4%
+- **Providence Friars**: 16.5, Edge For Covering Spread: -2.9%
+- **UConn Huskies**: -16.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Providence Friars Win Probability**: 6.7%
-- **UConn Huskies Win Probability**: 93.3%
+- **Providence Friars Win Probability**: 6.9%
+- **UConn Huskies Win Probability**: 93.1%
 
 ### Total
 - **Predicted Total**: 157.0
-- **Edge For Covering The Over**: -2.7%
-- **Edge For Covering The Under**: -2.0%
+- **Edge For Covering The Over**: -1.6%
+- **Edge For Covering The Under**: -3.1%
 
 ---
 
