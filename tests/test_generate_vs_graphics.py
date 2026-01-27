@@ -11,7 +11,8 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from generate_vs_graphics import (
     slugify,
-    match_team_logo,
+    find_team_logo,
+    convert_api_to_kenpom_name,
     get_target_dates,
     create_placeholder_logo,
     IMAGE_WIDTH,
@@ -30,7 +31,7 @@ def test_slugify():
     print("✓ slugify converts team names correctly")
 
 
-def test_match_team_logo_exact_match():
+def test_find_team_logo_exact_match():
     """Test exact team name matching with logos"""
     logos_df = pd.DataFrame({
         'ncaa_name': ['Arizona', 'Duke', 'Kansas'],
@@ -39,12 +40,12 @@ def test_match_team_logo_exact_match():
                   'http://example.com/kansas.png']
     })
     
-    result = match_team_logo('Arizona', logos_df)
+    result = find_team_logo('Arizona', logos_df)
     assert result == 'http://example.com/arizona.png'
     print("✓ Exact team name matching works")
 
 
-def test_match_team_logo_case_sensitive():
+def test_find_team_logo_case_sensitive():
     """Test that matching is case-sensitive (exact match only)"""
     logos_df = pd.DataFrame({
         'ncaa_name': ['Arizona', 'Duke'],
@@ -52,19 +53,19 @@ def test_match_team_logo_case_sensitive():
     })
     
     # Should NOT match with different case (exact match only)
-    result = match_team_logo('ARIZONA', logos_df)
+    result = find_team_logo('ARIZONA', logos_df)
     assert result is None
     print("✓ Case-sensitive matching works (no fallback)")
 
 
-def test_match_team_logo_no_match():
+def test_find_team_logo_no_match():
     """Test that None is returned when no match is found"""
     logos_df = pd.DataFrame({
         'ncaa_name': ['Arizona', 'Duke'],
         'logos': ['http://example.com/arizona.png', 'http://example.com/duke.png']
     })
     
-    result = match_team_logo('NonexistentTeam', logos_df)
+    result = find_team_logo('NonexistentTeam', logos_df)
     assert result is None
     print("✓ Returns None for non-existent teams")
 
@@ -102,12 +103,61 @@ def test_create_placeholder_logo():
     print("✓ Placeholder logo created with correct dimensions")
 
 
+def test_convert_api_to_kenpom_name_found():
+    """Test crosswalk conversion when team is found"""
+    crosswalk_df = pd.DataFrame({
+        'API': ['Miami FL', 'Miami OH', 'VCU'],
+        'kenpom': ['Miami', 'Miami Ohio', 'VCU']
+    })
+    
+    result = convert_api_to_kenpom_name('Miami FL', crosswalk_df)
+    assert result == 'Miami'
+    print("✓ Crosswalk conversion works for found teams")
+
+
+def test_convert_api_to_kenpom_name_not_found():
+    """Test crosswalk conversion when team is not found"""
+    crosswalk_df = pd.DataFrame({
+        'API': ['Miami FL', 'Miami OH'],
+        'kenpom': ['Miami', 'Miami Ohio']
+    })
+    
+    result = convert_api_to_kenpom_name('Duke', crosswalk_df)
+    assert result == 'Duke'
+    print("✓ Crosswalk returns original name when not found")
+
+
+def test_convert_api_to_kenpom_name_case_insensitive():
+    """Test that crosswalk lookup is case-insensitive"""
+    crosswalk_df = pd.DataFrame({
+        'API': ['Miami FL', 'VCU'],
+        'kenpom': ['Miami', 'VCU']
+    })
+    
+    result = convert_api_to_kenpom_name('MIAMI FL', crosswalk_df)
+    assert result == 'Miami'
+    print("✓ Crosswalk lookup is case-insensitive")
+
+
+def test_convert_api_to_kenpom_name_empty_df():
+    """Test crosswalk conversion with empty DataFrame"""
+    crosswalk_df = pd.DataFrame()
+    
+    result = convert_api_to_kenpom_name('Duke', crosswalk_df)
+    assert result == 'Duke'
+    print("✓ Crosswalk returns original name with empty DataFrame")
+
+
 if __name__ == '__main__':
     test_slugify()
-    test_match_team_logo_exact_match()
-    test_match_team_logo_case_sensitive()
-    test_match_team_logo_no_match()
+    test_find_team_logo_exact_match()
+    test_find_team_logo_case_sensitive()
+    test_find_team_logo_no_match()
     test_get_target_dates()
     test_image_dimensions_constants()
     test_create_placeholder_logo()
+    test_convert_api_to_kenpom_name_found()
+    test_convert_api_to_kenpom_name_not_found()
+    test_convert_api_to_kenpom_name_case_insensitive()
+    test_convert_api_to_kenpom_name_empty_df()
     print("\n✅ All tests passed!")
