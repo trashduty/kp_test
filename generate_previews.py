@@ -235,7 +235,7 @@ def generate_seo_metadata(away_team, home_team, game_date, away_predictions, hom
     seo_title = f"{away_team} vs {home_team} Prediction & Picks - {game_date.strftime('%b %d')}"
     
     # Meta Description (155-160 characters for optimal display)
-    meta_description = f"Expert {away_team} vs {home_team} prediction for {game_date.strftime('%B %d, %Y')}. Spread: {spread_text}, Total: {total}. View our model's picks, KenPom analysis & betting edge."
+    meta_description = f"Expert {away_team} vs {home_team} prediction for {game_date.strftime('%B %d, %Y')}. Spread: {spread_text}, Total: {total}. View our model's picks, KenPom analysis & betting edge for this matchup."
     
     # Keywords
     keywords = [
@@ -626,7 +626,7 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
     elif spread_value < 12:
         sections.append(f"A spread around {spread_value:.1f} points tells us {favorite} has clear advantages, but games aren't played on paper. {underdog} needs to punch above their weight class to keep this close. ")
     else:
-        sections.append(f"The {spread_value:.1f}-point spread screams mismatch. The books are asking {underdog} to hang within two possessions, which based on the profiles, requires {favorite} to play below their standards. ")
+        sections.append(f"The {spread_value:.1f}-point spread screams mismatch. The books are asking {underdog} to hang within two possessions, which based on the profiles, requires {favorite} to play below their standard. ")
     
     if total < 135:
         sections.append(f"The total of {total:.1f} suggests a defensive slugfest or slower tempo that limits possessions. ")
@@ -779,7 +779,7 @@ def generate_game_narrative(away_team, home_team, away_stats, home_stats):
     else:
         favorite = away_team if away_rank < home_rank else home_team
         underdog = home_team if away_rank < home_rank else away_team
-        narrative += f"This looks like a mismatch on paper with {favorite} significantly higher in the rankings, but as they say, that's why they play the games. {underdog} will need their best performance of the season to hang in this one. "
+        narrative += f"This looks like a mismatch on paper with {favorite} significantly higher in the rankings, but as they say, that's why they play the games. {underdog} will need their best performance to stay competitive. "
     
     # Offensive vs Defensive matchup
     narrative += "\n\n**Key Matchup: "
@@ -808,7 +808,7 @@ def generate_game_narrative(away_team, home_team, away_stats, home_stats):
     
     # Three-point shooting matchup
     if away_fg3_pct > 35 and home_opp_fg3_pct < 32:
-        narrative += f"\n\n**X-Factor:** {away_team} can light it up from three-point range ({away_fg3_pct:.1f}%), but {home_team} defend the arc exceptionally well, holding opponents to just {home_opp_fg3_pct:.1f}%. Something's got to give. "
+        narrative += f"\n\n**X-Factor:** {away_team} can light it up from three-point range ({away_fg3_pct:.1f}%), but {home_team} defend the arc exceptionally well, holding opponents to just {home_opp_fg3_pct:.1f}%. This battle on the perimeter could decide the game. "
     elif home_fg3_pct > 35 and away_opp_fg3_pct < 32:
         narrative += f"\n\n**X-Factor:** {home_team}'s three-point shooting ({home_fg3_pct:.1f}%) faces a tough test against {away_team}'s perimeter defense, which limits opponents to {away_opp_fg3_pct:.1f}% from deep. "
     elif away_fg3_pct > 37 and home_fg3_pct > 37:
@@ -822,33 +822,64 @@ def generate_predictions_section(away_team, home_team, away_predictions, home_pr
     
     # Extract prediction values
     away_spread = format_stat(away_predictions.get('market_spread', 'N/A'), 1)
-    away_spread_edge = format_percentage(away_predictions.get('Edge For Covering Spread', 'N/A'))
+    away_spread_edge = away_predictions.get('Edge For Covering Spread', 'N/A')
     home_spread = format_stat(home_predictions.get('market_spread', 'N/A'), 1)
-    home_spread_edge = format_percentage(home_predictions.get('Edge For Covering Spread', 'N/A'))
+    home_spread_edge = home_predictions.get('Edge For Covering Spread', 'N/A')
     
     away_ml_prob = format_percentage(away_predictions.get('Moneyline Win Probability', 'N/A'))
+    away_ml_edge = away_predictions.get('Moneyline Edge', 'N/A')
     home_ml_prob = format_percentage(home_predictions.get('Moneyline Win Probability', 'N/A'))
+    home_ml_edge = home_predictions.get('Moneyline Edge', 'N/A')
     
     # For total, we can use either team's row (should be the same)
     predicted_total = format_stat(away_predictions.get('average_total', 'N/A'), 1)
-    over_edge = format_percentage(away_predictions.get('Over Total Edge', 'N/A'))
-    under_edge = format_percentage(away_predictions.get('Under Total Edge', 'N/A'))
+    over_edge = away_predictions.get('Over Total Edge', 'N/A')
+    under_edge = away_predictions.get('Under Total Edge', 'N/A')
+    
+    # Helper function to format edge with bold if positive
+    def format_edge_with_bold(edge_value, label):
+        """Format edge value and make it bold if positive."""
+        formatted_edge = format_percentage(edge_value)
+        if formatted_edge == 'N/A':
+            return f"{label}: {formatted_edge}"
+        
+        try:
+            # Extract numeric value
+            numeric_value = float(edge_value) if not pd.isna(edge_value) else None
+            if numeric_value is not None and numeric_value > 0:
+                return f"{label}: **{formatted_edge}**"
+            else:
+                return f"{label}: {formatted_edge}"
+        except:
+            return f"{label}: {formatted_edge}"
+    
+    # Format all edges with bold for positive values
+    away_spread_edge_text = format_edge_with_bold(away_spread_edge, "Edge For Covering Spread")
+    home_spread_edge_text = format_edge_with_bold(home_spread_edge, "Edge For Covering Spread")
+    away_ml_edge_text = format_edge_with_bold(away_ml_edge, "Moneyline Edge")
+    home_ml_edge_text = format_edge_with_bold(home_ml_edge, "Moneyline Edge")
+    over_edge_text = format_edge_with_bold(over_edge, "Edge For Covering The Over")
+    under_edge_text = format_edge_with_bold(under_edge, "Edge For Covering The Under")
     
     predictions = f"""
+---
+
 ## Model Predictions
 
+All that being said, here's how our model prices this game.
+
 ### Spread
-- **{away_team}**: {away_spread}, Edge For Covering Spread: {away_spread_edge}
-- **{home_team}**: {home_spread}, Edge For Covering Spread: {home_spread_edge}
+- **{away_team}**: {away_spread}, {away_spread_edge_text}
+- **{home_team}**: {home_spread}, {home_spread_edge_text}
 
 ### Moneyline
-- **{away_team} Win Probability**: {away_ml_prob}
-- **{home_team} Win Probability**: {home_ml_prob}
+- **{away_team} Win Probability**: {away_ml_prob}, {away_ml_edge_text}
+- **{home_team} Win Probability**: {home_ml_prob}, {home_ml_edge_text}
 
 ### Total
 - **Predicted Total**: {predicted_total}
-- **Edge For Covering The Over**: {over_edge}
-- **Edge For Covering The Under**: {under_edge}
+- {over_edge_text}
+- {under_edge_text}
 
 ---
 
