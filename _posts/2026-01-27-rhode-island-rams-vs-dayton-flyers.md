@@ -11,17 +11,17 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Dayton Flyers -8.0</p>
+  <p><strong>Spread:</strong> Dayton Flyers -8.5</p>
   <p><strong>Moneyline:</strong> Rhode Island Rams (+297) | Dayton Flyers (-387)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Dayton Flyers (14-6) hosts Rhode Island Rams (12-8) at University of Dayton Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Dayton Flyers favored by 8.0 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Dayton Flyers (14-6) hosts Rhode Island Rams (12-8) at University of Dayton Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Dayton Flyers favored by 8.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.0 points tells us Dayton Flyers has clear advantages, but games aren't played on paper. Rhode Island Rams needs to punch above their weight class to keep this competitive. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.5 points tells us Dayton Flyers has clear advantages, but games aren't played on paper. Rhode Island Rams needs to punch above their weight class to keep this competitive. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Rhode Island Rams** bring an offensive efficiency of 109.42 (ranked #155 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.5% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -124,8 +124,8 @@ Dayton Flyers comes in ranked #80 overall by KenPom. Their defense has been a ca
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Rhode Island Rams**: 8.0, Edge For Covering Spread: -0.3%
-- **Dayton Flyers**: -8.0, Edge For Covering Spread: -4.7%
+- **Rhode Island Rams**: 8.5, Edge For Covering Spread: -1.8%
+- **Dayton Flyers**: -8.5, Edge For Covering Spread: -3.0%
 
 ### Moneyline
 - **Rhode Island Rams Win Probability**: 23.5%
@@ -133,8 +133,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 136.5
-- **Edge For Covering The Over**: -1.8%
-- **Edge For Covering The Under**: -2.9%
+- **Edge For Covering The Over**: -2.4%
+- **Edge For Covering The Under**: -2.4%
 
 ---
 

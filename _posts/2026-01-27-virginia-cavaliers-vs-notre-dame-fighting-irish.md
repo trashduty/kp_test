@@ -126,8 +126,8 @@ Notre Dame Fighting Irish comes in ranked #82 overall by KenPom.
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Virginia Cavaliers**: -9.5, Edge For Covering Spread: -4.8%
-- **Notre Dame Fighting Irish**: 9.5, Edge For Covering Spread: 0.1%
+- **Virginia Cavaliers**: -9.5, Edge For Covering Spread: -5.2%
+- **Notre Dame Fighting Irish**: 9.5, Edge For Covering Spread: 0.5%
 
 ### Moneyline
 - **Virginia Cavaliers Win Probability**: 78.7%
@@ -135,8 +135,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 141.0
-- **Edge For Covering The Over**: -3.7%
-- **Edge For Covering The Under**: -1.0%
+- **Edge For Covering The Over**: -3.2%
+- **Edge For Covering The Under**: -1.6%
 
 ---
 

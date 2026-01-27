@@ -137,8 +137,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 165.5
-- **Edge For Covering The Over**: -0.9%
-- **Edge For Covering The Under**: -3.9%
+- **Edge For Covering The Over**: -1.4%
+- **Edge For Covering The Under**: -3.3%
 
 ---
 

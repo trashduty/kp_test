@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> West Virginia Mountaineers -7.5</p>
-  <p><strong>Moneyline:</strong> Kansas St Wildcats (+300) | West Virginia Mountaineers (-390)</p>
+  <p><strong>Moneyline:</strong> Kansas St Wildcats (+305) | West Virginia Mountaineers (-400)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -130,8 +130,8 @@ All that being said, here's how our model prices this game.
 - **West Virginia Mountaineers**: -7.5, Edge For Covering Spread: -4.5%
 
 ### Moneyline
-- **Kansas St Wildcats Win Probability**: 24.0%
-- **West Virginia Mountaineers Win Probability**: 76.0%
+- **Kansas St Wildcats Win Probability**: 23.8%
+- **West Virginia Mountaineers Win Probability**: 76.2%
 
 ### Total
 - **Predicted Total**: 146.0

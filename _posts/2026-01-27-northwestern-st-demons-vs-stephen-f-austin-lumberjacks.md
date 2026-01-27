@@ -126,8 +126,8 @@ Stephen F. Austin Lumberjacks comes in ranked #93 overall by KenPom. On the defe
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northwestern St Demons**: 14.5, Edge For Covering Spread: -3.3%
-- **Stephen F. Austin Lumberjacks**: -14.5, Edge For Covering Spread: -1.5%
+- **Northwestern St Demons**: 14.5, Edge For Covering Spread: -2.2%
+- **Stephen F. Austin Lumberjacks**: -14.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
 - **Northwestern St Demons Win Probability**: 8.5%
@@ -135,8 +135,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 143.5
-- **Edge For Covering The Over**: -1.2%
-- **Edge For Covering The Under**: -3.5%
+- **Edge For Covering The Over**: -2.4%
+- **Edge For Covering The Under**: -2.4%
 
 ---
 
