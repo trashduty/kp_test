@@ -71,7 +71,7 @@ def test_enhanced_narrative_basic():
     assert 'Tempo & Playing Style' in result
     assert 'The Interior Battle' in result
     assert 'X-Factors & Intangibles' in result
-    assert 'The Betting Angle' in result
+    # Note: 'The Betting Angle' section has been removed per requirements
     
     # Check that team names appear in the narrative
     assert 'Team A' in result

@@ -618,7 +618,10 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
     if rank_diff <= 15:
         sections.append(f"When {away_team_with_record} travels to face {home_team_with_record}{arena_text}, we're looking at a matchup between two programs with similar profiles in the national landscape. ")
     elif away_rank < home_rank:
-        sections.append(f"{away_team_with_record} enters hostile territory as they take on {home_team_with_record}{arena_text} in what the oddsmakers see as a significant talent gap. ")
+        if spread_value >= 6:
+            sections.append(f"{away_team_with_record} enters hostile territory as they take on {home_team_with_record}{arena_text} in what the oddsmakers see as a significant talent gap. ")
+        else:
+            sections.append(f"{away_team_with_record} travels to face {home_team_with_record}{arena_text} in what shapes up to be a competitive matchup. ")
     else:
         sections.append(f"{home_team_with_record} hosts {away_team_with_record}{arena_text} in a game where the home team finds itself as the underdog in their own building. ")
     
@@ -628,7 +631,7 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
     # Spread discussion
     sections.append("\n#### Breaking Down the Spread\n")
     if spread_value < 3:
-        sections.append(f"A spread under a field goal suggests the books see this as essentially a coin flip. {favorite}'s {spread_value:.1f}-point cushion reflects home court advantage more than a talent edge. ")
+        sections.append(f"A spread under 3 points suggests the books see this as essentially a coin flip. {favorite}'s {spread_value:.1f}-point cushion reflects home court advantage more than a talent edge. ")
     elif spread_value < 7:
         sections.append(f"The {spread_value:.1f}-point spread indicates {favorite} is viewed as the better team, but this isn't an overwhelming edge. {underdog} has a legitimate path to covering or winning outright. ")
     elif spread_value < 12:
@@ -744,57 +747,13 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
         sections.append(f"\nFrom a coaching perspective, {away_coach} leads {away_team} while {home_coach} guides {home_team}. ")
         sections.append("Experience and game planning will be critical in what promises to be a tactical chess match. ")
     
-    sections.append("\nDefensively, ")
-    if away_de_rank < home_de_rank - ELITE_RANK_THRESHOLD:
-        sections.append(f"{away_team} (#{away_de_rank} defensive efficiency) should have success against {home_team}'s weaker defense (#{home_de_rank}). ")
-    elif home_de_rank < away_de_rank - ELITE_RANK_THRESHOLD:
-        sections.append(f"{home_team} (#{home_de_rank} defensive efficiency) will look to clamp down on {away_team} (#{away_de_rank} defensively). ")
-    else:
-        sections.append(f"both teams rank similarly on the defensive end (#{away_de_rank} and #{home_de_rank}), so offense may determine the outcome. ")
-    
-    # Betting angles
-    sections.append("\n\n#### The Betting Angle\n")
-    
-    # Spread value discussion
-    if spread_value < 5:
-        sections.append(f"Small spreads like {spread_value:.1f} create interesting dynamics. ")
-        sections.append(f"I'm looking at whether {favorite} can actually separate, or if this stays inside one possession. ")
-    elif spread_value < 10:
-        sections.append(f"The {spread_value:.1f}-point spread asks: can {underdog} keep it within striking distance? ")
-    else:
-        sections.append(f"With {spread_value:.1f} points to work with, {underdog} doesn't need to win—just stay competitive. ")
-    
-    # Provide actual betting insight
+    sections.append("\n")
     if away_oe_rank < ELITE_RANK_THRESHOLD and home_de_rank > POOR_DEFENSE_RANK:
-        sections.append(f"The matchup favors {away_team}'s offense against a porous defense. ")
-        if away_team == favorite:
-            sections.append("Laying the points makes sense. ")
-        else:
-            sections.append("The underdog has an offensive path to covering. ")
+        sections.append(f"{away_team}'s offense (#{away_oe_rank}) should have success against {home_team}'s weaker defense (#{home_de_rank}). ")
     elif home_oe_rank < ELITE_RANK_THRESHOLD and away_de_rank > POOR_DEFENSE_RANK:
-        sections.append(f"The matchup favors {home_team}'s offense against a weak defense. ")
-        if home_team == favorite:
-            sections.append("The favorite should be able to flex here. ")
-        else:
-            sections.append("Don't sleep on the home dog with that offensive capability. ")
-    
-    # Total discussion
-    sections.append(f"\nRegarding the total of {total:.1f}: ")
-    combined_oe = away_oe + home_oe
-    combined_de = away_de + home_de
-    
-    if combined_oe > HIGH_COMBINED_OFFENSE and avg_tempo > HIGH_TEMPO:
-        sections.append("Two offenses that can score, playing at pace? I lean over. ")
-    elif combined_de < LOW_COMBINED_DEFENSE and avg_tempo < LOW_TEMPO:
-        sections.append("Elite defenses playing slower? Under has my attention. ")
-    elif total > 150 and combined_oe < 230:
-        sections.append("The number seems inflated relative to the offensive profiles. Under could be the move. ")
-    elif total < 135 and combined_oe > 235:
-        sections.append("This total feels low given the offensive firepower. Over has value. ")
-    else:
-        sections.append("The total seems fairly priced. I'd need to see where sharp money moves it. ")
-    
-    sections.append("\n\nThe sharp play isn't always obvious. Watch for line movement, injury reports, and whether the public is hammering one side. That's where the value emerges.\n\n")
+        sections.append(f"{home_team}'s offense (#{home_oe_rank}) could exploit {away_team}'s defensive vulnerabilities (#{away_de_rank}). ")
+    elif away_de_rank < ELITE_RANK_THRESHOLD and home_de_rank < ELITE_RANK_THRESHOLD:
+        sections.append(f"Both teams feature strong defenses (#{away_de_rank} and #{home_de_rank}), so offense may be at a premium. ")
     
     return ''.join(sections)
 
@@ -873,9 +832,9 @@ def generate_predictions_section(away_team, home_team, away_predictions, home_pr
     """Generate the model predictions section."""
     
     # Extract prediction values
-    away_spread = format_stat(away_predictions.get('Predicted Outcome', 'N/A'), 1)
+    away_spread = format_stat(away_predictions.get('market_spread', 'N/A'), 1)
     away_spread_edge = format_percentage(away_predictions.get('Edge For Covering Spread', 'N/A'))
-    home_spread = format_stat(home_predictions.get('Predicted Outcome', 'N/A'), 1)
+    home_spread = format_stat(home_predictions.get('market_spread', 'N/A'), 1)
     home_spread_edge = format_percentage(home_predictions.get('Edge For Covering Spread', 'N/A'))
     
     away_ml_prob = format_percentage(away_predictions.get('Moneyline Win Probability', 'N/A'))
