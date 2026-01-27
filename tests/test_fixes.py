@@ -41,7 +41,7 @@ def test_spread_value_uses_market_spread():
     
     # Check that Predicted Outcome values do NOT appear
     assert '-3.0' not in result and '-3.00' not in result, "Predicted Outcome should not appear"
-    assert '3.0' not in result or '3.00' not in result, "Predicted Outcome should not appear (allowing 3.0 to exist as part of other numbers)"
+    # Note: We can't check for '3.0' or '3.00' as they might appear in other contexts
     
     print("✓ Spread values use market_spread instead of Predicted Outcome")
 
@@ -196,7 +196,7 @@ def test_offensive_defensive_matchup_logic():
     )
     
     # Should mention Team A's offense vs Team B's defense
-    assert "Team A's offense" in result or "Team A's offense" in result, \
+    assert "Team A's offense" in result, \
         "Should mention away team's offense"
     assert "Team B's weaker defense" in result or "Team B's defensive vulnerabilities" in result, \
         "Should mention home team's defense"
