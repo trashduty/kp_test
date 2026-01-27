@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Virginia Cavaliers -9.5</p>
-  <p><strong>Moneyline:</strong> Virginia Cavaliers (-579) | Notre Dame Fighting Irish (+412)</p>
+  <p><strong>Moneyline:</strong> Virginia Cavaliers (-524) | Notre Dame Fighting Irish (+390)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Virginia Cavaliers**: -9.5, Edge For Covering Spread: -5.2%
-- **Notre Dame Fighting Irish**: 9.5, Edge For Covering Spread: **0.5%**
+- **Virginia Cavaliers**: -9.5, Edge For Covering Spread: -4.3%
+- **Notre Dame Fighting Irish**: 9.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **Virginia Cavaliers Win Probability**: 78.7%, Moneyline Edge: -6.5%
-- **Notre Dame Fighting Irish Win Probability**: 21.3%, Moneyline Edge: **1.7%**
+- **Virginia Cavaliers Win Probability**: 78.3%, Moneyline Edge: -5.7%
+- **Notre Dame Fighting Irish Win Probability**: 21.7%, Moneyline Edge: **1.3%**
 
 ### Total
 - **Predicted Total**: 141.0
@@ -52,7 +52,7 @@ A spread around 9.5 points tells us Virginia Cavaliers has clear advantages, but
 Meanwhile, **Notre Dame Fighting Irish** counter with 109.16 offensive efficiency (#161). Points have been hard to come by, making every possession critical. At 35.2% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Virginia Cavaliers operate at a 67.0 tempo (#272), while Notre Dame Fighting Irish play at 66.1 (#310). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.6) means fewer possessions, making each one more valuable. 
+Virginia Cavaliers operate at a 67.0 tempo (#271), while Notre Dame Fighting Irish play at 66.1 (#310). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.6) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Virginia Cavaliers shoot 56.3% on two-pointers, while Notre Dame Fighting Irish convert at 51.3%. Both teams are evenly matched in paint efficiency. 
@@ -75,33 +75,33 @@ Virginia Cavaliers bring a elite offense (ranked #7) that could exploit Notre Da
 
 ## Virginia Cavaliers
 
-Virginia Cavaliers comes in ranked #17 overall by KenPom. They're dangerous from beyond the arc, shooting 36.7% from three (ranked #45 nationally), so expect them to let it fly from deep. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.8% from three. 
+Virginia Cavaliers comes in ranked #16 overall by KenPom. They're dangerous from beyond the arc, shooting 36.7% from three (ranked #45 nationally), so expect them to let it fly from deep. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.8% from three. 
 
 ### Record & Ranking
 - **Record:** 16-3
 - **Head Coach:** Ryan Odom
-- **KenPom Rank:** #17
+- **KenPom Rank:** #16
 - **Offensive Efficiency:** 123.4 (Rank: #7)
-- **Defensive Efficiency:** 99.3 (Rank: #36)
-- **Tempo:** 67.0 (Rank: #272)
+- **Defensive Efficiency:** 99.3 (Rank: #35)
+- **Tempo:** 67.0 (Rank: #271)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 56.3% (Rank: #55)
 - **3-Point Shooting:** 36.7% (Rank: #45)
-- **Free Throw Shooting:** 70.0% (Rank: #255)
+- **Free Throw Shooting:** 70.0% (Rank: #256)
 - **3-Point Rate:** 46.3% (Rank: #40)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 44.0% (Rank: #7)
-- **Opponent 3-Point Shooting:** 29.8% (Rank: #25)
+- **Opponent 2-Point Shooting:** 44.0% (Rank: #6)
+- **Opponent 3-Point Shooting:** 29.8% (Rank: #23)
 - **Block Percentage:** 16.6% (Rank: #4)
 - **Steal Rate:** 0.1% (Rank: #194)
 
 ### Team Metrics
 
-- **Assist Rate:** 59.6% (Rank: #40)
+- **Assist Rate:** 59.6% (Rank: #39)
 - **Experience:** 2.0 years (Rank: #65)
 - **Bench Minutes:** 35.8% (Rank: #109)
 - **Average Height:** 78.2" (Rank: #63)
@@ -126,12 +126,12 @@ Notre Dame Fighting Irish comes in ranked #82 overall by KenPom.
 - **2-Point Shooting:** 51.3% (Rank: #193)
 - **3-Point Shooting:** 35.2% (Rank: #108)
 - **Free Throw Shooting:** 68.8% (Rank: #292)
-- **3-Point Rate:** 41.4% (Rank: #144)
+- **3-Point Rate:** 41.4% (Rank: #145)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 51.6% (Rank: #190)
-- **Opponent 3-Point Shooting:** 31.3% (Rank: #70)
+- **Opponent 3-Point Shooting:** 31.3% (Rank: #71)
 - **Block Percentage:** 6.7% (Rank: #316)
 - **Steal Rate:** 0.1% (Rank: #351)
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Vanderbilt Commodores -6.5</p>
-  <p><strong>Moneyline:</strong> Kentucky Wildcats (+235) | Vanderbilt Commodores (-287)</p>
+  <p><strong>Moneyline:</strong> Kentucky Wildcats (+240) | Vanderbilt Commodores (-292)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Vanderbilt Commodores**: -6.5, Edge For Covering Spread: -0.2%
 
 ### Moneyline
-- **Kentucky Wildcats Win Probability**: 25.7%, Moneyline Edge: -4.2%
-- **Vanderbilt Commodores Win Probability**: 74.3%, Moneyline Edge: **0.1%**
+- **Kentucky Wildcats Win Probability**: 25.4%, Moneyline Edge: -4.1%
+- **Vanderbilt Commodores Win Probability**: 74.6%, Moneyline Edge: **0.1%**
 
 ### Total
-- **Predicted Total**: 159.5
-- Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -1.1%
+- **Predicted Total**: 159.0
+- Edge For Covering The Over: -3.4%
+- Edge For Covering The Under: -1.4%
 
 ---
 
@@ -75,12 +75,12 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Kentucky Wildcats
 
-Kentucky Wildcats comes in ranked #27 overall by KenPom. They boast one of the nation's top offenses, ranked #38 in efficiency. 
+Kentucky Wildcats comes in ranked #28 overall by KenPom. They boast one of the nation's top offenses, ranked #38 in efficiency. 
 
 ### Record & Ranking
 - **Record:** 14-6
 - **Head Coach:** Mark Pope
-- **KenPom Rank:** #27
+- **KenPom Rank:** #28
 - **Offensive Efficiency:** 118.7 (Rank: #38)
 - **Defensive Efficiency:** 101.4 (Rank: #55)
 - **Tempo:** 69.5 (Rank: #156)
@@ -88,16 +88,16 @@ Kentucky Wildcats comes in ranked #27 overall by KenPom. They boast one of the n
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 56.1% (Rank: #60)
-- **3-Point Shooting:** 34.4% (Rank: #160)
-- **Free Throw Shooting:** 73.7% (Rank: #129)
-- **3-Point Rate:** 40.3% (Rank: #165)
+- **3-Point Shooting:** 34.4% (Rank: #159)
+- **Free Throw Shooting:** 73.7% (Rank: #131)
+- **3-Point Rate:** 40.3% (Rank: #166)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 48.9% (Rank: #86)
 - **Opponent 3-Point Shooting:** 30.2% (Rank: #40)
 - **Block Percentage:** 13.4% (Rank: #30)
-- **Steal Rate:** 0.1% (Rank: #77)
+- **Steal Rate:** 0.1% (Rank: #76)
 
 ### Team Metrics
 
@@ -123,17 +123,17 @@ Vanderbilt Commodores comes in ranked #13 overall by KenPom. They're dangerous f
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 59.7% (Rank: #14)
+- **2-Point Shooting:** 59.7% (Rank: #13)
 - **3-Point Shooting:** 36.3% (Rank: #57)
-- **Free Throw Shooting:** 77.1% (Rank: #32)
+- **Free Throw Shooting:** 77.1% (Rank: #31)
 - **3-Point Rate:** 44.4% (Rank: #86)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 50.1% (Rank: #119)
+- **Opponent 2-Point Shooting:** 50.1% (Rank: #120)
 - **Opponent 3-Point Shooting:** 28.9% (Rank: #8)
 - **Block Percentage:** 14.6% (Rank: #19)
-- **Steal Rate:** 0.1% (Rank: #25)
+- **Steal Rate:** 0.1% (Rank: #24)
 
 ### Team Metrics
 

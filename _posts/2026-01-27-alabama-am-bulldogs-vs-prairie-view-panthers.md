@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Prairie View Panthers -2.5</p>
-  <p><strong>Moneyline:</strong> Alabama A&M Bulldogs (+116) | Prairie View Panthers (-140)</p>
+  <p><strong>Spread:</strong> Prairie View Panthers -1.5</p>
+  <p><strong>Moneyline:</strong> Alabama A&M Bulldogs (+115) | Prairie View Panthers (-135)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Alabama A&M Bulldogs**: 2.5, Edge For Covering Spread: -3.5%
-- **Prairie View Panthers**: -2.5, Edge For Covering Spread: -1.2%
+- **Alabama A&M Bulldogs**: 1.5, Edge For Covering Spread: -2.1%
+- **Prairie View Panthers**: -1.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Alabama A&M Bulldogs Win Probability**: 42.4%, Moneyline Edge: -3.9%
-- **Prairie View Panthers Win Probability**: 57.6%, Moneyline Edge: -0.7%
+- **Alabama A&M Bulldogs Win Probability**: 42.7%, Moneyline Edge: -3.8%
+- **Prairie View Panthers Win Probability**: 57.3%, Moneyline Edge: -0.1%
 
 ### Total
-- **Predicted Total**: 152.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 153.0
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 
@@ -42,13 +42,13 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Alabama A&M Bulldogs (10-9) travels to face Prairie View Panthers (8-12) at William Nicks Building, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Prairie View Panthers favored by 2.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Alabama A&M Bulldogs (10-9) travels to face Prairie View Panthers (8-12) at William Nicks Building, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Prairie View Panthers favored by 1.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Prairie View Panthers's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Prairie View Panthers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
-**Alabama A&M Bulldogs** bring an offensive efficiency of 101.78 (ranked #285 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.9% from three, they can't rely on the arc. Expect a paint-focused attack. 
+**Alabama A&M Bulldogs** bring an offensive efficiency of 101.78 (ranked #286 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.9% from three, they can't rely on the arc. Expect a paint-focused attack. 
 Meanwhile, **Prairie View Panthers** counter with 101.32 offensive efficiency (#294). Points have been hard to come by, making every possession critical. At 33.3% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
@@ -64,7 +64,7 @@ From a coaching perspective, Donte Jackson leads Alabama A&M Bulldogs while Byro
 
 ### Game Storylines
 
-This matchup features two evenly-matched teams, with Alabama A&M Bulldogs at #311 and Prairie View Panthers at #313 in the KenPom rankings. Expect a competitive battle throughout. 
+This matchup features two evenly-matched teams, with Alabama A&M Bulldogs at #310 and Prairie View Panthers at #312 in the KenPom rankings. Expect a competitive battle throughout. 
 
 **Key Matchup: The Battle in the Trenches**
 
@@ -75,13 +75,13 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Alabama A&M Bulldogs
 
-Alabama A&M Bulldogs comes in ranked #311 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
+Alabama A&M Bulldogs comes in ranked #310 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
 
 ### Record & Ranking
 - **Record:** 10-9
 - **Head Coach:** Donte Jackson
-- **KenPom Rank:** #311
-- **Offensive Efficiency:** 101.8 (Rank: #285)
+- **KenPom Rank:** #310
+- **Offensive Efficiency:** 101.8 (Rank: #286)
 - **Defensive Efficiency:** 110.5 (Rank: #237)
 - **Tempo:** 68.2 (Rank: #218)
 
@@ -95,7 +95,7 @@ Alabama A&M Bulldogs comes in ranked #311 overall by KenPom. The three-point sho
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 53.8% (Rank: #259)
-- **Opponent 3-Point Shooting:** 35.6% (Rank: #264)
+- **Opponent 3-Point Shooting:** 35.6% (Rank: #266)
 - **Block Percentage:** 8.2% (Rank: #251)
 - **Steal Rate:** 0.1% (Rank: #181)
 
@@ -110,29 +110,29 @@ Alabama A&M Bulldogs comes in ranked #311 overall by KenPom. The three-point sho
 
 ## Prairie View Panthers
 
-Prairie View Panthers comes in ranked #313 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Prairie View Panthers comes in ranked #312 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 8-12
 - **Head Coach:** Byron Smith
 - **Home Arena:** William Nicks Building
-- **KenPom Rank:** #313
+- **KenPom Rank:** #312
 - **Offensive Efficiency:** 101.3 (Rank: #294)
-- **Defensive Efficiency:** 113.1 (Rank: #282)
+- **Defensive Efficiency:** 113.1 (Rank: #283)
 - **Tempo:** 75.3 (Rank: #7)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 46.2% (Rank: #330)
-- **3-Point Shooting:** 33.3% (Rank: #213)
+- **2-Point Shooting:** 46.2% (Rank: #331)
+- **3-Point Shooting:** 33.3% (Rank: #212)
 - **Free Throw Shooting:** 75.9% (Rank: #65)
 - **3-Point Rate:** 31.2% (Rank: #341)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.5% (Rank: #220)
-- **Opponent 3-Point Shooting:** 37.3% (Rank: #333)
-- **Block Percentage:** 11.2% (Rank: #95)
+- **Opponent 2-Point Shooting:** 52.5% (Rank: #221)
+- **Opponent 3-Point Shooting:** 37.3% (Rank: #334)
+- **Block Percentage:** 11.2% (Rank: #96)
 - **Steal Rate:** 0.1% (Rank: #155)
 
 ### Team Metrics
@@ -140,5 +140,5 @@ Prairie View Panthers comes in ranked #313 overall by KenPom. Defense has been a
 - **Assist Rate:** 43.5% (Rank: #346)
 - **Experience:** 1.1 years (Rank: #255)
 - **Bench Minutes:** 25.3% (Rank: #326)
-- **Average Height:** 76.5" (Rank: #322)
+- **Average Height:** 76.5" (Rank: #321)
 

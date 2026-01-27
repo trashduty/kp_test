@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Stephen F. Austin Lumberjacks -14.5</p>
-  <p><strong>Moneyline:</strong> Northwestern St Demons (+919) | Stephen F. Austin Lumberjacks (-1675)</p>
+  <p><strong>Moneyline:</strong> Northwestern St Demons (+903) | Stephen F. Austin Lumberjacks (-1625)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northwestern St Demons**: 14.5, Edge For Covering Spread: -2.2%
-- **Stephen F. Austin Lumberjacks**: -14.5, Edge For Covering Spread: -2.6%
+- **Northwestern St Demons**: 14.5, Edge For Covering Spread: -4.1%
+- **Stephen F. Austin Lumberjacks**: -14.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Northwestern St Demons Win Probability**: 8.4%, Moneyline Edge: -1.4%
-- **Stephen F. Austin Lumberjacks Win Probability**: 91.6%, Moneyline Edge: -2.8%
+- **Northwestern St Demons Win Probability**: 8.4%, Moneyline Edge: -1.6%
+- **Stephen F. Austin Lumberjacks Win Probability**: 91.6%, Moneyline Edge: -2.6%
 
 ### Total
 - **Predicted Total**: 143.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 
@@ -94,14 +94,14 @@ Northwestern St Demons comes in ranked #282 overall by KenPom. Defense has been 
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 58.4% (Rank: #348)
+- **Opponent 2-Point Shooting:** 58.4% (Rank: #349)
 - **Opponent 3-Point Shooting:** 36.8% (Rank: #318)
-- **Block Percentage:** 5.3% (Rank: #352)
+- **Block Percentage:** 5.3% (Rank: #353)
 - **Steal Rate:** 0.1% (Rank: #171)
 
 ### Team Metrics
 
-- **Assist Rate:** 50.0% (Rank: #245)
+- **Assist Rate:** 50.0% (Rank: #246)
 - **Experience:** 1.4 years (Rank: #195)
 - **Bench Minutes:** 39.9% (Rank: #32)
 - **Average Height:** 76.0" (Rank: #349)
@@ -118,13 +118,13 @@ Stephen F. Austin Lumberjacks comes in ranked #93 overall by KenPom. On the defe
 - **Home Arena:** Johnson Coliseum
 - **KenPom Rank:** #93
 - **Offensive Efficiency:** 113.7 (Rank: #86)
-- **Defensive Efficiency:** 98.3 (Rank: #26)
+- **Defensive Efficiency:** 98.3 (Rank: #25)
 - **Tempo:** 66.6 (Rank: #286)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 51.4% (Rank: #190)
-- **3-Point Shooting:** 35.3% (Rank: #102)
+- **3-Point Shooting:** 35.3% (Rank: #103)
 - **Free Throw Shooting:** 66.6% (Rank: #343)
 - **3-Point Rate:** 41.1% (Rank: #152)
 
@@ -132,12 +132,12 @@ Stephen F. Austin Lumberjacks comes in ranked #93 overall by KenPom. On the defe
 
 - **Opponent 2-Point Shooting:** 46.6% (Rank: #30)
 - **Opponent 3-Point Shooting:** 29.4% (Rank: #16)
-- **Block Percentage:** 9.5% (Rank: #175)
+- **Block Percentage:** 9.5% (Rank: #174)
 - **Steal Rate:** 0.1% (Rank: #159)
 
 ### Team Metrics
 
-- **Assist Rate:** 49.8% (Rank: #250)
+- **Assist Rate:** 49.8% (Rank: #252)
 - **Experience:** 1.4 years (Rank: #188)
 - **Bench Minutes:** 29.7% (Rank: #254)
 - **Average Height:** 75.5" (Rank: #362)

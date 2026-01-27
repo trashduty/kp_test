@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Pittsburgh Panthers -1.5</p>
-  <p><strong>Moneyline:</strong> Wake Forest Demon Deacons (+110) | Pittsburgh Panthers (-132)</p>
+  <p><strong>Moneyline:</strong> Wake Forest Demon Deacons (+105) | Pittsburgh Panthers (-125)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wake Forest Demon Deacons**: 1.5, Edge For Covering Spread: -0.2%
-- **Pittsburgh Panthers**: -1.5, Edge For Covering Spread: -4.5%
+- **Wake Forest Demon Deacons**: 1.5, Edge For Covering Spread: -0.8%
+- **Pittsburgh Panthers**: -1.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Wake Forest Demon Deacons Win Probability**: 47.8%, Moneyline Edge: **0.1%**
-- **Pittsburgh Panthers Win Probability**: 52.2%, Moneyline Edge: -4.7%
+- **Wake Forest Demon Deacons Win Probability**: 48.4%, Moneyline Edge: -0.4%
+- **Pittsburgh Panthers Win Probability**: 51.6%, Moneyline Edge: -3.9%
 
 ### Total
 - **Predicted Total**: 148.0
@@ -52,7 +52,7 @@ A spread under 3 points suggests the books see this as essentially a coin flip. 
 Meanwhile, **Pittsburgh Panthers** counter with 110.24 offensive efficiency (#131). They're competent on offense without being spectacular. At 34.9% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Wake Forest Demon Deacons operate at a 71.9 tempo (#47), while Pittsburgh Panthers play at 65.7 (#323). Wake Forest Demon Deacons want to run, but Pittsburgh Panthers prefer to slow things down. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 68.8) should create a standard flow. 
+Wake Forest Demon Deacons operate at a 71.9 tempo (#46), while Pittsburgh Panthers play at 65.7 (#323). Wake Forest Demon Deacons want to run, but Pittsburgh Panthers prefer to slow things down. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 68.8) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Wake Forest Demon Deacons shoot 53.8% on two-pointers, while Pittsburgh Panthers convert at 51.2%. Both teams are evenly matched in paint efficiency. 
@@ -68,7 +68,7 @@ On paper, Wake Forest Demon Deacons holds the advantage as the higher-ranked tea
 
 **Key Matchup: Wake Forest Demon Deacons's Offense vs Pittsburgh Panthers's Defense**
 
-Wake Forest Demon Deacons bring a middle-of-the-pack offense (ranked #121) that could exploit Pittsburgh Panthers's defensive vulnerabilities (ranked #198). 
+Wake Forest Demon Deacons bring a middle-of-the-pack offense (ranked #121) that could exploit Pittsburgh Panthers's defensive vulnerabilities (ranked #199). 
 
 **Pace of Play:** Wake Forest Demon Deacons like to push the pace, while Pittsburgh Panthers prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
 
@@ -83,12 +83,12 @@ Wake Forest Demon Deacons comes in ranked #73 overall by KenPom.
 - **KenPom Rank:** #73
 - **Offensive Efficiency:** 111.2 (Rank: #121)
 - **Defensive Efficiency:** 106.1 (Rank: #137)
-- **Tempo:** 71.9 (Rank: #47)
+- **Tempo:** 71.9 (Rank: #46)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 53.8% (Rank: #108)
-- **3-Point Shooting:** 34.0% (Rank: #181)
+- **3-Point Shooting:** 34.0% (Rank: #180)
 - **Free Throw Shooting:** 75.9% (Rank: #64)
 - **3-Point Rate:** 44.9% (Rank: #68)
 
@@ -96,7 +96,7 @@ Wake Forest Demon Deacons comes in ranked #73 overall by KenPom.
 
 - **Opponent 2-Point Shooting:** 56.1% (Rank: #316)
 - **Opponent 3-Point Shooting:** 30.8% (Rank: #57)
-- **Block Percentage:** 11.3% (Rank: #90)
+- **Block Percentage:** 11.3% (Rank: #91)
 - **Steal Rate:** 0.1% (Rank: #21)
 
 ### Team Metrics
@@ -110,34 +110,34 @@ Wake Forest Demon Deacons comes in ranked #73 overall by KenPom.
 
 ## Pittsburgh Panthers
 
-Pittsburgh Panthers comes in ranked #100 overall by KenPom. 
+Pittsburgh Panthers comes in ranked #101 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 8-12
 - **Head Coach:** Jeff Capel III
 - **Home Arena:** Petersen Events Center
-- **KenPom Rank:** #100
+- **KenPom Rank:** #101
 - **Offensive Efficiency:** 110.2 (Rank: #131)
-- **Defensive Efficiency:** 108.8 (Rank: #198)
+- **Defensive Efficiency:** 108.8 (Rank: #199)
 - **Tempo:** 65.7 (Rank: #323)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 51.2% (Rank: #195)
 - **3-Point Shooting:** 34.9% (Rank: #124)
-- **Free Throw Shooting:** 66.3% (Rank: #348)
+- **Free Throw Shooting:** 66.3% (Rank: #347)
 - **3-Point Rate:** 40.8% (Rank: #160)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 51.5% (Rank: #183)
-- **Opponent 3-Point Shooting:** 35.1% (Rank: #243)
+- **Opponent 3-Point Shooting:** 35.1% (Rank: #241)
 - **Block Percentage:** 9.6% (Rank: #167)
 - **Steal Rate:** 0.1% (Rank: #137)
 
 ### Team Metrics
 
-- **Assist Rate:** 50.6% (Rank: #235)
+- **Assist Rate:** 50.6% (Rank: #236)
 - **Experience:** 1.9 years (Rank: #71)
 - **Bench Minutes:** 26.3% (Rank: #314)
 - **Average Height:** 77.1" (Rank: #223)

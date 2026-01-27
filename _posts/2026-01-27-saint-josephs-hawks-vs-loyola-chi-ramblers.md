@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Saint Joseph's Hawks -3.5</p>
-  <p><strong>Moneyline:</strong> Saint Joseph's Hawks (-163) | Loyola (Chi) Ramblers (+138)</p>
+  <p><strong>Moneyline:</strong> Saint Joseph's Hawks (-164) | Loyola (Chi) Ramblers (+136)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Loyola (Chi) Ramblers**: 3.5, Edge For Covering Spread: -6.2%
 
 ### Moneyline
-- **Saint Joseph's Hawks Win Probability**: 63.4%, Moneyline Edge: **1.4%**
-- **Loyola (Chi) Ramblers Win Probability**: 36.6%, Moneyline Edge: -5.5%
+- **Saint Joseph's Hawks Win Probability**: 63.3%, Moneyline Edge: **1.1%**
+- **Loyola (Chi) Ramblers Win Probability**: 36.7%, Moneyline Edge: -5.6%
 
 ### Total
 - **Predicted Total**: 143.5
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -2.9%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -49,7 +49,7 @@ The 3.5-point spread indicates Saint Joseph's Hawks is viewed as the better team
 
 #### Offensive Firepower
 **Saint Joseph's Hawks** bring an offensive efficiency of 103.55 (ranked #256 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 28.5% from three, they can't rely on the arc. Expect a paint-focused attack. 
-Meanwhile, **Loyola (Chi) Ramblers** counter with 102.07 offensive efficiency (#281). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 30.7%, forcing them to grind in the half court. 
+Meanwhile, **Loyola (Chi) Ramblers** counter with 102.07 offensive efficiency (#282). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 30.7%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
 Saint Joseph's Hawks operate at a 69.6 tempo (#149), while Loyola (Chi) Ramblers play at 66.0 (#313). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.8) means fewer possessions, making each one more valuable. 
@@ -68,7 +68,7 @@ This looks like a mismatch on paper with Saint Joseph's Hawks significantly high
 
 **Key Matchup: Saint Joseph's Hawks's Offense vs Loyola (Chi) Ramblers's Defense**
 
-Saint Joseph's Hawks bring a struggling offense (ranked #256) that could exploit Loyola (Chi) Ramblers's defensive vulnerabilities (ranked #330). 
+Saint Joseph's Hawks bring a struggling offense (ranked #256) that could exploit Loyola (Chi) Ramblers's defensive vulnerabilities (ranked #331). 
 
 
 ## Saint Joseph's Hawks
@@ -80,7 +80,7 @@ Saint Joseph's Hawks comes in ranked #166 overall by KenPom. The three-point sho
 - **Head Coach:** Steve Donahue
 - **KenPom Rank:** #166
 - **Offensive Efficiency:** 103.5 (Rank: #256)
-- **Defensive Efficiency:** 105.5 (Rank: #123)
+- **Defensive Efficiency:** 105.5 (Rank: #125)
 - **Tempo:** 69.6 (Rank: #149)
 
 ### Shooting Breakdown
@@ -95,11 +95,11 @@ Saint Joseph's Hawks comes in ranked #166 overall by KenPom. The three-point sho
 - **Opponent 2-Point Shooting:** 48.4% (Rank: #71)
 - **Opponent 3-Point Shooting:** 34.5% (Rank: #215)
 - **Block Percentage:** 12.5% (Rank: #57)
-- **Steal Rate:** 0.1% (Rank: #278)
+- **Steal Rate:** 0.1% (Rank: #277)
 
 ### Team Metrics
 
-- **Assist Rate:** 57.5% (Rank: #68)
+- **Assist Rate:** 57.5% (Rank: #67)
 - **Experience:** 1.7 years (Rank: #126)
 - **Bench Minutes:** 31.1% (Rank: #220)
 - **Average Height:** 77.5" (Rank: #165)
@@ -108,34 +108,34 @@ Saint Joseph's Hawks comes in ranked #166 overall by KenPom. The three-point sho
 
 ## Loyola (Chi) Ramblers
 
-Loyola (Chi) Ramblers comes in ranked #310 overall by KenPom. They've struggled from deep this year, meaning they'll need to rely on interior scoring and getting to the free throw line. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Loyola (Chi) Ramblers comes in ranked #308 overall by KenPom. They've struggled from deep this year, meaning they'll need to rely on interior scoring and getting to the free throw line. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 5-16
 - **Head Coach:** Drew Valentine
 - **Home Arena:** Gentile Arena
-- **KenPom Rank:** #310
-- **Offensive Efficiency:** 102.1 (Rank: #281)
-- **Defensive Efficiency:** 116.8 (Rank: #330)
+- **KenPom Rank:** #308
+- **Offensive Efficiency:** 102.1 (Rank: #282)
+- **Defensive Efficiency:** 116.8 (Rank: #331)
 - **Tempo:** 66.0 (Rank: #313)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 52.0% (Rank: #163)
-- **3-Point Shooting:** 30.7% (Rank: #316)
+- **3-Point Shooting:** 30.7% (Rank: #315)
 - **Free Throw Shooting:** 68.3% (Rank: #305)
 - **3-Point Rate:** 47.0% (Rank: #35)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 47.8% (Rank: #54)
-- **Opponent 3-Point Shooting:** 38.0% (Rank: #345)
+- **Opponent 2-Point Shooting:** 47.8% (Rank: #53)
+- **Opponent 3-Point Shooting:** 38.0% (Rank: #346)
 - **Block Percentage:** 12.3% (Rank: #60)
 - **Steal Rate:** 0.1% (Rank: #363)
 
 ### Team Metrics
 
-- **Assist Rate:** 60.3% (Rank: #33)
+- **Assist Rate:** 60.3% (Rank: #32)
 - **Experience:** 1.8 years (Rank: #101)
 - **Bench Minutes:** 39.7% (Rank: #35)
 - **Average Height:** 77.4" (Rank: #172)

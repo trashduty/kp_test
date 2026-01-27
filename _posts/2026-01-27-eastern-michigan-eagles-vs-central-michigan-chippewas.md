@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Eastern Michigan Eagles -3.5</p>
-  <p><strong>Moneyline:</strong> Eastern Michigan Eagles (-165) | Central Michigan Chippewas (+140)</p>
+  <p><strong>Moneyline:</strong> Eastern Michigan Eagles (-188) | Central Michigan Chippewas (+156)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Eastern Michigan Eagles**: -3.5, Edge For Covering Spread: -1.3%
-- **Central Michigan Chippewas**: 3.5, Edge For Covering Spread: -3.5%
+- **Eastern Michigan Eagles**: -3.5, Edge For Covering Spread: -0.7%
+- **Central Michigan Chippewas**: 3.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Eastern Michigan Eagles Win Probability**: 62.9%, Moneyline Edge: **0.7%**
-- **Central Michigan Chippewas Win Probability**: 37.1%, Moneyline Edge: -4.7%
+- **Eastern Michigan Eagles Win Probability**: 64.3%, Moneyline Edge: -1.0%
+- **Central Michigan Chippewas Win Probability**: 35.7%, Moneyline Edge: -3.4%
 
 ### Total
 - **Predicted Total**: 138.0
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.2%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -73,33 +73,33 @@ Eastern Michigan Eagles bring a struggling offense (ranked #260) that could expl
 
 ## Eastern Michigan Eagles
 
-Eastern Michigan Eagles comes in ranked #190 overall by KenPom. 
+Eastern Michigan Eagles comes in ranked #192 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 9-11
 - **Head Coach:** Stan Heath
-- **KenPom Rank:** #190
+- **KenPom Rank:** #192
 - **Offensive Efficiency:** 103.5 (Rank: #260)
-- **Defensive Efficiency:** 105.9 (Rank: #129)
+- **Defensive Efficiency:** 105.9 (Rank: #130)
 - **Tempo:** 68.1 (Rank: #220)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 49.1% (Rank: #270)
-- **3-Point Shooting:** 33.7% (Rank: #193)
+- **2-Point Shooting:** 49.1% (Rank: #271)
+- **3-Point Shooting:** 33.7% (Rank: #194)
 - **Free Throw Shooting:** 72.8% (Rank: #163)
 - **3-Point Rate:** 31.4% (Rank: #335)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 50.3% (Rank: #130)
-- **Opponent 3-Point Shooting:** 33.2% (Rank: #144)
+- **Opponent 2-Point Shooting:** 50.3% (Rank: #129)
+- **Opponent 3-Point Shooting:** 33.2% (Rank: #145)
 - **Block Percentage:** 10.1% (Rank: #136)
-- **Steal Rate:** 0.1% (Rank: #208)
+- **Steal Rate:** 0.1% (Rank: #207)
 
 ### Team Metrics
 
-- **Assist Rate:** 49.8% (Rank: #250)
+- **Assist Rate:** 49.8% (Rank: #252)
 - **Experience:** 1.1 years (Rank: #261)
 - **Bench Minutes:** 34.7% (Rank: #127)
 - **Average Height:** 77.8" (Rank: #115)
@@ -122,21 +122,21 @@ Central Michigan Chippewas comes in ranked #325 overall by KenPom. The three-poi
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 50.4% (Rank: #219)
-- **3-Point Shooting:** 29.8% (Rank: #333)
+- **3-Point Shooting:** 29.8% (Rank: #334)
 - **Free Throw Shooting:** 71.3% (Rank: #213)
-- **3-Point Rate:** 34.6% (Rank: #291)
+- **3-Point Rate:** 34.6% (Rank: #289)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 55.4% (Rank: #301)
-- **Opponent 3-Point Shooting:** 36.4% (Rank: #298)
-- **Block Percentage:** 12.0% (Rank: #71)
+- **Opponent 2-Point Shooting:** 55.4% (Rank: #302)
+- **Opponent 3-Point Shooting:** 36.4% (Rank: #299)
+- **Block Percentage:** 12.0% (Rank: #69)
 - **Steal Rate:** 0.1% (Rank: #306)
 
 ### Team Metrics
 
 - **Assist Rate:** 54.3% (Rank: #139)
 - **Experience:** 0.3 years (Rank: #360)
-- **Bench Minutes:** 34.2% (Rank: #136)
+- **Bench Minutes:** 34.2% (Rank: #134)
 - **Average Height:** 77.5" (Rank: #152)
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama Crimson Tide -10.5</p>
-  <p><strong>Moneyline:</strong> Missouri Tigers (+500) | Alabama Crimson Tide (-710)</p>
+  <p><strong>Moneyline:</strong> Missouri Tigers (+495) | Alabama Crimson Tide (-705)</p>
   <p><strong>Total:</strong> 165.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Missouri Tigers**: 10.5, Edge For Covering Spread: -2.8%
-- **Alabama Crimson Tide**: -10.5, Edge For Covering Spread: -2.1%
+- **Missouri Tigers**: 10.5, Edge For Covering Spread: -3.3%
+- **Alabama Crimson Tide**: -10.5, Edge For Covering Spread: -1.4%
 
 ### Moneyline
-- **Missouri Tigers Win Probability**: 16.0%, Moneyline Edge: -0.7%
-- **Alabama Crimson Tide Win Probability**: 84.0%, Moneyline Edge: -3.6%
+- **Missouri Tigers Win Probability**: 16.1%, Moneyline Edge: -0.8%
+- **Alabama Crimson Tide Win Probability**: 83.9%, Moneyline Edge: -3.6%
 
 ### Total
-- **Predicted Total**: 165.5
-- Edge For Covering The Over: -2.0%
-- Edge For Covering The Under: -2.7%
+- **Predicted Total**: 166.0
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -4.1%
 
 ---
 
@@ -49,10 +49,10 @@ A spread around 10.5 points tells us Alabama Crimson Tide has clear advantages, 
 
 #### Offensive Firepower
 **Missouri Tigers** bring an offensive efficiency of 117.12 (ranked #53 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.5% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Alabama Crimson Tide** counter with 121.97 offensive efficiency (#18). This offense can match anyone bucket-for-bucket. At 34.6% from three, they have adequate spacing but must pick their spots. 
+Meanwhile, **Alabama Crimson Tide** counter with 121.97 offensive efficiency (#16). This offense can match anyone bucket-for-bucket. At 34.6% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Missouri Tigers operate at a 68.6 tempo (#207), while Alabama Crimson Tide play at 75.5 (#6). Alabama Crimson Tide like to push the pace, while Missouri Tigers want to control the clock. This tempo battle will be crucial—whoever dictates pace gains a significant edge. With an average tempo around 72.0, expect plenty of possessions and transition opportunities. 
+Missouri Tigers operate at a 68.6 tempo (#206), while Alabama Crimson Tide play at 75.5 (#6). Alabama Crimson Tide like to push the pace, while Missouri Tigers want to control the clock. This tempo battle will be crucial—whoever dictates pace gains a significant edge. With an average tempo around 72.0, expect plenty of possessions and transition opportunities. 
 
 #### The Interior Battle
 Inside the paint, Missouri Tigers shoot 58.8% on two-pointers, while Alabama Crimson Tide convert at 58.0%. Both teams are evenly matched in paint efficiency. 
@@ -85,26 +85,26 @@ Missouri Tigers comes in ranked #56 overall by KenPom.
 - **KenPom Rank:** #56
 - **Offensive Efficiency:** 117.1 (Rank: #53)
 - **Defensive Efficiency:** 106.3 (Rank: #139)
-- **Tempo:** 68.6 (Rank: #207)
+- **Tempo:** 68.6 (Rank: #206)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 58.8% (Rank: #20)
-- **3-Point Shooting:** 35.5% (Rank: #89)
+- **3-Point Shooting:** 35.5% (Rank: #90)
 - **Free Throw Shooting:** 68.4% (Rank: #302)
 - **3-Point Rate:** 37.2% (Rank: #234)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 46.5% (Rank: #27)
-- **Opponent 3-Point Shooting:** 36.1% (Rank: #286)
+- **Opponent 3-Point Shooting:** 36.1% (Rank: #287)
 - **Block Percentage:** 10.8% (Rank: #109)
-- **Steal Rate:** 0.1% (Rank: #108)
+- **Steal Rate:** 0.1% (Rank: #107)
 
 ### Team Metrics
 
-- **Assist Rate:** 51.7% (Rank: #205)
-- **Experience:** 2.3 years (Rank: #34)
+- **Assist Rate:** 51.7% (Rank: #204)
+- **Experience:** 2.3 years (Rank: #33)
 - **Bench Minutes:** 38.1% (Rank: #57)
 - **Average Height:** 79.0" (Rank: #8)
 
@@ -112,35 +112,35 @@ Missouri Tigers comes in ranked #56 overall by KenPom.
 
 ## Alabama Crimson Tide
 
-Alabama Crimson Tide comes in ranked #19 overall by KenPom. They boast one of the nation's top offenses, ranked #18 in efficiency. 
+Alabama Crimson Tide comes in ranked #19 overall by KenPom. They boast one of the nation's top offenses, ranked #16 in efficiency. 
 
 ### Record & Ranking
 - **Record:** 13-6
 - **Head Coach:** Nate Oats
 - **Home Arena:** Coleman Coliseum
 - **KenPom Rank:** #19
-- **Offensive Efficiency:** 122.0 (Rank: #18)
+- **Offensive Efficiency:** 122.0 (Rank: #16)
 - **Defensive Efficiency:** 109.3 (Rank: #218)
 - **Tempo:** 75.5 (Rank: #6)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 58.0% (Rank: #28)
-- **3-Point Shooting:** 34.6% (Rank: #143)
+- **2-Point Shooting:** 58.0% (Rank: #27)
+- **3-Point Shooting:** 34.6% (Rank: #144)
 - **Free Throw Shooting:** 74.8% (Rank: #93)
 - **3-Point Rate:** 52.7% (Rank: #5)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 47.4% (Rank: #44)
+- **Opponent 2-Point Shooting:** 47.4% (Rank: #43)
 - **Opponent 3-Point Shooting:** 31.9% (Rank: #89)
 - **Block Percentage:** 13.7% (Rank: #25)
-- **Steal Rate:** 0.1% (Rank: #219)
+- **Steal Rate:** 0.1% (Rank: #220)
 
 ### Team Metrics
 
-- **Assist Rate:** 52.4% (Rank: #188)
-- **Experience:** 2.0 years (Rank: #59)
+- **Assist Rate:** 52.4% (Rank: #187)
+- **Experience:** 2.0 years (Rank: #60)
 - **Bench Minutes:** 38.8% (Rank: #42)
 - **Average Height:** 78.5" (Rank: #39)
 

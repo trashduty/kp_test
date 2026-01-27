@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Virginia Tech Hokies -9.5</p>
-  <p><strong>Moneyline:</strong> Georgia Tech Yellow Jackets (+390) | Virginia Tech Hokies (-550)</p>
+  <p><strong>Spread:</strong> Virginia Tech Hokies -9.0</p>
+  <p><strong>Moneyline:</strong> Georgia Tech Yellow Jackets (+379) | Virginia Tech Hokies (-507)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Georgia Tech Yellow Jackets**: 9.5, Edge For Covering Spread: -4.0%
-- **Virginia Tech Hokies**: -9.5, Edge For Covering Spread: -0.8%
+- **Georgia Tech Yellow Jackets**: 9.0, Edge For Covering Spread: -4.7%
+- **Virginia Tech Hokies**: -9.0, Edge For Covering Spread: -0.1%
 
 ### Moneyline
-- **Georgia Tech Yellow Jackets Win Probability**: 17.7%, Moneyline Edge: -2.7%
-- **Virginia Tech Hokies Win Probability**: 82.3%, Moneyline Edge: -2.3%
+- **Georgia Tech Yellow Jackets Win Probability**: 18.0%, Moneyline Edge: -2.9%
+- **Virginia Tech Hokies Win Probability**: 82.0%, Moneyline Edge: -1.5%
 
 ### Total
 - **Predicted Total**: 153.5
-- Edge For Covering The Over: -5.7%
-- Edge For Covering The Under: **1.0%**
+- Edge For Covering The Over: -5.5%
+- Edge For Covering The Under: **0.7%**
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Virginia Tech Hokies (15-6) hosts Georgia Tech Yellow Jackets (11-9) at Cassell Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Virginia Tech Hokies favored by 9.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Virginia Tech Hokies (15-6) hosts Georgia Tech Yellow Jackets (11-9) at Cassell Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Virginia Tech Hokies favored by 9.0 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Virginia Tech Hokies has clear advantages, but games aren't played on paper. Georgia Tech Yellow Jackets needs to punch above their weight class to keep this close. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 9.0 points tells us Virginia Tech Hokies has clear advantages, but games aren't played on paper. Georgia Tech Yellow Jackets needs to punch above their weight class to keep this close. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Georgia Tech Yellow Jackets** bring an offensive efficiency of 103.89 (ranked #247 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.6% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
 Meanwhile, **Virginia Tech Hokies** counter with 113.80 offensive efficiency (#85). They're competent on offense without being spectacular. At 35.3% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Georgia Tech Yellow Jackets operate at a 71.8 tempo (#52), while Virginia Tech Hokies play at 69.2 (#176). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.5) should create a standard flow. 
+Georgia Tech Yellow Jackets operate at a 71.8 tempo (#51), while Virginia Tech Hokies play at 69.2 (#177). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.5) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Georgia Tech Yellow Jackets shoot 48.6% on two-pointers, while Virginia Tech Hokies convert at 52.1%. Both teams are evenly matched in paint efficiency. 
@@ -83,11 +83,11 @@ Georgia Tech Yellow Jackets comes in ranked #134 overall by KenPom. They're dang
 - **KenPom Rank:** #134
 - **Offensive Efficiency:** 103.9 (Rank: #247)
 - **Defensive Efficiency:** 101.8 (Rank: #59)
-- **Tempo:** 71.8 (Rank: #52)
+- **Tempo:** 71.8 (Rank: #51)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 48.6% (Rank: #281)
+- **2-Point Shooting:** 48.6% (Rank: #282)
 - **3-Point Shooting:** 36.6% (Rank: #47)
 - **Free Throw Shooting:** 68.8% (Rank: #290)
 - **3-Point Rate:** 31.5% (Rank: #334)
@@ -96,7 +96,7 @@ Georgia Tech Yellow Jackets comes in ranked #134 overall by KenPom. They're dang
 
 - **Opponent 2-Point Shooting:** 48.1% (Rank: #61)
 - **Opponent 3-Point Shooting:** 30.7% (Rank: #54)
-- **Block Percentage:** 12.1% (Rank: #67)
+- **Block Percentage:** 12.1% (Rank: #66)
 - **Steal Rate:** 0.1% (Rank: #215)
 
 ### Team Metrics
@@ -119,26 +119,26 @@ Virginia Tech Hokies comes in ranked #57 overall by KenPom.
 - **KenPom Rank:** #57
 - **Offensive Efficiency:** 113.8 (Rank: #85)
 - **Defensive Efficiency:** 104.4 (Rank: #99)
-- **Tempo:** 69.2 (Rank: #176)
+- **Tempo:** 69.2 (Rank: #177)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 52.1% (Rank: #160)
 - **3-Point Shooting:** 35.3% (Rank: #106)
-- **Free Throw Shooting:** 72.3% (Rank: #181)
+- **Free Throw Shooting:** 72.3% (Rank: #182)
 - **3-Point Rate:** 38.9% (Rank: #200)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.4% (Rank: #212)
-- **Opponent 3-Point Shooting:** 30.1% (Rank: #35)
+- **Opponent 2-Point Shooting:** 52.4% (Rank: #213)
+- **Opponent 3-Point Shooting:** 30.1% (Rank: #34)
 - **Block Percentage:** 10.2% (Rank: #134)
 - **Steal Rate:** 0.1% (Rank: #163)
 
 ### Team Metrics
 
-- **Assist Rate:** 52.0% (Rank: #199)
+- **Assist Rate:** 52.0% (Rank: #198)
 - **Experience:** 1.4 years (Rank: #198)
-- **Bench Minutes:** 31.7% (Rank: #202)
+- **Bench Minutes:** 31.7% (Rank: #201)
 - **Average Height:** 78.0" (Rank: #93)
 

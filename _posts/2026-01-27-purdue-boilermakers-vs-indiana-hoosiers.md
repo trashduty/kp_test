@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Purdue Boilermakers -4.5</p>
-  <p><strong>Moneyline:</strong> Purdue Boilermakers (-191) | Indiana Hoosiers (+160)</p>
+  <p><strong>Spread:</strong> Purdue Boilermakers -5.5</p>
+  <p><strong>Moneyline:</strong> Purdue Boilermakers (-215) | Indiana Hoosiers (+177)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Purdue Boilermakers**: -4.5, Edge For Covering Spread: -2.5%
-- **Indiana Hoosiers**: 4.5, Edge For Covering Spread: -2.4%
+- **Purdue Boilermakers**: -5.5, Edge For Covering Spread: -4.1%
+- **Indiana Hoosiers**: 5.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Purdue Boilermakers Win Probability**: 63.0%, Moneyline Edge: -2.6%
-- **Indiana Hoosiers Win Probability**: 37.0%, Moneyline Edge: -1.5%
+- **Purdue Boilermakers Win Probability**: 64.2%, Moneyline Edge: -4.0%
+- **Indiana Hoosiers Win Probability**: 35.8%, Moneyline Edge: -0.3%
 
 ### Total
-- **Predicted Total**: 151.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 152.0
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -2.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Purdue Boilermakers (17-3) travels to face Indiana Hoosiers (13-7) at Assembly Hall in what shapes up to be a competitive matchup. The early betting action has shaped into Purdue Boilermakers favored by 4.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Purdue Boilermakers (17-3) travels to face Indiana Hoosiers (13-7) at Assembly Hall in what shapes up to be a competitive matchup. The early betting action has shaped into Purdue Boilermakers favored by 5.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Purdue Boilermakers is viewed as the better team, but this isn't an overwhelming edge. Indiana Hoosiers has a legitimate path to covering or winning outright. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 5.5-point spread indicates Purdue Boilermakers is viewed as the better team, but this isn't an overwhelming edge. Indiana Hoosiers has a legitimate path to covering or winning outright. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Purdue Boilermakers** bring an offensive efficiency of 124.80 (ranked #4 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 38.3% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -87,7 +87,7 @@ Purdue Boilermakers comes in ranked #8 overall by KenPom. They're dangerous from
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 59.4% (Rank: #17)
+- **2-Point Shooting:** 59.4% (Rank: #16)
 - **3-Point Shooting:** 38.3% (Rank: #21)
 - **Free Throw Shooting:** 75.0% (Rank: #87)
 - **3-Point Rate:** 38.4% (Rank: #207)
@@ -97,7 +97,7 @@ Purdue Boilermakers comes in ranked #8 overall by KenPom. They're dangerous from
 - **Opponent 2-Point Shooting:** 51.6% (Rank: #188)
 - **Opponent 3-Point Shooting:** 32.3% (Rank: #108)
 - **Block Percentage:** 9.4% (Rank: #182)
-- **Steal Rate:** 0.1% (Rank: #242)
+- **Steal Rate:** 0.1% (Rank: #243)
 
 ### Team Metrics
 
@@ -110,22 +110,22 @@ Purdue Boilermakers comes in ranked #8 overall by KenPom. They're dangerous from
 
 ## Indiana Hoosiers
 
-Indiana Hoosiers comes in ranked #35 overall by KenPom. They boast one of the nation's top offenses, ranked #40 in efficiency. 
+Indiana Hoosiers comes in ranked #37 overall by KenPom. They boast one of the nation's top offenses, ranked #40 in efficiency. 
 
 ### Record & Ranking
 - **Record:** 13-7
 - **Head Coach:** Darian DeVries
 - **Home Arena:** Assembly Hall
-- **KenPom Rank:** #35
+- **KenPom Rank:** #37
 - **Offensive Efficiency:** 118.4 (Rank: #40)
 - **Defensive Efficiency:** 102.0 (Rank: #66)
 - **Tempo:** 68.4 (Rank: #212)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 59.4% (Rank: #18)
+- **2-Point Shooting:** 59.4% (Rank: #17)
 - **3-Point Shooting:** 35.8% (Rank: #75)
-- **Free Throw Shooting:** 78.5% (Rank: #11)
+- **Free Throw Shooting:** 78.5% (Rank: #10)
 - **3-Point Rate:** 51.2% (Rank: #9)
 
 ### Defensive Stats

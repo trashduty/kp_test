@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama St Hornets -1.5</p>
-  <p><strong>Moneyline:</strong> Alabama St Hornets (-120) | Texas Southern Tigers (-100)</p>
+  <p><strong>Moneyline:</strong> Alabama St Hornets (-112) | Texas Southern Tigers (-108)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
@@ -25,16 +25,16 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **Alabama St Hornets**: -1.5, Edge For Covering Spread: -1.6%
-- **Texas Southern Tigers**: 1.5, Edge For Covering Spread: -2.9%
+- **Texas Southern Tigers**: 1.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Alabama St Hornets Win Probability**: 48.6%, Moneyline Edge: -6.0%
-- **Texas Southern Tigers Win Probability**: 51.4%, Moneyline Edge: **1.4%**
+- **Alabama St Hornets Win Probability**: 47.7%, Moneyline Edge: -5.1%
+- **Texas Southern Tigers Win Probability**: 52.3%, Moneyline Edge: **0.4%**
 
 ### Total
 - **Predicted Total**: 157.5
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -49,10 +49,10 @@ A spread under 3 points suggests the books see this as essentially a coin flip. 
 
 #### Offensive Firepower
 **Alabama St Hornets** bring an offensive efficiency of 101.33 (ranked #293 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.2% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Texas Southern Tigers** counter with 99.75 offensive efficiency (#314). Points have been hard to come by, making every possession critical. At 32.4% from three, they have adequate spacing but must pick their spots. 
+Meanwhile, **Texas Southern Tigers** counter with 99.75 offensive efficiency (#315). Points have been hard to come by, making every possession critical. At 32.4% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Alabama St Hornets operate at a 72.2 tempo (#41), while Texas Southern Tigers play at 71.5 (#60). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.9) should create a standard flow. 
+Alabama St Hornets operate at a 72.2 tempo (#40), while Texas Southern Tigers play at 71.5 (#60). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.9) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Alabama St Hornets shoot 46.7% on two-pointers, while Texas Southern Tigers convert at 48.8%. Both teams are evenly matched in paint efficiency. 
@@ -81,27 +81,27 @@ Alabama St Hornets comes in ranked #295 overall by KenPom. Defense has been a st
 - **KenPom Rank:** #295
 - **Offensive Efficiency:** 101.3 (Rank: #293)
 - **Defensive Efficiency:** 113.8 (Rank: #290)
-- **Tempo:** 72.2 (Rank: #41)
+- **Tempo:** 72.2 (Rank: #40)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 46.7% (Rank: #323)
-- **3-Point Shooting:** 34.2% (Rank: #170)
+- **2-Point Shooting:** 46.7% (Rank: #324)
+- **3-Point Shooting:** 34.2% (Rank: #168)
 - **Free Throw Shooting:** 71.6% (Rank: #203)
 - **3-Point Rate:** 37.5% (Rank: #224)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 54.6% (Rank: #281)
-- **Opponent 3-Point Shooting:** 35.4% (Rank: #256)
+- **Opponent 3-Point Shooting:** 35.4% (Rank: #258)
 - **Block Percentage:** 10.3% (Rank: #128)
 - **Steal Rate:** 0.1% (Rank: #68)
 
 ### Team Metrics
 
-- **Assist Rate:** 46.2% (Rank: #318)
+- **Assist Rate:** 46.2% (Rank: #319)
 - **Experience:** 1.0 years (Rank: #292)
-- **Bench Minutes:** 26.0% (Rank: #315)
+- **Bench Minutes:** 26.0% (Rank: #316)
 - **Average Height:** 76.8" (Rank: #274)
 
 ---
@@ -115,21 +115,21 @@ Texas Southern Tigers comes in ranked #332 overall by KenPom. Stopping opponents
 - **Head Coach:** Johnny Jones
 - **Home Arena:** Health & PE Arena
 - **KenPom Rank:** #332
-- **Offensive Efficiency:** 99.8 (Rank: #314)
+- **Offensive Efficiency:** 99.8 (Rank: #315)
 - **Defensive Efficiency:** 118.3 (Rank: #342)
 - **Tempo:** 71.5 (Rank: #60)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 48.8% (Rank: #277)
-- **3-Point Shooting:** 32.4% (Rank: #239)
+- **2-Point Shooting:** 48.8% (Rank: #278)
+- **3-Point Shooting:** 32.4% (Rank: #238)
 - **Free Throw Shooting:** 70.4% (Rank: #244)
-- **3-Point Rate:** 32.6% (Rank: #320)
+- **3-Point Rate:** 32.6% (Rank: #321)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 58.9% (Rank: #352)
-- **Opponent 3-Point Shooting:** 36.2% (Rank: #292)
+- **Opponent 3-Point Shooting:** 36.2% (Rank: #293)
 - **Block Percentage:** 8.7% (Rank: #221)
 - **Steal Rate:** 0.1% (Rank: #257)
 

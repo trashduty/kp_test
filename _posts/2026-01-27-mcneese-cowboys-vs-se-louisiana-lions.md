@@ -49,10 +49,10 @@ The 12.5-point spread screams mismatch. The books are asking SE Louisiana Lions 
 
 #### Offensive Firepower
 **McNeese Cowboys** bring an offensive efficiency of 116.74 (ranked #59 nationally). They're solid offensively, capable of putting up points but not overwhelming. At 31.5% from three, they can't rely on the arc. Expect a paint-focused attack. 
-Meanwhile, **SE Louisiana Lions** counter with 97.09 offensive efficiency (#333). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 27.1%, forcing them to grind in the half court. 
+Meanwhile, **SE Louisiana Lions** counter with 97.09 offensive efficiency (#334). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 27.1%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
-McNeese Cowboys operate at a 67.4 tempo (#252), while SE Louisiana Lions play at 66.6 (#287). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.0) means fewer possessions, making each one more valuable. 
+McNeese Cowboys operate at a 67.4 tempo (#251), while SE Louisiana Lions play at 66.6 (#287). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.0) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, McNeese Cowboys shoot 53.5% on two-pointers, while SE Louisiana Lions convert at 48.2%. McNeese Cowboys has a clear edge in interior scoring efficiency. 
@@ -68,20 +68,20 @@ This looks like a mismatch on paper with McNeese Cowboys significantly higher in
 
 **Key Matchup: McNeese Cowboys's Offense vs SE Louisiana Lions's Defense**
 
-McNeese Cowboys bring a solid offense (ranked #59) that could exploit SE Louisiana Lions's defensive vulnerabilities (ranked #126). 
+McNeese Cowboys bring a solid offense (ranked #59) that could exploit SE Louisiana Lions's defensive vulnerabilities (ranked #127). 
 
 
 ## McNeese Cowboys
 
-McNeese Cowboys comes in ranked #66 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
+McNeese Cowboys comes in ranked #67 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
 
 ### Record & Ranking
 - **Record:** 16-4
 - **Head Coach:** Bill Armstrong
-- **KenPom Rank:** #66
+- **KenPom Rank:** #67
 - **Offensive Efficiency:** 116.7 (Rank: #59)
 - **Defensive Efficiency:** 102.4 (Rank: #70)
-- **Tempo:** 67.4 (Rank: #252)
+- **Tempo:** 67.4 (Rank: #251)
 
 ### Shooting Breakdown
 
@@ -92,14 +92,14 @@ McNeese Cowboys comes in ranked #66 overall by KenPom. The three-point shot hasn
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 49.7% (Rank: #108)
-- **Opponent 3-Point Shooting:** 33.9% (Rank: #184)
+- **Opponent 2-Point Shooting:** 49.7% (Rank: #109)
+- **Opponent 3-Point Shooting:** 33.9% (Rank: #183)
 - **Block Percentage:** 16.2% (Rank: #6)
 - **Steal Rate:** 0.1% (Rank: #1)
 
 ### Team Metrics
 
-- **Assist Rate:** 48.7% (Rank: #279)
+- **Assist Rate:** 48.7% (Rank: #278)
 - **Experience:** 1.9 years (Rank: #74)
 - **Bench Minutes:** 38.6% (Rank: #44)
 - **Average Height:** 77.1" (Rank: #230)
@@ -108,27 +108,27 @@ McNeese Cowboys comes in ranked #66 overall by KenPom. The three-point shot hasn
 
 ## SE Louisiana Lions
 
-SE Louisiana Lions comes in ranked #263 overall by KenPom. They've struggled from deep this year, meaning they'll need to rely on interior scoring and getting to the free throw line. 
+SE Louisiana Lions comes in ranked #264 overall by KenPom. They've struggled from deep this year, meaning they'll need to rely on interior scoring and getting to the free throw line. 
 
 ### Record & Ranking
 - **Record:** 6-14
 - **Head Coach:** David Kiefer
 - **Home Arena:** University Center
-- **KenPom Rank:** #263
-- **Offensive Efficiency:** 97.1 (Rank: #333)
-- **Defensive Efficiency:** 105.6 (Rank: #126)
+- **KenPom Rank:** #264
+- **Offensive Efficiency:** 97.1 (Rank: #334)
+- **Defensive Efficiency:** 105.6 (Rank: #127)
 - **Tempo:** 66.6 (Rank: #287)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 48.2% (Rank: #290)
 - **3-Point Shooting:** 27.1% (Rank: #362)
-- **Free Throw Shooting:** 69.6% (Rank: #268)
-- **3-Point Rate:** 39.4% (Rank: #187)
+- **Free Throw Shooting:** 69.6% (Rank: #269)
+- **3-Point Rate:** 39.4% (Rank: #188)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 50.6% (Rank: #137)
+- **Opponent 2-Point Shooting:** 50.6% (Rank: #136)
 - **Opponent 3-Point Shooting:** 34.6% (Rank: #219)
 - **Block Percentage:** 8.9% (Rank: #202)
 - **Steal Rate:** 0.1% (Rank: #85)

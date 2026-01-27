@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan St Spartans -14.5</p>
-  <p><strong>Moneyline:</strong> Michigan St Spartans (-1800) | Rutgers Scarlet Knights (+980)</p>
+  <p><strong>Moneyline:</strong> Michigan St Spartans (-1800) | Rutgers Scarlet Knights (+920)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan St Spartans**: -14.5, Edge For Covering Spread: -1.2%
-- **Rutgers Scarlet Knights**: 14.5, Edge For Covering Spread: -3.5%
+- **Michigan St Spartans**: -14.5, Edge For Covering Spread: -2.6%
+- **Rutgers Scarlet Knights**: 14.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Michigan St Spartans Win Probability**: 92.0%, Moneyline Edge: -2.7%
-- **Rutgers Scarlet Knights Win Probability**: 8.0%, Moneyline Edge: -1.3%
+- **Michigan St Spartans Win Probability**: 91.8%, Moneyline Edge: -2.9%
+- **Rutgers Scarlet Knights Win Probability**: 8.2%, Moneyline Edge: -1.6%
 
 ### Total
 - **Predicted Total**: 135.5
@@ -52,7 +52,7 @@ The 14.5-point spread screams mismatch. The books are asking Rutgers Scarlet Kni
 Meanwhile, **Rutgers Scarlet Knights** counter with 103.83 offensive efficiency (#248). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 31.9%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
-Michigan St Spartans operate at a 67.4 tempo (#254), while Rutgers Scarlet Knights play at 66.2 (#308). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.8) means fewer possessions, making each one more valuable. 
+Michigan St Spartans operate at a 67.4 tempo (#253), while Rutgers Scarlet Knights play at 66.2 (#308). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.8) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Michigan St Spartans shoot 54.7% on two-pointers, while Rutgers Scarlet Knights convert at 45.4%. Michigan St Spartans has a clear edge in interior scoring efficiency. 
@@ -81,7 +81,7 @@ Michigan St Spartans comes in ranked #4 overall by KenPom. On the defensive end,
 - **KenPom Rank:** #4
 - **Offensive Efficiency:** 117.2 (Rank: #51)
 - **Defensive Efficiency:** 92.9 (Rank: #5)
-- **Tempo:** 67.4 (Rank: #254)
+- **Tempo:** 67.4 (Rank: #253)
 
 ### Shooting Breakdown
 
@@ -93,9 +93,9 @@ Michigan St Spartans comes in ranked #4 overall by KenPom. On the defensive end,
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 46.7% (Rank: #31)
-- **Opponent 3-Point Shooting:** 29.7% (Rank: #23)
+- **Opponent 3-Point Shooting:** 29.7% (Rank: #21)
 - **Block Percentage:** 15.3% (Rank: #8)
-- **Steal Rate:** 0.1% (Rank: #246)
+- **Steal Rate:** 0.1% (Rank: #247)
 
 ### Team Metrics
 
@@ -108,30 +108,30 @@ Michigan St Spartans comes in ranked #4 overall by KenPom. On the defensive end,
 
 ## Rutgers Scarlet Knights
 
-Rutgers Scarlet Knights comes in ranked #159 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Rutgers Scarlet Knights comes in ranked #160 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 9-11
 - **Head Coach:** Steve Pikiell
 - **Home Arena:** Jersey Mike's Arena
-- **KenPom Rank:** #159
+- **KenPom Rank:** #160
 - **Offensive Efficiency:** 103.8 (Rank: #248)
 - **Defensive Efficiency:** 111.3 (Rank: #252)
 - **Tempo:** 66.2 (Rank: #308)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 45.4% (Rank: #341)
+- **2-Point Shooting:** 45.4% (Rank: #340)
 - **3-Point Shooting:** 31.9% (Rank: #270)
 - **Free Throw Shooting:** 72.9% (Rank: #160)
 - **3-Point Rate:** 35.2% (Rank: #270)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 49.7% (Rank: #110)
-- **Opponent 3-Point Shooting:** 37.2% (Rank: #331)
+- **Opponent 2-Point Shooting:** 49.7% (Rank: #111)
+- **Opponent 3-Point Shooting:** 37.2% (Rank: #332)
 - **Block Percentage:** 10.3% (Rank: #129)
-- **Steal Rate:** 0.1% (Rank: #200)
+- **Steal Rate:** 0.1% (Rank: #199)
 
 ### Team Metrics
 

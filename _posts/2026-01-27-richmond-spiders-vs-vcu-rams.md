@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> VCU Rams -11.0</p>
-  <p><strong>Moneyline:</strong> Richmond Spiders (+500) | VCU Rams (-724)</p>
+  <p><strong>Spread:</strong> VCU Rams -11.5</p>
+  <p><strong>Moneyline:</strong> Richmond Spiders (+495) | VCU Rams (-724)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Richmond Spiders**: 11.0, Edge For Covering Spread: -2.4%
-- **VCU Rams**: -11.0, Edge For Covering Spread: -2.4%
+- **Richmond Spiders**: 11.5, Edge For Covering Spread: -2.4%
+- **VCU Rams**: -11.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Richmond Spiders Win Probability**: 16.0%, Moneyline Edge: -0.7%
-- **VCU Rams Win Probability**: 84.0%, Moneyline Edge: -3.8%
+- **Richmond Spiders Win Probability**: 16.0%, Moneyline Edge: -0.8%
+- **VCU Rams Win Probability**: 84.0%, Moneyline Edge: -3.9%
 
 ### Total
 - **Predicted Total**: 156.0
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.1%
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-VCU Rams (14-6) hosts Richmond Spiders (13-8) at Siegel Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into VCU Rams favored by 11.0 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+VCU Rams (14-6) hosts Richmond Spiders (13-8) at Siegel Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into VCU Rams favored by 11.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.0 points tells us VCU Rams has clear advantages, but games aren't played on paper. Richmond Spiders needs to punch above their weight class to keep this close. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 11.5 points tells us VCU Rams has clear advantages, but games aren't played on paper. Richmond Spiders needs to punch above their weight class to keep this close. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Richmond Spiders** bring an offensive efficiency of 113.25 (ranked #93 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 38.8% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
 Meanwhile, **VCU Rams** counter with 119.49 offensive efficiency (#30). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 36.5%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-Richmond Spiders operate at a 69.8 tempo (#140), while VCU Rams play at 70.8 (#90). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.3) should create a standard flow. 
+Richmond Spiders operate at a 69.8 tempo (#139), while VCU Rams play at 70.8 (#89). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.3) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Richmond Spiders shoot 50.4% on two-pointers, while VCU Rams convert at 55.3%. Both teams are evenly matched in paint efficiency. 
@@ -68,7 +68,7 @@ This looks like a mismatch on paper with VCU Rams significantly higher in the ra
 
 **Key Matchup: VCU Rams's Offense vs Richmond Spiders's Defense**
 
-VCU Rams features a very strong offense (ranked #30) that should find success against Richmond Spiders's defensive unit (ranked #120). 
+VCU Rams features a very strong offense (ranked #30) that should find success against Richmond Spiders's defensive unit (ranked #121). 
 
 
 ## Richmond Spiders
@@ -80,26 +80,26 @@ Richmond Spiders comes in ranked #118 overall by KenPom. They're dangerous from 
 - **Head Coach:** Chris Mooney
 - **KenPom Rank:** #118
 - **Offensive Efficiency:** 113.3 (Rank: #93)
-- **Defensive Efficiency:** 105.3 (Rank: #120)
-- **Tempo:** 69.8 (Rank: #140)
+- **Defensive Efficiency:** 105.3 (Rank: #121)
+- **Tempo:** 69.8 (Rank: #139)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 50.4% (Rank: #222)
 - **3-Point Shooting:** 38.8% (Rank: #15)
-- **Free Throw Shooting:** 75.4% (Rank: #77)
+- **Free Throw Shooting:** 75.4% (Rank: #76)
 - **3-Point Rate:** 40.6% (Rank: #162)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 53.7% (Rank: #254)
 - **Opponent 3-Point Shooting:** 31.7% (Rank: #80)
-- **Block Percentage:** 7.7% (Rank: #278)
-- **Steal Rate:** 0.1% (Rank: #107)
+- **Block Percentage:** 7.7% (Rank: #279)
+- **Steal Rate:** 0.1% (Rank: #106)
 
 ### Team Metrics
 
-- **Assist Rate:** 56.1% (Rank: #93)
+- **Assist Rate:** 56.1% (Rank: #92)
 - **Experience:** 2.0 years (Rank: #51)
 - **Bench Minutes:** 45.2% (Rank: #5)
 - **Average Height:** 76.7" (Rank: #291)
@@ -117,20 +117,20 @@ VCU Rams comes in ranked #47 overall by KenPom. They boast one of the nation's t
 - **KenPom Rank:** #47
 - **Offensive Efficiency:** 119.5 (Rank: #30)
 - **Defensive Efficiency:** 104.2 (Rank: #97)
-- **Tempo:** 70.8 (Rank: #90)
+- **Tempo:** 70.8 (Rank: #89)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 55.3% (Rank: #73)
 - **3-Point Shooting:** 36.5% (Rank: #52)
-- **Free Throw Shooting:** 73.8% (Rank: #124)
+- **Free Throw Shooting:** 73.8% (Rank: #125)
 - **3-Point Rate:** 44.9% (Rank: #69)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 48.6% (Rank: #75)
-- **Opponent 3-Point Shooting:** 34.8% (Rank: #232)
-- **Block Percentage:** 11.3% (Rank: #87)
+- **Opponent 3-Point Shooting:** 34.8% (Rank: #230)
+- **Block Percentage:** 11.3% (Rank: #88)
 - **Steal Rate:** 0.1% (Rank: #84)
 
 ### Team Metrics

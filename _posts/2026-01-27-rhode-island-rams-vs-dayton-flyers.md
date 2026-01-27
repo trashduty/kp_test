@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Dayton Flyers -8.5</p>
-  <p><strong>Moneyline:</strong> Rhode Island Rams (+297) | Dayton Flyers (-387)</p>
+  <p><strong>Spread:</strong> Dayton Flyers -8.0</p>
+  <p><strong>Moneyline:</strong> Rhode Island Rams (+292) | Dayton Flyers (-379)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Rhode Island Rams**: 8.5, Edge For Covering Spread: -1.8%
-- **Dayton Flyers**: -8.5, Edge For Covering Spread: -3.0%
+- **Rhode Island Rams**: 8.0, Edge For Covering Spread: -0.3%
+- **Dayton Flyers**: -8.0, Edge For Covering Spread: -4.7%
 
 ### Moneyline
-- **Rhode Island Rams Win Probability**: 23.5%, Moneyline Edge: -1.6%
-- **Dayton Flyers Win Probability**: 76.5%, Moneyline Edge: -3.0%
+- **Rhode Island Rams Win Probability**: 23.7%, Moneyline Edge: -1.7%
+- **Dayton Flyers Win Probability**: 76.3%, Moneyline Edge: -2.9%
 
 ### Total
 - **Predicted Total**: 136.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Dayton Flyers (14-6) hosts Rhode Island Rams (12-8) at University of Dayton Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Dayton Flyers favored by 8.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Dayton Flyers (14-6) hosts Rhode Island Rams (12-8) at University of Dayton Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Dayton Flyers favored by 8.0 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Dayton Flyers has clear advantages, but games aren't played on paper. Rhode Island Rams needs to punch above their weight class to keep this close. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.0 points tells us Dayton Flyers has clear advantages, but games aren't played on paper. Rhode Island Rams needs to punch above their weight class to keep this close. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Rhode Island Rams** bring an offensive efficiency of 109.42 (ranked #155 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.5% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -68,7 +68,7 @@ On paper, Dayton Flyers holds the advantage as the higher-ranked team, but Rhode
 
 **Key Matchup: Dayton Flyers's Defense vs Rhode Island Rams's Offense**
 
-Dayton Flyers's defensive prowess (ranked #23) sets up well against Rhode Island Rams's offense. Expect a grind-it-out game. 
+Dayton Flyers's defensive prowess (ranked #22) sets up well against Rhode Island Rams's offense. Expect a grind-it-out game. 
 
 
 ## Rhode Island Rams
@@ -86,14 +86,14 @@ Rhode Island Rams comes in ranked #109 overall by KenPom. The three-point shot h
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 57.3% (Rank: #38)
-- **3-Point Shooting:** 30.5% (Rank: #322)
-- **Free Throw Shooting:** 72.5% (Rank: #172)
+- **3-Point Shooting:** 30.5% (Rank: #321)
+- **Free Throw Shooting:** 72.5% (Rank: #173)
 - **3-Point Rate:** 43.5% (Rank: #107)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 49.1% (Rank: #94)
-- **Opponent 3-Point Shooting:** 35.2% (Rank: #249)
+- **Opponent 2-Point Shooting:** 49.1% (Rank: #95)
+- **Opponent 3-Point Shooting:** 35.2% (Rank: #248)
 - **Block Percentage:** 12.4% (Rank: #59)
 - **Steal Rate:** 0.1% (Rank: #15)
 
@@ -116,21 +116,21 @@ Dayton Flyers comes in ranked #80 overall by KenPom. Their defense has been a ca
 - **Home Arena:** University of Dayton Arena
 - **KenPom Rank:** #80
 - **Offensive Efficiency:** 109.8 (Rank: #142)
-- **Defensive Efficiency:** 98.0 (Rank: #23)
+- **Defensive Efficiency:** 98.0 (Rank: #22)
 - **Tempo:** 69.2 (Rank: #175)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 54.1% (Rank: #98)
-- **3-Point Shooting:** 32.3% (Rank: #246)
+- **3-Point Shooting:** 32.3% (Rank: #245)
 - **Free Throw Shooting:** 75.0% (Rank: #86)
-- **3-Point Rate:** 42.1% (Rank: #134)
+- **3-Point Rate:** 42.1% (Rank: #135)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 48.5% (Rank: #72)
-- **Opponent 3-Point Shooting:** 34.9% (Rank: #235)
-- **Block Percentage:** 13.3% (Rank: #34)
+- **Opponent 3-Point Shooting:** 34.9% (Rank: #233)
+- **Block Percentage:** 13.3% (Rank: #33)
 - **Steal Rate:** 0.1% (Rank: #8)
 
 ### Team Metrics

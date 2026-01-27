@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan Wolverines -10.5</p>
-  <p><strong>Moneyline:</strong> Nebraska Cornhuskers (+440) | Michigan Wolverines (-650)</p>
+  <p><strong>Moneyline:</strong> Nebraska Cornhuskers (+432) | Michigan Wolverines (-615)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Nebraska Cornhuskers**: 10.5, Edge For Covering Spread: -2.4%
-- **Michigan Wolverines**: -10.5, Edge For Covering Spread: -2.4%
+- **Nebraska Cornhuskers**: 10.5, Edge For Covering Spread: -2.9%
+- **Michigan Wolverines**: -10.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Nebraska Cornhuskers Win Probability**: 17.1%, Moneyline Edge: -1.5%
-- **Michigan Wolverines Win Probability**: 82.9%, Moneyline Edge: -3.7%
+- **Nebraska Cornhuskers Win Probability**: 17.3%, Moneyline Edge: -1.5%
+- **Michigan Wolverines Win Probability**: 82.7%, Moneyline Edge: -3.3%
 
 ### Total
 - **Predicted Total**: 154.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.9%
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -0.6%
 
 ---
 
@@ -61,7 +61,7 @@ Getting to the line matters too. Nebraska Cornhuskers's free throw rate sits at 
 #### X-Factors & Intangibles
 Playing at home, Michigan Wolverines get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Fred Hoiberg leads Nebraska Cornhuskers while Dusty May guides Michigan Wolverines. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Both teams feature strong defenses (#12 and #4), so offense may be at a premium. 
+Both teams feature strong defenses (#12 and #3), so offense may be at a premium. 
 ### Game Storylines
 
 This matchup features two evenly-matched teams, with Nebraska Cornhuskers at #12 and Michigan Wolverines at #2 in the KenPom rankings. Expect a competitive battle throughout. 
@@ -90,13 +90,13 @@ Nebraska Cornhuskers comes in ranked #12 overall by KenPom. They boast one of th
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 60.2% (Rank: #10)
-- **3-Point Shooting:** 35.5% (Rank: #93)
+- **3-Point Shooting:** 35.5% (Rank: #95)
 - **Free Throw Shooting:** 76.2% (Rank: #59)
 - **3-Point Rate:** 51.0% (Rank: #11)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 47.6% (Rank: #48)
+- **Opponent 2-Point Shooting:** 47.6% (Rank: #47)
 - **Opponent 3-Point Shooting:** 30.5% (Rank: #45)
 - **Block Percentage:** 9.4% (Rank: #181)
 - **Steal Rate:** 0.1% (Rank: #149)
@@ -112,7 +112,7 @@ Nebraska Cornhuskers comes in ranked #12 overall by KenPom. They boast one of th
 
 ## Michigan Wolverines
 
-Michigan Wolverines comes in ranked #2 overall by KenPom. Defensively, they've been rock solid, ranking #4 nationally in efficiency. 
+Michigan Wolverines comes in ranked #2 overall by KenPom. Defensively, they've been rock solid, ranking #3 nationally in efficiency. 
 
 ### Record & Ranking
 - **Record:** 18-1
@@ -120,13 +120,13 @@ Michigan Wolverines comes in ranked #2 overall by KenPom. Defensively, they've b
 - **Home Arena:** Crisler Center
 - **KenPom Rank:** #2
 - **Offensive Efficiency:** 122.9 (Rank: #11)
-- **Defensive Efficiency:** 92.4 (Rank: #4)
+- **Defensive Efficiency:** 92.4 (Rank: #3)
 - **Tempo:** 74.2 (Rank: #14)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 64.3% (Rank: #1)
-- **3-Point Shooting:** 35.0% (Rank: #119)
+- **3-Point Shooting:** 35.0% (Rank: #120)
 - **Free Throw Shooting:** 71.8% (Rank: #197)
 - **3-Point Rate:** 43.0% (Rank: #116)
 
@@ -135,11 +135,11 @@ Michigan Wolverines comes in ranked #2 overall by KenPom. Defensively, they've b
 - **Opponent 2-Point Shooting:** 41.1% (Rank: #1)
 - **Opponent 3-Point Shooting:** 30.2% (Rank: #38)
 - **Block Percentage:** 16.5% (Rank: #5)
-- **Steal Rate:** 0.1% (Rank: #202)
+- **Steal Rate:** 0.1% (Rank: #201)
 
 ### Team Metrics
 
-- **Assist Rate:** 60.1% (Rank: #35)
+- **Assist Rate:** 60.1% (Rank: #34)
 - **Experience:** 2.1 years (Rank: #50)
 - **Bench Minutes:** 37.6% (Rank: #66)
 - **Average Height:** 78.6" (Rank: #29)

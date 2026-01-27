@@ -48,11 +48,11 @@ Miami (OH) RedHawks (20-0) hosts Massachusetts Minutemen (13-8) at Millett Hall 
 A spread around 9.5 points tells us Miami (OH) RedHawks has clear advantages, but games aren't played on paper. Massachusetts Minutemen needs to punch above their weight class to keep this close. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
-**Massachusetts Minutemen** bring an offensive efficiency of 108.06 (ranked #177 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.7% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Miami (OH) RedHawks** counter with 121.55 offensive efficiency (#20). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 38.9%, giving them spacing and shot creation. 
+**Massachusetts Minutemen** bring an offensive efficiency of 108.06 (ranked #176 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.7% three-point shooting is serviceable but won't scare anyone. 
+Meanwhile, **Miami (OH) RedHawks** counter with 121.55 offensive efficiency (#19). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 38.9%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-Massachusetts Minutemen operate at a 72.7 tempo (#31), while Miami (OH) RedHawks play at 71.7 (#54). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. With an average tempo around 72.2, expect plenty of possessions and transition opportunities. 
+Massachusetts Minutemen operate at a 72.7 tempo (#31), while Miami (OH) RedHawks play at 71.7 (#53). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. With an average tempo around 72.2, expect plenty of possessions and transition opportunities. 
 
 #### The Interior Battle
 Inside the paint, Massachusetts Minutemen shoot 51.8% on two-pointers, while Miami (OH) RedHawks convert at 62.2%. Miami (OH) RedHawks has a clear edge in interior scoring efficiency. 
@@ -68,7 +68,7 @@ This looks like a mismatch on paper with Miami (OH) RedHawks significantly highe
 
 **Key Matchup: Miami (OH) RedHawks's Offense vs Massachusetts Minutemen's Defense**
 
-Miami (OH) RedHawks features a elite offense (ranked #20) that should find success against Massachusetts Minutemen's defensive unit (ranked #89). 
+Miami (OH) RedHawks features a elite offense (ranked #19) that should find success against Massachusetts Minutemen's defensive unit (ranked #89). 
 
 
 ## Massachusetts Minutemen
@@ -79,7 +79,7 @@ Massachusetts Minutemen comes in ranked #183 overall by KenPom.
 - **Record:** 13-8
 - **Head Coach:** Frank Martin
 - **KenPom Rank:** #183
-- **Offensive Efficiency:** 108.1 (Rank: #177)
+- **Offensive Efficiency:** 108.1 (Rank: #176)
 - **Defensive Efficiency:** 103.7 (Rank: #89)
 - **Tempo:** 72.7 (Rank: #31)
 
@@ -93,7 +93,7 @@ Massachusetts Minutemen comes in ranked #183 overall by KenPom.
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 55.8% (Rank: #307)
-- **Opponent 3-Point Shooting:** 30.0% (Rank: #34)
+- **Opponent 3-Point Shooting:** 30.0% (Rank: #33)
 - **Block Percentage:** 7.5% (Rank: #287)
 - **Steal Rate:** 0.1% (Rank: #177)
 
@@ -115,9 +115,9 @@ Miami (OH) RedHawks comes in ranked #86 overall by KenPom. They're dangerous fro
 - **Head Coach:** Travis Steele
 - **Home Arena:** Millett Hall
 - **KenPom Rank:** #86
-- **Offensive Efficiency:** 121.5 (Rank: #20)
+- **Offensive Efficiency:** 121.5 (Rank: #19)
 - **Defensive Efficiency:** 103.7 (Rank: #88)
-- **Tempo:** 71.7 (Rank: #54)
+- **Tempo:** 71.7 (Rank: #53)
 
 ### Shooting Breakdown
 
@@ -129,14 +129,14 @@ Miami (OH) RedHawks comes in ranked #86 overall by KenPom. They're dangerous fro
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 51.5% (Rank: #181)
-- **Opponent 3-Point Shooting:** 32.6% (Rank: #115)
+- **Opponent 3-Point Shooting:** 32.6% (Rank: #116)
 - **Block Percentage:** 9.3% (Rank: #189)
-- **Steal Rate:** 0.1% (Rank: #168)
+- **Steal Rate:** 0.1% (Rank: #167)
 
 ### Team Metrics
 
-- **Assist Rate:** 53.1% (Rank: #174)
-- **Experience:** 2.0 years (Rank: #61)
+- **Assist Rate:** 53.1% (Rank: #173)
+- **Experience:** 2.0 years (Rank: #62)
 - **Bench Minutes:** 30.9% (Rank: #230)
 - **Average Height:** 77.5" (Rank: #160)
 

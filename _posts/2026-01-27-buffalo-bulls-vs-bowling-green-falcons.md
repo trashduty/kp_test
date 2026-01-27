@@ -52,7 +52,7 @@ A spread around 8.0 points tells us Bowling Green Falcons has clear advantages, 
 Meanwhile, **Bowling Green Falcons** counter with 111.72 offensive efficiency (#114). They're competent on offense without being spectacular. At 34.8% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Buffalo Bulls operate at a 67.6 tempo (#235), while Bowling Green Falcons play at 70.6 (#101). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.1) should create a standard flow. 
+Buffalo Bulls operate at a 67.6 tempo (#235), while Bowling Green Falcons play at 70.6 (#100). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.1) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Buffalo Bulls shoot 54.4% on two-pointers, while Bowling Green Falcons convert at 53.5%. Both teams are evenly matched in paint efficiency. 
@@ -87,12 +87,12 @@ Buffalo Bulls comes in ranked #189 overall by KenPom. They're dangerous from bey
 
 - **2-Point Shooting:** 54.4% (Rank: #89)
 - **3-Point Shooting:** 37.9% (Rank: #23)
-- **Free Throw Shooting:** 73.8% (Rank: #126)
+- **Free Throw Shooting:** 73.8% (Rank: #127)
 - **3-Point Rate:** 44.9% (Rank: #70)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 55.9% (Rank: #312)
+- **Opponent 2-Point Shooting:** 55.9% (Rank: #313)
 - **Opponent 3-Point Shooting:** 33.8% (Rank: #176)
 - **Block Percentage:** 8.4% (Rank: #244)
 - **Steal Rate:** 0.1% (Rank: #56)
@@ -101,7 +101,7 @@ Buffalo Bulls comes in ranked #189 overall by KenPom. They're dangerous from bey
 
 - **Assist Rate:** 54.4% (Rank: #137)
 - **Experience:** 1.4 years (Rank: #178)
-- **Bench Minutes:** 25.7% (Rank: #319)
+- **Bench Minutes:** 25.7% (Rank: #320)
 - **Average Height:** 76.7" (Rank: #295)
 
 ---
@@ -117,26 +117,26 @@ Bowling Green Falcons comes in ranked #113 overall by KenPom. Their defense has 
 - **KenPom Rank:** #113
 - **Offensive Efficiency:** 111.7 (Rank: #114)
 - **Defensive Efficiency:** 100.9 (Rank: #47)
-- **Tempo:** 70.6 (Rank: #101)
+- **Tempo:** 70.6 (Rank: #100)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 53.5% (Rank: #121)
 - **3-Point Shooting:** 34.8% (Rank: #133)
-- **Free Throw Shooting:** 73.3% (Rank: #146)
-- **3-Point Rate:** 34.4% (Rank: #295)
+- **Free Throw Shooting:** 73.3% (Rank: #147)
+- **3-Point Rate:** 34.4% (Rank: #294)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.4% (Rank: #213)
+- **Opponent 2-Point Shooting:** 52.4% (Rank: #214)
 - **Opponent 3-Point Shooting:** 32.2% (Rank: #100)
 - **Block Percentage:** 10.0% (Rank: #143)
-- **Steal Rate:** 0.1% (Rank: #26)
+- **Steal Rate:** 0.1% (Rank: #25)
 
 ### Team Metrics
 
-- **Assist Rate:** 50.6% (Rank: #233)
+- **Assist Rate:** 50.6% (Rank: #234)
 - **Experience:** 1.5 years (Rank: #164)
-- **Bench Minutes:** 28.3% (Rank: #283)
-- **Average Height:** 78.2" (Rank: #68)
+- **Bench Minutes:** 28.3% (Rank: #282)
+- **Average Height:** 78.2" (Rank: #69)
 

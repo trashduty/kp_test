@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Toledo Rockets**: 12.5, Edge For Covering Spread: -5.0%
-- **Akron Zips**: -12.5, Edge For Covering Spread: **0.3%**
+- **Toledo Rockets**: 12.5, Edge For Covering Spread: -4.0%
+- **Akron Zips**: -12.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
 - **Toledo Rockets Win Probability**: 13.0%, Moneyline Edge: -0.5%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 170.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.3%
 
 ---
 
@@ -52,7 +52,7 @@ The 12.5-point spread screams mismatch. The books are asking Toledo Rockets to h
 Meanwhile, **Akron Zips** counter with 125.49 offensive efficiency (#2). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 39.7%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-Toledo Rockets operate at a 70.7 tempo (#99), while Akron Zips play at 72.2 (#42). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.4) should create a standard flow. 
+Toledo Rockets operate at a 70.7 tempo (#98), while Akron Zips play at 72.2 (#41). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.4) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Toledo Rockets shoot 51.9% on two-pointers, while Akron Zips convert at 60.1%. Akron Zips has a clear edge in interior scoring efficiency. 
@@ -61,48 +61,48 @@ Getting to the line matters too. Toledo Rockets's free throw rate sits at 35.0, 
 #### X-Factors & Intangibles
 Playing at home, Akron Zips get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Toledo Rockets is simply the superior team on paper. 
 From a coaching perspective, Tod Kowalczyk leads Toledo Rockets while John Groce guides Akron Zips. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Akron Zips's offense (#2) could exploit Toledo Rockets's defensive vulnerabilities (#283). 
+Akron Zips's offense (#2) could exploit Toledo Rockets's defensive vulnerabilities (#284). 
 ### Game Storylines
 
 This looks like a mismatch on paper with Akron Zips significantly higher in the rankings, but as they say, that's why they play the games. Toledo Rockets will need their best performance to stay competitive. 
 
 **Key Matchup: Toledo Rockets's Offense vs Akron Zips's Defense**
 
-Toledo Rockets bring a solid offense (ranked #91) that could exploit Akron Zips's defensive vulnerabilities (ranked #162). 
+Toledo Rockets bring a solid offense (ranked #91) that could exploit Akron Zips's defensive vulnerabilities (ranked #164). 
 
 
 ## Toledo Rockets
 
-Toledo Rockets comes in ranked #158 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Toledo Rockets comes in ranked #159 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 11-9
 - **Head Coach:** Tod Kowalczyk
-- **KenPom Rank:** #158
+- **KenPom Rank:** #159
 - **Offensive Efficiency:** 113.4 (Rank: #91)
-- **Defensive Efficiency:** 113.2 (Rank: #283)
-- **Tempo:** 70.7 (Rank: #99)
+- **Defensive Efficiency:** 113.2 (Rank: #284)
+- **Tempo:** 70.7 (Rank: #98)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 51.9% (Rank: #167)
-- **3-Point Shooting:** 35.1% (Rank: #114)
+- **3-Point Shooting:** 35.1% (Rank: #115)
 - **Free Throw Shooting:** 77.3% (Rank: #28)
 - **3-Point Rate:** 32.1% (Rank: #327)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 58.0% (Rank: #341)
-- **Opponent 3-Point Shooting:** 36.2% (Rank: #288)
+- **Opponent 3-Point Shooting:** 36.2% (Rank: #289)
 - **Block Percentage:** 7.3% (Rank: #299)
 - **Steal Rate:** 0.1% (Rank: #111)
 
 ### Team Metrics
 
-- **Assist Rate:** 52.1% (Rank: #197)
+- **Assist Rate:** 52.1% (Rank: #196)
 - **Experience:** 1.4 years (Rank: #179)
 - **Bench Minutes:** 19.7% (Rank: #359)
-- **Average Height:** 76.6" (Rank: #307)
+- **Average Height:** 76.6" (Rank: #306)
 
 ---
 
@@ -116,8 +116,8 @@ Akron Zips comes in ranked #54 overall by KenPom. They're dangerous from beyond 
 - **Home Arena:** Rhodes Arena
 - **KenPom Rank:** #54
 - **Offensive Efficiency:** 125.5 (Rank: #2)
-- **Defensive Efficiency:** 107.0 (Rank: #162)
-- **Tempo:** 72.2 (Rank: #42)
+- **Defensive Efficiency:** 107.0 (Rank: #164)
+- **Tempo:** 72.2 (Rank: #41)
 
 ### Shooting Breakdown
 
@@ -128,10 +128,10 @@ Akron Zips comes in ranked #54 overall by KenPom. They're dangerous from beyond 
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.3% (Rank: #170)
+- **Opponent 2-Point Shooting:** 51.3% (Rank: #169)
 - **Opponent 3-Point Shooting:** 33.8% (Rank: #175)
-- **Block Percentage:** 8.8% (Rank: #209)
-- **Steal Rate:** 0.1% (Rank: #105)
+- **Block Percentage:** 8.8% (Rank: #207)
+- **Steal Rate:** 0.1% (Rank: #104)
 
 ### Team Metrics
 

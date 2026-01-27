@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> West Virginia Mountaineers -7.5</p>
-  <p><strong>Moneyline:</strong> Kansas St Wildcats (+305) | West Virginia Mountaineers (-400)</p>
+  <p><strong>Moneyline:</strong> Kansas St Wildcats (+307) | West Virginia Mountaineers (-399)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **West Virginia Mountaineers**: -7.5, Edge For Covering Spread: -4.5%
 
 ### Moneyline
-- **Kansas St Wildcats Win Probability**: 23.8%, Moneyline Edge: -0.9%
-- **West Virginia Mountaineers Win Probability**: 76.2%, Moneyline Edge: -3.8%
+- **Kansas St Wildcats Win Probability**: 23.8%, Moneyline Edge: -0.8%
+- **West Virginia Mountaineers Win Probability**: 76.2%, Moneyline Edge: -3.7%
 
 ### Total
 - **Predicted Total**: 146.0
-- Edge For Covering The Over: -2.0%
-- Edge For Covering The Under: -2.7%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 
@@ -94,10 +94,10 @@ Kansas St Wildcats comes in ranked #88 overall by KenPom. They're dangerous from
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.6% (Rank: #221)
+- **Opponent 2-Point Shooting:** 52.6% (Rank: #222)
 - **Opponent 3-Point Shooting:** 32.1% (Rank: #96)
 - **Block Percentage:** 9.3% (Rank: #188)
-- **Steal Rate:** 0.1% (Rank: #224)
+- **Steal Rate:** 0.1% (Rank: #225)
 
 ### Team Metrics
 
@@ -118,20 +118,20 @@ West Virginia Mountaineers comes in ranked #58 overall by KenPom. Their defense 
 - **Home Arena:** Hope Coliseum
 - **KenPom Rank:** #58
 - **Offensive Efficiency:** 111.1 (Rank: #122)
-- **Defensive Efficiency:** 98.6 (Rank: #29)
+- **Defensive Efficiency:** 98.6 (Rank: #28)
 - **Tempo:** 64.3 (Rank: #354)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 51.8% (Rank: #171)
-- **3-Point Shooting:** 36.2% (Rank: #61)
+- **3-Point Shooting:** 36.2% (Rank: #62)
 - **Free Throw Shooting:** 68.7% (Rank: #294)
 - **3-Point Rate:** 43.3% (Rank: #114)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 45.7% (Rank: #14)
-- **Opponent 3-Point Shooting:** 34.4% (Rank: #208)
+- **Opponent 2-Point Shooting:** 45.7% (Rank: #15)
+- **Opponent 3-Point Shooting:** 34.4% (Rank: #209)
 - **Block Percentage:** 8.0% (Rank: #260)
 - **Steal Rate:** 0.1% (Rank: #175)
 

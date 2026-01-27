@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Nicholls St Colonels -3.5</p>
-  <p><strong>Moneyline:</strong> New Orleans Privateers (+159) | Nicholls St Colonels (-192)</p>
+  <p><strong>Spread:</strong> Nicholls St Colonels -4.5</p>
+  <p><strong>Moneyline:</strong> New Orleans Privateers (+166) | Nicholls St Colonels (-200)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **New Orleans Privateers**: 3.5, Edge For Covering Spread: -0.5%
-- **Nicholls St Colonels**: -3.5, Edge For Covering Spread: -4.5%
+- **New Orleans Privateers**: 4.5, Edge For Covering Spread: -1.2%
+- **Nicholls St Colonels**: -4.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **New Orleans Privateers Win Probability**: 38.0%, Moneyline Edge: -0.6%
-- **Nicholls St Colonels Win Probability**: 62.0%, Moneyline Edge: -3.8%
+- **New Orleans Privateers Win Probability**: 37.5%, Moneyline Edge: -0.0%
+- **Nicholls St Colonels Win Probability**: 62.5%, Moneyline Edge: -4.2%
 
 ### Total
-- **Predicted Total**: 159.5
-- Edge For Covering The Over: -1.9%
-- Edge For Covering The Under: -2.8%
+- **Predicted Total**: 159.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When New Orleans Privateers (7-13) travels to face Nicholls St Colonels (8-12) at Stopher Gym, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Nicholls St Colonels favored by 3.5 points, with the total sitting at 158.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When New Orleans Privateers (7-13) travels to face Nicholls St Colonels (8-12) at Stopher Gym, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Nicholls St Colonels favored by 4.5 points, with the total sitting at 158.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Nicholls St Colonels is viewed as the better team, but this isn't an overwhelming edge. New Orleans Privateers has a legitimate path to covering or winning outright. The total of 158.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 4.5-point spread indicates Nicholls St Colonels is viewed as the better team, but this isn't an overwhelming edge. New Orleans Privateers has a legitimate path to covering or winning outright. The total of 158.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **New Orleans Privateers** bring an offensive efficiency of 105.96 (ranked #217 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.3% three-point shooting is serviceable but won't scare anyone. 
 Meanwhile, **Nicholls St Colonels** counter with 104.50 offensive efficiency (#240). Points have been hard to come by, making every possession critical. At 34.9% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-New Orleans Privateers operate at a 69.7 tempo (#145), while Nicholls St Colonels play at 69.6 (#152). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.6) should create a standard flow. 
+New Orleans Privateers operate at a 69.7 tempo (#144), while Nicholls St Colonels play at 69.6 (#152). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.6) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, New Orleans Privateers shoot 50.3% on two-pointers, while Nicholls St Colonels convert at 49.7%. Both teams are evenly matched in paint efficiency. 
@@ -64,42 +64,42 @@ From a coaching perspective, Stacy Hollowell leads New Orleans Privateers while 
 
 ### Game Storylines
 
-This matchup features two evenly-matched teams, with New Orleans Privateers at #223 and Nicholls St Colonels at #231 in the KenPom rankings. Expect a competitive battle throughout. 
+This matchup features two evenly-matched teams, with New Orleans Privateers at #222 and Nicholls St Colonels at #231 in the KenPom rankings. Expect a competitive battle throughout. 
 
 **Key Matchup: New Orleans Privateers's Offense vs Nicholls St Colonels's Defense**
 
-New Orleans Privateers bring a struggling offense (ranked #217) that could exploit Nicholls St Colonels's defensive vulnerabilities (ranked #269). 
+New Orleans Privateers bring a struggling offense (ranked #217) that could exploit Nicholls St Colonels's defensive vulnerabilities (ranked #270). 
 
 
 ## New Orleans Privateers
 
-New Orleans Privateers comes in ranked #223 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+New Orleans Privateers comes in ranked #222 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 7-13
 - **Head Coach:** Stacy Hollowell
-- **KenPom Rank:** #223
+- **KenPom Rank:** #222
 - **Offensive Efficiency:** 106.0 (Rank: #217)
 - **Defensive Efficiency:** 116.3 (Rank: #323)
-- **Tempo:** 69.7 (Rank: #145)
+- **Tempo:** 69.7 (Rank: #144)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 50.3% (Rank: #223)
-- **3-Point Shooting:** 33.3% (Rank: #213)
-- **Free Throw Shooting:** 74.7% (Rank: #101)
+- **3-Point Shooting:** 33.3% (Rank: #212)
+- **Free Throw Shooting:** 74.7% (Rank: #100)
 - **3-Point Rate:** 36.5% (Rank: #244)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 49.6% (Rank: #103)
+- **Opponent 2-Point Shooting:** 49.6% (Rank: #104)
 - **Opponent 3-Point Shooting:** 33.9% (Rank: #180)
 - **Block Percentage:** 10.7% (Rank: #114)
-- **Steal Rate:** 0.1% (Rank: #325)
+- **Steal Rate:** 0.1% (Rank: #326)
 
 ### Team Metrics
 
-- **Assist Rate:** 50.1% (Rank: #243)
+- **Assist Rate:** 50.1% (Rank: #244)
 - **Experience:** 1.5 years (Rank: #159)
 - **Bench Minutes:** 33.1% (Rank: #170)
 - **Average Height:** 77.8" (Rank: #109)
@@ -116,26 +116,26 @@ Nicholls St Colonels comes in ranked #231 overall by KenPom. Stopping opponents 
 - **Home Arena:** Stopher Gym
 - **KenPom Rank:** #231
 - **Offensive Efficiency:** 104.5 (Rank: #240)
-- **Defensive Efficiency:** 112.3 (Rank: #269)
+- **Defensive Efficiency:** 112.3 (Rank: #270)
 - **Tempo:** 69.6 (Rank: #152)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 49.7% (Rank: #247)
-- **3-Point Shooting:** 34.9% (Rank: #129)
-- **Free Throw Shooting:** 66.0% (Rank: #350)
-- **3-Point Rate:** 45.4% (Rank: #59)
+- **3-Point Shooting:** 34.9% (Rank: #128)
+- **Free Throw Shooting:** 66.0% (Rank: #349)
+- **3-Point Rate:** 45.4% (Rank: #58)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 57.1% (Rank: #327)
-- **Opponent 3-Point Shooting:** 36.3% (Rank: #294)
+- **Opponent 2-Point Shooting:** 57.1% (Rank: #326)
+- **Opponent 3-Point Shooting:** 36.3% (Rank: #295)
 - **Block Percentage:** 6.8% (Rank: #313)
 - **Steal Rate:** 0.1% (Rank: #12)
 
 ### Team Metrics
 
-- **Assist Rate:** 53.4% (Rank: #165)
+- **Assist Rate:** 53.4% (Rank: #164)
 - **Experience:** 1.8 years (Rank: #91)
 - **Bench Minutes:** 29.5% (Rank: #260)
 - **Average Height:** 77.5" (Rank: #156)

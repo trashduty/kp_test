@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UConn Huskies -16.5</p>
-  <p><strong>Moneyline:</strong> Providence Friars (+1060) | UConn Huskies (-2500)</p>
+  <p><strong>Spread:</strong> UConn Huskies -16.0</p>
+  <p><strong>Moneyline:</strong> Providence Friars (+1000) | UConn Huskies (-2100)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Providence Friars**: 16.5, Edge For Covering Spread: -2.4%
-- **UConn Huskies**: -16.5, Edge For Covering Spread: -2.4%
+- **Providence Friars**: 16.0, Edge For Covering Spread: -2.0%
+- **UConn Huskies**: -16.0, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **Providence Friars Win Probability**: 7.2%, Moneyline Edge: -1.4%
-- **UConn Huskies Win Probability**: 92.8%, Moneyline Edge: -3.4%
+- **Providence Friars Win Probability**: 7.4%, Moneyline Edge: -1.7%
+- **UConn Huskies Win Probability**: 92.6%, Moneyline Edge: -2.9%
 
 ### Total
 - **Predicted Total**: 156.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Over: -0.3%
+- Edge For Covering The Under: -4.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UConn Huskies (19-1) hosts Providence Friars (9-11) at Gampel Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UConn Huskies favored by 16.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UConn Huskies (19-1) hosts Providence Friars (9-11) at Gampel Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UConn Huskies favored by 16.0 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 16.5-point spread screams mismatch. The books are asking Providence Friars to hang within two possessions, which based on the profiles, requires UConn Huskies to play below their standard. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 16.0-point spread screams mismatch. The books are asking Providence Friars to hang within two possessions, which based on the profiles, requires UConn Huskies to play below their standard. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Providence Friars** bring an offensive efficiency of 117.75 (ranked #47 nationally). This is an elite offense that can score in multiple ways. Their 35.2% three-point shooting is serviceable but won't scare anyone. 
@@ -68,7 +68,7 @@ This looks like a mismatch on paper with UConn Huskies significantly higher in t
 
 **Key Matchup: UConn Huskies's Offense vs Providence Friars's Defense**
 
-UConn Huskies features a solid offense (ranked #69) that should find success against Providence Friars's defensive unit (ranked #280). 
+UConn Huskies features a solid offense (ranked #69) that should find success against Providence Friars's defensive unit (ranked #281). 
 
 **Pace of Play:** Providence Friars like to push the pace, while UConn Huskies prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
 
@@ -77,14 +77,14 @@ UConn Huskies features a solid offense (ranked #69) that should find success aga
 
 ## Providence Friars
 
-Providence Friars comes in ranked #75 overall by KenPom. They boast one of the nation's top offenses, ranked #47 in efficiency. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Providence Friars comes in ranked #74 overall by KenPom. They boast one of the nation's top offenses, ranked #47 in efficiency. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 9-11
 - **Head Coach:** Kim English
-- **KenPom Rank:** #75
+- **KenPom Rank:** #74
 - **Offensive Efficiency:** 117.7 (Rank: #47)
-- **Defensive Efficiency:** 112.9 (Rank: #280)
+- **Defensive Efficiency:** 112.9 (Rank: #281)
 - **Tempo:** 73.6 (Rank: #18)
 
 ### Shooting Breakdown
@@ -92,21 +92,21 @@ Providence Friars comes in ranked #75 overall by KenPom. They boast one of the n
 - **2-Point Shooting:** 56.5% (Rank: #52)
 - **3-Point Shooting:** 35.2% (Rank: #109)
 - **Free Throw Shooting:** 78.0% (Rank: #18)
-- **3-Point Rate:** 41.2% (Rank: #148)
+- **3-Point Rate:** 41.2% (Rank: #149)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 48.9% (Rank: #84)
-- **Opponent 3-Point Shooting:** 37.3% (Rank: #336)
-- **Block Percentage:** 10.9% (Rank: #103)
+- **Opponent 3-Point Shooting:** 37.3% (Rank: #337)
+- **Block Percentage:** 10.9% (Rank: #104)
 - **Steal Rate:** 0.1% (Rank: #296)
 
 ### Team Metrics
 
-- **Assist Rate:** 51.5% (Rank: #213)
-- **Experience:** 2.0 years (Rank: #62)
+- **Assist Rate:** 51.5% (Rank: #211)
+- **Experience:** 2.0 years (Rank: #63)
 - **Bench Minutes:** 33.8% (Rank: #146)
-- **Average Height:** 78.0" (Rank: #84)
+- **Average Height:** 78.0" (Rank: #85)
 
 ---
 
@@ -132,10 +132,10 @@ UConn Huskies comes in ranked #10 overall by KenPom. On the defensive end, they'
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 44.1% (Rank: #8)
+- **Opponent 2-Point Shooting:** 44.1% (Rank: #7)
 - **Opponent 3-Point Shooting:** 28.2% (Rank: #7)
 - **Block Percentage:** 15.0% (Rank: #13)
-- **Steal Rate:** 0.1% (Rank: #78)
+- **Steal Rate:** 0.1% (Rank: #77)
 
 ### Team Metrics
 

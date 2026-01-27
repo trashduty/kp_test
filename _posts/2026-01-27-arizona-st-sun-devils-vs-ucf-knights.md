@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arizona St Sun Devils**: 8.5, Edge For Covering Spread: -2.4%
-- **UCF Knights**: -8.5, Edge For Covering Spread: -2.4%
+- **Arizona St Sun Devils**: 8.5, Edge For Covering Spread: -2.6%
+- **UCF Knights**: -8.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
 - **Arizona St Sun Devils Win Probability**: 23.3%, Moneyline Edge: -1.3%
 - **UCF Knights Win Probability**: 76.7%, Moneyline Edge: -3.2%
 
 ### Total
-- **Predicted Total**: 162.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -3.4%
+- **Predicted Total**: 163.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 
@@ -52,7 +52,7 @@ A spread around 8.5 points tells us UCF Knights has clear advantages, but games 
 Meanwhile, **UCF Knights** counter with 117.49 offensive efficiency (#49). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 38.3%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-Arizona St Sun Devils operate at a 71.6 tempo (#57), while UCF Knights play at 71.8 (#53). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.7) should create a standard flow. 
+Arizona St Sun Devils operate at a 71.6 tempo (#56), while UCF Knights play at 71.8 (#52). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.7) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Arizona St Sun Devils shoot 52.9% on two-pointers, while UCF Knights convert at 54.2%. Both teams are evenly matched in paint efficiency. 
@@ -81,7 +81,7 @@ Arizona St Sun Devils comes in ranked #83 overall by KenPom. Defense has been a 
 - **KenPom Rank:** #83
 - **Offensive Efficiency:** 111.2 (Rank: #120)
 - **Defensive Efficiency:** 111.3 (Rank: #254)
-- **Tempo:** 71.6 (Rank: #57)
+- **Tempo:** 71.6 (Rank: #56)
 
 ### Shooting Breakdown
 
@@ -93,7 +93,7 @@ Arizona St Sun Devils comes in ranked #83 overall by KenPom. Defense has been a 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 53.9% (Rank: #260)
-- **Opponent 3-Point Shooting:** 35.6% (Rank: #262)
+- **Opponent 3-Point Shooting:** 35.6% (Rank: #264)
 - **Block Percentage:** 13.0% (Rank: #41)
 - **Steal Rate:** 0.1% (Rank: #153)
 
@@ -116,8 +116,8 @@ UCF Knights comes in ranked #44 overall by KenPom. They're dangerous from beyond
 - **Home Arena:** Addition Financial Arena
 - **KenPom Rank:** #44
 - **Offensive Efficiency:** 117.5 (Rank: #49)
-- **Defensive Efficiency:** 107.2 (Rank: #166)
-- **Tempo:** 71.8 (Rank: #53)
+- **Defensive Efficiency:** 107.2 (Rank: #167)
+- **Tempo:** 71.8 (Rank: #52)
 
 ### Shooting Breakdown
 
@@ -128,8 +128,8 @@ UCF Knights comes in ranked #44 overall by KenPom. They're dangerous from beyond
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.3% (Rank: #209)
-- **Opponent 3-Point Shooting:** 33.3% (Rank: #146)
+- **Opponent 2-Point Shooting:** 52.3% (Rank: #210)
+- **Opponent 3-Point Shooting:** 33.3% (Rank: #147)
 - **Block Percentage:** 8.4% (Rank: #243)
 - **Steal Rate:** 0.1% (Rank: #324)
 

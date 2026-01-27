@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Creighton Bluejays -1.5</p>
-  <p><strong>Moneyline:</strong> Creighton Bluejays (-137) | Marquette Golden Eagles (+114)</p>
+  <p><strong>Spread:</strong> Creighton Bluejays -2.5</p>
+  <p><strong>Moneyline:</strong> Creighton Bluejays (-144) | Marquette Golden Eagles (+122)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Creighton Bluejays**: -1.5, Edge For Covering Spread: -2.2%
-- **Marquette Golden Eagles**: 1.5, Edge For Covering Spread: -2.5%
+- **Creighton Bluejays**: -2.5, Edge For Covering Spread: -1.2%
+- **Marquette Golden Eagles**: 2.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Creighton Bluejays Win Probability**: 58.2%, Moneyline Edge: **0.3%**
-- **Marquette Golden Eagles Win Probability**: 41.8%, Moneyline Edge: -4.8%
+- **Creighton Bluejays Win Probability**: 58.9%, Moneyline Edge: -0.2%
+- **Marquette Golden Eagles Win Probability**: 41.1%, Moneyline Edge: -3.9%
 
 ### Total
 - **Predicted Total**: 154.5
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -0.7%
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Creighton Bluejays (12-8) travels to face Marquette Golden Eagles (7-14) at Fiserv Forum in what shapes up to be a competitive matchup. The early betting action has shaped into Creighton Bluejays favored by 1.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Creighton Bluejays (12-8) travels to face Marquette Golden Eagles (7-14) at Fiserv Forum in what shapes up to be a competitive matchup. The early betting action has shaped into Creighton Bluejays favored by 2.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Creighton Bluejays's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Creighton Bluejays's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Creighton Bluejays** bring an offensive efficiency of 114.40 (ranked #78 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.5% three-point shooting is serviceable but won't scare anyone. 
 Meanwhile, **Marquette Golden Eagles** counter with 105.23 offensive efficiency (#228). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 30.3%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
-Creighton Bluejays operate at a 68.6 tempo (#208), while Marquette Golden Eagles play at 70.9 (#85). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.8) should create a standard flow. 
+Creighton Bluejays operate at a 68.6 tempo (#207), while Marquette Golden Eagles play at 70.9 (#84). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.8) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Creighton Bluejays shoot 57.0% on two-pointers, while Marquette Golden Eagles convert at 50.5%. Creighton Bluejays has a clear edge in interior scoring efficiency. 
@@ -81,25 +81,25 @@ Creighton Bluejays comes in ranked #53 overall by KenPom.
 - **KenPom Rank:** #53
 - **Offensive Efficiency:** 114.4 (Rank: #78)
 - **Defensive Efficiency:** 107.9 (Rank: #179)
-- **Tempo:** 68.6 (Rank: #208)
+- **Tempo:** 68.6 (Rank: #207)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 57.0% (Rank: #45)
-- **3-Point Shooting:** 35.5% (Rank: #91)
-- **Free Throw Shooting:** 75.5% (Rank: #73)
+- **3-Point Shooting:** 35.5% (Rank: #92)
+- **Free Throw Shooting:** 75.5% (Rank: #72)
 - **3-Point Rate:** 48.5% (Rank: #24)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 49.2% (Rank: #96)
-- **Opponent 3-Point Shooting:** 34.3% (Rank: #201)
+- **Opponent 2-Point Shooting:** 49.2% (Rank: #97)
+- **Opponent 3-Point Shooting:** 34.3% (Rank: #202)
 - **Block Percentage:** 6.4% (Rank: #328)
 - **Steal Rate:** 0.1% (Rank: #264)
 
 ### Team Metrics
 
-- **Assist Rate:** 57.5% (Rank: #67)
+- **Assist Rate:** 57.5% (Rank: #66)
 - **Experience:** 1.9 years (Rank: #84)
 - **Bench Minutes:** 37.4% (Rank: #72)
 - **Average Height:** 78.4" (Rank: #47)
@@ -117,20 +117,20 @@ Marquette Golden Eagles comes in ranked #124 overall by KenPom. The three-point 
 - **KenPom Rank:** #124
 - **Offensive Efficiency:** 105.2 (Rank: #228)
 - **Defensive Efficiency:** 109.7 (Rank: #225)
-- **Tempo:** 70.9 (Rank: #85)
+- **Tempo:** 70.9 (Rank: #84)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 50.5% (Rank: #217)
-- **3-Point Shooting:** 30.3% (Rank: #325)
-- **Free Throw Shooting:** 67.8% (Rank: #316)
-- **3-Point Rate:** 41.3% (Rank: #145)
+- **3-Point Shooting:** 30.3% (Rank: #324)
+- **Free Throw Shooting:** 67.8% (Rank: #317)
+- **3-Point Rate:** 41.3% (Rank: #146)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.5% (Rank: #217)
+- **Opponent 2-Point Shooting:** 52.5% (Rank: #218)
 - **Opponent 3-Point Shooting:** 34.6% (Rank: #216)
-- **Block Percentage:** 7.7% (Rank: #282)
+- **Block Percentage:** 7.7% (Rank: #283)
 - **Steal Rate:** 0.1% (Rank: #20)
 
 ### Team Metrics

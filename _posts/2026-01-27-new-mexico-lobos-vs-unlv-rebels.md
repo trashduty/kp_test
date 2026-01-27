@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **New Mexico Lobos**: -4.5, Edge For Covering Spread: -1.9%
-- **UNLV Rebels**: 4.5, Edge For Covering Spread: -2.8%
+- **New Mexico Lobos**: -4.5, Edge For Covering Spread: -1.6%
+- **UNLV Rebels**: 4.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
 - **New Mexico Lobos Win Probability**: 64.9%, Moneyline Edge: -2.8%
 - **UNLV Rebels Win Probability**: 35.1%, Moneyline Edge: -1.6%
 
 ### Total
-- **Predicted Total**: 157.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 156.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -52,7 +52,7 @@ The 4.5-point spread indicates New Mexico Lobos is viewed as the better team, bu
 Meanwhile, **UNLV Rebels** counter with 109.10 offensive efficiency (#163). Points have been hard to come by, making every possession critical. At 32.1% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-New Mexico Lobos operate at a 71.1 tempo (#77), while UNLV Rebels play at 71.5 (#62). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.3) should create a standard flow. 
+New Mexico Lobos operate at a 71.1 tempo (#78), while UNLV Rebels play at 71.5 (#62). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.3) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, New Mexico Lobos shoot 54.1% on two-pointers, while UNLV Rebels convert at 53.8%. Both teams are evenly matched in paint efficiency. 
@@ -81,12 +81,12 @@ New Mexico Lobos comes in ranked #46 overall by KenPom. On the defensive end, th
 - **KenPom Rank:** #46
 - **Offensive Efficiency:** 112.8 (Rank: #101)
 - **Defensive Efficiency:** 96.9 (Rank: #19)
-- **Tempo:** 71.1 (Rank: #77)
+- **Tempo:** 71.1 (Rank: #78)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 54.1% (Rank: #101)
-- **3-Point Shooting:** 34.2% (Rank: #162)
+- **3-Point Shooting:** 34.2% (Rank: #161)
 - **Free Throw Shooting:** 74.4% (Rank: #108)
 - **3-Point Rate:** 44.5% (Rank: #82)
 
@@ -99,7 +99,7 @@ New Mexico Lobos comes in ranked #46 overall by KenPom. On the defensive end, th
 
 ### Team Metrics
 
-- **Assist Rate:** 51.9% (Rank: #201)
+- **Assist Rate:** 51.9% (Rank: #200)
 - **Experience:** 0.9 years (Rank: #306)
 - **Bench Minutes:** 33.3% (Rank: #163)
 - **Average Height:** 77.7" (Rank: #134)
@@ -122,21 +122,21 @@ UNLV Rebels comes in ranked #121 overall by KenPom.
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 53.8% (Rank: #107)
-- **3-Point Shooting:** 32.1% (Rank: #258)
-- **Free Throw Shooting:** 67.3% (Rank: #330)
+- **3-Point Shooting:** 32.1% (Rank: #257)
+- **Free Throw Shooting:** 67.3% (Rank: #331)
 - **3-Point Rate:** 34.9% (Rank: #280)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 52.2% (Rank: #206)
-- **Opponent 3-Point Shooting:** 33.4% (Rank: #151)
+- **Opponent 3-Point Shooting:** 33.4% (Rank: #152)
 - **Block Percentage:** 11.1% (Rank: #97)
-- **Steal Rate:** 0.1% (Rank: #70)
+- **Steal Rate:** 0.1% (Rank: #69)
 
 ### Team Metrics
 
-- **Assist Rate:** 52.4% (Rank: #190)
+- **Assist Rate:** 52.4% (Rank: #189)
 - **Experience:** 1.4 years (Rank: #176)
-- **Bench Minutes:** 31.9% (Rank: #198)
+- **Bench Minutes:** 31.9% (Rank: #197)
 - **Average Height:** 77.5" (Rank: #162)
 

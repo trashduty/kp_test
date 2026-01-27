@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> NC State Wolfpack -11.0</p>
-  <p><strong>Moneyline:</strong> Syracuse Orange (+500) | NC State Wolfpack (-780)</p>
+  <p><strong>Spread:</strong> NC State Wolfpack -10.5</p>
+  <p><strong>Moneyline:</strong> Syracuse Orange (+490) | NC State Wolfpack (-710)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Syracuse Orange**: 11.0, Edge For Covering Spread: -1.0%
-- **NC State Wolfpack**: -11.0, Edge For Covering Spread: -3.8%
+- **Syracuse Orange**: 10.5, Edge For Covering Spread: -0.9%
+- **NC State Wolfpack**: -10.5, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **Syracuse Orange Win Probability**: 16.4%, Moneyline Edge: -0.3%
-- **NC State Wolfpack Win Probability**: 83.6%, Moneyline Edge: -5.1%
+- **Syracuse Orange Win Probability**: 16.6%, Moneyline Edge: -0.3%
+- **NC State Wolfpack Win Probability**: 83.4%, Moneyline Edge: -4.3%
 
 ### Total
 - **Predicted Total**: 152.0
-- Edge For Covering The Over: -1.9%
-- Edge For Covering The Under: -2.9%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.1%
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-NC State Wolfpack (14-6) hosts Syracuse Orange (12-8) at Lenovo Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into NC State Wolfpack favored by 11.0 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+NC State Wolfpack (14-6) hosts Syracuse Orange (12-8) at Lenovo Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into NC State Wolfpack favored by 10.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.0 points tells us NC State Wolfpack has clear advantages, but games aren't played on paper. Syracuse Orange needs to punch above their weight class to keep this close. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 10.5 points tells us NC State Wolfpack has clear advantages, but games aren't played on paper. Syracuse Orange needs to punch above their weight class to keep this close. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Syracuse Orange** bring an offensive efficiency of 109.48 (ranked #152 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.5% three-point shooting is serviceable but won't scare anyone. 
 Meanwhile, **NC State Wolfpack** counter with 119.98 offensive efficiency (#27). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 39.4%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-Syracuse Orange operate at a 68.4 tempo (#211), while NC State Wolfpack play at 70.2 (#115). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.3) should create a standard flow. 
+Syracuse Orange operate at a 68.4 tempo (#211), while NC State Wolfpack play at 70.2 (#116). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.3) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Syracuse Orange shoot 54.9% on two-pointers, while NC State Wolfpack convert at 54.2%. Both teams are evenly matched in paint efficiency. 
@@ -73,20 +73,20 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Syracuse Orange
 
-Syracuse Orange comes in ranked #74 overall by KenPom. Their defense has been a calling card this season, making life difficult for opposing offenses. 
+Syracuse Orange comes in ranked #75 overall by KenPom. Their defense has been a calling card this season, making life difficult for opposing offenses. 
 
 ### Record & Ranking
 - **Record:** 12-8
 - **Head Coach:** Adrian Autry
-- **KenPom Rank:** #74
+- **KenPom Rank:** #75
 - **Offensive Efficiency:** 109.5 (Rank: #152)
-- **Defensive Efficiency:** 99.5 (Rank: #38)
+- **Defensive Efficiency:** 99.5 (Rank: #37)
 - **Tempo:** 68.4 (Rank: #211)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 54.9% (Rank: #79)
-- **3-Point Shooting:** 33.5% (Rank: #205)
+- **3-Point Shooting:** 33.5% (Rank: #204)
 - **Free Throw Shooting:** 63.7% (Rank: #363)
 - **3-Point Rate:** 36.3% (Rank: #247)
 
@@ -99,9 +99,9 @@ Syracuse Orange comes in ranked #74 overall by KenPom. Their defense has been a 
 
 ### Team Metrics
 
-- **Assist Rate:** 48.7% (Rank: #275)
+- **Assist Rate:** 48.7% (Rank: #274)
 - **Experience:** 2.0 years (Rank: #56)
-- **Bench Minutes:** 31.8% (Rank: #199)
+- **Bench Minutes:** 31.8% (Rank: #198)
 - **Average Height:** 78.2" (Rank: #62)
 
 ---
@@ -117,7 +117,7 @@ NC State Wolfpack comes in ranked #26 overall by KenPom. They're dangerous from 
 - **KenPom Rank:** #26
 - **Offensive Efficiency:** 120.0 (Rank: #27)
 - **Defensive Efficiency:** 101.3 (Rank: #53)
-- **Tempo:** 70.2 (Rank: #115)
+- **Tempo:** 70.2 (Rank: #116)
 
 ### Shooting Breakdown
 
@@ -128,9 +128,9 @@ NC State Wolfpack comes in ranked #26 overall by KenPom. They're dangerous from 
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.1% (Rank: #161)
+- **Opponent 2-Point Shooting:** 51.1% (Rank: #160)
 - **Opponent 3-Point Shooting:** 33.5% (Rank: #160)
-- **Block Percentage:** 11.3% (Rank: #91)
+- **Block Percentage:** 11.3% (Rank: #92)
 - **Steal Rate:** 0.1% (Rank: #28)
 
 ### Team Metrics
