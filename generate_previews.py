@@ -620,13 +620,13 @@ def generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, aw
     # Spread discussion
     sections.append("\n#### Breaking Down the Spread\n")
     if spread_value < 3:
-        sections.append(f"A spread under 3 points suggests the books see this as essentially a coin flip. {favorite}'s {spread_value:.1f}-point cushion reflects home court advantage more than a talent disparity. ")
+        sections.append(f"A spread under 3 points suggests the books see this as essentially a coin flip. {favorite}'s {spread_value:.1f}-point cushion reflects home court advantage more than a talent gap. ")
     elif spread_value < 7:
-        sections.append(f"The {spread_value:.1f}-point spread indicates {favorite} is viewed as the better team, but this isn't an overwhelming edge. {underdog} has a legitimate path to covering or winning outright with a solid performance. ")
+        sections.append(f"The {spread_value:.1f}-point spread indicates {favorite} is viewed as the better team, but this isn't an overwhelming edge. {underdog} has a legitimate path to covering or winning outright. ")
     elif spread_value < 12:
-        sections.append(f"A spread around {spread_value:.1f} points tells us {favorite} has clear advantages, but games aren't played on paper. {underdog} needs to punch above their weight class to keep this competitive. ")
+        sections.append(f"A spread around {spread_value:.1f} points tells us {favorite} has clear advantages, but games aren't played on paper. {underdog} needs to punch above their weight class to keep this close. ")
     else:
-        sections.append(f"The {spread_value:.1f}-point spread screams mismatch. The books are asking {underdog} to hang within two possessions, which based on the profiles, requires {favorite} to play below their standard. ")
+        sections.append(f"The {spread_value:.1f}-point spread screams mismatch. The books are asking {underdog} to hang within two possessions, which based on the profiles, requires {favorite} to play below their standards. ")
     
     if total < 135:
         sections.append(f"The total of {total:.1f} suggests a defensive slugfest or slower tempo that limits possessions. ")
@@ -779,7 +779,7 @@ def generate_game_narrative(away_team, home_team, away_stats, home_stats):
     else:
         favorite = away_team if away_rank < home_rank else home_team
         underdog = home_team if away_rank < home_rank else away_team
-        narrative += f"This looks like a mismatch on paper with {favorite} significantly higher in the rankings, but as they say, that's why they play the games. {underdog} will need their best performance of the season to pull off the upset. "
+        narrative += f"This looks like a mismatch on paper with {favorite} significantly higher in the rankings, but as they say, that's why they play the games. {underdog} will need their best performance of the season to hang in this one. "
     
     # Offensive vs Defensive matchup
     narrative += "\n\n**Key Matchup: "
@@ -808,7 +808,7 @@ def generate_game_narrative(away_team, home_team, away_stats, home_stats):
     
     # Three-point shooting matchup
     if away_fg3_pct > 35 and home_opp_fg3_pct < 32:
-        narrative += f"\n\n**X-Factor:** {away_team} can light it up from three-point range ({away_fg3_pct:.1f}%), but {home_team} defend the arc exceptionally well, holding opponents to just {home_opp_fg3_pct:.1f}%. This battle could determine the outcome. "
+        narrative += f"\n\n**X-Factor:** {away_team} can light it up from three-point range ({away_fg3_pct:.1f}%), but {home_team} defend the arc exceptionally well, holding opponents to just {home_opp_fg3_pct:.1f}%. Something's got to give. "
     elif home_fg3_pct > 35 and away_opp_fg3_pct < 32:
         narrative += f"\n\n**X-Factor:** {home_team}'s three-point shooting ({home_fg3_pct:.1f}%) faces a tough test against {away_team}'s perimeter defense, which limits opponents to {away_opp_fg3_pct:.1f}% from deep. "
     elif away_fg3_pct > 37 and home_fg3_pct > 37:
@@ -835,11 +835,7 @@ def generate_predictions_section(away_team, home_team, away_predictions, home_pr
     under_edge = format_percentage(away_predictions.get('Under Total Edge', 'N/A'))
     
     predictions = f"""
----
-
 ## Model Predictions
-
-All that being said, here's how our model prices this game.
 
 ### Spread
 - **{away_team}**: {away_spread}, Edge For Covering Spread: {away_spread_edge}
@@ -983,6 +979,9 @@ categories: [basketball, preview]
     # Add betting information
     post += generate_betting_info(away_team, home_team, away_predictions, home_predictions)
     
+    # Add model predictions section RIGHT AFTER betting lines
+    post += "\n" + generate_predictions_section(away_team, home_team, away_predictions, home_predictions)
+    
     # Add enhanced narrative with betting insights
     post += "\n" + generate_enhanced_narrative(away_team, home_team, away_stats, home_stats, away_predictions, home_predictions)
     
@@ -993,7 +992,6 @@ categories: [basketball, preview]
     post += "\n---\n"
     post += team_section(home_team, home_stats, is_away=False)
     post += "\n"
-    post += generate_predictions_section(away_team, home_team, away_predictions, home_predictions)
     
     return post
 
