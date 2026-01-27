@@ -2,16 +2,20 @@
 """
 Generate VS graphics for daily basketball matchups.
 
-This script:
-1. Downloads kp.csv and logos.csv from the trashduty/cbb repository
-2. Identifies games for today and tomorrow
-3. Matches team names with logos
-4. Generates PNG images (1200x600px) showing:
+This script follows a 5-step process:
+1. Check games for today and tomorrow using CBB_Output.csv (from Google Sheets)
+2. Take the name of the team from the "team" column
+3. Search for that name in data/crosswalk.csv under the "API" column
+4. Use the kenpom name to search kp.csv in the column "team" (check "side" for home/away)
+5. Use that same kenpom name to search for logo in data/logos.csv
+
+The script generates PNG images (1200x600px) showing:
    - Away team logo (left)
    - "VS" text (center)
    - Home team logo (right)
    - Game date (bottom)
-5. Saves images to _vs_graphics/ directory
+   
+Saves images to _vs_graphics/ directory
 """
 
 import pandas as pd
@@ -24,7 +28,8 @@ import re
 
 
 # Constants
-KP_CSV_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/data/kp.csv"
+CBB_OUTPUT_URL = "https://docs.google.com/spreadsheets/d/1vF_w3u2ngSwyjL99KPe34H-LxSNm1lQAmN4PV32z7qE/export?format=csv&gid=0"
+KP_CSV_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/kp.csv"  # For step 4 (checking "side" column)
 LOGOS_CSV_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/data/logos.csv"
 CROSSWALK_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/data/crosswalk.csv"
 OUTPUT_DIR = "_vs_graphics"
@@ -122,7 +127,10 @@ def download_logo(url, cache_dir="_logo_cache"):
     
     # Download logo
     try:
-        response = requests.get(url, timeout=10)
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+        response = requests.get(url, timeout=10, headers=headers)
         response.raise_for_status()
         
         # Handle SVG files
@@ -338,12 +346,13 @@ def main():
     
     # Download data
     print("Downloading data files...")
-    kp_df = download_csv(KP_CSV_URL)
+    cbb_output_df = download_csv(CBB_OUTPUT_URL)  # Step 1
     logos_df = download_csv(LOGOS_CSV_URL)
     crosswalk_df = download_csv(CROSSWALK_URL)
+    kp_df = download_csv(KP_CSV_URL)  # For step 4
     
-    print(f"Loaded {len(kp_df)} rows from kp.csv")
-    print(f"kp.csv columns: {list(kp_df.columns)}")
+    print(f"Loaded {len(cbb_output_df)} rows from CBB_Output.csv")
+    print(f"CBB_Output.csv columns: {list(cbb_output_df.columns)}")
     print(f"Loaded {len(logos_df)} logos from logos.csv")
     print(f"logos.csv columns: {list(logos_df.columns)}")
     
@@ -351,45 +360,107 @@ def main():
     target_dates = get_target_dates()
     print(f"Filtering for dates: {target_dates}")
     
-    # Filter for target dates
-    kp_df['Game Date'] = kp_df['Game Date'].astype(str)
-    games_df = kp_df[kp_df['Game Date'].isin(target_dates)].copy()
+    # Step 1: Filter CBB_Output.csv for today and tomorrow
+    # Convert date column to string format for comparison
+    if 'Game Date' in cbb_output_df.columns:
+        cbb_output_df['Game Date'] = cbb_output_df['Game Date'].astype(str)
+        games_df = cbb_output_df[cbb_output_df['Game Date'].isin(target_dates)].copy()
+    elif 'game_date' in cbb_output_df.columns:
+        cbb_output_df['game_date'] = cbb_output_df['game_date'].astype(str)
+        games_df = cbb_output_df[cbb_output_df['game_date'].isin(target_dates)].copy()
+        games_df.rename(columns={'game_date': 'Game Date'}, inplace=True)
+    else:
+        print("ERROR: Could not find date column in CBB_Output.csv")
+        return
     
-    print(f"Found {len(games_df)} game rows for target dates")
+    print(f"Found {len(games_df)} team rows for target dates")
     
-    # Group by game to avoid duplicates (each game has 2 rows)
-    games_df['game_key'] = games_df['Game Date'] + '_' + games_df['Away Team'] + '_' + games_df['Home Team']
-    unique_games = games_df.drop_duplicates(subset='game_key')
+    # Each game has 2 rows (one per team), group them
+    # We need to pair up the teams to create matchups
+    games_by_date_game = games_df.groupby(['Game Date', 'Game'])
+    
+    processed_games = set()
+    unique_games = []
+    
+    for (game_date, game_name), group in games_by_date_game:
+        game_key = f"{game_date}_{game_name}"
+        if game_key in processed_games:
+            continue
+        
+        teams_in_game = group['team'].tolist()
+        if len(teams_in_game) == 2:
+            unique_games.append({
+                'Game Date': game_date,
+                'Game': game_name,
+                'Team1': teams_in_game[0],
+                'Team2': teams_in_game[1]
+            })
+            processed_games.add(game_key)
     
     print(f"Processing {len(unique_games)} unique games...")
     
     # Generate graphics for each game
     generated_count = 0
-    for idx, row in unique_games.iterrows():
-        away_team = row['Away Team']
-        home_team = row['Home Team']
-        game_date = row['Game Date']
+    for game in unique_games:
+        team1_api_name = game['Team1']
+        team2_api_name = game['Team2']
+        game_date = game['Game Date']
         
         print(f"\n{'='*60}")
-        print(f"Processing: {away_team} @ {home_team} on {game_date}")
+        print(f"Processing: {team1_api_name} vs {team2_api_name} on {game_date}")
         print(f"{'='*60}")
         
-        # Step 2-3: Convert team names using crosswalk
-        print(f"Converting team names using crosswalk...")
-        away_kenpom_name = convert_api_to_kenpom_name(away_team, crosswalk_df)
-        home_kenpom_name = convert_api_to_kenpom_name(home_team, crosswalk_df)
+        # Step 2-3: Convert API names to KenPom names using crosswalk
+        team1_kenpom = convert_api_to_kenpom_name(team1_api_name, crosswalk_df)
+        team2_kenpom = convert_api_to_kenpom_name(team2_api_name, crosswalk_df)
         
-        # Step 5: Match logos using kenpom names
-        try:
-            away_logo_url = find_team_logo(away_kenpom_name, logos_df)
-        except Exception as e:
-            print(f"  ✗ Error matching away team logo: {e}")
-            away_logo_url = None
+        # Step 4: Determine which team is home/away using kp.csv "side" column
+        team1_side = None
+        team2_side = None
+        
+        if 'team' in kp_df.columns and 'side' in kp_df.columns:
+            team1_match = kp_df[kp_df['team'] == team1_kenpom]
+            if not team1_match.empty:
+                team1_side = team1_match.iloc[0]['side']
+                print(f"  [Step 4] {team1_kenpom} is playing {team1_side}")
             
+            team2_match = kp_df[kp_df['team'] == team2_kenpom]
+            if not team2_match.empty:
+                team2_side = team2_match.iloc[0]['side']
+                print(f"  [Step 4] {team2_kenpom} is playing {team2_side}")
+        
+        # Determine away and home teams
+        if team1_side == 'away' and team2_side == 'home':
+            away_team = team1_api_name
+            home_team = team2_api_name
+            away_kenpom = team1_kenpom
+            home_kenpom = team2_kenpom
+        elif team1_side == 'home' and team2_side == 'away':
+            away_team = team2_api_name
+            home_team = team1_api_name
+            away_kenpom = team2_kenpom
+            home_kenpom = team1_kenpom
+        else:
+            # Fallback: use first team as away, second as home
+            print(f"  ⚠ Could not determine home/away from 'side' column, using default order")
+            away_team = team1_api_name
+            home_team = team2_api_name
+            away_kenpom = team1_kenpom
+            home_kenpom = team2_kenpom
+        
+        print(f"  Matchup: {away_team} (away) @ {home_team} (home)")
+        
+        # Step 5: Find logos using KenPom names
         try:
-            home_logo_url = find_team_logo(home_kenpom_name, logos_df)
+            away_logo_url = find_team_logo(away_kenpom, logos_df)
         except Exception as e:
-            print(f"  ✗ Error matching home team logo: {e}")
+            print(f"  ✗ Error finding away team logo: {e}")
+            away_logo_url = None
+        
+        try:
+            home_logo_url = find_team_logo(home_kenpom, logos_df)
+        except Exception as e:
+            print(f"  ✗ Error finding home team logo: {e}")
             home_logo_url = None
         
         # Generate filename
