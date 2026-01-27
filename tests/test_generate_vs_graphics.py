@@ -14,6 +14,7 @@ from generate_vs_graphics import (
     find_team_logo,
     convert_api_to_kenpom_name,
     get_target_dates,
+    parse_game_time_to_date,
     create_placeholder_logo,
     IMAGE_WIDTH,
     IMAGE_HEIGHT,
@@ -148,6 +149,40 @@ def test_convert_api_to_kenpom_name_empty_df():
     print("✓ Crosswalk returns original name with empty DataFrame")
 
 
+def test_parse_game_time_to_date():
+    """Test parsing game time strings to date format"""
+    current_year = datetime.now().year
+    
+    # Test valid game time string
+    result = parse_game_time_to_date('Jan 27 02:00PM ET')
+    assert result is not None
+    assert len(result) == 8
+    assert result.isdigit()
+    
+    # Verify it's the correct format (YYYYMMDD) and correct year
+    date_obj = datetime.strptime(result, '%Y%m%d')
+    assert date_obj.year == current_year
+    assert date_obj.month == 1
+    assert date_obj.day == 27
+    
+    # Test another date
+    result2 = parse_game_time_to_date('Dec 15 11:30PM ET')
+    assert result2 is not None
+    date_obj2 = datetime.strptime(result2, '%Y%m%d')
+    assert date_obj2.year == current_year
+    assert date_obj2.month == 12
+    assert date_obj2.day == 15
+    
+    print("✓ Game time parsing to date format works correctly")
+
+
+def test_parse_game_time_to_date_invalid():
+    """Test that invalid game time strings return None"""
+    result = parse_game_time_to_date('Invalid Date')
+    assert result is None
+    print("✓ Invalid game time strings return None")
+
+
 if __name__ == '__main__':
     test_slugify()
     test_find_team_logo_exact_match()
@@ -160,4 +195,6 @@ if __name__ == '__main__':
     test_convert_api_to_kenpom_name_not_found()
     test_convert_api_to_kenpom_name_case_insensitive()
     test_convert_api_to_kenpom_name_empty_df()
+    test_parse_game_time_to_date()
+    test_parse_game_time_to_date_invalid()
     print("\n✅ All tests passed!")
