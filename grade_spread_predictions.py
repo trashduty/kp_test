@@ -98,37 +98,52 @@ def find_team_in_kenpom(team_name, kenpom_df):
     return best_match
 
 
-def find_team_logo(team_name, logos_df, crosswalk_df):
-    """Find team logo URL from logos dataframe using crosswalk for name conversion."""
+def convert_api_to_kenpom_name(team_name, crosswalk_df):
+    """
+    Step 2-3: Convert team name from API format to KenPom format using crosswalk.
     
-    # Step 1: Find the team in crosswalk.csv and get the kenpom name
-    kenpom_name = None
-    if crosswalk_df is not None and not crosswalk_df.empty:
-        # Search for team_name in the 'API' column of crosswalk
-        team_name_lower = team_name.strip().lower()
-        for _, row in crosswalk_df.iterrows():
-            api_name = str(row['API']).strip().lower()
-            if api_name == team_name_lower:
-                kenpom_name = str(row['kenpom']).strip()
-                print(f"  Found '{team_name}' in crosswalk -> kenpom name: '{kenpom_name}'")
-                break
+    Args:
+        team_name: Team name from CBB_Output.csv "team" column
+        crosswalk_df: DataFrame loaded from data/crosswalk.csv
     
-    # If not found in crosswalk, use original team name
-    if not kenpom_name:
-        kenpom_name = team_name
-        print(f"  '{team_name}' not found in crosswalk, using original name")
+    Returns:
+        KenPom name from crosswalk "kenpom" column, or original name if not found
+    """
+    if crosswalk_df is None or crosswalk_df.empty:
+        return team_name
     
-    # Step 2: Use the kenpom name to search logos.csv in the 'ncaa_name' column
+    team_name_lower = team_name.strip().lower()
+    for _, row in crosswalk_df.iterrows():
+        api_name = str(row['API']).strip().lower()
+        if api_name == team_name_lower:
+            kenpom_name = str(row['kenpom']).strip()
+            print(f"  [Crosswalk] '{team_name}' (API) -> '{kenpom_name}' (kenpom)")
+            return kenpom_name
+    
+    print(f"  [Crosswalk] '{team_name}' not found in crosswalk, using original name")
+    return team_name
+
+
+def find_team_logo(kenpom_name, logos_df):
+    """
+    Step 5: Find team logo using the kenpom name.
+    
+    Args:
+        kenpom_name: Team name in KenPom format (from crosswalk conversion)
+        logos_df: DataFrame loaded from data/logos.csv
+    
+    Returns:
+        Logo URL or placeholder
+    """
     if 'ncaa_name' in logos_df.columns:
         for _, row in logos_df.iterrows():
             ncaa_name = str(row['ncaa_name']).strip()
             if ncaa_name == kenpom_name:
                 logo_url = row['logos']
-                print(f"  Found logo for '{kenpom_name}': {logo_url}")
+                print(f"  [Logo] Found logo for '{kenpom_name}': {logo_url}")
                 return logo_url
     
-    # If still not found, return placeholder
-    print(f"  Warning: No logo found for '{team_name}' (kenpom: '{kenpom_name}')")
+    print(f"  [Logo] Warning: No logo found for '{kenpom_name}'")
     return "https://via.placeholder.com/150"
 
 
@@ -1140,51 +1155,61 @@ def main():
         
         team1, team2 = teams[0], teams[1]
         
-        # Determine away and home teams using kp.csv
+        # Step 2: Get team names from "team" column (already done above)
+        # Step 3: Convert using crosswalk (API -> kenpom)
+        print(f"  Step 2-3: Converting team names using crosswalk...")
+        team1_kenpom = convert_api_to_kenpom_name(team1, crosswalk_data)
+        team2_kenpom = convert_api_to_kenpom_name(team2, crosswalk_data)
+        
+        # Step 4: Use kenpom names to search kp.csv "team" column, check "side" column
         # Convert kp date format to match target dates
         kp_today = today.strftime('%Y-%m-%d')
         kp_tomorrow = tomorrow.strftime('%Y-%m-%d')
         
-        # Normalize team names for matching with kp.csv
-        team1_normalized = normalize_team_name(team1)
-        team2_normalized = normalize_team_name(team2)
-        
-        # Find entries in kp.csv for these dates and teams
+        print(f"  Step 4: Searching kp.csv for kenpom names...")
+        # Find entries in kp.csv for these dates and teams using exact kenpom names
         team1_kp = kp_data[
             ((kp_data['date'] == kp_today) | (kp_data['date'] == kp_tomorrow)) &
-            ((kp_data['team'] == team1) | (kp_data['team'] == team1_normalized))
+            (kp_data['team'] == team1_kenpom)
         ]
         
         team2_kp = kp_data[
             ((kp_data['date'] == kp_today) | (kp_data['date'] == kp_tomorrow)) &
-            ((kp_data['team'] == team2) | (kp_data['team'] == team2_normalized))
+            (kp_data['team'] == team2_kenpom)
         ]
         
-        # Determine away/home based on 'side' column
+        # Determine away/home based on 'side' column from kp.csv
         if not team1_kp.empty and 'side' in team1_kp.columns:
             team1_side = team1_kp.iloc[0]['side']
+            print(f"  Found team1 ({team1_kenpom}) side: {team1_side}")
             if team1_side == 'away':
                 away_team, home_team = team1, team2
+                away_team_kenpom, home_team_kenpom = team1_kenpom, team2_kenpom
             else:
                 away_team, home_team = team2, team1
+                away_team_kenpom, home_team_kenpom = team2_kenpom, team1_kenpom
         elif not team2_kp.empty and 'side' in team2_kp.columns:
             team2_side = team2_kp.iloc[0]['side']
+            print(f"  Found team2 ({team2_kenpom}) side: {team2_side}")
             if team2_side == 'away':
                 away_team, home_team = team2, team1
+                away_team_kenpom, home_team_kenpom = team2_kenpom, team1_kenpom
             else:
                 away_team, home_team = team1, team2
+                away_team_kenpom, home_team_kenpom = team1_kenpom, team2_kenpom
         else:
             # Fallback: use order from game name if possible
             print(f"  Warning: Could not determine away/home from kp.csv for {game_name}")
             print(f"  Using team order from game name as fallback")
             away_team, home_team = team1, team2
+            away_team_kenpom, home_team_kenpom = team1_kenpom, team2_kenpom
         
-        print(f"  Away: {away_team}")
-        print(f"  Home: {home_team}")
+        print(f"  Away: {away_team} (kenpom: {away_team_kenpom})")
+        print(f"  Home: {home_team} (kenpom: {home_team_kenpom})")
         
-        # Find stats for both teams
-        away_stats = find_team_in_kenpom(away_team, kenpom_stats)
-        home_stats = find_team_in_kenpom(home_team, kenpom_stats)
+        # Find stats for both teams using kenpom names
+        away_stats = find_team_in_kenpom(away_team_kenpom, kenpom_stats)
+        home_stats = find_team_in_kenpom(home_team_kenpom, kenpom_stats)
         
         if away_stats is None:
             print(f"  Warning: Could not find stats for {away_team}")
@@ -1198,9 +1223,10 @@ def main():
         print(f"  Away team matched: {away_stats.get('Team', 'Unknown')} (Rank: {away_stats.get('Rk', 'N/A')})")
         print(f"  Home team matched: {home_stats.get('Team', 'Unknown')} (Rank: {home_stats.get('Rk', 'N/A')})")
         
-        # Find logos for both teams
-        away_logo = find_team_logo(away_team, logos_data, crosswalk_data)
-        home_logo = find_team_logo(home_team, logos_data, crosswalk_data)
+        # Step 5: Find logos for both teams using kenpom names
+        print(f"  Step 5: Looking up logos using kenpom names...")
+        away_logo = find_team_logo(away_team_kenpom, logos_data)
+        home_logo = find_team_logo(home_team_kenpom, logos_data)
         print(f"  Away logo: {away_logo}")
         print(f"  Home logo: {home_logo}")
         
