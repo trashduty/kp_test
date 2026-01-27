@@ -327,6 +327,18 @@ def generate_vs_graphic(away_team, home_team, game_date_str, away_logo_url, home
     print(f"Generated: {output_path}")
 
 
+def parse_game_time_to_date(game_time_str):
+    """Parse game time string to date in YYYYMMDD format."""
+    try:
+        time_str = game_time_str.replace(' ET', '')
+        current_year = datetime.now().year
+        dt = datetime.strptime(f"{current_year} {time_str}", "%Y %b %d %I:%M%p")
+        return dt.strftime('%Y%m%d')
+    except Exception as e:
+        print(f"Error parsing time '{game_time_str}': {e}")
+        return None
+
+
 def get_target_dates():
     """Get today and tomorrow's dates in YYYYMMDD format."""
     today = datetime.now()
@@ -360,23 +372,22 @@ def main():
     target_dates = get_target_dates()
     print(f"Filtering for dates: {target_dates}")
     
-    # Step 1: Filter CBB_Output.csv for today and tomorrow
-    # Convert date column to string format for comparison
-    if 'Game Date' in cbb_output_df.columns:
-        cbb_output_df['Game Date'] = cbb_output_df['Game Date'].astype(str)
-        games_df = cbb_output_df[cbb_output_df['Game Date'].isin(target_dates)].copy()
-    elif 'game_date' in cbb_output_df.columns:
-        cbb_output_df['game_date'] = cbb_output_df['game_date'].astype(str)
-        games_df = cbb_output_df[cbb_output_df['game_date'].isin(target_dates)].copy()
-        games_df.rename(columns={'game_date': 'Game Date'}, inplace=True)
+    # Step 1: Filter CBB_Output.csv for today and tomorrow using Game Time column
+    if 'Game Time' in cbb_output_df.columns:
+        # Parse Game Time to extract date in YYYYMMDD format
+        cbb_output_df['parsed_date'] = cbb_output_df['Game Time'].apply(parse_game_time_to_date)
+        # Filter for games on target dates
+        games_df = cbb_output_df[cbb_output_df['parsed_date'].isin(target_dates)].copy()
+        games_df['Game Date'] = games_df['parsed_date']  # Add Game Date column for consistency
     else:
-        print("ERROR: Could not find date column in CBB_Output.csv")
+        print("ERROR: Could not find 'Game Time' column in CBB_Output.csv")
+        print(f"Available columns: {list(cbb_output_df.columns)}")
         return
     
     print(f"Found {len(games_df)} team rows for target dates")
     
     # Validate required columns exist
-    required_columns = ['Game', 'team']
+    required_columns = ['Game', 'Team']
     missing_columns = [col for col in required_columns if col not in games_df.columns]
     if missing_columns:
         print(f"ERROR: Missing required columns in CBB_Output.csv: {missing_columns}")
@@ -395,7 +406,7 @@ def main():
         if game_key in processed_games:
             continue
         
-        teams_in_game = group['team'].tolist()
+        teams_in_game = group['Team'].tolist()
         if len(teams_in_game) == 2:
             unique_games.append({
                 'Game Date': game_date,
