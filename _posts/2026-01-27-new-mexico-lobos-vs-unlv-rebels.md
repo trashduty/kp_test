@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **New Mexico Lobos**: -4.5, Edge For Covering Spread: -1.9%
+- **UNLV Rebels**: 4.5, Edge For Covering Spread: -2.8%
+
+### Moneyline
+- **New Mexico Lobos Win Probability**: 64.9%
+- **UNLV Rebels Win Probability**: 35.1%
+
+### Total
+- **Predicted Total**: 157.0
+- **Edge For Covering The Over**: -3.2%
+- **Edge For Covering The Under**: -1.6%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 New Mexico Lobos (16-4) travels to face UNLV Rebels (10-9) at Thomas & Mack Center in what shapes up to be a competitive matchup. The early betting action has shaped into New Mexico Lobos favored by 4.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates New Mexico Lobos is viewed as the better team, but this isn't an overwhelming edge. UNLV Rebels has a legitimate path to covering or winning outright with a solid performance. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 4.5-point spread indicates New Mexico Lobos is viewed as the better team, but this isn't an overwhelming edge. UNLV Rebels has a legitimate path to covering or winning outright. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **New Mexico Lobos** bring an offensive efficiency of 112.81 (ranked #101 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.2% three-point shooting is serviceable but won't scare anyone. 
@@ -40,7 +60,7 @@ From a coaching perspective, Eric Olen leads New Mexico Lobos while Josh Pastner
 
 ### Game Storylines
 
-This looks like a mismatch on paper with New Mexico Lobos significantly higher in the rankings, but as they say, that's why they play the games. UNLV Rebels will need their best performance of the season to pull off the upset. 
+This looks like a mismatch on paper with New Mexico Lobos significantly higher in the rankings, but as they say, that's why they play the games. UNLV Rebels will need their best performance of the season to hang in this one. 
 
 **Key Matchup: New Mexico Lobos's Offense vs UNLV Rebels's Defense**
 
@@ -116,26 +136,3 @@ UNLV Rebels comes in ranked #121 overall by KenPom.
 - **Bench Minutes:** 31.9% (Rank: #198)
 - **Average Height:** 77.5" (Rank: #162)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **New Mexico Lobos**: -4.5, Edge For Covering Spread: -1.9%
-- **UNLV Rebels**: 4.5, Edge For Covering Spread: -2.8%
-
-### Moneyline
-- **New Mexico Lobos Win Probability**: 64.9%
-- **UNLV Rebels Win Probability**: 35.1%
-
-### Total
-- **Predicted Total**: 157.0
-- **Edge For Covering The Over**: -3.2%
-- **Edge For Covering The Under**: -1.6%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

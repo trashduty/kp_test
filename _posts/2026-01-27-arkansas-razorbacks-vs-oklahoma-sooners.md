@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 167.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **Arkansas Razorbacks**: -2.5, Edge For Covering Spread: 0.3%
+- **Oklahoma Sooners**: 2.5, Edge For Covering Spread: -5.0%
+
+### Moneyline
+- **Arkansas Razorbacks Win Probability**: 60.8%
+- **Oklahoma Sooners Win Probability**: 39.2%
+
+### Total
+- **Predicted Total**: 167.0
+- **Edge For Covering The Over**: -1.3%
+- **Edge For Covering The Under**: -3.5%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 Arkansas Razorbacks (15-5) travels to face Oklahoma Sooners (11-9) at Lloyd Noble Center in what shapes up to be a competitive matchup. The early betting action has shaped into Arkansas Razorbacks favored by 2.5 points, with the total sitting at 167.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Arkansas Razorbacks's 2.5-point cushion reflects home court advantage more than a talent disparity. The total of 167.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Arkansas Razorbacks's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 167.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Arkansas Razorbacks** bring an offensive efficiency of 122.69 (ranked #12 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 38.8% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -116,26 +136,3 @@ Oklahoma Sooners comes in ranked #65 overall by KenPom. They boast one of the na
 - **Bench Minutes:** 31.0% (Rank: #228)
 - **Average Height:** 77.4" (Rank: #174)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Arkansas Razorbacks**: -2.5, Edge For Covering Spread: 0.3%
-- **Oklahoma Sooners**: 2.5, Edge For Covering Spread: -5.0%
-
-### Moneyline
-- **Arkansas Razorbacks Win Probability**: 60.8%
-- **Oklahoma Sooners Win Probability**: 39.2%
-
-### Total
-- **Predicted Total**: 167.0
-- **Edge For Covering The Over**: -1.3%
-- **Edge For Covering The Under**: -3.5%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

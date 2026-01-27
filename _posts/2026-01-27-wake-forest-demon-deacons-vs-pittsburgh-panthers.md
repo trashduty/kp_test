@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **Wake Forest Demon Deacons**: 1.5, Edge For Covering Spread: -0.2%
+- **Pittsburgh Panthers**: -1.5, Edge For Covering Spread: -4.5%
+
+### Moneyline
+- **Wake Forest Demon Deacons Win Probability**: 47.8%
+- **Pittsburgh Panthers Win Probability**: 52.2%
+
+### Total
+- **Predicted Total**: 148.0
+- **Edge For Covering The Over**: -3.2%
+- **Edge For Covering The Under**: -1.5%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 Wake Forest Demon Deacons (11-9) travels to face Pittsburgh Panthers (8-12) at Petersen Events Center in what shapes up to be a competitive matchup. The early betting action has shaped into Pittsburgh Panthers favored by 1.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Pittsburgh Panthers's 1.5-point cushion reflects home court advantage more than a talent disparity. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Pittsburgh Panthers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Wake Forest Demon Deacons** bring an offensive efficiency of 111.16 (ranked #121 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.0% three-point shooting is serviceable but won't scare anyone. 
@@ -118,26 +138,3 @@ Pittsburgh Panthers comes in ranked #100 overall by KenPom.
 - **Bench Minutes:** 26.3% (Rank: #314)
 - **Average Height:** 77.1" (Rank: #223)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Wake Forest Demon Deacons**: 1.5, Edge For Covering Spread: -0.2%
-- **Pittsburgh Panthers**: -1.5, Edge For Covering Spread: -4.5%
-
-### Moneyline
-- **Wake Forest Demon Deacons Win Probability**: 47.8%
-- **Pittsburgh Panthers Win Probability**: 52.2%
-
-### Total
-- **Predicted Total**: 148.0
-- **Edge For Covering The Over**: -3.2%
-- **Edge For Covering The Under**: -1.5%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

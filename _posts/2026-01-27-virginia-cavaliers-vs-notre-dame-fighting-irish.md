@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **Virginia Cavaliers**: -9.5, Edge For Covering Spread: -5.2%
+- **Notre Dame Fighting Irish**: 9.5, Edge For Covering Spread: 0.5%
+
+### Moneyline
+- **Virginia Cavaliers Win Probability**: 78.7%
+- **Notre Dame Fighting Irish Win Probability**: 21.3%
+
+### Total
+- **Predicted Total**: 141.0
+- **Edge For Covering The Over**: -3.2%
+- **Edge For Covering The Under**: -1.6%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 Virginia Cavaliers (16-3) enters hostile territory as they take on Notre Dame Fighting Irish (11-9) at Joyce Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Virginia Cavaliers favored by 9.5 points, with the total sitting at 140.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Virginia Cavaliers has clear advantages, but games aren't played on paper. Notre Dame Fighting Irish needs to punch above their weight class to keep this competitive. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 9.5 points tells us Virginia Cavaliers has clear advantages, but games aren't played on paper. Notre Dame Fighting Irish needs to punch above their weight class to keep this close. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Virginia Cavaliers** bring an offensive efficiency of 123.41 (ranked #7 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.7% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -40,13 +60,13 @@ From a coaching perspective, Ryan Odom leads Virginia Cavaliers while Micah Shre
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Virginia Cavaliers significantly higher in the rankings, but as they say, that's why they play the games. Notre Dame Fighting Irish will need their best performance of the season to pull off the upset. 
+This looks like a mismatch on paper with Virginia Cavaliers significantly higher in the rankings, but as they say, that's why they play the games. Notre Dame Fighting Irish will need their best performance of the season to hang in this one. 
 
 **Key Matchup: Virginia Cavaliers's Offense vs Notre Dame Fighting Irish's Defense**
 
 Virginia Cavaliers bring a elite offense (ranked #7) that could exploit Notre Dame Fighting Irish's defensive vulnerabilities (ranked #116). 
 
-**X-Factor:** Virginia Cavaliers can light it up from three-point range (36.7%), but Notre Dame Fighting Irish defend the arc exceptionally well, holding opponents to just 31.3%. This battle could determine the outcome. 
+**X-Factor:** Virginia Cavaliers can light it up from three-point range (36.7%), but Notre Dame Fighting Irish defend the arc exceptionally well, holding opponents to just 31.3%. Something's got to give. 
 
 
 ## Virginia Cavaliers
@@ -118,26 +138,3 @@ Notre Dame Fighting Irish comes in ranked #82 overall by KenPom.
 - **Bench Minutes:** 38.4% (Rank: #50)
 - **Average Height:** 78.2" (Rank: #58)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Virginia Cavaliers**: -9.5, Edge For Covering Spread: -5.2%
-- **Notre Dame Fighting Irish**: 9.5, Edge For Covering Spread: 0.5%
-
-### Moneyline
-- **Virginia Cavaliers Win Probability**: 78.7%
-- **Notre Dame Fighting Irish Win Probability**: 21.3%
-
-### Total
-- **Predicted Total**: 141.0
-- **Edge For Covering The Over**: -3.2%
-- **Edge For Covering The Under**: -1.6%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **Providence Friars**: 16.5, Edge For Covering Spread: -2.4%
+- **UConn Huskies**: -16.5, Edge For Covering Spread: -2.4%
+
+### Moneyline
+- **Providence Friars Win Probability**: 7.2%
+- **UConn Huskies Win Probability**: 92.8%
+
+### Total
+- **Predicted Total**: 156.5
+- **Edge For Covering The Over**: -0.9%
+- **Edge For Covering The Under**: -3.9%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 UConn Huskies (19-1) hosts Providence Friars (9-11) at Gampel Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UConn Huskies favored by 16.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 16.5-point spread screams mismatch. The books are asking Providence Friars to hang within two possessions, which based on the profiles, requires UConn Huskies to play below their standard. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 16.5-point spread screams mismatch. The books are asking Providence Friars to hang within two possessions, which based on the profiles, requires UConn Huskies to play below their standards. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Providence Friars** bring an offensive efficiency of 117.75 (ranked #47 nationally). This is an elite offense that can score in multiple ways. Their 35.2% three-point shooting is serviceable but won't scare anyone. 
@@ -40,7 +60,7 @@ From a coaching perspective, Kim English leads Providence Friars while Dan Hurle
 
 ### Game Storylines
 
-This looks like a mismatch on paper with UConn Huskies significantly higher in the rankings, but as they say, that's why they play the games. Providence Friars will need their best performance of the season to pull off the upset. 
+This looks like a mismatch on paper with UConn Huskies significantly higher in the rankings, but as they say, that's why they play the games. Providence Friars will need their best performance of the season to hang in this one. 
 
 **Key Matchup: UConn Huskies's Offense vs Providence Friars's Defense**
 
@@ -48,7 +68,7 @@ UConn Huskies features a solid offense (ranked #69) that should find success aga
 
 **Pace of Play:** Providence Friars like to push the pace, while UConn Huskies prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
 
-**X-Factor:** Providence Friars can light it up from three-point range (35.2%), but UConn Huskies defend the arc exceptionally well, holding opponents to just 28.2%. This battle could determine the outcome. 
+**X-Factor:** Providence Friars can light it up from three-point range (35.2%), but UConn Huskies defend the arc exceptionally well, holding opponents to just 28.2%. Something's got to give. 
 
 
 ## Providence Friars
@@ -120,26 +140,3 @@ UConn Huskies comes in ranked #10 overall by KenPom. On the defensive end, they'
 - **Bench Minutes:** 35.0% (Rank: #123)
 - **Average Height:** 78.6" (Rank: #26)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Providence Friars**: 16.5, Edge For Covering Spread: -2.4%
-- **UConn Huskies**: -16.5, Edge For Covering Spread: -2.4%
-
-### Moneyline
-- **Providence Friars Win Probability**: 7.2%
-- **UConn Huskies Win Probability**: 92.8%
-
-### Total
-- **Predicted Total**: 156.5
-- **Edge For Covering The Over**: -0.9%
-- **Edge For Covering The Under**: -3.9%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

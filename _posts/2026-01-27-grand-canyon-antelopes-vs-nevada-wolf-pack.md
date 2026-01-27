@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **Grand Canyon Antelopes**: 3.5, Edge For Covering Spread: -2.5%
+- **Nevada Wolf Pack**: -3.5, Edge For Covering Spread: -2.3%
+
+### Moneyline
+- **Grand Canyon Antelopes Win Probability**: 37.4%
+- **Nevada Wolf Pack Win Probability**: 62.6%
+
+### Total
+- **Predicted Total**: 141.5
+- **Edge For Covering The Over**: -1.8%
+- **Edge For Covering The Under**: -2.9%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 When Grand Canyon Antelopes (13-6) travels to face Nevada Wolf Pack (14-6) at Lawlor Events Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Nevada Wolf Pack favored by 3.5 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Nevada Wolf Pack is viewed as the better team, but this isn't an overwhelming edge. Grand Canyon Antelopes has a legitimate path to covering or winning outright with a solid performance. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 3.5-point spread indicates Nevada Wolf Pack is viewed as the better team, but this isn't an overwhelming edge. Grand Canyon Antelopes has a legitimate path to covering or winning outright. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Grand Canyon Antelopes** bring an offensive efficiency of 107.27 (ranked #192 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.3% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -116,26 +136,3 @@ Nevada Wolf Pack comes in ranked #67 overall by KenPom. They're dangerous from b
 - **Bench Minutes:** 38.2% (Rank: #54)
 - **Average Height:** 76.7" (Rank: #290)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Grand Canyon Antelopes**: 3.5, Edge For Covering Spread: -2.5%
-- **Nevada Wolf Pack**: -3.5, Edge For Covering Spread: -2.3%
-
-### Moneyline
-- **Grand Canyon Antelopes Win Probability**: 37.4%
-- **Nevada Wolf Pack Win Probability**: 62.6%
-
-### Total
-- **Predicted Total**: 141.5
-- **Edge For Covering The Over**: -1.8%
-- **Edge For Covering The Under**: -2.9%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

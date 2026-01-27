@@ -12,16 +12,36 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama Crimson Tide -10.5</p>
-  <p><strong>Moneyline:</strong> Missouri Tigers (+500) | Alabama Crimson Tide (-720)</p>
+  <p><strong>Moneyline:</strong> Missouri Tigers (+500) | Alabama Crimson Tide (-710)</p>
   <p><strong>Total:</strong> 165.5</p>
 </div>
+
+
+## Model Predictions
+
+### Spread
+- **Missouri Tigers**: 10.5, Edge For Covering Spread: -2.8%
+- **Alabama Crimson Tide**: -10.5, Edge For Covering Spread: -2.1%
+
+### Moneyline
+- **Missouri Tigers Win Probability**: 16.0%
+- **Alabama Crimson Tide Win Probability**: 84.0%
+
+### Total
+- **Predicted Total**: 165.5
+- **Edge For Covering The Over**: -1.7%
+- **Edge For Covering The Under**: -3.1%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 Alabama Crimson Tide (13-6) hosts Missouri Tigers (14-6) at Coleman Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Alabama Crimson Tide favored by 10.5 points, with the total sitting at 165.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us Alabama Crimson Tide has clear advantages, but games aren't played on paper. Missouri Tigers needs to punch above their weight class to keep this competitive. The total of 165.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 10.5 points tells us Alabama Crimson Tide has clear advantages, but games aren't played on paper. Missouri Tigers needs to punch above their weight class to keep this close. The total of 165.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Missouri Tigers** bring an offensive efficiency of 117.12 (ranked #53 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.5% three-point shooting is serviceable but won't scare anyone. 
@@ -48,7 +68,7 @@ Missouri Tigers bring a solid offense (ranked #53) that could exploit Alabama Cr
 
 **Pace of Play:** Alabama Crimson Tide like to push the pace, while Missouri Tigers prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
 
-**X-Factor:** Missouri Tigers can light it up from three-point range (35.5%), but Alabama Crimson Tide defend the arc exceptionally well, holding opponents to just 31.9%. This battle could determine the outcome. 
+**X-Factor:** Missouri Tigers can light it up from three-point range (35.5%), but Alabama Crimson Tide defend the arc exceptionally well, holding opponents to just 31.9%. Something's got to give. 
 
 
 ## Missouri Tigers
@@ -120,26 +140,3 @@ Alabama Crimson Tide comes in ranked #19 overall by KenPom. They boast one of th
 - **Bench Minutes:** 38.8% (Rank: #42)
 - **Average Height:** 78.5" (Rank: #39)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Missouri Tigers**: 10.5, Edge For Covering Spread: -2.8%
-- **Alabama Crimson Tide**: -10.5, Edge For Covering Spread: -2.1%
-
-### Moneyline
-- **Missouri Tigers Win Probability**: 16.0%
-- **Alabama Crimson Tide Win Probability**: 84.0%
-
-### Total
-- **Predicted Total**: 165.5
-- **Edge For Covering The Over**: -1.7%
-- **Edge For Covering The Under**: -3.1%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

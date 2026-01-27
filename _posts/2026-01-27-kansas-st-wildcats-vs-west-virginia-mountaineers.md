@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **Kansas St Wildcats**: 7.5, Edge For Covering Spread: -2.4%
+- **West Virginia Mountaineers**: -7.5, Edge For Covering Spread: -4.5%
+
+### Moneyline
+- **Kansas St Wildcats Win Probability**: 23.8%
+- **West Virginia Mountaineers Win Probability**: 76.2%
+
+### Total
+- **Predicted Total**: 146.0
+- **Edge For Covering The Over**: -2.0%
+- **Edge For Covering The Under**: -2.7%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 West Virginia Mountaineers (13-7) hosts Kansas St Wildcats (10-10) at Hope Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into West Virginia Mountaineers favored by 7.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us West Virginia Mountaineers has clear advantages, but games aren't played on paper. Kansas St Wildcats needs to punch above their weight class to keep this competitive. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 7.5 points tells us West Virginia Mountaineers has clear advantages, but games aren't played on paper. Kansas St Wildcats needs to punch above their weight class to keep this close. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Kansas St Wildcats** bring an offensive efficiency of 113.20 (ranked #94 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 37.3% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -118,26 +138,3 @@ West Virginia Mountaineers comes in ranked #58 overall by KenPom. Their defense 
 - **Bench Minutes:** 33.3% (Rank: #166)
 - **Average Height:** 77.1" (Rank: #234)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Kansas St Wildcats**: 7.5, Edge For Covering Spread: -2.4%
-- **West Virginia Mountaineers**: -7.5, Edge For Covering Spread: -4.5%
-
-### Moneyline
-- **Kansas St Wildcats Win Probability**: 23.8%
-- **West Virginia Mountaineers Win Probability**: 76.2%
-
-### Total
-- **Predicted Total**: 146.0
-- **Edge For Covering The Over**: -2.0%
-- **Edge For Covering The Under**: -2.7%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

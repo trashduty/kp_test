@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **Michigan St Spartans**: -14.5, Edge For Covering Spread: -1.2%
+- **Rutgers Scarlet Knights**: 14.5, Edge For Covering Spread: -3.5%
+
+### Moneyline
+- **Michigan St Spartans Win Probability**: 92.0%
+- **Rutgers Scarlet Knights Win Probability**: 8.0%
+
+### Total
+- **Predicted Total**: 135.5
+- **Edge For Covering The Over**: -3.9%
+- **Edge For Covering The Under**: -0.9%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 Michigan St Spartans (18-2) enters hostile territory as they take on Rutgers Scarlet Knights (9-11) at Jersey Mike's Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Michigan St Spartans favored by 14.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 14.5-point spread screams mismatch. The books are asking Rutgers Scarlet Knights to hang within two possessions, which based on the profiles, requires Michigan St Spartans to play below their standard. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 14.5-point spread screams mismatch. The books are asking Rutgers Scarlet Knights to hang within two possessions, which based on the profiles, requires Michigan St Spartans to play below their standards. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Michigan St Spartans** bring an offensive efficiency of 117.19 (ranked #51 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.8% three-point shooting is serviceable but won't scare anyone. 
@@ -40,7 +60,7 @@ From a coaching perspective, Tom Izzo leads Michigan St Spartans while Steve Pik
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Michigan St Spartans significantly higher in the rankings, but as they say, that's why they play the games. Rutgers Scarlet Knights will need their best performance of the season to pull off the upset. 
+This looks like a mismatch on paper with Michigan St Spartans significantly higher in the rankings, but as they say, that's why they play the games. Rutgers Scarlet Knights will need their best performance of the season to hang in this one. 
 
 **Key Matchup: Michigan St Spartans's Offense vs Rutgers Scarlet Knights's Defense**
 
@@ -116,26 +136,3 @@ Rutgers Scarlet Knights comes in ranked #159 overall by KenPom. The three-point 
 - **Bench Minutes:** 40.7% (Rank: #25)
 - **Average Height:** 77.7" (Rank: #127)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Michigan St Spartans**: -14.5, Edge For Covering Spread: -1.2%
-- **Rutgers Scarlet Knights**: 14.5, Edge For Covering Spread: -3.5%
-
-### Moneyline
-- **Michigan St Spartans Win Probability**: 92.0%
-- **Rutgers Scarlet Knights Win Probability**: 8.0%
-
-### Total
-- **Predicted Total**: 135.5
-- **Edge For Covering The Over**: -3.9%
-- **Edge For Covering The Under**: -0.9%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

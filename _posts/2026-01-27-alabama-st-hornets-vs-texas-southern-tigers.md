@@ -12,16 +12,36 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama St Hornets -1.5</p>
-  <p><strong>Moneyline:</strong> Alabama St Hornets (-125) | Texas Southern Tigers (+104)</p>
+  <p><strong>Moneyline:</strong> Alabama St Hornets (-116) | Texas Southern Tigers (-104)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
+
+
+## Model Predictions
+
+### Spread
+- **Alabama St Hornets**: -1.5, Edge For Covering Spread: -1.6%
+- **Texas Southern Tigers**: 1.5, Edge For Covering Spread: -2.9%
+
+### Moneyline
+- **Alabama St Hornets Win Probability**: 48.2%
+- **Texas Southern Tigers Win Probability**: 51.8%
+
+### Total
+- **Predicted Total**: 157.5
+- **Edge For Covering The Over**: -3.5%
+- **Edge For Covering The Under**: -1.2%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 Alabama St Hornets (6-13) travels to face Texas Southern Tigers (5-13) at Health & PE Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Alabama St Hornets favored by 1.5 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Alabama St Hornets's 1.5-point cushion reflects home court advantage more than a talent disparity. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Alabama St Hornets's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Alabama St Hornets** bring an offensive efficiency of 101.33 (ranked #293 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.2% three-point shooting is serviceable but won't scare anyone. 
@@ -116,26 +136,3 @@ Texas Southern Tigers comes in ranked #332 overall by KenPom. Stopping opponents
 - **Bench Minutes:** 42.2% (Rank: #16)
 - **Average Height:** 77.0" (Rank: #243)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Alabama St Hornets**: -1.5, Edge For Covering Spread: -2.8%
-- **Texas Southern Tigers**: 1.5, Edge For Covering Spread: -1.9%
-
-### Moneyline
-- **Alabama St Hornets Win Probability**: 49.1%
-- **Texas Southern Tigers Win Probability**: 50.9%
-
-### Total
-- **Predicted Total**: 158.0
-- **Edge For Covering The Over**: -4.3%
-- **Edge For Covering The Under**: -0.4%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

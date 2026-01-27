@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **McNeese Cowboys**: -12.5, Edge For Covering Spread: -4.0%
+- **SE Louisiana Lions**: 12.5, Edge For Covering Spread: -0.7%
+
+### Moneyline
+- **McNeese Cowboys Win Probability**: 83.7%
+- **SE Louisiana Lions Win Probability**: 16.3%
+
+### Total
+- **Predicted Total**: 136.5
+- **Edge For Covering The Over**: -3.5%
+- **Edge For Covering The Under**: -1.2%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 McNeese Cowboys (16-4) enters hostile territory as they take on SE Louisiana Lions (6-14) at University Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into McNeese Cowboys favored by 12.5 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 12.5-point spread screams mismatch. The books are asking SE Louisiana Lions to hang within two possessions, which based on the profiles, requires McNeese Cowboys to play below their standard. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 12.5-point spread screams mismatch. The books are asking SE Louisiana Lions to hang within two possessions, which based on the profiles, requires McNeese Cowboys to play below their standards. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **McNeese Cowboys** bring an offensive efficiency of 116.74 (ranked #59 nationally). They're solid offensively, capable of putting up points but not overwhelming. At 31.5% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -40,7 +60,7 @@ From a coaching perspective, Bill Armstrong leads McNeese Cowboys while David Ki
 
 ### Game Storylines
 
-This looks like a mismatch on paper with McNeese Cowboys significantly higher in the rankings, but as they say, that's why they play the games. SE Louisiana Lions will need their best performance of the season to pull off the upset. 
+This looks like a mismatch on paper with McNeese Cowboys significantly higher in the rankings, but as they say, that's why they play the games. SE Louisiana Lions will need their best performance of the season to hang in this one. 
 
 **Key Matchup: McNeese Cowboys's Offense vs SE Louisiana Lions's Defense**
 
@@ -116,26 +136,3 @@ SE Louisiana Lions comes in ranked #263 overall by KenPom. They've struggled fro
 - **Bench Minutes:** 38.5% (Rank: #46)
 - **Average Height:** 77.1" (Rank: #231)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **McNeese Cowboys**: -12.5, Edge For Covering Spread: -4.0%
-- **SE Louisiana Lions**: 12.5, Edge For Covering Spread: -0.7%
-
-### Moneyline
-- **McNeese Cowboys Win Probability**: 83.7%
-- **SE Louisiana Lions Win Probability**: 16.3%
-
-### Total
-- **Predicted Total**: 136.5
-- **Edge For Covering The Over**: -3.5%
-- **Edge For Covering The Under**: -1.2%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

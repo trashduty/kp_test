@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **Eastern Michigan Eagles**: -3.5, Edge For Covering Spread: -1.3%
+- **Central Michigan Chippewas**: 3.5, Edge For Covering Spread: -3.5%
+
+### Moneyline
+- **Eastern Michigan Eagles Win Probability**: 62.9%
+- **Central Michigan Chippewas Win Probability**: 37.1%
+
+### Total
+- **Predicted Total**: 138.0
+- **Edge For Covering The Over**: -2.6%
+- **Edge For Covering The Under**: -2.2%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 Eastern Michigan Eagles (9-11) travels to face Central Michigan Chippewas (5-15) at McGuirk Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Eastern Michigan Eagles favored by 3.5 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Eastern Michigan Eagles is viewed as the better team, but this isn't an overwhelming edge. Central Michigan Chippewas has a legitimate path to covering or winning outright with a solid performance. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 3.5-point spread indicates Eastern Michigan Eagles is viewed as the better team, but this isn't an overwhelming edge. Central Michigan Chippewas has a legitimate path to covering or winning outright. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Eastern Michigan Eagles** bring an offensive efficiency of 103.46 (ranked #260 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.7% three-point shooting is serviceable but won't scare anyone. 
@@ -40,7 +60,7 @@ From a coaching perspective, Stan Heath leads Eastern Michigan Eagles while Andy
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Eastern Michigan Eagles significantly higher in the rankings, but as they say, that's why they play the games. Central Michigan Chippewas will need their best performance of the season to pull off the upset. 
+This looks like a mismatch on paper with Eastern Michigan Eagles significantly higher in the rankings, but as they say, that's why they play the games. Central Michigan Chippewas will need their best performance of the season to hang in this one. 
 
 **Key Matchup: Eastern Michigan Eagles's Offense vs Central Michigan Chippewas's Defense**
 
@@ -116,26 +136,3 @@ Central Michigan Chippewas comes in ranked #325 overall by KenPom. The three-poi
 - **Bench Minutes:** 34.2% (Rank: #136)
 - **Average Height:** 77.5" (Rank: #152)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Eastern Michigan Eagles**: -3.5, Edge For Covering Spread: -1.3%
-- **Central Michigan Chippewas**: 3.5, Edge For Covering Spread: -3.5%
-
-### Moneyline
-- **Eastern Michigan Eagles Win Probability**: 62.9%
-- **Central Michigan Chippewas Win Probability**: 37.1%
-
-### Total
-- **Predicted Total**: 138.0
-- **Edge For Covering The Over**: -2.6%
-- **Edge For Covering The Under**: -2.2%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

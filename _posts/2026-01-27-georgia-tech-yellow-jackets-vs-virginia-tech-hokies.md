@@ -12,16 +12,36 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Virginia Tech Hokies -9.5</p>
-  <p><strong>Moneyline:</strong> Georgia Tech Yellow Jackets (+382) | Virginia Tech Hokies (-535)</p>
+  <p><strong>Moneyline:</strong> Georgia Tech Yellow Jackets (+390) | Virginia Tech Hokies (-550)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
+
+
+## Model Predictions
+
+### Spread
+- **Georgia Tech Yellow Jackets**: 9.5, Edge For Covering Spread: -4.0%
+- **Virginia Tech Hokies**: -9.5, Edge For Covering Spread: -0.8%
+
+### Moneyline
+- **Georgia Tech Yellow Jackets Win Probability**: 17.7%
+- **Virginia Tech Hokies Win Probability**: 82.3%
+
+### Total
+- **Predicted Total**: 153.5
+- **Edge For Covering The Over**: -5.7%
+- **Edge For Covering The Under**: 1.0%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 Virginia Tech Hokies (15-6) hosts Georgia Tech Yellow Jackets (11-9) at Cassell Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Virginia Tech Hokies favored by 9.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Virginia Tech Hokies has clear advantages, but games aren't played on paper. Georgia Tech Yellow Jackets needs to punch above their weight class to keep this competitive. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 9.5 points tells us Virginia Tech Hokies has clear advantages, but games aren't played on paper. Georgia Tech Yellow Jackets needs to punch above their weight class to keep this close. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Georgia Tech Yellow Jackets** bring an offensive efficiency of 103.89 (ranked #247 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.6% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -40,13 +60,13 @@ From a coaching perspective, Damon Stoudamire leads Georgia Tech Yellow Jackets 
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Virginia Tech Hokies significantly higher in the rankings, but as they say, that's why they play the games. Georgia Tech Yellow Jackets will need their best performance of the season to pull off the upset. 
+This looks like a mismatch on paper with Virginia Tech Hokies significantly higher in the rankings, but as they say, that's why they play the games. Georgia Tech Yellow Jackets will need their best performance of the season to hang in this one. 
 
 **Key Matchup: The Battle in the Trenches**
 
 Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
 
-**X-Factor:** Georgia Tech Yellow Jackets can light it up from three-point range (36.6%), but Virginia Tech Hokies defend the arc exceptionally well, holding opponents to just 30.1%. This battle could determine the outcome. 
+**X-Factor:** Georgia Tech Yellow Jackets can light it up from three-point range (36.6%), but Virginia Tech Hokies defend the arc exceptionally well, holding opponents to just 30.1%. Something's got to give. 
 
 
 ## Georgia Tech Yellow Jackets
@@ -118,26 +138,3 @@ Virginia Tech Hokies comes in ranked #57 overall by KenPom.
 - **Bench Minutes:** 31.7% (Rank: #202)
 - **Average Height:** 78.0" (Rank: #93)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Georgia Tech Yellow Jackets**: 9.5, Edge For Covering Spread: -4.0%
-- **Virginia Tech Hokies**: -9.5, Edge For Covering Spread: -0.8%
-
-### Moneyline
-- **Georgia Tech Yellow Jackets Win Probability**: 17.9%
-- **Virginia Tech Hokies Win Probability**: 82.1%
-
-### Total
-- **Predicted Total**: 153.5
-- **Edge For Covering The Over**: -5.7%
-- **Edge For Covering The Under**: 1.0%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **Western Michigan Broncos**: -1.5, Edge For Covering Spread: -0.8%
+- **Northern Illinois Huskies**: 1.5, Edge For Covering Spread: -4.0%
+
+### Moneyline
+- **Western Michigan Broncos Win Probability**: 56.2%
+- **Northern Illinois Huskies Win Probability**: 43.8%
+
+### Total
+- **Predicted Total**: 146.5
+- **Edge For Covering The Over**: -1.8%
+- **Edge For Covering The Under**: -2.9%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 Western Michigan Broncos (8-12) travels to face Northern Illinois Huskies (6-13) at Convocation Center in what shapes up to be a competitive matchup. The early betting action has shaped into Western Michigan Broncos favored by 1.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Western Michigan Broncos's 1.5-point cushion reflects home court advantage more than a talent disparity. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Western Michigan Broncos's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Western Michigan Broncos** bring an offensive efficiency of 106.86 (ranked #199 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.1% three-point shooting is serviceable but won't scare anyone. 
@@ -40,7 +60,7 @@ From a coaching perspective, Dwayne Stephens leads Western Michigan Broncos whil
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Western Michigan Broncos significantly higher in the rankings, but as they say, that's why they play the games. Northern Illinois Huskies will need their best performance of the season to pull off the upset. 
+This looks like a mismatch on paper with Western Michigan Broncos significantly higher in the rankings, but as they say, that's why they play the games. Northern Illinois Huskies will need their best performance of the season to hang in this one. 
 
 **Key Matchup: Western Michigan Broncos's Offense vs Northern Illinois Huskies's Defense**
 
@@ -116,26 +136,3 @@ Northern Illinois Huskies comes in ranked #317 overall by KenPom. The three-poin
 - **Bench Minutes:** 32.4% (Rank: #187)
 - **Average Height:** 76.6" (Rank: #303)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Western Michigan Broncos**: -1.5, Edge For Covering Spread: -0.8%
-- **Northern Illinois Huskies**: 1.5, Edge For Covering Spread: -4.0%
-
-### Moneyline
-- **Western Michigan Broncos Win Probability**: 56.2%
-- **Northern Illinois Huskies Win Probability**: 43.8%
-
-### Total
-- **Predicted Total**: 146.5
-- **Edge For Covering The Over**: -1.8%
-- **Edge For Covering The Under**: -2.9%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

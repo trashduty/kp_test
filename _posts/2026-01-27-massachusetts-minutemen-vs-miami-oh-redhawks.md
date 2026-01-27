@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **Massachusetts Minutemen**: 9.5, Edge For Covering Spread: -5.6%
+- **Miami (OH) RedHawks**: -9.5, Edge For Covering Spread: 0.8%
+
+### Moneyline
+- **Massachusetts Minutemen Win Probability**: 17.6%
+- **Miami (OH) RedHawks Win Probability**: 82.4%
+
+### Total
+- **Predicted Total**: 164.0
+- **Edge For Covering The Over**: -3.7%
+- **Edge For Covering The Under**: -1.0%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 Miami (OH) RedHawks (20-0) hosts Massachusetts Minutemen (13-8) at Millett Hall in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Miami (OH) RedHawks favored by 9.5 points, with the total sitting at 164.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Miami (OH) RedHawks has clear advantages, but games aren't played on paper. Massachusetts Minutemen needs to punch above their weight class to keep this competitive. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 9.5 points tells us Miami (OH) RedHawks has clear advantages, but games aren't played on paper. Massachusetts Minutemen needs to punch above their weight class to keep this close. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Massachusetts Minutemen** bring an offensive efficiency of 108.06 (ranked #177 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.7% three-point shooting is serviceable but won't scare anyone. 
@@ -40,7 +60,7 @@ From a coaching perspective, Frank Martin leads Massachusetts Minutemen while Tr
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Miami (OH) RedHawks significantly higher in the rankings, but as they say, that's why they play the games. Massachusetts Minutemen will need their best performance of the season to pull off the upset. 
+This looks like a mismatch on paper with Miami (OH) RedHawks significantly higher in the rankings, but as they say, that's why they play the games. Massachusetts Minutemen will need their best performance of the season to hang in this one. 
 
 **Key Matchup: Miami (OH) RedHawks's Offense vs Massachusetts Minutemen's Defense**
 
@@ -116,26 +136,3 @@ Miami (OH) RedHawks comes in ranked #86 overall by KenPom. They're dangerous fro
 - **Bench Minutes:** 30.9% (Rank: #230)
 - **Average Height:** 77.5" (Rank: #160)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Massachusetts Minutemen**: 9.5, Edge For Covering Spread: -5.6%
-- **Miami (OH) RedHawks**: -9.5, Edge For Covering Spread: 0.8%
-
-### Moneyline
-- **Massachusetts Minutemen Win Probability**: 17.6%
-- **Miami (OH) RedHawks Win Probability**: 82.4%
-
-### Total
-- **Predicted Total**: 164.0
-- **Edge For Covering The Over**: -3.7%
-- **Edge For Covering The Under**: -1.0%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

@@ -12,16 +12,36 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> NC State Wolfpack -11.0</p>
-  <p><strong>Moneyline:</strong> Syracuse Orange (+500) | NC State Wolfpack (-800)</p>
+  <p><strong>Moneyline:</strong> Syracuse Orange (+500) | NC State Wolfpack (-780)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
+
+
+## Model Predictions
+
+### Spread
+- **Syracuse Orange**: 11.0, Edge For Covering Spread: -1.0%
+- **NC State Wolfpack**: -11.0, Edge For Covering Spread: -3.8%
+
+### Moneyline
+- **Syracuse Orange Win Probability**: 16.4%
+- **NC State Wolfpack Win Probability**: 83.6%
+
+### Total
+- **Predicted Total**: 152.0
+- **Edge For Covering The Over**: -1.9%
+- **Edge For Covering The Under**: -2.9%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 NC State Wolfpack (14-6) hosts Syracuse Orange (12-8) at Lenovo Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into NC State Wolfpack favored by 11.0 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.0 points tells us NC State Wolfpack has clear advantages, but games aren't played on paper. Syracuse Orange needs to punch above their weight class to keep this competitive. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 11.0 points tells us NC State Wolfpack has clear advantages, but games aren't played on paper. Syracuse Orange needs to punch above their weight class to keep this close. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Syracuse Orange** bring an offensive efficiency of 109.48 (ranked #152 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.5% three-point shooting is serviceable but won't scare anyone. 
@@ -116,26 +136,3 @@ NC State Wolfpack comes in ranked #26 overall by KenPom. They're dangerous from 
 - **Bench Minutes:** 33.3% (Rank: #167)
 - **Average Height:** 78.0" (Rank: #88)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Syracuse Orange**: 11.0, Edge For Covering Spread: -1.0%
-- **NC State Wolfpack**: -11.0, Edge For Covering Spread: -3.8%
-
-### Moneyline
-- **Syracuse Orange Win Probability**: 16.4%
-- **NC State Wolfpack Win Probability**: 83.6%
-
-### Total
-- **Predicted Total**: 152.0
-- **Edge For Covering The Over**: -1.9%
-- **Edge For Covering The Under**: -2.9%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

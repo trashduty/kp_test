@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **Ohio Bobcats**: 8.5, Edge For Covering Spread: -3.5%
+- **Kent State Golden Flashes**: -8.5, Edge For Covering Spread: -1.2%
+
+### Moneyline
+- **Ohio Bobcats Win Probability**: 24.0%
+- **Kent State Golden Flashes Win Probability**: 76.0%
+
+### Total
+- **Predicted Total**: 163.0
+- **Edge For Covering The Over**: -2.7%
+- **Edge For Covering The Under**: -2.0%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 Kent State Golden Flashes (15-5) hosts Ohio Bobcats (11-10) at Memorial Athletic & Convocation Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Kent State Golden Flashes favored by 8.5 points, with the total sitting at 163.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Kent State Golden Flashes has clear advantages, but games aren't played on paper. Ohio Bobcats needs to punch above their weight class to keep this competitive. The total of 163.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 8.5 points tells us Kent State Golden Flashes has clear advantages, but games aren't played on paper. Ohio Bobcats needs to punch above their weight class to keep this close. The total of 163.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Ohio Bobcats** bring an offensive efficiency of 105.75 (ranked #219 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.6% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -40,7 +60,7 @@ From a coaching perspective, Jeff Boals leads Ohio Bobcats while Rob Senderoff g
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Kent State Golden Flashes significantly higher in the rankings, but as they say, that's why they play the games. Ohio Bobcats will need their best performance of the season to pull off the upset. 
+This looks like a mismatch on paper with Kent State Golden Flashes significantly higher in the rankings, but as they say, that's why they play the games. Ohio Bobcats will need their best performance of the season to hang in this one. 
 
 **Key Matchup: Kent State Golden Flashes's Offense vs Ohio Bobcats's Defense**
 
@@ -116,26 +136,3 @@ Kent State Golden Flashes comes in ranked #143 overall by KenPom. Stopping oppon
 - **Bench Minutes:** 28.7% (Rank: #275)
 - **Average Height:** 76.1" (Rank: #347)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Ohio Bobcats**: 8.5, Edge For Covering Spread: -3.5%
-- **Kent State Golden Flashes**: -8.5, Edge For Covering Spread: -1.2%
-
-### Moneyline
-- **Ohio Bobcats Win Probability**: 24.0%
-- **Kent State Golden Flashes Win Probability**: 76.0%
-
-### Total
-- **Predicted Total**: 163.0
-- **Edge For Covering The Over**: -2.7%
-- **Edge For Covering The Under**: -2.0%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

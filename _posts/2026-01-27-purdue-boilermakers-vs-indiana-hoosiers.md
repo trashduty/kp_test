@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **Purdue Boilermakers**: -4.5, Edge For Covering Spread: -2.5%
+- **Indiana Hoosiers**: 4.5, Edge For Covering Spread: -2.4%
+
+### Moneyline
+- **Purdue Boilermakers Win Probability**: 63.0%
+- **Indiana Hoosiers Win Probability**: 37.0%
+
+### Total
+- **Predicted Total**: 151.5
+- **Edge For Covering The Over**: -2.9%
+- **Edge For Covering The Under**: -1.8%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 Purdue Boilermakers (17-3) travels to face Indiana Hoosiers (13-7) at Assembly Hall in what shapes up to be a competitive matchup. The early betting action has shaped into Purdue Boilermakers favored by 4.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Purdue Boilermakers is viewed as the better team, but this isn't an overwhelming edge. Indiana Hoosiers has a legitimate path to covering or winning outright with a solid performance. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 4.5-point spread indicates Purdue Boilermakers is viewed as the better team, but this isn't an overwhelming edge. Indiana Hoosiers has a legitimate path to covering or winning outright. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Purdue Boilermakers** bring an offensive efficiency of 124.80 (ranked #4 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 38.3% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -46,7 +66,7 @@ On paper, Purdue Boilermakers holds the advantage as the higher-ranked team, but
 
 Purdue Boilermakers bring a elite offense (ranked #4) that could exploit Indiana Hoosiers's defensive vulnerabilities (ranked #66). 
 
-**X-Factor:** Purdue Boilermakers can light it up from three-point range (38.3%), but Indiana Hoosiers defend the arc exceptionally well, holding opponents to just 30.6%. This battle could determine the outcome. 
+**X-Factor:** Purdue Boilermakers can light it up from three-point range (38.3%), but Indiana Hoosiers defend the arc exceptionally well, holding opponents to just 30.6%. Something's got to give. 
 
 
 ## Purdue Boilermakers
@@ -118,26 +138,3 @@ Indiana Hoosiers comes in ranked #35 overall by KenPom. They boast one of the na
 - **Bench Minutes:** 29.7% (Rank: #255)
 - **Average Height:** 78.0" (Rank: #86)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Purdue Boilermakers**: -4.5, Edge For Covering Spread: -2.5%
-- **Indiana Hoosiers**: 4.5, Edge For Covering Spread: -2.4%
-
-### Moneyline
-- **Purdue Boilermakers Win Probability**: 63.0%
-- **Indiana Hoosiers Win Probability**: 37.0%
-
-### Total
-- **Predicted Total**: 151.5
-- **Edge For Covering The Over**: -2.9%
-- **Edge For Covering The Under**: -1.8%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

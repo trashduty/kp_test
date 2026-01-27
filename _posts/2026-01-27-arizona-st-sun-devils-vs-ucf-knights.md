@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **Arizona St Sun Devils**: 8.5, Edge For Covering Spread: -2.4%
+- **UCF Knights**: -8.5, Edge For Covering Spread: -2.4%
+
+### Moneyline
+- **Arizona St Sun Devils Win Probability**: 23.3%
+- **UCF Knights Win Probability**: 76.7%
+
+### Total
+- **Predicted Total**: 162.5
+- **Edge For Covering The Over**: -2.9%
+- **Edge For Covering The Under**: -3.4%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 UCF Knights (15-4) hosts Arizona St Sun Devils (11-9) at Addition Financial Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UCF Knights favored by 8.5 points, with the total sitting at 164.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us UCF Knights has clear advantages, but games aren't played on paper. Arizona St Sun Devils needs to punch above their weight class to keep this competitive. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 8.5 points tells us UCF Knights has clear advantages, but games aren't played on paper. Arizona St Sun Devils needs to punch above their weight class to keep this close. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Arizona St Sun Devils** bring an offensive efficiency of 111.16 (ranked #120 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.5% three-point shooting is serviceable but won't scare anyone. 
@@ -116,26 +136,3 @@ UCF Knights comes in ranked #44 overall by KenPom. They're dangerous from beyond
 - **Bench Minutes:** 33.5% (Rank: #152)
 - **Average Height:** 78.6" (Rank: #28)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Arizona St Sun Devils**: 8.5, Edge For Covering Spread: -2.4%
-- **UCF Knights**: -8.5, Edge For Covering Spread: -2.4%
-
-### Moneyline
-- **Arizona St Sun Devils Win Probability**: 23.3%
-- **UCF Knights Win Probability**: 76.7%
-
-### Total
-- **Predicted Total**: 162.5
-- **Edge For Covering The Over**: -2.9%
-- **Edge For Covering The Under**: -3.4%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

@@ -16,12 +16,32 @@ categories: [basketball, preview]
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
+
+## Model Predictions
+
+### Spread
+- **Creighton Bluejays**: -1.5, Edge For Covering Spread: -2.2%
+- **Marquette Golden Eagles**: 1.5, Edge For Covering Spread: -2.5%
+
+### Moneyline
+- **Creighton Bluejays Win Probability**: 58.2%
+- **Marquette Golden Eagles Win Probability**: 41.8%
+
+### Total
+- **Predicted Total**: 154.5
+- **Edge For Covering The Over**: -4.3%
+- **Edge For Covering The Under**: -0.4%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 Creighton Bluejays (12-8) travels to face Marquette Golden Eagles (7-14) at Fiserv Forum in what shapes up to be a competitive matchup. The early betting action has shaped into Creighton Bluejays favored by 1.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Creighton Bluejays's 1.5-point cushion reflects home court advantage more than a talent disparity. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Creighton Bluejays's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Creighton Bluejays** bring an offensive efficiency of 114.40 (ranked #78 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.5% three-point shooting is serviceable but won't scare anyone. 
@@ -40,7 +60,7 @@ From a coaching perspective, Greg McDermott leads Creighton Bluejays while Shaka
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Creighton Bluejays significantly higher in the rankings, but as they say, that's why they play the games. Marquette Golden Eagles will need their best performance of the season to pull off the upset. 
+This looks like a mismatch on paper with Creighton Bluejays significantly higher in the rankings, but as they say, that's why they play the games. Marquette Golden Eagles will need their best performance of the season to hang in this one. 
 
 **Key Matchup: Creighton Bluejays's Offense vs Marquette Golden Eagles's Defense**
 
@@ -116,26 +136,3 @@ Marquette Golden Eagles comes in ranked #124 overall by KenPom. The three-point 
 - **Bench Minutes:** 33.1% (Rank: #171)
 - **Average Height:** 77.7" (Rank: #128)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Creighton Bluejays**: -1.5, Edge For Covering Spread: -2.2%
-- **Marquette Golden Eagles**: 1.5, Edge For Covering Spread: -2.5%
-
-### Moneyline
-- **Creighton Bluejays Win Probability**: 58.2%
-- **Marquette Golden Eagles Win Probability**: 41.8%
-
-### Total
-- **Predicted Total**: 154.5
-- **Edge For Covering The Over**: -4.3%
-- **Edge For Covering The Under**: -0.4%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)

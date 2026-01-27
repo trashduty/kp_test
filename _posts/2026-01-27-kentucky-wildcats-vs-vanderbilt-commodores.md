@@ -12,16 +12,36 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Vanderbilt Commodores -6.5</p>
-  <p><strong>Moneyline:</strong> Kentucky Wildcats (+237) | Vanderbilt Commodores (-290)</p>
+  <p><strong>Moneyline:</strong> Kentucky Wildcats (+235) | Vanderbilt Commodores (-287)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
+
+
+## Model Predictions
+
+### Spread
+- **Kentucky Wildcats**: 6.5, Edge For Covering Spread: -4.5%
+- **Vanderbilt Commodores**: -6.5, Edge For Covering Spread: -0.2%
+
+### Moneyline
+- **Kentucky Wildcats Win Probability**: 25.7%
+- **Vanderbilt Commodores Win Probability**: 74.3%
+
+### Total
+- **Predicted Total**: 159.5
+- **Edge For Covering The Over**: -3.9%
+- **Edge For Covering The Under**: -0.8%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
 When Kentucky Wildcats (14-6) travels to face Vanderbilt Commodores (17-3) at Memorial Gym, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Vanderbilt Commodores favored by 6.5 points, with the total sitting at 158.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates Vanderbilt Commodores is viewed as the better team, but this isn't an overwhelming edge. Kentucky Wildcats has a legitimate path to covering or winning outright with a solid performance. The total of 158.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 6.5-point spread indicates Vanderbilt Commodores is viewed as the better team, but this isn't an overwhelming edge. Kentucky Wildcats has a legitimate path to covering or winning outright. The total of 158.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Kentucky Wildcats** bring an offensive efficiency of 118.67 (ranked #38 nationally). This is an elite offense that can score in multiple ways. Their 34.4% three-point shooting is serviceable but won't scare anyone. 
@@ -118,26 +138,3 @@ Vanderbilt Commodores comes in ranked #13 overall by KenPom. They're dangerous f
 - **Bench Minutes:** 30.5% (Rank: #236)
 - **Average Height:** 77.1" (Rank: #228)
 
-
----
-
-## Model Predictions
-
-All that being said, here's how our model prices this game.
-
-### Spread
-- **Kentucky Wildcats**: 6.5, Edge For Covering Spread: -4.5%
-- **Vanderbilt Commodores**: -6.5, Edge For Covering Spread: -0.2%
-
-### Moneyline
-- **Kentucky Wildcats Win Probability**: 25.6%
-- **Vanderbilt Commodores Win Probability**: 74.4%
-
-### Total
-- **Predicted Total**: 159.5
-- **Edge For Covering The Over**: -3.9%
-- **Edge For Covering The Under**: -0.8%
-
----
-
-To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
