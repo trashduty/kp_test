@@ -26,6 +26,7 @@ import re
 # Constants
 KP_CSV_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/data/kp.csv"
 LOGOS_CSV_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/data/logos.csv"
+CROSSWALK_URL = "https://raw.githubusercontent.com/trashduty/cbb/main/data/crosswalk.csv"
 OUTPUT_DIR = "_vs_graphics"
 IMAGE_WIDTH = 1200
 IMAGE_HEIGHT = 600
@@ -65,6 +66,32 @@ def slugify(text):
     text = re.sub(r'[^\w\s-]', '', text)
     text = re.sub(r'[-\s]+', '-', text)
     return text.strip('-')
+
+
+def convert_api_to_kenpom_name(team_name, crosswalk_df):
+    """
+    Step 2-3: Convert team name from API format to KenPom format using crosswalk.
+    
+    Args:
+        team_name: Team name from kp.csv (Away Team or Home Team column)
+        crosswalk_df: DataFrame loaded from data/crosswalk.csv
+    
+    Returns:
+        KenPom name from crosswalk "kenpom" column, or original name if not found
+    """
+    if crosswalk_df is None or crosswalk_df.empty:
+        return team_name
+    
+    team_name_lower = team_name.strip().lower()
+    for _, row in crosswalk_df.iterrows():
+        api_name = str(row['API']).strip().lower()
+        if api_name == team_name_lower:
+            kenpom_name = str(row['kenpom']).strip()
+            print(f"  [Crosswalk] '{team_name}' (API) -> '{kenpom_name}' (kenpom)")
+            return kenpom_name
+    
+    print(f"  [Crosswalk] '{team_name}' not found in crosswalk, using original name")
+    return team_name
 
 
 def download_logo(url, cache_dir="_logo_cache"):
@@ -161,19 +188,26 @@ def resize_logo(logo, target_size=LOGO_SIZE):
     return logo_copy
 
 
-def match_team_logo(team_name, logos_df):
-    """Match team name from kp.csv with ncaa_name in logos.csv."""
-    print(f"  Looking for logo for: {team_name}")
+def find_team_logo(kenpom_name, logos_df):
+    """
+    Step 5: Find team logo using the kenpom name.
     
-    # Exact match on ncaa_name column
-    match = logos_df[logos_df['ncaa_name'] == team_name]
-    if not match.empty:
-        url = match.iloc[0]['logos']
-        print(f"  ✓ Found logo: {url}")
-        return url
+    Args:
+        kenpom_name: Team name in KenPom format (from crosswalk conversion)
+        logos_df: DataFrame loaded from data/logos.csv
     
-    print(f"  ✗ No logo found for: {team_name}")
-    print(f"     Available teams: {list(logos_df['ncaa_name'].head(10))}")
+    Returns:
+        Logo URL or None
+    """
+    if 'ncaa_name' in logos_df.columns:
+        for _, row in logos_df.iterrows():
+            ncaa_name = str(row['ncaa_name']).strip()
+            if ncaa_name == kenpom_name:
+                logo_url = row['logos']
+                print(f"  [Logo] Found logo for '{kenpom_name}': {logo_url}")
+                return logo_url
+    
+    print(f"  [Logo] Warning: No logo found for '{kenpom_name}'")
     return None
 
 
@@ -306,6 +340,7 @@ def main():
     print("Downloading data files...")
     kp_df = download_csv(KP_CSV_URL)
     logos_df = download_csv(LOGOS_CSV_URL)
+    crosswalk_df = download_csv(CROSSWALK_URL)
     
     print(f"Loaded {len(kp_df)} rows from kp.csv")
     print(f"kp.csv columns: {list(kp_df.columns)}")
@@ -339,15 +374,20 @@ def main():
         print(f"Processing: {away_team} @ {home_team} on {game_date}")
         print(f"{'='*60}")
         
-        # Match logos with error handling
+        # Step 2-3: Convert team names using crosswalk
+        print(f"Converting team names using crosswalk...")
+        away_kenpom_name = convert_api_to_kenpom_name(away_team, crosswalk_df)
+        home_kenpom_name = convert_api_to_kenpom_name(home_team, crosswalk_df)
+        
+        # Step 5: Match logos using kenpom names
         try:
-            away_logo_url = match_team_logo(away_team, logos_df)
+            away_logo_url = find_team_logo(away_kenpom_name, logos_df)
         except Exception as e:
             print(f"  ✗ Error matching away team logo: {e}")
             away_logo_url = None
             
         try:
-            home_logo_url = match_team_logo(home_team, logos_df)
+            home_logo_url = find_team_logo(home_kenpom_name, logos_df)
         except Exception as e:
             print(f"  ✗ Error matching home team logo: {e}")
             home_logo_url = None
