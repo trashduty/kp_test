@@ -2302,5 +2302,13 @@
   "Texas Southern Tigers vs. Alabama St Hornets|Texas Southern Tigers|moneyline": {
     "captured_at": "2026-01-27T01:36:48.136463+00:00",
     "edge_type": "moneyline"
+  },
+  "Duquesne Dukes vs. St. Bonaventure Bonnies|Duquesne Dukes|moneyline": {
+    "captured_at": "2026-01-27T23:07:32.228807+00:00",
+    "edge_type": "moneyline"
+  },
+  "Southern Illinois Salukis vs. Northern Iowa Panthers|under": {
+    "captured_at": "2026-01-27T23:07:32.228936+00:00",
+    "edge_type": "under"
   }
 }
