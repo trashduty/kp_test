@@ -78,7 +78,7 @@ def convert_api_to_kenpom_name(team_name, crosswalk_df):
     Step 2-3: Convert team name from API format to KenPom format using crosswalk.
     
     Args:
-        team_name: Team name from kp.csv (Away Team or Home Team column)
+        team_name: Team name from CBB_Output.csv (team column)
         crosswalk_df: DataFrame loaded from data/crosswalk.csv
     
     Returns:
@@ -374,6 +374,14 @@ def main():
         return
     
     print(f"Found {len(games_df)} team rows for target dates")
+    
+    # Validate required columns exist
+    required_columns = ['Game', 'team']
+    missing_columns = [col for col in required_columns if col not in games_df.columns]
+    if missing_columns:
+        print(f"ERROR: Missing required columns in CBB_Output.csv: {missing_columns}")
+        print(f"Available columns: {list(games_df.columns)}")
+        return
     
     # Each game has 2 rows (one per team), group them
     # We need to pair up the teams to create matchups
