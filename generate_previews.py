@@ -38,21 +38,16 @@ def download_csv(url):
 
 
 def normalize_team_name(team_name):
-    """Normalize team name for consistent matching."""
-    # Remove common suffixes (mascots)
-    team_name = re.sub(r'\s+(Rainbow Warriors|Matadors|Bulls|Owls|Jaguars|Mastodons|Lakers|Cougars|Huskies|Ducks|Purple Aces|Salukis|Badgers|Trojans)$', '', team_name)
-    # Handle special cases
-    replacements = {
-        "Hawai'i": "Hawaii",
-        "CSU Northridge": "CS Northridge",
-        "IUPUI": "IU Indy",
-        "Fort Wayne": "Purdue Fort Wayne",
-    }
-    for old, new in replacements.items():
-        if old in team_name:
-            team_name = team_name.replace(old, new)
+    """Normalize team name for consistent matching - minimal changes only.
     
-    # Normalize "St" vs "St."
+    Since all data comes from the same database source, we only need to handle
+    minor variations like "St" vs "St." format differences and "State" vs "St.".
+    """
+    # Normalize "State" to "St." for schools like "Ohio State" -> "Ohio St."
+    # This handles common abbreviation variations
+    team_name = team_name.replace(" State", " St.")
+    
+    # Normalize "St" vs "St." (e.g., "Ohio St" -> "Ohio St.")
     team_name = team_name.replace(" St ", " St. ")
     if team_name.endswith(" St"):
         team_name = team_name + "."
@@ -61,41 +56,34 @@ def normalize_team_name(team_name):
 
 
 def find_team_in_kenpom(team_name, kenpom_df):
-    """Find team in KenPom stats using flexible matching."""
+    """Find team in KenPom stats using exact matching only."""
     # Try exact match first
     exact_match = kenpom_df[kenpom_df['Team'] == team_name]
     if not exact_match.empty:
+        print(f"  [DEBUG] Exact match found for '{team_name}' -> '{team_name}'")
         return exact_match.iloc[0]
     
-    # Try normalized match
+    # Try normalized match (handles "St" vs "St." variations)
     normalized = normalize_team_name(team_name)
+    if normalized != team_name:
+        print(f"  [DEBUG] Trying normalized name: '{team_name}' -> '{normalized}'")
+    
     exact_match_normalized = kenpom_df[kenpom_df['Team'] == normalized]
     if not exact_match_normalized.empty:
+        print(f"  [DEBUG] Normalized match found for '{team_name}' -> '{normalized}'")
         return exact_match_normalized.iloc[0]
     
-    # Try matching normalized names
-    for _, row in kenpom_df.iterrows():
-        if normalize_team_name(row['Team']) == normalized:
-            return row
+    # Try matching with normalized kenpom names (using vectorized operation)
+    # Create a temporary series to avoid modifying the input DataFrame
+    normalized_kenpom_names = kenpom_df['Team'].apply(normalize_team_name)
+    matching_rows = kenpom_df[normalized_kenpom_names == normalized]
+    if not matching_rows.empty:
+        print(f"  [DEBUG] Match found after normalizing both: '{team_name}' -> '{matching_rows.iloc[0]['Team']}'")
+        return matching_rows.iloc[0]
     
-    # Only do partial match if no exact or normalized match found
-    # And prefer longer matches (more specific)
-    best_match = None
-    best_match_length = 0
-    
-    normalized_lower = normalized.lower()
-    for _, row in kenpom_df.iterrows():
-        row_team_lower = row['Team'].lower()
-        
-        # Check if either string contains the other
-        if normalized_lower in row_team_lower or row_team_lower in normalized_lower:
-            # Prefer the match with the longest common substring
-            match_length = min(len(normalized_lower), len(row_team_lower))
-            if match_length > best_match_length:
-                best_match = row
-                best_match_length = match_length
-    
-    return best_match
+    # No match found - DO NOT use partial matching
+    print(f"  [DEBUG] No match found for '{team_name}' (normalized: '{normalized}')")
+    return None
 
 
 def parse_game_time(game_time_str):
@@ -1087,20 +1075,39 @@ def main():
         kp_today = today.strftime('%Y-%m-%d')
         kp_tomorrow = tomorrow.strftime('%Y-%m-%d')
         
-        # Normalize team names for matching with kp.csv
-        team1_normalized = normalize_team_name(team1)
-        team2_normalized = normalize_team_name(team2)
+        # Use exact team names from CBB_Output.csv (no normalization)
+        # Since all data comes from the same database, names should match exactly
+        print(f"  [DEBUG] Looking for teams in kp.csv: '{team1}' and '{team2}'")
         
-        # Find entries in kp.csv for these dates and teams
+        # Find entries in kp.csv for these dates and teams using exact match
         team1_kp = kp_data[
             ((kp_data['date'] == kp_today) | (kp_data['date'] == kp_tomorrow)) &
-            ((kp_data['team'] == team1) | (kp_data['team'] == team1_normalized))
+            (kp_data['team'] == team1)
         ]
         
         team2_kp = kp_data[
             ((kp_data['date'] == kp_today) | (kp_data['date'] == kp_tomorrow)) &
-            ((kp_data['team'] == team2) | (kp_data['team'] == team2_normalized))
+            (kp_data['team'] == team2)
         ]
+        
+        # If exact match fails, try with normalized names (for "St" vs "St." variations)
+        if team1_kp.empty:
+            team1_normalized = normalize_team_name(team1)
+            if team1_normalized != team1:
+                print(f"  [DEBUG] Trying normalized name for team1: '{team1}' -> '{team1_normalized}'")
+                team1_kp = kp_data[
+                    ((kp_data['date'] == kp_today) | (kp_data['date'] == kp_tomorrow)) &
+                    (kp_data['team'] == team1_normalized)
+                ]
+        
+        if team2_kp.empty:
+            team2_normalized = normalize_team_name(team2)
+            if team2_normalized != team2:
+                print(f"  [DEBUG] Trying normalized name for team2: '{team2}' -> '{team2_normalized}'")
+                team2_kp = kp_data[
+                    ((kp_data['date'] == kp_today) | (kp_data['date'] == kp_tomorrow)) &
+                    (kp_data['team'] == team2_normalized)
+                ]
         
         # Determine away/home based on 'side' column
         if not team1_kp.empty and 'side' in team1_kp.columns:
