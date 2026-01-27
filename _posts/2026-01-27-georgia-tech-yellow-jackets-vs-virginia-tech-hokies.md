@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Virginia Tech Hokies -9.5</p>
-  <p><strong>Moneyline:</strong> Georgia Tech Yellow Jackets (+412) | Virginia Tech Hokies (-562)</p>
+  <p><strong>Moneyline:</strong> Georgia Tech Yellow Jackets (+382) | Virginia Tech Hokies (-535)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -126,17 +126,17 @@ Virginia Tech Hokies comes in ranked #57 overall by KenPom.
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Georgia Tech Yellow Jackets**: 9.5, Edge For Covering Spread: -2.1%
-- **Virginia Tech Hokies**: -9.5, Edge For Covering Spread: -2.5%
+- **Georgia Tech Yellow Jackets**: 9.5, Edge For Covering Spread: -3.4%
+- **Virginia Tech Hokies**: -9.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **Georgia Tech Yellow Jackets Win Probability**: 17.3%
-- **Virginia Tech Hokies Win Probability**: 82.7%
+- **Georgia Tech Yellow Jackets Win Probability**: 17.9%
+- **Virginia Tech Hokies Win Probability**: 82.1%
 
 ### Total
 - **Predicted Total**: 153.5
-- **Edge For Covering The Over**: -5.5%
-- **Edge For Covering The Under**: 0.7%
+- **Edge For Covering The Over**: -5.7%
+- **Edge For Covering The Under**: 1.0%
 
 ---
 

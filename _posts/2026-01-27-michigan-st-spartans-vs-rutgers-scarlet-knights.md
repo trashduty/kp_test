@@ -124,8 +124,8 @@ Rutgers Scarlet Knights comes in ranked #159 overall by KenPom. The three-point 
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan St Spartans**: -14.5, Edge For Covering Spread: -1.2%
-- **Rutgers Scarlet Knights**: 14.5, Edge For Covering Spread: -3.5%
+- **Michigan St Spartans**: -14.5, Edge For Covering Spread: -0.6%
+- **Rutgers Scarlet Knights**: 14.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
 - **Michigan St Spartans Win Probability**: 91.5%
@@ -133,8 +133,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 135.5
-- **Edge For Covering The Over**: -4.4%
-- **Edge For Covering The Under**: -0.3%
+- **Edge For Covering The Over**: -3.9%
+- **Edge For Covering The Under**: -0.9%
 
 ---
 

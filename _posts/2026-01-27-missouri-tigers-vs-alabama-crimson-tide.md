@@ -128,8 +128,8 @@ Alabama Crimson Tide comes in ranked #19 overall by KenPom. They boast one of th
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Missouri Tigers**: 10.5, Edge For Covering Spread: -2.1%
-- **Alabama Crimson Tide**: -10.5, Edge For Covering Spread: -2.7%
+- **Missouri Tigers**: 10.5, Edge For Covering Spread: -2.8%
+- **Alabama Crimson Tide**: -10.5, Edge For Covering Spread: -2.1%
 
 ### Moneyline
 - **Missouri Tigers Win Probability**: 16.0%
@@ -137,8 +137,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 165.5
-- **Edge For Covering The Over**: -1.4%
-- **Edge For Covering The Under**: -3.3%
+- **Edge For Covering The Over**: -1.7%
+- **Edge For Covering The Under**: -3.1%
 
 ---
 

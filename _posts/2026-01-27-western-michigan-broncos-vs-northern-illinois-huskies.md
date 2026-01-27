@@ -132,9 +132,9 @@ All that being said, here's how our model prices this game.
 - **Northern Illinois Huskies Win Probability**: 43.8%
 
 ### Total
-- **Predicted Total**: 147.0
-- **Edge For Covering The Over**: -1.0%
-- **Edge For Covering The Under**: -3.8%
+- **Predicted Total**: 146.5
+- **Edge For Covering The Over**: -1.8%
+- **Edge For Covering The Under**: -2.9%
 
 ---
 

@@ -126,8 +126,8 @@ Vanderbilt Commodores comes in ranked #13 overall by KenPom. They're dangerous f
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kentucky Wildcats**: 6.5, Edge For Covering Spread: -4.0%
-- **Vanderbilt Commodores**: -6.5, Edge For Covering Spread: -0.8%
+- **Kentucky Wildcats**: 6.5, Edge For Covering Spread: -4.5%
+- **Vanderbilt Commodores**: -6.5, Edge For Covering Spread: -0.2%
 
 ### Moneyline
 - **Kentucky Wildcats Win Probability**: 25.6%

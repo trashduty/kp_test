@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> VCU Rams -11.0</p>
-  <p><strong>Moneyline:</strong> Richmond Spiders (+495) | VCU Rams (-724)</p>
+  <p><strong>Moneyline:</strong> Richmond Spiders (+500) | VCU Rams (-724)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -133,8 +133,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 156.0
-- **Edge For Covering The Over**: -1.6%
-- **Edge For Covering The Under**: -3.1%
+- **Edge For Covering The Over**: -2.2%
+- **Edge For Covering The Under**: -2.6%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Stephen F. Austin Lumberjacks -14.5</p>
-  <p><strong>Moneyline:</strong> Northwestern St Demons (+895) | Stephen F. Austin Lumberjacks (-1649)</p>
+  <p><strong>Moneyline:</strong> Northwestern St Demons (+919) | Stephen F. Austin Lumberjacks (-1675)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -130,8 +130,8 @@ All that being said, here's how our model prices this game.
 - **Stephen F. Austin Lumberjacks**: -14.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Northwestern St Demons Win Probability**: 8.5%
-- **Stephen F. Austin Lumberjacks Win Probability**: 91.5%
+- **Northwestern St Demons Win Probability**: 8.4%
+- **Stephen F. Austin Lumberjacks Win Probability**: 91.6%
 
 ### Total
 - **Predicted Total**: 143.5

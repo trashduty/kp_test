@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Pittsburgh Panthers -1.5</p>
-  <p><strong>Moneyline:</strong> Wake Forest Demon Deacons (+112) | Pittsburgh Panthers (-132)</p>
+  <p><strong>Moneyline:</strong> Wake Forest Demon Deacons (+110) | Pittsburgh Panthers (-132)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -126,12 +126,12 @@ Pittsburgh Panthers comes in ranked #100 overall by KenPom.
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wake Forest Demon Deacons**: 1.5, Edge For Covering Spread: 1.1%
-- **Pittsburgh Panthers**: -1.5, Edge For Covering Spread: -5.7%
+- **Wake Forest Demon Deacons**: 1.5, Edge For Covering Spread: -0.2%
+- **Pittsburgh Panthers**: -1.5, Edge For Covering Spread: -4.5%
 
 ### Moneyline
-- **Wake Forest Demon Deacons Win Probability**: 47.6%
-- **Pittsburgh Panthers Win Probability**: 52.4%
+- **Wake Forest Demon Deacons Win Probability**: 47.8%
+- **Pittsburgh Panthers Win Probability**: 52.2%
 
 ### Total
 - **Predicted Total**: 148.0

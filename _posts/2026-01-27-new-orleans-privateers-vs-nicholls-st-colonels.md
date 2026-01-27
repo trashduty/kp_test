@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Nicholls St Colonels -3.5</p>
-  <p><strong>Moneyline:</strong> New Orleans Privateers (+162) | Nicholls St Colonels (-195)</p>
+  <p><strong>Moneyline:</strong> New Orleans Privateers (+159) | Nicholls St Colonels (-192)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -124,17 +124,17 @@ Nicholls St Colonels comes in ranked #231 overall by KenPom. Stopping opponents 
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **New Orleans Privateers**: 3.5, Edge For Covering Spread: -1.2%
-- **Nicholls St Colonels**: -3.5, Edge For Covering Spread: -3.5%
+- **New Orleans Privateers**: 3.5, Edge For Covering Spread: -0.5%
+- **Nicholls St Colonels**: -3.5, Edge For Covering Spread: -4.5%
 
 ### Moneyline
-- **New Orleans Privateers Win Probability**: 37.8%
-- **Nicholls St Colonels Win Probability**: 62.2%
+- **New Orleans Privateers Win Probability**: 38.0%
+- **Nicholls St Colonels Win Probability**: 62.0%
 
 ### Total
-- **Predicted Total**: 159.0
-- **Edge For Covering The Over**: -2.1%
-- **Edge For Covering The Under**: -2.7%
+- **Predicted Total**: 159.5
+- **Edge For Covering The Over**: -2.4%
+- **Edge For Covering The Under**: -2.4%
 
 ---
 
