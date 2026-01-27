@@ -3,7 +3,7 @@
 Generate VS graphics for daily basketball matchups.
 
 This script follows a 5-step process:
-1. Check games for today and tomorrow using CBB_Output.csv (from Google Sheets)
+1. Check games for today and tomorrow using CBB_Output.csv (from GitHub)
 2. Take the name of the team from the "team" column
 3. Search for that name in data/crosswalk.csv under the "API" column
 4. Use the kenpom name to search kp.csv in the column "team" (check "side" for home/away)
