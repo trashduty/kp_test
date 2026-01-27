@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Western Michigan Broncos**: -1.5, Edge For Covering Spread: -0.8%
 - **Northern Illinois Huskies**: 1.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Western Michigan Broncos Win Probability**: 56.2%
-- **Northern Illinois Huskies Win Probability**: 43.8%
+- **Western Michigan Broncos Win Probability**: 56.2%, Moneyline Edge: **0.4%**
+- **Northern Illinois Huskies Win Probability**: 43.8%, Moneyline Edge: -4.9%
 
 ### Total
 - **Predicted Total**: 146.5
-- **Edge For Covering The Over**: -1.8%
-- **Edge For Covering The Under**: -2.9%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 
@@ -60,7 +64,7 @@ From a coaching perspective, Dwayne Stephens leads Western Michigan Broncos whil
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Western Michigan Broncos significantly higher in the rankings, but as they say, that's why they play the games. Northern Illinois Huskies will need their best performance of the season to hang in this one. 
+This looks like a mismatch on paper with Western Michigan Broncos significantly higher in the rankings, but as they say, that's why they play the games. Northern Illinois Huskies will need their best performance to stay competitive. 
 
 **Key Matchup: Western Michigan Broncos's Offense vs Northern Illinois Huskies's Defense**
 

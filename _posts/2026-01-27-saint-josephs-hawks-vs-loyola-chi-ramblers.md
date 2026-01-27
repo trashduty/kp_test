@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
 
+All that being said, here's how our model prices this game.
+
 ### Spread
-- **Saint Joseph's Hawks**: -3.5, Edge For Covering Spread: 1.2%
+- **Saint Joseph's Hawks**: -3.5, Edge For Covering Spread: **1.2%**
 - **Loyola (Chi) Ramblers**: 3.5, Edge For Covering Spread: -6.2%
 
 ### Moneyline
-- **Saint Joseph's Hawks Win Probability**: 63.4%
-- **Loyola (Chi) Ramblers Win Probability**: 36.6%
+- **Saint Joseph's Hawks Win Probability**: 63.4%, Moneyline Edge: **1.4%**
+- **Loyola (Chi) Ramblers Win Probability**: 36.6%, Moneyline Edge: -5.5%
 
 ### Total
 - **Predicted Total**: 143.5
-- **Edge For Covering The Over**: -1.8%
-- **Edge For Covering The Under**: -2.9%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 
@@ -60,7 +64,7 @@ From a coaching perspective, Steve Donahue leads Saint Joseph's Hawks while Drew
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Saint Joseph's Hawks significantly higher in the rankings, but as they say, that's why they play the games. Loyola (Chi) Ramblers will need their best performance of the season to hang in this one. 
+This looks like a mismatch on paper with Saint Joseph's Hawks significantly higher in the rankings, but as they say, that's why they play the games. Loyola (Chi) Ramblers will need their best performance to stay competitive. 
 
 **Key Matchup: Saint Joseph's Hawks's Offense vs Loyola (Chi) Ramblers's Defense**
 

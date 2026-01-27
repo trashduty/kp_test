@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Virginia Cavaliers**: -9.5, Edge For Covering Spread: -5.2%
-- **Notre Dame Fighting Irish**: 9.5, Edge For Covering Spread: 0.5%
+- **Notre Dame Fighting Irish**: 9.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Virginia Cavaliers Win Probability**: 78.7%
-- **Notre Dame Fighting Irish Win Probability**: 21.3%
+- **Virginia Cavaliers Win Probability**: 78.7%, Moneyline Edge: -6.5%
+- **Notre Dame Fighting Irish Win Probability**: 21.3%, Moneyline Edge: **1.7%**
 
 ### Total
 - **Predicted Total**: 141.0
-- **Edge For Covering The Over**: -3.2%
-- **Edge For Covering The Under**: -1.6%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -60,13 +64,13 @@ From a coaching perspective, Ryan Odom leads Virginia Cavaliers while Micah Shre
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Virginia Cavaliers significantly higher in the rankings, but as they say, that's why they play the games. Notre Dame Fighting Irish will need their best performance of the season to hang in this one. 
+This looks like a mismatch on paper with Virginia Cavaliers significantly higher in the rankings, but as they say, that's why they play the games. Notre Dame Fighting Irish will need their best performance to stay competitive. 
 
 **Key Matchup: Virginia Cavaliers's Offense vs Notre Dame Fighting Irish's Defense**
 
 Virginia Cavaliers bring a elite offense (ranked #7) that could exploit Notre Dame Fighting Irish's defensive vulnerabilities (ranked #116). 
 
-**X-Factor:** Virginia Cavaliers can light it up from three-point range (36.7%), but Notre Dame Fighting Irish defend the arc exceptionally well, holding opponents to just 31.3%. Something's got to give. 
+**X-Factor:** Virginia Cavaliers can light it up from three-point range (36.7%), but Notre Dame Fighting Irish defend the arc exceptionally well, holding opponents to just 31.3%. This battle on the perimeter could decide the game. 
 
 
 ## Virginia Cavaliers

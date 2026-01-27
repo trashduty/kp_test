@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Kentucky Wildcats**: 6.5, Edge For Covering Spread: -4.5%
 - **Vanderbilt Commodores**: -6.5, Edge For Covering Spread: -0.2%
 
 ### Moneyline
-- **Kentucky Wildcats Win Probability**: 25.7%
-- **Vanderbilt Commodores Win Probability**: 74.3%
+- **Kentucky Wildcats Win Probability**: 25.7%, Moneyline Edge: -4.2%
+- **Vanderbilt Commodores Win Probability**: 74.3%, Moneyline Edge: **0.1%**
 
 ### Total
 - **Predicted Total**: 159.5
-- **Edge For Covering The Over**: -3.9%
-- **Edge For Covering The Under**: -0.8%
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -1.1%
 
 ---
 

@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Northwestern St Demons**: 14.5, Edge For Covering Spread: -2.2%
 - **Stephen F. Austin Lumberjacks**: -14.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Northwestern St Demons Win Probability**: 8.4%
-- **Stephen F. Austin Lumberjacks Win Probability**: 91.6%
+- **Northwestern St Demons Win Probability**: 8.4%, Moneyline Edge: -1.4%
+- **Stephen F. Austin Lumberjacks Win Probability**: 91.6%, Moneyline Edge: -2.8%
 
 ### Total
 - **Predicted Total**: 143.5
-- **Edge For Covering The Over**: -2.4%
-- **Edge For Covering The Under**: -2.4%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -41,7 +45,7 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 Stephen F. Austin Lumberjacks (17-3) hosts Northwestern St Demons (6-13) at Johnson Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Stephen F. Austin Lumberjacks favored by 14.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 14.5-point spread screams mismatch. The books are asking Northwestern St Demons to hang within two possessions, which based on the profiles, requires Stephen F. Austin Lumberjacks to play below their standards. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 14.5-point spread screams mismatch. The books are asking Northwestern St Demons to hang within two possessions, which based on the profiles, requires Stephen F. Austin Lumberjacks to play below their standard. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Northwestern St Demons** bring an offensive efficiency of 104.72 (ranked #237 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.8% three-point shooting is serviceable but won't scare anyone. 
@@ -60,7 +64,7 @@ From a coaching perspective, Rick Cabrera leads Northwestern St Demons while Mat
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Stephen F. Austin Lumberjacks significantly higher in the rankings, but as they say, that's why they play the games. Northwestern St Demons will need their best performance of the season to hang in this one. 
+This looks like a mismatch on paper with Stephen F. Austin Lumberjacks significantly higher in the rankings, but as they say, that's why they play the games. Northwestern St Demons will need their best performance to stay competitive. 
 
 **Key Matchup: Stephen F. Austin Lumberjacks's Offense vs Northwestern St Demons's Defense**
 

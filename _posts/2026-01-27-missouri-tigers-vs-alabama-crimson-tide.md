@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Missouri Tigers**: 10.5, Edge For Covering Spread: -2.8%
 - **Alabama Crimson Tide**: -10.5, Edge For Covering Spread: -2.1%
 
 ### Moneyline
-- **Missouri Tigers Win Probability**: 16.0%
-- **Alabama Crimson Tide Win Probability**: 84.0%
+- **Missouri Tigers Win Probability**: 16.0%, Moneyline Edge: -0.7%
+- **Alabama Crimson Tide Win Probability**: 84.0%, Moneyline Edge: -3.6%
 
 ### Total
 - **Predicted Total**: 165.5
-- **Edge For Covering The Over**: -1.7%
-- **Edge For Covering The Under**: -3.1%
+- Edge For Covering The Over: -2.0%
+- Edge For Covering The Under: -2.7%
 
 ---
 
@@ -68,7 +72,7 @@ Missouri Tigers bring a solid offense (ranked #53) that could exploit Alabama Cr
 
 **Pace of Play:** Alabama Crimson Tide like to push the pace, while Missouri Tigers prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
 
-**X-Factor:** Missouri Tigers can light it up from three-point range (35.5%), but Alabama Crimson Tide defend the arc exceptionally well, holding opponents to just 31.9%. Something's got to give. 
+**X-Factor:** Missouri Tigers can light it up from three-point range (35.5%), but Alabama Crimson Tide defend the arc exceptionally well, holding opponents to just 31.9%. This battle on the perimeter could decide the game. 
 
 
 ## Missouri Tigers

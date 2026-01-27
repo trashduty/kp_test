@@ -12,25 +12,29 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama St Hornets -1.5</p>
-  <p><strong>Moneyline:</strong> Alabama St Hornets (-116) | Texas Southern Tigers (-104)</p>
+  <p><strong>Moneyline:</strong> Alabama St Hornets (-120) | Texas Southern Tigers (-100)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Alabama St Hornets**: -1.5, Edge For Covering Spread: -1.6%
 - **Texas Southern Tigers**: 1.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Alabama St Hornets Win Probability**: 48.2%
-- **Texas Southern Tigers Win Probability**: 51.8%
+- **Alabama St Hornets Win Probability**: 48.6%, Moneyline Edge: -6.0%
+- **Texas Southern Tigers Win Probability**: 51.4%, Moneyline Edge: **1.4%**
 
 ### Total
 - **Predicted Total**: 157.5
-- **Edge For Covering The Over**: -3.5%
-- **Edge For Covering The Under**: -1.2%
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 

@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **New Mexico Lobos**: -4.5, Edge For Covering Spread: -1.9%
 - **UNLV Rebels**: 4.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **New Mexico Lobos Win Probability**: 64.9%
-- **UNLV Rebels Win Probability**: 35.1%
+- **New Mexico Lobos Win Probability**: 64.9%, Moneyline Edge: -2.8%
+- **UNLV Rebels Win Probability**: 35.1%, Moneyline Edge: -1.6%
 
 ### Total
 - **Predicted Total**: 157.0
-- **Edge For Covering The Over**: -3.2%
-- **Edge For Covering The Under**: -1.6%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -60,7 +64,7 @@ From a coaching perspective, Eric Olen leads New Mexico Lobos while Josh Pastner
 
 ### Game Storylines
 
-This looks like a mismatch on paper with New Mexico Lobos significantly higher in the rankings, but as they say, that's why they play the games. UNLV Rebels will need their best performance of the season to hang in this one. 
+This looks like a mismatch on paper with New Mexico Lobos significantly higher in the rankings, but as they say, that's why they play the games. UNLV Rebels will need their best performance to stay competitive. 
 
 **Key Matchup: New Mexico Lobos's Offense vs UNLV Rebels's Defense**
 

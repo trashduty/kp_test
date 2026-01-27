@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Syracuse Orange**: 11.0, Edge For Covering Spread: -1.0%
 - **NC State Wolfpack**: -11.0, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **Syracuse Orange Win Probability**: 16.4%
-- **NC State Wolfpack Win Probability**: 83.6%
+- **Syracuse Orange Win Probability**: 16.4%, Moneyline Edge: -0.3%
+- **NC State Wolfpack Win Probability**: 83.6%, Moneyline Edge: -5.1%
 
 ### Total
 - **Predicted Total**: 152.0
-- **Edge For Covering The Over**: -1.9%
-- **Edge For Covering The Under**: -2.9%
+- Edge For Covering The Over: -1.9%
+- Edge For Covering The Under: -2.9%
 
 ---
 

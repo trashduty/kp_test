@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Creighton Bluejays**: -1.5, Edge For Covering Spread: -2.2%
 - **Marquette Golden Eagles**: 1.5, Edge For Covering Spread: -2.5%
 
 ### Moneyline
-- **Creighton Bluejays Win Probability**: 58.2%
-- **Marquette Golden Eagles Win Probability**: 41.8%
+- **Creighton Bluejays Win Probability**: 58.2%, Moneyline Edge: **0.3%**
+- **Marquette Golden Eagles Win Probability**: 41.8%, Moneyline Edge: -4.8%
 
 ### Total
 - **Predicted Total**: 154.5
-- **Edge For Covering The Over**: -4.3%
-- **Edge For Covering The Under**: -0.4%
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 
@@ -60,7 +64,7 @@ From a coaching perspective, Greg McDermott leads Creighton Bluejays while Shaka
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Creighton Bluejays significantly higher in the rankings, but as they say, that's why they play the games. Marquette Golden Eagles will need their best performance of the season to hang in this one. 
+This looks like a mismatch on paper with Creighton Bluejays significantly higher in the rankings, but as they say, that's why they play the games. Marquette Golden Eagles will need their best performance to stay competitive. 
 
 **Key Matchup: Creighton Bluejays's Offense vs Marquette Golden Eagles's Defense**
 

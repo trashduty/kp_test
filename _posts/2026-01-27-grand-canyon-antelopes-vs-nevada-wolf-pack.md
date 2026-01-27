@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
 
+All that being said, here's how our model prices this game.
+
 ### Spread
-- **Grand Canyon Antelopes**: 3.5, Edge For Covering Spread: -2.5%
-- **Nevada Wolf Pack**: -3.5, Edge For Covering Spread: -2.3%
+- **Grand Canyon Antelopes**: 3.5, Edge For Covering Spread: -2.2%
+- **Nevada Wolf Pack**: -3.5, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **Grand Canyon Antelopes Win Probability**: 37.4%
-- **Nevada Wolf Pack Win Probability**: 62.6%
+- **Grand Canyon Antelopes Win Probability**: 37.4%, Moneyline Edge: -3.0%
+- **Nevada Wolf Pack Win Probability**: 62.6%, Moneyline Edge: -1.0%
 
 ### Total
 - **Predicted Total**: 141.5
-- **Edge For Covering The Over**: -1.8%
-- **Edge For Covering The Under**: -2.9%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

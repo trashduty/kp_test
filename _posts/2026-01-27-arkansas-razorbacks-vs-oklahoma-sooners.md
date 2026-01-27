@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
 
+All that being said, here's how our model prices this game.
+
 ### Spread
-- **Arkansas Razorbacks**: -2.5, Edge For Covering Spread: 0.3%
+- **Arkansas Razorbacks**: -2.5, Edge For Covering Spread: **0.3%**
 - **Oklahoma Sooners**: 2.5, Edge For Covering Spread: -5.0%
 
 ### Moneyline
-- **Arkansas Razorbacks Win Probability**: 60.8%
-- **Oklahoma Sooners Win Probability**: 39.2%
+- **Arkansas Razorbacks Win Probability**: 60.8%, Moneyline Edge: **0.8%**
+- **Oklahoma Sooners Win Probability**: 39.2%, Moneyline Edge: -5.0%
 
 ### Total
 - **Predicted Total**: 167.0
-- **Edge For Covering The Over**: -1.3%
-- **Edge For Covering The Under**: -3.5%
+- Edge For Covering The Over: -1.3%
+- Edge For Covering The Under: -3.5%
 
 ---
 

@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Indiana St Sycamores**: 6.5, Edge For Covering Spread: -5.4%
-- **UIC Flames**: -6.5, Edge For Covering Spread: 0.7%
+- **UIC Flames**: -6.5, Edge For Covering Spread: **0.7%**
 
 ### Moneyline
-- **Indiana St Sycamores Win Probability**: 26.9%
-- **UIC Flames Win Probability**: 73.1%
+- **Indiana St Sycamores Win Probability**: 26.9%, Moneyline Edge: -3.8%
+- **UIC Flames Win Probability**: 73.1%, Moneyline Edge: -0.4%
 
 ### Total
 - **Predicted Total**: 146.0
-- **Edge For Covering The Over**: -4.1%
-- **Edge For Covering The Under**: -0.6%
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -0.0%
 
 ---
 
@@ -60,7 +64,7 @@ From a coaching perspective, Matthew Graves leads Indiana St Sycamores while Rob
 
 ### Game Storylines
 
-This looks like a mismatch on paper with UIC Flames significantly higher in the rankings, but as they say, that's why they play the games. Indiana St Sycamores will need their best performance of the season to hang in this one. 
+This looks like a mismatch on paper with UIC Flames significantly higher in the rankings, but as they say, that's why they play the games. Indiana St Sycamores will need their best performance to stay competitive. 
 
 **Key Matchup: The Battle in the Trenches**
 

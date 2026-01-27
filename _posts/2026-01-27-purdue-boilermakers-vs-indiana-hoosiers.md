@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Purdue Boilermakers**: -4.5, Edge For Covering Spread: -2.5%
 - **Indiana Hoosiers**: 4.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Purdue Boilermakers Win Probability**: 63.0%
-- **Indiana Hoosiers Win Probability**: 37.0%
+- **Purdue Boilermakers Win Probability**: 63.0%, Moneyline Edge: -2.6%
+- **Indiana Hoosiers Win Probability**: 37.0%, Moneyline Edge: -1.5%
 
 ### Total
 - **Predicted Total**: 151.5
-- **Edge For Covering The Over**: -2.9%
-- **Edge For Covering The Under**: -1.8%
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 
@@ -66,7 +70,7 @@ On paper, Purdue Boilermakers holds the advantage as the higher-ranked team, but
 
 Purdue Boilermakers bring a elite offense (ranked #4) that could exploit Indiana Hoosiers's defensive vulnerabilities (ranked #66). 
 
-**X-Factor:** Purdue Boilermakers can light it up from three-point range (38.3%), but Indiana Hoosiers defend the arc exceptionally well, holding opponents to just 30.6%. Something's got to give. 
+**X-Factor:** Purdue Boilermakers can light it up from three-point range (38.3%), but Indiana Hoosiers defend the arc exceptionally well, holding opponents to just 30.6%. This battle on the perimeter could decide the game. 
 
 
 ## Purdue Boilermakers

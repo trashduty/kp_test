@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **New Orleans Privateers**: 3.5, Edge For Covering Spread: -0.5%
 - **Nicholls St Colonels**: -3.5, Edge For Covering Spread: -4.5%
 
 ### Moneyline
-- **New Orleans Privateers Win Probability**: 38.0%
-- **Nicholls St Colonels Win Probability**: 62.0%
+- **New Orleans Privateers Win Probability**: 38.0%, Moneyline Edge: -0.6%
+- **Nicholls St Colonels Win Probability**: 62.0%, Moneyline Edge: -3.8%
 
 ### Total
 - **Predicted Total**: 159.5
-- **Edge For Covering The Over**: -1.9%
-- **Edge For Covering The Under**: -2.8%
+- Edge For Covering The Over: -1.9%
+- Edge For Covering The Under: -2.8%
 
 ---
 

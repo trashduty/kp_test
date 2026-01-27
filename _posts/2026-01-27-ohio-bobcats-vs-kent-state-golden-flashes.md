@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Ohio Bobcats**: 8.5, Edge For Covering Spread: -3.5%
 - **Kent State Golden Flashes**: -8.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Ohio Bobcats Win Probability**: 24.0%
-- **Kent State Golden Flashes Win Probability**: 76.0%
+- **Ohio Bobcats Win Probability**: 24.0%, Moneyline Edge: -1.1%
+- **Kent State Golden Flashes Win Probability**: 76.0%, Moneyline Edge: -3.5%
 
 ### Total
 - **Predicted Total**: 163.0
-- **Edge For Covering The Over**: -2.7%
-- **Edge For Covering The Under**: -2.0%
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.0%
 
 ---
 
@@ -60,7 +64,7 @@ From a coaching perspective, Jeff Boals leads Ohio Bobcats while Rob Senderoff g
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Kent State Golden Flashes significantly higher in the rankings, but as they say, that's why they play the games. Ohio Bobcats will need their best performance of the season to hang in this one. 
+This looks like a mismatch on paper with Kent State Golden Flashes significantly higher in the rankings, but as they say, that's why they play the games. Ohio Bobcats will need their best performance to stay competitive. 
 
 **Key Matchup: Kent State Golden Flashes's Offense vs Ohio Bobcats's Defense**
 

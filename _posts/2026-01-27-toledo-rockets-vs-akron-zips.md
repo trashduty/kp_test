@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Toledo Rockets**: 12.5, Edge For Covering Spread: -5.0%
-- **Akron Zips**: -12.5, Edge For Covering Spread: 0.3%
+- **Akron Zips**: -12.5, Edge For Covering Spread: **0.3%**
 
 ### Moneyline
-- **Toledo Rockets Win Probability**: 13.0%
-- **Akron Zips Win Probability**: 87.0%
+- **Toledo Rockets Win Probability**: 13.0%, Moneyline Edge: -0.5%
+- **Akron Zips Win Probability**: 87.0%, Moneyline Edge: -3.9%
 
 ### Total
 - **Predicted Total**: 170.0
-- **Edge For Covering The Over**: -1.6%
-- **Edge For Covering The Under**: -3.1%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.1%
 
 ---
 
@@ -41,7 +45,7 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 Akron Zips (16-4) hosts Toledo Rockets (11-9) at Rhodes Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Akron Zips favored by 12.5 points, with the total sitting at 169.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 12.5-point spread screams mismatch. The books are asking Toledo Rockets to hang within two possessions, which based on the profiles, requires Akron Zips to play below their standards. The total of 169.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 12.5-point spread screams mismatch. The books are asking Toledo Rockets to hang within two possessions, which based on the profiles, requires Akron Zips to play below their standard. The total of 169.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Toledo Rockets** bring an offensive efficiency of 113.37 (ranked #91 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.1% three-point shooting is serviceable but won't scare anyone. 
@@ -60,7 +64,7 @@ From a coaching perspective, Tod Kowalczyk leads Toledo Rockets while John Groce
 Akron Zips's offense (#2) could exploit Toledo Rockets's defensive vulnerabilities (#283). 
 ### Game Storylines
 
-This looks like a mismatch on paper with Akron Zips significantly higher in the rankings, but as they say, that's why they play the games. Toledo Rockets will need their best performance of the season to hang in this one. 
+This looks like a mismatch on paper with Akron Zips significantly higher in the rankings, but as they say, that's why they play the games. Toledo Rockets will need their best performance to stay competitive. 
 
 **Key Matchup: Toledo Rockets's Offense vs Akron Zips's Defense**
 

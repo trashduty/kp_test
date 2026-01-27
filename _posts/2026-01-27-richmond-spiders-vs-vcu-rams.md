@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Richmond Spiders**: 11.0, Edge For Covering Spread: -2.4%
 - **VCU Rams**: -11.0, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Richmond Spiders Win Probability**: 16.0%
-- **VCU Rams Win Probability**: 84.0%
+- **Richmond Spiders Win Probability**: 16.0%, Moneyline Edge: -0.7%
+- **VCU Rams Win Probability**: 84.0%, Moneyline Edge: -3.8%
 
 ### Total
 - **Predicted Total**: 156.0
-- **Edge For Covering The Over**: -2.2%
-- **Edge For Covering The Under**: -2.6%
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -2.6%
 
 ---
 
@@ -60,7 +64,7 @@ From a coaching perspective, Chris Mooney leads Richmond Spiders while Phil Mart
 
 ### Game Storylines
 
-This looks like a mismatch on paper with VCU Rams significantly higher in the rankings, but as they say, that's why they play the games. Richmond Spiders will need their best performance of the season to hang in this one. 
+This looks like a mismatch on paper with VCU Rams significantly higher in the rankings, but as they say, that's why they play the games. Richmond Spiders will need their best performance to stay competitive. 
 
 **Key Matchup: VCU Rams's Offense vs Richmond Spiders's Defense**
 

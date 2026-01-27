@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Georgia Tech Yellow Jackets**: 9.5, Edge For Covering Spread: -4.0%
 - **Virginia Tech Hokies**: -9.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Georgia Tech Yellow Jackets Win Probability**: 17.7%
-- **Virginia Tech Hokies Win Probability**: 82.3%
+- **Georgia Tech Yellow Jackets Win Probability**: 17.7%, Moneyline Edge: -2.7%
+- **Virginia Tech Hokies Win Probability**: 82.3%, Moneyline Edge: -2.3%
 
 ### Total
 - **Predicted Total**: 153.5
-- **Edge For Covering The Over**: -5.7%
-- **Edge For Covering The Under**: 1.0%
+- Edge For Covering The Over: -5.7%
+- Edge For Covering The Under: **1.0%**
 
 ---
 
@@ -60,13 +64,13 @@ From a coaching perspective, Damon Stoudamire leads Georgia Tech Yellow Jackets 
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Virginia Tech Hokies significantly higher in the rankings, but as they say, that's why they play the games. Georgia Tech Yellow Jackets will need their best performance of the season to hang in this one. 
+This looks like a mismatch on paper with Virginia Tech Hokies significantly higher in the rankings, but as they say, that's why they play the games. Georgia Tech Yellow Jackets will need their best performance to stay competitive. 
 
 **Key Matchup: The Battle in the Trenches**
 
 Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
 
-**X-Factor:** Georgia Tech Yellow Jackets can light it up from three-point range (36.6%), but Virginia Tech Hokies defend the arc exceptionally well, holding opponents to just 30.1%. Something's got to give. 
+**X-Factor:** Georgia Tech Yellow Jackets can light it up from three-point range (36.6%), but Virginia Tech Hokies defend the arc exceptionally well, holding opponents to just 30.1%. This battle on the perimeter could decide the game. 
 
 
 ## Georgia Tech Yellow Jackets

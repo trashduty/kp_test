@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Rhode Island Rams**: 8.5, Edge For Covering Spread: -1.8%
 - **Dayton Flyers**: -8.5, Edge For Covering Spread: -3.0%
 
 ### Moneyline
-- **Rhode Island Rams Win Probability**: 23.5%
-- **Dayton Flyers Win Probability**: 76.5%
+- **Rhode Island Rams Win Probability**: 23.5%, Moneyline Edge: -1.6%
+- **Dayton Flyers Win Probability**: 76.5%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 136.5
-- **Edge For Covering The Over**: -2.4%
-- **Edge For Covering The Under**: -2.4%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

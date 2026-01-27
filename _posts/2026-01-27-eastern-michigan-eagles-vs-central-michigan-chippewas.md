@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Eastern Michigan Eagles**: -3.5, Edge For Covering Spread: -1.3%
 - **Central Michigan Chippewas**: 3.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Eastern Michigan Eagles Win Probability**: 62.9%
-- **Central Michigan Chippewas Win Probability**: 37.1%
+- **Eastern Michigan Eagles Win Probability**: 62.9%, Moneyline Edge: **0.7%**
+- **Central Michigan Chippewas Win Probability**: 37.1%, Moneyline Edge: -4.7%
 
 ### Total
 - **Predicted Total**: 138.0
-- **Edge For Covering The Over**: -2.6%
-- **Edge For Covering The Under**: -2.2%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 
@@ -60,7 +64,7 @@ From a coaching perspective, Stan Heath leads Eastern Michigan Eagles while Andy
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Eastern Michigan Eagles significantly higher in the rankings, but as they say, that's why they play the games. Central Michigan Chippewas will need their best performance of the season to hang in this one. 
+This looks like a mismatch on paper with Eastern Michigan Eagles significantly higher in the rankings, but as they say, that's why they play the games. Central Michigan Chippewas will need their best performance to stay competitive. 
 
 **Key Matchup: Eastern Michigan Eagles's Offense vs Central Michigan Chippewas's Defense**
 

@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Wake Forest Demon Deacons**: 1.5, Edge For Covering Spread: -0.2%
 - **Pittsburgh Panthers**: -1.5, Edge For Covering Spread: -4.5%
 
 ### Moneyline
-- **Wake Forest Demon Deacons Win Probability**: 47.8%
-- **Pittsburgh Panthers Win Probability**: 52.2%
+- **Wake Forest Demon Deacons Win Probability**: 47.8%, Moneyline Edge: **0.1%**
+- **Pittsburgh Panthers Win Probability**: 52.2%, Moneyline Edge: -4.7%
 
 ### Total
 - **Predicted Total**: 148.0
-- **Edge For Covering The Over**: -3.2%
-- **Edge For Covering The Under**: -1.5%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.5%
 
 ---
 

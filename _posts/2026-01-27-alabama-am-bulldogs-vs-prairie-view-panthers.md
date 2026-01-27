@@ -11,26 +11,30 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Prairie View Panthers -1.5</p>
-  <p><strong>Moneyline:</strong> Alabama A&M Bulldogs (+115) | Prairie View Panthers (-135)</p>
+  <p><strong>Spread:</strong> Prairie View Panthers -2.5</p>
+  <p><strong>Moneyline:</strong> Alabama A&M Bulldogs (+116) | Prairie View Panthers (-140)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
 
+---
+
 ## Model Predictions
 
+All that being said, here's how our model prices this game.
+
 ### Spread
-- **Alabama A&M Bulldogs**: 1.5, Edge For Covering Spread: -2.1%
-- **Prairie View Panthers**: -1.5, Edge For Covering Spread: -2.9%
+- **Alabama A&M Bulldogs**: 2.5, Edge For Covering Spread: -3.5%
+- **Prairie View Panthers**: -2.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Alabama A&M Bulldogs Win Probability**: 42.6%
-- **Prairie View Panthers Win Probability**: 57.4%
+- **Alabama A&M Bulldogs Win Probability**: 42.4%, Moneyline Edge: -3.9%
+- **Prairie View Panthers Win Probability**: 57.6%, Moneyline Edge: -0.7%
 
 ### Total
 - **Predicted Total**: 152.5
-- **Edge For Covering The Over**: -2.4%
-- **Edge For Covering The Under**: -2.4%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -38,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Alabama A&M Bulldogs (10-9) travels to face Prairie View Panthers (8-12) at William Nicks Building, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Prairie View Panthers favored by 1.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Alabama A&M Bulldogs (10-9) travels to face Prairie View Panthers (8-12) at William Nicks Building, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Prairie View Panthers favored by 2.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Prairie View Panthers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Prairie View Panthers's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Alabama A&M Bulldogs** bring an offensive efficiency of 101.78 (ranked #285 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.9% from three, they can't rely on the arc. Expect a paint-focused attack. 

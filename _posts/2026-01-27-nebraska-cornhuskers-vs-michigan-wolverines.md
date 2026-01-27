@@ -12,25 +12,29 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan Wolverines -10.5</p>
-  <p><strong>Moneyline:</strong> Nebraska Cornhuskers (+460) | Michigan Wolverines (-650)</p>
+  <p><strong>Moneyline:</strong> Nebraska Cornhuskers (+440) | Michigan Wolverines (-650)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Nebraska Cornhuskers**: 10.5, Edge For Covering Spread: -2.4%
 - **Michigan Wolverines**: -10.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Nebraska Cornhuskers Win Probability**: 16.8%
-- **Michigan Wolverines Win Probability**: 83.2%
+- **Nebraska Cornhuskers Win Probability**: 17.1%, Moneyline Edge: -1.5%
+- **Michigan Wolverines Win Probability**: 82.9%, Moneyline Edge: -3.7%
 
 ### Total
 - **Predicted Total**: 154.5
-- **Edge For Covering The Over**: -3.9%
-- **Edge For Covering The Under**: -0.9%
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.9%
 
 ---
 
@@ -68,7 +72,7 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 **Pace of Play:** Michigan Wolverines like to push the pace, while Nebraska Cornhuskers prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
 
-**X-Factor:** Nebraska Cornhuskers can light it up from three-point range (35.5%), but Michigan Wolverines defend the arc exceptionally well, holding opponents to just 30.2%. Something's got to give. 
+**X-Factor:** Nebraska Cornhuskers can light it up from three-point range (35.5%), but Michigan Wolverines defend the arc exceptionally well, holding opponents to just 30.2%. This battle on the perimeter could decide the game. 
 
 
 ## Nebraska Cornhuskers

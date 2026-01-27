@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Buffalo Bulls**: 8.0, Edge For Covering Spread: -2.0%
 - **Bowling Green Falcons**: -8.0, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Buffalo Bulls Win Probability**: 24.5%
-- **Bowling Green Falcons Win Probability**: 75.5%
+- **Buffalo Bulls Win Probability**: 24.5%, Moneyline Edge: -0.6%
+- **Bowling Green Falcons Win Probability**: 75.5%, Moneyline Edge: -4.0%
 
 ### Total
 - **Predicted Total**: 149.5
-- **Edge For Covering The Over**: -2.9%
-- **Edge For Covering The Under**: -1.8%
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 
@@ -60,7 +64,7 @@ From a coaching perspective, George Halcovage leads Buffalo Bulls while Todd Sim
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Bowling Green Falcons significantly higher in the rankings, but as they say, that's why they play the games. Buffalo Bulls will need their best performance of the season to hang in this one. 
+This looks like a mismatch on paper with Bowling Green Falcons significantly higher in the rankings, but as they say, that's why they play the games. Buffalo Bulls will need their best performance to stay competitive. 
 
 **Key Matchup: Bowling Green Falcons's Offense vs Buffalo Bulls's Defense**
 

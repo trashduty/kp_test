@@ -17,20 +17,24 @@ categories: [basketball, preview]
 </div>
 
 
+---
+
 ## Model Predictions
+
+All that being said, here's how our model prices this game.
 
 ### Spread
 - **Massachusetts Minutemen**: 9.5, Edge For Covering Spread: -5.6%
-- **Miami (OH) RedHawks**: -9.5, Edge For Covering Spread: 0.8%
+- **Miami (OH) RedHawks**: -9.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Massachusetts Minutemen Win Probability**: 17.6%
-- **Miami (OH) RedHawks Win Probability**: 82.4%
+- **Massachusetts Minutemen Win Probability**: 17.6%, Moneyline Edge: -2.4%
+- **Miami (OH) RedHawks Win Probability**: 82.4%, Moneyline Edge: -2.2%
 
 ### Total
 - **Predicted Total**: 164.0
-- **Edge For Covering The Over**: -3.7%
-- **Edge For Covering The Under**: -1.0%
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -1.0%
 
 ---
 
@@ -60,7 +64,7 @@ From a coaching perspective, Frank Martin leads Massachusetts Minutemen while Tr
 
 ### Game Storylines
 
-This looks like a mismatch on paper with Miami (OH) RedHawks significantly higher in the rankings, but as they say, that's why they play the games. Massachusetts Minutemen will need their best performance of the season to hang in this one. 
+This looks like a mismatch on paper with Miami (OH) RedHawks significantly higher in the rankings, but as they say, that's why they play the games. Massachusetts Minutemen will need their best performance to stay competitive. 
 
 **Key Matchup: Miami (OH) RedHawks's Offense vs Massachusetts Minutemen's Defense**
 
