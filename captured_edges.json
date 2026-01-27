@@ -2294,5 +2294,9 @@
   "Miami (OH) RedHawks vs. Massachusetts Minutemen|Miami (OH) RedHawks|spread": {
     "captured_at": "2026-01-26T23:08:19.604872+00:00",
     "edge_type": "spread"
+  },
+  "Akron Zips vs. Toledo Rockets|Akron Zips|spread": {
+    "captured_at": "2026-01-27T00:32:21.407677+00:00",
+    "edge_type": "spread"
   }
 }
