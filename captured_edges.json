@@ -2322,5 +2322,21 @@
   "Robert Morris Colonials vs. IUPUI Jaguars|over": {
     "captured_at": "2026-01-28T01:36:31.124867+00:00",
     "edge_type": "over"
+  },
+  "Robert Morris Colonials vs. IUPUI Jaguars|Robert Morris Colonials|spread": {
+    "captured_at": "2026-01-28T04:24:30.124724+00:00",
+    "edge_type": "spread"
+  },
+  "Robert Morris Colonials vs. IUPUI Jaguars|Robert Morris Colonials|moneyline": {
+    "captured_at": "2026-01-28T04:24:30.124768+00:00",
+    "edge_type": "moneyline"
+  },
+  "Loyola (MD) Greyhounds vs. American Eagles|American Eagles|moneyline": {
+    "captured_at": "2026-01-28T04:24:30.125292+00:00",
+    "edge_type": "moneyline"
+  },
+  "Omaha Mavericks vs. South Dakota St Jackrabbits|Omaha Mavericks|spread": {
+    "captured_at": "2026-01-28T04:24:30.126536+00:00",
+    "edge_type": "spread"
   }
 }
