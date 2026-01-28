@@ -2366,5 +2366,13 @@
   "CSU Northridge Matadors vs. UC Davis Aggies|CSU Northridge Matadors|moneyline": {
     "captured_at": "2026-01-28T21:11:37.965281+00:00",
     "edge_type": "moneyline"
+  },
+  "Furman Paladins vs. Samford Bulldogs|under": {
+    "captured_at": "2026-01-28T22:09:58.435390+00:00",
+    "edge_type": "under"
+  },
+  "Chattanooga Mocs vs. Wofford Terriers|Chattanooga Mocs|moneyline": {
+    "captured_at": "2026-01-28T22:09:58.435584+00:00",
+    "edge_type": "moneyline"
   }
 }
