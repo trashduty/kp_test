@@ -2374,5 +2374,25 @@
   "Chattanooga Mocs vs. Wofford Terriers|Chattanooga Mocs|moneyline": {
     "captured_at": "2026-01-28T22:09:58.435584+00:00",
     "edge_type": "moneyline"
+  },
+  "Mercer Bears vs. UNC Greensboro Spartans|Mercer Bears|spread": {
+    "captured_at": "2026-01-28T23:10:10.032278+00:00",
+    "edge_type": "spread"
+  },
+  "Drexel Dragons vs. Hampton Pirates|Drexel Dragons|spread": {
+    "captured_at": "2026-01-28T23:10:10.032400+00:00",
+    "edge_type": "spread"
+  },
+  "Hofstra Pride vs. Charleston Cougars|Hofstra Pride|spread": {
+    "captured_at": "2026-01-28T23:10:10.033012+00:00",
+    "edge_type": "spread"
+  },
+  "UL Monroe Warhawks vs. Georgia Southern Eagles|over": {
+    "captured_at": "2026-01-28T23:10:10.033558+00:00",
+    "edge_type": "over"
+  },
+  "Memphis Tigers vs. Florida Atlantic Owls|Memphis Tigers|moneyline": {
+    "captured_at": "2026-01-28T23:10:10.034529+00:00",
+    "edge_type": "moneyline"
   }
 }
