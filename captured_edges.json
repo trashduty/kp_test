@@ -2338,5 +2338,13 @@
   "Omaha Mavericks vs. South Dakota St Jackrabbits|Omaha Mavericks|spread": {
     "captured_at": "2026-01-28T04:24:30.126536+00:00",
     "edge_type": "spread"
+  },
+  "Eastern Kentucky Colonels vs. Austin Peay Governors|Austin Peay Governors|spread": {
+    "captured_at": "2026-01-28T07:11:44.524436+00:00",
+    "edge_type": "spread"
+  },
+  "Eastern Kentucky Colonels vs. Austin Peay Governors|Austin Peay Governors|moneyline": {
+    "captured_at": "2026-01-28T07:11:44.524482+00:00",
+    "edge_type": "moneyline"
   }
 }
