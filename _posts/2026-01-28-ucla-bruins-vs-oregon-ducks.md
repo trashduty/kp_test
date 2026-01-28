@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UCLA Bruins -4.5</p>
-  <p><strong>Moneyline:</strong> UCLA Bruins (-207) | Oregon Ducks (+170)</p>
+  <p><strong>Moneyline:</strong> UCLA Bruins (-202) | Oregon Ducks (+170)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Oregon Ducks**: 4.5, Edge For Covering Spread: **2.1%**
 
 ### Moneyline
-- **UCLA Bruins Win Probability**: 62.3%, Moneyline Edge: -5.2%
-- **Oregon Ducks Win Probability**: 37.7%, Moneyline Edge: **0.7%**
+- **UCLA Bruins Win Probability**: 62.2%, Moneyline Edge: -4.8%
+- **Oregon Ducks Win Probability**: 37.8%, Moneyline Edge: **0.8%**
 
 ### Total
 - **Predicted Total**: 139.5

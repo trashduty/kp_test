@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UTEP Miners -2.5</p>
-  <p><strong>Moneyline:</strong> Louisiana Tech Bulldogs (+125) | UTEP Miners (-149)</p>
+  <p><strong>Moneyline:</strong> Louisiana Tech Bulldogs (+124) | UTEP Miners (-146)</p>
   <p><strong>Total:</strong> 127.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **UTEP Miners**: -2.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Louisiana Tech Bulldogs Win Probability**: 43.3%, Moneyline Edge: -1.1%
-- **UTEP Miners Win Probability**: 56.7%, Moneyline Edge: -3.1%
+- **Louisiana Tech Bulldogs Win Probability**: 43.4%, Moneyline Edge: -1.1%
+- **UTEP Miners Win Probability**: 56.6%, Moneyline Edge: -2.9%
 
 ### Total
 - **Predicted Total**: 127.5
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -0.7%
 
 ---
 

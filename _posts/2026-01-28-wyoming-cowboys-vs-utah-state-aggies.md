@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Utah State Aggies -13.5</p>
-  <p><strong>Moneyline:</strong> Wyoming Cowboys (+710) | Utah State Aggies (-1148)</p>
+  <p><strong>Moneyline:</strong> Wyoming Cowboys (+724) | Utah State Aggies (-1171)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wyoming Cowboys**: 13.5, Edge For Covering Spread: -2.4%
-- **Utah State Aggies**: -13.5, Edge For Covering Spread: -2.4%
+- **Wyoming Cowboys**: 13.5, Edge For Covering Spread: -2.6%
+- **Utah State Aggies**: -13.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Wyoming Cowboys Win Probability**: 11.9%, Moneyline Edge: -0.4%
-- **Utah State Aggies Win Probability**: 88.1%, Moneyline Edge: -3.9%
+- **Wyoming Cowboys Win Probability**: 11.8%, Moneyline Edge: -0.3%
+- **Utah State Aggies Win Probability**: 88.2%, Moneyline Edge: -3.9%
 
 ### Total
-- **Predicted Total**: 151.0
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.2%
+- **Predicted Total**: 150.5
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -1.9%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Navy Midshipmen -1.5</p>
-  <p><strong>Moneyline:</strong> Navy Midshipmen (-132) | Boston Univ. Terriers (+110)</p>
+  <p><strong>Moneyline:</strong> Navy Midshipmen (-134) | Boston Univ. Terriers (+110)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Boston Univ. Terriers**: 1.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Navy Midshipmen Win Probability**: 56.3%, Moneyline Edge: -0.7%
+- **Navy Midshipmen Win Probability**: 56.3%, Moneyline Edge: -1.0%
 - **Boston Univ. Terriers Win Probability**: 43.7%, Moneyline Edge: -3.9%
 
 ### Total
-- **Predicted Total**: 139.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- **Predicted Total**: 139.5
+- Edge For Covering The Over: -5.2%
+- Edge For Covering The Under: **0.5%**
 
 ---
 

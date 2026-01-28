@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Evansville Purple Aces**: 9.5, Edge For Covering Spread: -3.5%
-- **Drake Bulldogs**: -9.5, Edge For Covering Spread: -1.3%
+- **Evansville Purple Aces**: 9.5, Edge For Covering Spread: -4.1%
+- **Drake Bulldogs**: -9.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
 - **Evansville Purple Aces Win Probability**: 16.7%, Moneyline Edge: -2.5%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 140.0
-- Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -1.0%
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 

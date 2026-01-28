@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Florida St Seminoles -3.5</p>
-  <p><strong>Moneyline:</strong> California Golden Bears (+138) | Florida St Seminoles (-163)</p>
+  <p><strong>Moneyline:</strong> California Golden Bears (+132) | Florida St Seminoles (-155)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **California Golden Bears**: 3.5, Edge For Covering Spread: **1.3%**
-- **Florida St Seminoles**: -3.5, Edge For Covering Spread: -6.0%
+- **California Golden Bears**: 3.5, Edge For Covering Spread: **1.4%**
+- **Florida St Seminoles**: -3.5, Edge For Covering Spread: -6.1%
 
 ### Moneyline
-- **California Golden Bears Win Probability**: 46.2%, Moneyline Edge: **4.2%**
-- **Florida St Seminoles Win Probability**: 53.8%, Moneyline Edge: -8.2%
+- **California Golden Bears Win Probability**: 46.7%, Moneyline Edge: **3.7%**
+- **Florida St Seminoles Win Probability**: 53.3%, Moneyline Edge: -7.5%
 
 ### Total
 - **Predicted Total**: 155.5
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.2%
+- Edge For Covering The Over: -3.1%
+- Edge For Covering The Under: -1.7%
 
 ---
 

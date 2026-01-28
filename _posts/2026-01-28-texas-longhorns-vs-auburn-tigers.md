@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Auburn Tigers -6.5</p>
-  <p><strong>Moneyline:</strong> Texas Longhorns (+230) | Auburn Tigers (-290)</p>
+  <p><strong>Moneyline:</strong> Texas Longhorns (+225) | Auburn Tigers (-277)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Auburn Tigers**: -6.5, Edge For Covering Spread: -3.4%
 
 ### Moneyline
-- **Texas Longhorns Win Probability**: 30.0%, Moneyline Edge: -0.3%
-- **Auburn Tigers Win Probability**: 70.0%, Moneyline Edge: -4.3%
+- **Texas Longhorns Win Probability**: 30.3%, Moneyline Edge: -0.5%
+- **Auburn Tigers Win Probability**: 69.7%, Moneyline Edge: -3.8%
 
 ### Total
 - **Predicted Total**: 158.0
-- Edge For Covering The Over: -0.6%
-- Edge For Covering The Under: -4.1%
+- Edge For Covering The Over: -0.0%
+- Edge For Covering The Under: -4.7%
 
 ---
 

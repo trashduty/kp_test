@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> South Florida Bulls -7.5</p>
-  <p><strong>Moneyline:</strong> South Florida Bulls (-342) | Tulane Green Wave (+270)</p>
+  <p><strong>Moneyline:</strong> South Florida Bulls (-360) | Tulane Green Wave (+280)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Florida Bulls**: -7.5, Edge For Covering Spread: -0.9%
-- **Tulane Green Wave**: 7.5, Edge For Covering Spread: -3.8%
+- **South Florida Bulls**: -7.5, Edge For Covering Spread: -2.4%
+- **Tulane Green Wave**: 7.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **South Florida Bulls Win Probability**: 74.5%, Moneyline Edge: -2.9%
-- **Tulane Green Wave Win Probability**: 25.5%, Moneyline Edge: -1.5%
+- **South Florida Bulls Win Probability**: 74.9%, Moneyline Edge: -3.4%
+- **Tulane Green Wave Win Probability**: 25.1%, Moneyline Edge: -1.2%
 
 ### Total
-- **Predicted Total**: 157.0
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -2.2%
+- **Predicted Total**: 157.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 

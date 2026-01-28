@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Oakland Golden Grizzlies -1.5</p>
-  <p><strong>Moneyline:</strong> Oakland Golden Grizzlies (-122) | Fort Wayne Mastodons (+102)</p>
+  <p><strong>Moneyline:</strong> Oakland Golden Grizzlies (-124) | Fort Wayne Mastodons (+103)</p>
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oakland Golden Grizzlies**: -1.5, Edge For Covering Spread: -0.3%
-- **Fort Wayne Mastodons**: 1.5, Edge For Covering Spread: -4.4%
+- **Oakland Golden Grizzlies**: -1.5, Edge For Covering Spread: -0.8%
+- **Fort Wayne Mastodons**: 1.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Oakland Golden Grizzlies Win Probability**: 54.3%, Moneyline Edge: -0.7%
-- **Fort Wayne Mastodons Win Probability**: 45.7%, Moneyline Edge: -3.8%
+- **Oakland Golden Grizzlies Win Probability**: 54.5%, Moneyline Edge: -0.9%
+- **Fort Wayne Mastodons Win Probability**: 45.5%, Moneyline Edge: -3.7%
 
 ### Total
 - **Predicted Total**: 164.5
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.4%
 
 ---
 

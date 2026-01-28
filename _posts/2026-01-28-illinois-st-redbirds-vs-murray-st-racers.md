@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Murray St Racers -3.5</p>
-  <p><strong>Moneyline:</strong> Illinois St Redbirds (+147) | Murray St Racers (-180)</p>
+  <p><strong>Moneyline:</strong> Illinois St Redbirds (+145) | Murray St Racers (-172)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Murray St Racers**: -3.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Illinois St Redbirds Win Probability**: 39.3%, Moneyline Edge: -1.1%
-- **Murray St Racers Win Probability**: 60.7%, Moneyline Edge: -3.6%
+- **Illinois St Redbirds Win Probability**: 39.6%, Moneyline Edge: -1.2%
+- **Murray St Racers Win Probability**: 60.4%, Moneyline Edge: -2.9%
 
 ### Total
 - **Predicted Total**: 160.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -2.6%
 
 ---
 

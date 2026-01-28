@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **San Diego Toreros**: -1.5, Edge For Covering Spread: -2.4%
-- **Pepperdine Waves**: 1.5, Edge For Covering Spread: -2.4%
+- **San Diego Toreros**: -1.5, Edge For Covering Spread: -3.5%
+- **Pepperdine Waves**: 1.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
 - **San Diego Toreros Win Probability**: 54.6%, Moneyline Edge: -0.9%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 149.0
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -0.3%
+- Edge For Covering The Over: -3.8%
+- Edge For Covering The Under: -0.9%
 
 ---
 

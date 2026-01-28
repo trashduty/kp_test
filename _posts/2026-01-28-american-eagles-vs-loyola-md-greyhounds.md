@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> American Eagles -4.5</p>
-  <p><strong>Moneyline:</strong> American Eagles (-185) | Loyola (MD) Greyhounds (+152)</p>
+  <p><strong>Moneyline:</strong> American Eagles (-185) | Loyola (MD) Greyhounds (+151)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **American Eagles**: -4.5, Edge For Covering Spread: **0.4%**
-- **Loyola (MD) Greyhounds**: 4.5, Edge For Covering Spread: -5.1%
+- **American Eagles**: -4.5, Edge For Covering Spread: **0.5%**
+- **Loyola (MD) Greyhounds**: 4.5, Edge For Covering Spread: -5.4%
 
 ### Moneyline
-- **American Eagles Win Probability**: 66.6%, Moneyline Edge: **1.6%**
-- **Loyola (MD) Greyhounds Win Probability**: 33.4%, Moneyline Edge: -6.2%
+- **American Eagles Win Probability**: 66.5%, Moneyline Edge: **1.6%**
+- **Loyola (MD) Greyhounds Win Probability**: 33.5%, Moneyline Edge: -6.3%
 
 ### Total
 - **Predicted Total**: 149.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.4%
 
 ---
 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Lehigh Mountain Hawks -4.0</p>
-  <p><strong>Moneyline:</strong> Lehigh Mountain Hawks (-170) | Army Knights (+145)</p>
+  <p><strong>Spread:</strong> Lehigh Mountain Hawks -2.5</p>
+  <p><strong>Moneyline:</strong> Lehigh Mountain Hawks (-153) | Army Knights (+128)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Lehigh Mountain Hawks**: -4.0, Edge For Covering Spread: -7.2%
-- **Army Knights**: 4.0, Edge For Covering Spread: **2.4%**
+- **Lehigh Mountain Hawks**: -2.5, Edge For Covering Spread: -5.6%
+- **Army Knights**: 2.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Lehigh Mountain Hawks Win Probability**: 54.8%, Moneyline Edge: -8.1%
-- **Army Knights Win Probability**: 45.2%, Moneyline Edge: **4.4%**
+- **Lehigh Mountain Hawks Win Probability**: 53.5%, Moneyline Edge: -7.0%
+- **Army Knights Win Probability**: 46.5%, Moneyline Edge: **2.6%**
 
 ### Total
-- **Predicted Total**: 146.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 146.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Lehigh Mountain Hawks (9-12) travels to face Army Knights (8-13) at Christl Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Lehigh Mountain Hawks favored by 4.0 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Lehigh Mountain Hawks (9-12) travels to face Army Knights (8-13) at Christl Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Lehigh Mountain Hawks favored by 2.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.0-point spread indicates Lehigh Mountain Hawks is viewed as the better team, but this isn't an overwhelming edge. Army Knights has a legitimate path to covering or winning outright. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Lehigh Mountain Hawks's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Lehigh Mountain Hawks** bring an offensive efficiency of 101.70 (ranked #290 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.4% three-point shooting is serviceable but won't scare anyone. 

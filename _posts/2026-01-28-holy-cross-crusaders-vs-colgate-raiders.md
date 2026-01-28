@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Colgate Raiders -10.5</p>
-  <p><strong>Moneyline:</strong> Holy Cross Crusaders (+475) | Colgate Raiders (-650)</p>
+  <p><strong>Moneyline:</strong> Holy Cross Crusaders (+500) | Colgate Raiders (-750)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Holy Cross Crusaders**: 10.5, Edge For Covering Spread: -1.2%
-- **Colgate Raiders**: -10.5, Edge For Covering Spread: -3.5%
+- **Holy Cross Crusaders**: 10.5, Edge For Covering Spread: -0.5%
+- **Colgate Raiders**: -10.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Holy Cross Crusaders Win Probability**: 16.7%, Moneyline Edge: -0.7%
-- **Colgate Raiders Win Probability**: 83.3%, Moneyline Edge: -3.4%
+- **Holy Cross Crusaders Win Probability**: 16.2%, Moneyline Edge: -0.5%
+- **Colgate Raiders Win Probability**: 83.8%, Moneyline Edge: -4.4%
 
 ### Total
-- **Predicted Total**: 143.5
-- Edge For Covering The Over: -2.7%
-- Edge For Covering The Under: -2.0%
+- **Predicted Total**: 143.0
+- Edge For Covering The Over: -4.2%
+- Edge For Covering The Under: -0.5%
 
 ---
 

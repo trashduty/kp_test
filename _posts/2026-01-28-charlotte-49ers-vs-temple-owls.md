@@ -29,12 +29,12 @@ All that being said, here's how our model prices this game.
 
 ### Moneyline
 - **Charlotte 49ers Win Probability**: 33.7%, Moneyline Edge: -4.1%
-- **Temple Owls Win Probability**: 66.3%, Moneyline Edge: **0.1%**
+- **Temple Owls Win Probability**: 66.3%, Moneyline Edge: **0.0%**
 
 ### Total
-- **Predicted Total**: 140.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 141.0
+- Edge For Covering The Over: -0.0%
+- Edge For Covering The Under: -4.7%
 
 ---
 

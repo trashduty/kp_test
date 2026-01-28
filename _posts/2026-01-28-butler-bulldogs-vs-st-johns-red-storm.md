@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> St. John's Red Storm -12.5</p>
-  <p><strong>Moneyline:</strong> Butler Bulldogs (+645) | St. John's Red Storm (-1000)</p>
+  <p><strong>Moneyline:</strong> Butler Bulldogs (+592) | St. John's Red Storm (-924)</p>
   <p><strong>Total:</strong> 162.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **St. John's Red Storm**: -12.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Butler Bulldogs Win Probability**: 14.9%, Moneyline Edge: **1.5%**
-- **St. John's Red Storm Win Probability**: 85.1%, Moneyline Edge: -5.8%
+- **Butler Bulldogs Win Probability**: 15.4%, Moneyline Edge: **1.0%**
+- **St. John's Red Storm Win Probability**: 84.6%, Moneyline Edge: -5.6%
 
 ### Total
 - **Predicted Total**: 162.0
-- Edge For Covering The Over: -3.4%
-- Edge For Covering The Under: -1.4%
+- Edge For Covering The Over: -3.1%
+- Edge For Covering The Under: -1.6%
 
 ---
 

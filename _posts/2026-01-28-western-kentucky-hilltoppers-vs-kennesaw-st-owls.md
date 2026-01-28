@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kennesaw St Owls -5.5</p>
-  <p><strong>Moneyline:</strong> Western Kentucky Hilltoppers (+200) | Kennesaw St Owls (-242)</p>
+  <p><strong>Moneyline:</strong> Western Kentucky Hilltoppers (+200) | Kennesaw St Owls (-240)</p>
   <p><strong>Total:</strong> 162.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Western Kentucky Hilltoppers**: 5.5, Edge For Covering Spread: **0.4%**
-- **Kennesaw St Owls**: -5.5, Edge For Covering Spread: -5.1%
+- **Western Kentucky Hilltoppers**: 5.5, Edge For Covering Spread: **0.0%**
+- **Kennesaw St Owls**: -5.5, Edge For Covering Spread: -4.8%
 
 ### Moneyline
-- **Western Kentucky Hilltoppers Win Probability**: 32.0%, Moneyline Edge: -1.4%
-- **Kennesaw St Owls Win Probability**: 68.0%, Moneyline Edge: -2.8%
+- **Western Kentucky Hilltoppers Win Probability**: 32.0%, Moneyline Edge: -1.3%
+- **Kennesaw St Owls Win Probability**: 68.0%, Moneyline Edge: -2.6%
 
 ### Total
 - **Predicted Total**: 162.0
-- Edge For Covering The Over: -3.2%
+- Edge For Covering The Over: -3.6%
 - Edge For Covering The Under: -1.6%
 
 ---

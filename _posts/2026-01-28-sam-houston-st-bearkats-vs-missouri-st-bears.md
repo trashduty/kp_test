@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Missouri St Bears -1.5</p>
-  <p><strong>Moneyline:</strong> Sam Houston St Bearkats (+112) | Missouri St Bears (-134)</p>
+  <p><strong>Moneyline:</strong> Sam Houston St Bearkats (+110) | Missouri St Bears (-134)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Sam Houston St Bearkats**: 1.5, Edge For Covering Spread: **2.6%**
-- **Missouri St Bears**: -1.5, Edge For Covering Spread: -7.4%
+- **Sam Houston St Bearkats**: 1.5, Edge For Covering Spread: **3.6%**
+- **Missouri St Bears**: -1.5, Edge For Covering Spread: -8.3%
 
 ### Moneyline
-- **Sam Houston St Bearkats Win Probability**: 51.1%, Moneyline Edge: **4.0%**
-- **Missouri St Bears Win Probability**: 48.9%, Moneyline Edge: -8.4%
+- **Sam Houston St Bearkats Win Probability**: 51.3%, Moneyline Edge: **3.7%**
+- **Missouri St Bears Win Probability**: 48.7%, Moneyline Edge: -8.6%
 
 ### Total
-- **Predicted Total**: 147.5
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 148.0
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.3%
 
 ---
 

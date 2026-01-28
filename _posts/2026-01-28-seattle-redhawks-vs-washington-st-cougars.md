@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Seattle Redhawks**: 1.5, Edge For Covering Spread: -2.4%
-- **Washington St Cougars**: -1.5, Edge For Covering Spread: -2.4%
+- **Seattle Redhawks**: 1.5, Edge For Covering Spread: -1.8%
+- **Washington St Cougars**: -1.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
 - **Seattle Redhawks Win Probability**: 45.4%, Moneyline Edge: -3.4%
-- **Washington St Cougars Win Probability**: 54.6%, Moneyline Edge: -0.9%
+- **Washington St Cougars Win Probability**: 54.6%, Moneyline Edge: -1.0%
 
 ### Total
-- **Predicted Total**: 143.0
-- Edge For Covering The Over: -3.8%
-- Edge For Covering The Under: -1.0%
+- **Predicted Total**: 143.5
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Iowa Hawkeyes -10.5</p>
-  <p><strong>Moneyline:</strong> USC Trojans (+445) | Iowa Hawkeyes (-615)</p>
+  <p><strong>Spread:</strong> Iowa Hawkeyes -10.0</p>
+  <p><strong>Moneyline:</strong> USC Trojans (+440) | Iowa Hawkeyes (-605)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **USC Trojans**: 10.5, Edge For Covering Spread: -3.5%
-- **Iowa Hawkeyes**: -10.5, Edge For Covering Spread: -1.2%
+- **USC Trojans**: 10.0, Edge For Covering Spread: -2.5%
+- **Iowa Hawkeyes**: -10.0, Edge For Covering Spread: -2.3%
 
 ### Moneyline
-- **USC Trojans Win Probability**: 16.3%, Moneyline Edge: -2.0%
-- **Iowa Hawkeyes Win Probability**: 83.7%, Moneyline Edge: -2.3%
+- **USC Trojans Win Probability**: 16.6%, Moneyline Edge: -2.0%
+- **Iowa Hawkeyes Win Probability**: 83.4%, Moneyline Edge: -2.4%
 
 ### Total
 - **Predicted Total**: 142.0
-- Edge For Covering The Over: -1.4%
-- Edge For Covering The Under: -3.4%
+- Edge For Covering The Over: -0.8%
+- Edge For Covering The Under: -3.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Iowa Hawkeyes (14-5) hosts USC Trojans (15-5) at Carver Hawkeye Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Iowa Hawkeyes favored by 10.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Iowa Hawkeyes (14-5) hosts USC Trojans (15-5) at Carver Hawkeye Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Iowa Hawkeyes favored by 10.0 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us Iowa Hawkeyes has clear advantages, but games aren't played on paper. USC Trojans needs to punch above their weight class to keep this close. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 10.0 points tells us Iowa Hawkeyes has clear advantages, but games aren't played on paper. USC Trojans needs to punch above their weight class to keep this close. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **USC Trojans** bring an offensive efficiency of 110.69 (ranked #128 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 32.2% three-point shooting is serviceable but won't scare anyone. 

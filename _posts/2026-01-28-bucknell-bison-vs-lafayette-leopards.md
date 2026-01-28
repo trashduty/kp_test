@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Lafayette Leopards -3.5</p>
-  <p><strong>Moneyline:</strong> Bucknell Bison (+135) | Lafayette Leopards (-165)</p>
+  <p><strong>Moneyline:</strong> Bucknell Bison (+137) | Lafayette Leopards (-168)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Lafayette Leopards**: -3.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Bucknell Bison Win Probability**: 37.2%, Moneyline Edge: -5.3%
-- **Lafayette Leopards Win Probability**: 62.8%, Moneyline Edge: **0.5%**
+- **Bucknell Bison Win Probability**: 37.0%, Moneyline Edge: -5.1%
+- **Lafayette Leopards Win Probability**: 63.0%, Moneyline Edge: **0.2%**
 
 ### Total
 - **Predicted Total**: 138.5

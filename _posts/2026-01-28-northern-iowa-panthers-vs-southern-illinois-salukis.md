@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Southern Illinois Salukis -1.5</p>
-  <p><strong>Moneyline:</strong> Northern Iowa Panthers (+115) | Southern Illinois Salukis (-136)</p>
+  <p><strong>Moneyline:</strong> Northern Iowa Panthers (+107) | Southern Illinois Salukis (-127)</p>
   <p><strong>Total:</strong> 130.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northern Iowa Panthers**: 1.5, Edge For Covering Spread: **0.5%**
-- **Southern Illinois Salukis**: -1.5, Edge For Covering Spread: -5.2%
+- **Northern Iowa Panthers**: 1.5, Edge For Covering Spread: -0.6%
+- **Southern Illinois Salukis**: -1.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Northern Iowa Panthers Win Probability**: 46.3%, Moneyline Edge: -0.2%
-- **Southern Illinois Salukis Win Probability**: 53.7%, Moneyline Edge: -4.0%
+- **Northern Iowa Panthers Win Probability**: 47.1%, Moneyline Edge: -1.1%
+- **Southern Illinois Salukis Win Probability**: 52.9%, Moneyline Edge: -3.2%
 
 ### Total
-- **Predicted Total**: 129.0
-- Edge For Covering The Over: -6.6%
-- Edge For Covering The Under: **1.9%**
+- **Predicted Total**: 128.5
+- Edge For Covering The Over: -5.8%
+- Edge For Covering The Under: **1.0%**
 
 ---
 

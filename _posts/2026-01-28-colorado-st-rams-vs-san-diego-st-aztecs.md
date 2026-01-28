@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> San Diego St Aztecs -8.5</p>
-  <p><strong>Moneyline:</strong> Colorado St Rams (+340) | San Diego St Aztecs (-450)</p>
+  <p><strong>Moneyline:</strong> Colorado St Rams (+350) | San Diego St Aztecs (-450)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Colorado St Rams**: 8.5, Edge For Covering Spread: -2.4%
-- **San Diego St Aztecs**: -8.5, Edge For Covering Spread: -2.4%
+- **Colorado St Rams**: 8.5, Edge For Covering Spread: -1.8%
+- **San Diego St Aztecs**: -8.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Colorado St Rams Win Probability**: 20.2%, Moneyline Edge: -2.5%
-- **San Diego St Aztecs Win Probability**: 79.8%, Moneyline Edge: -2.0%
+- **Colorado St Rams Win Probability**: 19.9%, Moneyline Edge: -2.3%
+- **San Diego St Aztecs Win Probability**: 80.1%, Moneyline Edge: -1.7%
 
 ### Total
-- **Predicted Total**: 139.5
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- **Predicted Total**: 140.0
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -4.5%
 
 ---
 

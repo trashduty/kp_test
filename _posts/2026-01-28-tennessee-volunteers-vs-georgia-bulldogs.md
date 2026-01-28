@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Georgia Bulldogs -2.5</p>
-  <p><strong>Moneyline:</strong> Tennessee Volunteers (+119) | Georgia Bulldogs (-141)</p>
+  <p><strong>Moneyline:</strong> Tennessee Volunteers (+117) | Georgia Bulldogs (-140)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Georgia Bulldogs**: -2.5, Edge For Covering Spread: -4.4%
 
 ### Moneyline
-- **Tennessee Volunteers Win Probability**: 46.4%, Moneyline Edge: **0.8%**
-- **Georgia Bulldogs Win Probability**: 53.6%, Moneyline Edge: -4.9%
+- **Tennessee Volunteers Win Probability**: 46.5%, Moneyline Edge: **0.6%**
+- **Georgia Bulldogs Win Probability**: 53.5%, Moneyline Edge: -4.9%
 
 ### Total
 - **Predicted Total**: 159.0

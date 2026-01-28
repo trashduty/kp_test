@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> George Mason Patriots -8.0</p>
-  <p><strong>Moneyline:</strong> Davidson Wildcats (+330) | George Mason Patriots (-429)</p>
+  <p><strong>Spread:</strong> George Mason Patriots -8.5</p>
+  <p><strong>Moneyline:</strong> Davidson Wildcats (+303) | George Mason Patriots (-387)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Davidson Wildcats**: 8.0, Edge For Covering Spread: -0.6%
-- **George Mason Patriots**: -8.0, Edge For Covering Spread: -4.1%
+- **Davidson Wildcats**: 8.5, Edge For Covering Spread: -1.8%
+- **George Mason Patriots**: -8.5, Edge For Covering Spread: -3.0%
 
 ### Moneyline
-- **Davidson Wildcats Win Probability**: 23.3%, Moneyline Edge: -0.0%
-- **George Mason Patriots Win Probability**: 76.7%, Moneyline Edge: -4.4%
+- **Davidson Wildcats Win Probability**: 23.9%, Moneyline Edge: -0.9%
+- **George Mason Patriots Win Probability**: 76.1%, Moneyline Edge: -3.4%
 
 ### Total
-- **Predicted Total**: 135.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 136.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-George Mason Patriots (18-2) hosts Davidson Wildcats (12-7) at EagleBank Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into George Mason Patriots favored by 8.0 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+George Mason Patriots (18-2) hosts Davidson Wildcats (12-7) at EagleBank Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into George Mason Patriots favored by 8.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.0 points tells us George Mason Patriots has clear advantages, but games aren't played on paper. Davidson Wildcats needs to punch above their weight class to keep this close. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.5 points tells us George Mason Patriots has clear advantages, but games aren't played on paper. Davidson Wildcats needs to punch above their weight class to keep this close. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Davidson Wildcats** bring an offensive efficiency of 108.42 (ranked #175 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.4% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

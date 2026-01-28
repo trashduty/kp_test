@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Arkansas St Red Wolves -8.5</p>
-  <p><strong>Moneyline:</strong> Old Dominion Monarchs (+320) | Arkansas St Red Wolves (-425)</p>
+  <p><strong>Spread:</strong> Arkansas St Red Wolves -9.5</p>
+  <p><strong>Moneyline:</strong> Old Dominion Monarchs (+340) | Arkansas St Red Wolves (-450)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Old Dominion Monarchs**: 8.5, Edge For Covering Spread: -1.2%
-- **Arkansas St Red Wolves**: -8.5, Edge For Covering Spread: -3.5%
+- **Old Dominion Monarchs**: 9.5, Edge For Covering Spread: -3.5%
+- **Arkansas St Red Wolves**: -9.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Old Dominion Monarchs Win Probability**: 23.0%, Moneyline Edge: -0.8%
-- **Arkansas St Red Wolves Win Probability**: 77.0%, Moneyline Edge: -4.0%
+- **Old Dominion Monarchs Win Probability**: 22.7%, Moneyline Edge: -0.1%
+- **Arkansas St Red Wolves Win Probability**: 77.3%, Moneyline Edge: -4.5%
 
 ### Total
-- **Predicted Total**: 160.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 160.5
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -1.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Arkansas St Red Wolves (13-8) hosts Old Dominion Monarchs (6-15) at First National Bank Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Arkansas St Red Wolves favored by 8.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Arkansas St Red Wolves (13-8) hosts Old Dominion Monarchs (6-15) at First National Bank Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Arkansas St Red Wolves favored by 9.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Arkansas St Red Wolves has clear advantages, but games aren't played on paper. Old Dominion Monarchs needs to punch above their weight class to keep this close. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 9.5 points tells us Arkansas St Red Wolves has clear advantages, but games aren't played on paper. Old Dominion Monarchs needs to punch above their weight class to keep this close. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Old Dominion Monarchs** bring an offensive efficiency of 103.54 (ranked #255 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.6% three-point shooting is serviceable but won't scare anyone. 

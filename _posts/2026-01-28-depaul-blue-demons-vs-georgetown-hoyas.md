@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Georgetown Hoyas -3.5</p>
-  <p><strong>Moneyline:</strong> DePaul Blue Demons (+157) | Georgetown Hoyas (-187)</p>
+  <p><strong>Moneyline:</strong> DePaul Blue Demons (+145) | Georgetown Hoyas (-172)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Georgetown Hoyas**: -3.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **DePaul Blue Demons Win Probability**: 37.2%, Moneyline Edge: -1.7%
-- **Georgetown Hoyas Win Probability**: 62.8%, Moneyline Edge: -2.4%
+- **DePaul Blue Demons Win Probability**: 38.6%, Moneyline Edge: -2.2%
+- **Georgetown Hoyas Win Probability**: 61.4%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 140.5

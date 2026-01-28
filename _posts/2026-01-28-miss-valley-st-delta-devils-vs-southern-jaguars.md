@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Southern Jaguars -21.5</p>
-  <p><strong>Moneyline:</strong> Miss Valley St Delta Devils (+2000) | Southern Jaguars (-7241)</p>
+  <p><strong>Moneyline:</strong> Miss Valley St Delta Devils (+2000) | Southern Jaguars (-7500)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Miss Valley St Delta Devils**: 21.5, Edge For Covering Spread: -3.5%
-- **Southern Jaguars**: -21.5, Edge For Covering Spread: -1.2%
+- **Miss Valley St Delta Devils**: 21.5, Edge For Covering Spread: -2.4%
+- **Southern Jaguars**: -21.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
 - **Miss Valley St Delta Devils Win Probability**: 3.8%, Moneyline Edge: -1.0%
-- **Southern Jaguars Win Probability**: 96.2%, Moneyline Edge: -2.4%
+- **Southern Jaguars Win Probability**: 96.2%, Moneyline Edge: -2.5%
 
 ### Total
-- **Predicted Total**: 141.0
-- Edge For Covering The Over: -3.1%
-- Edge For Covering The Under: -3.1%
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 

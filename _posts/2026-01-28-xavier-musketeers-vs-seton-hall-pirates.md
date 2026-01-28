@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Seton Hall Pirates -6.5</p>
-  <p><strong>Moneyline:</strong> Xavier Musketeers (+260) | Seton Hall Pirates (-320)</p>
+  <p><strong>Moneyline:</strong> Xavier Musketeers (+250) | Seton Hall Pirates (-300)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Xavier Musketeers**: 6.5, Edge For Covering Spread: -2.2%
-- **Seton Hall Pirates**: -6.5, Edge For Covering Spread: -2.6%
+- **Xavier Musketeers**: 6.5, Edge For Covering Spread: -1.6%
+- **Seton Hall Pirates**: -6.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
-- **Xavier Musketeers Win Probability**: 26.4%, Moneyline Edge: -1.4%
-- **Seton Hall Pirates Win Probability**: 73.6%, Moneyline Edge: -2.5%
+- **Xavier Musketeers Win Probability**: 26.8%, Moneyline Edge: -1.8%
+- **Seton Hall Pirates Win Probability**: 73.2%, Moneyline Edge: -1.8%
 
 ### Total
 - **Predicted Total**: 143.5
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- Edge For Covering The Over: -4.9%
+- Edge For Covering The Under: **0.2%**
 
 ---
 

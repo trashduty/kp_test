@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> New Mexico St Aggies -11.5</p>
-  <p><strong>Moneyline:</strong> Delaware Blue Hens (+550) | New Mexico St Aggies (-824)</p>
+  <p><strong>Moneyline:</strong> Delaware Blue Hens (+562) | New Mexico St Aggies (-835)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **New Mexico St Aggies**: -11.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **Delaware Blue Hens Win Probability**: 14.4%, Moneyline Edge: -1.0%
-- **New Mexico St Aggies Win Probability**: 85.6%, Moneyline Edge: -3.5%
+- **Delaware Blue Hens Win Probability**: 14.2%, Moneyline Edge: -0.9%
+- **New Mexico St Aggies Win Probability**: 85.8%, Moneyline Edge: -3.5%
 
 ### Total
 - **Predicted Total**: 137.0

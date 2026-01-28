@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> LSU Tigers -6.5</p>
-  <p><strong>Moneyline:</strong> Mississippi St Bulldogs (+260) | LSU Tigers (-324)</p>
+  <p><strong>Moneyline:</strong> Mississippi St Bulldogs (+252) | LSU Tigers (-315)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **LSU Tigers**: -6.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Mississippi St Bulldogs Win Probability**: 22.8%, Moneyline Edge: -5.0%
-- **LSU Tigers Win Probability**: 77.2%, Moneyline Edge: **0.7%**
+- **Mississippi St Bulldogs Win Probability**: 23.1%, Moneyline Edge: -5.3%
+- **LSU Tigers Win Probability**: 76.9%, Moneyline Edge: **1.0%**
 
 ### Total
 - **Predicted Total**: 151.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 

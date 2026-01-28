@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Santa Clara Broncos -9.5</p>
-  <p><strong>Moneyline:</strong> San Francisco Dons (+440) | Santa Clara Broncos (-605)</p>
+  <p><strong>Moneyline:</strong> San Francisco Dons (+417) | Santa Clara Broncos (-588)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -25,11 +25,11 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **San Francisco Dons**: 9.5, Edge For Covering Spread: -2.1%
-- **Santa Clara Broncos**: -9.5, Edge For Covering Spread: -2.5%
+- **Santa Clara Broncos**: -9.5, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **San Francisco Dons Win Probability**: 19.4%, Moneyline Edge: **0.9%**
-- **Santa Clara Broncos Win Probability**: 80.6%, Moneyline Edge: -5.2%
+- **San Francisco Dons Win Probability**: 19.7%, Moneyline Edge: **0.4%**
+- **Santa Clara Broncos Win Probability**: 80.3%, Moneyline Edge: -5.2%
 
 ### Total
 - **Predicted Total**: 150.5

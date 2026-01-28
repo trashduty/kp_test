@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Cincinnati Bearcats -4.5</p>
-  <p><strong>Moneyline:</strong> Baylor Bears (+160) | Cincinnati Bearcats (-192)</p>
+  <p><strong>Spread:</strong> Cincinnati Bearcats -3.5</p>
+  <p><strong>Moneyline:</strong> Baylor Bears (+156) | Cincinnati Bearcats (-187)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Baylor Bears**: 4.5, Edge For Covering Spread: -3.5%
-- **Cincinnati Bearcats**: -4.5, Edge For Covering Spread: -1.2%
+- **Baylor Bears**: 3.5, Edge For Covering Spread: -1.0%
+- **Cincinnati Bearcats**: -3.5, Edge For Covering Spread: -3.7%
 
 ### Moneyline
-- **Baylor Bears Win Probability**: 34.2%, Moneyline Edge: -4.3%
-- **Cincinnati Bearcats Win Probability**: 65.8%, Moneyline Edge: **0.1%**
+- **Baylor Bears Win Probability**: 34.3%, Moneyline Edge: -4.7%
+- **Cincinnati Bearcats Win Probability**: 65.7%, Moneyline Edge: **0.5%**
 
 ### Total
 - **Predicted Total**: 148.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- Edge For Covering The Over: -1.0%
+- Edge For Covering The Under: -3.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Baylor Bears (11-8) travels to face Cincinnati Bearcats (10-10) at Fifth Third Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Cincinnati Bearcats favored by 4.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Baylor Bears (11-8) travels to face Cincinnati Bearcats (10-10) at Fifth Third Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Cincinnati Bearcats favored by 3.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Cincinnati Bearcats is viewed as the better team, but this isn't an overwhelming edge. Baylor Bears has a legitimate path to covering or winning outright. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 3.5-point spread indicates Cincinnati Bearcats is viewed as the better team, but this isn't an overwhelming edge. Baylor Bears has a legitimate path to covering or winning outright. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Baylor Bears** bring an offensive efficiency of 118.10 (ranked #41 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.2% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

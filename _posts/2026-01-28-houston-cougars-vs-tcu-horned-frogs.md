@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Houston Cougars -8.5</p>
-  <p><strong>Moneyline:</strong> Houston Cougars (-387) | TCU Horned Frogs (+297)</p>
+  <p><strong>Moneyline:</strong> Houston Cougars (-410) | TCU Horned Frogs (+315)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **TCU Horned Frogs**: 8.5, Edge For Covering Spread: -1.4%
 
 ### Moneyline
-- **Houston Cougars Win Probability**: 73.7%, Moneyline Edge: -5.7%
-- **TCU Horned Frogs Win Probability**: 26.3%, Moneyline Edge: **1.1%**
+- **Houston Cougars Win Probability**: 74.4%, Moneyline Edge: -6.0%
+- **TCU Horned Frogs Win Probability**: 25.6%, Moneyline Edge: **1.5%**
 
 ### Total
 - **Predicted Total**: 137.5

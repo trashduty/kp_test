@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Duquesne Dukes -3.5</p>
-  <p><strong>Moneyline:</strong> St. Bonaventure Bonnies (+140) | Duquesne Dukes (-168)</p>
+  <p><strong>Moneyline:</strong> St. Bonaventure Bonnies (+142) | Duquesne Dukes (-170)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **St. Bonaventure Bonnies**: 3.5, Edge For Covering Spread: -5.8%
-- **Duquesne Dukes**: -3.5, Edge For Covering Spread: **1.1%**
+- **St. Bonaventure Bonnies**: 3.5, Edge For Covering Spread: -5.6%
+- **Duquesne Dukes**: -3.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **St. Bonaventure Bonnies Win Probability**: 34.9%, Moneyline Edge: -6.8%
-- **Duquesne Dukes Win Probability**: 65.1%, Moneyline Edge: **2.5%**
+- **St. Bonaventure Bonnies Win Probability**: 34.7%, Moneyline Edge: -6.6%
+- **Duquesne Dukes Win Probability**: 65.3%, Moneyline Edge: **2.4%**
 
 ### Total
-- **Predicted Total**: 154.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 154.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 

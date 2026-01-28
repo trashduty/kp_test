@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> South Dakota St Jackrabbits -1.5</p>
-  <p><strong>Moneyline:</strong> South Dakota St Jackrabbits (-135) | Omaha Mavericks (+110)</p>
+  <p><strong>Moneyline:</strong> South Dakota St Jackrabbits (-130) | Omaha Mavericks (+105)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Dakota St Jackrabbits**: -1.5, Edge For Covering Spread: -5.7%
-- **Omaha Mavericks**: 1.5, Edge For Covering Spread: **1.1%**
+- **South Dakota St Jackrabbits**: -1.5, Edge For Covering Spread: -5.1%
+- **Omaha Mavericks**: 1.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **South Dakota St Jackrabbits Win Probability**: 53.7%, Moneyline Edge: -3.8%
-- **Omaha Mavericks Win Probability**: 46.3%, Moneyline Edge: -1.3%
+- **South Dakota St Jackrabbits Win Probability**: 53.0%, Moneyline Edge: -3.5%
+- **Omaha Mavericks Win Probability**: 47.0%, Moneyline Edge: -1.8%
 
 ### Total
 - **Predicted Total**: 148.0

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Florida Int'l Golden Panthers -4.5</p>
-  <p><strong>Moneyline:</strong> Jacksonville St Gamecocks (+162) | Florida Int'l Golden Panthers (-197)</p>
+  <p><strong>Moneyline:</strong> Jacksonville St Gamecocks (+165) | Florida Int'l Golden Panthers (-200)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Jacksonville St Gamecocks**: 4.5, Edge For Covering Spread: -3.5%
-- **Florida Int'l Golden Panthers**: -4.5, Edge For Covering Spread: -1.2%
+- **Jacksonville St Gamecocks**: 4.5, Edge For Covering Spread: -1.9%
+- **Florida Int'l Golden Panthers**: -4.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Jacksonville St Gamecocks Win Probability**: 35.0%, Moneyline Edge: -3.2%
-- **Florida Int'l Golden Panthers Win Probability**: 65.0%, Moneyline Edge: -1.3%
+- **Jacksonville St Gamecocks Win Probability**: 34.8%, Moneyline Edge: -3.0%
+- **Florida Int'l Golden Panthers Win Probability**: 65.2%, Moneyline Edge: -1.4%
 
 ### Total
 - **Predicted Total**: 148.5

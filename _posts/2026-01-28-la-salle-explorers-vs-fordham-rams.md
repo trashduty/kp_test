@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Fordham Rams -4.5</p>
-  <p><strong>Moneyline:</strong> La Salle Explorers (+160) | Fordham Rams (-192)</p>
+  <p><strong>Moneyline:</strong> La Salle Explorers (+162) | Fordham Rams (-193)</p>
   <p><strong>Total:</strong> 131.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **La Salle Explorers**: 4.5, Edge For Covering Spread: -2.4%
-- **Fordham Rams**: -4.5, Edge For Covering Spread: -2.4%
+- **La Salle Explorers**: 4.5, Edge For Covering Spread: -0.6%
+- **Fordham Rams**: -4.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **La Salle Explorers Win Probability**: 36.0%, Moneyline Edge: -2.5%
-- **Fordham Rams Win Probability**: 64.0%, Moneyline Edge: -1.7%
+- **La Salle Explorers Win Probability**: 35.8%, Moneyline Edge: -2.3%
+- **Fordham Rams Win Probability**: 64.2%, Moneyline Edge: -1.8%
 
 ### Total
 - **Predicted Total**: 132.0
-- Edge For Covering The Over: -2.7%
-- Edge For Covering The Under: -2.1%
+- Edge For Covering The Over: -2.1%
+- Edge For Covering The Under: -2.7%
 
 ---
 

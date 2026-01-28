@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Pacific Tigers -7.5</p>
-  <p><strong>Moneyline:</strong> Portland Pilots (+260) | Pacific Tigers (-324)</p>
+  <p><strong>Moneyline:</strong> Portland Pilots (+260) | Pacific Tigers (-322)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Pacific Tigers**: -7.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Portland Pilots Win Probability**: 25.3%, Moneyline Edge: -2.5%
-- **Pacific Tigers Win Probability**: 74.7%, Moneyline Edge: -1.8%
+- **Portland Pilots Win Probability**: 25.3%, Moneyline Edge: -2.4%
+- **Pacific Tigers Win Probability**: 74.7%, Moneyline Edge: -1.7%
 
 ### Total
 - **Predicted Total**: 142.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
