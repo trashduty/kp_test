@@ -2346,5 +2346,25 @@
   "Eastern Kentucky Colonels vs. Austin Peay Governors|Austin Peay Governors|moneyline": {
     "captured_at": "2026-01-28T07:11:44.524482+00:00",
     "edge_type": "moneyline"
+  },
+  "Hofstra Pride vs. Charleston Cougars|Hofstra Pride|moneyline": {
+    "captured_at": "2026-01-28T21:11:37.962991+00:00",
+    "edge_type": "moneyline"
+  },
+  "South Dakota Coyotes vs. Oral Roberts Golden Eagles|South Dakota Coyotes|moneyline": {
+    "captured_at": "2026-01-28T21:11:37.963801+00:00",
+    "edge_type": "moneyline"
+  },
+  "Memphis Tigers vs. Florida Atlantic Owls|under": {
+    "captured_at": "2026-01-28T21:11:37.964236+00:00",
+    "edge_type": "under"
+  },
+  "CSU Bakersfield Roadrunners vs. Cal Poly Mustangs|CSU Bakersfield Roadrunners|moneyline": {
+    "captured_at": "2026-01-28T21:11:37.964854+00:00",
+    "edge_type": "moneyline"
+  },
+  "CSU Northridge Matadors vs. UC Davis Aggies|CSU Northridge Matadors|moneyline": {
+    "captured_at": "2026-01-28T21:11:37.965281+00:00",
+    "edge_type": "moneyline"
   }
 }
