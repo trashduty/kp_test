@@ -2466,5 +2466,21 @@
   "Wagner Seahawks vs. Central Connecticut St Blue Devils|over": {
     "captured_at": "2026-01-29T07:21:48.318941+00:00",
     "edge_type": "over"
+  },
+  "Canisius Golden Griffins vs. Marist Red Foxes|Canisius Golden Griffins|spread": {
+    "captured_at": "2026-01-29T20:10:53.274274+00:00",
+    "edge_type": "spread"
+  },
+  "Detroit Mercy Titans vs. Northern Kentucky Norse|Detroit Mercy Titans|spread": {
+    "captured_at": "2026-01-29T20:10:53.274395+00:00",
+    "edge_type": "spread"
+  },
+  "VCU Rams vs. Loyola (Chi) Ramblers|VCU Rams|spread": {
+    "captured_at": "2026-01-29T20:10:53.276340+00:00",
+    "edge_type": "spread"
+  },
+  "Nevada Wolf Pack vs. UNLV Rebels|Nevada Wolf Pack|spread": {
+    "captured_at": "2026-01-29T20:10:53.276592+00:00",
+    "edge_type": "spread"
   }
 }
