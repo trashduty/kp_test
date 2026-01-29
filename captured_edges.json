@@ -2450,5 +2450,17 @@
   "Eastern Illinois Panthers vs. Tenn-Martin Skyhawks|Eastern Illinois Panthers|spread": {
     "captured_at": "2026-01-29T04:37:17.210838+00:00",
     "edge_type": "spread"
+  },
+  "Chicago St Cougars vs. St. Francis (PA) Red Flash|over": {
+    "captured_at": "2026-01-29T05:23:08.096983+00:00",
+    "edge_type": "over"
+  },
+  "Chicago St Cougars vs. St. Francis (PA) Red Flash|Chicago St Cougars|spread": {
+    "captured_at": "2026-01-29T05:23:08.097103+00:00",
+    "edge_type": "spread"
+  },
+  "Chicago St Cougars vs. St. Francis (PA) Red Flash|Chicago St Cougars|moneyline": {
+    "captured_at": "2026-01-29T05:23:08.097142+00:00",
+    "edge_type": "moneyline"
   }
 }
