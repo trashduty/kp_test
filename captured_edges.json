@@ -2430,5 +2430,25 @@
   "UT-Arlington Mavericks vs. Southern Utah Thunderbirds|UT-Arlington Mavericks|moneyline": {
     "captured_at": "2026-01-29T01:37:47.326259+00:00",
     "edge_type": "moneyline"
+  },
+  "Charleston Southern Buccaneers vs. Radford Highlanders|Charleston Southern Buccaneers|spread": {
+    "captured_at": "2026-01-29T04:37:17.206150+00:00",
+    "edge_type": "spread"
+  },
+  "Charleston Southern Buccaneers vs. Radford Highlanders|Charleston Southern Buccaneers|moneyline": {
+    "captured_at": "2026-01-29T04:37:17.206195+00:00",
+    "edge_type": "moneyline"
+  },
+  "North Florida Ospreys vs. Stetson Hatters|North Florida Ospreys|moneyline": {
+    "captured_at": "2026-01-29T04:37:17.206617+00:00",
+    "edge_type": "moneyline"
+  },
+  "Tennessee St Tigers vs. Arkansas-Little Rock Trojans|Tennessee St Tigers|spread": {
+    "captured_at": "2026-01-29T04:37:17.210512+00:00",
+    "edge_type": "spread"
+  },
+  "Eastern Illinois Panthers vs. Tenn-Martin Skyhawks|Eastern Illinois Panthers|spread": {
+    "captured_at": "2026-01-29T04:37:17.210838+00:00",
+    "edge_type": "spread"
   }
 }
