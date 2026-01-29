@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Long Beach St 49ers -1.5</p>
-  <p><strong>Moneyline:</strong> Long Beach St 49ers (-110) | UC Riverside Highlanders (-110)</p>
+  <p><strong>Spread:</strong> Pick'em</p>
+  <p><strong>Moneyline:</strong> Long Beach St 49ers (-109) | UC Riverside Highlanders (-110)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Long Beach St 49ers**: -1.5, Edge For Covering Spread: -5.7%
-- **UC Riverside Highlanders**: 1.5, Edge For Covering Spread: -1.2%
+- **Long Beach St 49ers**: 0.0, Edge For Covering Spread: -4.1%
+- **UC Riverside Highlanders**: 0.0, Edge For Covering Spread: -2.3%
 
 ### Moneyline
-- **Long Beach St 49ers Win Probability**: 48.1%, Moneyline Edge: -4.2%
-- **UC Riverside Highlanders Win Probability**: 51.9%, Moneyline Edge: -0.5%
+- **Long Beach St 49ers Win Probability**: 48.4%, Moneyline Edge: -3.8%
+- **UC Riverside Highlanders Win Probability**: 51.6%, Moneyline Edge: -0.9%
 
 ### Total
-- **Predicted Total**: 144.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 145.0
+- Edge For Covering The Over: N/A
+- Edge For Covering The Under: N/A
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Long Beach St 49ers (8-13) travels to face UC Riverside Highlanders (7-14) at SRC Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Long Beach St 49ers favored by 1.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Long Beach St 49ers (8-13) travels to face UC Riverside Highlanders (7-14) at SRC Arena in what shapes up to be a competitive matchup. The early betting action has shaped into UC Riverside Highlanders favored by 0.0 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Long Beach St 49ers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. UC Riverside Highlanders's 0.0-point cushion reflects home court advantage more than a talent gap. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Long Beach St 49ers** bring an offensive efficiency of 103.23 (ranked #262 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.0% three-point shooting is serviceable but won't scare anyone. 

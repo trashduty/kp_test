@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Furman Paladins -6.5</p>
-  <p><strong>Moneyline:</strong> Samford Bulldogs (+255) | Furman Paladins (-315)</p>
+  <p><strong>Moneyline:</strong> Samford Bulldogs (+242) | Furman Paladins (-298)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Samford Bulldogs**: 6.5, Edge For Covering Spread: -0.5%
-- **Furman Paladins**: -6.5, Edge For Covering Spread: -4.3%
+- **Samford Bulldogs**: 6.5, Edge For Covering Spread: -1.5%
+- **Furman Paladins**: -6.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Samford Bulldogs Win Probability**: 23.7%, Moneyline Edge: -4.5%
-- **Furman Paladins Win Probability**: 76.3%, Moneyline Edge: **0.4%**
+- **Samford Bulldogs Win Probability**: 26.9%, Moneyline Edge: -2.4%
+- **Furman Paladins Win Probability**: 73.1%, Moneyline Edge: -1.8%
 
 ### Total
-- **Predicted Total**: 146.5
-- Edge For Covering The Over: -5.5%
-- Edge For Covering The Under: **0.7%**
+- **Predicted Total**: 147.0
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -0.0%
 
 ---
 

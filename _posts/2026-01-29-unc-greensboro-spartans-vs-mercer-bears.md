@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Mercer Bears -12.0</p>
-  <p><strong>Moneyline:</strong> UNC Greensboro Spartans (+574) | Mercer Bears (-869)</p>
+  <p><strong>Spread:</strong> Mercer Bears -11.5</p>
+  <p><strong>Moneyline:</strong> UNC Greensboro Spartans (+537) | Mercer Bears (-784)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UNC Greensboro Spartans**: 12.0, Edge For Covering Spread: -8.4%
-- **Mercer Bears**: -12.0, Edge For Covering Spread: **3.7%**
+- **UNC Greensboro Spartans**: 11.5, Edge For Covering Spread: -7.2%
+- **Mercer Bears**: -11.5, Edge For Covering Spread: **2.4%**
 
 ### Moneyline
-- **UNC Greensboro Spartans Win Probability**: 12.3%, Moneyline Edge: -2.6%
-- **Mercer Bears Win Probability**: 87.7%, Moneyline Edge: -1.9%
+- **UNC Greensboro Spartans Win Probability**: 12.8%, Moneyline Edge: -2.9%
+- **Mercer Bears Win Probability**: 87.2%, Moneyline Edge: -1.5%
 
 ### Total
 - **Predicted Total**: 161.0
-- Edge For Covering The Over: -0.1%
+- Edge For Covering The Over: -1.6%
 - Edge For Covering The Under: -4.6%
 
 ---
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Mercer Bears (13-8) hosts UNC Greensboro Spartans (8-13) at Hawkins Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Mercer Bears favored by 12.0 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Mercer Bears (13-8) hosts UNC Greensboro Spartans (8-13) at Hawkins Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Mercer Bears favored by 11.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 12.0-point spread screams mismatch. The books are asking UNC Greensboro Spartans to hang within two possessions, which based on the profiles, requires Mercer Bears to play below their standard. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 11.5 points tells us Mercer Bears has clear advantages, but games aren't played on paper. UNC Greensboro Spartans needs to punch above their weight class to keep this close. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **UNC Greensboro Spartans** bring an offensive efficiency of 107.80 (ranked #177 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.9% three-point shooting is serviceable but won't scare anyone. 

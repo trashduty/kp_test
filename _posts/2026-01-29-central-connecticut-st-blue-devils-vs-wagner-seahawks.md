@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Central Connecticut St Blue Devils -1.5</p>
-  <p><strong>Moneyline:</strong> Central Connecticut St Blue Devils (-115) | Wagner Seahawks (-105)</p>
+  <p><strong>Moneyline:</strong> Central Connecticut St Blue Devils (-110) | Wagner Seahawks (-110)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Central Connecticut St Blue Devils**: -1.5, Edge For Covering Spread: -3.4%
-- **Wagner Seahawks**: 1.5, Edge For Covering Spread: -1.2%
+- **Central Connecticut St Blue Devils**: -1.5, Edge For Covering Spread: -4.1%
+- **Wagner Seahawks**: 1.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Central Connecticut St Blue Devils Win Probability**: 54.4%, Moneyline Edge: **0.9%**
-- **Wagner Seahawks Win Probability**: 45.6%, Moneyline Edge: -5.6%
+- **Central Connecticut St Blue Devils Win Probability**: 50.5%, Moneyline Edge: -1.9%
+- **Wagner Seahawks Win Probability**: 49.5%, Moneyline Edge: -2.9%
 
 ### Total
-- **Predicted Total**: 144.5
-- Edge For Covering The Over: **0.5%**
-- Edge For Covering The Under: -5.2%
+- **Predicted Total**: 144.0
+- Edge For Covering The Over: -0.9%
+- Edge For Covering The Under: -3.8%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Towson Tigers -1.5</p>
-  <p><strong>Moneyline:</strong> UNC Wilmington Seahawks (+105) | Towson Tigers (-125)</p>
+  <p><strong>Moneyline:</strong> UNC Wilmington Seahawks (+102) | Towson Tigers (-122)</p>
   <p><strong>Total:</strong> 132.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UNC Wilmington Seahawks**: 1.5, Edge For Covering Spread: -1.2%
-- **Towson Tigers**: -1.5, Edge For Covering Spread: -3.5%
+- **UNC Wilmington Seahawks**: 1.5, Edge For Covering Spread: -1.4%
+- **Towson Tigers**: -1.5, Edge For Covering Spread: -3.3%
 
 ### Moneyline
-- **UNC Wilmington Seahawks Win Probability**: 47.6%, Moneyline Edge: -1.2%
-- **Towson Tigers Win Probability**: 52.4%, Moneyline Edge: -3.1%
+- **UNC Wilmington Seahawks Win Probability**: 48.0%, Moneyline Edge: -1.5%
+- **Towson Tigers Win Probability**: 52.0%, Moneyline Edge: -2.9%
 
 ### Total
-- **Predicted Total**: 130.5
-- Edge For Covering The Over: -5.8%
-- Edge For Covering The Under: **1.0%**
+- **Predicted Total**: 132.0
+- Edge For Covering The Over: -6.4%
+- Edge For Covering The Under: **1.7%**
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> CSU Northridge Matadors -1.5</p>
-  <p><strong>Moneyline:</strong> UC Davis Aggies (+102) | CSU Northridge Matadors (-122)</p>
+  <p><strong>Moneyline:</strong> UC Davis Aggies (+110) | CSU Northridge Matadors (-130)</p>
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UC Davis Aggies**: 1.5, Edge For Covering Spread: -3.5%
-- **CSU Northridge Matadors**: -1.5, Edge For Covering Spread: -1.2%
+- **UC Davis Aggies**: 1.5, Edge For Covering Spread: -1.2%
+- **CSU Northridge Matadors**: -1.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **UC Davis Aggies Win Probability**: 44.2%, Moneyline Edge: -5.2%
-- **CSU Northridge Matadors Win Probability**: 55.8%, Moneyline Edge: **0.8%**
+- **UC Davis Aggies Win Probability**: 43.8%, Moneyline Edge: -3.8%
+- **CSU Northridge Matadors Win Probability**: 56.2%, Moneyline Edge: -0.3%
 
 ### Total
 - **Predicted Total**: 164.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.1%
 
 ---
 

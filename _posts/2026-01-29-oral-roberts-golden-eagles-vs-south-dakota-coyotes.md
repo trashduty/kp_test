@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> South Dakota Coyotes -5.5</p>
-  <p><strong>Moneyline:</strong> Oral Roberts Golden Eagles (+192) | South Dakota Coyotes (-230)</p>
+  <p><strong>Spread:</strong> South Dakota Coyotes -4.5</p>
+  <p><strong>Moneyline:</strong> Oral Roberts Golden Eagles (+167) | South Dakota Coyotes (-200)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oral Roberts Golden Eagles**: 5.5, Edge For Covering Spread: -6.1%
-- **South Dakota Coyotes**: -5.5, Edge For Covering Spread: **1.4%**
+- **Oral Roberts Golden Eagles**: 4.5, Edge For Covering Spread: -5.4%
+- **South Dakota Coyotes**: -4.5, Edge For Covering Spread: **0.6%**
 
 ### Moneyline
-- **Oral Roberts Golden Eagles Win Probability**: 27.3%, Moneyline Edge: -6.9%
-- **South Dakota Coyotes Win Probability**: 72.7%, Moneyline Edge: **3.0%**
+- **Oral Roberts Golden Eagles Win Probability**: 29.5%, Moneyline Edge: -7.9%
+- **South Dakota Coyotes Win Probability**: 70.5%, Moneyline Edge: **3.9%**
 
 ### Total
 - **Predicted Total**: 154.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-South Dakota Coyotes (11-11) hosts Oral Roberts Golden Eagles (5-17) at Sanford Coyote Sports Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into South Dakota Coyotes favored by 5.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+South Dakota Coyotes (11-11) hosts Oral Roberts Golden Eagles (5-17) at Sanford Coyote Sports Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into South Dakota Coyotes favored by 4.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates South Dakota Coyotes is viewed as the better team, but this isn't an overwhelming edge. Oral Roberts Golden Eagles has a legitimate path to covering or winning outright. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 4.5-point spread indicates South Dakota Coyotes is viewed as the better team, but this isn't an overwhelming edge. Oral Roberts Golden Eagles has a legitimate path to covering or winning outright. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Oral Roberts Golden Eagles** bring an offensive efficiency of 99.74 (ranked #317 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.0% from three, they can't rely on the arc. Expect a paint-focused attack. 

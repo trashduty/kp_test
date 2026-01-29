@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Liberty Flames -2.0</p>
-  <p><strong>Moneyline:</strong> Liberty Flames (-137) | Middle Tennessee Blue Raiders (+115)</p>
+  <p><strong>Spread:</strong> Liberty Flames -1.5</p>
+  <p><strong>Moneyline:</strong> Liberty Flames (-123) | Middle Tennessee Blue Raiders (+103)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Liberty Flames**: -2.0, Edge For Covering Spread: -3.8%
-- **Middle Tennessee Blue Raiders**: 2.0, Edge For Covering Spread: -1.2%
+- **Liberty Flames**: -1.5, Edge For Covering Spread: -3.3%
+- **Middle Tennessee Blue Raiders**: 1.5, Edge For Covering Spread: -1.4%
 
 ### Moneyline
-- **Liberty Flames Win Probability**: 51.2%, Moneyline Edge: -6.7%
-- **Middle Tennessee Blue Raiders Win Probability**: 48.8%, Moneyline Edge: **2.3%**
+- **Liberty Flames Win Probability**: 52.0%, Moneyline Edge: -3.3%
+- **Middle Tennessee Blue Raiders Win Probability**: 48.0%, Moneyline Edge: -1.1%
 
 ### Total
-- **Predicted Total**: 137.0
-- Edge For Covering The Over: -1.0%
-- Edge For Covering The Under: -3.8%
+- **Predicted Total**: 137.5
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -4.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Liberty Flames (17-3) travels to face Middle Tennessee Blue Raiders (11-8) at Murphy Center in what shapes up to be a competitive matchup. The early betting action has shaped into Liberty Flames favored by 2.0 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Liberty Flames (17-3) travels to face Middle Tennessee Blue Raiders (11-8) at Murphy Center in what shapes up to be a competitive matchup. The early betting action has shaped into Liberty Flames favored by 1.5 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Liberty Flames's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Liberty Flames's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Liberty Flames** bring an offensive efficiency of 116.75 (ranked #55 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 39.9% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

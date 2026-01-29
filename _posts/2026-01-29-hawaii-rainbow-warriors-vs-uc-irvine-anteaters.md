@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UC Irvine Anteaters -1.5</p>
-  <p><strong>Moneyline:</strong> Hawai'i Rainbow Warriors (-105) | UC Irvine Anteaters (-115)</p>
+  <p><strong>Moneyline:</strong> Hawai'i Rainbow Warriors (+110) | UC Irvine Anteaters (-132)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Hawai'i Rainbow Warriors**: 1.5, Edge For Covering Spread: -4.1%
-- **UC Irvine Anteaters**: -1.5, Edge For Covering Spread: -0.5%
+- **Hawai'i Rainbow Warriors**: 1.5, Edge For Covering Spread: -1.2%
+- **UC Irvine Anteaters**: -1.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Hawai'i Rainbow Warriors Win Probability**: 47.6%, Moneyline Edge: -3.6%
-- **UC Irvine Anteaters Win Probability**: 52.4%, Moneyline Edge: -1.1%
+- **Hawai'i Rainbow Warriors Win Probability**: 46.6%, Moneyline Edge: -1.0%
+- **UC Irvine Anteaters Win Probability**: 53.4%, Moneyline Edge: -3.6%
 
 ### Total
-- **Predicted Total**: 137.0
-- Edge For Covering The Over: -6.1%
-- Edge For Covering The Under: **1.3%**
+- **Predicted Total**: 138.0
+- Edge For Covering The Over: -7.4%
+- Edge For Covering The Under: **2.7%**
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Georgia St Panthers -1.5</p>
-  <p><strong>Moneyline:</strong> Georgia St Panthers (-130) | Louisiana Ragin' Cajuns (+106)</p>
+  <p><strong>Moneyline:</strong> Georgia St Panthers (-125) | Louisiana Ragin' Cajuns (+105)</p>
   <p><strong>Total:</strong> 131.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Georgia St Panthers**: -1.5, Edge For Covering Spread: -5.2%
-- **Louisiana Ragin' Cajuns**: 1.5, Edge For Covering Spread: -3.0%
+- **Georgia St Panthers**: -1.5, Edge For Covering Spread: -2.4%
+- **Louisiana Ragin' Cajuns**: 1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Georgia St Panthers Win Probability**: 52.5%, Moneyline Edge: -4.0%
-- **Louisiana Ragin' Cajuns Win Probability**: 47.5%, Moneyline Edge: -1.0%
+- **Georgia St Panthers Win Probability**: 52.6%, Moneyline Edge: -3.0%
+- **Louisiana Ragin' Cajuns Win Probability**: 47.4%, Moneyline Edge: -1.3%
 
 ### Total
-- **Predicted Total**: 130.0
-- Edge For Covering The Over: -4.9%
-- Edge For Covering The Under: **0.2%**
+- **Predicted Total**: 130.5
+- Edge For Covering The Over: -5.6%
+- Edge For Covering The Under: **0.8%**
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> SE Missouri St Redhawks -8.5</p>
-  <p><strong>Moneyline:</strong> SE Missouri St Redhawks (-400) | Western Illinois Leathernecks (+310)</p>
+  <p><strong>Moneyline:</strong> SE Missouri St Redhawks (-425) | Western Illinois Leathernecks (+320)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Western Illinois Leathernecks**: 8.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **SE Missouri St Redhawks Win Probability**: 75.2%, Moneyline Edge: -4.8%
-- **Western Illinois Leathernecks Win Probability**: 24.8%, Moneyline Edge: **0.4%**
+- **SE Missouri St Redhawks Win Probability**: 76.1%, Moneyline Edge: -4.8%
+- **Western Illinois Leathernecks Win Probability**: 23.9%, Moneyline Edge: **0.1%**
 
 ### Total
-- **Predicted Total**: 141.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 

@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **North Alabama Lions**: 8.5, Edge For Covering Spread: -3.5%
-- **Florida Gulf Coast Eagles**: -8.5, Edge For Covering Spread: -1.2%
+- **North Alabama Lions**: 8.5, Edge For Covering Spread: -2.8%
+- **Florida Gulf Coast Eagles**: -8.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **North Alabama Lions Win Probability**: 18.6%, Moneyline Edge: -3.7%
-- **Florida Gulf Coast Eagles Win Probability**: 81.4%, Moneyline Edge: -0.5%
+- **North Alabama Lions Win Probability**: 20.2%, Moneyline Edge: -2.1%
+- **Florida Gulf Coast Eagles Win Probability**: 79.8%, Moneyline Edge: -2.1%
 
 ### Total
 - **Predicted Total**: 150.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -1.2%
+- Edge For Covering The Under: -3.5%
 
 ---
 

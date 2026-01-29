@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> South Alabama Jaguars -5.5</p>
-  <p><strong>Moneyline:</strong> Coastal Carolina Chanticleers (+180) | South Alabama Jaguars (-217)</p>
+  <p><strong>Moneyline:</strong> Coastal Carolina Chanticleers (+197) | South Alabama Jaguars (-240)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Coastal Carolina Chanticleers**: 5.5, Edge For Covering Spread: -1.1%
-- **South Alabama Jaguars**: -5.5, Edge For Covering Spread: -3.7%
+- **Coastal Carolina Chanticleers**: 5.5, Edge For Covering Spread: -0.7%
+- **South Alabama Jaguars**: -5.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Coastal Carolina Chanticleers Win Probability**: 32.6%, Moneyline Edge: -3.1%
-- **South Alabama Jaguars Win Probability**: 67.4%, Moneyline Edge: -1.1%
+- **Coastal Carolina Chanticleers Win Probability**: 33.1%, Moneyline Edge: -0.5%
+- **South Alabama Jaguars Win Probability**: 66.9%, Moneyline Edge: -3.7%
 
 ### Total
-- **Predicted Total**: 137.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 138.5
+- Edge For Covering The Over: -5.0%
+- Edge For Covering The Under: **0.3%**
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Southern Miss Golden Eagles -1.5</p>
-  <p><strong>Moneyline:</strong> Appalachian St Mountaineers (-110) | Southern Miss Golden Eagles (-110)</p>
+  <p><strong>Moneyline:</strong> Appalachian St Mountaineers (-102) | Southern Miss Golden Eagles (-118)</p>
   <p><strong>Total:</strong> 132.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Southern Miss Golden Eagles**: -1.5, Edge For Covering Spread: -3.0%
 
 ### Moneyline
-- **Appalachian St Mountaineers Win Probability**: 49.4%, Moneyline Edge: -3.0%
-- **Southern Miss Golden Eagles Win Probability**: 50.6%, Moneyline Edge: -1.8%
+- **Appalachian St Mountaineers Win Probability**: 47.6%, Moneyline Edge: -2.9%
+- **Southern Miss Golden Eagles Win Probability**: 52.4%, Moneyline Edge: -1.8%
 
 ### Total
-- **Predicted Total**: 132.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- **Predicted Total**: 133.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.9%
 
 ---
 

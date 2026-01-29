@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Illinois Fighting Illini -12.5</p>
-  <p><strong>Moneyline:</strong> Washington Huskies (+710) | Illinois Fighting Illini (-1148)</p>
+  <p><strong>Moneyline:</strong> Washington Huskies (+605) | Illinois Fighting Illini (-924)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Washington Huskies**: 12.5, Edge For Covering Spread: -3.7%
-- **Illinois Fighting Illini**: -12.5, Edge For Covering Spread: -0.9%
+- **Washington Huskies**: 12.5, Edge For Covering Spread: -4.0%
+- **Illinois Fighting Illini**: -12.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Washington Huskies Win Probability**: 11.8%, Moneyline Edge: -0.6%
-- **Illinois Fighting Illini Win Probability**: 88.2%, Moneyline Edge: -3.8%
+- **Washington Huskies Win Probability**: 12.8%, Moneyline Edge: -1.4%
+- **Illinois Fighting Illini Win Probability**: 87.2%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 152.0

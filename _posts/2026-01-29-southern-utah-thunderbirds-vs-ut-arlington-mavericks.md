@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UT-Arlington Mavericks -8.5</p>
-  <p><strong>Moneyline:</strong> Southern Utah Thunderbirds (+285) | UT-Arlington Mavericks (-360)</p>
+  <p><strong>Moneyline:</strong> Southern Utah Thunderbirds (+330) | UT-Arlington Mavericks (-425)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Southern Utah Thunderbirds**: 8.5, Edge For Covering Spread: -6.9%
-- **UT-Arlington Mavericks**: -8.5, Edge For Covering Spread: **2.1%**
+- **Southern Utah Thunderbirds**: 8.5, Edge For Covering Spread: -5.7%
+- **UT-Arlington Mavericks**: -8.5, Edge For Covering Spread: **1.0%**
 
 ### Moneyline
-- **Southern Utah Thunderbirds Win Probability**: 20.0%, Moneyline Edge: -5.9%
-- **UT-Arlington Mavericks Win Probability**: 80.0%, Moneyline Edge: **1.7%**
+- **Southern Utah Thunderbirds Win Probability**: 19.7%, Moneyline Edge: -3.6%
+- **UT-Arlington Mavericks Win Probability**: 80.3%, Moneyline Edge: -0.6%
 
 ### Total
 - **Predicted Total**: 142.0
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.5%
 
 ---
 

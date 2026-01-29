@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Albany Great Danes -5.5</p>
-  <p><strong>Moneyline:</strong> NJIT Highlanders (+195) | Albany Great Danes (-230)</p>
+  <p><strong>Moneyline:</strong> NJIT Highlanders (+200) | Albany Great Danes (-240)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **NJIT Highlanders**: 5.5, Edge For Covering Spread: -4.6%
-- **Albany Great Danes**: -5.5, Edge For Covering Spread: -0.1%
+- **NJIT Highlanders**: 5.5, Edge For Covering Spread: -2.9%
+- **Albany Great Danes**: -5.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **NJIT Highlanders Win Probability**: 29.0%, Moneyline Edge: -4.9%
-- **Albany Great Danes Win Probability**: 71.0%, Moneyline Edge: **1.4%**
+- **NJIT Highlanders Win Probability**: 29.9%, Moneyline Edge: -3.5%
+- **Albany Great Danes Win Probability**: 70.1%, Moneyline Edge: -0.4%
 
 ### Total
-- **Predicted Total**: 139.5
-- Edge For Covering The Over: -1.9%
-- Edge For Covering The Under: -2.8%
+- **Predicted Total**: 140.0
+- Edge For Covering The Over: -0.4%
+- Edge For Covering The Under: -4.3%
 
 ---
 

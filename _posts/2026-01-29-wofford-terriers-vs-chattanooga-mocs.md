@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Chattanooga Mocs -1.5</p>
-  <p><strong>Moneyline:</strong> Wofford Terriers (+103) | Chattanooga Mocs (-123)</p>
+  <p><strong>Moneyline:</strong> Wofford Terriers (+105) | Chattanooga Mocs (-125)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Chattanooga Mocs**: -1.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Wofford Terriers Win Probability**: 46.7%, Moneyline Edge: -2.5%
-- **Chattanooga Mocs Win Probability**: 53.3%, Moneyline Edge: -1.9%
+- **Wofford Terriers Win Probability**: 47.9%, Moneyline Edge: -0.9%
+- **Chattanooga Mocs Win Probability**: 52.1%, Moneyline Edge: -3.4%
 
 ### Total
 - **Predicted Total**: 150.0
-- Edge For Covering The Over: -2.1%
-- Edge For Covering The Under: -2.7%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.1%
 
 ---
 

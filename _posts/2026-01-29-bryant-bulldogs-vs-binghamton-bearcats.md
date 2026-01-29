@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Binghamton Bearcats -1.5</p>
-  <p><strong>Moneyline:</strong> Bryant Bulldogs (+101) | Binghamton Bearcats (-121)</p>
+  <p><strong>Moneyline:</strong> Bryant Bulldogs (+105) | Binghamton Bearcats (-125)</p>
   <p><strong>Total:</strong> 131.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bryant Bulldogs**: 1.5, Edge For Covering Spread: -0.6%
-- **Binghamton Bearcats**: -1.5, Edge For Covering Spread: -4.1%
+- **Bryant Bulldogs**: 1.5, Edge For Covering Spread: -1.6%
+- **Binghamton Bearcats**: -1.5, Edge For Covering Spread: -3.1%
 
 ### Moneyline
-- **Bryant Bulldogs Win Probability**: 46.3%, Moneyline Edge: -3.4%
-- **Binghamton Bearcats Win Probability**: 53.7%, Moneyline Edge: -1.1%
+- **Bryant Bulldogs Win Probability**: 46.9%, Moneyline Edge: -1.9%
+- **Binghamton Bearcats Win Probability**: 53.1%, Moneyline Edge: -2.4%
 
 ### Total
 - **Predicted Total**: 132.0

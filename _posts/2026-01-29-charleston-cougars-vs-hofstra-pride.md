@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Hofstra Pride -4.5</p>
-  <p><strong>Moneyline:</strong> Charleston Cougars (+165) | Hofstra Pride (-196)</p>
+  <p><strong>Moneyline:</strong> Charleston Cougars (+162) | Hofstra Pride (-193)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Charleston Cougars**: 4.5, Edge For Covering Spread: -5.6%
-- **Hofstra Pride**: -4.5, Edge For Covering Spread: **0.8%**
+- **Charleston Cougars**: 4.5, Edge For Covering Spread: -4.5%
+- **Hofstra Pride**: -4.5, Edge For Covering Spread: -0.2%
 
 ### Moneyline
-- **Charleston Cougars Win Probability**: 31.5%, Moneyline Edge: -6.3%
-- **Hofstra Pride Win Probability**: 68.5%, Moneyline Edge: **2.3%**
+- **Charleston Cougars Win Probability**: 33.3%, Moneyline Edge: -4.8%
+- **Hofstra Pride Win Probability**: 66.7%, Moneyline Edge: **0.8%**
 
 ### Total
 - **Predicted Total**: 149.0
-- Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -1.0%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 

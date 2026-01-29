@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> LIU Sharks -6.5</p>
-  <p><strong>Moneyline:</strong> Le Moyne Dolphins (+215) | LIU Sharks (-260)</p>
+  <p><strong>Moneyline:</strong> Le Moyne Dolphins (+210) | LIU Sharks (-258)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **LIU Sharks**: -6.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Le Moyne Dolphins Win Probability**: 30.5%, Moneyline Edge: -1.3%
-- **LIU Sharks Win Probability**: 69.5%, Moneyline Edge: -2.7%
+- **Le Moyne Dolphins Win Probability**: 31.5%, Moneyline Edge: -0.8%
+- **LIU Sharks Win Probability**: 68.5%, Moneyline Edge: -3.5%
 
 ### Total
 - **Predicted Total**: 148.5

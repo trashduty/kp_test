@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Vermont Catamounts -7.5</p>
-  <p><strong>Moneyline:</strong> UMBC Retrievers (+290) | Vermont Catamounts (-375)</p>
+  <p><strong>Moneyline:</strong> UMBC Retrievers (+285) | Vermont Catamounts (-360)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UMBC Retrievers**: 7.5, Edge For Covering Spread: -0.7%
-- **Vermont Catamounts**: -7.5, Edge For Covering Spread: -4.1%
+- **UMBC Retrievers**: 7.5, Edge For Covering Spread: **1.4%**
+- **Vermont Catamounts**: -7.5, Edge For Covering Spread: -6.2%
 
 ### Moneyline
-- **UMBC Retrievers Win Probability**: 26.8%, Moneyline Edge: **1.2%**
-- **Vermont Catamounts Win Probability**: 73.2%, Moneyline Edge: -5.8%
+- **UMBC Retrievers Win Probability**: 27.5%, Moneyline Edge: **1.6%**
+- **Vermont Catamounts Win Probability**: 72.5%, Moneyline Edge: -5.8%
 
 ### Total
 - **Predicted Total**: 140.5
