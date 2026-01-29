@@ -2398,5 +2398,37 @@
   "The Citadel Bulldogs vs. VMI Keydets|The Citadel Bulldogs|spread": {
     "captured_at": "2026-01-29T00:35:20.369571+00:00",
     "edge_type": "spread"
+  },
+  "New Hampshire Wildcats vs. UMass Lowell River Hawks|New Hampshire Wildcats|spread": {
+    "captured_at": "2026-01-29T01:37:47.323336+00:00",
+    "edge_type": "spread"
+  },
+  "New Hampshire Wildcats vs. UMass Lowell River Hawks|New Hampshire Wildcats|moneyline": {
+    "captured_at": "2026-01-29T01:37:47.323379+00:00",
+    "edge_type": "moneyline"
+  },
+  "Binghamton Bearcats vs. Bryant Bulldogs|Binghamton Bearcats|moneyline": {
+    "captured_at": "2026-01-29T01:37:47.323615+00:00",
+    "edge_type": "moneyline"
+  },
+  "UNC Asheville Bulldogs vs. Gardner-Webb Bulldogs|UNC Asheville Bulldogs|spread": {
+    "captured_at": "2026-01-29T01:37:47.323758+00:00",
+    "edge_type": "spread"
+  },
+  "Drexel Dragons vs. Hampton Pirates|Drexel Dragons|moneyline": {
+    "captured_at": "2026-01-29T01:37:47.324085+00:00",
+    "edge_type": "moneyline"
+  },
+  "The Citadel Bulldogs vs. VMI Keydets|The Citadel Bulldogs|moneyline": {
+    "captured_at": "2026-01-29T01:37:47.324918+00:00",
+    "edge_type": "moneyline"
+  },
+  "UT-Arlington Mavericks vs. Southern Utah Thunderbirds|UT-Arlington Mavericks|spread": {
+    "captured_at": "2026-01-29T01:37:47.326226+00:00",
+    "edge_type": "spread"
+  },
+  "UT-Arlington Mavericks vs. Southern Utah Thunderbirds|UT-Arlington Mavericks|moneyline": {
+    "captured_at": "2026-01-29T01:37:47.326259+00:00",
+    "edge_type": "moneyline"
   }
 }
