@@ -2394,5 +2394,9 @@
   "Memphis Tigers vs. Florida Atlantic Owls|Memphis Tigers|moneyline": {
     "captured_at": "2026-01-28T23:10:10.034529+00:00",
     "edge_type": "moneyline"
+  },
+  "The Citadel Bulldogs vs. VMI Keydets|The Citadel Bulldogs|spread": {
+    "captured_at": "2026-01-29T00:35:20.369571+00:00",
+    "edge_type": "spread"
   }
 }
