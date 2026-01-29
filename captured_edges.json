@@ -2462,5 +2462,9 @@
   "Chicago St Cougars vs. St. Francis (PA) Red Flash|Chicago St Cougars|moneyline": {
     "captured_at": "2026-01-29T05:23:08.097142+00:00",
     "edge_type": "moneyline"
+  },
+  "Wagner Seahawks vs. Central Connecticut St Blue Devils|over": {
+    "captured_at": "2026-01-29T07:21:48.318941+00:00",
+    "edge_type": "over"
   }
 }
