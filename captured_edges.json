@@ -2482,5 +2482,9 @@
   "Nevada Wolf Pack vs. UNLV Rebels|Nevada Wolf Pack|spread": {
     "captured_at": "2026-01-29T20:10:53.276592+00:00",
     "edge_type": "spread"
+  },
+  "Missouri Tigers vs. Mississippi St Bulldogs|Mississippi St Bulldogs|spread": {
+    "captured_at": "2026-01-30T20:10:14.033751+00:00",
+    "edge_type": "spread"
   }
 }
