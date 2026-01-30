@@ -2486,5 +2486,53 @@
   "Missouri Tigers vs. Mississippi St Bulldogs|Mississippi St Bulldogs|spread": {
     "captured_at": "2026-01-30T20:10:14.033751+00:00",
     "edge_type": "spread"
+  },
+  "Mercer Bears vs. VMI Keydets|Mercer Bears|spread": {
+    "captured_at": "2026-01-30T23:10:01.003715+00:00",
+    "edge_type": "spread"
+  },
+  "Buffalo Bulls vs. Ohio Bobcats|Buffalo Bulls|moneyline": {
+    "captured_at": "2026-01-30T23:10:01.004048+00:00",
+    "edge_type": "moneyline"
+  },
+  "Monmouth Hawks vs. Hofstra Pride|Hofstra Pride|moneyline": {
+    "captured_at": "2026-01-30T23:10:01.004366+00:00",
+    "edge_type": "moneyline"
+  },
+  "UT-Arlington Mavericks vs. Cal Baptist Lancers|UT-Arlington Mavericks|moneyline": {
+    "captured_at": "2026-01-30T23:10:01.005697+00:00",
+    "edge_type": "moneyline"
+  },
+  "Weber State Wildcats vs. Idaho State Bengals|Weber State Wildcats|moneyline": {
+    "captured_at": "2026-01-30T23:10:01.005942+00:00",
+    "edge_type": "moneyline"
+  },
+  "Miami Hurricanes vs. California Golden Bears|California Golden Bears|spread": {
+    "captured_at": "2026-01-30T23:10:01.007973+00:00",
+    "edge_type": "spread"
+  },
+  "Richmond Spiders vs. Davidson Wildcats|Richmond Spiders|moneyline": {
+    "captured_at": "2026-01-30T23:10:01.008157+00:00",
+    "edge_type": "moneyline"
+  },
+  "Eastern Illinois Panthers vs. SE Missouri St Redhawks|Eastern Illinois Panthers|spread": {
+    "captured_at": "2026-01-30T23:10:01.008455+00:00",
+    "edge_type": "spread"
+  },
+  "Portland St Vikings vs. Montana St Bobcats|under": {
+    "captured_at": "2026-01-30T23:10:01.008913+00:00",
+    "edge_type": "under"
+  },
+  "Tarleton State Texans vs. Utah Tech Trailblazers|Tarleton State Texans|moneyline": {
+    "captured_at": "2026-01-30T23:10:01.009145+00:00",
+    "edge_type": "moneyline"
+  },
+  "San Diego Toreros vs. Oregon St Beavers|San Diego Toreros|moneyline": {
+    "captured_at": "2026-01-30T23:10:01.009629+00:00",
+    "edge_type": "moneyline"
+  },
+  "William & Mary Tribe vs. Campbell Fighting Camels|William & Mary Tribe|moneyline": {
+    "captured_at": "2026-01-30T23:10:01.011578+00:00",
+    "edge_type": "moneyline"
   }
 }
