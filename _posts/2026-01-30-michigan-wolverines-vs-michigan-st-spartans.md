@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan Wolverines -1.5</p>
-  <p><strong>Moneyline:</strong> Michigan Wolverines (-120) | Michigan St Spartans (-100)</p>
+  <p><strong>Moneyline:</strong> Michigan Wolverines (-115) | Michigan St Spartans (-105)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan Wolverines**: -1.5, Edge For Covering Spread: 0.0%
-- **Michigan St Spartans**: 1.5, Edge For Covering Spread: -4.5%
+- **Michigan Wolverines**: -1.5, Edge For Covering Spread: -0.5%
+- **Michigan St Spartans**: 1.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Michigan Wolverines Win Probability**: 51.6%, Moneyline Edge: -3.0%
-- **Michigan St Spartans Win Probability**: 48.4%, Moneyline Edge: -1.6%
+- **Michigan Wolverines Win Probability**: 50.5%, Moneyline Edge: -2.9%
+- **Michigan St Spartans Win Probability**: 49.5%, Moneyline Edge: -1.8%
 
 ### Total
-- **Predicted Total**: 145.5
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- **Predicted Total**: 146.5
+- Edge For Covering The Over: -4.4%
+- Edge For Covering The Under: -2.0%
 
 ---
 
@@ -49,10 +49,10 @@ A spread under 3 points suggests the books see this as essentially a coin flip. 
 
 #### Offensive Firepower
 **Michigan Wolverines** bring an offensive efficiency of 121.97 (ranked #16 nationally). This is an elite offense that can score in multiple ways. Their 34.5% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Michigan St Spartans** counter with 117.46 offensive efficiency (#47). This offense can match anyone bucket-for-bucket. At 35.9% from three, they have adequate spacing but must pick their spots. 
+Meanwhile, **Michigan St Spartans** counter with 117.46 offensive efficiency (#48). This offense can match anyone bucket-for-bucket. At 35.9% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Michigan Wolverines operate at a 74.0 tempo (#12), while Michigan St Spartans play at 67.2 (#262). Michigan Wolverines want to run, but Michigan St Spartans prefer to slow things down. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 70.6) should create a standard flow. 
+Michigan Wolverines operate at a 74.0 tempo (#12), while Michigan St Spartans play at 67.2 (#261). Michigan Wolverines want to run, but Michigan St Spartans prefer to slow things down. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 70.6) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Michigan Wolverines shoot 64.5% on two-pointers, while Michigan St Spartans convert at 54.8%. Michigan Wolverines has a clear edge in interior scoring efficiency. 
@@ -90,9 +90,9 @@ Michigan Wolverines comes in ranked #2 overall by KenPom. They boast one of the 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 64.5% (Rank: #1)
-- **3-Point Shooting:** 34.5% (Rank: #159)
+- **3-Point Shooting:** 34.5% (Rank: #158)
 - **Free Throw Shooting:** 72.3% (Rank: #184)
-- **3-Point Rate:** 43.3% (Rank: #113)
+- **3-Point Rate:** 43.3% (Rank: #112)
 
 ### Defensive Stats
 
@@ -103,7 +103,7 @@ Michigan Wolverines comes in ranked #2 overall by KenPom. They boast one of the 
 
 ### Team Metrics
 
-- **Assist Rate:** 60.1% (Rank: #31)
+- **Assist Rate:** 60.1% (Rank: #30)
 - **Experience:** 2.1 years (Rank: #50)
 - **Bench Minutes:** 37.5% (Rank: #69)
 - **Average Height:** 78.6" (Rank: #28)
@@ -119,28 +119,28 @@ Michigan St Spartans comes in ranked #7 overall by KenPom. Defensively, they've 
 - **Head Coach:** Tom Izzo
 - **Home Arena:** Breslin Center
 - **KenPom Rank:** #7
-- **Offensive Efficiency:** 117.5 (Rank: #47)
+- **Offensive Efficiency:** 117.5 (Rank: #48)
 - **Defensive Efficiency:** 93.7 (Rank: #7)
-- **Tempo:** 67.2 (Rank: #262)
+- **Tempo:** 67.2 (Rank: #261)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 54.8% (Rank: #78)
-- **3-Point Shooting:** 35.9% (Rank: #69)
-- **Free Throw Shooting:** 73.9% (Rank: #128)
-- **3-Point Rate:** 36.3% (Rank: #246)
+- **3-Point Shooting:** 35.9% (Rank: #68)
+- **Free Throw Shooting:** 73.9% (Rank: #129)
+- **3-Point Rate:** 36.3% (Rank: #245)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 46.5% (Rank: #28)
-- **Opponent 3-Point Shooting:** 30.1% (Rank: #31)
+- **Opponent 3-Point Shooting:** 30.1% (Rank: #30)
 - **Block Percentage:** 15.1% (Rank: #12)
-- **Steal Rate:** 0.1% (Rank: #275)
+- **Steal Rate:** 0.1% (Rank: #273)
 
 ### Team Metrics
 
 - **Assist Rate:** 67.3% (Rank: #2)
-- **Experience:** 1.4 years (Rank: #193)
-- **Bench Minutes:** 35.4% (Rank: #115)
+- **Experience:** 1.4 years (Rank: #192)
+- **Bench Minutes:** 35.4% (Rank: #116)
 - **Average Height:** 78.7" (Rank: #24)
 
