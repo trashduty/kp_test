@@ -2578,5 +2578,29 @@
   "UTEP Miners vs. Delaware Blue Hens|Delaware Blue Hens|spread": {
     "captured_at": "2026-01-31T01:37:24.771183+00:00",
     "edge_type": "spread"
+  },
+  "Le Moyne Dolphins vs. Stonehill Skyhawks|Le Moyne Dolphins|spread": {
+    "captured_at": "2026-01-31T02:58:30.575044+00:00",
+    "edge_type": "spread"
+  },
+  "Le Moyne Dolphins vs. Stonehill Skyhawks|Le Moyne Dolphins|moneyline": {
+    "captured_at": "2026-01-31T02:58:30.575088+00:00",
+    "edge_type": "moneyline"
+  },
+  "North Florida Ospreys vs. Lipscomb Bisons|North Florida Ospreys|spread": {
+    "captured_at": "2026-01-31T02:58:30.576005+00:00",
+    "edge_type": "spread"
+  },
+  "Stetson Hatters vs. North Alabama Lions|Stetson Hatters|moneyline": {
+    "captured_at": "2026-01-31T02:58:30.578304+00:00",
+    "edge_type": "moneyline"
+  },
+  "Loyola Marymount Lions vs. Santa Clara Broncos|under": {
+    "captured_at": "2026-01-31T02:58:30.586023+00:00",
+    "edge_type": "under"
+  },
+  "Sacramento St Hornets vs. Montana Grizzlies|Montana Grizzlies|moneyline": {
+    "captured_at": "2026-01-31T02:58:30.586904+00:00",
+    "edge_type": "moneyline"
   }
 }
