@@ -2650,5 +2650,9 @@
   "Southern Indiana Screaming Eagles vs. SIU-Edwardsville Cougars|under": {
     "captured_at": "2026-01-31T04:34:57.262482+00:00",
     "edge_type": "under"
+  },
+  "Alcorn St Braves vs. Southern Jaguars|Alcorn St Braves|spread": {
+    "captured_at": "2026-01-31T05:20:25.497723+00:00",
+    "edge_type": "spread"
   }
 }
