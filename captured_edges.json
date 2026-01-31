@@ -2638,5 +2638,17 @@
   "New Orleans Privateers vs. Northwestern St Demons|New Orleans Privateers|moneyline": {
     "captured_at": "2026-01-31T03:50:43.390686+00:00",
     "edge_type": "moneyline"
+  },
+  "Bucknell Bison vs. Boston Univ. Terriers|Bucknell Bison|spread": {
+    "captured_at": "2026-01-31T04:34:57.252499+00:00",
+    "edge_type": "spread"
+  },
+  "Lamar Cardinals vs. McNeese Cowboys|Lamar Cardinals|spread": {
+    "captured_at": "2026-01-31T04:34:57.260867+00:00",
+    "edge_type": "spread"
+  },
+  "Southern Indiana Screaming Eagles vs. SIU-Edwardsville Cougars|under": {
+    "captured_at": "2026-01-31T04:34:57.262482+00:00",
+    "edge_type": "under"
   }
 }
