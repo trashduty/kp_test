@@ -2534,5 +2534,25 @@
   "William & Mary Tribe vs. Campbell Fighting Camels|William & Mary Tribe|moneyline": {
     "captured_at": "2026-01-30T23:10:01.011578+00:00",
     "edge_type": "moneyline"
+  },
+  "Western Carolina Catamounts vs. Samford Bulldogs|Western Carolina Catamounts|spread": {
+    "captured_at": "2026-01-31T00:33:35.699596+00:00",
+    "edge_type": "spread"
+  },
+  "Western Carolina Catamounts vs. Samford Bulldogs|Western Carolina Catamounts|moneyline": {
+    "captured_at": "2026-01-31T00:33:35.699641+00:00",
+    "edge_type": "moneyline"
+  },
+  "Tarleton State Texans vs. Utah Tech Trailblazers|over": {
+    "captured_at": "2026-01-31T00:33:35.706149+00:00",
+    "edge_type": "over"
+  },
+  "Tarleton State Texans vs. Utah Tech Trailblazers|Tarleton State Texans|spread": {
+    "captured_at": "2026-01-31T00:33:35.706258+00:00",
+    "edge_type": "spread"
+  },
+  "William & Mary Tribe vs. Campbell Fighting Camels|William & Mary Tribe|spread": {
+    "captured_at": "2026-01-31T00:33:35.710287+00:00",
+    "edge_type": "spread"
   }
 }
