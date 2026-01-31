@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kansas Jayhawks -4.5</p>
-  <p><strong>Moneyline:</strong> BYU Cougars (+158) | Kansas Jayhawks (-189)</p>
+  <p><strong>Moneyline:</strong> BYU Cougars (+162) | Kansas Jayhawks (-193)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Kansas Jayhawks**: -4.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **BYU Cougars Win Probability**: 35.9%, Moneyline Edge: -2.8%
-- **Kansas Jayhawks Win Probability**: 64.1%, Moneyline Edge: -1.4%
+- **BYU Cougars Win Probability**: 35.6%, Moneyline Edge: -2.5%
+- **Kansas Jayhawks Win Probability**: 64.4%, Moneyline Edge: -1.5%
 
 ### Total
-- **Predicted Total**: 156.0
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- **Predicted Total**: 156.5
+- Edge For Covering The Over: -6.0%
+- Edge For Covering The Under: **1.3%**
 
 ---
 
@@ -52,7 +52,7 @@ The 4.5-point spread indicates Kansas Jayhawks is viewed as the better team, but
 Meanwhile, **Kansas Jayhawks** counter with 114.28 offensive efficiency (#79). They're competent on offense without being spectacular. At 35.8% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-BYU Cougars operate at a 71.3 tempo (#69), while Kansas Jayhawks play at 67.6 (#238). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.4) should create a standard flow. 
+BYU Cougars operate at a 71.3 tempo (#68), while Kansas Jayhawks play at 67.6 (#238). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.4) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, BYU Cougars shoot 57.4% on two-pointers, while Kansas Jayhawks convert at 54.2%. Both teams are evenly matched in paint efficiency. 
@@ -61,7 +61,7 @@ Getting to the line matters too. BYU Cougars's free throw rate sits at 35.9, ind
 #### X-Factors & Intangibles
 Playing at home, Kansas Jayhawks get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Kevin Young leads BYU Cougars while Bill Self guides Kansas Jayhawks. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Both teams feature strong defenses (#35 and #22), so offense may be at a premium. 
+Both teams feature strong defenses (#34 and #21), so offense may be at a premium. 
 ### Game Storylines
 
 This matchup features two evenly-matched teams, with BYU Cougars at #15 and Kansas Jayhawks at #14 in the KenPom rankings. Expect a competitive battle throughout. 
@@ -82,28 +82,28 @@ BYU Cougars comes in ranked #15 overall by KenPom. They boast one of the nation'
 - **Head Coach:** Kevin Young
 - **KenPom Rank:** #15
 - **Offensive Efficiency:** 121.6 (Rank: #20)
-- **Defensive Efficiency:** 99.6 (Rank: #35)
-- **Tempo:** 71.3 (Rank: #69)
+- **Defensive Efficiency:** 99.6 (Rank: #34)
+- **Tempo:** 71.3 (Rank: #68)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 57.4% (Rank: #33)
-- **3-Point Shooting:** 35.6% (Rank: #86)
+- **2-Point Shooting:** 57.4% (Rank: #34)
+- **3-Point Shooting:** 35.6% (Rank: #84)
 - **Free Throw Shooting:** 75.1% (Rank: #84)
 - **3-Point Rate:** 40.4% (Rank: #163)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 47.9% (Rank: #58)
-- **Opponent 3-Point Shooting:** 31.8% (Rank: #88)
-- **Block Percentage:** 13.0% (Rank: #38)
-- **Steal Rate:** 0.1% (Rank: #44)
+- **Opponent 3-Point Shooting:** 31.8% (Rank: #85)
+- **Block Percentage:** 13.0% (Rank: #37)
+- **Steal Rate:** 0.1% (Rank: #45)
 
 ### Team Metrics
 
-- **Assist Rate:** 50.0% (Rank: #250)
+- **Assist Rate:** 50.0% (Rank: #251)
 - **Experience:** 1.8 years (Rank: #107)
-- **Bench Minutes:** 28.3% (Rank: #285)
+- **Bench Minutes:** 28.3% (Rank: #286)
 - **Average Height:** 78.2" (Rank: #65)
 
 ---
@@ -118,27 +118,27 @@ Kansas Jayhawks comes in ranked #14 overall by KenPom. On the defensive end, the
 - **Home Arena:** Allen Fieldhouse
 - **KenPom Rank:** #14
 - **Offensive Efficiency:** 114.3 (Rank: #79)
-- **Defensive Efficiency:** 98.0 (Rank: #22)
+- **Defensive Efficiency:** 98.0 (Rank: #21)
 - **Tempo:** 67.6 (Rank: #238)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 54.2% (Rank: #91)
-- **3-Point Shooting:** 35.8% (Rank: #74)
-- **Free Throw Shooting:** 76.5% (Rank: #43)
+- **2-Point Shooting:** 54.2% (Rank: #90)
+- **3-Point Shooting:** 35.8% (Rank: #72)
+- **Free Throw Shooting:** 76.5% (Rank: #42)
 - **3-Point Rate:** 36.8% (Rank: #237)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 44.7% (Rank: #10)
+- **Opponent 2-Point Shooting:** 44.7% (Rank: #9)
 - **Opponent 3-Point Shooting:** 29.1% (Rank: #13)
 - **Block Percentage:** 17.2% (Rank: #2)
-- **Steal Rate:** 0.1% (Rank: #310)
+- **Steal Rate:** 0.1% (Rank: #307)
 
 ### Team Metrics
 
-- **Assist Rate:** 55.1% (Rank: #116)
+- **Assist Rate:** 55.1% (Rank: #114)
 - **Experience:** 1.8 years (Rank: #102)
-- **Bench Minutes:** 27.2% (Rank: #303)
+- **Bench Minutes:** 27.2% (Rank: #302)
 - **Average Height:** 78.7" (Rank: #25)
 
