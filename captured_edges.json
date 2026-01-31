@@ -2602,5 +2602,41 @@
   "Sacramento St Hornets vs. Montana Grizzlies|Montana Grizzlies|moneyline": {
     "captured_at": "2026-01-31T02:58:30.586904+00:00",
     "edge_type": "moneyline"
+  },
+  "Wagner Seahawks vs. Fairleigh Dickinson Knights|over": {
+    "captured_at": "2026-01-31T03:50:43.383242+00:00",
+    "edge_type": "over"
+  },
+  "Wagner Seahawks vs. Fairleigh Dickinson Knights|Wagner Seahawks|spread": {
+    "captured_at": "2026-01-31T03:50:43.383346+00:00",
+    "edge_type": "spread"
+  },
+  "Wagner Seahawks vs. Fairleigh Dickinson Knights|Wagner Seahawks|moneyline": {
+    "captured_at": "2026-01-31T03:50:43.383380+00:00",
+    "edge_type": "moneyline"
+  },
+  "Bucknell Bison vs. Boston Univ. Terriers|Bucknell Bison|moneyline": {
+    "captured_at": "2026-01-31T03:50:43.385556+00:00",
+    "edge_type": "moneyline"
+  },
+  "Howard Bison vs. Norfolk St Spartans|under": {
+    "captured_at": "2026-01-31T03:50:43.387104+00:00",
+    "edge_type": "under"
+  },
+  "Delaware St Hornets vs. Maryland-Eastern Shore Hawks|under": {
+    "captured_at": "2026-01-31T03:50:43.388976+00:00",
+    "edge_type": "under"
+  },
+  "Incarnate Word Cardinals vs. UT Rio Grande Valley Vaqueros|UT Rio Grande Valley Vaqueros|spread": {
+    "captured_at": "2026-01-31T03:50:43.390267+00:00",
+    "edge_type": "spread"
+  },
+  "Incarnate Word Cardinals vs. UT Rio Grande Valley Vaqueros|UT Rio Grande Valley Vaqueros|moneyline": {
+    "captured_at": "2026-01-31T03:50:43.390300+00:00",
+    "edge_type": "moneyline"
+  },
+  "New Orleans Privateers vs. Northwestern St Demons|New Orleans Privateers|moneyline": {
+    "captured_at": "2026-01-31T03:50:43.390686+00:00",
+    "edge_type": "moneyline"
   }
 }
