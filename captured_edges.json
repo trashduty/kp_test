@@ -2662,5 +2662,9 @@
   "Bellarmine Knights vs. Queens University Royals|Bellarmine Knights|spread": {
     "captured_at": "2026-01-31T17:08:43.117647+00:00",
     "edge_type": "spread"
+  },
+  "Colorado Buffaloes vs. TCU Horned Frogs|TCU Horned Frogs|moneyline": {
+    "captured_at": "2026-01-31T22:07:25.898010+00:00",
+    "edge_type": "moneyline"
   }
 }
