@@ -2654,5 +2654,9 @@
   "Alcorn St Braves vs. Southern Jaguars|Alcorn St Braves|spread": {
     "captured_at": "2026-01-31T05:20:25.497723+00:00",
     "edge_type": "spread"
+  },
+  "Vermont Catamounts vs. NJIT Highlanders|NJIT Highlanders|spread": {
+    "captured_at": "2026-01-31T07:13:55.714984+00:00",
+    "edge_type": "spread"
   }
 }
