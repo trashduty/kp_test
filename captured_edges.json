@@ -2554,5 +2554,29 @@
   "William & Mary Tribe vs. Campbell Fighting Camels|William & Mary Tribe|spread": {
     "captured_at": "2026-01-31T00:33:35.710287+00:00",
     "edge_type": "spread"
+  },
+  "Western Illinois Leathernecks vs. Tenn-Martin Skyhawks|under": {
+    "captured_at": "2026-01-31T01:37:24.766378+00:00",
+    "edge_type": "under"
+  },
+  "St. Bonaventure Bonnies vs. George Mason Patriots|George Mason Patriots|moneyline": {
+    "captured_at": "2026-01-31T01:37:24.769044+00:00",
+    "edge_type": "moneyline"
+  },
+  "South Alabama Jaguars vs. Georgia St Panthers|South Alabama Jaguars|moneyline": {
+    "captured_at": "2026-01-31T01:37:24.769989+00:00",
+    "edge_type": "moneyline"
+  },
+  "UC Riverside Highlanders vs. Cal Poly Mustangs|UC Riverside Highlanders|spread": {
+    "captured_at": "2026-01-31T01:37:24.770100+00:00",
+    "edge_type": "spread"
+  },
+  "UC Riverside Highlanders vs. Cal Poly Mustangs|UC Riverside Highlanders|moneyline": {
+    "captured_at": "2026-01-31T01:37:24.770136+00:00",
+    "edge_type": "moneyline"
+  },
+  "UTEP Miners vs. Delaware Blue Hens|Delaware Blue Hens|spread": {
+    "captured_at": "2026-01-31T01:37:24.771183+00:00",
+    "edge_type": "spread"
   }
 }
