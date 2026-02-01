@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Coastal Carolina Chanticleers -9.5</p>
-  <p><strong>Moneyline:</strong> UL Monroe Warhawks (+325) | Coastal Carolina Chanticleers (-425)</p>
+  <p><strong>Moneyline:</strong> UL Monroe Warhawks (+400) | Coastal Carolina Chanticleers (-600)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UL Monroe Warhawks**: 9.5, Edge For Covering Spread: -3.8%
-- **Coastal Carolina Chanticleers**: -9.5, Edge For Covering Spread: -0.9%
+- **UL Monroe Warhawks**: 9.5, Edge For Covering Spread: -1.3%
+- **Coastal Carolina Chanticleers**: -9.5, Edge For Covering Spread: -3.4%
 
 ### Moneyline
-- **UL Monroe Warhawks Win Probability**: 22.1%, Moneyline Edge: -1.5%
-- **Coastal Carolina Chanticleers Win Probability**: 77.9%, Moneyline Edge: -3.0%
+- **UL Monroe Warhawks Win Probability**: 21.0%, Moneyline Edge: **1.0%**
+- **Coastal Carolina Chanticleers Win Probability**: 79.0%, Moneyline Edge: -6.7%
 
 ### Total
-- **Predicted Total**: 147.5
-- Edge For Covering The Over: **0.3%**
-- Edge For Covering The Under: -5.0%
+- **Predicted Total**: 147.0
+- Edge For Covering The Over: -1.1%
+- Edge For Covering The Under: -3.6%
 
 ---
 

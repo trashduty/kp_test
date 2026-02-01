@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Purdue Boilermakers -13.5</p>
-  <p><strong>Moneyline:</strong> Purdue Boilermakers (-1325) | Maryland Terrapins (+780)</p>
+  <p><strong>Spread:</strong> Purdue Boilermakers -14.5</p>
+  <p><strong>Moneyline:</strong> Purdue Boilermakers (-1494) | Maryland Terrapins (+847)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Purdue Boilermakers**: -13.5, Edge For Covering Spread: -0.3%
-- **Maryland Terrapins**: 13.5, Edge For Covering Spread: -4.4%
+- **Purdue Boilermakers**: -14.5, Edge For Covering Spread: **0.4%**
+- **Maryland Terrapins**: 14.5, Edge For Covering Spread: -5.1%
 
 ### Moneyline
-- **Purdue Boilermakers Win Probability**: 92.2%, Moneyline Edge: -0.8%
-- **Maryland Terrapins Win Probability**: 7.8%, Moneyline Edge: -3.5%
+- **Purdue Boilermakers Win Probability**: 91.0%, Moneyline Edge: -2.7%
+- **Maryland Terrapins Win Probability**: 9.0%, Moneyline Edge: -1.6%
 
 ### Total
 - **Predicted Total**: 150.0
-- Edge For Covering The Over: -1.9%
-- Edge For Covering The Under: -2.9%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Purdue Boilermakers (17-4) enters hostile territory as they take on Maryland Terrapins (8-12) at Xfinity Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Purdue Boilermakers favored by 13.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Purdue Boilermakers (17-4) enters hostile territory as they take on Maryland Terrapins (8-12) at Xfinity Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Purdue Boilermakers favored by 14.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 13.5-point spread screams mismatch. The books are asking Maryland Terrapins to hang within two possessions, which based on the profiles, requires Purdue Boilermakers to play below their standard. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 14.5-point spread screams mismatch. The books are asking Maryland Terrapins to hang within two possessions, which based on the profiles, requires Purdue Boilermakers to play below their standard. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Purdue Boilermakers** bring an offensive efficiency of 124.04 (ranked #4 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 38.2% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Minnesota Golden Gophers -1.5</p>
-  <p><strong>Moneyline:</strong> Minnesota Golden Gophers (-116) | Penn State Nittany Lions (-104)</p>
+  <p><strong>Moneyline:</strong> Minnesota Golden Gophers (-113) | Penn State Nittany Lions (-106)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Minnesota Golden Gophers**: -1.5, Edge For Covering Spread: -2.4%
-- **Penn State Nittany Lions**: 1.5, Edge For Covering Spread: -3.5%
+- **Minnesota Golden Gophers**: -1.5, Edge For Covering Spread: **1.7%**
+- **Penn State Nittany Lions**: 1.5, Edge For Covering Spread: -6.4%
 
 ### Moneyline
-- **Minnesota Golden Gophers Win Probability**: 51.4%, Moneyline Edge: -2.3%
-- **Penn State Nittany Lions Win Probability**: 48.6%, Moneyline Edge: -2.4%
+- **Minnesota Golden Gophers Win Probability**: 54.1%, Moneyline Edge: **1.0%**
+- **Penn State Nittany Lions Win Probability**: 45.9%, Moneyline Edge: -5.6%
 
 ### Total
-- **Predicted Total**: 142.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- **Predicted Total**: 141.5
+- Edge For Covering The Over: -5.2%
+- Edge For Covering The Under: **0.5%**
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Mt. St. Mary's Mountaineers -6.5</p>
-  <p><strong>Moneyline:</strong> Mt. St. Mary's Mountaineers (-275) | Manhattan Jaspers (+225)</p>
+  <p><strong>Moneyline:</strong> Mt. St. Mary's Mountaineers (-266) | Manhattan Jaspers (+217)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Mt. St. Mary's Mountaineers**: -6.5, Edge For Covering Spread: -2.2%
-- **Manhattan Jaspers**: 6.5, Edge For Covering Spread: -2.6%
+- **Mt. St. Mary's Mountaineers**: -6.5, Edge For Covering Spread: -1.9%
+- **Manhattan Jaspers**: 6.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Mt. St. Mary's Mountaineers Win Probability**: 72.1%, Moneyline Edge: -1.2%
-- **Manhattan Jaspers Win Probability**: 27.9%, Moneyline Edge: -2.9%
+- **Mt. St. Mary's Mountaineers Win Probability**: 72.0%, Moneyline Edge: -0.7%
+- **Manhattan Jaspers Win Probability**: 28.0%, Moneyline Edge: -3.5%
 
 ### Total
 - **Predicted Total**: 148.5

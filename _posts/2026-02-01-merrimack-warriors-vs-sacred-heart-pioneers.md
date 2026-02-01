@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Merrimack Warriors -6.5</p>
-  <p><strong>Moneyline:</strong> Merrimack Warriors (-290) | Sacred Heart Pioneers (+235)</p>
+  <p><strong>Moneyline:</strong> Merrimack Warriors (-270) | Sacred Heart Pioneers (+220)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Merrimack Warriors**: -6.5, Edge For Covering Spread: -1.8%
-- **Sacred Heart Pioneers**: 6.5, Edge For Covering Spread: -2.9%
+- **Merrimack Warriors**: -6.5, Edge For Covering Spread: **2.1%**
+- **Sacred Heart Pioneers**: 6.5, Edge For Covering Spread: -6.9%
 
 ### Moneyline
-- **Merrimack Warriors Win Probability**: 70.6%, Moneyline Edge: -3.7%
-- **Sacred Heart Pioneers Win Probability**: 29.4%, Moneyline Edge: -0.5%
+- **Merrimack Warriors Win Probability**: 72.9%, Moneyline Edge: -0.1%
+- **Sacred Heart Pioneers Win Probability**: 27.1%, Moneyline Edge: -4.2%
 
 ### Total
-- **Predicted Total**: 145.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 145.0
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 

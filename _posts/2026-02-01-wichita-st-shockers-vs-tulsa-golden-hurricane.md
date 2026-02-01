@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tulsa Golden Hurricane -6.5</p>
-  <p><strong>Moneyline:</strong> Wichita St Shockers (+227) | Tulsa Golden Hurricane (-279)</p>
+  <p><strong>Moneyline:</strong> Wichita St Shockers (+232) | Tulsa Golden Hurricane (-284)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Tulsa Golden Hurricane**: -6.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Wichita St Shockers Win Probability**: 26.5%, Moneyline Edge: -4.0%
-- **Tulsa Golden Hurricane Win Probability**: 73.5%, Moneyline Edge: -0.1%
+- **Wichita St Shockers Win Probability**: 26.5%, Moneyline Edge: -3.6%
+- **Tulsa Golden Hurricane Win Probability**: 73.5%, Moneyline Edge: -0.4%
 
 ### Total
 - **Predicted Total**: 152.0

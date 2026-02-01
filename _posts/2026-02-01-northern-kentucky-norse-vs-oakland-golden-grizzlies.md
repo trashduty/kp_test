@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Oakland Golden Grizzlies -5.5</p>
-  <p><strong>Moneyline:</strong> Northern Kentucky Norse (+212) | Oakland Golden Grizzlies (-259)</p>
+  <p><strong>Moneyline:</strong> Northern Kentucky Norse (+207) | Oakland Golden Grizzlies (-255)</p>
   <p><strong>Total:</strong> 168.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northern Kentucky Norse**: 5.5, Edge For Covering Spread: -2.5%
-- **Oakland Golden Grizzlies**: -5.5, Edge For Covering Spread: -2.4%
+- **Northern Kentucky Norse**: 5.5, Edge For Covering Spread: -4.4%
+- **Oakland Golden Grizzlies**: -5.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **Northern Kentucky Norse Win Probability**: 29.2%, Moneyline Edge: -2.8%
-- **Oakland Golden Grizzlies Win Probability**: 70.8%, Moneyline Edge: -1.3%
+- **Northern Kentucky Norse Win Probability**: 28.8%, Moneyline Edge: -3.8%
+- **Oakland Golden Grizzlies Win Probability**: 71.2%, Moneyline Edge: -0.6%
 
 ### Total
-- **Predicted Total**: 166.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 167.5
+- Edge For Covering The Over: -0.8%
+- Edge For Covering The Under: -3.9%
 
 ---
 

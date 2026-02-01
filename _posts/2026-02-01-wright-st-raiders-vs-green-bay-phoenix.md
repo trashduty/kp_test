@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wright St Raiders -4.5</p>
-  <p><strong>Moneyline:</strong> Wright St Raiders (-190) | Green Bay Phoenix (+160)</p>
+  <p><strong>Moneyline:</strong> Wright St Raiders (-185) | Green Bay Phoenix (+153)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wright St Raiders**: -4.5, Edge For Covering Spread: -4.1%
-- **Green Bay Phoenix**: 4.5, Edge For Covering Spread: -0.7%
+- **Wright St Raiders**: -4.5, Edge For Covering Spread: -2.9%
+- **Green Bay Phoenix**: 4.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Wright St Raiders Win Probability**: 64.1%, Moneyline Edge: -1.4%
-- **Green Bay Phoenix Win Probability**: 35.9%, Moneyline Edge: -2.5%
+- **Wright St Raiders Win Probability**: 62.4%, Moneyline Edge: -2.5%
+- **Green Bay Phoenix Win Probability**: 37.6%, Moneyline Edge: -1.9%
 
 ### Total
-- **Predicted Total**: 144.5
-- Edge For Covering The Over: -1.9%
-- Edge For Covering The Under: -2.8%
+- **Predicted Total**: 144.0
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 

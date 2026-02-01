@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Western Carolina Catamounts -1.5</p>
-  <p><strong>Moneyline:</strong> Western Carolina Catamounts (-118) | Samford Bulldogs (-102)</p>
+  <p><strong>Moneyline:</strong> Western Carolina Catamounts (-122) | Samford Bulldogs (+102)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Western Carolina Catamounts**: -1.5, Edge For Covering Spread: **0.4%**
-- **Samford Bulldogs**: 1.5, Edge For Covering Spread: -5.1%
+- **Western Carolina Catamounts**: -1.5, Edge For Covering Spread: -0.8%
+- **Samford Bulldogs**: 1.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Western Carolina Catamounts Win Probability**: 56.6%, Moneyline Edge: **2.5%**
-- **Samford Bulldogs Win Probability**: 43.4%, Moneyline Edge: -7.1%
+- **Western Carolina Catamounts Win Probability**: 57.8%, Moneyline Edge: **2.8%**
+- **Samford Bulldogs Win Probability**: 42.2%, Moneyline Edge: -7.2%
 
 ### Total
-- **Predicted Total**: 154.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 155.0
+- Edge For Covering The Over: -1.5%
+- Edge For Covering The Under: -3.2%
 
 ---
 

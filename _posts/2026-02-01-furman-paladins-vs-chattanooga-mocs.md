@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Furman Paladins -7.5</p>
-  <p><strong>Moneyline:</strong> Furman Paladins (-342) | Chattanooga Mocs (+270)</p>
+  <p><strong>Spread:</strong> Furman Paladins -8.5</p>
+  <p><strong>Moneyline:</strong> Furman Paladins (-377) | Chattanooga Mocs (+290)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Furman Paladins**: -7.5, Edge For Covering Spread: -1.8%
-- **Chattanooga Mocs**: 7.5, Edge For Covering Spread: -2.9%
+- **Furman Paladins**: -8.5, Edge For Covering Spread: **0.5%**
+- **Chattanooga Mocs**: 8.5, Edge For Covering Spread: -5.2%
 
 ### Moneyline
-- **Furman Paladins Win Probability**: 76.4%, Moneyline Edge: -1.0%
-- **Chattanooga Mocs Win Probability**: 23.6%, Moneyline Edge: -3.4%
+- **Furman Paladins Win Probability**: 78.6%, Moneyline Edge: -0.5%
+- **Chattanooga Mocs Win Probability**: 21.4%, Moneyline Edge: -4.2%
 
 ### Total
-- **Predicted Total**: 143.5
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -0.3%
+- **Predicted Total**: 143.0
+- Edge For Covering The Over: -5.3%
+- Edge For Covering The Under: **0.5%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Furman Paladins (15-7) enters hostile territory as they take on Chattanooga Mocs (9-13) at McKenzie Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Furman Paladins favored by 7.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Furman Paladins (15-7) enters hostile territory as they take on Chattanooga Mocs (9-13) at McKenzie Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Furman Paladins favored by 8.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us Furman Paladins has clear advantages, but games aren't played on paper. Chattanooga Mocs needs to punch above their weight class to keep this close. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.5 points tells us Furman Paladins has clear advantages, but games aren't played on paper. Chattanooga Mocs needs to punch above their weight class to keep this close. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Furman Paladins** bring an offensive efficiency of 111.13 (ranked #116 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 32.8% three-point shooting is serviceable but won't scare anyone. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Siena Saints -8.5</p>
-  <p><strong>Moneyline:</strong> Siena Saints (-465) | Canisius Golden Griffins (+350)</p>
+  <p><strong>Moneyline:</strong> Siena Saints (-437) | Canisius Golden Griffins (+330)</p>
   <p><strong>Total:</strong> 131.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Siena Saints**: -8.5, Edge For Covering Spread: -4.7%
-- **Canisius Golden Griffins**: 8.5, Edge For Covering Spread: -0.1%
+- **Siena Saints**: -8.5, Edge For Covering Spread: -3.9%
+- **Canisius Golden Griffins**: 8.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **Siena Saints Win Probability**: 77.7%, Moneyline Edge: -4.5%
-- **Canisius Golden Griffins Win Probability**: 22.3%, Moneyline Edge: **0.0%**
+- **Siena Saints Win Probability**: 76.8%, Moneyline Edge: -4.5%
+- **Canisius Golden Griffins Win Probability**: 23.2%, Moneyline Edge: -0.1%
 
 ### Total
-- **Predicted Total**: 131.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 132.0
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 
