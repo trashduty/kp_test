@@ -2722,5 +2722,9 @@
   "Tennessee St Tigers vs. Tennessee Tech Golden Eagles|Tennessee St Tigers|spread": {
     "captured_at": "2026-02-01T22:07:48.909932+00:00",
     "edge_type": "spread"
+  },
+  "Holy Cross Crusaders vs. Boston Univ. Terriers|Holy Cross Crusaders|moneyline": {
+    "captured_at": "2026-02-01T23:09:25.362017+00:00",
+    "edge_type": "moneyline"
   }
 }
