@@ -2710,5 +2710,13 @@
   "Texas Tech Red Raiders vs. Kansas Jayhawks|Kansas Jayhawks|spread": {
     "captured_at": "2026-02-01T20:08:27.770252+00:00",
     "edge_type": "spread"
+  },
+  "Lamar Cardinals vs. SE Louisiana Lions|Lamar Cardinals|moneyline": {
+    "captured_at": "2026-02-01T21:08:34.310137+00:00",
+    "edge_type": "moneyline"
+  },
+  "Stephen F. Austin Lumberjacks vs. McNeese Cowboys|Stephen F. Austin Lumberjacks|moneyline": {
+    "captured_at": "2026-02-01T21:08:34.310867+00:00",
+    "edge_type": "moneyline"
   }
 }
