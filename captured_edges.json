@@ -2718,5 +2718,9 @@
   "Stephen F. Austin Lumberjacks vs. McNeese Cowboys|Stephen F. Austin Lumberjacks|moneyline": {
     "captured_at": "2026-02-01T21:08:34.310867+00:00",
     "edge_type": "moneyline"
+  },
+  "Tennessee St Tigers vs. Tennessee Tech Golden Eagles|Tennessee St Tigers|spread": {
+    "captured_at": "2026-02-01T22:07:48.909932+00:00",
+    "edge_type": "spread"
   }
 }
