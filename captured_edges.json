@@ -2686,5 +2686,29 @@
   "Oakland Golden Grizzlies vs. Northern Kentucky Norse|Oakland Golden Grizzlies|spread": {
     "captured_at": "2026-01-31T23:07:49.611993+00:00",
     "edge_type": "spread"
+  },
+  "Charleston Southern Buccaneers vs. Gardner-Webb Bulldogs|Charleston Southern Buccaneers|spread": {
+    "captured_at": "2026-02-01T20:08:27.768391+00:00",
+    "edge_type": "spread"
+  },
+  "Holy Cross Crusaders vs. Boston Univ. Terriers|Holy Cross Crusaders|spread": {
+    "captured_at": "2026-02-01T20:08:27.768617+00:00",
+    "edge_type": "spread"
+  },
+  "Northwestern St Demons vs. Nicholls St Colonels|Northwestern St Demons|spread": {
+    "captured_at": "2026-02-01T20:08:27.769180+00:00",
+    "edge_type": "spread"
+  },
+  "Stephen F. Austin Lumberjacks vs. McNeese Cowboys|Stephen F. Austin Lumberjacks|spread": {
+    "captured_at": "2026-02-01T20:08:27.769366+00:00",
+    "edge_type": "spread"
+  },
+  "Alcorn St Braves vs. Grambling St Tigers|Alcorn St Braves|spread": {
+    "captured_at": "2026-02-01T20:08:27.769652+00:00",
+    "edge_type": "spread"
+  },
+  "Texas Tech Red Raiders vs. Kansas Jayhawks|Kansas Jayhawks|spread": {
+    "captured_at": "2026-02-01T20:08:27.770252+00:00",
+    "edge_type": "spread"
   }
 }
