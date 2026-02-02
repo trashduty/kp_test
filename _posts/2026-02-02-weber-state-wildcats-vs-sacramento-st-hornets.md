@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Weber State Wildcats**: -1.5, Edge For Covering Spread: -4.0%
-- **Sacramento St Hornets**: 1.5, Edge For Covering Spread: -2.4%
+- **Weber State Wildcats**: -1.5, Edge For Covering Spread: -1.6%
+- **Sacramento St Hornets**: 1.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Weber State Wildcats Win Probability**: 51.1%, Moneyline Edge: -3.5%
-- **Sacramento St Hornets Win Probability**: 48.9%, Moneyline Edge: -1.1%
+- **Weber State Wildcats Win Probability**: 51.6%, Moneyline Edge: -3.0%
+- **Sacramento St Hornets Win Probability**: 48.4%, Moneyline Edge: -1.6%
 
 ### Total
 - **Predicted Total**: 164.0

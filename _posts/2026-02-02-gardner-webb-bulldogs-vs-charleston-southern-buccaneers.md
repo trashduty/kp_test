@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Charleston Southern Buccaneers -17.5</p>
-  <p><strong>Moneyline:</strong> Gardner-Webb Bulldogs (+1124) | Charleston Southern Buccaneers (-2553)</p>
+  <p><strong>Moneyline:</strong> Gardner-Webb Bulldogs (+1280) | Charleston Southern Buccaneers (-3500)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Gardner-Webb Bulldogs**: 17.5, Edge For Covering Spread: -7.2%
-- **Charleston Southern Buccaneers**: -17.5, Edge For Covering Spread: **2.4%**
+- **Gardner-Webb Bulldogs**: 17.5, Edge For Covering Spread: -7.4%
+- **Charleston Southern Buccaneers**: -17.5, Edge For Covering Spread: **2.6%**
 
 ### Moneyline
-- **Gardner-Webb Bulldogs Win Probability**: 6.4%, Moneyline Edge: -1.8%
-- **Charleston Southern Buccaneers Win Probability**: 93.6%, Moneyline Edge: -2.6%
+- **Gardner-Webb Bulldogs Win Probability**: 6.0%, Moneyline Edge: -1.3%
+- **Charleston Southern Buccaneers Win Probability**: 94.0%, Moneyline Edge: -3.2%
 
 ### Total
 - **Predicted Total**: 158.0

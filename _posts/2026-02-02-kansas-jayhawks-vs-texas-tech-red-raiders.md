@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Texas Tech Red Raiders -4.5</p>
-  <p><strong>Moneyline:</strong> Kansas Jayhawks (+180) | Texas Tech Red Raiders (-219)</p>
+  <p><strong>Moneyline:</strong> Kansas Jayhawks (+170) | Texas Tech Red Raiders (-207)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kansas Jayhawks**: 4.5, Edge For Covering Spread: **2.0%**
-- **Texas Tech Red Raiders**: -4.5, Edge For Covering Spread: -6.7%
+- **Kansas Jayhawks**: 4.5, Edge For Covering Spread: **0.8%**
+- **Texas Tech Red Raiders**: -4.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **Kansas Jayhawks Win Probability**: 38.1%, Moneyline Edge: **2.4%**
-- **Texas Tech Red Raiders Win Probability**: 61.9%, Moneyline Edge: -6.8%
+- **Kansas Jayhawks Win Probability**: 38.7%, Moneyline Edge: **1.7%**
+- **Texas Tech Red Raiders Win Probability**: 61.3%, Moneyline Edge: -6.2%
 
 ### Total
 - **Predicted Total**: 153.0

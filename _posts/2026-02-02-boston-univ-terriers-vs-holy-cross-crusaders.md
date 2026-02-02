@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Holy Cross Crusaders**: 1.5, Edge For Covering Spread: **1.0%**
 
 ### Moneyline
-- **Boston Univ. Terriers Win Probability**: 49.9%, Moneyline Edge: -5.7%
-- **Holy Cross Crusaders Win Probability**: 50.1%, Moneyline Edge: **1.4%**
+- **Boston Univ. Terriers Win Probability**: 49.8%, Moneyline Edge: -5.8%
+- **Holy Cross Crusaders Win Probability**: 50.2%, Moneyline Edge: **1.4%**
 
 ### Total
 - **Predicted Total**: 139.0

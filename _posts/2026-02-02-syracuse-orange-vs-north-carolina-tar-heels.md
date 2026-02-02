@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> North Carolina Tar Heels -11.5</p>
-  <p><strong>Moneyline:</strong> Syracuse Orange (+500) | North Carolina Tar Heels (-747)</p>
+  <p><strong>Moneyline:</strong> Syracuse Orange (+550) | North Carolina Tar Heels (-800)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **North Carolina Tar Heels**: -11.5, Edge For Covering Spread: -5.1%
 
 ### Moneyline
-- **Syracuse Orange Win Probability**: 16.9%, Moneyline Edge: **0.3%**
-- **North Carolina Tar Heels Win Probability**: 83.1%, Moneyline Edge: -5.1%
+- **Syracuse Orange Win Probability**: 16.4%, Moneyline Edge: **1.0%**
+- **North Carolina Tar Heels Win Probability**: 83.6%, Moneyline Edge: -5.3%
 
 ### Total
 - **Predicted Total**: 155.0

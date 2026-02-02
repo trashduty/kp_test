@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> McNeese Cowboys -2.5</p>
-  <p><strong>Moneyline:</strong> McNeese Cowboys (-145) | Stephen F. Austin Lumberjacks (+125)</p>
+  <p><strong>Spread:</strong> McNeese Cowboys -1.5</p>
+  <p><strong>Moneyline:</strong> McNeese Cowboys (-125) | Stephen F. Austin Lumberjacks (+105)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **McNeese Cowboys**: -2.5, Edge For Covering Spread: -9.3%
-- **Stephen F. Austin Lumberjacks**: 2.5, Edge For Covering Spread: **4.6%**
+- **McNeese Cowboys**: -1.5, Edge For Covering Spread: -6.9%
+- **Stephen F. Austin Lumberjacks**: 1.5, Edge For Covering Spread: **2.1%**
 
 ### Moneyline
-- **McNeese Cowboys Win Probability**: 48.0%, Moneyline Edge: -11.2%
-- **Stephen F. Austin Lumberjacks Win Probability**: 52.0%, Moneyline Edge: **7.5%**
+- **McNeese Cowboys Win Probability**: 46.0%, Moneyline Edge: -9.6%
+- **Stephen F. Austin Lumberjacks Win Probability**: 54.0%, Moneyline Edge: **5.2%**
 
 ### Total
-- **Predicted Total**: 141.5
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 141.0
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.3%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-McNeese Cowboys (18-4) travels to face Stephen F. Austin Lumberjacks (19-3) at Johnson Coliseum in what shapes up to be a competitive matchup. The early betting action has shaped into McNeese Cowboys favored by 2.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+McNeese Cowboys (18-4) travels to face Stephen F. Austin Lumberjacks (19-3) at Johnson Coliseum in what shapes up to be a competitive matchup. The early betting action has shaped into McNeese Cowboys favored by 1.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. McNeese Cowboys's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. McNeese Cowboys's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **McNeese Cowboys** bring an offensive efficiency of 116.36 (ranked #58 nationally). They're solid offensively, capable of putting up points but not overwhelming. At 31.9% from three, they can't rely on the arc. Expect a paint-focused attack. 

@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **SE Louisiana Lions**: 5.5, Edge For Covering Spread: -2.6%
-- **Lamar Cardinals**: -5.5, Edge For Covering Spread: -2.1%
+- **SE Louisiana Lions**: 5.5, Edge For Covering Spread: -3.0%
+- **Lamar Cardinals**: -5.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **SE Louisiana Lions Win Probability**: 28.5%, Moneyline Edge: -4.5%
-- **Lamar Cardinals Win Probability**: 71.5%, Moneyline Edge: **0.5%**
+- **SE Louisiana Lions Win Probability**: 28.4%, Moneyline Edge: -4.7%
+- **Lamar Cardinals Win Probability**: 71.6%, Moneyline Edge: **0.7%**
 
 ### Total
 - **Predicted Total**: 132.5
-- Edge For Covering The Over: -5.0%
-- Edge For Covering The Under: **0.3%**
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 

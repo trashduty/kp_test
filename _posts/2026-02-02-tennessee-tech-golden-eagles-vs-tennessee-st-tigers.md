@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tennessee St Tigers -9.5</p>
-  <p><strong>Moneyline:</strong> Tennessee Tech Golden Eagles (+353) | Tennessee St Tigers (-469)</p>
+  <p><strong>Moneyline:</strong> Tennessee Tech Golden Eagles (+375) | Tennessee St Tigers (-500)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Tennessee St Tigers**: -9.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Tennessee Tech Golden Eagles Win Probability**: 19.6%, Moneyline Edge: -2.5%
-- **Tennessee St Tigers Win Probability**: 80.4%, Moneyline Edge: -2.0%
+- **Tennessee Tech Golden Eagles Win Probability**: 19.1%, Moneyline Edge: -2.0%
+- **Tennessee St Tigers Win Probability**: 80.9%, Moneyline Edge: -2.4%
 
 ### Total
-- **Predicted Total**: 153.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 153.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

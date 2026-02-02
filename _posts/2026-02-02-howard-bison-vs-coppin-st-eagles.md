@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Howard Bison -13.0</p>
-  <p><strong>Moneyline:</strong> Howard Bison (-1148) | Coppin St Eagles (+687)</p>
+  <p><strong>Spread:</strong> Howard Bison -13.5</p>
+  <p><strong>Moneyline:</strong> Howard Bison (-1293) | Coppin St Eagles (+774)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Howard Bison**: -13.0, Edge For Covering Spread: -3.3%
-- **Coppin St Eagles**: 13.0, Edge For Covering Spread: -1.5%
+- **Howard Bison**: -13.5, Edge For Covering Spread: -2.4%
+- **Coppin St Eagles**: 13.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Howard Bison Win Probability**: 87.9%, Moneyline Edge: -4.1%
-- **Coppin St Eagles Win Probability**: 12.1%, Moneyline Edge: -0.6%
+- **Howard Bison Win Probability**: 88.5%, Moneyline Edge: -4.3%
+- **Coppin St Eagles Win Probability**: 11.5%, Moneyline Edge: **0.0%**
 
 ### Total
 - **Predicted Total**: 146.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Howard Bison (13-9) enters hostile territory as they take on Coppin St Eagles (3-20) at Physical Education Complex Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Howard Bison favored by 13.0 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Howard Bison (13-9) enters hostile territory as they take on Coppin St Eagles (3-20) at Physical Education Complex Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Howard Bison favored by 13.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 13.0-point spread screams mismatch. The books are asking Coppin St Eagles to hang within two possessions, which based on the profiles, requires Howard Bison to play below their standard. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 13.5-point spread screams mismatch. The books are asking Coppin St Eagles to hang within two possessions, which based on the profiles, requires Howard Bison to play below their standard. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Howard Bison** bring an offensive efficiency of 101.21 (ranked #298 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.5% three-point shooting is serviceable but won't scare anyone. 

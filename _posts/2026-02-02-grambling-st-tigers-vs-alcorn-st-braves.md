@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Grambling St Tigers -4.5</p>
-  <p><strong>Moneyline:</strong> Grambling St Tigers (-214) | Alcorn St Braves (+177)</p>
+  <p><strong>Moneyline:</strong> Grambling St Tigers (-207) | Alcorn St Braves (+170)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Grambling St Tigers**: -4.5, Edge For Covering Spread: -5.2%
-- **Alcorn St Braves**: 4.5, Edge For Covering Spread: **0.4%**
+- **Grambling St Tigers**: -4.5, Edge For Covering Spread: -5.5%
+- **Alcorn St Braves**: 4.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Grambling St Tigers Win Probability**: 61.7%, Moneyline Edge: -6.4%
-- **Alcorn St Braves Win Probability**: 38.3%, Moneyline Edge: **2.3%**
+- **Grambling St Tigers Win Probability**: 61.3%, Moneyline Edge: -6.2%
+- **Alcorn St Braves Win Probability**: 38.7%, Moneyline Edge: **1.7%**
 
 ### Total
 - **Predicted Total**: 143.5

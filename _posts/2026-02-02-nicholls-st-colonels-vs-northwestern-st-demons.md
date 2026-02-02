@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Nicholls St Colonels**: -1.5, Edge For Covering Spread: -4.4%
-- **Northwestern St Demons**: 1.5, Edge For Covering Spread: -0.3%
+- **Nicholls St Colonels**: -1.5, Edge For Covering Spread: -5.6%
+- **Northwestern St Demons**: 1.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
 - **Nicholls St Colonels Win Probability**: 50.1%, Moneyline Edge: -4.5%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 147.0
-- Edge For Covering The Over: -2.1%
-- Edge For Covering The Under: -2.7%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.1%
 
 ---
 

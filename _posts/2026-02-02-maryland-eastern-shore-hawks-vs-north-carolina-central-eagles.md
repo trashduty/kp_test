@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Maryland-Eastern Shore Hawks**: 3.5, Edge For Covering Spread: **0.2%**
-- **North Carolina Central Eagles**: -3.5, Edge For Covering Spread: -4.9%
+- **Maryland-Eastern Shore Hawks**: 3.5, Edge For Covering Spread: -0.1%
+- **North Carolina Central Eagles**: -3.5, Edge For Covering Spread: -4.7%
 
 ### Moneyline
 - **Maryland-Eastern Shore Hawks Win Probability**: 38.8%, Moneyline Edge: -1.2%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 134.0
-- Edge For Covering The Over: -4.9%
-- Edge For Covering The Under: **0.2%**
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -1.6%
 
 ---
 

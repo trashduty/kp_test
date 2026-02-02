@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Portland St Vikings -6.5</p>
-  <p><strong>Moneyline:</strong> Idaho State Bengals (+235) | Portland St Vikings (-287)</p>
+  <p><strong>Moneyline:</strong> Idaho State Bengals (+247) | Portland St Vikings (-302)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Idaho State Bengals**: 6.5, Edge For Covering Spread: -2.4%
-- **Portland St Vikings**: -6.5, Edge For Covering Spread: -2.4%
+- **Idaho State Bengals**: 6.5, Edge For Covering Spread: -1.6%
+- **Portland St Vikings**: -6.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
-- **Idaho State Bengals Win Probability**: 27.3%, Moneyline Edge: -2.5%
-- **Portland St Vikings Win Probability**: 72.7%, Moneyline Edge: -1.5%
+- **Idaho State Bengals Win Probability**: 26.8%, Moneyline Edge: -2.0%
+- **Portland St Vikings Win Probability**: 73.2%, Moneyline Edge: -2.0%
 
 ### Total
 - **Predicted Total**: 137.0

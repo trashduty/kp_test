@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Southern Jaguars**: -4.5, Edge For Covering Spread: -2.5%
-- **Jackson St Tigers**: 4.5, Edge For Covering Spread: -2.4%
+- **Southern Jaguars**: -4.5, Edge For Covering Spread: -2.1%
+- **Jackson St Tigers**: 4.5, Edge For Covering Spread: -2.7%
 
 ### Moneyline
 - **Southern Jaguars Win Probability**: 61.0%, Moneyline Edge: -4.5%

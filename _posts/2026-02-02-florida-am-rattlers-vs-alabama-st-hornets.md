@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama St Hornets -2.5</p>
-  <p><strong>Moneyline:</strong> Florida A&M Rattlers (+124) | Alabama St Hornets (-146)</p>
+  <p><strong>Moneyline:</strong> Florida A&M Rattlers (+127) | Alabama St Hornets (-150)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida A&M Rattlers**: 2.5, Edge For Covering Spread: -2.4%
-- **Alabama St Hornets**: -2.5, Edge For Covering Spread: -2.4%
+- **Florida A&M Rattlers**: 2.5, Edge For Covering Spread: -1.2%
+- **Alabama St Hornets**: -2.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Florida A&M Rattlers Win Probability**: 41.4%, Moneyline Edge: -3.1%
-- **Alabama St Hornets Win Probability**: 58.6%, Moneyline Edge: -0.9%
+- **Florida A&M Rattlers Win Probability**: 41.1%, Moneyline Edge: -2.8%
+- **Alabama St Hornets Win Probability**: 58.9%, Moneyline Edge: -1.1%
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -1.2%
+- Edge For Covering The Under: -3.5%
 
 ---
 

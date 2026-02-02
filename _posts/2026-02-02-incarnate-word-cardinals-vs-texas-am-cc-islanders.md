@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Texas A&M-CC Islanders -5.5</p>
-  <p><strong>Moneyline:</strong> Incarnate Word Cardinals (+192) | Texas A&M-CC Islanders (-232)</p>
+  <p><strong>Moneyline:</strong> Incarnate Word Cardinals (+200) | Texas A&M-CC Islanders (-242)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Incarnate Word Cardinals**: 5.5, Edge For Covering Spread: -4.6%
-- **Texas A&M-CC Islanders**: -5.5, Edge For Covering Spread: -0.2%
+- **Incarnate Word Cardinals**: 5.5, Edge For Covering Spread: -3.0%
+- **Texas A&M-CC Islanders**: -5.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Incarnate Word Cardinals Win Probability**: 30.9%, Moneyline Edge: -3.3%
-- **Texas A&M-CC Islanders Win Probability**: 69.1%, Moneyline Edge: -0.8%
+- **Incarnate Word Cardinals Win Probability**: 30.5%, Moneyline Edge: -2.9%
+- **Texas A&M-CC Islanders Win Probability**: 69.5%, Moneyline Edge: -1.3%
 
 ### Total
 - **Predicted Total**: 137.5

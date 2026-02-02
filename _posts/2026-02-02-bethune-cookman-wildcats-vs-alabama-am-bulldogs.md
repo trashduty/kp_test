@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Bethune-Cookman Wildcats -1.5</p>
-  <p><strong>Moneyline:</strong> Bethune-Cookman Wildcats (-121) | Alabama A&M Bulldogs (+101)</p>
+  <p><strong>Moneyline:</strong> Bethune-Cookman Wildcats (-130) | Alabama A&M Bulldogs (+110)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bethune-Cookman Wildcats**: -1.5, Edge For Covering Spread: -2.9%
-- **Alabama A&M Bulldogs**: 1.5, Edge For Covering Spread: -1.8%
+- **Bethune-Cookman Wildcats**: -1.5, Edge For Covering Spread: -4.1%
+- **Alabama A&M Bulldogs**: 1.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Bethune-Cookman Wildcats Win Probability**: 52.6%, Moneyline Edge: -2.1%
-- **Alabama A&M Bulldogs Win Probability**: 47.4%, Moneyline Edge: -2.4%
+- **Bethune-Cookman Wildcats Win Probability**: 53.4%, Moneyline Edge: -3.1%
+- **Alabama A&M Bulldogs Win Probability**: 46.6%, Moneyline Edge: -1.0%
 
 ### Total
 - **Predicted Total**: 142.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 
