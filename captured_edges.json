@@ -2726,5 +2726,17 @@
   "Holy Cross Crusaders vs. Boston Univ. Terriers|Holy Cross Crusaders|moneyline": {
     "captured_at": "2026-02-01T23:09:25.362017+00:00",
     "edge_type": "moneyline"
+  },
+  "Loyola (Chi) Ramblers vs. La Salle Explorers|La Salle Explorers|spread": {
+    "captured_at": "2026-02-02T23:10:35.991320+00:00",
+    "edge_type": "spread"
+  },
+  "Loyola (Chi) Ramblers vs. La Salle Explorers|La Salle Explorers|moneyline": {
+    "captured_at": "2026-02-02T23:10:35.991364+00:00",
+    "edge_type": "moneyline"
+  },
+  "Belmont Bruins vs. Drake Bulldogs|Belmont Bruins|spread": {
+    "captured_at": "2026-02-02T23:10:35.992514+00:00",
+    "edge_type": "spread"
   }
 }
