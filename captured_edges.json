@@ -2770,5 +2770,29 @@
   "San Francisco Dons vs. Loyola Marymount Lions|under": {
     "captured_at": "2026-02-03T22:11:44.720684+00:00",
     "edge_type": "under"
+  },
+  "UNC Asheville Bulldogs vs. South Carolina Upstate Spartans|under": {
+    "captured_at": "2026-02-03T23:11:30.520552+00:00",
+    "edge_type": "under"
+  },
+  "South Florida Bulls vs. UTSA Roadrunners|South Florida Bulls|spread": {
+    "captured_at": "2026-02-03T23:11:30.520990+00:00",
+    "edge_type": "spread"
+  },
+  "Delaware Blue Hens vs. Liberty Flames|Delaware Blue Hens|spread": {
+    "captured_at": "2026-02-03T23:11:30.522262+00:00",
+    "edge_type": "spread"
+  },
+  "Louisiana Tech Bulldogs vs. New Mexico St Aggies|under": {
+    "captured_at": "2026-02-03T23:11:30.524281+00:00",
+    "edge_type": "under"
+  },
+  "Sam Houston St Bearkats vs. UTEP Miners|Sam Houston St Bearkats|spread": {
+    "captured_at": "2026-02-03T23:11:30.524536+00:00",
+    "edge_type": "spread"
+  },
+  "California Golden Bears vs. Georgia Tech Yellow Jackets|California Golden Bears|spread": {
+    "captured_at": "2026-02-03T23:11:30.525472+00:00",
+    "edge_type": "spread"
   }
 }
