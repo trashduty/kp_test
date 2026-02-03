@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Boston College Eagles**: 26.5, Edge For Covering Spread: **0.3%**
-- **Duke Blue Devils**: -26.5, Edge For Covering Spread: -5.0%
+- **Boston College Eagles**: 26.5, Edge For Covering Spread: **0.5%**
+- **Duke Blue Devils**: -26.5, Edge For Covering Spread: -5.3%
 
 ### Moneyline
 - **Boston College Eagles Win Probability**: 1.9%, Moneyline Edge: -0.9%
 - **Duke Blue Devils Win Probability**: 98.1%, Moneyline Edge: -1.4%
 
 ### Total
-- **Predicted Total**: 136.0
-- Edge For Covering The Over: -5.7%
-- Edge For Covering The Under: **1.0%**
+- **Predicted Total**: 137.0
+- Edge For Covering The Over: -6.1%
+- Edge For Covering The Under: **1.4%**
 
 ---
 
@@ -52,7 +52,7 @@ The 26.5-point spread screams mismatch. The books are asking Boston College Eagl
 Meanwhile, **Duke Blue Devils** counter with 122.86 offensive efficiency (#9). This offense can match anyone bucket-for-bucket. At 34.0% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Boston College Eagles operate at a 66.2 tempo (#302), while Duke Blue Devils play at 69.1 (#173). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.6) means fewer possessions, making each one more valuable. 
+Boston College Eagles operate at a 66.2 tempo (#301), while Duke Blue Devils play at 69.1 (#172). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.6) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Boston College Eagles shoot 48.7% on two-pointers, while Duke Blue Devils convert at 63.0%. Duke Blue Devils has a clear edge in interior scoring efficiency. 
@@ -61,7 +61,7 @@ Getting to the line matters too. Boston College Eagles's free throw rate sits at
 #### X-Factors & Intangibles
 Playing at home, Duke Blue Devils get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Boston College Eagles is simply the superior team on paper. 
 From a coaching perspective, Earl Grant leads Boston College Eagles while Jon Scheyer guides Duke Blue Devils. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Both teams feature strong defenses (#45 and #4), so offense may be at a premium. 
+Both teams feature strong defenses (#46 and #4), so offense may be at a premium. 
 ### Game Storylines
 
 This looks like a mismatch on paper with Duke Blue Devils significantly higher in the rankings, but as they say, that's why they play the games. Boston College Eagles will need their best performance to stay competitive. 
@@ -80,8 +80,8 @@ Boston College Eagles comes in ranked #143 overall by KenPom. The three-point sh
 - **Head Coach:** Earl Grant
 - **KenPom Rank:** #143
 - **Offensive Efficiency:** 100.5 (Rank: #307)
-- **Defensive Efficiency:** 100.8 (Rank: #45)
-- **Tempo:** 66.2 (Rank: #302)
+- **Defensive Efficiency:** 100.8 (Rank: #46)
+- **Tempo:** 66.2 (Rank: #301)
 
 ### Shooting Breakdown
 
@@ -99,9 +99,9 @@ Boston College Eagles comes in ranked #143 overall by KenPom. The three-point sh
 
 ### Team Metrics
 
-- **Assist Rate:** 48.6% (Rank: #282)
+- **Assist Rate:** 48.6% (Rank: #281)
 - **Experience:** 1.5 years (Rank: #167)
-- **Bench Minutes:** 30.8% (Rank: #232)
+- **Bench Minutes:** 30.8% (Rank: #233)
 - **Average Height:** 77.7" (Rank: #131)
 
 ---
@@ -117,13 +117,13 @@ Duke Blue Devils comes in ranked #3 overall by KenPom. They boast one of the nat
 - **KenPom Rank:** #3
 - **Offensive Efficiency:** 122.9 (Rank: #9)
 - **Defensive Efficiency:** 93.2 (Rank: #4)
-- **Tempo:** 69.1 (Rank: #173)
+- **Tempo:** 69.1 (Rank: #172)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 63.0% (Rank: #2)
 - **3-Point Shooting:** 34.0% (Rank: #175)
-- **Free Throw Shooting:** 71.7% (Rank: #203)
+- **Free Throw Shooting:** 71.7% (Rank: #202)
 - **3-Point Rate:** 44.8% (Rank: #73)
 
 ### Defensive Stats

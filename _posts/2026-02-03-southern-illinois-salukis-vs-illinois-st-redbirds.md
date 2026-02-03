@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Southern Illinois Salukis**: 7.5, Edge For Covering Spread: -4.1%
-- **Illinois St Redbirds**: -7.5, Edge For Covering Spread: -0.7%
+- **Southern Illinois Salukis**: 7.5, Edge For Covering Spread: -3.5%
+- **Illinois St Redbirds**: -7.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **Southern Illinois Salukis Win Probability**: 21.8%, Moneyline Edge: -3.8%
-- **Illinois St Redbirds Win Probability**: 78.2%, Moneyline Edge: -0.8%
+- **Southern Illinois Salukis Win Probability**: 21.8%, Moneyline Edge: -3.9%
+- **Illinois St Redbirds Win Probability**: 78.2%, Moneyline Edge: -0.7%
 
 ### Total
 - **Predicted Total**: 141.5
@@ -85,16 +85,16 @@ Southern Illinois Salukis comes in ranked #128 overall by KenPom. The three-poin
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 52.7% (Rank: #145)
+- **2-Point Shooting:** 52.7% (Rank: #144)
 - **3-Point Shooting:** 29.1% (Rank: #347)
-- **Free Throw Shooting:** 66.4% (Rank: #341)
+- **Free Throw Shooting:** 66.4% (Rank: #342)
 - **3-Point Rate:** 28.0% (Rank: #360)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.5% (Rank: #179)
+- **Opponent 2-Point Shooting:** 51.5% (Rank: #178)
 - **Opponent 3-Point Shooting:** 30.4% (Rank: #42)
-- **Block Percentage:** 10.0% (Rank: #139)
+- **Block Percentage:** 10.0% (Rank: #141)
 - **Steal Rate:** 0.1% (Rank: #77)
 
 ### Team Metrics
@@ -123,7 +123,7 @@ Illinois St Redbirds comes in ranked #83 overall by KenPom. Their defense has be
 
 - **2-Point Shooting:** 55.6% (Rank: #65)
 - **3-Point Shooting:** 34.6% (Rank: #137)
-- **Free Throw Shooting:** 70.2% (Rank: #254)
+- **Free Throw Shooting:** 70.2% (Rank: #253)
 - **3-Point Rate:** 41.0% (Rank: #150)
 
 ### Defensive Stats
@@ -135,7 +135,7 @@ Illinois St Redbirds comes in ranked #83 overall by KenPom. Their defense has be
 
 ### Team Metrics
 
-- **Assist Rate:** 48.5% (Rank: #285)
+- **Assist Rate:** 48.5% (Rank: #284)
 - **Experience:** 2.1 years (Rank: #48)
 - **Bench Minutes:** 33.8% (Rank: #139)
 - **Average Height:** 76.6" (Rank: #299)

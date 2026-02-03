@@ -80,7 +80,7 @@ Akron Zips comes in ranked #52 overall by KenPom. They're dangerous from beyond 
 - **Head Coach:** John Groce
 - **KenPom Rank:** #52
 - **Offensive Efficiency:** 124.5 (Rank: #4)
-- **Defensive Efficiency:** 105.9 (Rank: #122)
+- **Defensive Efficiency:** 105.9 (Rank: #123)
 - **Tempo:** 71.9 (Rank: #42)
 
 ### Shooting Breakdown
@@ -93,13 +93,13 @@ Akron Zips comes in ranked #52 overall by KenPom. They're dangerous from beyond 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 50.7% (Rank: #142)
-- **Opponent 3-Point Shooting:** 33.3% (Rank: #148)
+- **Opponent 3-Point Shooting:** 33.3% (Rank: #147)
 - **Block Percentage:** 8.4% (Rank: #240)
-- **Steal Rate:** 0.1% (Rank: #124)
+- **Steal Rate:** 0.1% (Rank: #125)
 
 ### Team Metrics
 
-- **Assist Rate:** 59.0% (Rank: #46)
+- **Assist Rate:** 59.0% (Rank: #47)
 - **Experience:** 1.6 years (Rank: #134)
 - **Bench Minutes:** 32.3% (Rank: #188)
 - **Average Height:** 76.1" (Rank: #345)
@@ -122,15 +122,15 @@ Eastern Michigan Eagles comes in ranked #223 overall by KenPom.
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 49.9% (Rank: #240)
-- **3-Point Shooting:** 32.7% (Rank: #233)
-- **Free Throw Shooting:** 73.2% (Rank: #158)
+- **3-Point Shooting:** 32.7% (Rank: #235)
+- **Free Throw Shooting:** 73.2% (Rank: #159)
 - **3-Point Rate:** 32.2% (Rank: #328)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 51.1% (Rank: #159)
 - **Opponent 3-Point Shooting:** 33.1% (Rank: #139)
-- **Block Percentage:** 10.2% (Rank: #133)
+- **Block Percentage:** 10.2% (Rank: #135)
 - **Steal Rate:** 0.1% (Rank: #249)
 
 ### Team Metrics

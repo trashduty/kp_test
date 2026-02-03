@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Bowling Green Falcons -11.5</p>
-  <p><strong>Moneyline:</strong> Ball State Cardinals (+530) | Bowling Green Falcons (-780)</p>
+  <p><strong>Moneyline:</strong> Ball State Cardinals (+500) | Bowling Green Falcons (-780)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Bowling Green Falcons**: -11.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Ball State Cardinals Win Probability**: 13.1%, Moneyline Edge: -2.8%
-- **Bowling Green Falcons Win Probability**: 86.9%, Moneyline Edge: -1.7%
+- **Ball State Cardinals Win Probability**: 13.4%, Moneyline Edge: -3.3%
+- **Bowling Green Falcons Win Probability**: 86.6%, Moneyline Edge: -2.1%
 
 ### Total
-- **Predicted Total**: 135.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 136.5
+- Edge For Covering The Over: -3.3%
+- Edge For Covering The Under: -1.4%
 
 ---
 
@@ -85,16 +85,16 @@ Ball State Cardinals comes in ranked #308 overall by KenPom. The three-point sho
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 46.7% (Rank: #324)
+- **2-Point Shooting:** 46.7% (Rank: #326)
 - **3-Point Shooting:** 30.3% (Rank: #328)
-- **Free Throw Shooting:** 72.2% (Rank: #186)
+- **Free Throw Shooting:** 72.2% (Rank: #185)
 - **3-Point Rate:** 40.1% (Rank: #171)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 54.7% (Rank: #289)
-- **Opponent 3-Point Shooting:** 36.6% (Rank: #313)
-- **Block Percentage:** 8.5% (Rank: #235)
+- **Opponent 2-Point Shooting:** 54.7% (Rank: #290)
+- **Opponent 3-Point Shooting:** 36.6% (Rank: #312)
+- **Block Percentage:** 8.5% (Rank: #236)
 - **Steal Rate:** 0.1% (Rank: #64)
 
 ### Team Metrics
@@ -108,23 +108,23 @@ Ball State Cardinals comes in ranked #308 overall by KenPom. The three-point sho
 
 ## Bowling Green Falcons
 
-Bowling Green Falcons comes in ranked #132 overall by KenPom. 
+Bowling Green Falcons comes in ranked #133 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 13-9
 - **Head Coach:** Todd Simon
 - **Home Arena:** Stroh Center
-- **KenPom Rank:** #132
+- **KenPom Rank:** #133
 - **Offensive Efficiency:** 110.5 (Rank: #127)
 - **Defensive Efficiency:** 101.9 (Rank: #60)
 - **Tempo:** 70.4 (Rank: #104)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 52.7% (Rank: #144)
-- **3-Point Shooting:** 34.4% (Rank: #151)
-- **Free Throw Shooting:** 72.4% (Rank: #184)
-- **3-Point Rate:** 33.7% (Rank: #308)
+- **2-Point Shooting:** 52.7% (Rank: #143)
+- **3-Point Shooting:** 34.4% (Rank: #152)
+- **Free Throw Shooting:** 72.4% (Rank: #183)
+- **3-Point Rate:** 33.7% (Rank: #309)
 
 ### Defensive Stats
 

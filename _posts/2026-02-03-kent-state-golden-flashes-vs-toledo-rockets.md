@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kent State Golden Flashes**: 1.5, Edge For Covering Spread: -4.5%
-- **Toledo Rockets**: -1.5, Edge For Covering Spread: -0.2%
+- **Kent State Golden Flashes**: 1.5, Edge For Covering Spread: -5.4%
+- **Toledo Rockets**: -1.5, Edge For Covering Spread: **0.7%**
 
 ### Moneyline
-- **Kent State Golden Flashes Win Probability**: 44.3%, Moneyline Edge: -5.7%
-- **Toledo Rockets Win Probability**: 55.7%, Moneyline Edge: **1.2%**
+- **Kent State Golden Flashes Win Probability**: 44.4%, Moneyline Edge: -5.6%
+- **Toledo Rockets Win Probability**: 55.6%, Moneyline Edge: **1.1%**
 
 ### Total
 - **Predicted Total**: 162.5
@@ -85,8 +85,8 @@ Kent State Golden Flashes comes in ranked #142 overall by KenPom.
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 52.7% (Rank: #146)
-- **3-Point Shooting:** 34.3% (Rank: #158)
+- **2-Point Shooting:** 52.7% (Rank: #145)
+- **3-Point Shooting:** 34.3% (Rank: #159)
 - **Free Throw Shooting:** 75.1% (Rank: #87)
 - **3-Point Rate:** 44.3% (Rank: #90)
 
@@ -94,14 +94,14 @@ Kent State Golden Flashes comes in ranked #142 overall by KenPom.
 
 - **Opponent 2-Point Shooting:** 51.9% (Rank: #191)
 - **Opponent 3-Point Shooting:** 35.4% (Rank: #255)
-- **Block Percentage:** 10.0% (Rank: #141)
-- **Steal Rate:** 0.1% (Rank: #270)
+- **Block Percentage:** 10.0% (Rank: #142)
+- **Steal Rate:** 0.1% (Rank: #269)
 
 ### Team Metrics
 
 - **Assist Rate:** 57.5% (Rank: #70)
 - **Experience:** 1.9 years (Rank: #76)
-- **Bench Minutes:** 29.6% (Rank: #257)
+- **Bench Minutes:** 29.6% (Rank: #259)
 - **Average Height:** 76.1" (Rank: #347)
 
 ---
@@ -128,14 +128,14 @@ Toledo Rockets comes in ranked #154 overall by KenPom. Defense has been a strugg
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 57.4% (Rank: #339)
-- **Opponent 3-Point Shooting:** 35.5% (Rank: #266)
+- **Opponent 2-Point Shooting:** 57.4% (Rank: #340)
+- **Opponent 3-Point Shooting:** 35.5% (Rank: #267)
 - **Block Percentage:** 7.6% (Rank: #283)
-- **Steal Rate:** 0.1% (Rank: #98)
+- **Steal Rate:** 0.1% (Rank: #97)
 
 ### Team Metrics
 
-- **Assist Rate:** 52.6% (Rank: #177)
+- **Assist Rate:** 52.6% (Rank: #176)
 - **Experience:** 1.4 years (Rank: #182)
 - **Bench Minutes:** 20.3% (Rank: #355)
 - **Average Height:** 76.6" (Rank: #302)

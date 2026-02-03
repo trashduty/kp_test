@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Miami (OH) RedHawks -4.5</p>
-  <p><strong>Moneyline:</strong> Miami (OH) RedHawks (-210) | Buffalo Bulls (+175)</p>
+  <p><strong>Moneyline:</strong> Miami (OH) RedHawks (-200) | Buffalo Bulls (+170)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Miami (OH) RedHawks**: -4.5, Edge For Covering Spread: -2.8%
-- **Buffalo Bulls**: 4.5, Edge For Covering Spread: -1.9%
+- **Miami (OH) RedHawks**: -4.5, Edge For Covering Spread: -2.4%
+- **Buffalo Bulls**: 4.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Miami (OH) RedHawks Win Probability**: 65.5%, Moneyline Edge: -2.2%
-- **Buffalo Bulls Win Probability**: 34.5%, Moneyline Edge: -1.9%
+- **Miami (OH) RedHawks Win Probability**: 65.1%, Moneyline Edge: -1.5%
+- **Buffalo Bulls Win Probability**: 34.9%, Moneyline Edge: -2.2%
 
 ### Total
-- **Predicted Total**: 164.0
+- **Predicted Total**: 163.0
 - Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -1.0%
+- Edge For Covering The Under: -2.6%
 
 ---
 
@@ -52,7 +52,7 @@ The 4.5-point spread indicates Miami (OH) RedHawks is viewed as the better team,
 Meanwhile, **Buffalo Bulls** counter with 116.68 offensive efficiency (#55). They're competent on offense without being spectacular. They're lethal from beyond the arc at 38.9%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-Miami (OH) RedHawks operate at a 71.6 tempo (#52), while Buffalo Bulls play at 67.8 (#230). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.7) should create a standard flow. 
+Miami (OH) RedHawks operate at a 71.6 tempo (#52), while Buffalo Bulls play at 67.8 (#229). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.7) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Miami (OH) RedHawks shoot 62.6% on two-pointers, while Buffalo Bulls convert at 54.9%. Miami (OH) RedHawks has a clear edge in interior scoring efficiency. 
@@ -94,10 +94,10 @@ Miami (OH) RedHawks comes in ranked #89 overall by KenPom. They're dangerous fro
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.8% (Rank: #188)
-- **Opponent 3-Point Shooting:** 32.7% (Rank: #118)
-- **Block Percentage:** 9.2% (Rank: #188)
-- **Steal Rate:** 0.1% (Rank: #154)
+- **Opponent 2-Point Shooting:** 51.8% (Rank: #187)
+- **Opponent 3-Point Shooting:** 32.7% (Rank: #119)
+- **Block Percentage:** 9.2% (Rank: #187)
+- **Steal Rate:** 0.1% (Rank: #153)
 
 ### Team Metrics
 
@@ -110,30 +110,30 @@ Miami (OH) RedHawks comes in ranked #89 overall by KenPom. They're dangerous fro
 
 ## Buffalo Bulls
 
-Buffalo Bulls comes in ranked #184 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Buffalo Bulls comes in ranked #185 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 14-8
 - **Head Coach:** George Halcovage
 - **Home Arena:** Alumni Arena
-- **KenPom Rank:** #184
+- **KenPom Rank:** #185
 - **Offensive Efficiency:** 116.7 (Rank: #55)
 - **Defensive Efficiency:** 112.3 (Rank: #272)
-- **Tempo:** 67.8 (Rank: #230)
+- **Tempo:** 67.8 (Rank: #229)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 54.9% (Rank: #74)
 - **3-Point Shooting:** 38.9% (Rank: #15)
-- **Free Throw Shooting:** 73.8% (Rank: #131)
+- **Free Throw Shooting:** 73.8% (Rank: #132)
 - **3-Point Rate:** 44.3% (Rank: #91)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 56.6% (Rank: #323)
-- **Opponent 3-Point Shooting:** 33.5% (Rank: #162)
+- **Opponent 3-Point Shooting:** 33.5% (Rank: #161)
 - **Block Percentage:** 7.8% (Rank: #274)
-- **Steal Rate:** 0.1% (Rank: #84)
+- **Steal Rate:** 0.1% (Rank: #85)
 
 ### Team Metrics
 

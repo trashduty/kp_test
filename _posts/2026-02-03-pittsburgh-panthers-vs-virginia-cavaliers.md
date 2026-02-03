@@ -29,12 +29,12 @@ All that being said, here's how our model prices this game.
 
 ### Moneyline
 - **Pittsburgh Panthers Win Probability**: 8.5%, Moneyline Edge: -1.9%
-- **Virginia Cavaliers Win Probability**: 91.5%, Moneyline Edge: -2.7%
+- **Virginia Cavaliers Win Probability**: 91.5%, Moneyline Edge: -2.6%
 
 ### Total
-- **Predicted Total**: 140.0
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.3%
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -3.1%
 
 ---
 
@@ -87,16 +87,16 @@ Pittsburgh Panthers comes in ranked #101 overall by KenPom.
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 51.2% (Rank: #199)
+- **2-Point Shooting:** 51.2% (Rank: #198)
 - **3-Point Shooting:** 33.9% (Rank: #184)
-- **Free Throw Shooting:** 66.3% (Rank: #342)
+- **Free Throw Shooting:** 66.3% (Rank: #343)
 - **3-Point Rate:** 41.8% (Rank: #140)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 51.9% (Rank: #190)
-- **Opponent 3-Point Shooting:** 34.9% (Rank: #233)
-- **Block Percentage:** 10.1% (Rank: #136)
+- **Opponent 3-Point Shooting:** 34.9% (Rank: #232)
+- **Block Percentage:** 10.1% (Rank: #138)
 - **Steal Rate:** 0.1% (Rank: #132)
 
 ### Team Metrics
@@ -118,14 +118,14 @@ Virginia Cavaliers comes in ranked #17 overall by KenPom. They boast one of the 
 - **Home Arena:** John Paul Jones Arena
 - **KenPom Rank:** #17
 - **Offensive Efficiency:** 123.0 (Rank: #8)
-- **Defensive Efficiency:** 100.5 (Rank: #40)
+- **Defensive Efficiency:** 100.5 (Rank: #41)
 - **Tempo:** 66.7 (Rank: #279)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 56.6% (Rank: #48)
 - **3-Point Shooting:** 35.9% (Rank: #71)
-- **Free Throw Shooting:** 70.8% (Rank: #229)
+- **Free Throw Shooting:** 70.8% (Rank: #230)
 - **3-Point Rate:** 45.7% (Rank: #49)
 
 ### Defensive Stats
@@ -137,7 +137,7 @@ Virginia Cavaliers comes in ranked #17 overall by KenPom. They boast one of the 
 
 ### Team Metrics
 
-- **Assist Rate:** 58.8% (Rank: #49)
+- **Assist Rate:** 58.8% (Rank: #50)
 - **Experience:** 2.0 years (Rank: #62)
 - **Bench Minutes:** 35.3% (Rank: #115)
 - **Average Height:** 78.2" (Rank: #68)

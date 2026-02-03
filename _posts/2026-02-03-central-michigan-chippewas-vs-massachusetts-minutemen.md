@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Massachusetts Minutemen -10.5</p>
+  <p><strong>Spread:</strong> Massachusetts Minutemen -11.0</p>
   <p><strong>Moneyline:</strong> Central Michigan Chippewas (+500) | Massachusetts Minutemen (-780)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Central Michigan Chippewas**: 10.5, Edge For Covering Spread: -2.8%
-- **Massachusetts Minutemen**: -10.5, Edge For Covering Spread: -1.9%
+- **Central Michigan Chippewas**: 11.0, Edge For Covering Spread: -2.4%
+- **Massachusetts Minutemen**: -11.0, Edge For Covering Spread: -2.4%
 
 ### Moneyline
 - **Central Michigan Chippewas Win Probability**: 14.9%, Moneyline Edge: -1.8%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 151.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -2.6%
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Massachusetts Minutemen (14-9) hosts Central Michigan Chippewas (7-15) at Mullins Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Massachusetts Minutemen favored by 10.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Massachusetts Minutemen (14-9) hosts Central Michigan Chippewas (7-15) at Mullins Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Massachusetts Minutemen favored by 11.0 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us Massachusetts Minutemen has clear advantages, but games aren't played on paper. Central Michigan Chippewas needs to punch above their weight class to keep this close. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 11.0 points tells us Massachusetts Minutemen has clear advantages, but games aren't played on paper. Central Michigan Chippewas needs to punch above their weight class to keep this close. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
-**Central Michigan Chippewas** bring an offensive efficiency of 101.70 (ranked #289 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.2% from three, they can't rely on the arc. Expect a paint-focused attack. 
+**Central Michigan Chippewas** bring an offensive efficiency of 101.70 (ranked #290 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.2% from three, they can't rely on the arc. Expect a paint-focused attack. 
 Meanwhile, **Massachusetts Minutemen** counter with 108.82 offensive efficiency (#170). Points have been hard to come by, making every possession critical. At 35.3% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Central Michigan Chippewas operate at a 68.6 tempo (#202), while Massachusetts Minutemen play at 72.1 (#37). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.4) should create a standard flow. 
+Central Michigan Chippewas operate at a 68.6 tempo (#202), while Massachusetts Minutemen play at 72.1 (#38). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.4) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Central Michigan Chippewas shoot 51.1% on two-pointers, while Massachusetts Minutemen convert at 52.2%. Both teams are evenly matched in paint efficiency. 
@@ -75,33 +75,33 @@ Massachusetts Minutemen features a middle-of-the-pack offense (ranked #170) that
 
 ## Central Michigan Chippewas
 
-Central Michigan Chippewas comes in ranked #293 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Central Michigan Chippewas comes in ranked #294 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 7-15
 - **Head Coach:** Andy Bronkema
-- **KenPom Rank:** #293
-- **Offensive Efficiency:** 101.7 (Rank: #289)
+- **KenPom Rank:** #294
+- **Offensive Efficiency:** 101.7 (Rank: #290)
 - **Defensive Efficiency:** 115.0 (Rank: #309)
 - **Tempo:** 68.6 (Rank: #202)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 51.1% (Rank: #202)
+- **2-Point Shooting:** 51.1% (Rank: #201)
 - **3-Point Shooting:** 30.2% (Rank: #329)
-- **Free Throw Shooting:** 70.4% (Rank: #248)
-- **3-Point Rate:** 33.9% (Rank: #302)
+- **Free Throw Shooting:** 70.4% (Rank: #247)
+- **3-Point Rate:** 33.9% (Rank: #304)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 54.3% (Rank: #278)
-- **Opponent 3-Point Shooting:** 35.6% (Rank: #267)
+- **Opponent 3-Point Shooting:** 35.6% (Rank: #268)
 - **Block Percentage:** 12.0% (Rank: #64)
 - **Steal Rate:** 0.1% (Rank: #293)
 
 ### Team Metrics
 
-- **Assist Rate:** 55.0% (Rank: #117)
+- **Assist Rate:** 55.0% (Rank: #116)
 - **Experience:** 0.3 years (Rank: #360)
 - **Bench Minutes:** 32.7% (Rank: #176)
 - **Average Height:** 77.5" (Rank: #156)
@@ -119,13 +119,13 @@ Massachusetts Minutemen comes in ranked #182 overall by KenPom. On the defensive
 - **KenPom Rank:** #182
 - **Offensive Efficiency:** 108.8 (Rank: #170)
 - **Defensive Efficiency:** 104.8 (Rank: #107)
-- **Tempo:** 72.1 (Rank: #37)
+- **Tempo:** 72.1 (Rank: #38)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 52.2% (Rank: #163)
 - **3-Point Shooting:** 35.3% (Rank: #100)
-- **Free Throw Shooting:** 68.0% (Rank: #318)
+- **Free Throw Shooting:** 68.0% (Rank: #317)
 - **3-Point Rate:** 35.1% (Rank: #271)
 
 ### Defensive Stats

@@ -48,11 +48,11 @@ Tenn-Martin Skyhawks (17-5) hosts Arkansas-Little Rock Trojans (9-13) at Elam Ce
 A spread around 7.5 points tells us Tenn-Martin Skyhawks has clear advantages, but games aren't played on paper. Arkansas-Little Rock Trojans needs to punch above their weight class to keep this close. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Arkansas-Little Rock Trojans** bring an offensive efficiency of 101.72 (ranked #288 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.8% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Tenn-Martin Skyhawks** counter with 105.98 offensive efficiency (#218). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 31.9%, forcing them to grind in the half court. 
+**Arkansas-Little Rock Trojans** bring an offensive efficiency of 101.72 (ranked #289 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.8% three-point shooting is serviceable but won't scare anyone. 
+Meanwhile, **Tenn-Martin Skyhawks** counter with 105.98 offensive efficiency (#219). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 31.9%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
-Arkansas-Little Rock Trojans operate at a 67.8 tempo (#228), while Tenn-Martin Skyhawks play at 67.2 (#250). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.5) means fewer possessions, making each one more valuable. 
+Arkansas-Little Rock Trojans operate at a 67.8 tempo (#227), while Tenn-Martin Skyhawks play at 67.2 (#250). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.5) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Arkansas-Little Rock Trojans shoot 48.5% on two-pointers, while Tenn-Martin Skyhawks convert at 53.3%. Both teams are evenly matched in paint efficiency. 
@@ -68,22 +68,22 @@ This looks like a mismatch on paper with Tenn-Martin Skyhawks significantly high
 
 **Key Matchup: Tenn-Martin Skyhawks's Offense vs Arkansas-Little Rock Trojans's Defense**
 
-Tenn-Martin Skyhawks features a struggling offense (ranked #218) that should find success against Arkansas-Little Rock Trojans's defensive unit (ranked #280). 
+Tenn-Martin Skyhawks features a struggling offense (ranked #219) that should find success against Arkansas-Little Rock Trojans's defensive unit (ranked #281). 
 
 **X-Factor:** Arkansas-Little Rock Trojans can light it up from three-point range (35.8%), but Tenn-Martin Skyhawks defend the arc exceptionally well, holding opponents to just 28.7%. This battle on the perimeter could decide the game. 
 
 
 ## Arkansas-Little Rock Trojans
 
-Arkansas-Little Rock Trojans comes in ranked #304 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Arkansas-Little Rock Trojans comes in ranked #303 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 9-13
 - **Head Coach:** Darrell Walker
-- **KenPom Rank:** #304
-- **Offensive Efficiency:** 101.7 (Rank: #288)
-- **Defensive Efficiency:** 112.9 (Rank: #280)
-- **Tempo:** 67.8 (Rank: #228)
+- **KenPom Rank:** #303
+- **Offensive Efficiency:** 101.7 (Rank: #289)
+- **Defensive Efficiency:** 112.9 (Rank: #281)
+- **Tempo:** 67.8 (Rank: #227)
 
 ### Shooting Breakdown
 
@@ -95,7 +95,7 @@ Arkansas-Little Rock Trojans comes in ranked #304 overall by KenPom. Defense has
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 55.3% (Rank: #301)
-- **Opponent 3-Point Shooting:** 36.9% (Rank: #329)
+- **Opponent 3-Point Shooting:** 36.9% (Rank: #328)
 - **Block Percentage:** 11.9% (Rank: #66)
 - **Steal Rate:** 0.1% (Rank: #32)
 
@@ -110,22 +110,22 @@ Arkansas-Little Rock Trojans comes in ranked #304 overall by KenPom. Defense has
 
 ## Tenn-Martin Skyhawks
 
-Tenn-Martin Skyhawks comes in ranked #192 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. On the defensive end, they're lockdown on the perimeter, holding opponents to just 28.7% from three. 
+Tenn-Martin Skyhawks comes in ranked #190 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. On the defensive end, they're lockdown on the perimeter, holding opponents to just 28.7% from three. 
 
 ### Record & Ranking
 - **Record:** 17-5
 - **Head Coach:** Jeremy Shulman
 - **Home Arena:** Elam Center
-- **KenPom Rank:** #192
-- **Offensive Efficiency:** 106.0 (Rank: #218)
+- **KenPom Rank:** #190
+- **Offensive Efficiency:** 106.0 (Rank: #219)
 - **Defensive Efficiency:** 98.2 (Rank: #22)
 - **Tempo:** 67.2 (Rank: #250)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 53.3% (Rank: #116)
-- **3-Point Shooting:** 31.9% (Rank: #273)
-- **Free Throw Shooting:** 68.1% (Rank: #316)
+- **3-Point Shooting:** 31.9% (Rank: #272)
+- **Free Throw Shooting:** 68.1% (Rank: #315)
 - **3-Point Rate:** 45.7% (Rank: #51)
 
 ### Defensive Stats
@@ -133,7 +133,7 @@ Tenn-Martin Skyhawks comes in ranked #192 overall by KenPom. The three-point sho
 - **Opponent 2-Point Shooting:** 47.6% (Rank: #48)
 - **Opponent 3-Point Shooting:** 28.7% (Rank: #9)
 - **Block Percentage:** 13.2% (Rank: #30)
-- **Steal Rate:** 0.1% (Rank: #53)
+- **Steal Rate:** 0.1% (Rank: #54)
 
 ### Team Metrics
 

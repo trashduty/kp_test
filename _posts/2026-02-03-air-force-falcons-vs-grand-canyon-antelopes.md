@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Air Force Falcons**: 24.5, Edge For Covering Spread: -5.2%
-- **Grand Canyon Antelopes**: -24.5, Edge For Covering Spread: **0.5%**
+- **Air Force Falcons**: 24.5, Edge For Covering Spread: -4.1%
+- **Grand Canyon Antelopes**: -24.5, Edge For Covering Spread: -0.6%
 
 ### Moneyline
 - **Air Force Falcons Win Probability**: 2.2%, Moneyline Edge: -1.3%
 - **Grand Canyon Antelopes Win Probability**: 97.8%, Moneyline Edge: -1.2%
 
 ### Total
-- **Predicted Total**: 132.5
-- Edge For Covering The Over: -4.4%
-- Edge For Covering The Under: -0.3%
+- **Predicted Total**: 133.5
+- Edge For Covering The Over: -5.7%
+- Edge For Covering The Under: **1.0%**
 
 ---
 
@@ -52,7 +52,7 @@ The 24.5-point spread screams mismatch. The books are asking Air Force Falcons t
 Meanwhile, **Grand Canyon Antelopes** counter with 107.17 offensive efficiency (#194). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 30.6%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
-Air Force Falcons operate at a 66.8 tempo (#270), while Grand Canyon Antelopes play at 69.1 (#176). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 68.0) means fewer possessions, making each one more valuable. 
+Air Force Falcons operate at a 66.8 tempo (#270), while Grand Canyon Antelopes play at 69.1 (#175). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 68.0) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Air Force Falcons shoot 51.6% on two-pointers, while Grand Canyon Antelopes convert at 52.9%. Both teams are evenly matched in paint efficiency. 
@@ -73,12 +73,12 @@ Grand Canyon Antelopes features a middle-of-the-pack offense (ranked #194) that 
 
 ## Air Force Falcons
 
-Air Force Falcons comes in ranked #347 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Air Force Falcons comes in ranked #346 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 3-18
 - **Head Coach:** Joe Scott
-- **KenPom Rank:** #347
+- **KenPom Rank:** #346
 - **Offensive Efficiency:** 91.6 (Rank: #362)
 - **Defensive Efficiency:** 115.9 (Rank: #323)
 - **Tempo:** 66.8 (Rank: #270)
@@ -88,20 +88,20 @@ Air Force Falcons comes in ranked #347 overall by KenPom. The three-point shot h
 - **2-Point Shooting:** 51.6% (Rank: #177)
 - **3-Point Shooting:** 30.2% (Rank: #330)
 - **Free Throw Shooting:** 64.3% (Rank: #361)
-- **3-Point Rate:** 42.1% (Rank: #134)
+- **3-Point Rate:** 42.1% (Rank: #135)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 54.2% (Rank: #276)
-- **Opponent 3-Point Shooting:** 37.1% (Rank: #335)
-- **Block Percentage:** 8.0% (Rank: #260)
-- **Steal Rate:** 0.1% (Rank: #242)
+- **Opponent 3-Point Shooting:** 37.1% (Rank: #334)
+- **Block Percentage:** 8.0% (Rank: #261)
+- **Steal Rate:** 0.1% (Rank: #241)
 
 ### Team Metrics
 
 - **Assist Rate:** 54.6% (Rank: #128)
 - **Experience:** 0.4 years (Rank: #358)
-- **Bench Minutes:** 29.7% (Rank: #254)
+- **Bench Minutes:** 29.7% (Rank: #255)
 - **Average Height:** 78.1" (Rank: #72)
 
 ---
@@ -117,14 +117,14 @@ Grand Canyon Antelopes comes in ranked #65 overall by KenPom. They've struggled 
 - **KenPom Rank:** #65
 - **Offensive Efficiency:** 107.2 (Rank: #194)
 - **Defensive Efficiency:** 98.1 (Rank: #21)
-- **Tempo:** 69.1 (Rank: #176)
+- **Tempo:** 69.1 (Rank: #175)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 52.9% (Rank: #133)
 - **3-Point Shooting:** 30.6% (Rank: #320)
 - **Free Throw Shooting:** 76.4% (Rank: #48)
-- **3-Point Rate:** 38.8% (Rank: #204)
+- **3-Point Rate:** 38.8% (Rank: #203)
 
 ### Defensive Stats
 
@@ -137,6 +137,6 @@ Grand Canyon Antelopes comes in ranked #65 overall by KenPom. They've struggled 
 
 - **Assist Rate:** 49.3% (Rank: #268)
 - **Experience:** 2.5 years (Rank: #14)
-- **Bench Minutes:** 32.9% (Rank: #168)
+- **Bench Minutes:** 32.9% (Rank: #169)
 - **Average Height:** 78.9" (Rank: #14)
 

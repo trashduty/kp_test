@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 161.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 
@@ -52,7 +52,7 @@ A spread under 3 points suggests the books see this as essentially a coin flip. 
 Meanwhile, **SMU Mustangs** counter with 118.41 offensive efficiency (#36). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 36.3%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-NC State Wolfpack operate at a 70.1 tempo (#113), while SMU Mustangs play at 72.2 (#36). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.2) should create a standard flow. 
+NC State Wolfpack operate at a 70.1 tempo (#114), while SMU Mustangs play at 72.2 (#36). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.2) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, NC State Wolfpack shoot 54.6% on two-pointers, while SMU Mustangs convert at 56.3%. Both teams are evenly matched in paint efficiency. 
@@ -82,12 +82,12 @@ NC State Wolfpack comes in ranked #23 overall by KenPom. They're dangerous from 
 - **Head Coach:** Will Wade
 - **KenPom Rank:** #23
 - **Offensive Efficiency:** 121.1 (Rank: #20)
-- **Defensive Efficiency:** 101.6 (Rank: #55)
-- **Tempo:** 70.1 (Rank: #113)
+- **Defensive Efficiency:** 101.6 (Rank: #54)
+- **Tempo:** 70.1 (Rank: #114)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 54.6% (Rank: #83)
+- **2-Point Shooting:** 54.6% (Rank: #82)
 - **3-Point Shooting:** 39.9% (Rank: #7)
 - **Free Throw Shooting:** 76.5% (Rank: #45)
 - **3-Point Rate:** 44.5% (Rank: #83)
@@ -95,8 +95,8 @@ NC State Wolfpack comes in ranked #23 overall by KenPom. They're dangerous from 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 50.8% (Rank: #144)
-- **Opponent 3-Point Shooting:** 33.4% (Rank: #154)
-- **Block Percentage:** 10.2% (Rank: #134)
+- **Opponent 3-Point Shooting:** 33.4% (Rank: #153)
+- **Block Percentage:** 10.2% (Rank: #136)
 - **Steal Rate:** 0.1% (Rank: #31)
 
 ### Team Metrics
@@ -130,10 +130,10 @@ SMU Mustangs comes in ranked #36 overall by KenPom. They boast one of the nation
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.4% (Rank: #212)
+- **Opponent 2-Point Shooting:** 52.4% (Rank: #213)
 - **Opponent 3-Point Shooting:** 31.9% (Rank: #76)
 - **Block Percentage:** 11.3% (Rank: #84)
-- **Steal Rate:** 0.1% (Rank: #106)
+- **Steal Rate:** 0.1% (Rank: #107)
 
 ### Team Metrics
 

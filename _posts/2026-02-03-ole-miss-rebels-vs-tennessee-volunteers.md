@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tennessee Volunteers -11.5</p>
-  <p><strong>Moneyline:</strong> Ole Miss Rebels (+570) | Tennessee Volunteers (-850)</p>
+  <p><strong>Moneyline:</strong> Ole Miss Rebels (+580) | Tennessee Volunteers (-880)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -25,16 +25,16 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **Ole Miss Rebels**: 11.5, Edge For Covering Spread: -3.5%
-- **Tennessee Volunteers**: -11.5, Edge For Covering Spread: -1.2%
+- **Tennessee Volunteers**: -11.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **Ole Miss Rebels Win Probability**: 13.5%, Moneyline Edge: -1.4%
-- **Tennessee Volunteers Win Probability**: 86.5%, Moneyline Edge: -3.0%
+- **Ole Miss Rebels Win Probability**: 13.2%, Moneyline Edge: -1.5%
+- **Tennessee Volunteers Win Probability**: 86.8%, Moneyline Edge: -3.0%
 
 ### Total
-- **Predicted Total**: 137.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 138.0
+- Edge For Covering The Over: -3.1%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -52,7 +52,7 @@ A spread around 11.5 points tells us Tennessee Volunteers has clear advantages, 
 Meanwhile, **Tennessee Volunteers** counter with 117.91 offensive efficiency (#44). This offense can match anyone bucket-for-bucket. At 35.0% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Ole Miss Rebels operate at a 67.4 tempo (#244), while Tennessee Volunteers play at 68.7 (#199). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 68.1) should create a standard flow. 
+Ole Miss Rebels operate at a 67.4 tempo (#243), while Tennessee Volunteers play at 68.7 (#199). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 68.1) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Ole Miss Rebels shoot 49.8% on two-pointers, while Tennessee Volunteers convert at 54.1%. Both teams are evenly matched in paint efficiency. 
@@ -81,19 +81,19 @@ Ole Miss Rebels comes in ranked #64 overall by KenPom.
 - **KenPom Rank:** #64
 - **Offensive Efficiency:** 109.9 (Rank: #144)
 - **Defensive Efficiency:** 104.9 (Rank: #109)
-- **Tempo:** 67.4 (Rank: #244)
+- **Tempo:** 67.4 (Rank: #243)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 49.8% (Rank: #246)
+- **2-Point Shooting:** 49.8% (Rank: #245)
 - **3-Point Shooting:** 34.0% (Rank: #177)
-- **Free Throw Shooting:** 74.4% (Rank: #108)
+- **Free Throw Shooting:** 74.4% (Rank: #107)
 - **3-Point Rate:** 37.1% (Rank: #233)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 49.0% (Rank: #81)
-- **Opponent 3-Point Shooting:** 32.5% (Rank: #104)
+- **Opponent 2-Point Shooting:** 49.0% (Rank: #82)
+- **Opponent 3-Point Shooting:** 32.5% (Rank: #105)
 - **Block Percentage:** 13.7% (Rank: #23)
 - **Steal Rate:** 0.1% (Rank: #134)
 
@@ -116,14 +116,14 @@ Tennessee Volunteers comes in ranked #18 overall by KenPom. They boast one of th
 - **Home Arena:** Thompson Boling Arena
 - **KenPom Rank:** #18
 - **Offensive Efficiency:** 117.9 (Rank: #44)
-- **Defensive Efficiency:** 100.4 (Rank: #37)
+- **Defensive Efficiency:** 100.4 (Rank: #38)
 - **Tempo:** 68.7 (Rank: #199)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 54.1% (Rank: #97)
-- **3-Point Shooting:** 35.0% (Rank: #117)
-- **Free Throw Shooting:** 69.3% (Rank: #280)
+- **3-Point Shooting:** 35.0% (Rank: #116)
+- **Free Throw Shooting:** 69.3% (Rank: #279)
 - **3-Point Rate:** 33.5% (Rank: #311)
 
 ### Defensive Stats
@@ -131,7 +131,7 @@ Tennessee Volunteers comes in ranked #18 overall by KenPom. They boast one of th
 - **Opponent 2-Point Shooting:** 48.9% (Rank: #77)
 - **Opponent 3-Point Shooting:** 29.4% (Rank: #16)
 - **Block Percentage:** 11.1% (Rank: #89)
-- **Steal Rate:** 0.1% (Rank: #80)
+- **Steal Rate:** 0.1% (Rank: #81)
 
 ### Team Metrics
 

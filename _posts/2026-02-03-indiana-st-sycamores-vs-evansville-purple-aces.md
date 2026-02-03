@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Indiana St Sycamores**: -1.5, Edge For Covering Spread: -1.2%
-- **Evansville Purple Aces**: 1.5, Edge For Covering Spread: -3.5%
+- **Indiana St Sycamores**: -1.5, Edge For Covering Spread: -1.3%
+- **Evansville Purple Aces**: 1.5, Edge For Covering Spread: -3.4%
 
 ### Moneyline
 - **Indiana St Sycamores Win Probability**: 53.1%, Moneyline Edge: -2.4%
 - **Evansville Purple Aces Win Probability**: 46.9%, Moneyline Edge: -1.9%
 
 ### Total
-- **Predicted Total**: 145.0
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.3%
+- **Predicted Total**: 145.5
+- Edge For Covering The Over: -4.9%
+- Edge For Covering The Under: **0.1%**
 
 ---
 
@@ -52,7 +52,7 @@ A spread under 3 points suggests the books see this as essentially a coin flip. 
 Meanwhile, **Evansville Purple Aces** counter with 95.12 offensive efficiency (#347). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 30.5%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
-Indiana St Sycamores operate at a 69.1 tempo (#174), while Evansville Purple Aces play at 68.2 (#215). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 68.7) should create a standard flow. 
+Indiana St Sycamores operate at a 69.1 tempo (#173), while Evansville Purple Aces play at 68.2 (#215). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 68.7) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Indiana St Sycamores shoot 58.1% on two-pointers, while Evansville Purple Aces convert at 50.0%. Indiana St Sycamores has a clear edge in interior scoring efficiency. 
@@ -81,13 +81,13 @@ Indiana St Sycamores comes in ranked #210 overall by KenPom. The three-point sho
 - **KenPom Rank:** #210
 - **Offensive Efficiency:** 102.8 (Rank: #273)
 - **Defensive Efficiency:** 107.0 (Rank: #151)
-- **Tempo:** 69.1 (Rank: #174)
+- **Tempo:** 69.1 (Rank: #173)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 58.1% (Rank: #27)
+- **2-Point Shooting:** 58.1% (Rank: #26)
 - **3-Point Shooting:** 30.2% (Rank: #332)
-- **Free Throw Shooting:** 69.1% (Rank: #285)
+- **Free Throw Shooting:** 69.1% (Rank: #284)
 - **3-Point Rate:** 45.8% (Rank: #48)
 
 ### Defensive Stats
@@ -123,19 +123,19 @@ Evansville Purple Aces comes in ranked #286 overall by KenPom. They've struggled
 
 - **2-Point Shooting:** 50.0% (Rank: #237)
 - **3-Point Shooting:** 30.5% (Rank: #324)
-- **Free Throw Shooting:** 72.2% (Rank: #187)
+- **Free Throw Shooting:** 72.2% (Rank: #186)
 - **3-Point Rate:** 41.6% (Rank: #144)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 54.3% (Rank: #279)
 - **Opponent 3-Point Shooting:** 35.4% (Rank: #259)
-- **Block Percentage:** 10.4% (Rank: #123)
+- **Block Percentage:** 10.4% (Rank: #124)
 - **Steal Rate:** 0.1% (Rank: #316)
 
 ### Team Metrics
 
-- **Assist Rate:** 55.0% (Rank: #116)
+- **Assist Rate:** 55.0% (Rank: #115)
 - **Experience:** 1.3 years (Rank: #225)
 - **Bench Minutes:** 32.3% (Rank: #191)
 - **Average Height:** 78.8" (Rank: #17)

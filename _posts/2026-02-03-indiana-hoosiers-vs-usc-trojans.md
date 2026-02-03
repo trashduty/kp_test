@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> USC Trojans -1.5</p>
-  <p><strong>Moneyline:</strong> Indiana Hoosiers (-100) | USC Trojans (-120)</p>
+  <p><strong>Moneyline:</strong> Indiana Hoosiers (-105) | USC Trojans (-115)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Indiana Hoosiers**: 1.5, Edge For Covering Spread: -0.8%
-- **USC Trojans**: -1.5, Edge For Covering Spread: -5.6%
+- **Indiana Hoosiers**: 1.5, Edge For Covering Spread: -1.5%
+- **USC Trojans**: -1.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
-- **Indiana Hoosiers Win Probability**: 49.4%, Moneyline Edge: -0.6%
-- **USC Trojans Win Probability**: 50.6%, Moneyline Edge: -4.0%
+- **Indiana Hoosiers Win Probability**: 50.0%, Moneyline Edge: -1.3%
+- **USC Trojans Win Probability**: 50.0%, Moneyline Edge: -3.4%
 
 ### Total
 - **Predicted Total**: 152.0
@@ -96,7 +96,7 @@ Indiana Hoosiers comes in ranked #33 overall by KenPom. They boast one of the na
 
 - **Opponent 2-Point Shooting:** 46.9% (Rank: #34)
 - **Opponent 3-Point Shooting:** 30.9% (Rank: #50)
-- **Block Percentage:** 7.0% (Rank: #313)
+- **Block Percentage:** 7.0% (Rank: #312)
 - **Steal Rate:** 0.1% (Rank: #313)
 
 ### Team Metrics
@@ -125,8 +125,8 @@ USC Trojans comes in ranked #50 overall by KenPom. On the defensive end, they're
 
 - **2-Point Shooting:** 54.1% (Rank: #99)
 - **3-Point Shooting:** 32.3% (Rank: #259)
-- **Free Throw Shooting:** 71.7% (Rank: #201)
-- **3-Point Rate:** 34.3% (Rank: #296)
+- **Free Throw Shooting:** 71.7% (Rank: #200)
+- **3-Point Rate:** 34.3% (Rank: #297)
 
 ### Defensive Stats
 

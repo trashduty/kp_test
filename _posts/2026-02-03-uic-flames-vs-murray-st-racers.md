@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 158.5
-- Edge For Covering The Over: -5.0%
-- Edge For Covering The Under: **0.3%**
+- Edge For Covering The Over: -4.5%
+- Edge For Covering The Under: -0.3%
 
 ---
 
@@ -89,21 +89,21 @@ UIC Flames comes in ranked #131 overall by KenPom. The three-point shot hasn't b
 
 - **2-Point Shooting:** 49.3% (Rank: #267)
 - **3-Point Shooting:** 30.6% (Rank: #321)
-- **Free Throw Shooting:** 73.8% (Rank: #132)
-- **3-Point Rate:** 33.9% (Rank: #303)
+- **Free Throw Shooting:** 73.8% (Rank: #133)
+- **3-Point Rate:** 33.9% (Rank: #305)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 50.9% (Rank: #150)
 - **Opponent 3-Point Shooting:** 31.3% (Rank: #60)
 - **Block Percentage:** 12.5% (Rank: #54)
-- **Steal Rate:** 0.1% (Rank: #52)
+- **Steal Rate:** 0.1% (Rank: #53)
 
 ### Team Metrics
 
-- **Assist Rate:** 52.5% (Rank: #183)
+- **Assist Rate:** 52.5% (Rank: #182)
 - **Experience:** 1.7 years (Rank: #111)
-- **Bench Minutes:** 38.5% (Rank: #47)
+- **Bench Minutes:** 38.5% (Rank: #48)
 - **Average Height:** 77.1" (Rank: #219)
 
 ---
@@ -124,15 +124,15 @@ Murray St Racers comes in ranked #99 overall by KenPom. They boast one of the na
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 56.7% (Rank: #45)
-- **3-Point Shooting:** 35.1% (Rank: #111)
+- **3-Point Shooting:** 35.1% (Rank: #110)
 - **Free Throw Shooting:** 76.8% (Rank: #37)
 - **3-Point Rate:** 45.0% (Rank: #66)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 49.6% (Rank: #107)
-- **Opponent 3-Point Shooting:** 35.6% (Rank: #271)
-- **Block Percentage:** 8.8% (Rank: #212)
+- **Opponent 2-Point Shooting:** 49.6% (Rank: #108)
+- **Opponent 3-Point Shooting:** 35.6% (Rank: #272)
+- **Block Percentage:** 8.8% (Rank: #211)
 - **Steal Rate:** 0.1% (Rank: #306)
 
 ### Team Metrics

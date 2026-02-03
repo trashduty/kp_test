@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Lindenwood Lions -5.5</p>
+  <p><strong>Spread:</strong> Lindenwood Lions -5.0</p>
   <p><strong>Moneyline:</strong> SIU-Edwardsville Cougars (+190) | Lindenwood Lions (-225)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **SIU-Edwardsville Cougars**: 5.5, Edge For Covering Spread: -1.8%
-- **Lindenwood Lions**: -5.5, Edge For Covering Spread: -2.9%
+- **SIU-Edwardsville Cougars**: 5.0, Edge For Covering Spread: -2.0%
+- **Lindenwood Lions**: -5.0, Edge For Covering Spread: -2.9%
 
 ### Moneyline
 - **SIU-Edwardsville Cougars Win Probability**: 34.6%, Moneyline Edge: **0.1%**
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 139.5
-- Edge For Covering The Over: -5.5%
-- Edge For Covering The Under: **0.7%**
+- Edge For Covering The Over: -6.3%
+- Edge For Covering The Under: **1.5%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Lindenwood Lions (14-9) hosts SIU-Edwardsville Cougars (14-9) at Hyland Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Lindenwood Lions favored by 5.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Lindenwood Lions (14-9) hosts SIU-Edwardsville Cougars (14-9) at Hyland Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Lindenwood Lions favored by 5.0 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Lindenwood Lions is viewed as the better team, but this isn't an overwhelming edge. SIU-Edwardsville Cougars has a legitimate path to covering or winning outright. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 5.0-point spread indicates Lindenwood Lions is viewed as the better team, but this isn't an overwhelming edge. SIU-Edwardsville Cougars has a legitimate path to covering or winning outright. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **SIU-Edwardsville Cougars** bring an offensive efficiency of 102.27 (ranked #279 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.3% three-point shooting is serviceable but won't scare anyone. 
@@ -68,7 +68,7 @@ On paper, Lindenwood Lions holds the advantage as the higher-ranked team, but SI
 
 **Key Matchup: SIU-Edwardsville Cougars's Defense vs Lindenwood Lions's Offense**
 
-SIU-Edwardsville Cougars's stingy defense (ranked #43) will look to frustrate Lindenwood Lions's offense, which has struggled at times this season. 
+SIU-Edwardsville Cougars's stingy defense (ranked #44) will look to frustrate Lindenwood Lions's offense, which has struggled at times this season. 
 
 **Pace of Play:** Lindenwood Lions like to push the pace, while SIU-Edwardsville Cougars prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
 
@@ -82,13 +82,13 @@ SIU-Edwardsville Cougars comes in ranked #254 overall by KenPom. On the defensiv
 - **Head Coach:** Brian Barone
 - **KenPom Rank:** #254
 - **Offensive Efficiency:** 102.3 (Rank: #279)
-- **Defensive Efficiency:** 100.7 (Rank: #43)
+- **Defensive Efficiency:** 100.7 (Rank: #44)
 - **Tempo:** 65.4 (Rank: #328)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 46.9% (Rank: #322)
-- **3-Point Shooting:** 34.3% (Rank: #157)
+- **2-Point Shooting:** 46.9% (Rank: #323)
+- **3-Point Shooting:** 34.3% (Rank: #158)
 - **Free Throw Shooting:** 67.5% (Rank: #332)
 - **3-Point Rate:** 34.9% (Rank: #280)
 
@@ -97,7 +97,7 @@ SIU-Edwardsville Cougars comes in ranked #254 overall by KenPom. On the defensiv
 - **Opponent 2-Point Shooting:** 46.1% (Rank: #23)
 - **Opponent 3-Point Shooting:** 29.5% (Rank: #17)
 - **Block Percentage:** 12.2% (Rank: #59)
-- **Steal Rate:** 0.1% (Rank: #141)
+- **Steal Rate:** 0.1% (Rank: #140)
 
 ### Team Metrics
 
@@ -123,8 +123,8 @@ Lindenwood Lions comes in ranked #235 overall by KenPom. The three-point shot ha
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 51.3% (Rank: #196)
-- **3-Point Shooting:** 28.7% (Rank: #351)
+- **2-Point Shooting:** 51.3% (Rank: #195)
+- **3-Point Shooting:** 28.7% (Rank: #352)
 - **Free Throw Shooting:** 68.2% (Rank: #312)
 - **3-Point Rate:** 31.4% (Rank: #333)
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> VCU Rams -7.5</p>
-  <p><strong>Moneyline:</strong> VCU Rams (-392) | Fordham Rams (+300)</p>
+  <p><strong>Moneyline:</strong> VCU Rams (-372) | Fordham Rams (+290)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **VCU Rams**: -7.5, Edge For Covering Spread: -4.4%
-- **Fordham Rams**: 7.5, Edge For Covering Spread: -0.3%
+- **VCU Rams**: -7.5, Edge For Covering Spread: -4.0%
+- **Fordham Rams**: 7.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **VCU Rams Win Probability**: 73.2%, Moneyline Edge: -6.5%
-- **Fordham Rams Win Probability**: 26.8%, Moneyline Edge: **1.8%**
+- **VCU Rams Win Probability**: 72.9%, Moneyline Edge: -5.9%
+- **Fordham Rams Win Probability**: 27.1%, Moneyline Edge: **1.4%**
 
 ### Total
 - **Predicted Total**: 146.0
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -0.6%
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -0.0%
 
 ---
 
@@ -49,10 +49,10 @@ A spread around 7.5 points tells us VCU Rams has clear advantages, but games are
 
 #### Offensive Firepower
 **VCU Rams** bring an offensive efficiency of 120.32 (ranked #25 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.6% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
-Meanwhile, **Fordham Rams** counter with 105.58 offensive efficiency (#227). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 28.3%, forcing them to grind in the half court. 
+Meanwhile, **Fordham Rams** counter with 105.58 offensive efficiency (#226). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 28.3%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
-VCU Rams operate at a 70.3 tempo (#110), while Fordham Rams play at 64.8 (#340). VCU Rams want to run, but Fordham Rams prefer to slow things down. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The slower pace (averaging 67.5) means fewer possessions, making each one more valuable. 
+VCU Rams operate at a 70.3 tempo (#110), while Fordham Rams play at 64.8 (#339). VCU Rams want to run, but Fordham Rams prefer to slow things down. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The slower pace (averaging 67.5) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, VCU Rams shoot 54.9% on two-pointers, while Fordham Rams convert at 53.2%. Both teams are evenly matched in paint efficiency. 
@@ -89,15 +89,15 @@ VCU Rams comes in ranked #48 overall by KenPom. They're dangerous from beyond th
 
 - **2-Point Shooting:** 54.9% (Rank: #73)
 - **3-Point Shooting:** 36.6% (Rank: #46)
-- **Free Throw Shooting:** 74.7% (Rank: #99)
+- **Free Throw Shooting:** 74.7% (Rank: #98)
 - **3-Point Rate:** 45.1% (Rank: #64)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 49.0% (Rank: #84)
-- **Opponent 3-Point Shooting:** 34.8% (Rank: #227)
+- **Opponent 2-Point Shooting:** 49.0% (Rank: #85)
+- **Opponent 3-Point Shooting:** 34.8% (Rank: #226)
 - **Block Percentage:** 10.8% (Rank: #105)
-- **Steal Rate:** 0.1% (Rank: #79)
+- **Steal Rate:** 0.1% (Rank: #80)
 
 ### Team Metrics
 
@@ -110,21 +110,21 @@ VCU Rams comes in ranked #48 overall by KenPom. They're dangerous from beyond th
 
 ## Fordham Rams
 
-Fordham Rams comes in ranked #175 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
+Fordham Rams comes in ranked #177 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
 
 ### Record & Ranking
 - **Record:** 12-10
 - **Head Coach:** Mike Magpayo
 - **Home Arena:** Rose Hill Gym
-- **KenPom Rank:** #175
-- **Offensive Efficiency:** 105.6 (Rank: #227)
+- **KenPom Rank:** #177
+- **Offensive Efficiency:** 105.6 (Rank: #226)
 - **Defensive Efficiency:** 102.4 (Rank: #67)
-- **Tempo:** 64.8 (Rank: #340)
+- **Tempo:** 64.8 (Rank: #339)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 53.2% (Rank: #121)
-- **3-Point Shooting:** 28.3% (Rank: #356)
+- **3-Point Shooting:** 28.3% (Rank: #357)
 - **Free Throw Shooting:** 70.5% (Rank: #244)
 - **3-Point Rate:** 37.5% (Rank: #224)
 
@@ -139,6 +139,6 @@ Fordham Rams comes in ranked #175 overall by KenPom. The three-point shot hasn't
 
 - **Assist Rate:** 50.2% (Rank: #249)
 - **Experience:** 1.9 years (Rank: #78)
-- **Bench Minutes:** 29.2% (Rank: #265)
+- **Bench Minutes:** 29.2% (Rank: #264)
 - **Average Height:** 77.8" (Rank: #120)
 

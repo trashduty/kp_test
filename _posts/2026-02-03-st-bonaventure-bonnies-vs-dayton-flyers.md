@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **St. Bonaventure Bonnies**: 9.5, Edge For Covering Spread: -0.8%
-- **Dayton Flyers**: -9.5, Edge For Covering Spread: -4.0%
+- **St. Bonaventure Bonnies**: 9.5, Edge For Covering Spread: -1.3%
+- **Dayton Flyers**: -9.5, Edge For Covering Spread: -3.4%
 
 ### Moneyline
 - **St. Bonaventure Bonnies Win Probability**: 19.4%, Moneyline Edge: -1.0%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 146.5
-- Edge For Covering The Over: -1.2%
-- Edge For Covering The Under: -3.5%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 
@@ -52,7 +52,7 @@ A spread around 9.5 points tells us Dayton Flyers has clear advantages, but game
 Meanwhile, **Dayton Flyers** counter with 108.91 offensive efficiency (#166). Points have been hard to come by, making every possession critical. At 32.7% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-St. Bonaventure Bonnies operate at a 68.0 tempo (#224), while Dayton Flyers play at 69.2 (#158). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 68.6) should create a standard flow. 
+St. Bonaventure Bonnies operate at a 68.0 tempo (#223), while Dayton Flyers play at 69.2 (#157). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 68.6) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, St. Bonaventure Bonnies shoot 50.6% on two-pointers, while Dayton Flyers convert at 54.1%. Both teams are evenly matched in paint efficiency. 
@@ -73,7 +73,7 @@ Dayton Flyers features a middle-of-the-pack offense (ranked #166) that should fi
 
 ## St. Bonaventure Bonnies
 
-St. Bonaventure Bonnies comes in ranked #150 overall by KenPom. They're dangerous from beyond the arc, shooting 37.5% from three (ranked #24 nationally), so expect them to let it fly from deep. 
+St. Bonaventure Bonnies comes in ranked #150 overall by KenPom. They're dangerous from beyond the arc, shooting 37.5% from three (ranked #25 nationally), so expect them to let it fly from deep. 
 
 ### Record & Ranking
 - **Record:** 13-9
@@ -81,12 +81,12 @@ St. Bonaventure Bonnies comes in ranked #150 overall by KenPom. They're dangerou
 - **KenPom Rank:** #150
 - **Offensive Efficiency:** 112.9 (Rank: #92)
 - **Defensive Efficiency:** 110.6 (Rank: #244)
-- **Tempo:** 68.0 (Rank: #224)
+- **Tempo:** 68.0 (Rank: #223)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 50.6% (Rank: #214)
-- **3-Point Shooting:** 37.5% (Rank: #24)
+- **2-Point Shooting:** 50.6% (Rank: #213)
+- **3-Point Shooting:** 37.5% (Rank: #25)
 - **Free Throw Shooting:** 75.9% (Rank: #62)
 - **3-Point Rate:** 31.2% (Rank: #340)
 
@@ -95,7 +95,7 @@ St. Bonaventure Bonnies comes in ranked #150 overall by KenPom. They're dangerou
 - **Opponent 2-Point Shooting:** 54.2% (Rank: #275)
 - **Opponent 3-Point Shooting:** 36.3% (Rank: #301)
 - **Block Percentage:** 12.3% (Rank: #57)
-- **Steal Rate:** 0.1% (Rank: #89)
+- **Steal Rate:** 0.1% (Rank: #90)
 
 ### Team Metrics
 
@@ -116,26 +116,26 @@ Dayton Flyers comes in ranked #88 overall by KenPom. Their defense has been a ca
 - **Home Arena:** University of Dayton Arena
 - **KenPom Rank:** #88
 - **Offensive Efficiency:** 108.9 (Rank: #166)
-- **Defensive Efficiency:** 100.4 (Rank: #38)
-- **Tempo:** 69.2 (Rank: #158)
+- **Defensive Efficiency:** 100.4 (Rank: #39)
+- **Tempo:** 69.2 (Rank: #157)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 54.1% (Rank: #96)
-- **3-Point Shooting:** 32.7% (Rank: #236)
+- **3-Point Shooting:** 32.7% (Rank: #238)
 - **Free Throw Shooting:** 75.4% (Rank: #74)
 - **3-Point Rate:** 41.8% (Rank: #141)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 48.8% (Rank: #74)
-- **Opponent 3-Point Shooting:** 36.6% (Rank: #312)
+- **Opponent 3-Point Shooting:** 36.6% (Rank: #311)
 - **Block Percentage:** 13.4% (Rank: #28)
 - **Steal Rate:** 0.1% (Rank: #12)
 
 ### Team Metrics
 
-- **Assist Rate:** 57.9% (Rank: #63)
+- **Assist Rate:** 57.9% (Rank: #62)
 - **Experience:** 2.4 years (Rank: #26)
 - **Bench Minutes:** 31.0% (Rank: #224)
 - **Average Height:** 77.3" (Rank: #190)

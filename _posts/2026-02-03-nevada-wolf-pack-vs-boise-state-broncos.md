@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Boise State Broncos -5.5</p>
-  <p><strong>Moneyline:</strong> Nevada Wolf Pack (+215) | Boise State Broncos (-260)</p>
+  <p><strong>Moneyline:</strong> Nevada Wolf Pack (+210) | Boise State Broncos (-250)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Boise State Broncos**: -5.5, Edge For Covering Spread: -5.7%
 
 ### Moneyline
-- **Nevada Wolf Pack Win Probability**: 34.3%, Moneyline Edge: **2.5%**
-- **Boise State Broncos Win Probability**: 65.7%, Moneyline Edge: -6.5%
+- **Nevada Wolf Pack Win Probability**: 34.6%, Moneyline Edge: **2.3%**
+- **Boise State Broncos Win Probability**: 65.4%, Moneyline Edge: -6.0%
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: -5.0%
-- Edge For Covering The Under: **0.3%**
+- Edge For Covering The Over: -4.5%
+- Edge For Covering The Under: -0.3%
 
 ---
 
@@ -52,7 +52,7 @@ The 5.5-point spread indicates Boise State Broncos is viewed as the better team,
 Meanwhile, **Boise State Broncos** counter with 110.96 offensive efficiency (#117). They're competent on offense without being spectacular. At 34.0% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Nevada Wolf Pack operate at a 66.3 tempo (#299), while Boise State Broncos play at 67.6 (#237). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.9) means fewer possessions, making each one more valuable. 
+Nevada Wolf Pack operate at a 66.3 tempo (#298), while Boise State Broncos play at 67.6 (#237). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.9) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Nevada Wolf Pack shoot 46.2% on two-pointers, while Boise State Broncos convert at 51.2%. Boise State Broncos has a clear edge in interior scoring efficiency. 
@@ -80,8 +80,8 @@ Nevada Wolf Pack comes in ranked #56 overall by KenPom. They're dangerous from b
 - **Head Coach:** Steve Alford
 - **KenPom Rank:** #56
 - **Offensive Efficiency:** 115.3 (Rank: #70)
-- **Defensive Efficiency:** 105.6 (Rank: #117)
-- **Tempo:** 66.3 (Rank: #299)
+- **Defensive Efficiency:** 105.6 (Rank: #119)
+- **Tempo:** 66.3 (Rank: #298)
 
 ### Shooting Breakdown
 
@@ -95,7 +95,7 @@ Nevada Wolf Pack comes in ranked #56 overall by KenPom. They're dangerous from b
 - **Opponent 2-Point Shooting:** 50.0% (Rank: #115)
 - **Opponent 3-Point Shooting:** 34.0% (Rank: #177)
 - **Block Percentage:** 12.9% (Rank: #39)
-- **Steal Rate:** 0.1% (Rank: #159)
+- **Steal Rate:** 0.1% (Rank: #157)
 
 ### Team Metrics
 
@@ -121,7 +121,7 @@ Boise State Broncos comes in ranked #59 overall by KenPom.
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 51.2% (Rank: #198)
+- **2-Point Shooting:** 51.2% (Rank: #197)
 - **3-Point Shooting:** 34.0% (Rank: #172)
 - **Free Throw Shooting:** 76.2% (Rank: #55)
 - **3-Point Rate:** 41.6% (Rank: #143)
@@ -135,7 +135,7 @@ Boise State Broncos comes in ranked #59 overall by KenPom.
 
 ### Team Metrics
 
-- **Assist Rate:** 52.5% (Rank: #181)
+- **Assist Rate:** 52.5% (Rank: #180)
 - **Experience:** 1.8 years (Rank: #94)
 - **Bench Minutes:** 36.3% (Rank: #92)
 - **Average Height:** 78.9" (Rank: #16)

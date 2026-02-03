@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Saint Louis Billikens**: -9.5, Edge For Covering Spread: -2.2%
-- **Davidson Wildcats**: 9.5, Edge For Covering Spread: -2.6%
+- **Saint Louis Billikens**: -9.5, Edge For Covering Spread: -2.4%
+- **Davidson Wildcats**: 9.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
 - **Saint Louis Billikens Win Probability**: 79.7%, Moneyline Edge: -4.4%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 147.0
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -52,7 +52,7 @@ A spread around 9.5 points tells us Saint Louis Billikens has clear advantages, 
 Meanwhile, **Davidson Wildcats** counter with 108.88 offensive efficiency (#169). Points have been hard to come by, making every possession critical. They're lethal from beyond the arc at 37.0%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-Saint Louis Billikens operate at a 73.1 tempo (#21), while Davidson Wildcats play at 64.1 (#354). Saint Louis Billikens want to run, but Davidson Wildcats prefer to slow things down. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 68.6) should create a standard flow. 
+Saint Louis Billikens operate at a 73.1 tempo (#21), while Davidson Wildcats play at 64.1 (#353). Saint Louis Billikens want to run, but Davidson Wildcats prefer to slow things down. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 68.6) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Saint Louis Billikens shoot 60.4% on two-pointers, while Davidson Wildcats convert at 51.7%. Saint Louis Billikens has a clear edge in interior scoring efficiency. 
@@ -68,7 +68,7 @@ This looks like a mismatch on paper with Saint Louis Billikens significantly hig
 
 **Key Matchup: Saint Louis Billikens's Offense vs Davidson Wildcats's Defense**
 
-Saint Louis Billikens bring a elite offense (ranked #6) that could exploit Davidson Wildcats's defensive vulnerabilities (ranked #114). 
+Saint Louis Billikens bring a elite offense (ranked #6) that could exploit Davidson Wildcats's defensive vulnerabilities (ranked #116). 
 
 **Pace of Play:** Saint Louis Billikens like to push the pace, while Davidson Wildcats prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
 
@@ -91,14 +91,14 @@ Saint Louis Billikens comes in ranked #25 overall by KenPom. They're dangerous f
 
 - **2-Point Shooting:** 60.4% (Rank: #6)
 - **3-Point Shooting:** 41.1% (Rank: #3)
-- **Free Throw Shooting:** 73.6% (Rank: #139)
+- **Free Throw Shooting:** 73.6% (Rank: #140)
 - **3-Point Rate:** 44.8% (Rank: #71)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 43.3% (Rank: #3)
 - **Opponent 3-Point Shooting:** 27.7% (Rank: #4)
-- **Block Percentage:** 8.0% (Rank: #263)
+- **Block Percentage:** 8.0% (Rank: #264)
 - **Steal Rate:** 0.1% (Rank: #136)
 
 ### Team Metrics
@@ -120,8 +120,8 @@ Davidson Wildcats comes in ranked #107 overall by KenPom.
 - **Home Arena:** Belk Arena
 - **KenPom Rank:** #107
 - **Offensive Efficiency:** 108.9 (Rank: #169)
-- **Defensive Efficiency:** 105.3 (Rank: #114)
-- **Tempo:** 64.1 (Rank: #354)
+- **Defensive Efficiency:** 105.3 (Rank: #116)
+- **Tempo:** 64.1 (Rank: #353)
 
 ### Shooting Breakdown
 
@@ -135,11 +135,11 @@ Davidson Wildcats comes in ranked #107 overall by KenPom.
 - **Opponent 2-Point Shooting:** 53.4% (Rank: #253)
 - **Opponent 3-Point Shooting:** 31.9% (Rank: #75)
 - **Block Percentage:** 10.8% (Rank: #102)
-- **Steal Rate:** 0.1% (Rank: #112)
+- **Steal Rate:** 0.1% (Rank: #113)
 
 ### Team Metrics
 
-- **Assist Rate:** 52.3% (Rank: #193)
+- **Assist Rate:** 52.3% (Rank: #192)
 - **Experience:** 1.4 years (Rank: #187)
 - **Bench Minutes:** 41.4% (Rank: #20)
 - **Average Height:** 77.7" (Rank: #133)

@@ -49,7 +49,7 @@ A spread around 9.5 points tells us St. John's Red Storm has clear advantages, b
 
 #### Offensive Firepower
 **St. John's Red Storm** bring an offensive efficiency of 118.28 (ranked #39 nationally). This is an elite offense that can score in multiple ways. Their 35.8% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **DePaul Blue Demons** counter with 105.96 offensive efficiency (#220). Points have been hard to come by, making every possession critical. At 34.2% from three, they have adequate spacing but must pick their spots. 
+Meanwhile, **DePaul Blue Demons** counter with 105.96 offensive efficiency (#221). Points have been hard to come by, making every possession critical. At 34.2% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
 St. John's Red Storm operate at a 72.2 tempo (#35), while DePaul Blue Demons play at 68.3 (#214). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.3) should create a standard flow. 
@@ -68,7 +68,7 @@ This looks like a mismatch on paper with St. John's Red Storm significantly high
 
 **Key Matchup: St. John's Red Storm's Defense vs DePaul Blue Demons's Offense**
 
-St. John's Red Storm's stingy defense (ranked #44) will look to frustrate DePaul Blue Demons's offense, which has struggled at times this season. 
+St. John's Red Storm's stingy defense (ranked #45) will look to frustrate DePaul Blue Demons's offense, which has struggled at times this season. 
 
 
 ## St. John's Red Storm
@@ -80,20 +80,20 @@ St. John's Red Storm comes in ranked #22 overall by KenPom. They boast one of th
 - **Head Coach:** Rick Pitino
 - **KenPom Rank:** #22
 - **Offensive Efficiency:** 118.3 (Rank: #39)
-- **Defensive Efficiency:** 100.8 (Rank: #44)
+- **Defensive Efficiency:** 100.8 (Rank: #45)
 - **Tempo:** 72.2 (Rank: #35)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 52.7% (Rank: #143)
+- **2-Point Shooting:** 52.7% (Rank: #142)
 - **3-Point Shooting:** 35.8% (Rank: #77)
-- **Free Throw Shooting:** 73.2% (Rank: #157)
+- **Free Throw Shooting:** 73.2% (Rank: #158)
 - **3-Point Rate:** 34.6% (Rank: #287)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 47.3% (Rank: #39)
-- **Opponent 3-Point Shooting:** 33.5% (Rank: #159)
+- **Opponent 3-Point Shooting:** 33.5% (Rank: #158)
 - **Block Percentage:** 13.0% (Rank: #33)
 - **Steal Rate:** 0.1% (Rank: #67)
 
@@ -102,7 +102,7 @@ St. John's Red Storm comes in ranked #22 overall by KenPom. They boast one of th
 - **Assist Rate:** 55.5% (Rank: #104)
 - **Experience:** 2.2 years (Rank: #38)
 - **Bench Minutes:** 32.5% (Rank: #184)
-- **Average Height:** 78.3" (Rank: #56)
+- **Average Height:** 78.3" (Rank: #57)
 
 ---
 
@@ -115,22 +115,22 @@ DePaul Blue Demons comes in ranked #104 overall by KenPom.
 - **Head Coach:** Chris Holtmann
 - **Home Arena:** Wintrust Arena
 - **KenPom Rank:** #104
-- **Offensive Efficiency:** 106.0 (Rank: #220)
+- **Offensive Efficiency:** 106.0 (Rank: #221)
 - **Defensive Efficiency:** 102.0 (Rank: #61)
 - **Tempo:** 68.3 (Rank: #214)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 51.4% (Rank: #185)
-- **3-Point Shooting:** 34.2% (Rank: #162)
-- **Free Throw Shooting:** 69.7% (Rank: #271)
+- **3-Point Shooting:** 34.2% (Rank: #163)
+- **Free Throw Shooting:** 69.7% (Rank: #270)
 - **3-Point Rate:** 40.1% (Rank: #172)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 46.6% (Rank: #30)
-- **Opponent 3-Point Shooting:** 34.9% (Rank: #232)
-- **Block Percentage:** 9.8% (Rank: #155)
+- **Opponent 3-Point Shooting:** 34.9% (Rank: #231)
+- **Block Percentage:** 9.8% (Rank: #154)
 - **Steal Rate:** 0.1% (Rank: #168)
 
 ### Team Metrics

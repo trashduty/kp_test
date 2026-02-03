@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Belmont Bruins -10.5</p>
-  <p><strong>Moneyline:</strong> Drake Bulldogs (+520) | Belmont Bruins (-750)</p>
+  <p><strong>Moneyline:</strong> Drake Bulldogs (+500) | Belmont Bruins (-720)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Belmont Bruins**: -10.5, Edge For Covering Spread: **1.6%**
 
 ### Moneyline
-- **Drake Bulldogs Win Probability**: 14.2%, Moneyline Edge: -1.9%
-- **Belmont Bruins Win Probability**: 85.8%, Moneyline Edge: -2.5%
+- **Drake Bulldogs Win Probability**: 14.5%, Moneyline Edge: -2.2%
+- **Belmont Bruins Win Probability**: 85.5%, Moneyline Edge: -2.3%
 
 ### Total
-- **Predicted Total**: 154.0
-- Edge For Covering The Over: -1.9%
-- Edge For Covering The Under: -2.9%
+- **Predicted Total**: 153.5
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -3.7%
 
 ---
 
@@ -73,12 +73,12 @@ Belmont Bruins features a very strong offense (ranked #50) that should find succ
 
 ## Drake Bulldogs
 
-Drake Bulldogs comes in ranked #177 overall by KenPom. 
+Drake Bulldogs comes in ranked #176 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 12-11
 - **Head Coach:** Eric Henderson
-- **KenPom Rank:** #177
+- **KenPom Rank:** #176
 - **Offensive Efficiency:** 109.5 (Rank: #152)
 - **Defensive Efficiency:** 108.6 (Rank: #199)
 - **Tempo:** 68.3 (Rank: #210)
@@ -87,7 +87,7 @@ Drake Bulldogs comes in ranked #177 overall by KenPom.
 
 - **2-Point Shooting:** 51.4% (Rank: #186)
 - **3-Point Shooting:** 34.6% (Rank: #139)
-- **Free Throw Shooting:** 71.4% (Rank: #210)
+- **Free Throw Shooting:** 71.4% (Rank: #209)
 - **3-Point Rate:** 45.2% (Rank: #62)
 
 ### Defensive Stats
@@ -95,7 +95,7 @@ Drake Bulldogs comes in ranked #177 overall by KenPom.
 - **Opponent 2-Point Shooting:** 50.1% (Rank: #121)
 - **Opponent 3-Point Shooting:** 35.3% (Rank: #253)
 - **Block Percentage:** 8.7% (Rank: #226)
-- **Steal Rate:** 0.1% (Rank: #265)
+- **Steal Rate:** 0.1% (Rank: #264)
 
 ### Team Metrics
 
@@ -116,7 +116,7 @@ Belmont Bruins comes in ranked #57 overall by KenPom. They're dangerous from bey
 - **Home Arena:** Curb Event Center
 - **KenPom Rank:** #57
 - **Offensive Efficiency:** 117.2 (Rank: #50)
-- **Defensive Efficiency:** 101.8 (Rank: #58)
+- **Defensive Efficiency:** 101.8 (Rank: #57)
 - **Tempo:** 70.4 (Rank: #106)
 
 ### Shooting Breakdown

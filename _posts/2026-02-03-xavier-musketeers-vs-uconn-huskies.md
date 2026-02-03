@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 147.0
-- Edge For Covering The Over: -4.6%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -1.1%
 
 ---
 
@@ -91,7 +91,7 @@ Xavier Musketeers comes in ranked #93 overall by KenPom. They're dangerous from 
 
 - **2-Point Shooting:** 49.3% (Rank: #266)
 - **3-Point Shooting:** 36.3% (Rank: #61)
-- **Free Throw Shooting:** 71.2% (Rank: #224)
+- **Free Throw Shooting:** 71.2% (Rank: #223)
 - **3-Point Rate:** 41.7% (Rank: #142)
 
 ### Defensive Stats
@@ -127,7 +127,7 @@ UConn Huskies comes in ranked #10 overall by KenPom. On the defensive end, they'
 
 - **2-Point Shooting:** 55.9% (Rank: #58)
 - **3-Point Shooting:** 36.3% (Rank: #54)
-- **Free Throw Shooting:** 70.3% (Rank: #251)
+- **Free Throw Shooting:** 70.3% (Rank: #250)
 - **3-Point Rate:** 38.1% (Rank: #217)
 
 ### Defensive Stats

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Texas Longhorns -12.5</p>
-  <p><strong>Moneyline:</strong> South Carolina Gamecocks (+590) | Texas Longhorns (-900)</p>
+  <p><strong>Moneyline:</strong> South Carolina Gamecocks (+600) | Texas Longhorns (-900)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Texas Longhorns**: -12.5, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **South Carolina Gamecocks Win Probability**: 14.4%, Moneyline Edge: -0.1%
-- **Texas Longhorns Win Probability**: 85.6%, Moneyline Edge: -4.4%
+- **South Carolina Gamecocks Win Probability**: 14.3%, Moneyline Edge: **0.1%**
+- **Texas Longhorns Win Probability**: 85.7%, Moneyline Edge: -4.3%
 
 ### Total
-- **Predicted Total**: 151.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- **Predicted Total**: 150.5
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -4.4%
 
 ---
 
@@ -68,7 +68,7 @@ This looks like a mismatch on paper with Texas Longhorns significantly higher in
 
 **Key Matchup: South Carolina Gamecocks's Offense vs Texas Longhorns's Defense**
 
-South Carolina Gamecocks bring a middle-of-the-pack offense (ranked #108) that could exploit Texas Longhorns's defensive vulnerabilities (ranked #179). 
+South Carolina Gamecocks bring a middle-of-the-pack offense (ranked #108) that could exploit Texas Longhorns's defensive vulnerabilities (ranked #178). 
 
 
 ## South Carolina Gamecocks
@@ -80,19 +80,19 @@ South Carolina Gamecocks comes in ranked #87 overall by KenPom. The three-point 
 - **Head Coach:** Lamont Paris
 - **KenPom Rank:** #87
 - **Offensive Efficiency:** 111.9 (Rank: #108)
-- **Defensive Efficiency:** 107.9 (Rank: #177)
+- **Defensive Efficiency:** 107.9 (Rank: #176)
 - **Tempo:** 68.1 (Rank: #221)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 55.2% (Rank: #70)
-- **3-Point Shooting:** 31.7% (Rank: #282)
+- **3-Point Shooting:** 31.7% (Rank: #281)
 - **Free Throw Shooting:** 78.5% (Rank: #12)
 - **3-Point Rate:** 45.3% (Rank: #60)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.3% (Rank: #210)
+- **Opponent 2-Point Shooting:** 52.3% (Rank: #211)
 - **Opponent 3-Point Shooting:** 30.9% (Rank: #52)
 - **Block Percentage:** 6.2% (Rank: #338)
 - **Steal Rate:** 0.1% (Rank: #295)
@@ -101,7 +101,7 @@ South Carolina Gamecocks comes in ranked #87 overall by KenPom. The three-point 
 
 - **Assist Rate:** 53.5% (Rank: #158)
 - **Experience:** 2.4 years (Rank: #18)
-- **Bench Minutes:** 33.3% (Rank: #157)
+- **Bench Minutes:** 33.3% (Rank: #156)
 - **Average Height:** 77.8" (Rank: #113)
 
 ---
@@ -116,15 +116,15 @@ Texas Longhorns comes in ranked #34 overall by KenPom. They boast one of the nat
 - **Home Arena:** Moody Center
 - **KenPom Rank:** #34
 - **Offensive Efficiency:** 120.7 (Rank: #22)
-- **Defensive Efficiency:** 108.0 (Rank: #179)
+- **Defensive Efficiency:** 108.0 (Rank: #178)
 - **Tempo:** 68.9 (Rank: #185)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 57.7% (Rank: #33)
 - **3-Point Shooting:** 34.0% (Rank: #172)
-- **Free Throw Shooting:** 73.9% (Rank: #124)
-- **3-Point Rate:** 38.8% (Rank: #203)
+- **Free Throw Shooting:** 73.9% (Rank: #125)
+- **3-Point Rate:** 38.8% (Rank: #202)
 
 ### Defensive Stats
 

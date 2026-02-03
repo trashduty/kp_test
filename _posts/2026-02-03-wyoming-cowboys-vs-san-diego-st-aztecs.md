@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> San Diego St Aztecs -11.5</p>
-  <p><strong>Moneyline:</strong> Wyoming Cowboys (+550) | San Diego St Aztecs (-880)</p>
+  <p><strong>Moneyline:</strong> Wyoming Cowboys (+550) | San Diego St Aztecs (-900)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wyoming Cowboys**: 11.5, Edge For Covering Spread: -5.0%
-- **San Diego St Aztecs**: -11.5, Edge For Covering Spread: **0.2%**
+- **Wyoming Cowboys**: 11.5, Edge For Covering Spread: -4.6%
+- **San Diego St Aztecs**: -11.5, Edge For Covering Spread: -0.1%
 
 ### Moneyline
 - **Wyoming Cowboys Win Probability**: 14.3%, Moneyline Edge: -1.1%
-- **San Diego St Aztecs Win Probability**: 85.7%, Moneyline Edge: -4.1%
+- **San Diego St Aztecs Win Probability**: 85.7%, Moneyline Edge: -4.3%
 
 ### Total
-- **Predicted Total**: 141.5
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.2%
+- **Predicted Total**: 142.0
+- Edge For Covering The Over: -3.1%
+- Edge For Covering The Under: -3.1%
 
 ---
 
@@ -52,7 +52,7 @@ A spread around 11.5 points tells us San Diego St Aztecs has clear advantages, b
 Meanwhile, **San Diego St Aztecs** counter with 108.78 offensive efficiency (#172). Points have been hard to come by, making every possession critical. They're lethal from beyond the arc at 37.0%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-Wyoming Cowboys operate at a 68.4 tempo (#206), while San Diego St Aztecs play at 69.7 (#138). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.0) should create a standard flow. 
+Wyoming Cowboys operate at a 68.4 tempo (#206), while San Diego St Aztecs play at 69.7 (#139). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.0) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Wyoming Cowboys shoot 54.4% on two-pointers, while San Diego St Aztecs convert at 52.2%. Both teams are evenly matched in paint efficiency. 
@@ -86,16 +86,16 @@ Wyoming Cowboys comes in ranked #106 overall by KenPom.
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 54.4% (Rank: #91)
-- **3-Point Shooting:** 33.0% (Rank: #225)
-- **Free Throw Shooting:** 74.5% (Rank: #105)
-- **3-Point Rate:** 42.3% (Rank: #132)
+- **3-Point Shooting:** 33.0% (Rank: #226)
+- **Free Throw Shooting:** 74.5% (Rank: #104)
+- **3-Point Rate:** 42.3% (Rank: #131)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 52.1% (Rank: #202)
-- **Opponent 3-Point Shooting:** 32.4% (Rank: #97)
-- **Block Percentage:** 8.0% (Rank: #258)
-- **Steal Rate:** 0.1% (Rank: #153)
+- **Opponent 3-Point Shooting:** 32.4% (Rank: #98)
+- **Block Percentage:** 8.0% (Rank: #260)
+- **Steal Rate:** 0.1% (Rank: #152)
 
 ### Team Metrics
 
@@ -117,7 +117,7 @@ San Diego St Aztecs comes in ranked #43 overall by KenPom. They're dangerous fro
 - **KenPom Rank:** #43
 - **Offensive Efficiency:** 108.8 (Rank: #172)
 - **Defensive Efficiency:** 98.9 (Rank: #28)
-- **Tempo:** 69.7 (Rank: #138)
+- **Tempo:** 69.7 (Rank: #139)
 
 ### Shooting Breakdown
 
@@ -129,7 +129,7 @@ San Diego St Aztecs comes in ranked #43 overall by KenPom. They're dangerous fro
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 47.2% (Rank: #36)
-- **Opponent 3-Point Shooting:** 32.6% (Rank: #112)
+- **Opponent 3-Point Shooting:** 32.6% (Rank: #113)
 - **Block Percentage:** 14.8% (Rank: #14)
 - **Steal Rate:** 0.1% (Rank: #43)
 
