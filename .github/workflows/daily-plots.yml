@@ -111,6 +111,11 @@ jobs:
         NOT_CRAN: true
         ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
     
+    - name: Copy plots to docs directory
+      run: |
+        mkdir -p docs/plots/conferences
+        cp -r plots/* docs/plots/
+    
     - name: Commit and push changes
       run: |
         git config --global user.name "github-actions[bot]"
