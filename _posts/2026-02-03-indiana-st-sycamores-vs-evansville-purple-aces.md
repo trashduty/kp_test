@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Indiana St Sycamores -1.5</p>
-  <p><strong>Moneyline:</strong> Indiana St Sycamores (-125) | Evansville Purple Aces (+104)</p>
+  <p><strong>Moneyline:</strong> Indiana St Sycamores (-125) | Evansville Purple Aces (+105)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Indiana St Sycamores**: -1.5, Edge For Covering Spread: -1.5%
-- **Evansville Purple Aces**: 1.5, Edge For Covering Spread: -3.3%
+- **Indiana St Sycamores**: -1.5, Edge For Covering Spread: -1.2%
+- **Evansville Purple Aces**: 1.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Indiana St Sycamores Win Probability**: 53.1%, Moneyline Edge: -2.5%
-- **Evansville Purple Aces Win Probability**: 46.9%, Moneyline Edge: -2.0%
+- **Indiana St Sycamores Win Probability**: 53.1%, Moneyline Edge: -2.4%
+- **Evansville Purple Aces Win Probability**: 46.9%, Moneyline Edge: -1.9%
 
 ### Total
-- **Predicted Total**: 143.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 145.0
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.3%
 
 ---
 

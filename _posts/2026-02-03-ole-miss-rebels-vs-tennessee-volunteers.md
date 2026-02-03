@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tennessee Volunteers -11.5</p>
-  <p><strong>Moneyline:</strong> Ole Miss Rebels (+580) | Tennessee Volunteers (-880)</p>
+  <p><strong>Moneyline:</strong> Ole Miss Rebels (+570) | Tennessee Volunteers (-850)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ole Miss Rebels**: 11.5, Edge For Covering Spread: -3.0%
-- **Tennessee Volunteers**: -11.5, Edge For Covering Spread: -1.8%
+- **Ole Miss Rebels**: 11.5, Edge For Covering Spread: -3.5%
+- **Tennessee Volunteers**: -11.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Ole Miss Rebels Win Probability**: 13.4%, Moneyline Edge: -1.3%
-- **Tennessee Volunteers Win Probability**: 86.6%, Moneyline Edge: -3.2%
+- **Ole Miss Rebels Win Probability**: 13.5%, Moneyline Edge: -1.4%
+- **Tennessee Volunteers Win Probability**: 86.5%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 137.5
@@ -101,7 +101,7 @@ Ole Miss Rebels comes in ranked #64 overall by KenPom.
 
 - **Assist Rate:** 51.2% (Rank: #220)
 - **Experience:** 1.6 years (Rank: #151)
-- **Bench Minutes:** 39.6% (Rank: #36)
+- **Bench Minutes:** 39.6% (Rank: #35)
 - **Average Height:** 77.6" (Rank: #149)
 
 ---

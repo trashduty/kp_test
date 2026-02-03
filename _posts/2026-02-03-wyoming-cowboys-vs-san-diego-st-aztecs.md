@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> San Diego St Aztecs -11.5</p>
-  <p><strong>Moneyline:</strong> Wyoming Cowboys (+590) | San Diego St Aztecs (-937)</p>
+  <p><strong>Moneyline:</strong> Wyoming Cowboys (+550) | San Diego St Aztecs (-880)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wyoming Cowboys**: 11.5, Edge For Covering Spread: -2.9%
-- **San Diego St Aztecs**: -11.5, Edge For Covering Spread: -1.8%
+- **Wyoming Cowboys**: 11.5, Edge For Covering Spread: -5.0%
+- **San Diego St Aztecs**: -11.5, Edge For Covering Spread: **0.2%**
 
 ### Moneyline
-- **Wyoming Cowboys Win Probability**: 13.9%, Moneyline Edge: -0.6%
-- **San Diego St Aztecs Win Probability**: 86.1%, Moneyline Edge: -4.3%
+- **Wyoming Cowboys Win Probability**: 14.3%, Moneyline Edge: -1.1%
+- **San Diego St Aztecs Win Probability**: 85.7%, Moneyline Edge: -4.1%
 
 ### Total
 - **Predicted Total**: 141.5
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 

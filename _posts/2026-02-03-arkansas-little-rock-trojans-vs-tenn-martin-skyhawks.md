@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Tenn-Martin Skyhawks -8.5</p>
-  <p><strong>Moneyline:</strong> Arkansas-Little Rock Trojans (+340) | Tenn-Martin Skyhawks (-450)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Tenn-Martin Skyhawks -7.5</p>
+  <p><strong>Moneyline:</strong> Arkansas-Little Rock Trojans (+245) | Tenn-Martin Skyhawks (-307)</p>
+  <p><strong>Total:</strong> 136.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arkansas-Little Rock Trojans**: 8.5, Edge For Covering Spread: -4.1%
-- **Tenn-Martin Skyhawks**: -8.5, Edge For Covering Spread: -0.6%
+- **Arkansas-Little Rock Trojans**: 7.5, Edge For Covering Spread: -5.2%
+- **Tenn-Martin Skyhawks**: -7.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Arkansas-Little Rock Trojans Win Probability**: 21.4%, Moneyline Edge: -1.4%
-- **Tenn-Martin Skyhawks Win Probability**: 78.6%, Moneyline Edge: -3.2%
+- **Arkansas-Little Rock Trojans Win Probability**: 24.4%, Moneyline Edge: -4.6%
+- **Tenn-Martin Skyhawks Win Probability**: 75.6%, Moneyline Edge: **0.2%**
 
 ### Total
-- **Predicted Total**: 137.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- **Predicted Total**: 136.5
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Tenn-Martin Skyhawks (17-5) hosts Arkansas-Little Rock Trojans (9-13) at Elam Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Tenn-Martin Skyhawks favored by 8.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Tenn-Martin Skyhawks (17-5) hosts Arkansas-Little Rock Trojans (9-13) at Elam Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Tenn-Martin Skyhawks favored by 7.5 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Tenn-Martin Skyhawks has clear advantages, but games aren't played on paper. Arkansas-Little Rock Trojans needs to punch above their weight class to keep this close. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us Tenn-Martin Skyhawks has clear advantages, but games aren't played on paper. Arkansas-Little Rock Trojans needs to punch above their weight class to keep this close. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Arkansas-Little Rock Trojans** bring an offensive efficiency of 101.72 (ranked #288 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.8% three-point shooting is serviceable but won't scare anyone. 
@@ -137,7 +137,7 @@ Tenn-Martin Skyhawks comes in ranked #192 overall by KenPom. The three-point sho
 
 ### Team Metrics
 
-- **Assist Rate:** 55.6% (Rank: #100)
+- **Assist Rate:** 55.6% (Rank: #101)
 - **Experience:** 0.6 years (Rank: #345)
 - **Bench Minutes:** 35.0% (Rank: #118)
 - **Average Height:** 78.4" (Rank: #48)

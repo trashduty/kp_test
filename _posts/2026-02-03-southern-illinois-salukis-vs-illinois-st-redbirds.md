@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Illinois St Redbirds -7.5</p>
-  <p><strong>Moneyline:</strong> Southern Illinois Salukis (+295) | Illinois St Redbirds (-382)</p>
+  <p><strong>Moneyline:</strong> Southern Illinois Salukis (+290) | Illinois St Redbirds (-375)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Illinois St Redbirds**: -7.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Southern Illinois Salukis Win Probability**: 21.7%, Moneyline Edge: -3.7%
-- **Illinois St Redbirds Win Probability**: 78.3%, Moneyline Edge: -0.9%
+- **Southern Illinois Salukis Win Probability**: 21.8%, Moneyline Edge: -3.8%
+- **Illinois St Redbirds Win Probability**: 78.2%, Moneyline Edge: -0.8%
 
 ### Total
-- **Predicted Total**: 141.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 141.5
+- Edge For Covering The Over: -4.5%
+- Edge For Covering The Under: -0.3%
 
 ---
 
@@ -94,7 +94,7 @@ Southern Illinois Salukis comes in ranked #128 overall by KenPom. The three-poin
 
 - **Opponent 2-Point Shooting:** 51.5% (Rank: #179)
 - **Opponent 3-Point Shooting:** 30.4% (Rank: #42)
-- **Block Percentage:** 10.0% (Rank: #138)
+- **Block Percentage:** 10.0% (Rank: #139)
 - **Steal Rate:** 0.1% (Rank: #77)
 
 ### Team Metrics
@@ -130,7 +130,7 @@ Illinois St Redbirds comes in ranked #83 overall by KenPom. Their defense has be
 
 - **Opponent 2-Point Shooting:** 48.5% (Rank: #68)
 - **Opponent 3-Point Shooting:** 31.9% (Rank: #78)
-- **Block Percentage:** 6.2% (Rank: #337)
+- **Block Percentage:** 6.4% (Rank: #334)
 - **Steal Rate:** 0.1% (Rank: #244)
 
 ### Team Metrics

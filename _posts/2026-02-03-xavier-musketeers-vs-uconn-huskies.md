@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UConn Huskies -18.0</p>
+  <p><strong>Spread:</strong> UConn Huskies -17.5</p>
   <p><strong>Moneyline:</strong> Xavier Musketeers (+1280) | UConn Huskies (-3500)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Xavier Musketeers**: 18.0, Edge For Covering Spread: -2.4%
-- **UConn Huskies**: -18.0, Edge For Covering Spread: -2.4%
+- **Xavier Musketeers**: 17.5, Edge For Covering Spread: -4.5%
+- **UConn Huskies**: -17.5, Edge For Covering Spread: -0.2%
 
 ### Moneyline
 - **Xavier Musketeers Win Probability**: 5.5%, Moneyline Edge: -1.8%
 - **UConn Huskies Win Probability**: 94.5%, Moneyline Edge: -2.7%
 
 ### Total
-- **Predicted Total**: 147.5
-- Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -1.1%
+- **Predicted Total**: 147.0
+- Edge For Covering The Over: -4.6%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UConn Huskies (21-1) hosts Xavier Musketeers (12-10) at Gampel Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UConn Huskies favored by 18.0 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UConn Huskies (21-1) hosts Xavier Musketeers (12-10) at Gampel Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UConn Huskies favored by 17.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 18.0-point spread screams mismatch. The books are asking Xavier Musketeers to hang within two possessions, which based on the profiles, requires UConn Huskies to play below their standard. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 17.5-point spread screams mismatch. The books are asking Xavier Musketeers to hang within two possessions, which based on the profiles, requires UConn Huskies to play below their standard. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Xavier Musketeers** bring an offensive efficiency of 107.74 (ranked #182 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.3% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

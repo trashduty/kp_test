@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **Davidson Wildcats Win Probability**: 20.3%, Moneyline Edge: -0.1%
 
 ### Total
-- **Predicted Total**: 146.5
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 147.0
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

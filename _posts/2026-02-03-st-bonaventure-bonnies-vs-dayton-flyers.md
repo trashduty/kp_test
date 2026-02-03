@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Dayton Flyers -9.5</p>
-  <p><strong>Moneyline:</strong> St. Bonaventure Bonnies (+395) | Dayton Flyers (-563)</p>
+  <p><strong>Moneyline:</strong> St. Bonaventure Bonnies (+390) | Dayton Flyers (-530)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **St. Bonaventure Bonnies**: 9.5, Edge For Covering Spread: -1.9%
-- **Dayton Flyers**: -9.5, Edge For Covering Spread: -2.8%
+- **St. Bonaventure Bonnies**: 9.5, Edge For Covering Spread: -0.8%
+- **Dayton Flyers**: -9.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **St. Bonaventure Bonnies Win Probability**: 19.2%, Moneyline Edge: -1.0%
-- **Dayton Flyers Win Probability**: 80.8%, Moneyline Edge: -4.1%
+- **St. Bonaventure Bonnies Win Probability**: 19.4%, Moneyline Edge: -1.0%
+- **Dayton Flyers Win Probability**: 80.6%, Moneyline Edge: -3.5%
 
 ### Total
 - **Predicted Total**: 146.5
@@ -99,7 +99,7 @@ St. Bonaventure Bonnies comes in ranked #150 overall by KenPom. They're dangerou
 
 ### Team Metrics
 
-- **Assist Rate:** 56.1% (Rank: #93)
+- **Assist Rate:** 56.1% (Rank: #94)
 - **Experience:** 1.6 years (Rank: #150)
 - **Bench Minutes:** 21.8% (Rank: #352)
 - **Average Height:** 76.4" (Rank: #322)

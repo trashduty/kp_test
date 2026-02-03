@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Ohio Bobcats -9.5</p>
-  <p><strong>Moneyline:</strong> Western Michigan Broncos (+372) | Ohio Bobcats (-510)</p>
+  <p><strong>Moneyline:</strong> Western Michigan Broncos (+320) | Ohio Bobcats (-420)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Ohio Bobcats**: -9.5, Edge For Covering Spread: -4.4%
 
 ### Moneyline
-- **Western Michigan Broncos Win Probability**: 23.6%, Moneyline Edge: **2.4%**
-- **Ohio Bobcats Win Probability**: 76.4%, Moneyline Edge: -7.2%
+- **Western Michigan Broncos Win Probability**: 24.9%, Moneyline Edge: **1.1%**
+- **Ohio Bobcats Win Probability**: 75.1%, Moneyline Edge: -5.7%
 
 ### Total
 - **Predicted Total**: 156.0

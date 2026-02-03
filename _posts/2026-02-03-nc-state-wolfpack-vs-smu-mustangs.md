@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> NC State Wolfpack -1.5</p>
-  <p><strong>Moneyline:</strong> NC State Wolfpack (-125) | SMU Mustangs (+105)</p>
+  <p><strong>Spread:</strong> NC State Wolfpack -2.5</p>
+  <p><strong>Moneyline:</strong> NC State Wolfpack (-140) | SMU Mustangs (+118)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **NC State Wolfpack**: -1.5, Edge For Covering Spread: -5.6%
-- **SMU Mustangs**: 1.5, Edge For Covering Spread: **0.8%**
+- **NC State Wolfpack**: -2.5, Edge For Covering Spread: -6.4%
+- **SMU Mustangs**: 2.5, Edge For Covering Spread: **1.6%**
 
 ### Moneyline
-- **NC State Wolfpack Win Probability**: 51.1%, Moneyline Edge: -4.4%
-- **SMU Mustangs Win Probability**: 48.9%, Moneyline Edge: **0.1%**
+- **NC State Wolfpack Win Probability**: 52.5%, Moneyline Edge: -5.8%
+- **SMU Mustangs Win Probability**: 47.5%, Moneyline Edge: **1.6%**
 
 ### Total
 - **Predicted Total**: 161.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When NC State Wolfpack (16-6) travels to face SMU Mustangs (15-6) at Moody Coliseum, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into NC State Wolfpack favored by 1.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When NC State Wolfpack (16-6) travels to face SMU Mustangs (15-6) at Moody Coliseum, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into NC State Wolfpack favored by 2.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. NC State Wolfpack's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. NC State Wolfpack's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **NC State Wolfpack** bring an offensive efficiency of 121.06 (ranked #20 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 39.9% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -96,7 +96,7 @@ NC State Wolfpack comes in ranked #23 overall by KenPom. They're dangerous from 
 
 - **Opponent 2-Point Shooting:** 50.8% (Rank: #144)
 - **Opponent 3-Point Shooting:** 33.4% (Rank: #154)
-- **Block Percentage:** 10.2% (Rank: #133)
+- **Block Percentage:** 10.2% (Rank: #134)
 - **Steal Rate:** 0.1% (Rank: #31)
 
 ### Team Metrics
@@ -137,7 +137,7 @@ SMU Mustangs comes in ranked #36 overall by KenPom. They boast one of the nation
 
 ### Team Metrics
 
-- **Assist Rate:** 55.5% (Rank: #101)
+- **Assist Rate:** 55.5% (Rank: #102)
 - **Experience:** 2.7 years (Rank: #5)
 - **Bench Minutes:** 22.0% (Rank: #351)
 - **Average Height:** 77.9" (Rank: #98)

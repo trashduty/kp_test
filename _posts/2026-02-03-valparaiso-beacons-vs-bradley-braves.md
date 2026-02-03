@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Bradley Braves -7.5</p>
-  <p><strong>Moneyline:</strong> Valparaiso Beacons (+290) | Bradley Braves (-377)</p>
+  <p><strong>Spread:</strong> Bradley Braves -9.0</p>
+  <p><strong>Moneyline:</strong> Valparaiso Beacons (+340) | Bradley Braves (-450)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Valparaiso Beacons**: 7.5, Edge For Covering Spread: **1.0%**
-- **Bradley Braves**: -7.5, Edge For Covering Spread: -5.7%
+- **Valparaiso Beacons**: 9.0, Edge For Covering Spread: **2.1%**
+- **Bradley Braves**: -9.0, Edge For Covering Spread: -6.9%
 
 ### Moneyline
-- **Valparaiso Beacons Win Probability**: 28.7%, Moneyline Edge: **3.1%**
-- **Bradley Braves Win Probability**: 71.3%, Moneyline Edge: -7.8%
+- **Valparaiso Beacons Win Probability**: 27.4%, Moneyline Edge: **4.6%**
+- **Bradley Braves Win Probability**: 72.6%, Moneyline Edge: -9.2%
 
 ### Total
 - **Predicted Total**: 141.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Valparaiso Beacons (11-11) travels to face Bradley Braves (15-8) at Carver Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Bradley Braves favored by 7.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Valparaiso Beacons (11-11) travels to face Bradley Braves (15-8) at Carver Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Bradley Braves favored by 9.0 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us Bradley Braves has clear advantages, but games aren't played on paper. Valparaiso Beacons needs to punch above their weight class to keep this close. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 9.0 points tells us Bradley Braves has clear advantages, but games aren't played on paper. Valparaiso Beacons needs to punch above their weight class to keep this close. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Valparaiso Beacons** bring an offensive efficiency of 104.04 (ranked #250 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.6% from three, they can't rely on the arc. Expect a paint-focused attack. 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Loyola (Chi) Ramblers -1.5</p>
-  <p><strong>Moneyline:</strong> La Salle Explorers (+118) | Loyola (Chi) Ramblers (-140)</p>
+  <p><strong>Spread:</strong> Loyola (Chi) Ramblers -2.5</p>
+  <p><strong>Moneyline:</strong> La Salle Explorers (+135) | Loyola (Chi) Ramblers (-160)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **La Salle Explorers**: 1.5, Edge For Covering Spread: **2.3%**
-- **Loyola (Chi) Ramblers**: -1.5, Edge For Covering Spread: -7.0%
+- **La Salle Explorers**: 2.5, Edge For Covering Spread: **4.3%**
+- **Loyola (Chi) Ramblers**: -2.5, Edge For Covering Spread: -9.0%
 
 ### Moneyline
-- **La Salle Explorers Win Probability**: 50.0%, Moneyline Edge: **4.1%**
-- **Loyola (Chi) Ramblers Win Probability**: 50.0%, Moneyline Edge: -8.3%
+- **La Salle Explorers Win Probability**: 48.4%, Moneyline Edge: **5.9%**
+- **Loyola (Chi) Ramblers Win Probability**: 51.6%, Moneyline Edge: -10.0%
 
 ### Total
 - **Predicted Total**: 138.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-La Salle Explorers (7-15) travels to face Loyola (Chi) Ramblers (5-18) at Gentile Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Loyola (Chi) Ramblers favored by 1.5 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+La Salle Explorers (7-15) travels to face Loyola (Chi) Ramblers (5-18) at Gentile Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Loyola (Chi) Ramblers favored by 2.5 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Loyola (Chi) Ramblers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Loyola (Chi) Ramblers's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **La Salle Explorers** bring an offensive efficiency of 100.62 (ranked #305 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.1% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -137,6 +137,6 @@ Loyola (Chi) Ramblers comes in ranked #309 overall by KenPom. They've struggled 
 
 - **Assist Rate:** 59.0% (Rank: #45)
 - **Experience:** 1.8 years (Rank: #98)
-- **Bench Minutes:** 39.9% (Rank: #33)
+- **Bench Minutes:** 39.9% (Rank: #32)
 - **Average Height:** 77.4" (Rank: #169)
 

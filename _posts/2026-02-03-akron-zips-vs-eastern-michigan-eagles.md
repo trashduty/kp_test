@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Akron Zips -11.5</p>
-  <p><strong>Moneyline:</strong> Akron Zips (-920) | Eastern Michigan Eagles (+585)</p>
+  <p><strong>Spread:</strong> Akron Zips -12.5</p>
+  <p><strong>Moneyline:</strong> Akron Zips (-880) | Eastern Michigan Eagles (+580)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Akron Zips**: -11.5, Edge For Covering Spread: -5.6%
-- **Eastern Michigan Eagles**: 11.5, Edge For Covering Spread: **0.8%**
+- **Akron Zips**: -12.5, Edge For Covering Spread: -3.7%
+- **Eastern Michigan Eagles**: 12.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **Akron Zips Win Probability**: 83.2%, Moneyline Edge: -7.0%
-- **Eastern Michigan Eagles Win Probability**: 16.8%, Moneyline Edge: **2.2%**
+- **Akron Zips Win Probability**: 83.2%, Moneyline Edge: -6.6%
+- **Eastern Michigan Eagles Win Probability**: 16.8%, Moneyline Edge: **2.1%**
 
 ### Total
 - **Predicted Total**: 152.0
-- Edge For Covering The Over: -3.1%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Over: -4.2%
+- Edge For Covering The Under: -2.0%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Akron Zips (18-4) enters hostile territory as they take on Eastern Michigan Eagles (9-13) at George Gervin GameAbove Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Akron Zips favored by 11.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Akron Zips (18-4) enters hostile territory as they take on Eastern Michigan Eagles (9-13) at George Gervin GameAbove Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Akron Zips favored by 12.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us Akron Zips has clear advantages, but games aren't played on paper. Eastern Michigan Eagles needs to punch above their weight class to keep this close. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 12.5-point spread screams mismatch. The books are asking Eastern Michigan Eagles to hang within two possessions, which based on the profiles, requires Akron Zips to play below their standard. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Akron Zips** bring an offensive efficiency of 124.50 (ranked #4 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 39.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -94,7 +94,7 @@ Akron Zips comes in ranked #52 overall by KenPom. They're dangerous from beyond 
 
 - **Opponent 2-Point Shooting:** 50.7% (Rank: #142)
 - **Opponent 3-Point Shooting:** 33.3% (Rank: #148)
-- **Block Percentage:** 8.4% (Rank: #239)
+- **Block Percentage:** 8.4% (Rank: #240)
 - **Steal Rate:** 0.1% (Rank: #124)
 
 ### Team Metrics
@@ -130,7 +130,7 @@ Eastern Michigan Eagles comes in ranked #223 overall by KenPom.
 
 - **Opponent 2-Point Shooting:** 51.1% (Rank: #159)
 - **Opponent 3-Point Shooting:** 33.1% (Rank: #139)
-- **Block Percentage:** 10.2% (Rank: #132)
+- **Block Percentage:** 10.2% (Rank: #133)
 - **Steal Rate:** 0.1% (Rank: #249)
 
 ### Team Metrics

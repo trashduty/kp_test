@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Bowling Green Falcons -12.5</p>
-  <p><strong>Moneyline:</strong> Ball State Cardinals (+735) | Bowling Green Falcons (-1293)</p>
+  <p><strong>Spread:</strong> Bowling Green Falcons -11.5</p>
+  <p><strong>Moneyline:</strong> Ball State Cardinals (+530) | Bowling Green Falcons (-780)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ball State Cardinals**: 12.5, Edge For Covering Spread: -4.1%
-- **Bowling Green Falcons**: -12.5, Edge For Covering Spread: -0.6%
+- **Ball State Cardinals**: 11.5, Edge For Covering Spread: -5.2%
+- **Bowling Green Falcons**: -11.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Ball State Cardinals Win Probability**: 11.2%, Moneyline Edge: -0.8%
-- **Bowling Green Falcons Win Probability**: 88.8%, Moneyline Edge: -4.0%
+- **Ball State Cardinals Win Probability**: 13.1%, Moneyline Edge: -2.8%
+- **Bowling Green Falcons Win Probability**: 86.9%, Moneyline Edge: -1.7%
 
 ### Total
 - **Predicted Total**: 135.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Bowling Green Falcons (13-9) hosts Ball State Cardinals (7-14) at Stroh Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Bowling Green Falcons favored by 12.5 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Bowling Green Falcons (13-9) hosts Ball State Cardinals (7-14) at Stroh Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Bowling Green Falcons favored by 11.5 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 12.5-point spread screams mismatch. The books are asking Ball State Cardinals to hang within two possessions, which based on the profiles, requires Bowling Green Falcons to play below their standard. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 11.5 points tells us Bowling Green Falcons has clear advantages, but games aren't played on paper. Ball State Cardinals needs to punch above their weight class to keep this close. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Ball State Cardinals** bring an offensive efficiency of 99.13 (ranked #326 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.3% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -94,7 +94,7 @@ Ball State Cardinals comes in ranked #308 overall by KenPom. The three-point sho
 
 - **Opponent 2-Point Shooting:** 54.7% (Rank: #289)
 - **Opponent 3-Point Shooting:** 36.6% (Rank: #313)
-- **Block Percentage:** 8.5% (Rank: #234)
+- **Block Percentage:** 8.5% (Rank: #235)
 - **Steal Rate:** 0.1% (Rank: #64)
 
 ### Team Metrics

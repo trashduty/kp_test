@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Duke Blue Devils -27.0</p>
+  <p><strong>Spread:</strong> Duke Blue Devils -26.5</p>
   <p><strong>Moneyline:</strong> Boston College Eagles (+3500) | Duke Blue Devils (-20000)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Boston College Eagles**: 27.0, Edge For Covering Spread: **0.3%**
-- **Duke Blue Devils**: -27.0, Edge For Covering Spread: -5.0%
+- **Boston College Eagles**: 26.5, Edge For Covering Spread: **0.3%**
+- **Duke Blue Devils**: -26.5, Edge For Covering Spread: -5.0%
 
 ### Moneyline
 - **Boston College Eagles Win Probability**: 1.9%, Moneyline Edge: -0.9%
 - **Duke Blue Devils Win Probability**: 98.1%, Moneyline Edge: -1.4%
 
 ### Total
-- **Predicted Total**: 135.0
-- Edge For Covering The Over: -3.1%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 136.0
+- Edge For Covering The Over: -5.7%
+- Edge For Covering The Under: **1.0%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Duke Blue Devils (20-1) hosts Boston College Eagles (9-12) at Cameron Indoor Stadium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Duke Blue Devils favored by 27.0 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Duke Blue Devils (20-1) hosts Boston College Eagles (9-12) at Cameron Indoor Stadium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Duke Blue Devils favored by 26.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 27.0-point spread screams mismatch. The books are asking Boston College Eagles to hang within two possessions, which based on the profiles, requires Duke Blue Devils to play below their standard. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 26.5-point spread screams mismatch. The books are asking Boston College Eagles to hang within two possessions, which based on the profiles, requires Duke Blue Devils to play below their standard. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Boston College Eagles** bring an offensive efficiency of 100.49 (ranked #307 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.6% from three, they can't rely on the arc. Expect a paint-focused attack. 

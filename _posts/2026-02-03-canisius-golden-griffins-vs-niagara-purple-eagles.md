@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Niagara Purple Eagles -3.5</p>
-  <p><strong>Moneyline:</strong> Canisius Golden Griffins (+138) | Niagara Purple Eagles (-163)</p>
+  <p><strong>Spread:</strong> Niagara Purple Eagles -3.0</p>
+  <p><strong>Moneyline:</strong> Canisius Golden Griffins (+135) | Niagara Purple Eagles (-160)</p>
   <p><strong>Total:</strong> 126.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Canisius Golden Griffins**: 3.5, Edge For Covering Spread: -0.6%
-- **Niagara Purple Eagles**: -3.5, Edge For Covering Spread: -4.1%
+- **Canisius Golden Griffins**: 3.0, Edge For Covering Spread: -2.4%
+- **Niagara Purple Eagles**: -3.0, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Canisius Golden Griffins Win Probability**: 39.7%, Moneyline Edge: -2.3%
-- **Niagara Purple Eagles Win Probability**: 60.3%, Moneyline Edge: -1.7%
+- **Canisius Golden Griffins Win Probability**: 39.9%, Moneyline Edge: -2.6%
+- **Niagara Purple Eagles Win Probability**: 60.1%, Moneyline Edge: -1.5%
 
 ### Total
-- **Predicted Total**: 126.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 125.5
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Canisius Golden Griffins (8-15) travels to face Niagara Purple Eagles (5-17) at Gallagher Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Niagara Purple Eagles favored by 3.5 points, with the total sitting at 126.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Canisius Golden Griffins (8-15) travels to face Niagara Purple Eagles (5-17) at Gallagher Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Niagara Purple Eagles favored by 3.0 points, with the total sitting at 126.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Niagara Purple Eagles is viewed as the better team, but this isn't an overwhelming edge. Canisius Golden Griffins has a legitimate path to covering or winning outright. The total of 126.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+The 3.0-point spread indicates Niagara Purple Eagles is viewed as the better team, but this isn't an overwhelming edge. Canisius Golden Griffins has a legitimate path to covering or winning outright. The total of 126.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **Canisius Golden Griffins** bring an offensive efficiency of 96.57 (ranked #343 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.1% three-point shooting is serviceable but won't scare anyone. 
@@ -99,7 +99,7 @@ Canisius Golden Griffins comes in ranked #344 overall by KenPom. Defense has bee
 
 ### Team Metrics
 
-- **Assist Rate:** 56.2% (Rank: #91)
+- **Assist Rate:** 56.2% (Rank: #92)
 - **Experience:** 1.4 years (Rank: #184)
 - **Bench Minutes:** 29.8% (Rank: #253)
 - **Average Height:** 77.2" (Rank: #205)

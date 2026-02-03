@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Boise State Broncos -5.5</p>
-  <p><strong>Moneyline:</strong> Nevada Wolf Pack (+212) | Boise State Broncos (-260)</p>
+  <p><strong>Moneyline:</strong> Nevada Wolf Pack (+215) | Boise State Broncos (-260)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Nevada Wolf Pack**: 5.5, Edge For Covering Spread: **2.1%**
-- **Boise State Broncos**: -5.5, Edge For Covering Spread: -6.9%
+- **Nevada Wolf Pack**: 5.5, Edge For Covering Spread: **1.0%**
+- **Boise State Broncos**: -5.5, Edge For Covering Spread: -5.7%
 
 ### Moneyline
-- **Nevada Wolf Pack Win Probability**: 34.4%, Moneyline Edge: **2.4%**
-- **Boise State Broncos Win Probability**: 65.6%, Moneyline Edge: -6.6%
+- **Nevada Wolf Pack Win Probability**: 34.3%, Moneyline Edge: **2.5%**
+- **Boise State Broncos Win Probability**: 65.7%, Moneyline Edge: -6.5%
 
 ### Total
 - **Predicted Total**: 144.5

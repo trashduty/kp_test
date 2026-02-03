@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UCLA Bruins -13.0</p>
-  <p><strong>Moneyline:</strong> Rutgers Scarlet Knights (+800) | UCLA Bruins (-1600)</p>
+  <p><strong>Spread:</strong> UCLA Bruins -13.5</p>
+  <p><strong>Moneyline:</strong> Rutgers Scarlet Knights (+750) | UCLA Bruins (-1400)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Rutgers Scarlet Knights**: 13.0, Edge For Covering Spread: -2.5%
-- **UCLA Bruins**: -13.0, Edge For Covering Spread: -2.1%
+- **Rutgers Scarlet Knights**: 13.5, Edge For Covering Spread: -4.3%
+- **UCLA Bruins**: -13.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **Rutgers Scarlet Knights Win Probability**: 10.0%, Moneyline Edge: -1.1%
-- **UCLA Bruins Win Probability**: 90.0%, Moneyline Edge: -4.1%
+- **Rutgers Scarlet Knights Win Probability**: 10.3%, Moneyline Edge: -1.5%
+- **UCLA Bruins Win Probability**: 89.7%, Moneyline Edge: -3.6%
 
 ### Total
 - **Predicted Total**: 140.0
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.2%
+- Edge For Covering The Over: -2.0%
+- Edge For Covering The Under: -2.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UCLA Bruins (15-7) hosts Rutgers Scarlet Knights (9-13) at Pauley Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UCLA Bruins favored by 13.0 points, with the total sitting at 140.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UCLA Bruins (15-7) hosts Rutgers Scarlet Knights (9-13) at Pauley Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UCLA Bruins favored by 13.5 points, with the total sitting at 140.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 13.0-point spread screams mismatch. The books are asking Rutgers Scarlet Knights to hang within two possessions, which based on the profiles, requires UCLA Bruins to play below their standard. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 13.5-point spread screams mismatch. The books are asking Rutgers Scarlet Knights to hang within two possessions, which based on the profiles, requires UCLA Bruins to play below their standard. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Rutgers Scarlet Knights** bring an offensive efficiency of 104.24 (ranked #247 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.2% three-point shooting is serviceable but won't scare anyone. 
@@ -96,14 +96,14 @@ Rutgers Scarlet Knights comes in ranked #146 overall by KenPom. Defense has been
 
 - **Opponent 2-Point Shooting:** 50.4% (Rank: #129)
 - **Opponent 3-Point Shooting:** 37.1% (Rank: #331)
-- **Block Percentage:** 10.1% (Rank: #134)
+- **Block Percentage:** 10.1% (Rank: #135)
 - **Steal Rate:** 0.1% (Rank: #192)
 
 ### Team Metrics
 
 - **Assist Rate:** 45.8% (Rank: #322)
 - **Experience:** 1.3 years (Rank: #213)
-- **Bench Minutes:** 40.3% (Rank: #30)
+- **Bench Minutes:** 40.3% (Rank: #29)
 - **Average Height:** 77.7" (Rank: #134)
 
 ---

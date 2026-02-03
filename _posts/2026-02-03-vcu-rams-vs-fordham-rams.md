@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> VCU Rams -7.5</p>
-  <p><strong>Moneyline:</strong> VCU Rams (-400) | Fordham Rams (+300)</p>
+  <p><strong>Moneyline:</strong> VCU Rams (-392) | Fordham Rams (+300)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **VCU Rams**: -7.5, Edge For Covering Spread: -4.1%
-- **Fordham Rams**: 7.5, Edge For Covering Spread: -0.7%
+- **VCU Rams**: -7.5, Edge For Covering Spread: -4.4%
+- **Fordham Rams**: 7.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **VCU Rams Win Probability**: 73.2%, Moneyline Edge: -6.8%
+- **VCU Rams Win Probability**: 73.2%, Moneyline Edge: -6.5%
 - **Fordham Rams Win Probability**: 26.8%, Moneyline Edge: **1.8%**
 
 ### Total
-- **Predicted Total**: 145.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 146.0
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -0.6%
 
 ---
 
@@ -140,5 +140,5 @@ Fordham Rams comes in ranked #175 overall by KenPom. The three-point shot hasn't
 - **Assist Rate:** 50.2% (Rank: #249)
 - **Experience:** 1.9 years (Rank: #78)
 - **Bench Minutes:** 29.2% (Rank: #265)
-- **Average Height:** 77.8" (Rank: #119)
+- **Average Height:** 77.8" (Rank: #120)
 

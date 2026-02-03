@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Grand Canyon Antelopes -24.5</p>
-  <p><strong>Moneyline:</strong> Air Force Falcons (+2668) | Grand Canyon Antelopes (-13344)</p>
+  <p><strong>Moneyline:</strong> Air Force Falcons (+2800) | Grand Canyon Antelopes (-10000)</p>
   <p><strong>Total:</strong> 133.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Air Force Falcons**: 24.5, Edge For Covering Spread: -4.6%
-- **Grand Canyon Antelopes**: -24.5, Edge For Covering Spread: -0.2%
+- **Air Force Falcons**: 24.5, Edge For Covering Spread: -5.2%
+- **Grand Canyon Antelopes**: -24.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Air Force Falcons Win Probability**: 2.3%, Moneyline Edge: -1.4%
-- **Grand Canyon Antelopes Win Probability**: 97.7%, Moneyline Edge: -1.5%
+- **Air Force Falcons Win Probability**: 2.2%, Moneyline Edge: -1.3%
+- **Grand Canyon Antelopes Win Probability**: 97.8%, Moneyline Edge: -1.2%
 
 ### Total
 - **Predicted Total**: 132.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.9%
+- Edge For Covering The Over: -4.4%
+- Edge For Covering The Under: -0.3%
 
 ---
 
@@ -99,7 +99,7 @@ Air Force Falcons comes in ranked #347 overall by KenPom. The three-point shot h
 
 ### Team Metrics
 
-- **Assist Rate:** 54.6% (Rank: #127)
+- **Assist Rate:** 54.6% (Rank: #128)
 - **Experience:** 0.4 years (Rank: #358)
 - **Bench Minutes:** 29.7% (Rank: #254)
 - **Average Height:** 78.1" (Rank: #72)

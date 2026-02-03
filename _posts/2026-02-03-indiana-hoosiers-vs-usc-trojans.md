@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 152.0
-- Edge For Covering The Over: -3.8%
-- Edge For Covering The Under: -1.0%
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.3%
 
 ---
 
@@ -137,7 +137,7 @@ USC Trojans comes in ranked #50 overall by KenPom. On the defensive end, they're
 
 ### Team Metrics
 
-- **Assist Rate:** 55.5% (Rank: #104)
+- **Assist Rate:** 55.5% (Rank: #105)
 - **Experience:** 2.6 years (Rank: #11)
 - **Bench Minutes:** 38.8% (Rank: #42)
 - **Average Height:** 79.2" (Rank: #4)

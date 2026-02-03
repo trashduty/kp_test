@@ -24,11 +24,11 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UNLV Rebels**: 1.5, Edge For Covering Spread: -5.1%
-- **Fresno St Bulldogs**: -1.5, Edge For Covering Spread: **0.4%**
+- **UNLV Rebels**: 1.5, Edge For Covering Spread: -4.4%
+- **Fresno St Bulldogs**: -1.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **UNLV Rebels Win Probability**: 43.8%, Moneyline Edge: -5.1%
+- **UNLV Rebels Win Probability**: 43.8%, Moneyline Edge: -5.2%
 - **Fresno St Bulldogs Win Probability**: 56.2%, Moneyline Edge: **0.6%**
 
 ### Total
@@ -138,5 +138,5 @@ Fresno St Bulldogs comes in ranked #135 overall by KenPom. The three-point shot 
 - **Assist Rate:** 53.8% (Rank: #150)
 - **Experience:** 1.6 years (Rank: #152)
 - **Bench Minutes:** 29.3% (Rank: #262)
-- **Average Height:** 77.8" (Rank: #121)
+- **Average Height:** 77.8" (Rank: #122)
 

@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **DePaul Blue Demons Win Probability**: 20.4%, Moneyline Edge: -0.3%
 
 ### Total
-- **Predicted Total**: 147.0
-- Edge For Covering The Over: -2.0%
-- Edge For Covering The Under: -2.7%
+- **Predicted Total**: 146.5
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -2.6%
 
 ---
 
@@ -99,7 +99,7 @@ St. John's Red Storm comes in ranked #22 overall by KenPom. They boast one of th
 
 ### Team Metrics
 
-- **Assist Rate:** 55.5% (Rank: #103)
+- **Assist Rate:** 55.5% (Rank: #104)
 - **Experience:** 2.2 years (Rank: #38)
 - **Bench Minutes:** 32.5% (Rank: #184)
 - **Average Height:** 78.3" (Rank: #56)

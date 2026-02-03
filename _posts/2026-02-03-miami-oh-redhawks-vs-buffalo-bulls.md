@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 164.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -1.0%
 
 ---
 
@@ -96,7 +96,7 @@ Miami (OH) RedHawks comes in ranked #89 overall by KenPom. They're dangerous fro
 
 - **Opponent 2-Point Shooting:** 51.8% (Rank: #188)
 - **Opponent 3-Point Shooting:** 32.7% (Rank: #118)
-- **Block Percentage:** 9.2% (Rank: #187)
+- **Block Percentage:** 9.2% (Rank: #188)
 - **Steal Rate:** 0.1% (Rank: #154)
 
 ### Team Metrics

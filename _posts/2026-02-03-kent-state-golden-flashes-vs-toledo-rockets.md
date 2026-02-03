@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Toledo Rockets -1.5</p>
-  <p><strong>Moneyline:</strong> Kent State Golden Flashes (+105) | Toledo Rockets (-126)</p>
+  <p><strong>Moneyline:</strong> Kent State Golden Flashes (-100) | Toledo Rockets (-120)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kent State Golden Flashes**: 1.5, Edge For Covering Spread: -4.0%
-- **Toledo Rockets**: -1.5, Edge For Covering Spread: -0.8%
+- **Kent State Golden Flashes**: 1.5, Edge For Covering Spread: -4.5%
+- **Toledo Rockets**: -1.5, Edge For Covering Spread: -0.2%
 
 ### Moneyline
-- **Kent State Golden Flashes Win Probability**: 43.6%, Moneyline Edge: -5.0%
-- **Toledo Rockets Win Probability**: 56.4%, Moneyline Edge: **0.5%**
+- **Kent State Golden Flashes Win Probability**: 44.3%, Moneyline Edge: -5.7%
+- **Toledo Rockets Win Probability**: 55.7%, Moneyline Edge: **1.2%**
 
 ### Total
-- **Predicted Total**: 163.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- **Predicted Total**: 162.5
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 
@@ -94,7 +94,7 @@ Kent State Golden Flashes comes in ranked #142 overall by KenPom.
 
 - **Opponent 2-Point Shooting:** 51.9% (Rank: #191)
 - **Opponent 3-Point Shooting:** 35.4% (Rank: #255)
-- **Block Percentage:** 10.0% (Rank: #140)
+- **Block Percentage:** 10.0% (Rank: #141)
 - **Steal Rate:** 0.1% (Rank: #270)
 
 ### Team Metrics

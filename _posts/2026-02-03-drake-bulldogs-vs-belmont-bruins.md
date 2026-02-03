@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Belmont Bruins -11.5</p>
-  <p><strong>Moneyline:</strong> Drake Bulldogs (+590) | Belmont Bruins (-937)</p>
+  <p><strong>Spread:</strong> Belmont Bruins -10.5</p>
+  <p><strong>Moneyline:</strong> Drake Bulldogs (+520) | Belmont Bruins (-750)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Drake Bulldogs**: 11.5, Edge For Covering Spread: -5.6%
-- **Belmont Bruins**: -11.5, Edge For Covering Spread: **0.8%**
+- **Drake Bulldogs**: 10.5, Edge For Covering Spread: -6.4%
+- **Belmont Bruins**: -10.5, Edge For Covering Spread: **1.6%**
 
 ### Moneyline
-- **Drake Bulldogs Win Probability**: 13.4%, Moneyline Edge: -1.1%
-- **Belmont Bruins Win Probability**: 86.6%, Moneyline Edge: -3.8%
+- **Drake Bulldogs Win Probability**: 14.2%, Moneyline Edge: -1.9%
+- **Belmont Bruins Win Probability**: 85.8%, Moneyline Edge: -2.5%
 
 ### Total
-- **Predicted Total**: 154.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 154.0
+- Edge For Covering The Over: -1.9%
+- Edge For Covering The Under: -2.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Belmont Bruins (20-3) hosts Drake Bulldogs (12-11) at Curb Event Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Belmont Bruins favored by 11.5 points, with the total sitting at 154.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Belmont Bruins (20-3) hosts Drake Bulldogs (12-11) at Curb Event Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Belmont Bruins favored by 10.5 points, with the total sitting at 154.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us Belmont Bruins has clear advantages, but games aren't played on paper. Drake Bulldogs needs to punch above their weight class to keep this close. The total of 154.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 10.5 points tells us Belmont Bruins has clear advantages, but games aren't played on paper. Drake Bulldogs needs to punch above their weight class to keep this close. The total of 154.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Drake Bulldogs** bring an offensive efficiency of 109.54 (ranked #152 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.6% three-point shooting is serviceable but won't scare anyone. 

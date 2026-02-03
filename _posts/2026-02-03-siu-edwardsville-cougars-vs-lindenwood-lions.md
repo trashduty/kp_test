@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Lindenwood Lions -4.5</p>
-  <p><strong>Moneyline:</strong> SIU-Edwardsville Cougars (+171) | Lindenwood Lions (-205)</p>
+  <p><strong>Spread:</strong> Lindenwood Lions -5.5</p>
+  <p><strong>Moneyline:</strong> SIU-Edwardsville Cougars (+190) | Lindenwood Lions (-225)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **SIU-Edwardsville Cougars**: 4.5, Edge For Covering Spread: -3.5%
-- **Lindenwood Lions**: -4.5, Edge For Covering Spread: -1.2%
+- **SIU-Edwardsville Cougars**: 5.5, Edge For Covering Spread: -1.8%
+- **Lindenwood Lions**: -5.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **SIU-Edwardsville Cougars Win Probability**: 35.7%, Moneyline Edge: -1.2%
-- **Lindenwood Lions Win Probability**: 64.3%, Moneyline Edge: -2.9%
+- **SIU-Edwardsville Cougars Win Probability**: 34.6%, Moneyline Edge: **0.1%**
+- **Lindenwood Lions Win Probability**: 65.4%, Moneyline Edge: -3.9%
 
 ### Total
-- **Predicted Total**: 139.0
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- **Predicted Total**: 139.5
+- Edge For Covering The Over: -5.5%
+- Edge For Covering The Under: **0.7%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Lindenwood Lions (14-9) hosts SIU-Edwardsville Cougars (14-9) at Hyland Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Lindenwood Lions favored by 4.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Lindenwood Lions (14-9) hosts SIU-Edwardsville Cougars (14-9) at Hyland Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Lindenwood Lions favored by 5.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Lindenwood Lions is viewed as the better team, but this isn't an overwhelming edge. SIU-Edwardsville Cougars has a legitimate path to covering or winning outright. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 5.5-point spread indicates Lindenwood Lions is viewed as the better team, but this isn't an overwhelming edge. SIU-Edwardsville Cougars has a legitimate path to covering or winning outright. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **SIU-Edwardsville Cougars** bring an offensive efficiency of 102.27 (ranked #279 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.3% three-point shooting is serviceable but won't scare anyone. 
@@ -102,9 +102,9 @@ SIU-Edwardsville Cougars comes in ranked #254 overall by KenPom. On the defensiv
 ### Team Metrics
 
 - **Assist Rate:** 51.0% (Rank: #229)
-- **Experience:** 1.2 years (Rank: #241)
-- **Bench Minutes:** 40.3% (Rank: #29)
-- **Average Height:** 77.7" (Rank: #123)
+- **Experience:** 1.2 years (Rank: #243)
+- **Bench Minutes:** 39.5% (Rank: #36)
+- **Average Height:** 77.8" (Rank: #116)
 
 ---
 

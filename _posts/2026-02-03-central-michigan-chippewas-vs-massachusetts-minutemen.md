@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Massachusetts Minutemen -10.5</p>
-  <p><strong>Moneyline:</strong> Central Michigan Chippewas (+500) | Massachusetts Minutemen (-758)</p>
+  <p><strong>Moneyline:</strong> Central Michigan Chippewas (+500) | Massachusetts Minutemen (-780)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Central Michigan Chippewas**: 10.5, Edge For Covering Spread: -4.0%
-- **Massachusetts Minutemen**: -10.5, Edge For Covering Spread: -0.8%
+- **Central Michigan Chippewas**: 10.5, Edge For Covering Spread: -2.8%
+- **Massachusetts Minutemen**: -10.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Central Michigan Chippewas Win Probability**: 14.9%, Moneyline Edge: -1.7%
-- **Massachusetts Minutemen Win Probability**: 85.1%, Moneyline Edge: -3.3%
+- **Central Michigan Chippewas Win Probability**: 14.9%, Moneyline Edge: -1.8%
+- **Massachusetts Minutemen Win Probability**: 85.1%, Moneyline Edge: -3.6%
 
 ### Total
 - **Predicted Total**: 151.5
-- Edge For Covering The Over: -2.4%
+- Edge For Covering The Over: -3.9%
 - Edge For Covering The Under: -2.4%
 
 ---
