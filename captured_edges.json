@@ -2758,5 +2758,17 @@
   "Lindenwood Lions vs. SIU-Edwardsville Cougars|under": {
     "captured_at": "2026-02-03T03:05:43.793862+00:00",
     "edge_type": "under"
+  },
+  "Florida Atlantic Owls vs. Tulsa Golden Hurricane|under": {
+    "captured_at": "2026-02-03T22:11:44.718089+00:00",
+    "edge_type": "under"
+  },
+  "Milwaukee Panthers vs. Detroit Mercy Titans|Detroit Mercy Titans|spread": {
+    "captured_at": "2026-02-03T22:11:44.719522+00:00",
+    "edge_type": "spread"
+  },
+  "San Francisco Dons vs. Loyola Marymount Lions|under": {
+    "captured_at": "2026-02-03T22:11:44.720684+00:00",
+    "edge_type": "under"
   }
 }
