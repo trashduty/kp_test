@@ -2738,5 +2738,17 @@
   "Belmont Bruins vs. Drake Bulldogs|Belmont Bruins|spread": {
     "captured_at": "2026-02-02T23:10:35.992514+00:00",
     "edge_type": "spread"
+  },
+  "Eastern Michigan Eagles vs. Akron Zips|Eastern Michigan Eagles|spread": {
+    "captured_at": "2026-02-03T00:37:14.476016+00:00",
+    "edge_type": "spread"
+  },
+  "Bradley Braves vs. Valparaiso Beacons|Valparaiso Beacons|spread": {
+    "captured_at": "2026-02-03T00:37:14.477962+00:00",
+    "edge_type": "spread"
+  },
+  "Fresno St Bulldogs vs. UNLV Rebels|Fresno St Bulldogs|moneyline": {
+    "captured_at": "2026-02-03T00:37:14.480217+00:00",
+    "edge_type": "moneyline"
   }
 }
