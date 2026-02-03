@@ -2754,5 +2754,9 @@
   "Toledo Rockets vs. Kent State Golden Flashes|Toledo Rockets|moneyline": {
     "captured_at": "2026-02-03T01:38:50.672960+00:00",
     "edge_type": "moneyline"
+  },
+  "Lindenwood Lions vs. SIU-Edwardsville Cougars|under": {
+    "captured_at": "2026-02-03T03:05:43.793862+00:00",
+    "edge_type": "under"
   }
 }
