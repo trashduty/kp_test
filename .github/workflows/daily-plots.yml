@@ -101,6 +101,7 @@ jobs:
     
     - name: Generate plots
       run: |
+        Rscript generate_kenpom_plot.R
         Rscript daily_matchups_plot.R
         python fetch_odds.py
         Rscript march_madness_odds_plot.R
