@@ -2750,5 +2750,9 @@
   "Fresno St Bulldogs vs. UNLV Rebels|Fresno St Bulldogs|moneyline": {
     "captured_at": "2026-02-03T00:37:14.480217+00:00",
     "edge_type": "moneyline"
+  },
+  "Toledo Rockets vs. Kent State Golden Flashes|Toledo Rockets|moneyline": {
+    "captured_at": "2026-02-03T01:38:50.672960+00:00",
+    "edge_type": "moneyline"
   }
 }
