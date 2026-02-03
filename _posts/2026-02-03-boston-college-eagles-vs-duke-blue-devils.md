@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Duke Blue Devils -26.5</p>
+  <p><strong>Spread:</strong> Duke Blue Devils -25.5</p>
   <p><strong>Moneyline:</strong> Boston College Eagles (+3500) | Duke Blue Devils (-20000)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Boston College Eagles**: 26.5, Edge For Covering Spread: **0.5%**
-- **Duke Blue Devils**: -26.5, Edge For Covering Spread: -5.3%
+- **Boston College Eagles**: 25.5, Edge For Covering Spread: **0.1%**
+- **Duke Blue Devils**: -25.5, Edge For Covering Spread: -4.8%
 
 ### Moneyline
 - **Boston College Eagles Win Probability**: 1.9%, Moneyline Edge: -0.9%
 - **Duke Blue Devils Win Probability**: 98.1%, Moneyline Edge: -1.4%
 
 ### Total
-- **Predicted Total**: 137.0
-- Edge For Covering The Over: -6.1%
-- Edge For Covering The Under: **1.4%**
+- **Predicted Total**: 137.5
+- Edge For Covering The Over: -5.9%
+- Edge For Covering The Under: **1.2%**
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Duke Blue Devils (20-1) hosts Boston College Eagles (9-12) at Cameron Indoor Stadium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Duke Blue Devils favored by 26.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Duke Blue Devils (20-1) hosts Boston College Eagles (9-12) at Cameron Indoor Stadium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Duke Blue Devils favored by 25.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 26.5-point spread screams mismatch. The books are asking Boston College Eagles to hang within two possessions, which based on the profiles, requires Duke Blue Devils to play below their standard. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 25.5-point spread screams mismatch. The books are asking Boston College Eagles to hang within two possessions, which based on the profiles, requires Duke Blue Devils to play below their standard. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Boston College Eagles** bring an offensive efficiency of 100.49 (ranked #307 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.6% from three, they can't rely on the arc. Expect a paint-focused attack. 
+**Boston College Eagles** bring an offensive efficiency of 100.49 (ranked #308 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.6% from three, they can't rely on the arc. Expect a paint-focused attack. 
 Meanwhile, **Duke Blue Devils** counter with 122.86 offensive efficiency (#9). This offense can match anyone bucket-for-bucket. At 34.0% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Boston College Eagles operate at a 66.2 tempo (#301), while Duke Blue Devils play at 69.1 (#172). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.6) means fewer possessions, making each one more valuable. 
+Boston College Eagles operate at a 66.2 tempo (#301), while Duke Blue Devils play at 69.1 (#171). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.6) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Boston College Eagles shoot 48.7% on two-pointers, while Duke Blue Devils convert at 63.0%. Duke Blue Devils has a clear edge in interior scoring efficiency. 
@@ -73,13 +73,13 @@ Duke Blue Devils's defensive prowess (ranked #4) sets up well against Boston Col
 
 ## Boston College Eagles
 
-Boston College Eagles comes in ranked #143 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.7% from three. 
+Boston College Eagles comes in ranked #144 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.7% from three. 
 
 ### Record & Ranking
 - **Record:** 9-12
 - **Head Coach:** Earl Grant
-- **KenPom Rank:** #143
-- **Offensive Efficiency:** 100.5 (Rank: #307)
+- **KenPom Rank:** #144
+- **Offensive Efficiency:** 100.5 (Rank: #308)
 - **Defensive Efficiency:** 100.8 (Rank: #46)
 - **Tempo:** 66.2 (Rank: #301)
 
@@ -87,19 +87,19 @@ Boston College Eagles comes in ranked #143 overall by KenPom. The three-point sh
 
 - **2-Point Shooting:** 48.7% (Rank: #277)
 - **3-Point Shooting:** 29.6% (Rank: #344)
-- **Free Throw Shooting:** 65.8% (Rank: #351)
+- **Free Throw Shooting:** 65.8% (Rank: #352)
 - **3-Point Rate:** 43.0% (Rank: #115)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 47.5% (Rank: #47)
-- **Opponent 3-Point Shooting:** 29.7% (Rank: #23)
+- **Opponent 3-Point Shooting:** 29.7% (Rank: #24)
 - **Block Percentage:** 12.8% (Rank: #43)
 - **Steal Rate:** 0.1% (Rank: #334)
 
 ### Team Metrics
 
-- **Assist Rate:** 48.6% (Rank: #281)
+- **Assist Rate:** 48.6% (Rank: #282)
 - **Experience:** 1.5 years (Rank: #167)
 - **Bench Minutes:** 30.8% (Rank: #233)
 - **Average Height:** 77.7" (Rank: #131)
@@ -117,12 +117,12 @@ Duke Blue Devils comes in ranked #3 overall by KenPom. They boast one of the nat
 - **KenPom Rank:** #3
 - **Offensive Efficiency:** 122.9 (Rank: #9)
 - **Defensive Efficiency:** 93.2 (Rank: #4)
-- **Tempo:** 69.1 (Rank: #172)
+- **Tempo:** 69.1 (Rank: #171)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 63.0% (Rank: #2)
-- **3-Point Shooting:** 34.0% (Rank: #175)
+- **3-Point Shooting:** 34.0% (Rank: #178)
 - **Free Throw Shooting:** 71.7% (Rank: #202)
 - **3-Point Rate:** 44.8% (Rank: #73)
 
@@ -137,6 +137,6 @@ Duke Blue Devils comes in ranked #3 overall by KenPom. They boast one of the nat
 
 - **Assist Rate:** 58.5% (Rank: #55)
 - **Experience:** 0.9 years (Rank: #309)
-- **Bench Minutes:** 34.2% (Rank: #132)
+- **Bench Minutes:** 34.2% (Rank: #133)
 - **Average Height:** 79.4" (Rank: #2)
 

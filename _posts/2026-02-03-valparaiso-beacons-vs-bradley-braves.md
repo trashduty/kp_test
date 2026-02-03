@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Bradley Braves -8.5</p>
-  <p><strong>Moneyline:</strong> Valparaiso Beacons (+360) | Bradley Braves (-500)</p>
+  <p><strong>Spread:</strong> Bradley Braves -9.0</p>
+  <p><strong>Moneyline:</strong> Valparaiso Beacons (+360) | Bradley Braves (-482)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Valparaiso Beacons**: 8.5, Edge For Covering Spread: **3.8%**
-- **Bradley Braves**: -8.5, Edge For Covering Spread: -8.5%
+- **Valparaiso Beacons**: 9.0, Edge For Covering Spread: **2.7%**
+- **Bradley Braves**: -9.0, Edge For Covering Spread: -7.4%
 
 ### Moneyline
-- **Valparaiso Beacons Win Probability**: 26.8%, Moneyline Edge: **5.1%**
-- **Bradley Braves Win Probability**: 73.2%, Moneyline Edge: -10.2%
+- **Valparaiso Beacons Win Probability**: 26.9%, Moneyline Edge: **5.2%**
+- **Bradley Braves Win Probability**: 73.1%, Moneyline Edge: -9.7%
 
 ### Total
 - **Predicted Total**: 141.5
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Valparaiso Beacons (11-11) travels to face Bradley Braves (15-8) at Carver Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Bradley Braves favored by 8.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Valparaiso Beacons (11-11) travels to face Bradley Braves (15-8) at Carver Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Bradley Braves favored by 9.0 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Bradley Braves has clear advantages, but games aren't played on paper. Valparaiso Beacons needs to punch above their weight class to keep this close. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 9.0 points tells us Bradley Braves has clear advantages, but games aren't played on paper. Valparaiso Beacons needs to punch above their weight class to keep this close. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Valparaiso Beacons** bring an offensive efficiency of 104.04 (ranked #250 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.6% from three, they can't rely on the arc. Expect a paint-focused attack. 
-Meanwhile, **Bradley Braves** counter with 110.41 offensive efficiency (#132). They're competent on offense without being spectacular. At 35.7% from three, they have adequate spacing but must pick their spots. 
+**Valparaiso Beacons** bring an offensive efficiency of 104.04 (ranked #251 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.6% from three, they can't rely on the arc. Expect a paint-focused attack. 
+Meanwhile, **Bradley Braves** counter with 110.41 offensive efficiency (#131). They're competent on offense without being spectacular. At 35.7% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Valparaiso Beacons operate at a 66.7 tempo (#280), while Bradley Braves play at 68.8 (#193). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.7) means fewer possessions, making each one more valuable. 
+Valparaiso Beacons operate at a 66.7 tempo (#279), while Bradley Braves play at 68.8 (#193). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.7) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Valparaiso Beacons shoot 45.2% on two-pointers, while Bradley Braves convert at 48.6%. Both teams are evenly matched in paint efficiency. 
@@ -79,43 +79,43 @@ Valparaiso Beacons comes in ranked #152 overall by KenPom. The three-point shot 
 - **Record:** 11-11
 - **Head Coach:** Roger Powell
 - **KenPom Rank:** #152
-- **Offensive Efficiency:** 104.0 (Rank: #250)
+- **Offensive Efficiency:** 104.0 (Rank: #251)
 - **Defensive Efficiency:** 104.3 (Rank: #96)
-- **Tempo:** 66.7 (Rank: #280)
+- **Tempo:** 66.7 (Rank: #279)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 45.2% (Rank: #348)
-- **3-Point Shooting:** 31.6% (Rank: #286)
+- **3-Point Shooting:** 31.6% (Rank: #287)
 - **Free Throw Shooting:** 72.1% (Rank: #188)
-- **3-Point Rate:** 37.1% (Rank: #234)
+- **3-Point Rate:** 37.1% (Rank: #235)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 50.9% (Rank: #153)
 - **Opponent 3-Point Shooting:** 31.1% (Rank: #55)
 - **Block Percentage:** 11.4% (Rank: #78)
-- **Steal Rate:** 0.1% (Rank: #216)
+- **Steal Rate:** 0.1% (Rank: #217)
 
 ### Team Metrics
 
-- **Assist Rate:** 46.3% (Rank: #314)
+- **Assist Rate:** 46.3% (Rank: #313)
 - **Experience:** 0.8 years (Rank: #323)
-- **Bench Minutes:** 36.0% (Rank: #99)
+- **Bench Minutes:** 36.0% (Rank: #98)
 - **Average Height:** 78.1" (Rank: #74)
 
 ---
 
 ## Bradley Braves
 
-Bradley Braves comes in ranked #138 overall by KenPom. 
+Bradley Braves comes in ranked #139 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 15-8
 - **Head Coach:** Brian Wardle
 - **Home Arena:** Carver Arena
-- **KenPom Rank:** #138
-- **Offensive Efficiency:** 110.4 (Rank: #132)
+- **KenPom Rank:** #139
+- **Offensive Efficiency:** 110.4 (Rank: #131)
 - **Defensive Efficiency:** 105.7 (Rank: #120)
 - **Tempo:** 68.8 (Rank: #193)
 
@@ -123,20 +123,20 @@ Bradley Braves comes in ranked #138 overall by KenPom.
 
 - **2-Point Shooting:** 48.6% (Rank: #281)
 - **3-Point Shooting:** 35.7% (Rank: #82)
-- **Free Throw Shooting:** 74.2% (Rank: #114)
+- **Free Throw Shooting:** 74.2% (Rank: #115)
 - **3-Point Rate:** 40.3% (Rank: #168)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 51.3% (Rank: #165)
 - **Opponent 3-Point Shooting:** 36.5% (Rank: #306)
-- **Block Percentage:** 9.5% (Rank: #169)
+- **Block Percentage:** 9.5% (Rank: #170)
 - **Steal Rate:** 0.1% (Rank: #59)
 
 ### Team Metrics
 
 - **Assist Rate:** 48.9% (Rank: #279)
 - **Experience:** 1.8 years (Rank: #106)
-- **Bench Minutes:** 33.8% (Rank: #141)
+- **Bench Minutes:** 33.8% (Rank: #142)
 - **Average Height:** 77.2" (Rank: #211)
 

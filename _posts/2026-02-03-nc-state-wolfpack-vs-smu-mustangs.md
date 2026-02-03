@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> NC State Wolfpack -2.5</p>
-  <p><strong>Moneyline:</strong> NC State Wolfpack (-140) | SMU Mustangs (+118)</p>
+  <p><strong>Moneyline:</strong> NC State Wolfpack (-140) | SMU Mustangs (+117)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **NC State Wolfpack**: -2.5, Edge For Covering Spread: -6.4%
-- **SMU Mustangs**: 2.5, Edge For Covering Spread: **1.6%**
+- **NC State Wolfpack**: -2.5, Edge For Covering Spread: -6.0%
+- **SMU Mustangs**: 2.5, Edge For Covering Spread: **1.3%**
 
 ### Moneyline
-- **NC State Wolfpack Win Probability**: 52.5%, Moneyline Edge: -5.8%
+- **NC State Wolfpack Win Probability**: 52.5%, Moneyline Edge: -5.9%
 - **SMU Mustangs Win Probability**: 47.5%, Moneyline Edge: **1.6%**
 
 ### Total
-- **Predicted Total**: 161.5
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -2.9%
+- **Predicted Total**: 161.0
+- Edge For Covering The Over: -2.3%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -52,7 +52,7 @@ A spread under 3 points suggests the books see this as essentially a coin flip. 
 Meanwhile, **SMU Mustangs** counter with 118.41 offensive efficiency (#36). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 36.3%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-NC State Wolfpack operate at a 70.1 tempo (#114), while SMU Mustangs play at 72.2 (#36). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.2) should create a standard flow. 
+NC State Wolfpack operate at a 70.1 tempo (#115), while SMU Mustangs play at 72.2 (#36). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.2) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, NC State Wolfpack shoot 54.6% on two-pointers, while SMU Mustangs convert at 56.3%. Both teams are evenly matched in paint efficiency. 
@@ -68,7 +68,7 @@ On paper, NC State Wolfpack holds the advantage as the higher-ranked team, but S
 
 **Key Matchup: NC State Wolfpack's Offense vs SMU Mustangs's Defense**
 
-NC State Wolfpack bring a elite offense (ranked #20) that could exploit SMU Mustangs's defensive vulnerabilities (ranked #149). 
+NC State Wolfpack bring a elite offense (ranked #20) that could exploit SMU Mustangs's defensive vulnerabilities (ranked #151). 
 
 **X-Factor:** NC State Wolfpack can light it up from three-point range (39.9%), but SMU Mustangs defend the arc exceptionally well, holding opponents to just 31.9%. This battle on the perimeter could decide the game. 
 
@@ -83,26 +83,26 @@ NC State Wolfpack comes in ranked #23 overall by KenPom. They're dangerous from 
 - **KenPom Rank:** #23
 - **Offensive Efficiency:** 121.1 (Rank: #20)
 - **Defensive Efficiency:** 101.6 (Rank: #54)
-- **Tempo:** 70.1 (Rank: #114)
+- **Tempo:** 70.1 (Rank: #115)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 54.6% (Rank: #82)
+- **2-Point Shooting:** 54.6% (Rank: #81)
 - **3-Point Shooting:** 39.9% (Rank: #7)
-- **Free Throw Shooting:** 76.5% (Rank: #45)
-- **3-Point Rate:** 44.5% (Rank: #83)
+- **Free Throw Shooting:** 76.5% (Rank: #46)
+- **3-Point Rate:** 44.5% (Rank: #82)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 50.8% (Rank: #144)
-- **Opponent 3-Point Shooting:** 33.4% (Rank: #153)
-- **Block Percentage:** 10.2% (Rank: #136)
+- **Opponent 3-Point Shooting:** 33.4% (Rank: #152)
+- **Block Percentage:** 10.2% (Rank: #137)
 - **Steal Rate:** 0.1% (Rank: #31)
 
 ### Team Metrics
 
 - **Assist Rate:** 57.4% (Rank: #72)
-- **Experience:** 2.2 years (Rank: #39)
+- **Experience:** 2.2 years (Rank: #40)
 - **Bench Minutes:** 32.8% (Rank: #173)
 - **Average Height:** 78.0" (Rank: #90)
 
@@ -118,22 +118,22 @@ SMU Mustangs comes in ranked #36 overall by KenPom. They boast one of the nation
 - **Home Arena:** Moody Coliseum
 - **KenPom Rank:** #36
 - **Offensive Efficiency:** 118.4 (Rank: #36)
-- **Defensive Efficiency:** 107.0 (Rank: #149)
+- **Defensive Efficiency:** 107.0 (Rank: #151)
 - **Tempo:** 72.2 (Rank: #36)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 56.3% (Rank: #53)
-- **3-Point Shooting:** 36.3% (Rank: #56)
+- **3-Point Shooting:** 36.3% (Rank: #55)
 - **Free Throw Shooting:** 76.7% (Rank: #42)
-- **3-Point Rate:** 34.5% (Rank: #289)
+- **3-Point Rate:** 34.5% (Rank: #288)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.4% (Rank: #213)
-- **Opponent 3-Point Shooting:** 31.9% (Rank: #76)
+- **Opponent 2-Point Shooting:** 52.4% (Rank: #214)
+- **Opponent 3-Point Shooting:** 31.9% (Rank: #75)
 - **Block Percentage:** 11.3% (Rank: #84)
-- **Steal Rate:** 0.1% (Rank: #107)
+- **Steal Rate:** 0.1% (Rank: #108)
 
 ### Team Metrics
 

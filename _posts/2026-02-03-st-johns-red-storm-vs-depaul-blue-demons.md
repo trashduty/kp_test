@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> St. John's Red Storm -9.5</p>
-  <p><strong>Moneyline:</strong> St. John's Red Storm (-520) | DePaul Blue Demons (+385)</p>
+  <p><strong>Spread:</strong> St. John's Red Storm -10.5</p>
+  <p><strong>Moneyline:</strong> St. John's Red Storm (-596) | DePaul Blue Demons (+417)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **St. John's Red Storm**: -9.5, Edge For Covering Spread: -1.2%
-- **DePaul Blue Demons**: 9.5, Edge For Covering Spread: -3.5%
+- **St. John's Red Storm**: -10.5, Edge For Covering Spread: -4.0%
+- **DePaul Blue Demons**: 10.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **St. John's Red Storm Win Probability**: 79.6%, Moneyline Edge: -4.2%
-- **DePaul Blue Demons Win Probability**: 20.4%, Moneyline Edge: -0.3%
+- **St. John's Red Storm Win Probability**: 80.3%, Moneyline Edge: -5.3%
+- **DePaul Blue Demons Win Probability**: 19.7%, Moneyline Edge: **0.4%**
 
 ### Total
 - **Predicted Total**: 146.5
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,14 +42,14 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-St. John's Red Storm (16-5) enters hostile territory as they take on DePaul Blue Demons (12-10) at Wintrust Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into St. John's Red Storm favored by 9.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+St. John's Red Storm (16-5) enters hostile territory as they take on DePaul Blue Demons (12-10) at Wintrust Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into St. John's Red Storm favored by 10.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us St. John's Red Storm has clear advantages, but games aren't played on paper. DePaul Blue Demons needs to punch above their weight class to keep this close. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 10.5 points tells us St. John's Red Storm has clear advantages, but games aren't played on paper. DePaul Blue Demons needs to punch above their weight class to keep this close. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **St. John's Red Storm** bring an offensive efficiency of 118.28 (ranked #39 nationally). This is an elite offense that can score in multiple ways. Their 35.8% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **DePaul Blue Demons** counter with 105.96 offensive efficiency (#221). Points have been hard to come by, making every possession critical. At 34.2% from three, they have adequate spacing but must pick their spots. 
+Meanwhile, **DePaul Blue Demons** counter with 105.96 offensive efficiency (#222). Points have been hard to come by, making every possession critical. At 34.2% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
 St. John's Red Storm operate at a 72.2 tempo (#35), while DePaul Blue Demons play at 68.3 (#214). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.3) should create a standard flow. 
@@ -68,19 +68,19 @@ This looks like a mismatch on paper with St. John's Red Storm significantly high
 
 **Key Matchup: St. John's Red Storm's Defense vs DePaul Blue Demons's Offense**
 
-St. John's Red Storm's stingy defense (ranked #45) will look to frustrate DePaul Blue Demons's offense, which has struggled at times this season. 
+St. John's Red Storm's stingy defense (ranked #44) will look to frustrate DePaul Blue Demons's offense, which has struggled at times this season. 
 
 
 ## St. John's Red Storm
 
-St. John's Red Storm comes in ranked #22 overall by KenPom. They boast one of the nation's top offenses, ranked #39 in efficiency. Their defense has been a calling card this season, making life difficult for opposing offenses. 
+St. John's Red Storm comes in ranked #21 overall by KenPom. They boast one of the nation's top offenses, ranked #39 in efficiency. Their defense has been a calling card this season, making life difficult for opposing offenses. 
 
 ### Record & Ranking
 - **Record:** 16-5
 - **Head Coach:** Rick Pitino
-- **KenPom Rank:** #22
+- **KenPom Rank:** #21
 - **Offensive Efficiency:** 118.3 (Rank: #39)
-- **Defensive Efficiency:** 100.8 (Rank: #45)
+- **Defensive Efficiency:** 100.8 (Rank: #44)
 - **Tempo:** 72.2 (Rank: #35)
 
 ### Shooting Breakdown
@@ -88,14 +88,14 @@ St. John's Red Storm comes in ranked #22 overall by KenPom. They boast one of th
 - **2-Point Shooting:** 52.7% (Rank: #142)
 - **3-Point Shooting:** 35.8% (Rank: #77)
 - **Free Throw Shooting:** 73.2% (Rank: #158)
-- **3-Point Rate:** 34.6% (Rank: #287)
+- **3-Point Rate:** 34.6% (Rank: #285)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 47.3% (Rank: #39)
-- **Opponent 3-Point Shooting:** 33.5% (Rank: #158)
+- **Opponent 3-Point Shooting:** 33.5% (Rank: #156)
 - **Block Percentage:** 13.0% (Rank: #33)
-- **Steal Rate:** 0.1% (Rank: #67)
+- **Steal Rate:** 0.1% (Rank: #66)
 
 ### Team Metrics
 
@@ -115,22 +115,22 @@ DePaul Blue Demons comes in ranked #104 overall by KenPom.
 - **Head Coach:** Chris Holtmann
 - **Home Arena:** Wintrust Arena
 - **KenPom Rank:** #104
-- **Offensive Efficiency:** 106.0 (Rank: #221)
+- **Offensive Efficiency:** 106.0 (Rank: #222)
 - **Defensive Efficiency:** 102.0 (Rank: #61)
 - **Tempo:** 68.3 (Rank: #214)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 51.4% (Rank: #185)
-- **3-Point Shooting:** 34.2% (Rank: #163)
-- **Free Throw Shooting:** 69.7% (Rank: #270)
+- **3-Point Shooting:** 34.2% (Rank: #164)
+- **Free Throw Shooting:** 69.7% (Rank: #269)
 - **3-Point Rate:** 40.1% (Rank: #172)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 46.6% (Rank: #30)
-- **Opponent 3-Point Shooting:** 34.9% (Rank: #231)
-- **Block Percentage:** 9.8% (Rank: #154)
+- **Opponent 3-Point Shooting:** 34.9% (Rank: #230)
+- **Block Percentage:** 9.8% (Rank: #155)
 - **Steal Rate:** 0.1% (Rank: #168)
 
 ### Team Metrics

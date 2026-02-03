@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Saint Louis Billikens -9.5</p>
-  <p><strong>Moneyline:</strong> Saint Louis Billikens (-530) | Davidson Wildcats (+390)</p>
+  <p><strong>Moneyline:</strong> Saint Louis Billikens (-535) | Davidson Wildcats (+395)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Saint Louis Billikens**: -9.5, Edge For Covering Spread: -2.4%
-- **Davidson Wildcats**: 9.5, Edge For Covering Spread: -2.4%
+- **Saint Louis Billikens**: -9.5, Edge For Covering Spread: -2.2%
+- **Davidson Wildcats**: 9.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Saint Louis Billikens Win Probability**: 79.7%, Moneyline Edge: -4.4%
-- **Davidson Wildcats Win Probability**: 20.3%, Moneyline Edge: -0.1%
+- **Saint Louis Billikens Win Probability**: 79.8%, Moneyline Edge: -4.4%
+- **Davidson Wildcats Win Probability**: 20.2%, Moneyline Edge: -0.0%
 
 ### Total
 - **Predicted Total**: 147.0
@@ -77,12 +77,12 @@ Saint Louis Billikens bring a elite offense (ranked #6) that could exploit David
 
 ## Saint Louis Billikens
 
-Saint Louis Billikens comes in ranked #25 overall by KenPom. They're dangerous from beyond the arc, shooting 41.1% from three (ranked #3 nationally), so expect them to let it fly from deep. On the defensive end, they're lockdown on the perimeter, holding opponents to just 27.7% from three. 
+Saint Louis Billikens comes in ranked #24 overall by KenPom. They're dangerous from beyond the arc, shooting 41.1% from three (ranked #3 nationally), so expect them to let it fly from deep. On the defensive end, they're lockdown on the perimeter, holding opponents to just 27.7% from three. 
 
 ### Record & Ranking
 - **Record:** 21-1
 - **Head Coach:** Josh Schertz
-- **KenPom Rank:** #25
+- **KenPom Rank:** #24
 - **Offensive Efficiency:** 123.8 (Rank: #6)
 - **Defensive Efficiency:** 94.7 (Rank: #11)
 - **Tempo:** 73.1 (Rank: #21)
@@ -99,14 +99,14 @@ Saint Louis Billikens comes in ranked #25 overall by KenPom. They're dangerous f
 - **Opponent 2-Point Shooting:** 43.3% (Rank: #3)
 - **Opponent 3-Point Shooting:** 27.7% (Rank: #4)
 - **Block Percentage:** 8.0% (Rank: #264)
-- **Steal Rate:** 0.1% (Rank: #136)
+- **Steal Rate:** 0.1% (Rank: #137)
 
 ### Team Metrics
 
 - **Assist Rate:** 60.6% (Rank: #27)
 - **Experience:** 2.3 years (Rank: #31)
-- **Bench Minutes:** 36.4% (Rank: #88)
-- **Average Height:** 77.5" (Rank: #154)
+- **Bench Minutes:** 36.4% (Rank: #87)
+- **Average Height:** 77.5" (Rank: #155)
 
 ---
 
@@ -127,20 +127,20 @@ Davidson Wildcats comes in ranked #107 overall by KenPom.
 
 - **2-Point Shooting:** 51.7% (Rank: #171)
 - **3-Point Shooting:** 37.0% (Rank: #34)
-- **Free Throw Shooting:** 65.2% (Rank: #355)
+- **Free Throw Shooting:** 65.2% (Rank: #356)
 - **3-Point Rate:** 43.2% (Rank: #109)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 53.4% (Rank: #253)
-- **Opponent 3-Point Shooting:** 31.9% (Rank: #75)
-- **Block Percentage:** 10.8% (Rank: #102)
-- **Steal Rate:** 0.1% (Rank: #113)
+- **Opponent 3-Point Shooting:** 31.9% (Rank: #74)
+- **Block Percentage:** 10.8% (Rank: #103)
+- **Steal Rate:** 0.1% (Rank: #114)
 
 ### Team Metrics
 
-- **Assist Rate:** 52.3% (Rank: #192)
+- **Assist Rate:** 52.3% (Rank: #193)
 - **Experience:** 1.4 years (Rank: #187)
-- **Bench Minutes:** 41.4% (Rank: #20)
+- **Bench Minutes:** 41.4% (Rank: #19)
 - **Average Height:** 77.7" (Rank: #133)
 

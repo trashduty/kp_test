@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Belmont Bruins -10.5</p>
-  <p><strong>Moneyline:</strong> Drake Bulldogs (+500) | Belmont Bruins (-720)</p>
+  <p><strong>Spread:</strong> Belmont Bruins -9.5</p>
+  <p><strong>Moneyline:</strong> Drake Bulldogs (+425) | Belmont Bruins (-587)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Drake Bulldogs**: 10.5, Edge For Covering Spread: -6.4%
-- **Belmont Bruins**: -10.5, Edge For Covering Spread: **1.6%**
+- **Drake Bulldogs**: 9.5, Edge For Covering Spread: -7.6%
+- **Belmont Bruins**: -9.5, Edge For Covering Spread: **2.9%**
 
 ### Moneyline
-- **Drake Bulldogs Win Probability**: 14.5%, Moneyline Edge: -2.2%
-- **Belmont Bruins Win Probability**: 85.5%, Moneyline Edge: -2.3%
+- **Drake Bulldogs Win Probability**: 15.6%, Moneyline Edge: -3.4%
+- **Belmont Bruins Win Probability**: 84.4%, Moneyline Edge: -1.1%
 
 ### Total
 - **Predicted Total**: 153.5
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Belmont Bruins (20-3) hosts Drake Bulldogs (12-11) at Curb Event Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Belmont Bruins favored by 10.5 points, with the total sitting at 154.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Belmont Bruins (20-3) hosts Drake Bulldogs (12-11) at Curb Event Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Belmont Bruins favored by 9.5 points, with the total sitting at 154.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us Belmont Bruins has clear advantages, but games aren't played on paper. Drake Bulldogs needs to punch above their weight class to keep this close. The total of 154.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 9.5 points tells us Belmont Bruins has clear advantages, but games aren't played on paper. Drake Bulldogs needs to punch above their weight class to keep this close. The total of 154.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Drake Bulldogs** bring an offensive efficiency of 109.54 (ranked #152 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.6% three-point shooting is serviceable but won't scare anyone. 
 Meanwhile, **Belmont Bruins** counter with 117.19 offensive efficiency (#50). They're competent on offense without being spectacular. They're lethal from beyond the arc at 40.6%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-Drake Bulldogs operate at a 68.3 tempo (#210), while Belmont Bruins play at 70.4 (#106). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.4) should create a standard flow. 
+Drake Bulldogs operate at a 68.3 tempo (#210), while Belmont Bruins play at 70.4 (#105). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.4) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Drake Bulldogs shoot 51.4% on two-pointers, while Belmont Bruins convert at 60.3%. Belmont Bruins has a clear edge in interior scoring efficiency. 
@@ -88,36 +88,36 @@ Drake Bulldogs comes in ranked #176 overall by KenPom.
 - **2-Point Shooting:** 51.4% (Rank: #186)
 - **3-Point Shooting:** 34.6% (Rank: #139)
 - **Free Throw Shooting:** 71.4% (Rank: #209)
-- **3-Point Rate:** 45.2% (Rank: #62)
+- **3-Point Rate:** 45.2% (Rank: #61)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 50.1% (Rank: #121)
 - **Opponent 3-Point Shooting:** 35.3% (Rank: #253)
-- **Block Percentage:** 8.7% (Rank: #226)
+- **Block Percentage:** 8.7% (Rank: #224)
 - **Steal Rate:** 0.1% (Rank: #264)
 
 ### Team Metrics
 
-- **Assist Rate:** 51.3% (Rank: #216)
+- **Assist Rate:** 51.3% (Rank: #217)
 - **Experience:** 1.1 years (Rank: #254)
 - **Bench Minutes:** 32.2% (Rank: #197)
-- **Average Height:** 77.1" (Rank: #229)
+- **Average Height:** 77.1" (Rank: #228)
 
 ---
 
 ## Belmont Bruins
 
-Belmont Bruins comes in ranked #57 overall by KenPom. They're dangerous from beyond the arc, shooting 40.6% from three (ranked #5 nationally), so expect them to let it fly from deep. 
+Belmont Bruins comes in ranked #60 overall by KenPom. They're dangerous from beyond the arc, shooting 40.6% from three (ranked #5 nationally), so expect them to let it fly from deep. 
 
 ### Record & Ranking
 - **Record:** 20-3
 - **Head Coach:** Casey Alexander
 - **Home Arena:** Curb Event Center
-- **KenPom Rank:** #57
+- **KenPom Rank:** #60
 - **Offensive Efficiency:** 117.2 (Rank: #50)
 - **Defensive Efficiency:** 101.8 (Rank: #57)
-- **Tempo:** 70.4 (Rank: #106)
+- **Tempo:** 70.4 (Rank: #105)
 
 ### Shooting Breakdown
 
@@ -129,9 +129,9 @@ Belmont Bruins comes in ranked #57 overall by KenPom. They're dangerous from bey
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 45.8% (Rank: #19)
-- **Opponent 3-Point Shooting:** 33.1% (Rank: #140)
+- **Opponent 3-Point Shooting:** 33.1% (Rank: #139)
 - **Block Percentage:** 11.8% (Rank: #68)
-- **Steal Rate:** 0.1% (Rank: #235)
+- **Steal Rate:** 0.1% (Rank: #236)
 
 ### Team Metrics
 

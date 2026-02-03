@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Dayton Flyers -9.5</p>
-  <p><strong>Moneyline:</strong> St. Bonaventure Bonnies (+390) | Dayton Flyers (-530)</p>
+  <p><strong>Spread:</strong> Dayton Flyers -8.5</p>
+  <p><strong>Moneyline:</strong> St. Bonaventure Bonnies (+330) | Dayton Flyers (-437)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **St. Bonaventure Bonnies**: 9.5, Edge For Covering Spread: -1.3%
-- **Dayton Flyers**: -9.5, Edge For Covering Spread: -3.4%
+- **St. Bonaventure Bonnies**: 8.5, Edge For Covering Spread: -2.4%
+- **Dayton Flyers**: -8.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **St. Bonaventure Bonnies Win Probability**: 19.4%, Moneyline Edge: -1.0%
-- **Dayton Flyers Win Probability**: 80.6%, Moneyline Edge: -3.5%
+- **St. Bonaventure Bonnies Win Probability**: 20.7%, Moneyline Edge: -2.6%
+- **Dayton Flyers Win Probability**: 79.3%, Moneyline Edge: -2.1%
 
 ### Total
 - **Predicted Total**: 146.5
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Dayton Flyers (14-8) hosts St. Bonaventure Bonnies (13-9) at University of Dayton Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Dayton Flyers favored by 9.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Dayton Flyers (14-8) hosts St. Bonaventure Bonnies (13-9) at University of Dayton Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Dayton Flyers favored by 8.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Dayton Flyers has clear advantages, but games aren't played on paper. St. Bonaventure Bonnies needs to punch above their weight class to keep this close. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.5 points tells us Dayton Flyers has clear advantages, but games aren't played on paper. St. Bonaventure Bonnies needs to punch above their weight class to keep this close. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **St. Bonaventure Bonnies** bring an offensive efficiency of 112.85 (ranked #92 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 37.5% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
 Meanwhile, **Dayton Flyers** counter with 108.91 offensive efficiency (#166). Points have been hard to come by, making every possession critical. At 32.7% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-St. Bonaventure Bonnies operate at a 68.0 tempo (#223), while Dayton Flyers play at 69.2 (#157). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 68.6) should create a standard flow. 
+St. Bonaventure Bonnies operate at a 68.0 tempo (#224), while Dayton Flyers play at 69.2 (#156). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 68.6) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, St. Bonaventure Bonnies shoot 50.6% on two-pointers, while Dayton Flyers convert at 54.1%. Both teams are evenly matched in paint efficiency. 
@@ -81,25 +81,25 @@ St. Bonaventure Bonnies comes in ranked #150 overall by KenPom. They're dangerou
 - **KenPom Rank:** #150
 - **Offensive Efficiency:** 112.9 (Rank: #92)
 - **Defensive Efficiency:** 110.6 (Rank: #244)
-- **Tempo:** 68.0 (Rank: #223)
+- **Tempo:** 68.0 (Rank: #224)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 50.6% (Rank: #213)
+- **2-Point Shooting:** 50.6% (Rank: #215)
 - **3-Point Shooting:** 37.5% (Rank: #25)
 - **Free Throw Shooting:** 75.9% (Rank: #62)
 - **3-Point Rate:** 31.2% (Rank: #340)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 54.2% (Rank: #275)
-- **Opponent 3-Point Shooting:** 36.3% (Rank: #301)
+- **Opponent 2-Point Shooting:** 54.2% (Rank: #276)
+- **Opponent 3-Point Shooting:** 36.3% (Rank: #302)
 - **Block Percentage:** 12.3% (Rank: #57)
-- **Steal Rate:** 0.1% (Rank: #90)
+- **Steal Rate:** 0.1% (Rank: #89)
 
 ### Team Metrics
 
-- **Assist Rate:** 56.1% (Rank: #94)
+- **Assist Rate:** 56.1% (Rank: #93)
 - **Experience:** 1.6 years (Rank: #150)
 - **Bench Minutes:** 21.8% (Rank: #352)
 - **Average Height:** 76.4" (Rank: #322)
@@ -108,21 +108,21 @@ St. Bonaventure Bonnies comes in ranked #150 overall by KenPom. They're dangerou
 
 ## Dayton Flyers
 
-Dayton Flyers comes in ranked #88 overall by KenPom. Their defense has been a calling card this season, making life difficult for opposing offenses. 
+Dayton Flyers comes in ranked #89 overall by KenPom. Their defense has been a calling card this season, making life difficult for opposing offenses. 
 
 ### Record & Ranking
 - **Record:** 14-8
 - **Head Coach:** Anthony Grant
 - **Home Arena:** University of Dayton Arena
-- **KenPom Rank:** #88
+- **KenPom Rank:** #89
 - **Offensive Efficiency:** 108.9 (Rank: #166)
 - **Defensive Efficiency:** 100.4 (Rank: #39)
-- **Tempo:** 69.2 (Rank: #157)
+- **Tempo:** 69.2 (Rank: #156)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 54.1% (Rank: #96)
-- **3-Point Shooting:** 32.7% (Rank: #238)
+- **2-Point Shooting:** 54.1% (Rank: #95)
+- **3-Point Shooting:** 32.7% (Rank: #240)
 - **Free Throw Shooting:** 75.4% (Rank: #74)
 - **3-Point Rate:** 41.8% (Rank: #141)
 
@@ -131,12 +131,12 @@ Dayton Flyers comes in ranked #88 overall by KenPom. Their defense has been a ca
 - **Opponent 2-Point Shooting:** 48.8% (Rank: #74)
 - **Opponent 3-Point Shooting:** 36.6% (Rank: #311)
 - **Block Percentage:** 13.4% (Rank: #28)
-- **Steal Rate:** 0.1% (Rank: #12)
+- **Steal Rate:** 0.1% (Rank: #11)
 
 ### Team Metrics
 
 - **Assist Rate:** 57.9% (Rank: #62)
 - **Experience:** 2.4 years (Rank: #26)
-- **Bench Minutes:** 31.0% (Rank: #224)
+- **Bench Minutes:** 31.0% (Rank: #225)
 - **Average Height:** 77.3" (Rank: #190)
 

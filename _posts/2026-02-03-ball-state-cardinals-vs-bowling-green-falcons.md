@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Bowling Green Falcons -11.5</p>
-  <p><strong>Moneyline:</strong> Ball State Cardinals (+500) | Bowling Green Falcons (-780)</p>
+  <p><strong>Spread:</strong> Bowling Green Falcons -11.0</p>
+  <p><strong>Moneyline:</strong> Ball State Cardinals (+487) | Bowling Green Falcons (-710)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ball State Cardinals**: 11.5, Edge For Covering Spread: -5.2%
-- **Bowling Green Falcons**: -11.5, Edge For Covering Spread: **0.5%**
+- **Ball State Cardinals**: 11.0, Edge For Covering Spread: -5.7%
+- **Bowling Green Falcons**: -11.0, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Ball State Cardinals Win Probability**: 13.4%, Moneyline Edge: -3.3%
-- **Bowling Green Falcons Win Probability**: 86.6%, Moneyline Edge: -2.1%
+- **Ball State Cardinals Win Probability**: 13.6%, Moneyline Edge: -3.4%
+- **Bowling Green Falcons Win Probability**: 86.4%, Moneyline Edge: -1.3%
 
 ### Total
-- **Predicted Total**: 136.5
-- Edge For Covering The Over: -3.3%
-- Edge For Covering The Under: -1.4%
+- **Predicted Total**: 137.0
+- Edge For Covering The Over: -4.6%
+- Edge For Covering The Under: -0.1%
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Bowling Green Falcons (13-9) hosts Ball State Cardinals (7-14) at Stroh Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Bowling Green Falcons favored by 11.5 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Bowling Green Falcons (13-9) hosts Ball State Cardinals (7-14) at Stroh Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Bowling Green Falcons favored by 11.0 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us Bowling Green Falcons has clear advantages, but games aren't played on paper. Ball State Cardinals needs to punch above their weight class to keep this close. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 11.0 points tells us Bowling Green Falcons has clear advantages, but games aren't played on paper. Ball State Cardinals needs to punch above their weight class to keep this close. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Ball State Cardinals** bring an offensive efficiency of 99.13 (ranked #326 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.3% from three, they can't rely on the arc. Expect a paint-focused attack. 
-Meanwhile, **Bowling Green Falcons** counter with 110.52 offensive efficiency (#127). They're competent on offense without being spectacular. At 34.4% from three, they have adequate spacing but must pick their spots. 
+Meanwhile, **Bowling Green Falcons** counter with 110.52 offensive efficiency (#128). They're competent on offense without being spectacular. At 34.4% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Ball State Cardinals operate at a 65.5 tempo (#323), while Bowling Green Falcons play at 70.4 (#104). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 68.0) means fewer possessions, making each one more valuable. 
+Ball State Cardinals operate at a 65.5 tempo (#323), while Bowling Green Falcons play at 70.4 (#103). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 68.0) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Ball State Cardinals shoot 46.7% on two-pointers, while Bowling Green Falcons convert at 52.7%. Bowling Green Falcons has a clear edge in interior scoring efficiency. 
@@ -68,7 +68,7 @@ This looks like a mismatch on paper with Bowling Green Falcons significantly hig
 
 **Key Matchup: Bowling Green Falcons's Offense vs Ball State Cardinals's Defense**
 
-Bowling Green Falcons features a middle-of-the-pack offense (ranked #127) that should find success against Ball State Cardinals's defensive unit (ranked #250). 
+Bowling Green Falcons features a middle-of-the-pack offense (ranked #128) that should find success against Ball State Cardinals's defensive unit (ranked #250). 
 
 
 ## Ball State Cardinals
@@ -85,17 +85,17 @@ Ball State Cardinals comes in ranked #308 overall by KenPom. The three-point sho
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 46.7% (Rank: #326)
-- **3-Point Shooting:** 30.3% (Rank: #328)
+- **2-Point Shooting:** 46.7% (Rank: #327)
+- **3-Point Shooting:** 30.3% (Rank: #329)
 - **Free Throw Shooting:** 72.2% (Rank: #185)
 - **3-Point Rate:** 40.1% (Rank: #171)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 54.7% (Rank: #290)
+- **Opponent 2-Point Shooting:** 54.7% (Rank: #289)
 - **Opponent 3-Point Shooting:** 36.6% (Rank: #312)
-- **Block Percentage:** 8.5% (Rank: #236)
-- **Steal Rate:** 0.1% (Rank: #64)
+- **Block Percentage:** 8.5% (Rank: #235)
+- **Steal Rate:** 0.1% (Rank: #63)
 
 ### Team Metrics
 
@@ -115,28 +115,28 @@ Bowling Green Falcons comes in ranked #133 overall by KenPom.
 - **Head Coach:** Todd Simon
 - **Home Arena:** Stroh Center
 - **KenPom Rank:** #133
-- **Offensive Efficiency:** 110.5 (Rank: #127)
+- **Offensive Efficiency:** 110.5 (Rank: #128)
 - **Defensive Efficiency:** 101.9 (Rank: #60)
-- **Tempo:** 70.4 (Rank: #104)
+- **Tempo:** 70.4 (Rank: #103)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 52.7% (Rank: #143)
-- **3-Point Shooting:** 34.4% (Rank: #152)
+- **3-Point Shooting:** 34.4% (Rank: #151)
 - **Free Throw Shooting:** 72.4% (Rank: #183)
 - **3-Point Rate:** 33.7% (Rank: #309)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.5% (Rank: #220)
-- **Opponent 3-Point Shooting:** 33.0% (Rank: #130)
-- **Block Percentage:** 10.8% (Rank: #103)
+- **Opponent 2-Point Shooting:** 52.5% (Rank: #221)
+- **Opponent 3-Point Shooting:** 33.0% (Rank: #128)
+- **Block Percentage:** 10.8% (Rank: #104)
 - **Steal Rate:** 0.1% (Rank: #28)
 
 ### Team Metrics
 
-- **Assist Rate:** 49.9% (Rank: #255)
+- **Assist Rate:** 49.9% (Rank: #257)
 - **Experience:** 1.5 years (Rank: #164)
-- **Bench Minutes:** 28.0% (Rank: #288)
+- **Bench Minutes:** 28.0% (Rank: #289)
 - **Average Height:** 78.2" (Rank: #65)
 

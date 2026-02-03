@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tennessee Volunteers -11.5</p>
-  <p><strong>Moneyline:</strong> Ole Miss Rebels (+580) | Tennessee Volunteers (-880)</p>
+  <p><strong>Moneyline:</strong> Ole Miss Rebels (+587) | Tennessee Volunteers (-898)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ole Miss Rebels**: 11.5, Edge For Covering Spread: -3.5%
-- **Tennessee Volunteers**: -11.5, Edge For Covering Spread: -1.3%
+- **Ole Miss Rebels**: 11.5, Edge For Covering Spread: -4.1%
+- **Tennessee Volunteers**: -11.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Ole Miss Rebels Win Probability**: 13.2%, Moneyline Edge: -1.5%
-- **Tennessee Volunteers Win Probability**: 86.8%, Moneyline Edge: -3.0%
+- **Ole Miss Rebels Win Probability**: 13.2%, Moneyline Edge: -1.4%
+- **Tennessee Volunteers Win Probability**: 86.8%, Moneyline Edge: -3.1%
 
 ### Total
-- **Predicted Total**: 138.0
-- Edge For Covering The Over: -3.1%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 138.5
+- Edge For Covering The Over: -3.3%
+- Edge For Covering The Under: -2.9%
 
 ---
 
@@ -85,23 +85,23 @@ Ole Miss Rebels comes in ranked #64 overall by KenPom.
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 49.8% (Rank: #245)
-- **3-Point Shooting:** 34.0% (Rank: #177)
+- **2-Point Shooting:** 49.8% (Rank: #246)
+- **3-Point Shooting:** 34.0% (Rank: #180)
 - **Free Throw Shooting:** 74.4% (Rank: #107)
-- **3-Point Rate:** 37.1% (Rank: #233)
+- **3-Point Rate:** 37.1% (Rank: #234)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 49.0% (Rank: #82)
-- **Opponent 3-Point Shooting:** 32.5% (Rank: #105)
+- **Opponent 3-Point Shooting:** 32.5% (Rank: #103)
 - **Block Percentage:** 13.7% (Rank: #23)
 - **Steal Rate:** 0.1% (Rank: #134)
 
 ### Team Metrics
 
-- **Assist Rate:** 51.2% (Rank: #220)
+- **Assist Rate:** 51.2% (Rank: #221)
 - **Experience:** 1.6 years (Rank: #151)
-- **Bench Minutes:** 39.6% (Rank: #35)
+- **Bench Minutes:** 39.6% (Rank: #34)
 - **Average Height:** 77.6" (Rank: #149)
 
 ---
@@ -121,22 +121,22 @@ Tennessee Volunteers comes in ranked #18 overall by KenPom. They boast one of th
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 54.1% (Rank: #97)
-- **3-Point Shooting:** 35.0% (Rank: #116)
+- **2-Point Shooting:** 54.1% (Rank: #96)
+- **3-Point Shooting:** 35.0% (Rank: #115)
 - **Free Throw Shooting:** 69.3% (Rank: #279)
 - **3-Point Rate:** 33.5% (Rank: #311)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 48.9% (Rank: #77)
-- **Opponent 3-Point Shooting:** 29.4% (Rank: #16)
-- **Block Percentage:** 11.1% (Rank: #89)
+- **Opponent 3-Point Shooting:** 29.4% (Rank: #17)
+- **Block Percentage:** 11.1% (Rank: #91)
 - **Steal Rate:** 0.1% (Rank: #81)
 
 ### Team Metrics
 
 - **Assist Rate:** 60.5% (Rank: #28)
 - **Experience:** 1.6 years (Rank: #132)
-- **Bench Minutes:** 36.2% (Rank: #95)
+- **Bench Minutes:** 36.2% (Rank: #94)
 - **Average Height:** 78.4" (Rank: #44)
 

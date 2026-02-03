@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UCLA Bruins -13.5</p>
-  <p><strong>Moneyline:</strong> Rutgers Scarlet Knights (+800) | UCLA Bruins (-1600)</p>
+  <p><strong>Spread:</strong> UCLA Bruins -14.0</p>
+  <p><strong>Moneyline:</strong> Rutgers Scarlet Knights (+800) | UCLA Bruins (-1400)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Rutgers Scarlet Knights**: 13.5, Edge For Covering Spread: -2.9%
-- **UCLA Bruins**: -13.5, Edge For Covering Spread: -1.8%
+- **Rutgers Scarlet Knights**: 14.0, Edge For Covering Spread: -2.4%
+- **UCLA Bruins**: -14.0, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Rutgers Scarlet Knights Win Probability**: 9.9%, Moneyline Edge: -1.2%
-- **UCLA Bruins Win Probability**: 90.1%, Moneyline Edge: -4.0%
+- **Rutgers Scarlet Knights Win Probability**: 10.0%, Moneyline Edge: -1.1%
+- **UCLA Bruins Win Probability**: 90.0%, Moneyline Edge: -3.4%
 
 ### Total
 - **Predicted Total**: 140.0
-- Edge For Covering The Over: -2.0%
-- Edge For Covering The Under: -2.7%
+- Edge For Covering The Over: -3.1%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UCLA Bruins (15-7) hosts Rutgers Scarlet Knights (9-13) at Pauley Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UCLA Bruins favored by 13.5 points, with the total sitting at 140.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UCLA Bruins (15-7) hosts Rutgers Scarlet Knights (9-13) at Pauley Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UCLA Bruins favored by 14.0 points, with the total sitting at 140.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 13.5-point spread screams mismatch. The books are asking Rutgers Scarlet Knights to hang within two possessions, which based on the profiles, requires UCLA Bruins to play below their standard. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 14.0-point spread screams mismatch. The books are asking Rutgers Scarlet Knights to hang within two possessions, which based on the profiles, requires UCLA Bruins to play below their standard. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Rutgers Scarlet Knights** bring an offensive efficiency of 104.24 (ranked #247 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.2% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **UCLA Bruins** counter with 115.32 offensive efficiency (#69). They're competent on offense without being spectacular. They're lethal from beyond the arc at 37.4%, giving them spacing and shot creation. 
+**Rutgers Scarlet Knights** bring an offensive efficiency of 104.24 (ranked #248 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.2% three-point shooting is serviceable but won't scare anyone. 
+Meanwhile, **UCLA Bruins** counter with 115.32 offensive efficiency (#68). They're competent on offense without being spectacular. They're lethal from beyond the arc at 37.4%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-Rutgers Scarlet Knights operate at a 66.3 tempo (#297), while UCLA Bruins play at 66.8 (#269). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.6) means fewer possessions, making each one more valuable. 
+Rutgers Scarlet Knights operate at a 66.3 tempo (#297), while UCLA Bruins play at 66.8 (#268). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.6) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Rutgers Scarlet Knights shoot 45.1% on two-pointers, while UCLA Bruins convert at 52.2%. UCLA Bruins has a clear edge in interior scoring efficiency. 
@@ -68,27 +68,27 @@ This looks like a mismatch on paper with UCLA Bruins significantly higher in the
 
 **Key Matchup: UCLA Bruins's Offense vs Rutgers Scarlet Knights's Defense**
 
-UCLA Bruins features a solid offense (ranked #69) that should find success against Rutgers Scarlet Knights's defensive unit (ranked #262). 
+UCLA Bruins features a solid offense (ranked #68) that should find success against Rutgers Scarlet Knights's defensive unit (ranked #262). 
 
 **X-Factor:** UCLA Bruins's three-point shooting (37.4%) faces a tough test against Rutgers Scarlet Knights's perimeter defense, which limits opponents to 29.7% from deep. 
 
 
 ## Rutgers Scarlet Knights
 
-Rutgers Scarlet Knights comes in ranked #146 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Rutgers Scarlet Knights comes in ranked #147 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 9-13
 - **Head Coach:** Steve Pikiell
-- **KenPom Rank:** #146
-- **Offensive Efficiency:** 104.2 (Rank: #247)
+- **KenPom Rank:** #147
+- **Offensive Efficiency:** 104.2 (Rank: #248)
 - **Defensive Efficiency:** 111.8 (Rank: #262)
 - **Tempo:** 66.3 (Rank: #297)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 45.1% (Rank: #349)
-- **3-Point Shooting:** 32.2% (Rank: #262)
+- **3-Point Shooting:** 32.2% (Rank: #261)
 - **Free Throw Shooting:** 73.5% (Rank: #148)
 - **3-Point Rate:** 35.4% (Rank: #261)
 
@@ -96,12 +96,12 @@ Rutgers Scarlet Knights comes in ranked #146 overall by KenPom. Defense has been
 
 - **Opponent 2-Point Shooting:** 50.4% (Rank: #129)
 - **Opponent 3-Point Shooting:** 37.1% (Rank: #330)
-- **Block Percentage:** 10.1% (Rank: #137)
+- **Block Percentage:** 10.1% (Rank: #138)
 - **Steal Rate:** 0.1% (Rank: #191)
 
 ### Team Metrics
 
-- **Assist Rate:** 45.8% (Rank: #322)
+- **Assist Rate:** 45.8% (Rank: #323)
 - **Experience:** 1.3 years (Rank: #213)
 - **Bench Minutes:** 40.3% (Rank: #29)
 - **Average Height:** 77.7" (Rank: #134)
@@ -110,30 +110,30 @@ Rutgers Scarlet Knights comes in ranked #146 overall by KenPom. Defense has been
 
 ## UCLA Bruins
 
-UCLA Bruins comes in ranked #39 overall by KenPom. They're dangerous from beyond the arc, shooting 37.4% from three (ranked #30 nationally), so expect them to let it fly from deep. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.7% from three. 
+UCLA Bruins comes in ranked #38 overall by KenPom. They're dangerous from beyond the arc, shooting 37.4% from three (ranked #30 nationally), so expect them to let it fly from deep. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.7% from three. 
 
 ### Record & Ranking
 - **Record:** 15-7
 - **Head Coach:** Mick Cronin
 - **Home Arena:** Pauley Pavilion
-- **KenPom Rank:** #39
-- **Offensive Efficiency:** 115.3 (Rank: #69)
+- **KenPom Rank:** #38
+- **Offensive Efficiency:** 115.3 (Rank: #68)
 - **Defensive Efficiency:** 103.5 (Rank: #82)
-- **Tempo:** 66.8 (Rank: #269)
+- **Tempo:** 66.8 (Rank: #268)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 52.2% (Rank: #161)
 - **3-Point Shooting:** 37.4% (Rank: #30)
 - **Free Throw Shooting:** 76.3% (Rank: #50)
-- **3-Point Rate:** 34.5% (Rank: #291)
+- **3-Point Rate:** 34.5% (Rank: #290)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 52.2% (Rank: #206)
-- **Opponent 3-Point Shooting:** 29.7% (Rank: #22)
+- **Opponent 3-Point Shooting:** 29.7% (Rank: #23)
 - **Block Percentage:** 11.5% (Rank: #77)
-- **Steal Rate:** 0.1% (Rank: #158)
+- **Steal Rate:** 0.1% (Rank: #160)
 
 ### Team Metrics
 

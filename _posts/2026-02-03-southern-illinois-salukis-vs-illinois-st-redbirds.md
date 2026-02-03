@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Illinois St Redbirds -7.5</p>
-  <p><strong>Moneyline:</strong> Southern Illinois Salukis (+290) | Illinois St Redbirds (-375)</p>
+  <p><strong>Moneyline:</strong> Southern Illinois Salukis (+280) | Illinois St Redbirds (-357)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Southern Illinois Salukis**: 7.5, Edge For Covering Spread: -3.5%
-- **Illinois St Redbirds**: -7.5, Edge For Covering Spread: -1.3%
+- **Southern Illinois Salukis**: 7.5, Edge For Covering Spread: -2.9%
+- **Illinois St Redbirds**: -7.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Southern Illinois Salukis Win Probability**: 21.8%, Moneyline Edge: -3.9%
-- **Illinois St Redbirds Win Probability**: 78.2%, Moneyline Edge: -0.7%
+- **Southern Illinois Salukis Win Probability**: 22.1%, Moneyline Edge: -4.2%
+- **Illinois St Redbirds Win Probability**: 77.9%, Moneyline Edge: -0.2%
 
 ### Total
-- **Predicted Total**: 141.5
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -0.3%
+- **Predicted Total**: 142.0
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 
@@ -48,11 +48,11 @@ Illinois St Redbirds (15-7) hosts Southern Illinois Salukis (9-13) at CEFCU Aren
 A spread around 7.5 points tells us Illinois St Redbirds has clear advantages, but games aren't played on paper. Southern Illinois Salukis needs to punch above their weight class to keep this close. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Southern Illinois Salukis** bring an offensive efficiency of 103.42 (ranked #263 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.1% from three, they can't rely on the arc. Expect a paint-focused attack. 
+**Southern Illinois Salukis** bring an offensive efficiency of 103.42 (ranked #262 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.1% from three, they can't rely on the arc. Expect a paint-focused attack. 
 Meanwhile, **Illinois St Redbirds** counter with 111.84 offensive efficiency (#109). They're competent on offense without being spectacular. At 34.6% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Southern Illinois Salukis operate at a 70.3 tempo (#107), while Illinois St Redbirds play at 68.2 (#216). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.3) should create a standard flow. 
+Southern Illinois Salukis operate at a 70.3 tempo (#106), while Illinois St Redbirds play at 68.2 (#216). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.3) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Southern Illinois Salukis shoot 52.7% on two-pointers, while Illinois St Redbirds convert at 55.6%. Both teams are evenly matched in paint efficiency. 
@@ -79,27 +79,27 @@ Southern Illinois Salukis comes in ranked #128 overall by KenPom. The three-poin
 - **Record:** 9-13
 - **Head Coach:** Scott Nagy
 - **KenPom Rank:** #128
-- **Offensive Efficiency:** 103.4 (Rank: #263)
+- **Offensive Efficiency:** 103.4 (Rank: #262)
 - **Defensive Efficiency:** 102.2 (Rank: #63)
-- **Tempo:** 70.3 (Rank: #107)
+- **Tempo:** 70.3 (Rank: #106)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 52.7% (Rank: #144)
 - **3-Point Shooting:** 29.1% (Rank: #347)
-- **Free Throw Shooting:** 66.4% (Rank: #342)
+- **Free Throw Shooting:** 66.4% (Rank: #343)
 - **3-Point Rate:** 28.0% (Rank: #360)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.5% (Rank: #178)
+- **Opponent 2-Point Shooting:** 51.5% (Rank: #179)
 - **Opponent 3-Point Shooting:** 30.4% (Rank: #42)
-- **Block Percentage:** 10.0% (Rank: #141)
+- **Block Percentage:** 10.0% (Rank: #143)
 - **Steal Rate:** 0.1% (Rank: #77)
 
 ### Team Metrics
 
-- **Assist Rate:** 49.5% (Rank: #261)
+- **Assist Rate:** 49.5% (Rank: #262)
 - **Experience:** 1.7 years (Rank: #123)
 - **Bench Minutes:** 37.0% (Rank: #74)
 - **Average Height:** 77.3" (Rank: #193)
@@ -108,13 +108,13 @@ Southern Illinois Salukis comes in ranked #128 overall by KenPom. The three-poin
 
 ## Illinois St Redbirds
 
-Illinois St Redbirds comes in ranked #83 overall by KenPom. Their defense has been a calling card this season, making life difficult for opposing offenses. 
+Illinois St Redbirds comes in ranked #84 overall by KenPom. Their defense has been a calling card this season, making life difficult for opposing offenses. 
 
 ### Record & Ranking
 - **Record:** 15-7
 - **Head Coach:** Ryan Pedon
 - **Home Arena:** CEFCU Arena
-- **KenPom Rank:** #83
+- **KenPom Rank:** #84
 - **Offensive Efficiency:** 111.8 (Rank: #109)
 - **Defensive Efficiency:** 99.2 (Rank: #32)
 - **Tempo:** 68.2 (Rank: #216)
@@ -124,19 +124,19 @@ Illinois St Redbirds comes in ranked #83 overall by KenPom. Their defense has be
 - **2-Point Shooting:** 55.6% (Rank: #65)
 - **3-Point Shooting:** 34.6% (Rank: #137)
 - **Free Throw Shooting:** 70.2% (Rank: #253)
-- **3-Point Rate:** 41.0% (Rank: #150)
+- **3-Point Rate:** 41.0% (Rank: #151)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 48.5% (Rank: #68)
-- **Opponent 3-Point Shooting:** 31.9% (Rank: #78)
+- **Opponent 2-Point Shooting:** 48.5% (Rank: #69)
+- **Opponent 3-Point Shooting:** 31.9% (Rank: #77)
 - **Block Percentage:** 6.4% (Rank: #334)
-- **Steal Rate:** 0.1% (Rank: #244)
+- **Steal Rate:** 0.1% (Rank: #245)
 
 ### Team Metrics
 
-- **Assist Rate:** 48.5% (Rank: #284)
+- **Assist Rate:** 48.5% (Rank: #285)
 - **Experience:** 2.1 years (Rank: #48)
-- **Bench Minutes:** 33.8% (Rank: #139)
+- **Bench Minutes:** 33.8% (Rank: #140)
 - **Average Height:** 76.6" (Rank: #299)
 

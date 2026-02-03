@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Fresno St Bulldogs -1.5</p>
-  <p><strong>Moneyline:</strong> UNLV Rebels (+105) | Fresno St Bulldogs (-125)</p>
+  <p><strong>Moneyline:</strong> UNLV Rebels (+103) | Fresno St Bulldogs (-123)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UNLV Rebels**: 1.5, Edge For Covering Spread: -4.4%
-- **Fresno St Bulldogs**: -1.5, Edge For Covering Spread: -0.3%
+- **UNLV Rebels**: 1.5, Edge For Covering Spread: -4.0%
+- **Fresno St Bulldogs**: -1.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **UNLV Rebels Win Probability**: 43.9%, Moneyline Edge: -4.9%
-- **Fresno St Bulldogs Win Probability**: 56.1%, Moneyline Edge: **0.6%**
+- **UNLV Rebels Win Probability**: 44.0%, Moneyline Edge: -5.1%
+- **Fresno St Bulldogs Win Probability**: 56.0%, Moneyline Edge: **0.7%**
 
 ### Total
 - **Predicted Total**: 149.5
@@ -49,10 +49,10 @@ A spread under 3 points suggests the books see this as essentially a coin flip. 
 
 #### Offensive Firepower
 **UNLV Rebels** bring an offensive efficiency of 107.94 (ranked #179 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.3% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Fresno St Bulldogs** counter with 102.19 offensive efficiency (#282). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 31.7%, forcing them to grind in the half court. 
+Meanwhile, **Fresno St Bulldogs** counter with 102.19 offensive efficiency (#284). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 31.7%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
-UNLV Rebels operate at a 71.4 tempo (#58), while Fresno St Bulldogs play at 70.1 (#121). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.8) should create a standard flow. 
+UNLV Rebels operate at a 71.4 tempo (#58), while Fresno St Bulldogs play at 70.1 (#123). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.8) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, UNLV Rebels shoot 53.0% on two-pointers, while Fresno St Bulldogs convert at 51.4%. Both teams are evenly matched in paint efficiency. 
@@ -64,7 +64,7 @@ From a coaching perspective, Josh Pastner leads UNLV Rebels while Vance Walberg 
 
 ### Game Storylines
 
-This matchup features two evenly-matched teams, with UNLV Rebels at #136 and Fresno St Bulldogs at #135 in the KenPom rankings. Expect a competitive battle throughout. 
+This matchup features two evenly-matched teams, with UNLV Rebels at #137 and Fresno St Bulldogs at #134 in the KenPom rankings. Expect a competitive battle throughout. 
 
 **Key Matchup: The Battle in the Trenches**
 
@@ -73,56 +73,56 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## UNLV Rebels
 
-UNLV Rebels comes in ranked #136 overall by KenPom. 
+UNLV Rebels comes in ranked #137 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 10-11
 - **Head Coach:** Josh Pastner
-- **KenPom Rank:** #136
+- **KenPom Rank:** #137
 - **Offensive Efficiency:** 107.9 (Rank: #179)
-- **Defensive Efficiency:** 110.1 (Rank: #234)
+- **Defensive Efficiency:** 110.1 (Rank: #235)
 - **Tempo:** 71.4 (Rank: #58)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 53.0% (Rank: #125)
-- **3-Point Shooting:** 32.3% (Rank: #261)
-- **Free Throw Shooting:** 67.9% (Rank: #322)
+- **3-Point Shooting:** 32.3% (Rank: #260)
+- **Free Throw Shooting:** 67.9% (Rank: #323)
 - **3-Point Rate:** 35.1% (Rank: #272)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.8% (Rank: #227)
-- **Opponent 3-Point Shooting:** 34.7% (Rank: #219)
-- **Block Percentage:** 11.0% (Rank: #91)
+- **Opponent 2-Point Shooting:** 52.8% (Rank: #228)
+- **Opponent 3-Point Shooting:** 34.7% (Rank: #218)
+- **Block Percentage:** 11.0% (Rank: #93)
 - **Steal Rate:** 0.1% (Rank: #86)
 
 ### Team Metrics
 
-- **Assist Rate:** 52.3% (Rank: #189)
+- **Assist Rate:** 52.3% (Rank: #190)
 - **Experience:** 1.4 years (Rank: #178)
-- **Bench Minutes:** 33.2% (Rank: #157)
+- **Bench Minutes:** 33.2% (Rank: #156)
 - **Average Height:** 77.5" (Rank: #165)
 
 ---
 
 ## Fresno St Bulldogs
 
-Fresno St Bulldogs comes in ranked #135 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. On the defensive end, they're lockdown on the perimeter, holding opponents to just 28.5% from three. 
+Fresno St Bulldogs comes in ranked #134 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. On the defensive end, they're lockdown on the perimeter, holding opponents to just 28.5% from three. 
 
 ### Record & Ranking
 - **Record:** 10-11
 - **Head Coach:** Vance Walberg
 - **Home Arena:** Save Mart Center
-- **KenPom Rank:** #135
-- **Offensive Efficiency:** 102.2 (Rank: #282)
+- **KenPom Rank:** #134
+- **Offensive Efficiency:** 102.2 (Rank: #284)
 - **Defensive Efficiency:** 101.7 (Rank: #55)
-- **Tempo:** 70.1 (Rank: #121)
+- **Tempo:** 70.1 (Rank: #123)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 51.4% (Rank: #191)
-- **3-Point Shooting:** 31.7% (Rank: #280)
+- **3-Point Shooting:** 31.7% (Rank: #281)
 - **Free Throw Shooting:** 75.8% (Rank: #63)
 - **3-Point Rate:** 42.3% (Rank: #130)
 

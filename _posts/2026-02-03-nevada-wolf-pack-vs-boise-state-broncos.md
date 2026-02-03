@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Boise State Broncos -5.5</p>
-  <p><strong>Moneyline:</strong> Nevada Wolf Pack (+210) | Boise State Broncos (-250)</p>
+  <p><strong>Moneyline:</strong> Nevada Wolf Pack (+210) | Boise State Broncos (-254)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Nevada Wolf Pack**: 5.5, Edge For Covering Spread: **1.0%**
-- **Boise State Broncos**: -5.5, Edge For Covering Spread: -5.7%
+- **Nevada Wolf Pack**: 5.5, Edge For Covering Spread: **0.5%**
+- **Boise State Broncos**: -5.5, Edge For Covering Spread: -5.3%
 
 ### Moneyline
-- **Nevada Wolf Pack Win Probability**: 34.6%, Moneyline Edge: **2.3%**
-- **Boise State Broncos Win Probability**: 65.4%, Moneyline Edge: -6.0%
+- **Nevada Wolf Pack Win Probability**: 34.5%, Moneyline Edge: **2.2%**
+- **Boise State Broncos Win Probability**: 65.5%, Moneyline Edge: -6.3%
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -0.3%
+- Edge For Covering The Over: -5.0%
+- Edge For Covering The Under: **0.3%**
 
 ---
 
@@ -48,7 +48,7 @@ When Nevada Wolf Pack (16-6) travels to face Boise State Broncos (13-9) at Extra
 The 5.5-point spread indicates Boise State Broncos is viewed as the better team, but this isn't an overwhelming edge. Nevada Wolf Pack has a legitimate path to covering or winning outright. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Nevada Wolf Pack** bring an offensive efficiency of 115.30 (ranked #70 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 39.3% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
+**Nevada Wolf Pack** bring an offensive efficiency of 115.30 (ranked #69 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 39.3% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
 Meanwhile, **Boise State Broncos** counter with 110.96 offensive efficiency (#117). They're competent on offense without being spectacular. At 34.0% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
@@ -79,7 +79,7 @@ Nevada Wolf Pack comes in ranked #56 overall by KenPom. They're dangerous from b
 - **Record:** 16-6
 - **Head Coach:** Steve Alford
 - **KenPom Rank:** #56
-- **Offensive Efficiency:** 115.3 (Rank: #70)
+- **Offensive Efficiency:** 115.3 (Rank: #69)
 - **Defensive Efficiency:** 105.6 (Rank: #119)
 - **Tempo:** 66.3 (Rank: #298)
 
@@ -93,9 +93,9 @@ Nevada Wolf Pack comes in ranked #56 overall by KenPom. They're dangerous from b
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 50.0% (Rank: #115)
-- **Opponent 3-Point Shooting:** 34.0% (Rank: #177)
+- **Opponent 3-Point Shooting:** 34.0% (Rank: #178)
 - **Block Percentage:** 12.9% (Rank: #39)
-- **Steal Rate:** 0.1% (Rank: #157)
+- **Steal Rate:** 0.1% (Rank: #158)
 
 ### Team Metrics
 
@@ -122,21 +122,21 @@ Boise State Broncos comes in ranked #59 overall by KenPom.
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 51.2% (Rank: #197)
-- **3-Point Shooting:** 34.0% (Rank: #172)
+- **3-Point Shooting:** 34.0% (Rank: #175)
 - **Free Throw Shooting:** 76.2% (Rank: #55)
 - **3-Point Rate:** 41.6% (Rank: #143)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 52.0% (Rank: #196)
-- **Opponent 3-Point Shooting:** 34.5% (Rank: #214)
+- **Opponent 3-Point Shooting:** 34.5% (Rank: #213)
 - **Block Percentage:** 5.8% (Rank: #341)
 - **Steal Rate:** 0.1% (Rank: #322)
 
 ### Team Metrics
 
-- **Assist Rate:** 52.5% (Rank: #180)
-- **Experience:** 1.8 years (Rank: #94)
-- **Bench Minutes:** 36.3% (Rank: #92)
+- **Assist Rate:** 52.5% (Rank: #181)
+- **Experience:** 1.8 years (Rank: #93)
+- **Bench Minutes:** 36.3% (Rank: #91)
 - **Average Height:** 78.9" (Rank: #16)
 

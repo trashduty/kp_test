@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Akron Zips -12.5</p>
-  <p><strong>Moneyline:</strong> Akron Zips (-880) | Eastern Michigan Eagles (+580)</p>
+  <p><strong>Spread:</strong> Akron Zips -11.5</p>
+  <p><strong>Moneyline:</strong> Akron Zips (-797) | Eastern Michigan Eagles (+547)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Akron Zips**: -12.5, Edge For Covering Spread: -3.7%
-- **Eastern Michigan Eagles**: 12.5, Edge For Covering Spread: -0.9%
+- **Akron Zips**: -11.5, Edge For Covering Spread: -6.4%
+- **Eastern Michigan Eagles**: 11.5, Edge For Covering Spread: **1.6%**
 
 ### Moneyline
-- **Akron Zips Win Probability**: 83.2%, Moneyline Edge: -6.6%
-- **Eastern Michigan Eagles Win Probability**: 16.8%, Moneyline Edge: **2.1%**
+- **Akron Zips Win Probability**: 82.8%, Moneyline Edge: -6.0%
+- **Eastern Michigan Eagles Win Probability**: 17.2%, Moneyline Edge: **1.7%**
 
 ### Total
 - **Predicted Total**: 152.0
-- Edge For Covering The Over: -4.2%
-- Edge For Covering The Under: -2.0%
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -2.3%
 
 ---
 
@@ -42,14 +42,14 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Akron Zips (18-4) enters hostile territory as they take on Eastern Michigan Eagles (9-13) at George Gervin GameAbove Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Akron Zips favored by 12.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Akron Zips (18-4) enters hostile territory as they take on Eastern Michigan Eagles (9-13) at George Gervin GameAbove Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Akron Zips favored by 11.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 12.5-point spread screams mismatch. The books are asking Eastern Michigan Eagles to hang within two possessions, which based on the profiles, requires Akron Zips to play below their standard. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 11.5 points tells us Akron Zips has clear advantages, but games aren't played on paper. Eastern Michigan Eagles needs to punch above their weight class to keep this close. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Akron Zips** bring an offensive efficiency of 124.50 (ranked #4 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 39.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
-Meanwhile, **Eastern Michigan Eagles** counter with 102.60 offensive efficiency (#274). Points have been hard to come by, making every possession critical. At 32.7% from three, they have adequate spacing but must pick their spots. 
+Meanwhile, **Eastern Michigan Eagles** counter with 102.60 offensive efficiency (#273). Points have been hard to come by, making every possession critical. At 32.7% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
 Akron Zips operate at a 71.9 tempo (#42), while Eastern Michigan Eagles play at 68.4 (#209). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.1) should create a standard flow. 
@@ -68,7 +68,7 @@ This looks like a mismatch on paper with Akron Zips significantly higher in the 
 
 **Key Matchup: Akron Zips's Offense vs Eastern Michigan Eagles's Defense**
 
-Akron Zips bring a elite offense (ranked #4) that could exploit Eastern Michigan Eagles's defensive vulnerabilities (ranked #157). 
+Akron Zips bring a elite offense (ranked #4) that could exploit Eastern Michigan Eagles's defensive vulnerabilities (ranked #158). 
 
 
 ## Akron Zips
@@ -94,8 +94,8 @@ Akron Zips comes in ranked #52 overall by KenPom. They're dangerous from beyond 
 
 - **Opponent 2-Point Shooting:** 50.7% (Rank: #142)
 - **Opponent 3-Point Shooting:** 33.3% (Rank: #147)
-- **Block Percentage:** 8.4% (Rank: #240)
-- **Steal Rate:** 0.1% (Rank: #125)
+- **Block Percentage:** 8.4% (Rank: #239)
+- **Steal Rate:** 0.1% (Rank: #126)
 
 ### Team Metrics
 
@@ -108,34 +108,34 @@ Akron Zips comes in ranked #52 overall by KenPom. They're dangerous from beyond 
 
 ## Eastern Michigan Eagles
 
-Eastern Michigan Eagles comes in ranked #223 overall by KenPom. 
+Eastern Michigan Eagles comes in ranked #224 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 9-13
 - **Head Coach:** Stan Heath
 - **Home Arena:** George Gervin GameAbove Center
-- **KenPom Rank:** #223
-- **Offensive Efficiency:** 102.6 (Rank: #274)
-- **Defensive Efficiency:** 107.2 (Rank: #157)
+- **KenPom Rank:** #224
+- **Offensive Efficiency:** 102.6 (Rank: #273)
+- **Defensive Efficiency:** 107.2 (Rank: #158)
 - **Tempo:** 68.4 (Rank: #209)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 49.9% (Rank: #240)
-- **3-Point Shooting:** 32.7% (Rank: #235)
+- **2-Point Shooting:** 49.9% (Rank: #242)
+- **3-Point Shooting:** 32.7% (Rank: #237)
 - **Free Throw Shooting:** 73.2% (Rank: #159)
-- **3-Point Rate:** 32.2% (Rank: #328)
+- **3-Point Rate:** 32.2% (Rank: #327)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.1% (Rank: #159)
-- **Opponent 3-Point Shooting:** 33.1% (Rank: #139)
-- **Block Percentage:** 10.2% (Rank: #135)
+- **Opponent 2-Point Shooting:** 51.1% (Rank: #158)
+- **Opponent 3-Point Shooting:** 33.1% (Rank: #138)
+- **Block Percentage:** 10.2% (Rank: #136)
 - **Steal Rate:** 0.1% (Rank: #249)
 
 ### Team Metrics
 
-- **Assist Rate:** 49.3% (Rank: #271)
+- **Assist Rate:** 49.3% (Rank: #272)
 - **Experience:** 1.1 years (Rank: #263)
 - **Bench Minutes:** 37.0% (Rank: #72)
 - **Average Height:** 77.8" (Rank: #101)

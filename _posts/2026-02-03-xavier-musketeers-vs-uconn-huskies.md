@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UConn Huskies -17.5</p>
-  <p><strong>Moneyline:</strong> Xavier Musketeers (+1280) | UConn Huskies (-3500)</p>
+  <p><strong>Moneyline:</strong> Xavier Musketeers (+1200) | UConn Huskies (-3000)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Xavier Musketeers**: 17.5, Edge For Covering Spread: -4.5%
-- **UConn Huskies**: -17.5, Edge For Covering Spread: -0.2%
+- **Xavier Musketeers**: 17.5, Edge For Covering Spread: -4.0%
+- **UConn Huskies**: -17.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Xavier Musketeers Win Probability**: 5.5%, Moneyline Edge: -1.8%
-- **UConn Huskies Win Probability**: 94.5%, Moneyline Edge: -2.7%
+- **Xavier Musketeers Win Probability**: 5.7%, Moneyline Edge: -2.0%
+- **UConn Huskies Win Probability**: 94.3%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 147.0
-- Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -1.1%
+- Edge For Covering The Over: -3.1%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -68,7 +68,7 @@ This looks like a mismatch on paper with UConn Huskies significantly higher in t
 
 **Key Matchup: UConn Huskies's Offense vs Xavier Musketeers's Defense**
 
-UConn Huskies features a solid offense (ranked #54) that should find success against Xavier Musketeers's defensive unit (ranked #155). 
+UConn Huskies features a solid offense (ranked #54) that should find success against Xavier Musketeers's defensive unit (ranked #156). 
 
 **Pace of Play:** Xavier Musketeers like to push the pace, while UConn Huskies prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
 
@@ -77,29 +77,29 @@ UConn Huskies features a solid offense (ranked #54) that should find success aga
 
 ## Xavier Musketeers
 
-Xavier Musketeers comes in ranked #93 overall by KenPom. They're dangerous from beyond the arc, shooting 36.3% from three (ranked #61 nationally), so expect them to let it fly from deep. 
+Xavier Musketeers comes in ranked #93 overall by KenPom. They're dangerous from beyond the arc, shooting 36.3% from three (ranked #59 nationally), so expect them to let it fly from deep. 
 
 ### Record & Ranking
 - **Record:** 12-10
 - **Head Coach:** Richard Pitino
 - **KenPom Rank:** #93
 - **Offensive Efficiency:** 107.7 (Rank: #182)
-- **Defensive Efficiency:** 107.2 (Rank: #155)
+- **Defensive Efficiency:** 107.2 (Rank: #156)
 - **Tempo:** 71.9 (Rank: #43)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 49.3% (Rank: #266)
-- **3-Point Shooting:** 36.3% (Rank: #61)
+- **3-Point Shooting:** 36.3% (Rank: #59)
 - **Free Throw Shooting:** 71.2% (Rank: #223)
 - **3-Point Rate:** 41.7% (Rank: #142)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 53.3% (Rank: #250)
-- **Opponent 3-Point Shooting:** 34.3% (Rank: #205)
-- **Block Percentage:** 11.1% (Rank: #90)
-- **Steal Rate:** 0.1% (Rank: #164)
+- **Opponent 3-Point Shooting:** 34.3% (Rank: #204)
+- **Block Percentage:** 11.1% (Rank: #92)
+- **Steal Rate:** 0.1% (Rank: #165)
 
 ### Team Metrics
 
@@ -126,13 +126,13 @@ UConn Huskies comes in ranked #10 overall by KenPom. On the defensive end, they'
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 55.9% (Rank: #58)
-- **3-Point Shooting:** 36.3% (Rank: #54)
+- **3-Point Shooting:** 36.3% (Rank: #53)
 - **Free Throw Shooting:** 70.3% (Rank: #250)
 - **3-Point Rate:** 38.1% (Rank: #217)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 44.9% (Rank: #6)
+- **Opponent 2-Point Shooting:** 44.9% (Rank: #7)
 - **Opponent 3-Point Shooting:** 28.3% (Rank: #5)
 - **Block Percentage:** 15.2% (Rank: #10)
 - **Steal Rate:** 0.1% (Rank: #74)

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> VCU Rams -7.5</p>
-  <p><strong>Moneyline:</strong> VCU Rams (-372) | Fordham Rams (+290)</p>
+  <p><strong>Spread:</strong> VCU Rams -8.5</p>
+  <p><strong>Moneyline:</strong> VCU Rams (-392) | Fordham Rams (+300)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **VCU Rams**: -7.5, Edge For Covering Spread: -4.0%
-- **Fordham Rams**: 7.5, Edge For Covering Spread: -0.8%
+- **VCU Rams**: -8.5, Edge For Covering Spread: -5.0%
+- **Fordham Rams**: 8.5, Edge For Covering Spread: **0.3%**
 
 ### Moneyline
-- **VCU Rams Win Probability**: 72.9%, Moneyline Edge: -5.9%
-- **Fordham Rams Win Probability**: 27.1%, Moneyline Edge: **1.4%**
+- **VCU Rams Win Probability**: 73.3%, Moneyline Edge: -6.4%
+- **Fordham Rams Win Probability**: 26.7%, Moneyline Edge: **1.7%**
 
 ### Total
 - **Predicted Total**: 146.0
@@ -42,14 +42,14 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-VCU Rams (16-6) enters hostile territory as they take on Fordham Rams (12-10) at Rose Hill Gym in what the oddsmakers see as a significant talent gap. The early betting action has shaped into VCU Rams favored by 7.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+VCU Rams (16-6) enters hostile territory as they take on Fordham Rams (12-10) at Rose Hill Gym in what the oddsmakers see as a significant talent gap. The early betting action has shaped into VCU Rams favored by 8.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us VCU Rams has clear advantages, but games aren't played on paper. Fordham Rams needs to punch above their weight class to keep this close. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.5 points tells us VCU Rams has clear advantages, but games aren't played on paper. Fordham Rams needs to punch above their weight class to keep this close. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **VCU Rams** bring an offensive efficiency of 120.32 (ranked #25 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.6% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
-Meanwhile, **Fordham Rams** counter with 105.58 offensive efficiency (#226). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 28.3%, forcing them to grind in the half court. 
+Meanwhile, **Fordham Rams** counter with 105.58 offensive efficiency (#227). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 28.3%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
 VCU Rams operate at a 70.3 tempo (#110), while Fordham Rams play at 64.8 (#339). VCU Rams want to run, but Fordham Rams prefer to slow things down. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The slower pace (averaging 67.5) means fewer possessions, making each one more valuable. 
@@ -75,12 +75,12 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## VCU Rams
 
-VCU Rams comes in ranked #48 overall by KenPom. They're dangerous from beyond the arc, shooting 36.6% from three (ranked #46 nationally), so expect them to let it fly from deep. 
+VCU Rams comes in ranked #47 overall by KenPom. They're dangerous from beyond the arc, shooting 36.6% from three (ranked #46 nationally), so expect them to let it fly from deep. 
 
 ### Record & Ranking
 - **Record:** 16-6
 - **Head Coach:** Phil Martelli Jr.
-- **KenPom Rank:** #48
+- **KenPom Rank:** #47
 - **Offensive Efficiency:** 120.3 (Rank: #25)
 - **Defensive Efficiency:** 104.9 (Rank: #108)
 - **Tempo:** 70.3 (Rank: #110)
@@ -90,13 +90,13 @@ VCU Rams comes in ranked #48 overall by KenPom. They're dangerous from beyond th
 - **2-Point Shooting:** 54.9% (Rank: #73)
 - **3-Point Shooting:** 36.6% (Rank: #46)
 - **Free Throw Shooting:** 74.7% (Rank: #98)
-- **3-Point Rate:** 45.1% (Rank: #64)
+- **3-Point Rate:** 45.1% (Rank: #63)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 49.0% (Rank: #85)
-- **Opponent 3-Point Shooting:** 34.8% (Rank: #226)
-- **Block Percentage:** 10.8% (Rank: #105)
+- **Opponent 3-Point Shooting:** 34.8% (Rank: #225)
+- **Block Percentage:** 10.8% (Rank: #106)
 - **Steal Rate:** 0.1% (Rank: #80)
 
 ### Team Metrics
@@ -117,23 +117,23 @@ Fordham Rams comes in ranked #177 overall by KenPom. The three-point shot hasn't
 - **Head Coach:** Mike Magpayo
 - **Home Arena:** Rose Hill Gym
 - **KenPom Rank:** #177
-- **Offensive Efficiency:** 105.6 (Rank: #226)
-- **Defensive Efficiency:** 102.4 (Rank: #67)
+- **Offensive Efficiency:** 105.6 (Rank: #227)
+- **Defensive Efficiency:** 102.4 (Rank: #68)
 - **Tempo:** 64.8 (Rank: #339)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 53.2% (Rank: #121)
 - **3-Point Shooting:** 28.3% (Rank: #357)
-- **Free Throw Shooting:** 70.5% (Rank: #244)
+- **Free Throw Shooting:** 70.5% (Rank: #246)
 - **3-Point Rate:** 37.5% (Rank: #224)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 47.7% (Rank: #52)
-- **Opponent 3-Point Shooting:** 33.7% (Rank: #169)
+- **Opponent 3-Point Shooting:** 33.7% (Rank: #170)
 - **Block Percentage:** 7.2% (Rank: #308)
-- **Steal Rate:** 0.1% (Rank: #176)
+- **Steal Rate:** 0.1% (Rank: #175)
 
 ### Team Metrics
 

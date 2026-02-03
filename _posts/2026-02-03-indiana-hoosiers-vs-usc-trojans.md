@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> USC Trojans -1.5</p>
-  <p><strong>Moneyline:</strong> Indiana Hoosiers (-105) | USC Trojans (-115)</p>
+  <p><strong>Spread:</strong> Indiana Hoosiers -1.5</p>
+  <p><strong>Moneyline:</strong> Indiana Hoosiers (-113) | USC Trojans (-106)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Indiana Hoosiers**: 1.5, Edge For Covering Spread: -1.5%
-- **USC Trojans**: -1.5, Edge For Covering Spread: -3.2%
+- **Indiana Hoosiers**: -1.5, Edge For Covering Spread: -2.4%
+- **USC Trojans**: 1.5, Edge For Covering Spread: -4.3%
 
 ### Moneyline
-- **Indiana Hoosiers Win Probability**: 50.0%, Moneyline Edge: -1.3%
-- **USC Trojans Win Probability**: 50.0%, Moneyline Edge: -3.4%
+- **Indiana Hoosiers Win Probability**: 50.9%, Moneyline Edge: -2.3%
+- **USC Trojans Win Probability**: 49.1%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 152.0
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.3%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.3%
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Indiana Hoosiers (15-7) travels to face USC Trojans (16-6) at Galen Center in what shapes up to be a competitive matchup. The early betting action has shaped into USC Trojans favored by 1.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Indiana Hoosiers (15-7) travels to face USC Trojans (16-6) at Galen Center in what shapes up to be a competitive matchup. The early betting action has shaped into Indiana Hoosiers favored by 1.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. USC Trojans's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Indiana Hoosiers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Indiana Hoosiers** bring an offensive efficiency of 117.97 (ranked #43 nationally). This is an elite offense that can score in multiple ways. Their 35.7% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **USC Trojans** counter with 110.46 offensive efficiency (#131). They're competent on offense without being spectacular. At 32.3% from three, they have adequate spacing but must pick their spots. 
+Meanwhile, **USC Trojans** counter with 110.46 offensive efficiency (#130). They're competent on offense without being spectacular. At 32.3% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Indiana Hoosiers operate at a 68.2 tempo (#219), while USC Trojans play at 71.3 (#63). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.7) should create a standard flow. 
+Indiana Hoosiers operate at a 68.2 tempo (#219), while USC Trojans play at 71.3 (#64). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.7) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Indiana Hoosiers shoot 59.2% on two-pointers, while USC Trojans convert at 54.1%. Indiana Hoosiers has a clear edge in interior scoring efficiency. 
@@ -97,7 +97,7 @@ Indiana Hoosiers comes in ranked #33 overall by KenPom. They boast one of the na
 - **Opponent 2-Point Shooting:** 46.9% (Rank: #34)
 - **Opponent 3-Point Shooting:** 30.9% (Rank: #50)
 - **Block Percentage:** 7.0% (Rank: #312)
-- **Steal Rate:** 0.1% (Rank: #313)
+- **Steal Rate:** 0.1% (Rank: #311)
 
 ### Team Metrics
 
@@ -117,16 +117,16 @@ USC Trojans comes in ranked #50 overall by KenPom. On the defensive end, they're
 - **Head Coach:** Eric Musselman
 - **Home Arena:** Galen Center
 - **KenPom Rank:** #50
-- **Offensive Efficiency:** 110.5 (Rank: #131)
+- **Offensive Efficiency:** 110.5 (Rank: #130)
 - **Defensive Efficiency:** 104.3 (Rank: #95)
-- **Tempo:** 71.3 (Rank: #63)
+- **Tempo:** 71.3 (Rank: #64)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 54.1% (Rank: #99)
-- **3-Point Shooting:** 32.3% (Rank: #259)
+- **2-Point Shooting:** 54.1% (Rank: #98)
+- **3-Point Shooting:** 32.3% (Rank: #258)
 - **Free Throw Shooting:** 71.7% (Rank: #200)
-- **3-Point Rate:** 34.3% (Rank: #297)
+- **3-Point Rate:** 34.3% (Rank: #296)
 
 ### Defensive Stats
 

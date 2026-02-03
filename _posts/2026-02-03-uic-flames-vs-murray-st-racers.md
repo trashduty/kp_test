@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Murray St Racers -6.5</p>
-  <p><strong>Moneyline:</strong> UIC Flames (+240) | Murray St Racers (-290)</p>
+  <p><strong>Moneyline:</strong> UIC Flames (+232) | Murray St Racers (-287)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Murray St Racers**: -6.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **UIC Flames Win Probability**: 29.2%, Moneyline Edge: -0.2%
-- **Murray St Racers Win Probability**: 70.8%, Moneyline Edge: -3.5%
+- **UIC Flames Win Probability**: 29.4%, Moneyline Edge: -0.7%
+- **Murray St Racers Win Probability**: 70.6%, Moneyline Edge: -3.5%
 
 ### Total
-- **Predicted Total**: 158.5
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -0.3%
+- **Predicted Total**: 159.0
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -1.9%
 
 ---
 
@@ -52,7 +52,7 @@ The 6.5-point spread indicates Murray St Racers is viewed as the better team, bu
 Meanwhile, **Murray St Racers** counter with 118.33 offensive efficiency (#37). This offense can match anyone bucket-for-bucket. At 35.1% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-UIC Flames operate at a 67.1 tempo (#258), while Murray St Racers play at 73.0 (#23). Murray St Racers like to push the pace, while UIC Flames want to control the clock. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 70.0) should create a standard flow. 
+UIC Flames operate at a 67.1 tempo (#257), while Murray St Racers play at 73.0 (#23). Murray St Racers like to push the pace, while UIC Flames want to control the clock. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 70.0) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, UIC Flames shoot 49.3% on two-pointers, while Murray St Racers convert at 56.7%. Murray St Racers has a clear edge in interior scoring efficiency. 
@@ -83,25 +83,25 @@ UIC Flames comes in ranked #131 overall by KenPom. The three-point shot hasn't b
 - **KenPom Rank:** #131
 - **Offensive Efficiency:** 107.3 (Rank: #192)
 - **Defensive Efficiency:** 104.6 (Rank: #103)
-- **Tempo:** 67.1 (Rank: #258)
+- **Tempo:** 67.1 (Rank: #257)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 49.3% (Rank: #267)
-- **3-Point Shooting:** 30.6% (Rank: #321)
-- **Free Throw Shooting:** 73.8% (Rank: #133)
+- **3-Point Shooting:** 30.6% (Rank: #322)
+- **Free Throw Shooting:** 73.8% (Rank: #134)
 - **3-Point Rate:** 33.9% (Rank: #305)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 50.9% (Rank: #150)
+- **Opponent 2-Point Shooting:** 50.9% (Rank: #149)
 - **Opponent 3-Point Shooting:** 31.3% (Rank: #60)
-- **Block Percentage:** 12.5% (Rank: #54)
+- **Block Percentage:** 12.5% (Rank: #53)
 - **Steal Rate:** 0.1% (Rank: #53)
 
 ### Team Metrics
 
-- **Assist Rate:** 52.5% (Rank: #182)
+- **Assist Rate:** 52.5% (Rank: #183)
 - **Experience:** 1.7 years (Rank: #111)
 - **Bench Minutes:** 38.5% (Rank: #48)
 - **Average Height:** 77.1" (Rank: #219)
@@ -110,34 +110,34 @@ UIC Flames comes in ranked #131 overall by KenPom. The three-point shot hasn't b
 
 ## Murray St Racers
 
-Murray St Racers comes in ranked #99 overall by KenPom. They boast one of the nation's top offenses, ranked #37 in efficiency. 
+Murray St Racers comes in ranked #100 overall by KenPom. They boast one of the nation's top offenses, ranked #37 in efficiency. 
 
 ### Record & Ranking
 - **Record:** 16-7
 - **Head Coach:** Ryan Miller
 - **Home Arena:** CFSB Center
-- **KenPom Rank:** #99
+- **KenPom Rank:** #100
 - **Offensive Efficiency:** 118.3 (Rank: #37)
-- **Defensive Efficiency:** 108.4 (Rank: #193)
+- **Defensive Efficiency:** 108.4 (Rank: #192)
 - **Tempo:** 73.0 (Rank: #23)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 56.7% (Rank: #45)
-- **3-Point Shooting:** 35.1% (Rank: #110)
-- **Free Throw Shooting:** 76.8% (Rank: #37)
-- **3-Point Rate:** 45.0% (Rank: #66)
+- **3-Point Shooting:** 35.1% (Rank: #109)
+- **Free Throw Shooting:** 76.8% (Rank: #36)
+- **3-Point Rate:** 45.0% (Rank: #65)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 49.6% (Rank: #108)
-- **Opponent 3-Point Shooting:** 35.6% (Rank: #272)
+- **Opponent 2-Point Shooting:** 49.6% (Rank: #107)
+- **Opponent 3-Point Shooting:** 35.6% (Rank: #273)
 - **Block Percentage:** 8.8% (Rank: #211)
-- **Steal Rate:** 0.1% (Rank: #306)
+- **Steal Rate:** 0.1% (Rank: #305)
 
 ### Team Metrics
 
-- **Assist Rate:** 50.1% (Rank: #251)
+- **Assist Rate:** 50.1% (Rank: #252)
 - **Experience:** 1.4 years (Rank: #206)
 - **Bench Minutes:** 40.5% (Rank: #27)
 - **Average Height:** 78.0" (Rank: #92)
