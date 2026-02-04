@@ -2818,5 +2818,9 @@
   "South Carolina St Bulldogs vs. Maryland-Eastern Shore Hawks|South Carolina St Bulldogs|spread": {
     "captured_at": "2026-02-04T01:38:19.044742+00:00",
     "edge_type": "spread"
+  },
+  "North Carolina Tar Heels vs. Duke Blue Devils|North Carolina Tar Heels|spread": {
+    "captured_at": "2026-02-04T17:21:35.023188+00:00",
+    "edge_type": "spread"
   }
 }
