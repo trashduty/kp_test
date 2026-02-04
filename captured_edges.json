@@ -2794,5 +2794,29 @@
   "California Golden Bears vs. Georgia Tech Yellow Jackets|California Golden Bears|spread": {
     "captured_at": "2026-02-03T23:11:30.525472+00:00",
     "edge_type": "spread"
+  },
+  "American Eagles vs. Bucknell Bison|American Eagles|spread": {
+    "captured_at": "2026-02-04T01:38:19.040219+00:00",
+    "edge_type": "spread"
+  },
+  "American Eagles vs. Bucknell Bison|American Eagles|moneyline": {
+    "captured_at": "2026-02-04T01:38:19.040264+00:00",
+    "edge_type": "moneyline"
+  },
+  "Colgate Raiders vs. Army Knights|Colgate Raiders|spread": {
+    "captured_at": "2026-02-04T01:38:19.040748+00:00",
+    "edge_type": "spread"
+  },
+  "UMKC Kangaroos vs. South Dakota Coyotes|South Dakota Coyotes|moneyline": {
+    "captured_at": "2026-02-04T01:38:19.043946+00:00",
+    "edge_type": "moneyline"
+  },
+  "Austin Peay Governors vs. Lipscomb Bisons|Austin Peay Governors|moneyline": {
+    "captured_at": "2026-02-04T01:38:19.044448+00:00",
+    "edge_type": "moneyline"
+  },
+  "South Carolina St Bulldogs vs. Maryland-Eastern Shore Hawks|South Carolina St Bulldogs|spread": {
+    "captured_at": "2026-02-04T01:38:19.044742+00:00",
+    "edge_type": "spread"
   }
 }
