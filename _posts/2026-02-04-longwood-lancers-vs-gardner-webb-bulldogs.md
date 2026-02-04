@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Longwood Lancers -12.5</p>
-  <p><strong>Moneyline:</strong> Longwood Lancers (-800) | Gardner-Webb Bulldogs (+550)</p>
+  <p><strong>Spread:</strong> Longwood Lancers -11.5</p>
+  <p><strong>Moneyline:</strong> Longwood Lancers (-900) | Gardner-Webb Bulldogs (+550)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Longwood Lancers**: -12.5, Edge For Covering Spread: -3.7%
-- **Gardner-Webb Bulldogs**: 12.5, Edge For Covering Spread: -0.9%
+- **Longwood Lancers**: -11.5, Edge For Covering Spread: -4.0%
+- **Gardner-Webb Bulldogs**: 11.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Longwood Lancers Win Probability**: 83.1%, Moneyline Edge: -5.8%
-- **Gardner-Webb Bulldogs Win Probability**: 16.9%, Moneyline Edge: **1.5%**
+- **Longwood Lancers Win Probability**: 83.2%, Moneyline Edge: -6.8%
+- **Gardner-Webb Bulldogs Win Probability**: 16.8%, Moneyline Edge: **1.4%**
 
 ### Total
-- **Predicted Total**: 149.0
-- Edge For Covering The Over: -1.3%
-- Edge For Covering The Under: -5.0%
+- **Predicted Total**: 148.5
+- Edge For Covering The Over: -2.0%
+- Edge For Covering The Under: -2.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Longwood Lancers (12-12) enters hostile territory as they take on Gardner-Webb Bulldogs (3-20) at Paul Porter Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Longwood Lancers favored by 12.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Longwood Lancers (12-12) enters hostile territory as they take on Gardner-Webb Bulldogs (3-20) at Paul Porter Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Longwood Lancers favored by 11.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 12.5-point spread screams mismatch. The books are asking Gardner-Webb Bulldogs to hang within two possessions, which based on the profiles, requires Longwood Lancers to play below their standard. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 11.5 points tells us Longwood Lancers has clear advantages, but games aren't played on paper. Gardner-Webb Bulldogs needs to punch above their weight class to keep this close. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Longwood Lancers** bring an offensive efficiency of 104.77 (ranked #239 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.0% from three, they can't rely on the arc. Expect a paint-focused attack. 

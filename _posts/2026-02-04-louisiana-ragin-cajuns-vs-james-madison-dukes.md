@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Louisiana Ragin' Cajuns**: 8.5, Edge For Covering Spread: -1.2%
-- **James Madison Dukes**: -8.5, Edge For Covering Spread: -3.5%
+- **Louisiana Ragin' Cajuns**: 8.5, Edge For Covering Spread: -0.9%
+- **James Madison Dukes**: -8.5, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **Louisiana Ragin' Cajuns Win Probability**: 20.6%, Moneyline Edge: -2.1%
-- **James Madison Dukes Win Probability**: 79.4%, Moneyline Edge: -2.4%
+- **Louisiana Ragin' Cajuns Win Probability**: 20.7%, Moneyline Edge: -2.0%
+- **James Madison Dukes Win Probability**: 79.3%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 132.0
-- Edge For Covering The Over: -2.1%
-- Edge For Covering The Under: -2.7%
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.1%
 
 ---
 

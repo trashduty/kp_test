@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Western Carolina Catamounts -1.5</p>
-  <p><strong>Moneyline:</strong> Western Carolina Catamounts (-120) | UNC Greensboro Spartans (-100)</p>
+  <p><strong>Moneyline:</strong> Western Carolina Catamounts (-122) | UNC Greensboro Spartans (+101)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **UNC Greensboro Spartans**: 1.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Western Carolina Catamounts Win Probability**: 50.0%, Moneyline Edge: -4.5%
-- **UNC Greensboro Spartans Win Probability**: 50.0%, Moneyline Edge: **0.0%**
+- **Western Carolina Catamounts Win Probability**: 50.1%, Moneyline Edge: -4.8%
+- **UNC Greensboro Spartans Win Probability**: 49.9%, Moneyline Edge: **0.1%**
 
 ### Total
 - **Predicted Total**: 156.5

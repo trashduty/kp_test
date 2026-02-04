@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wichita St Shockers -9.0</p>
-  <p><strong>Moneyline:</strong> Wichita St Shockers (-477) | Charlotte 49ers (+362)</p>
+  <p><strong>Moneyline:</strong> Wichita St Shockers (-472) | Charlotte 49ers (+357)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Charlotte 49ers**: 9.0, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Wichita St Shockers Win Probability**: 79.2%, Moneyline Edge: -3.5%
-- **Charlotte 49ers Win Probability**: 20.8%, Moneyline Edge: -0.8%
+- **Wichita St Shockers Win Probability**: 79.1%, Moneyline Edge: -3.4%
+- **Charlotte 49ers Win Probability**: 20.9%, Moneyline Edge: -0.9%
 
 ### Total
 - **Predicted Total**: 141.0

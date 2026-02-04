@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Lehigh Mountain Hawks**: 1.5, Edge For Covering Spread: -2.2%
-- **Loyola (MD) Greyhounds**: -1.5, Edge For Covering Spread: -2.6%
+- **Lehigh Mountain Hawks**: 1.5, Edge For Covering Spread: -2.4%
+- **Loyola (MD) Greyhounds**: -1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Lehigh Mountain Hawks Win Probability**: 44.9%, Moneyline Edge: -3.8%
-- **Loyola (MD) Greyhounds Win Probability**: 55.1%, Moneyline Edge: -0.5%
+- **Lehigh Mountain Hawks Win Probability**: 45.0%, Moneyline Edge: -3.8%
+- **Loyola (MD) Greyhounds Win Probability**: 55.0%, Moneyline Edge: -0.5%
 
 ### Total
 - **Predicted Total**: 148.0
 - Edge For Covering The Over: -2.7%
-- Edge For Covering The Under: -2.1%
+- Edge For Covering The Under: -2.3%
 
 ---
 

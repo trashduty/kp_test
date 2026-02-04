@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Wofford Terriers -10.0</p>
-  <p><strong>Moneyline:</strong> Wofford Terriers (-587) | VMI Keydets (+427)</p>
+  <p><strong>Spread:</strong> Wofford Terriers -9.5</p>
+  <p><strong>Moneyline:</strong> Wofford Terriers (-550) | VMI Keydets (+405)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wofford Terriers**: -10.0, Edge For Covering Spread: -3.4%
-- **VMI Keydets**: 10.0, Edge For Covering Spread: -1.3%
+- **Wofford Terriers**: -9.5, Edge For Covering Spread: -4.5%
+- **VMI Keydets**: 9.5, Edge For Covering Spread: -0.2%
 
 ### Moneyline
-- **Wofford Terriers Win Probability**: 80.4%, Moneyline Edge: -5.0%
-- **VMI Keydets Win Probability**: 19.6%, Moneyline Edge: **0.6%**
+- **Wofford Terriers Win Probability**: 79.9%, Moneyline Edge: -4.7%
+- **VMI Keydets Win Probability**: 20.1%, Moneyline Edge: **0.3%**
 
 ### Total
 - **Predicted Total**: 151.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Wofford Terriers (15-8) enters hostile territory as they take on VMI Keydets (6-17) at Cameron Hall in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Wofford Terriers favored by 10.0 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Wofford Terriers (15-8) enters hostile territory as they take on VMI Keydets (6-17) at Cameron Hall in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Wofford Terriers favored by 9.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.0 points tells us Wofford Terriers has clear advantages, but games aren't played on paper. VMI Keydets needs to punch above their weight class to keep this close. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 9.5 points tells us Wofford Terriers has clear advantages, but games aren't played on paper. VMI Keydets needs to punch above their weight class to keep this close. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Wofford Terriers** bring an offensive efficiency of 113.51 (ranked #86 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.3% three-point shooting is serviceable but won't scare anyone. 

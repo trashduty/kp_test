@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Middle Tennessee Blue Raiders -6.5</p>
-  <p><strong>Moneyline:</strong> Florida Int'l Golden Panthers (+230) | Middle Tennessee Blue Raiders (-282)</p>
+  <p><strong>Moneyline:</strong> Florida Int'l Golden Panthers (+210) | Middle Tennessee Blue Raiders (-250)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Int'l Golden Panthers**: 6.5, Edge For Covering Spread: -0.8%
-- **Middle Tennessee Blue Raiders**: -6.5, Edge For Covering Spread: -4.0%
+- **Florida Int'l Golden Panthers**: 6.5, Edge For Covering Spread: -1.8%
+- **Middle Tennessee Blue Raiders**: -6.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Florida Int'l Golden Panthers Win Probability**: 30.0%, Moneyline Edge: -0.4%
-- **Middle Tennessee Blue Raiders Win Probability**: 70.0%, Moneyline Edge: -3.8%
+- **Florida Int'l Golden Panthers Win Probability**: 31.0%, Moneyline Edge: -1.2%
+- **Middle Tennessee Blue Raiders Win Probability**: 69.0%, Moneyline Edge: -2.4%
 
 ### Total
 - **Predicted Total**: 150.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Over: -2.1%
+- Edge For Covering The Under: -2.7%
 
 ---
 

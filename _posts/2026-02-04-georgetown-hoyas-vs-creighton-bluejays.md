@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Georgetown Hoyas -2.0</p>
-  <p><strong>Moneyline:</strong> Georgetown Hoyas (-129) | Creighton Bluejays (+105)</p>
+  <p><strong>Spread:</strong> Georgetown Hoyas -1.5</p>
+  <p><strong>Moneyline:</strong> Georgetown Hoyas (-130) | Creighton Bluejays (+106)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Georgetown Hoyas**: -2.0, Edge For Covering Spread: -2.3%
-- **Creighton Bluejays**: 2.0, Edge For Covering Spread: -2.5%
+- **Georgetown Hoyas**: -1.5, Edge For Covering Spread: -1.8%
+- **Creighton Bluejays**: 1.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Georgetown Hoyas Win Probability**: 55.4%, Moneyline Edge: -1.0%
-- **Creighton Bluejays Win Probability**: 44.6%, Moneyline Edge: -4.0%
+- **Georgetown Hoyas Win Probability**: 55.5%, Moneyline Edge: -1.1%
+- **Creighton Bluejays Win Probability**: 44.5%, Moneyline Edge: -3.9%
 
 ### Total
 - **Predicted Total**: 146.5
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.2%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Georgetown Hoyas (12-10) travels to face Creighton Bluejays (12-10) at CHI Health Center Omaha, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Georgetown Hoyas favored by 2.0 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Georgetown Hoyas (12-10) travels to face Creighton Bluejays (12-10) at CHI Health Center Omaha, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Georgetown Hoyas favored by 1.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Georgetown Hoyas's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Georgetown Hoyas's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Georgetown Hoyas** bring an offensive efficiency of 110.67 (ranked #125 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 32.8% three-point shooting is serviceable but won't scare anyone. 

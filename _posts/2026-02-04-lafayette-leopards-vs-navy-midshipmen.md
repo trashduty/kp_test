@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Navy Midshipmen -4.5</p>
-  <p><strong>Moneyline:</strong> Lafayette Leopards (+155) | Navy Midshipmen (-190)</p>
+  <p><strong>Moneyline:</strong> Lafayette Leopards (+170) | Navy Midshipmen (-200)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Lafayette Leopards**: 4.5, Edge For Covering Spread: -2.6%
-- **Navy Midshipmen**: -4.5, Edge For Covering Spread: -2.2%
+- **Lafayette Leopards**: 4.5, Edge For Covering Spread: -2.4%
+- **Navy Midshipmen**: -4.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Lafayette Leopards Win Probability**: 36.2%, Moneyline Edge: -3.0%
-- **Navy Midshipmen Win Probability**: 63.8%, Moneyline Edge: -1.7%
+- **Lafayette Leopards Win Probability**: 35.3%, Moneyline Edge: -1.7%
+- **Navy Midshipmen Win Probability**: 64.7%, Moneyline Edge: -2.0%
 
 ### Total
 - **Predicted Total**: 136.0
-- Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -1.0%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 

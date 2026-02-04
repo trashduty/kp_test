@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Clemson Tigers -4.0</p>
-  <p><strong>Moneyline:</strong> Stanford Cardinal (+165) | Clemson Tigers (-196)</p>
+  <p><strong>Spread:</strong> Clemson Tigers -3.5</p>
+  <p><strong>Moneyline:</strong> Stanford Cardinal (+142) | Clemson Tigers (-170)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Stanford Cardinal**: 4.0, Edge For Covering Spread: -3.7%
-- **Clemson Tigers**: -4.0, Edge For Covering Spread: -1.2%
+- **Stanford Cardinal**: 3.5, Edge For Covering Spread: -4.3%
+- **Clemson Tigers**: -3.5, Edge For Covering Spread: -0.4%
 
 ### Moneyline
-- **Stanford Cardinal Win Probability**: 34.5%, Moneyline Edge: -3.3%
-- **Clemson Tigers Win Probability**: 65.5%, Moneyline Edge: -0.7%
+- **Stanford Cardinal Win Probability**: 36.1%, Moneyline Edge: -5.1%
+- **Clemson Tigers Win Probability**: 63.9%, Moneyline Edge: **0.9%**
 
 ### Total
-- **Predicted Total**: 136.0
+- **Predicted Total**: 137.0
 - Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Clemson Tigers (18-4) hosts Stanford Cardinal (14-8) at Littlejohn Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Clemson Tigers favored by 4.0 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Clemson Tigers (18-4) hosts Stanford Cardinal (14-8) at Littlejohn Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Clemson Tigers favored by 3.5 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.0-point spread indicates Clemson Tigers is viewed as the better team, but this isn't an overwhelming edge. Stanford Cardinal has a legitimate path to covering or winning outright. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 3.5-point spread indicates Clemson Tigers is viewed as the better team, but this isn't an overwhelming edge. Stanford Cardinal has a legitimate path to covering or winning outright. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Stanford Cardinal** bring an offensive efficiency of 109.13 (ranked #165 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.1% three-point shooting is serviceable but won't scare anyone. 

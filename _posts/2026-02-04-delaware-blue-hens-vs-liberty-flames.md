@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Liberty Flames -12.5</p>
-  <p><strong>Moneyline:</strong> Delaware Blue Hens (+525) | Liberty Flames (-750)</p>
+  <p><strong>Moneyline:</strong> Delaware Blue Hens (+587) | Liberty Flames (-924)</p>
   <p><strong>Total:</strong> 133.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Delaware Blue Hens**: 12.5, Edge For Covering Spread: **0.6%**
-- **Liberty Flames**: -12.5, Edge For Covering Spread: -5.4%
+- **Delaware Blue Hens**: 12.5, Edge For Covering Spread: **0.1%**
+- **Liberty Flames**: -12.5, Edge For Covering Spread: -4.8%
 
 ### Moneyline
-- **Delaware Blue Hens Win Probability**: 15.9%, Moneyline Edge: -0.1%
-- **Liberty Flames Win Probability**: 84.1%, Moneyline Edge: -4.1%
+- **Delaware Blue Hens Win Probability**: 15.2%, Moneyline Edge: **0.6%**
+- **Liberty Flames Win Probability**: 84.8%, Moneyline Edge: -5.4%
 
 ### Total
-- **Predicted Total**: 133.0
-- Edge For Covering The Over: -3.1%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 132.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.5%
 
 ---
 

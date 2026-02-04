@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **Pacific Tigers Win Probability**: 28.4%, Moneyline Edge: -0.2%
 
 ### Total
-- **Predicted Total**: 150.0
-- Edge For Covering The Over: -2.0%
-- Edge For Covering The Under: -2.7%
+- **Predicted Total**: 149.5
+- Edge For Covering The Over: -3.4%
+- Edge For Covering The Under: -2.9%
 
 ---
 

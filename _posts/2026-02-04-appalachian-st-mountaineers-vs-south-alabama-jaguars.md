@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Appalachian St Mountaineers -4.5</p>
-  <p><strong>Moneyline:</strong> Appalachian St Mountaineers (-227) | South Alabama Jaguars (+190)</p>
+  <p><strong>Moneyline:</strong> Appalachian St Mountaineers (-222) | South Alabama Jaguars (+182)</p>
   <p><strong>Total:</strong> 128.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Appalachian St Mountaineers**: -4.5, Edge For Covering Spread: -2.3%
-- **South Alabama Jaguars**: 4.5, Edge For Covering Spread: -2.6%
+- **Appalachian St Mountaineers**: -4.5, Edge For Covering Spread: -2.6%
+- **South Alabama Jaguars**: 4.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Appalachian St Mountaineers Win Probability**: 68.2%, Moneyline Edge: -1.3%
-- **South Alabama Jaguars Win Probability**: 31.8%, Moneyline Edge: -2.7%
+- **Appalachian St Mountaineers Win Probability**: 67.8%, Moneyline Edge: -1.2%
+- **South Alabama Jaguars Win Probability**: 32.2%, Moneyline Edge: -3.2%
 
 ### Total
-- **Predicted Total**: 128.5
-- Edge For Covering The Over: -6.3%
-- Edge For Covering The Under: **1.5%**
+- **Predicted Total**: 128.0
+- Edge For Covering The Over: -5.5%
+- Edge For Covering The Under: **0.8%**
 
 ---
 

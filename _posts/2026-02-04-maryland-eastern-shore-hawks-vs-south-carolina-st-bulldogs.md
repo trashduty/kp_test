@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Maryland-Eastern Shore Hawks -3.5</p>
-  <p><strong>Moneyline:</strong> Maryland-Eastern Shore Hawks (-165) | South Carolina St Bulldogs (+135)</p>
+  <p><strong>Moneyline:</strong> Maryland-Eastern Shore Hawks (-170) | South Carolina St Bulldogs (+140)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Maryland-Eastern Shore Hawks**: -3.5, Edge For Covering Spread: -7.8%
-- **South Carolina St Bulldogs**: 3.5, Edge For Covering Spread: **3.0%**
+- **Maryland-Eastern Shore Hawks**: -3.5, Edge For Covering Spread: -7.6%
+- **South Carolina St Bulldogs**: 3.5, Edge For Covering Spread: **2.8%**
 
 ### Moneyline
-- **Maryland-Eastern Shore Hawks Win Probability**: 52.6%, Moneyline Edge: -9.7%
-- **South Carolina St Bulldogs Win Probability**: 47.4%, Moneyline Edge: **4.9%**
+- **Maryland-Eastern Shore Hawks Win Probability**: 53.0%, Moneyline Edge: -10.0%
+- **South Carolina St Bulldogs Win Probability**: 47.0%, Moneyline Edge: **5.4%**
 
 ### Total
-- **Predicted Total**: 135.0
-- Edge For Covering The Over: -3.6%
-- Edge For Covering The Under: -1.2%
+- **Predicted Total**: 134.5
+- Edge For Covering The Over: -4.6%
+- Edge For Covering The Under: -0.6%
 
 ---
 

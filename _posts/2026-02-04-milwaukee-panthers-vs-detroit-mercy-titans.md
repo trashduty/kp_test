@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Milwaukee Panthers -5.0</p>
-  <p><strong>Moneyline:</strong> Milwaukee Panthers (-230) | Detroit Mercy Titans (+195)</p>
+  <p><strong>Spread:</strong> Milwaukee Panthers -4.5</p>
+  <p><strong>Moneyline:</strong> Milwaukee Panthers (-225) | Detroit Mercy Titans (+190)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Milwaukee Panthers**: -5.0, Edge For Covering Spread: -5.2%
-- **Detroit Mercy Titans**: 5.0, Edge For Covering Spread: **0.5%**
+- **Milwaukee Panthers**: -4.5, Edge For Covering Spread: -7.0%
+- **Detroit Mercy Titans**: 4.5, Edge For Covering Spread: **2.3%**
 
 ### Moneyline
-- **Milwaukee Panthers Win Probability**: 65.0%, Moneyline Edge: -4.7%
-- **Detroit Mercy Titans Win Probability**: 35.0%, Moneyline Edge: **1.1%**
+- **Milwaukee Panthers Win Probability**: 64.8%, Moneyline Edge: -4.5%
+- **Detroit Mercy Titans Win Probability**: 35.2%, Moneyline Edge: **0.8%**
 
 ### Total
 - **Predicted Total**: 158.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Milwaukee Panthers (9-15) travels to face Detroit Mercy Titans (9-12) at Calihan Hall, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Milwaukee Panthers favored by 5.0 points, with the total sitting at 158.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Milwaukee Panthers (9-15) travels to face Detroit Mercy Titans (9-12) at Calihan Hall, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Milwaukee Panthers favored by 4.5 points, with the total sitting at 158.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.0-point spread indicates Milwaukee Panthers is viewed as the better team, but this isn't an overwhelming edge. Detroit Mercy Titans has a legitimate path to covering or winning outright. The total of 158.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 4.5-point spread indicates Milwaukee Panthers is viewed as the better team, but this isn't an overwhelming edge. Detroit Mercy Titans has a legitimate path to covering or winning outright. The total of 158.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Milwaukee Panthers** bring an offensive efficiency of 107.79 (ranked #181 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.9% from three, they can't rely on the arc. Expect a paint-focused attack. 

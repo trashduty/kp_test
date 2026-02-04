@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Louisiana Tech Bulldogs -1.5</p>
-  <p><strong>Moneyline:</strong> New Mexico St Aggies (-102) | Louisiana Tech Bulldogs (-118)</p>
+  <p><strong>Moneyline:</strong> New Mexico St Aggies (-103) | Louisiana Tech Bulldogs (-116)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **New Mexico St Aggies**: 1.5, Edge For Covering Spread: **1.1%**
-- **Louisiana Tech Bulldogs**: -1.5, Edge For Covering Spread: -5.9%
+- **New Mexico St Aggies**: 1.5, Edge For Covering Spread: -0.6%
+- **Louisiana Tech Bulldogs**: -1.5, Edge For Covering Spread: -4.3%
 
 ### Moneyline
-- **New Mexico St Aggies Win Probability**: 48.1%, Moneyline Edge: -2.4%
-- **Louisiana Tech Bulldogs Win Probability**: 51.9%, Moneyline Edge: -2.2%
+- **New Mexico St Aggies Win Probability**: 48.2%, Moneyline Edge: -2.7%
+- **Louisiana Tech Bulldogs Win Probability**: 51.8%, Moneyline Edge: -2.0%
 
 ### Total
-- **Predicted Total**: 135.0
-- Edge For Covering The Over: -6.6%
-- Edge For Covering The Under: **1.9%**
+- **Predicted Total**: 134.5
+- Edge For Covering The Over: -6.9%
+- Edge For Covering The Under: **1.8%**
 
 ---
 

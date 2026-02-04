@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Alabama Crimson Tide -8.0</p>
-  <p><strong>Moneyline:</strong> Alabama Crimson Tide (-387) | Texas A&M Aggies (+297)</p>
+  <p><strong>Spread:</strong> Alabama Crimson Tide -7.5</p>
+  <p><strong>Moneyline:</strong> Alabama Crimson Tide (-374) | Texas A&M Aggies (+287)</p>
   <p><strong>Total:</strong> 179.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Alabama Crimson Tide**: -8.0, Edge For Covering Spread: -4.4%
-- **Texas A&M Aggies**: 8.0, Edge For Covering Spread: -0.3%
+- **Alabama Crimson Tide**: -7.5, Edge For Covering Spread: -5.4%
+- **Texas A&M Aggies**: 7.5, Edge For Covering Spread: **0.7%**
 
 ### Moneyline
-- **Alabama Crimson Tide Win Probability**: 73.8%, Moneyline Edge: -5.7%
-- **Texas A&M Aggies Win Probability**: 26.2%, Moneyline Edge: **1.0%**
+- **Alabama Crimson Tide Win Probability**: 73.5%, Moneyline Edge: -5.4%
+- **Texas A&M Aggies Win Probability**: 26.5%, Moneyline Edge: **0.7%**
 
 ### Total
 - **Predicted Total**: 179.0
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Alabama Crimson Tide (14-7) travels to face Texas A&M Aggies (17-4) at Reed Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Alabama Crimson Tide favored by 8.0 points, with the total sitting at 179.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Alabama Crimson Tide (14-7) travels to face Texas A&M Aggies (17-4) at Reed Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Alabama Crimson Tide favored by 7.5 points, with the total sitting at 179.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.0 points tells us Alabama Crimson Tide has clear advantages, but games aren't played on paper. Texas A&M Aggies needs to punch above their weight class to keep this close. The total of 179.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us Alabama Crimson Tide has clear advantages, but games aren't played on paper. Texas A&M Aggies needs to punch above their weight class to keep this close. The total of 179.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Alabama Crimson Tide** bring an offensive efficiency of 120.88 (ranked #20 nationally). This is an elite offense that can score in multiple ways. Their 35.1% three-point shooting is serviceable but won't scare anyone. 

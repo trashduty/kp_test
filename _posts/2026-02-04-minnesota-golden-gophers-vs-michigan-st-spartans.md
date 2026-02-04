@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan St Spartans -8.5</p>
-  <p><strong>Moneyline:</strong> Minnesota Golden Gophers (+307) | Michigan St Spartans (-399)</p>
+  <p><strong>Moneyline:</strong> Minnesota Golden Gophers (+332) | Michigan St Spartans (-437)</p>
   <p><strong>Total:</strong> 128.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Michigan St Spartans**: -8.5, Edge For Covering Spread: -5.2%
 
 ### Moneyline
-- **Minnesota Golden Gophers Win Probability**: 23.7%, Moneyline Edge: -0.9%
-- **Michigan St Spartans Win Probability**: 76.3%, Moneyline Edge: -3.6%
+- **Minnesota Golden Gophers Win Probability**: 23.0%, Moneyline Edge: -0.1%
+- **Michigan St Spartans Win Probability**: 77.0%, Moneyline Edge: -4.4%
 
 ### Total
 - **Predicted Total**: 131.0
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- Edge For Covering The Over: -4.5%
+- Edge For Covering The Under: -0.3%
 
 ---
 

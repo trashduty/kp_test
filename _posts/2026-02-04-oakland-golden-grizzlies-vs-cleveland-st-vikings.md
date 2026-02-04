@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Oakland Golden Grizzlies -6.5</p>
-  <p><strong>Moneyline:</strong> Oakland Golden Grizzlies (-280) | Cleveland St Vikings (+230)</p>
+  <p><strong>Moneyline:</strong> Oakland Golden Grizzlies (-270) | Cleveland St Vikings (+220)</p>
   <p><strong>Total:</strong> 172.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oakland Golden Grizzlies**: -6.5, Edge For Covering Spread: -0.3%
-- **Cleveland St Vikings**: 6.5, Edge For Covering Spread: -4.4%
+- **Oakland Golden Grizzlies**: -6.5, Edge For Covering Spread: **0.4%**
+- **Cleveland St Vikings**: 6.5, Edge For Covering Spread: -5.1%
 
 ### Moneyline
-- **Oakland Golden Grizzlies Win Probability**: 71.8%, Moneyline Edge: -1.9%
-- **Cleveland St Vikings Win Probability**: 28.2%, Moneyline Edge: -2.1%
+- **Oakland Golden Grizzlies Win Probability**: 71.1%, Moneyline Edge: -1.9%
+- **Cleveland St Vikings Win Probability**: 28.9%, Moneyline Edge: -2.4%
 
 ### Total
 - **Predicted Total**: 170.0
-- Edge For Covering The Over: -3.6%
-- Edge For Covering The Under: -1.1%
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -3.7%
 
 ---
 

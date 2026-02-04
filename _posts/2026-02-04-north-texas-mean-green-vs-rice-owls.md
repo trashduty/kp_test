@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> North Texas Mean Green -2.5</p>
-  <p><strong>Moneyline:</strong> North Texas Mean Green (-141) | Rice Owls (+118)</p>
+  <p><strong>Moneyline:</strong> North Texas Mean Green (-141) | Rice Owls (+116)</p>
   <p><strong>Total:</strong> 133.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **North Texas Mean Green**: -2.5, Edge For Covering Spread: -4.3%
-- **Rice Owls**: 2.5, Edge For Covering Spread: -0.6%
+- **North Texas Mean Green**: -2.5, Edge For Covering Spread: -4.0%
+- **Rice Owls**: 2.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **North Texas Mean Green Win Probability**: 53.5%, Moneyline Edge: -5.0%
-- **Rice Owls Win Probability**: 46.5%, Moneyline Edge: **0.6%**
+- **North Texas Mean Green Win Probability**: 53.3%, Moneyline Edge: -5.2%
+- **Rice Owls Win Probability**: 46.7%, Moneyline Edge: **0.5%**
 
 ### Total
 - **Predicted Total**: 132.5
-- Edge For Covering The Over: -6.8%
-- Edge For Covering The Under: **0.4%**
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.9%
 
 ---
 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Iowa Hawkeyes -2.0</p>
-  <p><strong>Moneyline:</strong> Iowa Hawkeyes (-140) | Washington Huskies (+118)</p>
+  <p><strong>Spread:</strong> Iowa Hawkeyes -1.5</p>
+  <p><strong>Moneyline:</strong> Iowa Hawkeyes (-135) | Washington Huskies (+112)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Iowa Hawkeyes**: -2.0, Edge For Covering Spread: -2.0%
-- **Washington Huskies**: 2.0, Edge For Covering Spread: -2.9%
+- **Iowa Hawkeyes**: -1.5, Edge For Covering Spread: -3.8%
+- **Washington Huskies**: 1.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **Iowa Hawkeyes Win Probability**: 56.3%, Moneyline Edge: -2.1%
-- **Washington Huskies Win Probability**: 43.7%, Moneyline Edge: -2.1%
+- **Iowa Hawkeyes Win Probability**: 55.7%, Moneyline Edge: -1.7%
+- **Washington Huskies Win Probability**: 44.3%, Moneyline Edge: -2.8%
 
 ### Total
 - **Predicted Total**: 139.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Iowa Hawkeyes (16-5) travels to face Washington Huskies (12-10) at Alaska Airlines Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Iowa Hawkeyes favored by 2.0 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Iowa Hawkeyes (16-5) travels to face Washington Huskies (12-10) at Alaska Airlines Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Iowa Hawkeyes favored by 1.5 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Iowa Hawkeyes's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Iowa Hawkeyes's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Iowa Hawkeyes** bring an offensive efficiency of 121.08 (ranked #18 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 37.4% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Colgate Raiders -10.5</p>
-  <p><strong>Moneyline:</strong> Army Knights (+425) | Colgate Raiders (-600)</p>
+  <p><strong>Moneyline:</strong> Army Knights (+475) | Colgate Raiders (-750)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Army Knights**: 10.5, Edge For Covering Spread: -5.8%
-- **Colgate Raiders**: -10.5, Edge For Covering Spread: **1.1%**
+- **Army Knights**: 10.5, Edge For Covering Spread: -6.0%
+- **Colgate Raiders**: -10.5, Edge For Covering Spread: **1.3%**
 
 ### Moneyline
-- **Army Knights Win Probability**: 16.9%, Moneyline Edge: -2.2%
-- **Colgate Raiders Win Probability**: 83.1%, Moneyline Edge: -2.6%
+- **Army Knights Win Probability**: 16.0%, Moneyline Edge: -1.4%
+- **Colgate Raiders Win Probability**: 84.0%, Moneyline Edge: -4.2%
 
 ### Total
 - **Predicted Total**: 149.5
-- Edge For Covering The Over: -2.2%
+- Edge For Covering The Over: -2.4%
 - Edge For Covering The Under: -2.6%
 
 ---

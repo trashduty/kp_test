@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Louisville Cardinals -17.5</p>
-  <p><strong>Moneyline:</strong> Louisville Cardinals (-2800) | Notre Dame Fighting Irish (+1226)</p>
+  <p><strong>Moneyline:</strong> Louisville Cardinals (-2897) | Notre Dame Fighting Irish (+1248)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Louisville Cardinals**: -17.5, Edge For Covering Spread: -3.8%
-- **Notre Dame Fighting Irish**: 17.5, Edge For Covering Spread: -1.0%
+- **Louisville Cardinals**: -17.5, Edge For Covering Spread: -3.3%
+- **Notre Dame Fighting Irish**: 17.5, Edge For Covering Spread: -1.4%
 
 ### Moneyline
-- **Louisville Cardinals Win Probability**: 93.4%, Moneyline Edge: -3.2%
-- **Notre Dame Fighting Irish Win Probability**: 6.6%, Moneyline Edge: -0.9%
+- **Louisville Cardinals Win Probability**: 93.5%, Moneyline Edge: -3.1%
+- **Notre Dame Fighting Irish Win Probability**: 6.5%, Moneyline Edge: -0.9%
 
 ### Total
 - **Predicted Total**: 153.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.9%
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -0.6%
 
 ---
 

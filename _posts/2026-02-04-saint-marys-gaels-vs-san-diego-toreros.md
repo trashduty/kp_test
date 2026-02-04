@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Saint Mary's Gaels -19.5</p>
-  <p><strong>Moneyline:</strong> Saint Mary's Gaels (-4236) | San Diego Toreros (+1600)</p>
+  <p><strong>Moneyline:</strong> Saint Mary's Gaels (-3790) | San Diego Toreros (+1448)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Saint Mary's Gaels**: -19.5, Edge For Covering Spread: -3.5%
-- **San Diego Toreros**: 19.5, Edge For Covering Spread: -1.2%
+- **Saint Mary's Gaels**: -19.5, Edge For Covering Spread: -2.4%
+- **San Diego Toreros**: 19.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Saint Mary's Gaels Win Probability**: 94.4%, Moneyline Edge: -3.3%
-- **San Diego Toreros Win Probability**: 5.6%, Moneyline Edge: -0.3%
+- **Saint Mary's Gaels Win Probability**: 94.2%, Moneyline Edge: -3.3%
+- **San Diego Toreros Win Probability**: 5.8%, Moneyline Edge: -0.6%
 
 ### Total
 - **Predicted Total**: 147.0
-- Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -1.1%
+- Edge For Covering The Over: -4.2%
+- Edge For Covering The Under: -0.5%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Fort Wayne Mastodons -3.5</p>
-  <p><strong>Moneyline:</strong> Fort Wayne Mastodons (-150) | Youngstown St Penguins (+125)</p>
+  <p><strong>Moneyline:</strong> Fort Wayne Mastodons (-155) | Youngstown St Penguins (+132)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fort Wayne Mastodons**: -3.5, Edge For Covering Spread: -2.1%
-- **Youngstown St Penguins**: 3.5, Edge For Covering Spread: -2.5%
+- **Fort Wayne Mastodons**: -3.5, Edge For Covering Spread: -2.7%
+- **Youngstown St Penguins**: 3.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Fort Wayne Mastodons Win Probability**: 59.3%, Moneyline Edge: -0.7%
-- **Youngstown St Penguins Win Probability**: 40.7%, Moneyline Edge: -3.7%
+- **Fort Wayne Mastodons Win Probability**: 59.8%, Moneyline Edge: -1.0%
+- **Youngstown St Penguins Win Probability**: 40.2%, Moneyline Edge: -2.9%
 
 ### Total
-- **Predicted Total**: 147.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- **Predicted Total**: 147.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 

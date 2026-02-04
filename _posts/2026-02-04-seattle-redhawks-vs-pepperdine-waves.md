@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Seattle Redhawks -12.0</p>
-  <p><strong>Moneyline:</strong> Seattle Redhawks (-900) | Pepperdine Waves (+600)</p>
+  <p><strong>Spread:</strong> Seattle Redhawks -12.5</p>
+  <p><strong>Moneyline:</strong> Seattle Redhawks (-948) | Pepperdine Waves (+600)</p>
   <p><strong>Total:</strong> 133.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Seattle Redhawks**: -12.0, Edge For Covering Spread: -3.3%
-- **Pepperdine Waves**: 12.0, Edge For Covering Spread: -1.7%
+- **Seattle Redhawks**: -12.5, Edge For Covering Spread: -1.6%
+- **Pepperdine Waves**: 12.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
-- **Seattle Redhawks Win Probability**: 87.2%, Moneyline Edge: -2.8%
-- **Pepperdine Waves Win Probability**: 12.8%, Moneyline Edge: -1.5%
+- **Seattle Redhawks Win Probability**: 87.3%, Moneyline Edge: -3.2%
+- **Pepperdine Waves Win Probability**: 12.7%, Moneyline Edge: -1.5%
 
 ### Total
-- **Predicted Total**: 135.0
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -0.7%
+- **Predicted Total**: 135.5
+- Edge For Covering The Over: -4.6%
+- Edge For Covering The Under: -0.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Seattle Redhawks (14-9) enters hostile territory as they take on Pepperdine Waves (6-17) at Firestone Fieldhouse in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Seattle Redhawks favored by 12.0 points, with the total sitting at 133.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Seattle Redhawks (14-9) enters hostile territory as they take on Pepperdine Waves (6-17) at Firestone Fieldhouse in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Seattle Redhawks favored by 12.5 points, with the total sitting at 133.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 12.0-point spread screams mismatch. The books are asking Pepperdine Waves to hang within two possessions, which based on the profiles, requires Seattle Redhawks to play below their standard. The total of 133.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+The 12.5-point spread screams mismatch. The books are asking Pepperdine Waves to hang within two possessions, which based on the profiles, requires Seattle Redhawks to play below their standard. The total of 133.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **Seattle Redhawks** bring an offensive efficiency of 101.14 (ranked #301 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.1% three-point shooting is serviceable but won't scare anyone. 

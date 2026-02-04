@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Houston Cougars -14.5</p>
-  <p><strong>Moneyline:</strong> Houston Cougars (-1779) | UCF Knights (+938)</p>
+  <p><strong>Moneyline:</strong> Houston Cougars (-1650) | UCF Knights (+890)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Houston Cougars**: -14.5, Edge For Covering Spread: -2.2%
-- **UCF Knights**: 14.5, Edge For Covering Spread: -2.5%
+- **Houston Cougars**: -14.5, Edge For Covering Spread: -0.5%
+- **UCF Knights**: 14.5, Edge For Covering Spread: -4.2%
 
 ### Moneyline
-- **Houston Cougars Win Probability**: 91.9%, Moneyline Edge: -2.8%
-- **UCF Knights Win Probability**: 8.1%, Moneyline Edge: -1.5%
+- **Houston Cougars Win Probability**: 91.7%, Moneyline Edge: -2.6%
+- **UCF Knights Win Probability**: 8.3%, Moneyline Edge: -1.8%
 
 ### Total
-- **Predicted Total**: 148.0
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.9%
+- **Predicted Total**: 147.5
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kentucky Wildcats -9.5</p>
-  <p><strong>Moneyline:</strong> Oklahoma Sooners (+390) | Kentucky Wildcats (-524)</p>
+  <p><strong>Moneyline:</strong> Oklahoma Sooners (+385) | Kentucky Wildcats (-524)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oklahoma Sooners**: 9.5, Edge For Covering Spread: -1.2%
-- **Kentucky Wildcats**: -9.5, Edge For Covering Spread: -3.5%
+- **Oklahoma Sooners**: 9.5, Edge For Covering Spread: -0.9%
+- **Kentucky Wildcats**: -9.5, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **Oklahoma Sooners Win Probability**: 19.8%, Moneyline Edge: -0.6%
-- **Kentucky Wildcats Win Probability**: 80.2%, Moneyline Edge: -3.8%
+- **Oklahoma Sooners Win Probability**: 19.9%, Moneyline Edge: -0.7%
+- **Kentucky Wildcats Win Probability**: 80.1%, Moneyline Edge: -3.9%
 
 ### Total
 - **Predicted Total**: 153.0
