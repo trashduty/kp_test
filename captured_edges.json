@@ -2822,5 +2822,13 @@
   "North Carolina Tar Heels vs. Duke Blue Devils|North Carolina Tar Heels|spread": {
     "captured_at": "2026-02-04T17:21:35.023188+00:00",
     "edge_type": "spread"
+  },
+  "Michigan Wolverines vs. Penn State Nittany Lions|Michigan Wolverines|spread": {
+    "captured_at": "2026-02-04T21:13:52.473177+00:00",
+    "edge_type": "spread"
+  },
+  "Campbell Fighting Camels vs. Drexel Dragons|Drexel Dragons|spread": {
+    "captured_at": "2026-02-04T21:13:52.473297+00:00",
+    "edge_type": "spread"
   }
 }
