@@ -2878,5 +2878,21 @@
   "Wagner Seahawks vs. Le Moyne Dolphins|over": {
     "captured_at": "2026-02-05T06:26:01.300937+00:00",
     "edge_type": "over"
+  },
+  "Davidson Wildcats vs. Loyola (Chi) Ramblers|Davidson Wildcats|spread": {
+    "captured_at": "2026-02-05T18:23:54.032489+00:00",
+    "edge_type": "spread"
+  },
+  "Northern Iowa Panthers vs. Bradley Braves|Northern Iowa Panthers|spread": {
+    "captured_at": "2026-02-05T18:23:54.033283+00:00",
+    "edge_type": "spread"
+  },
+  "Northern Iowa Panthers vs. Bradley Braves|under": {
+    "captured_at": "2026-02-05T18:23:54.033332+00:00",
+    "edge_type": "under"
+  },
+  "Michigan St Spartans vs. Illinois Fighting Illini|under": {
+    "captured_at": "2026-02-05T18:23:54.033959+00:00",
+    "edge_type": "under"
   }
 }
