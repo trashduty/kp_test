@@ -2830,5 +2830,21 @@
   "Campbell Fighting Camels vs. Drexel Dragons|Drexel Dragons|spread": {
     "captured_at": "2026-02-04T21:13:52.473297+00:00",
     "edge_type": "spread"
+  },
+  "Marist Red Foxes vs. Rider Broncs|Marist Red Foxes|spread": {
+    "captured_at": "2026-02-05T00:37:24.817088+00:00",
+    "edge_type": "spread"
+  },
+  "Marist Red Foxes vs. Rider Broncs|under": {
+    "captured_at": "2026-02-05T00:37:24.817135+00:00",
+    "edge_type": "under"
+  },
+  "Quinnipiac Bobcats vs. Canisius Golden Griffins|under": {
+    "captured_at": "2026-02-05T00:37:24.817459+00:00",
+    "edge_type": "under"
+  },
+  "Cal Baptist Lancers vs. Tarleton State Texans|Tarleton State Texans|spread": {
+    "captured_at": "2026-02-05T00:37:24.819045+00:00",
+    "edge_type": "spread"
   }
 }
