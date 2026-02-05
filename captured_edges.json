@@ -2850,5 +2850,9 @@
   "Utah Tech Trailblazers vs. UT-Arlington Mavericks|under": {
     "captured_at": "2026-02-05T01:38:28.131370+00:00",
     "edge_type": "under"
+  },
+  "Montana St Bobcats vs. Idaho Vandals|Montana St Bobcats|moneyline": {
+    "captured_at": "2026-02-05T03:04:46.227023+00:00",
+    "edge_type": "moneyline"
   }
 }
