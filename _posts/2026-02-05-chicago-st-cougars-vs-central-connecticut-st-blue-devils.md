@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Central Connecticut St Blue Devils -9.5</p>
-  <p><strong>Moneyline:</strong> Chicago St Cougars (+410) | Central Connecticut St Blue Devils (-550)</p>
+  <p><strong>Moneyline:</strong> Chicago St Cougars (+417) | Central Connecticut St Blue Devils (-583)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Chicago St Cougars**: 9.5, Edge For Covering Spread: **1.2%**
+- **Chicago St Cougars**: 9.5, Edge For Covering Spread: **0.9%**
 - **Central Connecticut St Blue Devils**: -9.5, Edge For Covering Spread: -5.8%
 
 ### Moneyline
-- **Chicago St Cougars Win Probability**: 20.2%, Moneyline Edge: **0.6%**
-- **Central Connecticut St Blue Devils Win Probability**: 79.8%, Moneyline Edge: -4.8%
+- **Chicago St Cougars Win Probability**: 20.0%, Moneyline Edge: **0.7%**
+- **Central Connecticut St Blue Devils Win Probability**: 80.0%, Moneyline Edge: -5.4%
 
 ### Total
 - **Predicted Total**: 140.0
-- Edge For Covering The Over: -0.0%
+- Edge For Covering The Over: -0.3%
 - Edge For Covering The Under: -4.7%
 
 ---
@@ -87,7 +87,7 @@ Chicago St Cougars comes in ranked #355 overall by KenPom. Defense has been a st
 
 - **2-Point Shooting:** 42.1% (Rank: #364)
 - **3-Point Shooting:** 32.6% (Rank: #246)
-- **Free Throw Shooting:** 75.0% (Rank: #86)
+- **Free Throw Shooting:** 75.0% (Rank: #85)
 - **3-Point Rate:** 29.3% (Rank: #354)
 
 ### Defensive Stats

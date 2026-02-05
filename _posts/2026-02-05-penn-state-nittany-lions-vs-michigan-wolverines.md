@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan Wolverines -24.5</p>
-  <p><strong>Moneyline:</strong> Penn State Nittany Lions (+3000) | Michigan Wolverines (-10000)</p>
+  <p><strong>Moneyline:</strong> Penn State Nittany Lions (+2500) | Michigan Wolverines (-10000)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Penn State Nittany Lions**: 24.5, Edge For Covering Spread: -6.6%
-- **Michigan Wolverines**: -24.5, Edge For Covering Spread: **1.9%**
+- **Penn State Nittany Lions**: 24.5, Edge For Covering Spread: -6.0%
+- **Michigan Wolverines**: -24.5, Edge For Covering Spread: **1.3%**
 
 ### Moneyline
-- **Penn State Nittany Lions Win Probability**: 2.1%, Moneyline Edge: -1.1%
-- **Michigan Wolverines Win Probability**: 97.9%, Moneyline Edge: -1.1%
+- **Penn State Nittany Lions Win Probability**: 2.4%, Moneyline Edge: -1.5%
+- **Michigan Wolverines Win Probability**: 97.6%, Moneyline Edge: -1.4%
 
 ### Total
-- **Predicted Total**: 163.0
-- Edge For Covering The Over: -3.4%
-- Edge For Covering The Under: -1.4%
+- **Predicted Total**: 162.0
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.9%
 
 ---
 
@@ -75,22 +75,22 @@ Michigan Wolverines features a elite offense (ranked #16) that should find succe
 
 ## Penn State Nittany Lions
 
-Penn State Nittany Lions comes in ranked #130 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Penn State Nittany Lions comes in ranked #129 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 10-12
 - **Head Coach:** Mike Rhoades
-- **KenPom Rank:** #130
+- **KenPom Rank:** #129
 - **Offensive Efficiency:** 113.2 (Rank: #85)
 - **Defensive Efficiency:** 115.9 (Rank: #320)
 - **Tempo:** 67.7 (Rank: #232)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 55.8% (Rank: #59)
+- **2-Point Shooting:** 55.8% (Rank: #58)
 - **3-Point Shooting:** 33.5% (Rank: #208)
-- **Free Throw Shooting:** 75.0% (Rank: #86)
-- **3-Point Rate:** 39.3% (Rank: #191)
+- **Free Throw Shooting:** 75.0% (Rank: #85)
+- **3-Point Rate:** 39.3% (Rank: #192)
 
 ### Defensive Stats
 
@@ -133,12 +133,12 @@ Michigan Wolverines comes in ranked #2 overall by KenPom. They boast one of the 
 - **Opponent 2-Point Shooting:** 42.2% (Rank: #2)
 - **Opponent 3-Point Shooting:** 29.9% (Rank: #25)
 - **Block Percentage:** 16.1% (Rank: #5)
-- **Steal Rate:** 0.1% (Rank: #229)
+- **Steal Rate:** 0.1% (Rank: #228)
 
 ### Team Metrics
 
 - **Assist Rate:** 59.9% (Rank: #35)
 - **Experience:** 2.1 years (Rank: #50)
-- **Bench Minutes:** 37.2% (Rank: #71)
+- **Bench Minutes:** 37.2% (Rank: #70)
 - **Average Height:** 78.6" (Rank: #28)
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Eastern Kentucky Colonels -1.5</p>
-  <p><strong>Moneyline:</strong> Florida Gulf Coast Eagles (-102) | Eastern Kentucky Colonels (-118)</p>
+  <p><strong>Moneyline:</strong> Florida Gulf Coast Eagles (-102) | Eastern Kentucky Colonels (-119)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Gulf Coast Eagles**: 1.5, Edge For Covering Spread: -4.1%
-- **Eastern Kentucky Colonels**: -1.5, Edge For Covering Spread: -0.5%
+- **Florida Gulf Coast Eagles**: 1.5, Edge For Covering Spread: -3.8%
+- **Eastern Kentucky Colonels**: -1.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
 - **Florida Gulf Coast Eagles Win Probability**: 47.6%, Moneyline Edge: -2.9%
-- **Eastern Kentucky Colonels Win Probability**: 52.4%, Moneyline Edge: -1.8%
+- **Eastern Kentucky Colonels Win Probability**: 52.4%, Moneyline Edge: -1.9%
 
 ### Total
-- **Predicted Total**: 154.5
-- Edge For Covering The Over: -1.1%
-- Edge For Covering The Under: -3.6%
+- **Predicted Total**: 155.0
+- Edge For Covering The Over: -1.5%
+- Edge For Covering The Under: -5.3%
 
 ---
 
@@ -88,7 +88,7 @@ Florida Gulf Coast Eagles comes in ranked #220 overall by KenPom. They're danger
 - **2-Point Shooting:** 51.6% (Rank: #179)
 - **3-Point Shooting:** 36.3% (Rank: #56)
 - **Free Throw Shooting:** 73.7% (Rank: #135)
-- **3-Point Rate:** 38.7% (Rank: #203)
+- **3-Point Rate:** 38.7% (Rank: #204)
 
 ### Defensive Stats
 
@@ -99,7 +99,7 @@ Florida Gulf Coast Eagles comes in ranked #220 overall by KenPom. They're danger
 
 ### Team Metrics
 
-- **Assist Rate:** 52.5% (Rank: #182)
+- **Assist Rate:** 52.5% (Rank: #181)
 - **Experience:** 1.4 years (Rank: #194)
 - **Bench Minutes:** 33.8% (Rank: #142)
 - **Average Height:** 76.8" (Rank: #270)
@@ -131,7 +131,7 @@ Eastern Kentucky Colonels comes in ranked #264 overall by KenPom. Stopping oppon
 - **Opponent 2-Point Shooting:** 57.3% (Rank: #340)
 - **Opponent 3-Point Shooting:** 34.6% (Rank: #219)
 - **Block Percentage:** 7.9% (Rank: #265)
-- **Steal Rate:** 0.1% (Rank: #297)
+- **Steal Rate:** 0.1% (Rank: #296)
 
 ### Team Metrics
 

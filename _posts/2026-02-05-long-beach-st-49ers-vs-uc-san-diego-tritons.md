@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UC San Diego Tritons -9.5</p>
-  <p><strong>Moneyline:</strong> Long Beach St 49ers (+387) | UC San Diego Tritons (-546)</p>
+  <p><strong>Spread:</strong> UC San Diego Tritons -8.5</p>
+  <p><strong>Moneyline:</strong> Long Beach St 49ers (+340) | UC San Diego Tritons (-450)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Long Beach St 49ers**: 9.5, Edge For Covering Spread: -1.9%
-- **UC San Diego Tritons**: -9.5, Edge For Covering Spread: -2.8%
+- **Long Beach St 49ers**: 8.5, Edge For Covering Spread: -2.9%
+- **UC San Diego Tritons**: -8.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Long Beach St 49ers Win Probability**: 19.6%, Moneyline Edge: -0.9%
-- **UC San Diego Tritons Win Probability**: 80.4%, Moneyline Edge: -4.1%
+- **Long Beach St 49ers Win Probability**: 20.9%, Moneyline Edge: -1.9%
+- **UC San Diego Tritons Win Probability**: 79.1%, Moneyline Edge: -2.7%
 
 ### Total
-- **Predicted Total**: 144.5
-- Edge For Covering The Over: -2.4%
+- **Predicted Total**: 143.5
+- Edge For Covering The Over: -2.8%
 - Edge For Covering The Under: -2.4%
 
 ---
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UC San Diego Tritons (15-8) hosts Long Beach St 49ers (8-15) at LionTree Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UC San Diego Tritons favored by 9.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UC San Diego Tritons (15-8) hosts Long Beach St 49ers (8-15) at LionTree Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UC San Diego Tritons favored by 8.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us UC San Diego Tritons has clear advantages, but games aren't played on paper. Long Beach St 49ers needs to punch above their weight class to keep this close. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.5 points tells us UC San Diego Tritons has clear advantages, but games aren't played on paper. Long Beach St 49ers needs to punch above their weight class to keep this close. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Long Beach St 49ers** bring an offensive efficiency of 103.01 (ranked #272 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.5% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -101,7 +101,7 @@ Long Beach St 49ers comes in ranked #233 overall by KenPom. The three-point shot
 
 - **Assist Rate:** 48.1% (Rank: #292)
 - **Experience:** 1.0 years (Rank: #291)
-- **Bench Minutes:** 36.7% (Rank: #82)
+- **Bench Minutes:** 36.7% (Rank: #81)
 - **Average Height:** 77.5" (Rank: #155)
 
 ---
@@ -124,12 +124,12 @@ UC San Diego Tritons comes in ranked #119 overall by KenPom.
 - **2-Point Shooting:** 54.8% (Rank: #74)
 - **3-Point Shooting:** 33.9% (Rank: #178)
 - **Free Throw Shooting:** 68.3% (Rank: #309)
-- **3-Point Rate:** 43.5% (Rank: #104)
+- **3-Point Rate:** 43.5% (Rank: #103)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 47.5% (Rank: #43)
-- **Opponent 3-Point Shooting:** 33.1% (Rank: #137)
+- **Opponent 3-Point Shooting:** 33.1% (Rank: #138)
 - **Block Percentage:** 7.1% (Rank: #306)
 - **Steal Rate:** 0.1% (Rank: #123)
 

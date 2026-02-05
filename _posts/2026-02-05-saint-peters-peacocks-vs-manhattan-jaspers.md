@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Saint Peter's Peacocks -4.5</p>
-  <p><strong>Moneyline:</strong> Saint Peter's Peacocks (-190) | Manhattan Jaspers (+157)</p>
+  <p><strong>Moneyline:</strong> Saint Peter's Peacocks (-200) | Manhattan Jaspers (+160)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Manhattan Jaspers**: 4.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Saint Peter's Peacocks Win Probability**: 63.4%, Moneyline Edge: -2.1%
-- **Manhattan Jaspers Win Probability**: 36.6%, Moneyline Edge: -2.2%
+- **Saint Peter's Peacocks Win Probability**: 63.7%, Moneyline Edge: -3.0%
+- **Manhattan Jaspers Win Probability**: 36.3%, Moneyline Edge: -2.2%
 
 ### Total
 - **Predicted Total**: 146.0
 - Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Under: -2.1%
 
 ---
 
@@ -99,7 +99,7 @@ Saint Peter's Peacocks comes in ranked #241 overall by KenPom. The three-point s
 
 ### Team Metrics
 
-- **Assist Rate:** 52.5% (Rank: #181)
+- **Assist Rate:** 52.5% (Rank: #180)
 - **Experience:** 1.0 years (Rank: #280)
 - **Bench Minutes:** 37.4% (Rank: #65)
 - **Average Height:** 76.8" (Rank: #278)

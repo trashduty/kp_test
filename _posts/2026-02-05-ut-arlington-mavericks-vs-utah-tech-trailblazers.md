@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Utah Tech Trailblazers -1.5</p>
-  <p><strong>Moneyline:</strong> UT-Arlington Mavericks (+105) | Utah Tech Trailblazers (-125)</p>
+  <p><strong>Moneyline:</strong> UT-Arlington Mavericks (+102) | Utah Tech Trailblazers (-122)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Utah Tech Trailblazers**: -1.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **UT-Arlington Mavericks Win Probability**: 47.6%, Moneyline Edge: -1.2%
-- **Utah Tech Trailblazers Win Probability**: 52.4%, Moneyline Edge: -3.1%
+- **UT-Arlington Mavericks Win Probability**: 48.0%, Moneyline Edge: -1.5%
+- **Utah Tech Trailblazers Win Probability**: 52.0%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 138.0
-- Edge For Covering The Over: -6.1%
-- Edge For Covering The Under: **1.3%**
+- Edge For Covering The Over: -5.2%
+- Edge For Covering The Under: **0.2%**
 
 ---
 
@@ -129,7 +129,7 @@ Utah Tech Trailblazers comes in ranked #201 overall by KenPom.
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 53.9% (Rank: #267)
-- **Opponent 3-Point Shooting:** 29.7% (Rank: #22)
+- **Opponent 3-Point Shooting:** 29.7% (Rank: #21)
 - **Block Percentage:** 7.7% (Rank: #280)
 - **Steal Rate:** 0.1% (Rank: #103)
 

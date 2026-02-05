@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Stony Brook Seawolves -3.5</p>
-  <p><strong>Moneyline:</strong> Monmouth Hawks (+140) | Stony Brook Seawolves (-167)</p>
+  <p><strong>Moneyline:</strong> Monmouth Hawks (+145) | Stony Brook Seawolves (-170)</p>
   <p><strong>Total:</strong> 133.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Stony Brook Seawolves**: -3.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Monmouth Hawks Win Probability**: 40.0%, Moneyline Edge: -1.7%
-- **Stony Brook Seawolves Win Probability**: 60.0%, Moneyline Edge: -2.6%
+- **Monmouth Hawks Win Probability**: 39.7%, Moneyline Edge: -1.2%
+- **Stony Brook Seawolves Win Probability**: 60.3%, Moneyline Edge: -2.6%
 
 ### Total
-- **Predicted Total**: 134.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- **Predicted Total**: 134.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 
@@ -87,7 +87,7 @@ Monmouth Hawks comes in ranked #225 overall by KenPom.
 
 - **2-Point Shooting:** 47.8% (Rank: #302)
 - **3-Point Shooting:** 33.8% (Rank: #184)
-- **Free Throw Shooting:** 73.3% (Rank: #146)
+- **Free Throw Shooting:** 73.3% (Rank: #147)
 - **3-Point Rate:** 32.2% (Rank: #328)
 
 ### Defensive Stats
@@ -130,13 +130,13 @@ Stony Brook Seawolves comes in ranked #214 overall by KenPom. They're dangerous 
 
 - **Opponent 2-Point Shooting:** 48.8% (Rank: #75)
 - **Opponent 3-Point Shooting:** 35.4% (Rank: #261)
-- **Block Percentage:** 10.9% (Rank: #98)
-- **Steal Rate:** 0.1% (Rank: #227)
+- **Block Percentage:** 10.9% (Rank: #97)
+- **Steal Rate:** 0.1% (Rank: #226)
 
 ### Team Metrics
 
 - **Assist Rate:** 54.7% (Rank: #126)
 - **Experience:** 1.5 years (Rank: #170)
-- **Bench Minutes:** 33.1% (Rank: #160)
+- **Bench Minutes:** 33.1% (Rank: #159)
 - **Average Height:** 77.6" (Rank: #148)
 

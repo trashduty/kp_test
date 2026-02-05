@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> NJIT Highlanders -1.5</p>
-  <p><strong>Moneyline:</strong> UMass Lowell River Hawks (+102) | NJIT Highlanders (-122)</p>
+  <p><strong>Moneyline:</strong> UMass Lowell River Hawks (+110) | NJIT Highlanders (-135)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UMass Lowell River Hawks**: 1.5, Edge For Covering Spread: -6.7%
-- **NJIT Highlanders**: -1.5, Edge For Covering Spread: **2.0%**
+- **UMass Lowell River Hawks**: 1.5, Edge For Covering Spread: -4.4%
+- **NJIT Highlanders**: -1.5, Edge For Covering Spread: -0.2%
 
 ### Moneyline
-- **UMass Lowell River Hawks Win Probability**: 42.1%, Moneyline Edge: -7.2%
-- **NJIT Highlanders Win Probability**: 57.9%, Moneyline Edge: **2.8%**
+- **UMass Lowell River Hawks Win Probability**: 41.2%, Moneyline Edge: -6.5%
+- **NJIT Highlanders Win Probability**: 58.8%, Moneyline Edge: **1.4%**
 
 ### Total
 - **Predicted Total**: 148.5
-- Edge For Covering The Over: -2.4%
+- Edge For Covering The Over: -2.8%
 - Edge For Covering The Under: -2.4%
 
 ---
@@ -116,7 +116,7 @@ NJIT Highlanders comes in ranked #323 overall by KenPom.
 - **Home Arena:** Wellness and Events Center
 - **KenPom Rank:** #323
 - **Offensive Efficiency:** 97.4 (Rank: #338)
-- **Defensive Efficiency:** 110.1 (Rank: #232)
+- **Defensive Efficiency:** 110.1 (Rank: #233)
 - **Tempo:** 69.0 (Rank: #173)
 
 ### Shooting Breakdown
@@ -128,10 +128,10 @@ NJIT Highlanders comes in ranked #323 overall by KenPom.
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.3% (Rank: #165)
+- **Opponent 2-Point Shooting:** 51.3% (Rank: #166)
 - **Opponent 3-Point Shooting:** 32.8% (Rank: #117)
 - **Block Percentage:** 8.9% (Rank: #202)
-- **Steal Rate:** 0.1% (Rank: #306)
+- **Steal Rate:** 0.1% (Rank: #305)
 
 ### Team Metrics
 

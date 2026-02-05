@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UMBC Retrievers -12.5</p>
-  <p><strong>Moneyline:</strong> Binghamton Bearcats (+679) | UMBC Retrievers (-1120)</p>
+  <p><strong>Moneyline:</strong> Binghamton Bearcats (+702) | UMBC Retrievers (-1202)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Binghamton Bearcats**: 12.5, Edge For Covering Spread: -4.5%
-- **UMBC Retrievers**: -12.5, Edge For Covering Spread: -0.2%
+- **Binghamton Bearcats**: 12.5, Edge For Covering Spread: -4.1%
+- **UMBC Retrievers**: -12.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Binghamton Bearcats Win Probability**: 10.2%, Moneyline Edge: -2.6%
-- **UMBC Retrievers Win Probability**: 89.8%, Moneyline Edge: -2.0%
+- **Binghamton Bearcats Win Probability**: 10.2%, Moneyline Edge: -2.3%
+- **UMBC Retrievers Win Probability**: 89.8%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 139.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.0%
 
 ---
 
@@ -52,7 +52,7 @@ The 12.5-point spread screams mismatch. The books are asking Binghamton Bearcats
 Meanwhile, **UMBC Retrievers** counter with 108.17 offensive efficiency (#177). Points have been hard to come by, making every possession critical. At 34.9% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Binghamton Bearcats operate at a 65.1 tempo (#332), while UMBC Retrievers play at 66.7 (#278). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 65.9) means fewer possessions, making each one more valuable. 
+Binghamton Bearcats operate at a 65.1 tempo (#332), while UMBC Retrievers play at 66.7 (#279). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 65.9) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Binghamton Bearcats shoot 49.3% on two-pointers, while UMBC Retrievers convert at 53.8%. Both teams are evenly matched in paint efficiency. 
@@ -117,18 +117,18 @@ UMBC Retrievers comes in ranked #257 overall by KenPom.
 - **KenPom Rank:** #257
 - **Offensive Efficiency:** 108.2 (Rank: #177)
 - **Defensive Efficiency:** 106.0 (Rank: #120)
-- **Tempo:** 66.7 (Rank: #278)
+- **Tempo:** 66.7 (Rank: #279)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 53.8% (Rank: #107)
-- **3-Point Shooting:** 34.9% (Rank: #121)
+- **3-Point Shooting:** 34.9% (Rank: #120)
 - **Free Throw Shooting:** 73.6% (Rank: #139)
-- **3-Point Rate:** 39.1% (Rank: #193)
+- **3-Point Rate:** 39.1% (Rank: #194)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.2% (Rank: #160)
+- **Opponent 2-Point Shooting:** 51.2% (Rank: #161)
 - **Opponent 3-Point Shooting:** 34.4% (Rank: #210)
 - **Block Percentage:** 6.5% (Rank: #326)
 - **Steal Rate:** 0.1% (Rank: #352)

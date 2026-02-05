@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **CSU Northridge Matadors**: -1.5, Edge For Covering Spread: -5.1%
-- **Cal Poly Mustangs**: 1.5, Edge For Covering Spread: **0.4%**
+- **CSU Northridge Matadors**: -1.5, Edge For Covering Spread: -3.5%
+- **Cal Poly Mustangs**: 1.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
 - **CSU Northridge Matadors Win Probability**: 54.6%, Moneyline Edge: -1.9%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 176.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.5%
 
 ---
 
@@ -73,12 +73,12 @@ CSU Northridge Matadors bring a struggling offense (ranked #219) that could expl
 
 ## CSU Northridge Matadors
 
-CSU Northridge Matadors comes in ranked #189 overall by KenPom. 
+CSU Northridge Matadors comes in ranked #188 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 13-10
 - **Head Coach:** Andy Newman
-- **KenPom Rank:** #189
+- **KenPom Rank:** #188
 - **Offensive Efficiency:** 106.0 (Rank: #219)
 - **Defensive Efficiency:** 108.2 (Rank: #183)
 - **Tempo:** 75.4 (Rank: #6)
@@ -92,7 +92,7 @@ CSU Northridge Matadors comes in ranked #189 overall by KenPom.
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.4% (Rank: #173)
+- **Opponent 2-Point Shooting:** 51.4% (Rank: #172)
 - **Opponent 3-Point Shooting:** 34.8% (Rank: #228)
 - **Block Percentage:** 7.8% (Rank: #273)
 - **Steal Rate:** 0.1% (Rank: #246)
@@ -108,13 +108,13 @@ CSU Northridge Matadors comes in ranked #189 overall by KenPom.
 
 ## Cal Poly Mustangs
 
-Cal Poly Mustangs comes in ranked #246 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Cal Poly Mustangs comes in ranked #247 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 9-14
 - **Head Coach:** Mike DeGeorge
 - **Home Arena:** Mott Athletics Center
-- **KenPom Rank:** #246
+- **KenPom Rank:** #247
 - **Offensive Efficiency:** 105.1 (Rank: #234)
 - **Defensive Efficiency:** 114.1 (Rank: #301)
 - **Tempo:** 76.0 (Rank: #1)

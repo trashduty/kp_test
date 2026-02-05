@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Hofstra Pride -10.5</p>
-  <p><strong>Moneyline:</strong> Northeastern Huskies (+437) | Hofstra Pride (-632)</p>
+  <p><strong>Moneyline:</strong> Northeastern Huskies (+417) | Hofstra Pride (-596)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northeastern Huskies**: 10.5, Edge For Covering Spread: -4.5%
-- **Hofstra Pride**: -10.5, Edge For Covering Spread: -0.2%
+- **Northeastern Huskies**: 10.5, Edge For Covering Spread: -5.1%
+- **Hofstra Pride**: -10.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Northeastern Huskies Win Probability**: 17.4%, Moneyline Edge: -1.2%
-- **Hofstra Pride Win Probability**: 82.6%, Moneyline Edge: -3.7%
+- **Northeastern Huskies Win Probability**: 17.7%, Moneyline Edge: -1.6%
+- **Hofstra Pride Win Probability**: 82.3%, Moneyline Edge: -3.3%
 
 ### Total
 - **Predicted Total**: 156.0
@@ -85,7 +85,7 @@ Northeastern Huskies comes in ranked #255 overall by KenPom. Defense has been a 
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 54.2% (Rank: #93)
+- **2-Point Shooting:** 54.2% (Rank: #92)
 - **3-Point Shooting:** 34.8% (Rank: #123)
 - **Free Throw Shooting:** 68.7% (Rank: #296)
 - **3-Point Rate:** 37.4% (Rank: #227)

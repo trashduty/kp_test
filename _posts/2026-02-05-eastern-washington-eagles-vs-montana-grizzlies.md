@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Montana Grizzlies -6.5</p>
-  <p><strong>Moneyline:</strong> Eastern Washington Eagles (+240) | Montana Grizzlies (-295)</p>
+  <p><strong>Moneyline:</strong> Eastern Washington Eagles (+222) | Montana Grizzlies (-275)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Montana Grizzlies**: -6.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Eastern Washington Eagles Win Probability**: 25.2%, Moneyline Edge: -4.2%
-- **Montana Grizzlies Win Probability**: 74.8%, Moneyline Edge: **0.1%**
+- **Eastern Washington Eagles Win Probability**: 26.0%, Moneyline Edge: -5.0%
+- **Montana Grizzlies Win Probability**: 74.0%, Moneyline Edge: **0.6%**
 
 ### Total
 - **Predicted Total**: 152.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Over: -0.3%
+- Edge For Covering The Under: -4.5%
 
 ---
 
@@ -73,12 +73,12 @@ Montana Grizzlies features a middle-of-the-pack offense (ranked #169) that shoul
 
 ## Eastern Washington Eagles
 
-Eastern Washington Eagles comes in ranked #231 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Eastern Washington Eagles comes in ranked #232 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 5-17
 - **Head Coach:** Dan Monson
-- **KenPom Rank:** #231
+- **KenPom Rank:** #232
 - **Offensive Efficiency:** 107.6 (Rank: #184)
 - **Defensive Efficiency:** 116.6 (Rank: #332)
 - **Tempo:** 69.5 (Rank: #145)
@@ -128,7 +128,7 @@ Montana Grizzlies comes in ranked #151 overall by KenPom. They're dangerous from
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.6% (Rank: #183)
+- **Opponent 2-Point Shooting:** 51.6% (Rank: #182)
 - **Opponent 3-Point Shooting:** 32.5% (Rank: #100)
 - **Block Percentage:** 6.9% (Rank: #317)
 - **Steal Rate:** 0.1% (Rank: #322)

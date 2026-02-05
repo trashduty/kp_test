@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Merrimack Warriors -3.5</p>
-  <p><strong>Moneyline:</strong> Merrimack Warriors (-162) | Mt. St. Mary's Mountaineers (+137)</p>
+  <p><strong>Moneyline:</strong> Merrimack Warriors (-165) | Mt. St. Mary's Mountaineers (+138)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Mt. St. Mary's Mountaineers**: 3.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Merrimack Warriors Win Probability**: 60.8%, Moneyline Edge: -1.1%
-- **Mt. St. Mary's Mountaineers Win Probability**: 39.2%, Moneyline Edge: -2.9%
+- **Merrimack Warriors Win Probability**: 60.9%, Moneyline Edge: -1.4%
+- **Mt. St. Mary's Mountaineers Win Probability**: 39.1%, Moneyline Edge: -2.9%
 
 ### Total
-- **Predicted Total**: 133.0
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- **Predicted Total**: 133.5
+- Edge For Covering The Over: -5.7%
+- Edge For Covering The Under: **0.5%**
 
 ---
 
@@ -52,7 +52,7 @@ The 3.5-point spread indicates Merrimack Warriors is viewed as the better team, 
 Meanwhile, **Mt. St. Mary's Mountaineers** counter with 97.93 offensive efficiency (#333). Points have been hard to come by, making every possession critical. At 32.7% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Merrimack Warriors operate at a 64.5 tempo (#346), while Mt. St. Mary's Mountaineers play at 68.4 (#210). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.4) means fewer possessions, making each one more valuable. 
+Merrimack Warriors operate at a 64.5 tempo (#346), while Mt. St. Mary's Mountaineers play at 68.4 (#211). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.4) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Merrimack Warriors shoot 49.0% on two-pointers, while Mt. St. Mary's Mountaineers convert at 51.1%. Both teams are evenly matched in paint efficiency. 
@@ -73,12 +73,12 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Merrimack Warriors
 
-Merrimack Warriors comes in ranked #206 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.9% from three. 
+Merrimack Warriors comes in ranked #207 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.9% from three. 
 
 ### Record & Ranking
 - **Record:** 14-9
 - **Head Coach:** Joe Gallo
-- **KenPom Rank:** #206
+- **KenPom Rank:** #207
 - **Offensive Efficiency:** 104.8 (Rank: #241)
 - **Defensive Efficiency:** 106.4 (Rank: #135)
 - **Tempo:** 64.5 (Rank: #346)
@@ -117,21 +117,21 @@ Mt. St. Mary's Mountaineers comes in ranked #299 overall by KenPom.
 - **KenPom Rank:** #299
 - **Offensive Efficiency:** 97.9 (Rank: #333)
 - **Defensive Efficiency:** 106.5 (Rank: #141)
-- **Tempo:** 68.4 (Rank: #210)
+- **Tempo:** 68.4 (Rank: #211)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 51.1% (Rank: #198)
 - **3-Point Shooting:** 32.7% (Rank: #239)
 - **Free Throw Shooting:** 68.1% (Rank: #317)
-- **3-Point Rate:** 43.8% (Rank: #99)
+- **3-Point Rate:** 43.8% (Rank: #98)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 46.5% (Rank: #30)
 - **Opponent 3-Point Shooting:** 33.6% (Rank: #168)
-- **Block Percentage:** 9.3% (Rank: #183)
-- **Steal Rate:** 0.1% (Rank: #303)
+- **Block Percentage:** 9.3% (Rank: #182)
+- **Steal Rate:** 0.1% (Rank: #302)
 
 ### Team Metrics
 

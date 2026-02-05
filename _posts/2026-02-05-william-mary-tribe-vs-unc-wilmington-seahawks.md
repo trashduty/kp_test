@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UNC Wilmington Seahawks -4.5</p>
-  <p><strong>Moneyline:</strong> William & Mary Tribe (+180) | UNC Wilmington Seahawks (-215)</p>
+  <p><strong>Moneyline:</strong> William & Mary Tribe (+180) | UNC Wilmington Seahawks (-220)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -25,16 +25,16 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **William & Mary Tribe**: 4.5, Edge For Covering Spread: -2.5%
-- **UNC Wilmington Seahawks**: -4.5, Edge For Covering Spread: -2.4%
+- **UNC Wilmington Seahawks**: -4.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **William & Mary Tribe Win Probability**: 33.2%, Moneyline Edge: -2.5%
-- **UNC Wilmington Seahawks Win Probability**: 66.8%, Moneyline Edge: -1.4%
+- **William & Mary Tribe Win Probability**: 33.1%, Moneyline Edge: -2.6%
+- **UNC Wilmington Seahawks Win Probability**: 66.9%, Moneyline Edge: -1.8%
 
 ### Total
-- **Predicted Total**: 157.5
-- Edge For Covering The Over: -6.1%
-- Edge For Covering The Under: -0.3%
+- **Predicted Total**: 157.0
+- Edge For Covering The Over: -5.3%
+- Edge For Covering The Under: **0.5%**
 
 ---
 
@@ -49,7 +49,7 @@ The 4.5-point spread indicates UNC Wilmington Seahawks is viewed as the better t
 
 #### Offensive Firepower
 **William & Mary Tribe** bring an offensive efficiency of 109.40 (ranked #153 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.6% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **UNC Wilmington Seahawks** counter with 114.04 offensive efficiency (#79). They're competent on offense without being spectacular. At 34.4% from three, they have adequate spacing but must pick their spots. 
+Meanwhile, **UNC Wilmington Seahawks** counter with 114.04 offensive efficiency (#78). They're competent on offense without being spectacular. At 34.4% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
 William & Mary Tribe operate at a 74.6 tempo (#9), while UNC Wilmington Seahawks play at 66.1 (#305). William & Mary Tribe want to run, but UNC Wilmington Seahawks prefer to slow things down. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 70.4) should create a standard flow. 
@@ -117,14 +117,14 @@ UNC Wilmington Seahawks comes in ranked #111 overall by KenPom. On the defensive
 - **Head Coach:** Takayo Siddle
 - **Home Arena:** Trask Coliseum
 - **KenPom Rank:** #111
-- **Offensive Efficiency:** 114.0 (Rank: #79)
+- **Offensive Efficiency:** 114.0 (Rank: #78)
 - **Defensive Efficiency:** 101.2 (Rank: #53)
 - **Tempo:** 66.1 (Rank: #305)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 50.0% (Rank: #240)
-- **3-Point Shooting:** 34.4% (Rank: #146)
+- **3-Point Shooting:** 34.4% (Rank: #145)
 - **Free Throw Shooting:** 70.6% (Rank: #238)
 - **3-Point Rate:** 38.2% (Rank: #216)
 

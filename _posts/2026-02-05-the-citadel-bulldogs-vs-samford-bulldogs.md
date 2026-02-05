@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Samford Bulldogs -13.5</p>
-  <p><strong>Moneyline:</strong> The Citadel Bulldogs (+600) | Samford Bulldogs (-900)</p>
+  <p><strong>Moneyline:</strong> The Citadel Bulldogs (+640) | Samford Bulldogs (-1050)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Samford Bulldogs**: -13.5, Edge For Covering Spread: -4.6%
 
 ### Moneyline
-- **The Citadel Bulldogs Win Probability**: 14.8%, Moneyline Edge: **0.6%**
-- **Samford Bulldogs Win Probability**: 85.2%, Moneyline Edge: -4.8%
+- **The Citadel Bulldogs Win Probability**: 14.4%, Moneyline Edge: **0.9%**
+- **Samford Bulldogs Win Probability**: 85.6%, Moneyline Edge: -5.8%
 
 ### Total
 - **Predicted Total**: 143.0
@@ -52,7 +52,7 @@ The 13.5-point spread screams mismatch. The books are asking The Citadel Bulldog
 Meanwhile, **Samford Bulldogs** counter with 110.24 offensive efficiency (#139). They're competent on offense without being spectacular. At 33.2% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-The Citadel Bulldogs operate at a 64.5 tempo (#345), while Samford Bulldogs play at 68.3 (#214). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.4) means fewer possessions, making each one more valuable. 
+The Citadel Bulldogs operate at a 64.5 tempo (#345), while Samford Bulldogs play at 68.3 (#215). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.4) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, The Citadel Bulldogs shoot 49.8% on two-pointers, while Samford Bulldogs convert at 51.1%. Both teams are evenly matched in paint efficiency. 
@@ -99,7 +99,7 @@ The Citadel Bulldogs comes in ranked #348 overall by KenPom. Defense has been a 
 
 ### Team Metrics
 
-- **Assist Rate:** 52.4% (Rank: #187)
+- **Assist Rate:** 52.4% (Rank: #186)
 - **Experience:** 0.8 years (Rank: #322)
 - **Bench Minutes:** 32.6% (Rank: #180)
 - **Average Height:** 76.7" (Rank: #281)
@@ -117,7 +117,7 @@ Samford Bulldogs comes in ranked #235 overall by KenPom. Stopping opponents has 
 - **KenPom Rank:** #235
 - **Offensive Efficiency:** 110.2 (Rank: #139)
 - **Defensive Efficiency:** 114.3 (Rank: #304)
-- **Tempo:** 68.3 (Rank: #214)
+- **Tempo:** 68.3 (Rank: #215)
 
 ### Shooting Breakdown
 
@@ -128,7 +128,7 @@ Samford Bulldogs comes in ranked #235 overall by KenPom. Stopping opponents has 
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.5% (Rank: #180)
+- **Opponent 2-Point Shooting:** 51.5% (Rank: #179)
 - **Opponent 3-Point Shooting:** 37.3% (Rank: #338)
 - **Block Percentage:** 7.4% (Rank: #293)
 - **Steal Rate:** 0.1% (Rank: #361)

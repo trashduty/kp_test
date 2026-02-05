@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Campbell Fighting Camels -4.5</p>
-  <p><strong>Moneyline:</strong> Drexel Dragons (+187) | Campbell Fighting Camels (-225)</p>
+  <p><strong>Moneyline:</strong> Drexel Dragons (+170) | Campbell Fighting Camels (-207)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Drexel Dragons**: 4.5, Edge For Covering Spread: **0.8%**
-- **Campbell Fighting Camels**: -4.5, Edge For Covering Spread: -5.7%
+- **Drexel Dragons**: 4.5, Edge For Covering Spread: -0.9%
+- **Campbell Fighting Camels**: -4.5, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **Drexel Dragons Win Probability**: 37.2%, Moneyline Edge: **2.4%**
-- **Campbell Fighting Camels Win Probability**: 62.8%, Moneyline Edge: -6.5%
+- **Drexel Dragons Win Probability**: 38.2%, Moneyline Edge: **1.2%**
+- **Campbell Fighting Camels Win Probability**: 61.8%, Moneyline Edge: -5.7%
 
 ### Total
 - **Predicted Total**: 143.0
@@ -64,7 +64,7 @@ From a coaching perspective, Zach Spiker leads Drexel Dragons while John Andrzej
 
 ### Game Storylines
 
-This matchup features two evenly-matched teams, with Drexel Dragons at #218 and Campbell Fighting Camels at #215 in the KenPom rankings. Expect a competitive battle throughout. 
+This matchup features two evenly-matched teams, with Drexel Dragons at #217 and Campbell Fighting Camels at #215 in the KenPom rankings. Expect a competitive battle throughout. 
 
 **Key Matchup: Drexel Dragons's Offense vs Campbell Fighting Camels's Defense**
 
@@ -75,12 +75,12 @@ Drexel Dragons bring a struggling offense (ranked #262) that could exploit Campb
 
 ## Drexel Dragons
 
-Drexel Dragons comes in ranked #218 overall by KenPom. On the defensive end, they're lockdown on the perimeter, holding opponents to just 30.0% from three. 
+Drexel Dragons comes in ranked #217 overall by KenPom. On the defensive end, they're lockdown on the perimeter, holding opponents to just 30.0% from three. 
 
 ### Record & Ranking
 - **Record:** 12-11
 - **Head Coach:** Zach Spiker
-- **KenPom Rank:** #218
+- **KenPom Rank:** #217
 - **Offensive Efficiency:** 103.5 (Rank: #262)
 - **Defensive Efficiency:** 101.6 (Rank: #56)
 - **Tempo:** 64.8 (Rank: #338)
@@ -96,7 +96,7 @@ Drexel Dragons comes in ranked #218 overall by KenPom. On the defensive end, the
 
 - **Opponent 2-Point Shooting:** 47.4% (Rank: #41)
 - **Opponent 3-Point Shooting:** 30.0% (Rank: #27)
-- **Block Percentage:** 10.0% (Rank: #148)
+- **Block Percentage:** 10.0% (Rank: #147)
 - **Steal Rate:** 0.1% (Rank: #199)
 
 ### Team Metrics

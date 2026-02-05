@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> CSU Fullerton Titans -5.5</p>
-  <p><strong>Moneyline:</strong> UC Riverside Highlanders (+225) | CSU Fullerton Titans (-276)</p>
+  <p><strong>Moneyline:</strong> UC Riverside Highlanders (+220) | CSU Fullerton Titans (-270)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UC Riverside Highlanders**: 5.5, Edge For Covering Spread: -3.7%
-- **CSU Fullerton Titans**: -5.5, Edge For Covering Spread: -1.1%
+- **UC Riverside Highlanders**: 5.5, Edge For Covering Spread: -4.4%
+- **CSU Fullerton Titans**: -5.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **UC Riverside Highlanders Win Probability**: 26.9%, Moneyline Edge: -3.8%
-- **CSU Fullerton Titans Win Probability**: 73.1%, Moneyline Edge: -0.4%
+- **UC Riverside Highlanders Win Probability**: 27.2%, Moneyline Edge: -4.1%
+- **CSU Fullerton Titans Win Probability**: 72.8%, Moneyline Edge: -0.1%
 
 ### Total
-- **Predicted Total**: 156.0
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- **Predicted Total**: 156.5
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 
@@ -131,13 +131,13 @@ CSU Fullerton Titans comes in ranked #187 overall by KenPom.
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 57.2% (Rank: #336)
-- **Opponent 3-Point Shooting:** 35.9% (Rank: #286)
+- **Opponent 3-Point Shooting:** 35.9% (Rank: #287)
 - **Block Percentage:** 8.0% (Rank: #260)
 - **Steal Rate:** 0.1% (Rank: #92)
 
 ### Team Metrics
 
-- **Assist Rate:** 52.4% (Rank: #184)
+- **Assist Rate:** 52.4% (Rank: #183)
 - **Experience:** 1.0 years (Rank: #277)
 - **Bench Minutes:** 32.8% (Rank: #172)
 - **Average Height:** 75.9" (Rank: #355)

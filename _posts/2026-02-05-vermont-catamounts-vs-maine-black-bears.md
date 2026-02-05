@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Vermont Catamounts -7.5</p>
-  <p><strong>Moneyline:</strong> Vermont Catamounts (-370) | Maine Black Bears (+287)</p>
+  <p><strong>Moneyline:</strong> Vermont Catamounts (-340) | Maine Black Bears (+270)</p>
   <p><strong>Total:</strong> 128.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Vermont Catamounts**: -7.5, Edge For Covering Spread: -4.1%
-- **Maine Black Bears**: 7.5, Edge For Covering Spread: -0.6%
+- **Vermont Catamounts**: -7.5, Edge For Covering Spread: -2.2%
+- **Maine Black Bears**: 7.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Vermont Catamounts Win Probability**: 73.7%, Moneyline Edge: -5.1%
-- **Maine Black Bears Win Probability**: 26.3%, Moneyline Edge: **0.5%**
+- **Vermont Catamounts Win Probability**: 73.0%, Moneyline Edge: -4.2%
+- **Maine Black Bears Win Probability**: 27.0%, Moneyline Edge: -0.1%
 
 ### Total
 - **Predicted Total**: 129.5
-- Edge For Covering The Over: -1.2%
-- Edge For Covering The Under: -3.5%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -48,7 +48,7 @@ Vermont Catamounts (14-9) enters hostile territory as they take on Maine Black B
 A spread around 7.5 points tells us Vermont Catamounts has clear advantages, but games aren't played on paper. Maine Black Bears needs to punch above their weight class to keep this close. The total of 128.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
-**Vermont Catamounts** bring an offensive efficiency of 110.80 (ranked #121 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.6% three-point shooting is serviceable but won't scare anyone. 
+**Vermont Catamounts** bring an offensive efficiency of 110.80 (ranked #120 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.6% three-point shooting is serviceable but won't scare anyone. 
 Meanwhile, **Maine Black Bears** counter with 93.19 offensive efficiency (#359). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 29.9%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
@@ -73,13 +73,13 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Vermont Catamounts
 
-Vermont Catamounts comes in ranked #223 overall by KenPom. 
+Vermont Catamounts comes in ranked #222 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 14-9
 - **Head Coach:** John Becker
-- **KenPom Rank:** #223
-- **Offensive Efficiency:** 110.8 (Rank: #121)
+- **KenPom Rank:** #222
+- **Offensive Efficiency:** 110.8 (Rank: #120)
 - **Defensive Efficiency:** 108.2 (Rank: #179)
 - **Tempo:** 64.5 (Rank: #344)
 
@@ -88,7 +88,7 @@ Vermont Catamounts comes in ranked #223 overall by KenPom.
 - **2-Point Shooting:** 55.2% (Rank: #69)
 - **3-Point Shooting:** 33.6% (Rank: #195)
 - **Free Throw Shooting:** 73.9% (Rank: #126)
-- **3-Point Rate:** 44.6% (Rank: #82)
+- **3-Point Rate:** 44.6% (Rank: #81)
 
 ### Defensive Stats
 
@@ -130,7 +130,7 @@ Maine Black Bears comes in ranked #349 overall by KenPom. The three-point shot h
 
 - **Opponent 2-Point Shooting:** 53.2% (Rank: #240)
 - **Opponent 3-Point Shooting:** 30.0% (Rank: #28)
-- **Block Percentage:** 10.3% (Rank: #130)
+- **Block Percentage:** 10.3% (Rank: #129)
 - **Steal Rate:** 0.1% (Rank: #33)
 
 ### Team Metrics

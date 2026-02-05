@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arkansas-Little Rock Trojans -1.5</p>
-  <p><strong>Moneyline:</strong> Lindenwood Lions (-102) | Arkansas-Little Rock Trojans (-118)</p>
+  <p><strong>Moneyline:</strong> Lindenwood Lions (+101) | Arkansas-Little Rock Trojans (-122)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Lindenwood Lions**: 1.5, Edge For Covering Spread: -0.9%
-- **Arkansas-Little Rock Trojans**: -1.5, Edge For Covering Spread: -3.7%
+- **Lindenwood Lions**: 1.5, Edge For Covering Spread: **0.0%**
+- **Arkansas-Little Rock Trojans**: -1.5, Edge For Covering Spread: -4.8%
 
 ### Moneyline
-- **Lindenwood Lions Win Probability**: 50.6%, Moneyline Edge: **0.1%**
-- **Arkansas-Little Rock Trojans Win Probability**: 49.4%, Moneyline Edge: -4.8%
+- **Lindenwood Lions Win Probability**: 50.3%, Moneyline Edge: **0.5%**
+- **Arkansas-Little Rock Trojans Win Probability**: 49.7%, Moneyline Edge: -5.2%
 
 ### Total
 - **Predicted Total**: 150.5
-- Edge For Covering The Over: -5.2%
-- Edge For Covering The Under: **0.5%**
+- Edge For Covering The Over: -4.8%
+- Edge For Covering The Under: -0.4%
 
 ---
 
@@ -75,12 +75,12 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Lindenwood Lions
 
-Lindenwood Lions comes in ranked #244 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
+Lindenwood Lions comes in ranked #243 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
 
 ### Record & Ranking
 - **Record:** 14-10
 - **Head Coach:** Kyle Gerdeman
-- **KenPom Rank:** #244
+- **KenPom Rank:** #243
 - **Offensive Efficiency:** 102.0 (Rank: #286)
 - **Defensive Efficiency:** 103.1 (Rank: #73)
 - **Tempo:** 73.8 (Rank: #14)
@@ -123,7 +123,7 @@ Arkansas-Little Rock Trojans comes in ranked #301 overall by KenPom. Defense has
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 48.6% (Rank: #284)
+- **2-Point Shooting:** 48.6% (Rank: #283)
 - **3-Point Shooting:** 35.5% (Rank: #89)
 - **Free Throw Shooting:** 68.8% (Rank: #293)
 - **3-Point Rate:** 31.3% (Rank: #339)
@@ -137,7 +137,7 @@ Arkansas-Little Rock Trojans comes in ranked #301 overall by KenPom. Defense has
 
 ### Team Metrics
 
-- **Assist Rate:** 52.2% (Rank: #191)
+- **Assist Rate:** 52.2% (Rank: #190)
 - **Experience:** 1.6 years (Rank: #137)
 - **Bench Minutes:** 23.8% (Rank: #340)
 - **Average Height:** 78.5" (Rank: #32)

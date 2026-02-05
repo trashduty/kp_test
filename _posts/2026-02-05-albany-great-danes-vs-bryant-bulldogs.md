@@ -25,7 +25,7 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **Albany Great Danes**: -1.5, Edge For Covering Spread: -4.1%
-- **Bryant Bulldogs**: 1.5, Edge For Covering Spread: -2.8%
+- **Bryant Bulldogs**: 1.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
 - **Albany Great Danes Win Probability**: 52.0%, Moneyline Edge: -1.4%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 134.0
-- Edge For Covering The Over: -3.0%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -2.1%
+- Edge For Covering The Under: -2.6%
 
 ---
 
@@ -73,12 +73,12 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Albany Great Danes
 
-Albany Great Danes comes in ranked #311 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Albany Great Danes comes in ranked #310 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 7-16
 - **Head Coach:** Dwayne Killings
-- **KenPom Rank:** #311
+- **KenPom Rank:** #310
 - **Offensive Efficiency:** 102.3 (Rank: #283)
 - **Defensive Efficiency:** 114.1 (Rank: #302)
 - **Tempo:** 66.5 (Rank: #290)
@@ -108,13 +108,13 @@ Albany Great Danes comes in ranked #311 overall by KenPom. The three-point shot 
 
 ## Bryant Bulldogs
 
-Bryant Bulldogs comes in ranked #351 overall by KenPom. They've struggled from deep this year, meaning they'll need to rely on interior scoring and getting to the free throw line. Stopping opponents has been an issue all season long. 
+Bryant Bulldogs comes in ranked #350 overall by KenPom. They've struggled from deep this year, meaning they'll need to rely on interior scoring and getting to the free throw line. Stopping opponents has been an issue all season long. 
 
 ### Record & Ranking
 - **Record:** 7-15
 - **Head Coach:** Jamion Christian
 - **Home Arena:** Chace Athletic Center
-- **KenPom Rank:** #351
+- **KenPom Rank:** #350
 - **Offensive Efficiency:** 93.7 (Rank: #356)
 - **Defensive Efficiency:** 111.3 (Rank: #255)
 - **Tempo:** 64.9 (Rank: #337)

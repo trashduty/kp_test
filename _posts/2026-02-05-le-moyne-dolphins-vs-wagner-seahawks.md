@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Le Moyne Dolphins -2.5</p>
-  <p><strong>Moneyline:</strong> Le Moyne Dolphins (-135) | Wagner Seahawks (+115)</p>
+  <p><strong>Moneyline:</strong> Le Moyne Dolphins (-143) | Wagner Seahawks (+120)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Le Moyne Dolphins**: -2.5, Edge For Covering Spread: -2.2%
-- **Wagner Seahawks**: 2.5, Edge For Covering Spread: -2.4%
+- **Le Moyne Dolphins**: -2.5, Edge For Covering Spread: -3.0%
+- **Wagner Seahawks**: 2.5, Edge For Covering Spread: -1.7%
 
 ### Moneyline
-- **Le Moyne Dolphins Win Probability**: 55.0%, Moneyline Edge: -2.4%
-- **Wagner Seahawks Win Probability**: 45.0%, Moneyline Edge: -1.5%
+- **Le Moyne Dolphins Win Probability**: 55.7%, Moneyline Edge: -3.2%
+- **Wagner Seahawks Win Probability**: 44.3%, Moneyline Edge: -1.2%
 
 ### Total
-- **Predicted Total**: 143.5
-- Edge For Covering The Over: **1.0%**
-- Edge For Covering The Under: -5.8%
+- **Predicted Total**: 143.0
+- Edge For Covering The Over: **1.5%**
+- Edge For Covering The Under: -6.6%
 
 ---
 
@@ -86,7 +86,7 @@ Le Moyne Dolphins comes in ranked #285 overall by KenPom.
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 51.5% (Rank: #182)
-- **3-Point Shooting:** 35.0% (Rank: #114)
+- **3-Point Shooting:** 35.0% (Rank: #113)
 - **Free Throw Shooting:** 71.8% (Rank: #200)
 - **3-Point Rate:** 41.2% (Rank: #146)
 
@@ -95,7 +95,7 @@ Le Moyne Dolphins comes in ranked #285 overall by KenPom.
 - **Opponent 2-Point Shooting:** 46.2% (Rank: #25)
 - **Opponent 3-Point Shooting:** 36.6% (Rank: #311)
 - **Block Percentage:** 10.5% (Rank: #118)
-- **Steal Rate:** 0.1% (Rank: #302)
+- **Steal Rate:** 0.1% (Rank: #301)
 
 ### Team Metrics
 

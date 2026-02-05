@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> North Dakota Fighting Hawks -1.5</p>
-  <p><strong>Moneyline:</strong> Omaha Mavericks (+114) | North Dakota Fighting Hawks (-135)</p>
+  <p><strong>Spread:</strong> North Dakota Fighting Hawks -2.0</p>
+  <p><strong>Moneyline:</strong> Omaha Mavericks (+112) | North Dakota Fighting Hawks (-135)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Omaha Mavericks**: 1.5, Edge For Covering Spread: -3.5%
-- **North Dakota Fighting Hawks**: -1.5, Edge For Covering Spread: -1.2%
+- **Omaha Mavericks**: 2.0, Edge For Covering Spread: -3.3%
+- **North Dakota Fighting Hawks**: -2.0, Edge For Covering Spread: -1.7%
 
 ### Moneyline
-- **Omaha Mavericks Win Probability**: 44.9%, Moneyline Edge: -1.8%
-- **North Dakota Fighting Hawks Win Probability**: 55.1%, Moneyline Edge: -2.4%
+- **Omaha Mavericks Win Probability**: 45.0%, Moneyline Edge: -2.0%
+- **North Dakota Fighting Hawks Win Probability**: 55.0%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 149.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -2.2%
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Omaha Mavericks (12-12) travels to face North Dakota Fighting Hawks (13-12) at Betty Engelstad Sioux Center in what shapes up to be a competitive matchup. The early betting action has shaped into North Dakota Fighting Hawks favored by 1.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Omaha Mavericks (12-12) travels to face North Dakota Fighting Hawks (13-12) at Betty Engelstad Sioux Center in what shapes up to be a competitive matchup. The early betting action has shaped into North Dakota Fighting Hawks favored by 2.0 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. North Dakota Fighting Hawks's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. North Dakota Fighting Hawks's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Omaha Mavericks** bring an offensive efficiency of 106.49 (ranked #208 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.1% three-point shooting is serviceable but won't scare anyone. 
 Meanwhile, **North Dakota Fighting Hawks** counter with 105.91 offensive efficiency (#221). Points have been hard to come by, making every possession critical. At 33.5% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Omaha Mavericks operate at a 68.9 tempo (#181), while North Dakota Fighting Hawks play at 69.8 (#130). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.4) should create a standard flow. 
+Omaha Mavericks operate at a 68.9 tempo (#180), while North Dakota Fighting Hawks play at 69.8 (#130). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.4) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Omaha Mavericks shoot 53.5% on two-pointers, while North Dakota Fighting Hawks convert at 49.1%. Both teams are evenly matched in paint efficiency. 
@@ -81,7 +81,7 @@ Omaha Mavericks comes in ranked #256 overall by KenPom. Defense has been a strug
 - **KenPom Rank:** #256
 - **Offensive Efficiency:** 106.5 (Rank: #208)
 - **Defensive Efficiency:** 112.0 (Rank: #266)
-- **Tempo:** 68.9 (Rank: #181)
+- **Tempo:** 68.9 (Rank: #180)
 
 ### Shooting Breakdown
 
@@ -101,7 +101,7 @@ Omaha Mavericks comes in ranked #256 overall by KenPom. Defense has been a strug
 
 - **Assist Rate:** 47.4% (Rank: #304)
 - **Experience:** 1.6 years (Rank: #130)
-- **Bench Minutes:** 38.2% (Rank: #50)
+- **Bench Minutes:** 38.2% (Rank: #49)
 - **Average Height:** 77.4" (Rank: #180)
 
 ---

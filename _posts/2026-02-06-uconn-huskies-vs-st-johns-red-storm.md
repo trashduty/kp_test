@@ -24,11 +24,11 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UConn Huskies**: -1.5, Edge For Covering Spread: **0.5%**
-- **St. John's Red Storm**: 1.5, Edge For Covering Spread: -5.4%
+- **UConn Huskies**: -1.5, Edge For Covering Spread: **0.2%**
+- **St. John's Red Storm**: 1.5, Edge For Covering Spread: -5.0%
 
 ### Moneyline
-- **UConn Huskies Win Probability**: 53.0%, Moneyline Edge: -0.3%
+- **UConn Huskies Win Probability**: 53.0%, Moneyline Edge: -0.4%
 - **St. John's Red Storm Win Probability**: 47.0%, Moneyline Edge: -4.2%
 
 ### Total
@@ -61,7 +61,7 @@ Getting to the line matters too. UConn Huskies's free throw rate sits at 31.6, s
 #### X-Factors & Intangibles
 Playing at home, St. John's Red Storm get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Dan Hurley leads UConn Huskies while Rick Pitino guides St. John's Red Storm. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Both teams feature strong defenses (#9 and #35), so offense may be at a premium. 
+Both teams feature strong defenses (#9 and #36), so offense may be at a premium. 
 ### Game Storylines
 
 On paper, UConn Huskies holds the advantage as the higher-ranked team, but St. John's Red Storm could make this interesting if they play to their potential. 
@@ -75,7 +75,7 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## UConn Huskies
 
-UConn Huskies comes in ranked #8 overall by KenPom. They're dangerous from beyond the arc, shooting 36.4% from three (ranked #52 nationally), so expect them to let it fly from deep. On the defensive end, they're lockdown on the perimeter, holding opponents to just 28.5% from three. 
+UConn Huskies comes in ranked #8 overall by KenPom. They're dangerous from beyond the arc, shooting 36.4% from three (ranked #51 nationally), so expect them to let it fly from deep. On the defensive end, they're lockdown on the perimeter, holding opponents to just 28.5% from three. 
 
 ### Record & Ranking
 - **Record:** 22-1
@@ -88,7 +88,7 @@ UConn Huskies comes in ranked #8 overall by KenPom. They're dangerous from beyon
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 56.5% (Rank: #48)
-- **3-Point Shooting:** 36.4% (Rank: #52)
+- **3-Point Shooting:** 36.4% (Rank: #51)
 - **Free Throw Shooting:** 70.6% (Rank: #241)
 - **3-Point Rate:** 38.4% (Rank: #210)
 
@@ -118,7 +118,7 @@ St. John's Red Storm comes in ranked #20 overall by KenPom. They boast one of th
 - **Home Arena:** Carnesecca Arena
 - **KenPom Rank:** #20
 - **Offensive Efficiency:** 117.6 (Rank: #47)
-- **Defensive Efficiency:** 100.1 (Rank: #35)
+- **Defensive Efficiency:** 100.1 (Rank: #36)
 - **Tempo:** 71.9 (Rank: #41)
 
 ### Shooting Breakdown
@@ -131,7 +131,7 @@ St. John's Red Storm comes in ranked #20 overall by KenPom. They boast one of th
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 47.0% (Rank: #35)
-- **Opponent 3-Point Shooting:** 33.1% (Rank: #139)
+- **Opponent 3-Point Shooting:** 33.1% (Rank: #140)
 - **Block Percentage:** 12.8% (Rank: #39)
 - **Steal Rate:** 0.1% (Rank: #67)
 

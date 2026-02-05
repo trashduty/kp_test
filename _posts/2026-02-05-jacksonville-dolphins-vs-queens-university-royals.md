@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Queens University Royals -8.5</p>
-  <p><strong>Moneyline:</strong> Jacksonville Dolphins (+340) | Queens University Royals (-450)</p>
+  <p><strong>Moneyline:</strong> Jacksonville Dolphins (+345) | Queens University Royals (-465)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Queens University Royals**: -8.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Jacksonville Dolphins Win Probability**: 20.9%, Moneyline Edge: -1.9%
-- **Queens University Royals Win Probability**: 79.1%, Moneyline Edge: -2.7%
+- **Jacksonville Dolphins Win Probability**: 20.7%, Moneyline Edge: -1.7%
+- **Queens University Royals Win Probability**: 79.3%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 147.0
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.7%
 
 ---
 
@@ -101,7 +101,7 @@ Jacksonville Dolphins comes in ranked #297 overall by KenPom. The three-point sh
 
 - **Assist Rate:** 45.6% (Rank: #324)
 - **Experience:** 0.9 years (Rank: #295)
-- **Bench Minutes:** 36.7% (Rank: #81)
+- **Bench Minutes:** 36.7% (Rank: #80)
 - **Average Height:** 77.3" (Rank: #194)
 
 ---
@@ -122,8 +122,8 @@ Queens University Royals comes in ranked #202 overall by KenPom. They boast one 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 58.5% (Rank: #20)
-- **3-Point Shooting:** 35.1% (Rank: #105)
-- **Free Throw Shooting:** 74.9% (Rank: #91)
+- **3-Point Shooting:** 35.1% (Rank: #104)
+- **Free Throw Shooting:** 74.9% (Rank: #90)
 - **3-Point Rate:** 48.6% (Rank: #24)
 
 ### Defensive Stats

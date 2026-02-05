@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Cal Baptist Lancers -10.0</p>
-  <p><strong>Moneyline:</strong> Tarleton State Texans (+377) | Cal Baptist Lancers (-524)</p>
+  <p><strong>Spread:</strong> Cal Baptist Lancers -10.5</p>
+  <p><strong>Moneyline:</strong> Tarleton State Texans (+400) | Cal Baptist Lancers (-574)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tarleton State Texans**: 10.0, Edge For Covering Spread: -1.3%
-- **Cal Baptist Lancers**: -10.0, Edge For Covering Spread: -3.5%
+- **Tarleton State Texans**: 10.5, Edge For Covering Spread: -0.1%
+- **Cal Baptist Lancers**: -10.5, Edge For Covering Spread: -4.6%
 
 ### Moneyline
-- **Tarleton State Texans Win Probability**: 21.0%, Moneyline Edge: **0.0%**
-- **Cal Baptist Lancers Win Probability**: 79.0%, Moneyline Edge: -5.0%
+- **Tarleton State Texans Win Probability**: 20.5%, Moneyline Edge: **0.5%**
+- **Cal Baptist Lancers Win Probability**: 79.5%, Moneyline Edge: -5.7%
 
 ### Total
 - **Predicted Total**: 142.5
-- Edge For Covering The Over: -0.6%
-- Edge For Covering The Under: -4.2%
+- Edge For Covering The Over: -0.9%
+- Edge For Covering The Under: -3.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Cal Baptist Lancers (16-6) hosts Tarleton State Texans (11-11) at Fowler Events Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Cal Baptist Lancers favored by 10.0 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Cal Baptist Lancers (16-6) hosts Tarleton State Texans (11-11) at Fowler Events Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Cal Baptist Lancers favored by 10.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.0 points tells us Cal Baptist Lancers has clear advantages, but games aren't played on paper. Tarleton State Texans needs to punch above their weight class to keep this close. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 10.5 points tells us Cal Baptist Lancers has clear advantages, but games aren't played on paper. Tarleton State Texans needs to punch above their weight class to keep this close. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Tarleton State Texans** bring an offensive efficiency of 103.71 (ranked #260 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.7% three-point shooting is serviceable but won't scare anyone. 
@@ -73,19 +73,19 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Tarleton State Texans
 
-Tarleton State Texans comes in ranked #211 overall by KenPom. 
+Tarleton State Texans comes in ranked #213 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 11-11
 - **Head Coach:** Billy Gillispie
-- **KenPom Rank:** #211
+- **KenPom Rank:** #213
 - **Offensive Efficiency:** 103.7 (Rank: #260)
 - **Defensive Efficiency:** 107.7 (Rank: #166)
 - **Tempo:** 71.6 (Rank: #48)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 48.6% (Rank: #285)
+- **2-Point Shooting:** 48.6% (Rank: #284)
 - **3-Point Shooting:** 32.7% (Rank: #242)
 - **Free Throw Shooting:** 76.3% (Rank: #48)
 - **3-Point Rate:** 25.6% (Rank: #364)

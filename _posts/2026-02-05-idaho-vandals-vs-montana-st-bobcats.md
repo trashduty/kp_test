@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Montana St Bobcats -3.5</p>
-  <p><strong>Moneyline:</strong> Idaho Vandals (+140) | Montana St Bobcats (-170)</p>
+  <p><strong>Moneyline:</strong> Idaho Vandals (+154) | Montana St Bobcats (-191)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Idaho Vandals**: 3.5, Edge For Covering Spread: -2.8%
-- **Montana St Bobcats**: -3.5, Edge For Covering Spread: -1.9%
+- **Idaho Vandals**: 3.5, Edge For Covering Spread: -2.7%
+- **Montana St Bobcats**: -3.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Idaho Vandals Win Probability**: 36.4%, Moneyline Edge: -5.3%
-- **Montana St Bobcats Win Probability**: 63.6%, Moneyline Edge: **0.6%**
+- **Idaho Vandals Win Probability**: 34.7%, Moneyline Edge: -4.6%
+- **Montana St Bobcats Win Probability**: 65.3%, Moneyline Edge: -0.4%
 
 ### Total
 - **Predicted Total**: 146.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -1.7%
 
 ---
 
@@ -73,12 +73,12 @@ Idaho Vandals bring a middle-of-the-pack offense (ranked #138) that could exploi
 
 ## Idaho Vandals
 
-Idaho Vandals comes in ranked #183 overall by KenPom. 
+Idaho Vandals comes in ranked #185 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 13-9
 - **Head Coach:** Alex Pribble
-- **KenPom Rank:** #183
+- **KenPom Rank:** #185
 - **Offensive Efficiency:** 110.2 (Rank: #138)
 - **Defensive Efficiency:** 109.4 (Rank: #222)
 - **Tempo:** 69.3 (Rank: #153)
@@ -122,13 +122,13 @@ Montana St Bobcats comes in ranked #154 overall by KenPom.
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 52.8% (Rank: #137)
-- **3-Point Shooting:** 34.9% (Rank: #120)
+- **3-Point Shooting:** 34.9% (Rank: #119)
 - **Free Throw Shooting:** 75.2% (Rank: #77)
-- **3-Point Rate:** 45.4% (Rank: #61)
+- **3-Point Rate:** 45.4% (Rank: #60)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.5% (Rank: #175)
+- **Opponent 2-Point Shooting:** 51.5% (Rank: #174)
 - **Opponent 3-Point Shooting:** 34.5% (Rank: #214)
 - **Block Percentage:** 6.7% (Rank: #320)
 - **Steal Rate:** 0.1% (Rank: #184)

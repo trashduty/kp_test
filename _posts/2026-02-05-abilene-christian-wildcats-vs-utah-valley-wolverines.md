@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Utah Valley Wolverines -13.5</p>
-  <p><strong>Moneyline:</strong> Abilene Christian Wildcats (+800) | Utah Valley Wolverines (-1350)</p>
+  <p><strong>Moneyline:</strong> Abilene Christian Wildcats (+774) | Utah Valley Wolverines (-1373)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Abilene Christian Wildcats**: 13.5, Edge For Covering Spread: -4.4%
-- **Utah Valley Wolverines**: -13.5, Edge For Covering Spread: -0.3%
+- **Abilene Christian Wildcats**: 13.5, Edge For Covering Spread: -4.9%
+- **Utah Valley Wolverines**: -13.5, Edge For Covering Spread: **0.2%**
 
 ### Moneyline
-- **Abilene Christian Wildcats Win Probability**: 9.8%, Moneyline Edge: -1.3%
-- **Utah Valley Wolverines Win Probability**: 90.2%, Moneyline Edge: -2.9%
+- **Abilene Christian Wildcats Win Probability**: 10.0%, Moneyline Edge: -1.5%
+- **Utah Valley Wolverines Win Probability**: 90.0%, Moneyline Edge: -3.2%
 
 ### Total
-- **Predicted Total**: 145.0
-- Edge For Covering The Over: -4.6%
-- Edge For Covering The Under: -0.1%
+- **Predicted Total**: 145.5
+- Edge For Covering The Over: -5.4%
+- Edge For Covering The Under: **0.2%**
 
 ---
 
@@ -52,7 +52,7 @@ The 13.5-point spread screams mismatch. The books are asking Abilene Christian W
 Meanwhile, **Utah Valley Wolverines** counter with 110.34 offensive efficiency (#133). They're competent on offense without being spectacular. At 33.8% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Abilene Christian Wildcats operate at a 68.2 tempo (#217), while Utah Valley Wolverines play at 70.9 (#79). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.6) should create a standard flow. 
+Abilene Christian Wildcats operate at a 68.2 tempo (#218), while Utah Valley Wolverines play at 70.9 (#79). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.6) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Abilene Christian Wildcats shoot 47.2% on two-pointers, while Utah Valley Wolverines convert at 57.8%. Utah Valley Wolverines has a clear edge in interior scoring efficiency. 
@@ -81,7 +81,7 @@ Abilene Christian Wildcats comes in ranked #260 overall by KenPom.
 - **KenPom Rank:** #260
 - **Offensive Efficiency:** 99.6 (Rank: #319)
 - **Defensive Efficiency:** 109.2 (Rank: #218)
-- **Tempo:** 68.2 (Rank: #217)
+- **Tempo:** 68.2 (Rank: #218)
 
 ### Shooting Breakdown
 
@@ -129,7 +129,7 @@ Utah Valley Wolverines comes in ranked #93 overall by KenPom. Their defense has 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 48.3% (Rank: #62)
-- **Opponent 3-Point Shooting:** 33.1% (Rank: #141)
+- **Opponent 3-Point Shooting:** 33.1% (Rank: #142)
 - **Block Percentage:** 13.2% (Rank: #28)
 - **Steal Rate:** 0.1% (Rank: #18)
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tennessee Tech Golden Eagles -8.5</p>
-  <p><strong>Moneyline:</strong> Western Illinois Leathernecks (+300) | Tennessee Tech Golden Eagles (-380)</p>
+  <p><strong>Moneyline:</strong> Western Illinois Leathernecks (+300) | Tennessee Tech Golden Eagles (-390)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Western Illinois Leathernecks**: 8.5, Edge For Covering Spread: -5.2%
-- **Tennessee Tech Golden Eagles**: -8.5, Edge For Covering Spread: **0.5%**
+- **Western Illinois Leathernecks**: 8.5, Edge For Covering Spread: -4.3%
+- **Tennessee Tech Golden Eagles**: -8.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **Western Illinois Leathernecks Win Probability**: 22.4%, Moneyline Edge: -2.6%
-- **Tennessee Tech Golden Eagles Win Probability**: 77.6%, Moneyline Edge: -1.6%
+- **Western Illinois Leathernecks Win Probability**: 22.3%, Moneyline Edge: -2.7%
+- **Tennessee Tech Golden Eagles Win Probability**: 77.7%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 142.0
@@ -100,7 +100,7 @@ Western Illinois Leathernecks comes in ranked #361 overall by KenPom. The three-
 ### Team Metrics
 
 - **Assist Rate:** 33.9% (Rank: #365)
-- **Experience:** 0.9 years (Rank: #308)
+- **Experience:** 0.9 years (Rank: #307)
 - **Bench Minutes:** 32.2% (Rank: #193)
 - **Average Height:** 77.0" (Rank: #237)
 
@@ -128,7 +128,7 @@ Tennessee Tech Golden Eagles comes in ranked #325 overall by KenPom. They've str
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.5% (Rank: #177)
+- **Opponent 2-Point Shooting:** 51.5% (Rank: #176)
 - **Opponent 3-Point Shooting:** 36.7% (Rank: #319)
 - **Block Percentage:** 7.6% (Rank: #286)
 - **Steal Rate:** 0.1% (Rank: #268)

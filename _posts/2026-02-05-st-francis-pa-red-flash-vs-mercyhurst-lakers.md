@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Mercyhurst Lakers -8.5</p>
-  <p><strong>Moneyline:</strong> St. Francis (PA) Red Flash (+320) | Mercyhurst Lakers (-425)</p>
+  <p><strong>Spread:</strong> Mercyhurst Lakers -9.5</p>
+  <p><strong>Moneyline:</strong> St. Francis (PA) Red Flash (+330) | Mercyhurst Lakers (-437)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **St. Francis (PA) Red Flash**: 8.5, Edge For Covering Spread: -1.7%
-- **Mercyhurst Lakers**: -8.5, Edge For Covering Spread: -2.8%
+- **St. Francis (PA) Red Flash**: 9.5, Edge For Covering Spread: -3.1%
+- **Mercyhurst Lakers**: -9.5, Edge For Covering Spread: -1.7%
 
 ### Moneyline
-- **St. Francis (PA) Red Flash Win Probability**: 20.9%, Moneyline Edge: -2.9%
-- **Mercyhurst Lakers Win Probability**: 79.1%, Moneyline Edge: -1.8%
+- **St. Francis (PA) Red Flash Win Probability**: 20.6%, Moneyline Edge: -2.6%
+- **Mercyhurst Lakers Win Probability**: 79.4%, Moneyline Edge: -2.0%
 
 ### Total
-- **Predicted Total**: 136.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 137.0
+- Edge For Covering The Over: -0.6%
+- Edge For Covering The Under: -4.3%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Mercyhurst Lakers (11-12) hosts St. Francis (PA) Red Flash (6-15) at Mercyhurst Athletic Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Mercyhurst Lakers favored by 8.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Mercyhurst Lakers (11-12) hosts St. Francis (PA) Red Flash (6-15) at Mercyhurst Athletic Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Mercyhurst Lakers favored by 9.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Mercyhurst Lakers has clear advantages, but games aren't played on paper. St. Francis (PA) Red Flash needs to punch above their weight class to keep this close. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 9.5 points tells us Mercyhurst Lakers has clear advantages, but games aren't played on paper. St. Francis (PA) Red Flash needs to punch above their weight class to keep this close. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **St. Francis (PA) Red Flash** bring an offensive efficiency of 96.62 (ranked #342 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.1% three-point shooting is serviceable but won't scare anyone. 
@@ -90,7 +90,7 @@ St. Francis (PA) Red Flash comes in ranked #358 overall by KenPom. Defense has b
 - **2-Point Shooting:** 45.6% (Rank: #343)
 - **3-Point Shooting:** 34.1% (Rank: #167)
 - **Free Throw Shooting:** 70.8% (Rank: #234)
-- **3-Point Rate:** 38.9% (Rank: #198)
+- **3-Point Rate:** 38.9% (Rank: #199)
 
 ### Defensive Stats
 
@@ -131,9 +131,9 @@ Mercyhurst Lakers comes in ranked #294 overall by KenPom. The three-point shot h
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 49.4% (Rank: #97)
-- **Opponent 3-Point Shooting:** 33.2% (Rank: #142)
+- **Opponent 3-Point Shooting:** 33.2% (Rank: #143)
 - **Block Percentage:** 11.8% (Rank: #68)
-- **Steal Rate:** 0.1% (Rank: #71)
+- **Steal Rate:** 0.1% (Rank: #70)
 
 ### Team Metrics
 

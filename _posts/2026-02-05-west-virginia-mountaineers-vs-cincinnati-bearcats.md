@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Cincinnati Bearcats -5.5</p>
-  <p><strong>Moneyline:</strong> West Virginia Mountaineers (+212) | Cincinnati Bearcats (-259)</p>
+  <p><strong>Moneyline:</strong> West Virginia Mountaineers (+210) | Cincinnati Bearcats (-259)</p>
   <p><strong>Total:</strong> 126.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Cincinnati Bearcats**: -5.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **West Virginia Mountaineers Win Probability**: 30.9%, Moneyline Edge: -1.1%
-- **Cincinnati Bearcats Win Probability**: 69.1%, Moneyline Edge: -3.0%
+- **West Virginia Mountaineers Win Probability**: 30.9%, Moneyline Edge: -1.3%
+- **Cincinnati Bearcats Win Probability**: 69.1%, Moneyline Edge: -3.1%
 
 ### Total
-- **Predicted Total**: 126.0
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -0.3%
+- **Predicted Total**: 127.0
+- Edge For Covering The Over: -6.3%
+- Edge For Covering The Under: -0.0%
 
 ---
 
@@ -61,28 +61,28 @@ Getting to the line matters too. West Virginia Mountaineers's free throw rate si
 #### X-Factors & Intangibles
 Playing at home, Cincinnati Bearcats get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Ross Hodge leads West Virginia Mountaineers while Wes Miller guides Cincinnati Bearcats. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Both teams feature strong defenses (#24 and #13), so offense may be at a premium. 
+Both teams feature strong defenses (#23 and #13), so offense may be at a premium. 
 ### Game Storylines
 
-This matchup features two evenly-matched teams, with West Virginia Mountaineers at #66 and Cincinnati Bearcats at #62 in the KenPom rankings. Expect a competitive battle throughout. 
+This matchup features two evenly-matched teams, with West Virginia Mountaineers at #67 and Cincinnati Bearcats at #62 in the KenPom rankings. Expect a competitive battle throughout. 
 
 **Key Matchup: West Virginia Mountaineers's Defense vs Cincinnati Bearcats's Offense**
 
-West Virginia Mountaineers's stingy defense (ranked #24) will look to frustrate Cincinnati Bearcats's offense, which has struggled at times this season. 
+West Virginia Mountaineers's stingy defense (ranked #23) will look to frustrate Cincinnati Bearcats's offense, which has struggled at times this season. 
 
 **Pace of Play:** Cincinnati Bearcats like to push the pace, while West Virginia Mountaineers prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
 
 
 ## West Virginia Mountaineers
 
-West Virginia Mountaineers comes in ranked #66 overall by KenPom. Their defense has been a calling card this season, making life difficult for opposing offenses. 
+West Virginia Mountaineers comes in ranked #67 overall by KenPom. Their defense has been a calling card this season, making life difficult for opposing offenses. 
 
 ### Record & Ranking
 - **Record:** 14-8
 - **Head Coach:** Ross Hodge
-- **KenPom Rank:** #66
+- **KenPom Rank:** #67
 - **Offensive Efficiency:** 109.3 (Rank: #158)
-- **Defensive Efficiency:** 98.4 (Rank: #24)
+- **Defensive Efficiency:** 98.4 (Rank: #23)
 - **Tempo:** 64.0 (Rank: #353)
 
 ### Shooting Breakdown
@@ -126,12 +126,12 @@ Cincinnati Bearcats comes in ranked #62 overall by KenPom. The three-point shot 
 - **2-Point Shooting:** 51.3% (Rank: #192)
 - **3-Point Shooting:** 30.4% (Rank: #330)
 - **Free Throw Shooting:** 66.0% (Rank: #349)
-- **3-Point Rate:** 44.6% (Rank: #80)
+- **3-Point Rate:** 44.6% (Rank: #79)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 47.4% (Rank: #40)
-- **Opponent 3-Point Shooting:** 32.6% (Rank: #102)
+- **Opponent 3-Point Shooting:** 32.6% (Rank: #103)
 - **Block Percentage:** 12.8% (Rank: #42)
 - **Steal Rate:** 0.1% (Rank: #187)
 

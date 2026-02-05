@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Elon Phoenix -1.5</p>
-  <p><strong>Moneyline:</strong> Elon Phoenix (-135) | Hampton Pirates (+110)</p>
+  <p><strong>Moneyline:</strong> Elon Phoenix (-125) | Hampton Pirates (+105)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Elon Phoenix**: -1.5, Edge For Covering Spread: -2.8%
-- **Hampton Pirates**: 1.5, Edge For Covering Spread: -1.9%
+- **Elon Phoenix**: -1.5, Edge For Covering Spread: -1.9%
+- **Hampton Pirates**: 1.5, Edge For Covering Spread: -3.1%
 
 ### Moneyline
-- **Elon Phoenix Win Probability**: 54.8%, Moneyline Edge: -2.6%
-- **Hampton Pirates Win Probability**: 45.2%, Moneyline Edge: -2.5%
+- **Elon Phoenix Win Probability**: 54.1%, Moneyline Edge: -1.4%
+- **Hampton Pirates Win Probability**: 45.9%, Moneyline Edge: -2.9%
 
 ### Total
 - **Predicted Total**: 144.0
-- Edge For Covering The Over: **1.3%**
-- Edge For Covering The Under: -6.1%
+- Edge For Covering The Over: **0.2%**
+- Edge For Covering The Under: -5.2%
 
 ---
 
@@ -85,7 +85,7 @@ Elon Phoenix comes in ranked #179 overall by KenPom. Defense has been a struggle
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 55.7% (Rank: #62)
+- **2-Point Shooting:** 55.7% (Rank: #61)
 - **3-Point Shooting:** 35.7% (Rank: #78)
 - **Free Throw Shooting:** 70.2% (Rank: #251)
 - **3-Point Rate:** 42.9% (Rank: #118)
@@ -108,13 +108,13 @@ Elon Phoenix comes in ranked #179 overall by KenPom. Defense has been a struggle
 
 ## Hampton Pirates
 
-Hampton Pirates comes in ranked #258 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
+Hampton Pirates comes in ranked #259 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
 
 ### Record & Ranking
 - **Record:** 10-13
 - **Head Coach:** Ivan Thomas
 - **Home Arena:** Hampton Convocation Center
-- **KenPom Rank:** #258
+- **KenPom Rank:** #259
 - **Offensive Efficiency:** 101.0 (Rank: #304)
 - **Defensive Efficiency:** 106.3 (Rank: #126)
 - **Tempo:** 65.5 (Rank: #325)

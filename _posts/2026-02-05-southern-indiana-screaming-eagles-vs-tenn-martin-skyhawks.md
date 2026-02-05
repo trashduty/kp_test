@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tenn-Martin Skyhawks -10.5</p>
-  <p><strong>Moneyline:</strong> Southern Indiana Screaming Eagles (+460) | Tenn-Martin Skyhawks (-688)</p>
+  <p><strong>Moneyline:</strong> Southern Indiana Screaming Eagles (+500) | Tenn-Martin Skyhawks (-800)</p>
   <p><strong>Total:</strong> 133.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Tenn-Martin Skyhawks**: -10.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Southern Indiana Screaming Eagles Win Probability**: 15.5%, Moneyline Edge: -2.4%
-- **Tenn-Martin Skyhawks Win Probability**: 84.5%, Moneyline Edge: -2.8%
+- **Southern Indiana Screaming Eagles Win Probability**: 14.9%, Moneyline Edge: -1.8%
+- **Tenn-Martin Skyhawks Win Probability**: 85.1%, Moneyline Edge: -3.8%
 
 ### Total
-- **Predicted Total**: 131.5
-- Edge For Covering The Over: -5.4%
-- Edge For Covering The Under: **0.6%**
+- **Predicted Total**: 130.5
+- Edge For Covering The Over: -5.6%
+- Edge For Covering The Under: **0.9%**
 
 ---
 
@@ -94,8 +94,8 @@ Southern Indiana Screaming Eagles comes in ranked #335 overall by KenPom. The th
 
 - **Opponent 2-Point Shooting:** 48.4% (Rank: #63)
 - **Opponent 3-Point Shooting:** 31.7% (Rank: #69)
-- **Block Percentage:** 10.2% (Rank: #134)
-- **Steal Rate:** 0.1% (Rank: #228)
+- **Block Percentage:** 10.2% (Rank: #133)
+- **Steal Rate:** 0.1% (Rank: #227)
 
 ### Team Metrics
 

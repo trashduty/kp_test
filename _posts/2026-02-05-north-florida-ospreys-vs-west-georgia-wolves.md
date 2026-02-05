@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> West Georgia Wolves -6.5</p>
-  <p><strong>Moneyline:</strong> North Florida Ospreys (+225) | West Georgia Wolves (-275)</p>
+  <p><strong>Moneyline:</strong> North Florida Ospreys (+227) | West Georgia Wolves (-282)</p>
   <p><strong>Total:</strong> 169.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **North Florida Ospreys**: 6.5, Edge For Covering Spread: **0.4%**
-- **West Georgia Wolves**: -6.5, Edge For Covering Spread: -5.1%
+- **North Florida Ospreys**: 6.5, Edge For Covering Spread: **0.3%**
+- **West Georgia Wolves**: -6.5, Edge For Covering Spread: -5.0%
 
 ### Moneyline
-- **North Florida Ospreys Win Probability**: 31.3%, Moneyline Edge: **0.5%**
-- **West Georgia Wolves Win Probability**: 68.7%, Moneyline Edge: -4.6%
+- **North Florida Ospreys Win Probability**: 31.1%, Moneyline Edge: **0.6%**
+- **West Georgia Wolves Win Probability**: 68.9%, Moneyline Edge: -5.0%
 
 ### Total
 - **Predicted Total**: 169.0
-- Edge For Covering The Over: -2.7%
-- Edge For Covering The Under: -2.0%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.4%
 
 ---
 
@@ -85,7 +85,7 @@ North Florida Ospreys comes in ranked #342 overall by KenPom. They're dangerous 
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 54.1% (Rank: #97)
+- **2-Point Shooting:** 54.1% (Rank: #96)
 - **3-Point Shooting:** 36.2% (Rank: #61)
 - **Free Throw Shooting:** 80.1% (Rank: #3)
 - **3-Point Rate:** 53.1% (Rank: #4)
@@ -93,7 +93,7 @@ North Florida Ospreys comes in ranked #342 overall by KenPom. They're dangerous 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 61.2% (Rank: #364)
-- **Opponent 3-Point Shooting:** 36.0% (Rank: #291)
+- **Opponent 3-Point Shooting:** 36.0% (Rank: #292)
 - **Block Percentage:** 3.7% (Rank: #365)
 - **Steal Rate:** 0.1% (Rank: #355)
 

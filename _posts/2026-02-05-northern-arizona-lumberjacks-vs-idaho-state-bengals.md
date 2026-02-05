@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Idaho State Bengals -8.5</p>
-  <p><strong>Moneyline:</strong> Northern Arizona Lumberjacks (+320) | Idaho State Bengals (-410)</p>
+  <p><strong>Moneyline:</strong> Northern Arizona Lumberjacks (+325) | Idaho State Bengals (-429)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -28,12 +28,12 @@ All that being said, here's how our model prices this game.
 - **Idaho State Bengals**: -8.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Northern Arizona Lumberjacks Win Probability**: 22.4%, Moneyline Edge: -1.4%
-- **Idaho State Bengals Win Probability**: 77.6%, Moneyline Edge: -2.8%
+- **Northern Arizona Lumberjacks Win Probability**: 22.2%, Moneyline Edge: -1.3%
+- **Idaho State Bengals Win Probability**: 77.8%, Moneyline Edge: -3.3%
 
 ### Total
 - **Predicted Total**: 142.5
-- Edge For Covering The Over: -2.4%
+- Edge For Covering The Over: -2.8%
 - Edge For Covering The Under: -2.4%
 
 ---
@@ -73,7 +73,7 @@ Idaho State Bengals features a middle-of-the-pack offense (ranked #141) that sho
 
 ## Northern Arizona Lumberjacks
 
-Northern Arizona Lumberjacks comes in ranked #315 overall by KenPom. They're dangerous from beyond the arc, shooting 36.5% from three (ranked #45 nationally), so expect them to let it fly from deep. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Northern Arizona Lumberjacks comes in ranked #315 overall by KenPom. They're dangerous from beyond the arc, shooting 36.5% from three (ranked #44 nationally), so expect them to let it fly from deep. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 8-15
@@ -86,7 +86,7 @@ Northern Arizona Lumberjacks comes in ranked #315 overall by KenPom. They're dan
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 49.8% (Rank: #248)
-- **3-Point Shooting:** 36.5% (Rank: #45)
+- **3-Point Shooting:** 36.5% (Rank: #44)
 - **Free Throw Shooting:** 68.9% (Rank: #288)
 - **3-Point Rate:** 34.5% (Rank: #287)
 
@@ -108,13 +108,13 @@ Northern Arizona Lumberjacks comes in ranked #315 overall by KenPom. They're dan
 
 ## Idaho State Bengals
 
-Idaho State Bengals comes in ranked #222 overall by KenPom. Stopping opponents has been an issue all season long. 
+Idaho State Bengals comes in ranked #223 overall by KenPom. Stopping opponents has been an issue all season long. 
 
 ### Record & Ranking
 - **Record:** 10-13
 - **Head Coach:** Ryan Looney
 - **Home Arena:** Reed Gym
-- **KenPom Rank:** #222
+- **KenPom Rank:** #223
 - **Offensive Efficiency:** 110.2 (Rank: #141)
 - **Defensive Efficiency:** 114.8 (Rank: #310)
 - **Tempo:** 66.5 (Rank: #289)
@@ -129,7 +129,7 @@ Idaho State Bengals comes in ranked #222 overall by KenPom. Stopping opponents h
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 54.9% (Rank: #291)
-- **Opponent 3-Point Shooting:** 33.0% (Rank: #134)
+- **Opponent 3-Point Shooting:** 33.0% (Rank: #135)
 - **Block Percentage:** 11.2% (Rank: #83)
 - **Steal Rate:** 0.1% (Rank: #314)
 

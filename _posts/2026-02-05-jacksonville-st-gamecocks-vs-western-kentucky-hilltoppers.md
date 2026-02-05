@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Western Kentucky Hilltoppers -4.0</p>
-  <p><strong>Moneyline:</strong> Jacksonville St Gamecocks (+152) | Western Kentucky Hilltoppers (-185)</p>
+  <p><strong>Moneyline:</strong> Jacksonville St Gamecocks (+164) | Western Kentucky Hilltoppers (-199)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Jacksonville St Gamecocks**: 4.0, Edge For Covering Spread: -2.0%
+- **Jacksonville St Gamecocks**: 4.0, Edge For Covering Spread: -1.8%
 - **Western Kentucky Hilltoppers**: -4.0, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Jacksonville St Gamecocks Win Probability**: 35.9%, Moneyline Edge: -3.7%
-- **Western Kentucky Hilltoppers Win Probability**: 64.1%, Moneyline Edge: -0.9%
+- **Jacksonville St Gamecocks Win Probability**: 35.1%, Moneyline Edge: -2.7%
+- **Western Kentucky Hilltoppers Win Probability**: 64.9%, Moneyline Edge: -1.7%
 
 ### Total
-- **Predicted Total**: 139.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 140.0
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 
@@ -88,14 +88,14 @@ Jacksonville St Gamecocks comes in ranked #208 overall by KenPom.
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 48.3% (Rank: #292)
-- **3-Point Shooting:** 34.4% (Rank: #150)
+- **3-Point Shooting:** 34.4% (Rank: #149)
 - **Free Throw Shooting:** 68.1% (Rank: #316)
 - **3-Point Rate:** 39.6% (Rank: #187)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 49.7% (Rank: #108)
-- **Opponent 3-Point Shooting:** 32.9% (Rank: #128)
+- **Opponent 3-Point Shooting:** 32.9% (Rank: #129)
 - **Block Percentage:** 9.5% (Rank: #166)
 - **Steal Rate:** 0.1% (Rank: #236)
 
@@ -126,7 +126,7 @@ Western Kentucky Hilltoppers comes in ranked #167 overall by KenPom. The three-p
 - **2-Point Shooting:** 44.0% (Rank: #356)
 - **3-Point Shooting:** 31.8% (Rank: #279)
 - **Free Throw Shooting:** 73.6% (Rank: #137)
-- **3-Point Rate:** 38.9% (Rank: #197)
+- **3-Point Rate:** 38.9% (Rank: #198)
 
 ### Defensive Stats
 

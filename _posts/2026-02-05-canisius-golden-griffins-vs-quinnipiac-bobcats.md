@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Quinnipiac Bobcats -13.5</p>
-  <p><strong>Moneyline:</strong> Canisius Golden Griffins (+674) | Quinnipiac Bobcats (-1092)</p>
+  <p><strong>Moneyline:</strong> Canisius Golden Griffins (+710) | Quinnipiac Bobcats (-1200)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Quinnipiac Bobcats**: -13.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Canisius Golden Griffins Win Probability**: 10.7%, Moneyline Edge: -2.2%
-- **Quinnipiac Bobcats Win Probability**: 89.3%, Moneyline Edge: -2.3%
+- **Canisius Golden Griffins Win Probability**: 10.4%, Moneyline Edge: -1.9%
+- **Quinnipiac Bobcats Win Probability**: 89.6%, Moneyline Edge: -2.7%
 
 ### Total
-- **Predicted Total**: 141.0
-- Edge For Covering The Over: -4.2%
-- Edge For Covering The Under: -0.6%
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -5.0%
+- Edge For Covering The Under: **0.2%**
 
 ---
 
@@ -110,21 +110,21 @@ Canisius Golden Griffins comes in ranked #345 overall by KenPom. Defense has bee
 
 ## Quinnipiac Bobcats
 
-Quinnipiac Bobcats comes in ranked #194 overall by KenPom. 
+Quinnipiac Bobcats comes in ranked #193 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 15-9
 - **Head Coach:** Tom Pecora
 - **Home Arena:** M&T Bank Arena
-- **KenPom Rank:** #194
+- **KenPom Rank:** #193
 - **Offensive Efficiency:** 106.6 (Rank: #206)
 - **Defensive Efficiency:** 104.1 (Rank: #91)
 - **Tempo:** 70.9 (Rank: #82)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 48.5% (Rank: #288)
-- **3-Point Shooting:** 35.0% (Rank: #112)
+- **2-Point Shooting:** 48.5% (Rank: #287)
+- **3-Point Shooting:** 35.0% (Rank: #111)
 - **Free Throw Shooting:** 70.4% (Rank: #247)
 - **3-Point Rate:** 32.6% (Rank: #324)
 
@@ -137,7 +137,7 @@ Quinnipiac Bobcats comes in ranked #194 overall by KenPom.
 
 ### Team Metrics
 
-- **Assist Rate:** 49.9% (Rank: #253)
+- **Assist Rate:** 49.9% (Rank: #254)
 - **Experience:** 1.3 years (Rank: #220)
 - **Bench Minutes:** 26.8% (Rank: #311)
 - **Average Height:** 78.0" (Rank: #87)

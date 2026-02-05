@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> N Colorado Bears -1.5</p>
-  <p><strong>Moneyline:</strong> N Colorado Bears (-122) | Weber State Wildcats (+102)</p>
+  <p><strong>Moneyline:</strong> N Colorado Bears (-124) | Weber State Wildcats (+103)</p>
   <p><strong>Total:</strong> 162.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **N Colorado Bears**: -1.5, Edge For Covering Spread: -7.2%
-- **Weber State Wildcats**: 1.5, Edge For Covering Spread: **2.4%**
+- **N Colorado Bears**: -1.5, Edge For Covering Spread: -7.7%
+- **Weber State Wildcats**: 1.5, Edge For Covering Spread: **3.0%**
 
 ### Moneyline
-- **N Colorado Bears Win Probability**: 48.8%, Moneyline Edge: -6.2%
-- **Weber State Wildcats Win Probability**: 51.2%, Moneyline Edge: **1.7%**
+- **N Colorado Bears Win Probability**: 49.0%, Moneyline Edge: -6.4%
+- **Weber State Wildcats Win Probability**: 51.0%, Moneyline Edge: **1.8%**
 
 ### Total
-- **Predicted Total**: 161.5
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- **Predicted Total**: 162.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -2.0%
 
 ---
 
@@ -49,7 +49,7 @@ A spread under 3 points suggests the books see this as essentially a coin flip. 
 
 #### Offensive Firepower
 **N Colorado Bears** bring an offensive efficiency of 112.59 (ranked #95 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.0% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Weber State Wildcats** counter with 110.69 offensive efficiency (#124). They're competent on offense without being spectacular. At 35.9% from three, they have adequate spacing but must pick their spots. 
+Meanwhile, **Weber State Wildcats** counter with 110.69 offensive efficiency (#123). They're competent on offense without being spectacular. At 35.9% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
 N Colorado Bears operate at a 70.1 tempo (#119), while Weber State Wildcats play at 71.3 (#62). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.7) should create a standard flow. 
@@ -86,7 +86,7 @@ N Colorado Bears comes in ranked #186 overall by KenPom. Defense has been a stru
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 56.9% (Rank: #42)
-- **3-Point Shooting:** 35.0% (Rank: #111)
+- **3-Point Shooting:** 35.0% (Rank: #110)
 - **Free Throw Shooting:** 75.1% (Rank: #80)
 - **3-Point Rate:** 42.6% (Rank: #125)
 
@@ -115,7 +115,7 @@ Weber State Wildcats comes in ranked #216 overall by KenPom. Stopping opponents 
 - **Head Coach:** Eric Duft
 - **Home Arena:** Dee Events Center
 - **KenPom Rank:** #216
-- **Offensive Efficiency:** 110.7 (Rank: #124)
+- **Offensive Efficiency:** 110.7 (Rank: #123)
 - **Defensive Efficiency:** 111.3 (Rank: #254)
 - **Tempo:** 71.3 (Rank: #62)
 
@@ -129,7 +129,7 @@ Weber State Wildcats comes in ranked #216 overall by KenPom. Stopping opponents 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 56.7% (Rank: #328)
-- **Opponent 3-Point Shooting:** 33.0% (Rank: #131)
+- **Opponent 3-Point Shooting:** 33.0% (Rank: #132)
 - **Block Percentage:** 4.7% (Rank: #359)
 - **Steal Rate:** 0.1% (Rank: #134)
 

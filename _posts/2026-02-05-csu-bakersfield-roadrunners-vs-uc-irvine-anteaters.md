@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UC Irvine Anteaters -16.5</p>
-  <p><strong>Moneyline:</strong> CSU Bakersfield Roadrunners (+1160) | UC Irvine Anteaters (-2800)</p>
+  <p><strong>Moneyline:</strong> CSU Bakersfield Roadrunners (+1100) | UC Irvine Anteaters (-2500)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **UC Irvine Anteaters**: -16.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **CSU Bakersfield Roadrunners Win Probability**: 7.5%, Moneyline Edge: -0.4%
-- **UC Irvine Anteaters Win Probability**: 92.5%, Moneyline Edge: -4.0%
+- **CSU Bakersfield Roadrunners Win Probability**: 7.7%, Moneyline Edge: -0.7%
+- **UC Irvine Anteaters Win Probability**: 92.3%, Moneyline Edge: -3.8%
 
 ### Total
 - **Predicted Total**: 144.0
@@ -73,12 +73,12 @@ UC Irvine Anteaters's defensive prowess (ranked #14) sets up well against CSU Ba
 
 ## CSU Bakersfield Roadrunners
 
-CSU Bakersfield Roadrunners comes in ranked #313 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+CSU Bakersfield Roadrunners comes in ranked #314 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 8-15
 - **Head Coach:** Mike Scott
-- **KenPom Rank:** #313
+- **KenPom Rank:** #314
 - **Offensive Efficiency:** 99.7 (Rank: #318)
 - **Defensive Efficiency:** 113.5 (Rank: #290)
 - **Tempo:** 71.5 (Rank: #55)

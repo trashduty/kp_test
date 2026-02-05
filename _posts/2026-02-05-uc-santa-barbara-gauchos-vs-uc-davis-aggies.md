@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UC Santa Barbara Gauchos -2.5</p>
-  <p><strong>Moneyline:</strong> UC Santa Barbara Gauchos (-147) | UC Davis Aggies (+124)</p>
+  <p><strong>Moneyline:</strong> UC Santa Barbara Gauchos (-149) | UC Davis Aggies (+124)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **UC Davis Aggies**: 2.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **UC Santa Barbara Gauchos Win Probability**: 54.4%, Moneyline Edge: -5.1%
-- **UC Davis Aggies Win Probability**: 45.6%, Moneyline Edge: **1.0%**
+- **UC Santa Barbara Gauchos Win Probability**: 54.5%, Moneyline Edge: -5.4%
+- **UC Davis Aggies Win Probability**: 45.5%, Moneyline Edge: **1.0%**
 
 ### Total
-- **Predicted Total**: 147.5
-- Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.1%
+- **Predicted Total**: 148.0
+- Edge For Covering The Over: -1.5%
+- Edge For Covering The Under: -3.2%
 
 ---
 
@@ -88,12 +88,12 @@ UC Santa Barbara Gauchos comes in ranked #117 overall by KenPom. They're dangero
 - **2-Point Shooting:** 54.5% (Rank: #83)
 - **3-Point Shooting:** 39.0% (Rank: #13)
 - **Free Throw Shooting:** 77.8% (Rank: #17)
-- **3-Point Rate:** 43.7% (Rank: #100)
+- **3-Point Rate:** 43.7% (Rank: #99)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 53.5% (Rank: #256)
-- **Opponent 3-Point Shooting:** 35.9% (Rank: #283)
+- **Opponent 3-Point Shooting:** 35.9% (Rank: #284)
 - **Block Percentage:** 7.4% (Rank: #296)
 - **Steal Rate:** 0.1% (Rank: #108)
 
@@ -124,7 +124,7 @@ UC Davis Aggies comes in ranked #170 overall by KenPom.
 - **2-Point Shooting:** 53.0% (Rank: #128)
 - **3-Point Shooting:** 35.7% (Rank: #76)
 - **Free Throw Shooting:** 74.5% (Rank: #100)
-- **3-Point Rate:** 43.4% (Rank: #105)
+- **3-Point Rate:** 43.4% (Rank: #104)
 
 ### Defensive Stats
 

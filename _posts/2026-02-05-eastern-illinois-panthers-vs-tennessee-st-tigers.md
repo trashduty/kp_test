@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tennessee St Tigers -10.5</p>
-  <p><strong>Moneyline:</strong> Eastern Illinois Panthers (+440) | Tennessee St Tigers (-600)</p>
+  <p><strong>Moneyline:</strong> Eastern Illinois Panthers (+462) | Tennessee St Tigers (-661)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Eastern Illinois Panthers**: 10.5, Edge For Covering Spread: -0.8%
-- **Tennessee St Tigers**: -10.5, Edge For Covering Spread: -3.9%
+- **Eastern Illinois Panthers**: 10.5, Edge For Covering Spread: **1.0%**
+- **Tennessee St Tigers**: -10.5, Edge For Covering Spread: -5.7%
 
 ### Moneyline
-- **Eastern Illinois Panthers Win Probability**: 20.5%, Moneyline Edge: **2.0%**
-- **Tennessee St Tigers Win Probability**: 79.5%, Moneyline Edge: -6.2%
+- **Eastern Illinois Panthers Win Probability**: 20.4%, Moneyline Edge: **2.6%**
+- **Tennessee St Tigers Win Probability**: 79.6%, Moneyline Edge: -7.2%
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.9%
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -1.3%
 
 ---
 
@@ -132,7 +132,7 @@ Tennessee St Tigers comes in ranked #252 overall by KenPom.
 
 - **Opponent 2-Point Shooting:** 52.9% (Rank: #231)
 - **Opponent 3-Point Shooting:** 34.8% (Rank: #227)
-- **Block Percentage:** 10.1% (Rank: #144)
+- **Block Percentage:** 10.1% (Rank: #143)
 - **Steal Rate:** 0.1% (Rank: #20)
 
 ### Team Metrics

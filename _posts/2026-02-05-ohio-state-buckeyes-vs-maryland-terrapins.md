@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Ohio State Buckeyes -6.5</p>
-  <p><strong>Moneyline:</strong> Ohio State Buckeyes (-310) | Maryland Terrapins (+247)</p>
+  <p><strong>Spread:</strong> Ohio State Buckeyes -7.5</p>
+  <p><strong>Moneyline:</strong> Ohio State Buckeyes (-325) | Maryland Terrapins (+260)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ohio State Buckeyes**: -6.5, Edge For Covering Spread: -1.2%
-- **Maryland Terrapins**: 6.5, Edge For Covering Spread: -3.5%
+- **Ohio State Buckeyes**: -7.5, Edge For Covering Spread: -1.2%
+- **Maryland Terrapins**: 7.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Ohio State Buckeyes Win Probability**: 72.7%, Moneyline Edge: -2.9%
-- **Maryland Terrapins Win Probability**: 27.3%, Moneyline Edge: -1.5%
+- **Ohio State Buckeyes Win Probability**: 73.2%, Moneyline Edge: -3.3%
+- **Maryland Terrapins Win Probability**: 26.8%, Moneyline Edge: -1.0%
 
 ### Total
 - **Predicted Total**: 151.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Ohio State Buckeyes (14-7) enters hostile territory as they take on Maryland Terrapins (8-13) at Xfinity Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Ohio State Buckeyes favored by 6.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Ohio State Buckeyes (14-7) enters hostile territory as they take on Maryland Terrapins (8-13) at Xfinity Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Ohio State Buckeyes favored by 7.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates Ohio State Buckeyes is viewed as the better team, but this isn't an overwhelming edge. Maryland Terrapins has a legitimate path to covering or winning outright. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us Ohio State Buckeyes has clear advantages, but games aren't played on paper. Maryland Terrapins needs to punch above their weight class to keep this close. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Ohio State Buckeyes** bring an offensive efficiency of 118.99 (ranked #33 nationally). This is an elite offense that can score in multiple ways. Their 33.8% three-point shooting is serviceable but won't scare anyone. 
@@ -92,14 +92,14 @@ Ohio State Buckeyes comes in ranked #42 overall by KenPom. They boast one of the
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.0% (Rank: #197)
+- **Opponent 2-Point Shooting:** 52.0% (Rank: #198)
 - **Opponent 3-Point Shooting:** 30.2% (Rank: #33)
 - **Block Percentage:** 6.9% (Rank: #316)
 - **Steal Rate:** 0.1% (Rank: #337)
 
 ### Team Metrics
 
-- **Assist Rate:** 52.4% (Rank: #186)
+- **Assist Rate:** 52.4% (Rank: #185)
 - **Experience:** 2.3 years (Rank: #35)
 - **Bench Minutes:** 25.3% (Rank: #323)
 - **Average Height:** 77.8" (Rank: #101)
@@ -123,7 +123,7 @@ Maryland Terrapins comes in ranked #140 overall by KenPom. Defense has been a st
 
 - **2-Point Shooting:** 46.8% (Rank: #325)
 - **3-Point Shooting:** 32.2% (Rank: #264)
-- **Free Throw Shooting:** 73.3% (Rank: #145)
+- **Free Throw Shooting:** 73.3% (Rank: #146)
 - **3-Point Rate:** 45.6% (Rank: #57)
 
 ### Defensive Stats

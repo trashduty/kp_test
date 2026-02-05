@@ -49,10 +49,10 @@ A spread under 3 points suggests the books see this as essentially a coin flip. 
 
 #### Offensive Firepower
 **Memphis Tigers** bring an offensive efficiency of 103.99 (ranked #253 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.0% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **UAB Blazers** counter with 110.94 offensive efficiency (#119). They're competent on offense without being spectacular. The three-point shot hasn't fallen this year at 28.6%, forcing them to grind in the half court. 
+Meanwhile, **UAB Blazers** counter with 110.94 offensive efficiency (#118). They're competent on offense without being spectacular. The three-point shot hasn't fallen this year at 28.6%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
-Memphis Tigers operate at a 71.0 tempo (#74), while UAB Blazers play at 71.2 (#64). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.1) should create a standard flow. 
+Memphis Tigers operate at a 71.0 tempo (#75), while UAB Blazers play at 71.2 (#64). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.1) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Memphis Tigers shoot 49.5% on two-pointers, while UAB Blazers convert at 51.0%. Both teams are evenly matched in paint efficiency. 
@@ -81,7 +81,7 @@ Memphis Tigers comes in ranked #101 overall by KenPom.
 - **KenPom Rank:** #101
 - **Offensive Efficiency:** 104.0 (Rank: #253)
 - **Defensive Efficiency:** 102.5 (Rank: #66)
-- **Tempo:** 71.0 (Rank: #74)
+- **Tempo:** 71.0 (Rank: #75)
 
 ### Shooting Breakdown
 
@@ -115,7 +115,7 @@ UAB Blazers comes in ranked #123 overall by KenPom. The three-point shot hasn't 
 - **Head Coach:** Andy Kennedy
 - **Home Arena:** Bartow Arena
 - **KenPom Rank:** #123
-- **Offensive Efficiency:** 110.9 (Rank: #119)
+- **Offensive Efficiency:** 110.9 (Rank: #118)
 - **Defensive Efficiency:** 104.7 (Rank: #100)
 - **Tempo:** 71.2 (Rank: #64)
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> North Dakota St Bison -11.5</p>
-  <p><strong>Moneyline:</strong> Denver Pioneers (+550) | North Dakota St Bison (-800)</p>
+  <p><strong>Moneyline:</strong> Denver Pioneers (+537) | North Dakota St Bison (-819)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Denver Pioneers**: 11.5, Edge For Covering Spread: -4.4%
-- **North Dakota St Bison**: -11.5, Edge For Covering Spread: -0.3%
+- **Denver Pioneers**: 11.5, Edge For Covering Spread: -3.5%
+- **North Dakota St Bison**: -11.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Denver Pioneers Win Probability**: 15.3%, Moneyline Edge: -0.1%
-- **North Dakota St Bison Win Probability**: 84.7%, Moneyline Edge: -4.2%
+- **Denver Pioneers Win Probability**: 15.2%, Moneyline Edge: -0.5%
+- **North Dakota St Bison Win Probability**: 84.8%, Moneyline Edge: -4.3%
 
 ### Total
 - **Predicted Total**: 159.5
 - Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Under: -2.8%
 
 ---
 
@@ -48,8 +48,8 @@ North Dakota St Bison (19-5) hosts Denver Pioneers (10-14) at Scheels Center in 
 A spread around 11.5 points tells us North Dakota St Bison has clear advantages, but games aren't played on paper. Denver Pioneers needs to punch above their weight class to keep this close. The total of 160.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
-**Denver Pioneers** bring an offensive efficiency of 114.40 (ranked #74 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 36.8% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
-Meanwhile, **North Dakota St Bison** counter with 113.93 offensive efficiency (#81). They're competent on offense without being spectacular. At 35.1% from three, they have adequate spacing but must pick their spots. 
+**Denver Pioneers** bring an offensive efficiency of 114.40 (ranked #73 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 36.8% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
+Meanwhile, **North Dakota St Bison** counter with 113.93 offensive efficiency (#80). They're competent on offense without being spectacular. At 35.1% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
 Denver Pioneers operate at a 70.1 tempo (#114), while North Dakota St Bison play at 67.9 (#224). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.0) should create a standard flow. 
@@ -68,7 +68,7 @@ This looks like a mismatch on paper with North Dakota St Bison significantly hig
 
 **Key Matchup: North Dakota St Bison's Offense vs Denver Pioneers's Defense**
 
-North Dakota St Bison features a solid offense (ranked #81) that should find success against Denver Pioneers's defensive unit (ranked #361). 
+North Dakota St Bison features a solid offense (ranked #80) that should find success against Denver Pioneers's defensive unit (ranked #361). 
 
 
 ## Denver Pioneers
@@ -79,7 +79,7 @@ Denver Pioneers comes in ranked #267 overall by KenPom. They're dangerous from b
 - **Record:** 10-14
 - **Head Coach:** Tim Bergstraser
 - **KenPom Rank:** #267
-- **Offensive Efficiency:** 114.4 (Rank: #74)
+- **Offensive Efficiency:** 114.4 (Rank: #73)
 - **Defensive Efficiency:** 122.8 (Rank: #361)
 - **Tempo:** 70.1 (Rank: #114)
 
@@ -115,7 +115,7 @@ North Dakota St Bison comes in ranked #124 overall by KenPom.
 - **Head Coach:** Dave Richman
 - **Home Arena:** Scheels Center
 - **KenPom Rank:** #124
-- **Offensive Efficiency:** 113.9 (Rank: #81)
+- **Offensive Efficiency:** 113.9 (Rank: #80)
 - **Defensive Efficiency:** 104.0 (Rank: #90)
 - **Tempo:** 67.9 (Rank: #224)
 
@@ -128,7 +128,7 @@ North Dakota St Bison comes in ranked #124 overall by KenPom.
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.0% (Rank: #198)
+- **Opponent 2-Point Shooting:** 52.0% (Rank: #199)
 - **Opponent 3-Point Shooting:** 34.9% (Rank: #232)
 - **Block Percentage:** 9.6% (Rank: #165)
 - **Steal Rate:** 0.1% (Rank: #37)

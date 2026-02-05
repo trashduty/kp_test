@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Charleston Cougars -11.5</p>
-  <p><strong>Moneyline:</strong> North Carolina A&T Aggies (+487) | Charleston Cougars (-718)</p>
+  <p><strong>Moneyline:</strong> North Carolina A&T Aggies (+500) | Charleston Cougars (-747)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **North Carolina A&T Aggies**: 11.5, Edge For Covering Spread: -1.3%
-- **Charleston Cougars**: -11.5, Edge For Covering Spread: -3.4%
+- **North Carolina A&T Aggies**: 11.5, Edge For Covering Spread: -1.9%
+- **Charleston Cougars**: -11.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **North Carolina A&T Aggies Win Probability**: 17.6%, Moneyline Edge: **0.6%**
-- **Charleston Cougars Win Probability**: 82.4%, Moneyline Edge: -5.4%
+- **North Carolina A&T Aggies Win Probability**: 17.4%, Moneyline Edge: **0.8%**
+- **Charleston Cougars Win Probability**: 82.6%, Moneyline Edge: -5.6%
 
 ### Total
 - **Predicted Total**: 153.5
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -0.6%
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.9%
 
 ---
 
@@ -124,14 +124,14 @@ Charleston Cougars comes in ranked #164 overall by KenPom. They've struggled fro
 - **2-Point Shooting:** 54.4% (Rank: #88)
 - **3-Point Shooting:** 30.1% (Rank: #336)
 - **Free Throw Shooting:** 73.8% (Rank: #129)
-- **3-Point Rate:** 38.8% (Rank: #201)
+- **3-Point Rate:** 38.8% (Rank: #202)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 50.6% (Rank: #133)
-- **Opponent 3-Point Shooting:** 33.1% (Rank: #135)
+- **Opponent 3-Point Shooting:** 33.1% (Rank: #136)
 - **Block Percentage:** 12.6% (Rank: #47)
-- **Steal Rate:** 0.1% (Rank: #311)
+- **Steal Rate:** 0.1% (Rank: #310)
 
 ### Team Metrics
 

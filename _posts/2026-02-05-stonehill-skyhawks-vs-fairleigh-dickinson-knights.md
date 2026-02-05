@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Fairleigh Dickinson Knights -2.5</p>
-  <p><strong>Moneyline:</strong> Stonehill Skyhawks (+120) | Fairleigh Dickinson Knights (-142)</p>
+  <p><strong>Spread:</strong> Fairleigh Dickinson Knights -1.5</p>
+  <p><strong>Moneyline:</strong> Stonehill Skyhawks (+115) | Fairleigh Dickinson Knights (-140)</p>
   <p><strong>Total:</strong> 127.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Stonehill Skyhawks**: 2.5, Edge For Covering Spread: -3.5%
-- **Fairleigh Dickinson Knights**: -2.5, Edge For Covering Spread: -1.2%
+- **Stonehill Skyhawks**: 1.5, Edge For Covering Spread: -2.2%
+- **Fairleigh Dickinson Knights**: -1.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Stonehill Skyhawks Win Probability**: 43.4%, Moneyline Edge: -2.1%
-- **Fairleigh Dickinson Knights Win Probability**: 56.6%, Moneyline Edge: -2.1%
+- **Stonehill Skyhawks Win Probability**: 43.7%, Moneyline Edge: -2.8%
+- **Fairleigh Dickinson Knights Win Probability**: 56.3%, Moneyline Edge: -2.0%
 
 ### Total
 - **Predicted Total**: 128.5
-- Edge For Covering The Over: -1.2%
-- Edge For Covering The Under: -3.5%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Stonehill Skyhawks (9-14) travels to face Fairleigh Dickinson Knights (7-16) at Bogota Savings Bank Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Fairleigh Dickinson Knights favored by 2.5 points, with the total sitting at 127.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Stonehill Skyhawks (9-14) travels to face Fairleigh Dickinson Knights (7-16) at Bogota Savings Bank Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Fairleigh Dickinson Knights favored by 1.5 points, with the total sitting at 127.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Fairleigh Dickinson Knights's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 127.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Fairleigh Dickinson Knights's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 127.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **Stonehill Skyhawks** bring an offensive efficiency of 93.31 (ranked #357 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 32.0% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -88,7 +88,7 @@ Stonehill Skyhawks comes in ranked #333 overall by KenPom. The three-point shot 
 - **2-Point Shooting:** 46.1% (Rank: #336)
 - **3-Point Shooting:** 32.0% (Rank: #274)
 - **Free Throw Shooting:** 68.4% (Rank: #306)
-- **3-Point Rate:** 38.9% (Rank: #199)
+- **3-Point Rate:** 38.9% (Rank: #200)
 
 ### Defensive Stats
 
@@ -99,7 +99,7 @@ Stonehill Skyhawks comes in ranked #333 overall by KenPom. The three-point shot 
 
 ### Team Metrics
 
-- **Assist Rate:** 52.6% (Rank: #179)
+- **Assist Rate:** 52.6% (Rank: #178)
 - **Experience:** 1.5 years (Rank: #171)
 - **Bench Minutes:** 27.1% (Rank: #308)
 - **Average Height:** 77.7" (Rank: #138)

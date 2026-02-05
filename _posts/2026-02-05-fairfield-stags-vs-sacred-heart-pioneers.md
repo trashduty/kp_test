@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Sacred Heart Pioneers -1.5</p>
-  <p><strong>Moneyline:</strong> Fairfield Stags (+102) | Sacred Heart Pioneers (-122)</p>
+  <p><strong>Moneyline:</strong> Fairfield Stags (+101) | Sacred Heart Pioneers (-122)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fairfield Stags**: 1.5, Edge For Covering Spread: -4.1%
-- **Sacred Heart Pioneers**: -1.5, Edge For Covering Spread: -0.5%
+- **Fairfield Stags**: 1.5, Edge For Covering Spread: -2.8%
+- **Sacred Heart Pioneers**: -1.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Fairfield Stags Win Probability**: 45.7%, Moneyline Edge: -3.8%
-- **Sacred Heart Pioneers Win Probability**: 54.3%, Moneyline Edge: -0.7%
+- **Fairfield Stags Win Probability**: 45.8%, Moneyline Edge: -4.0%
+- **Sacred Heart Pioneers Win Probability**: 54.2%, Moneyline Edge: -0.7%
 
 ### Total
 - **Predicted Total**: 155.0
-- Edge For Covering The Over: -1.5%
-- Edge For Covering The Under: -3.2%
+- Edge For Covering The Over: -2.3%
+- Edge For Covering The Under: -2.5%
 
 ---
 
@@ -92,7 +92,7 @@ Fairfield Stags comes in ranked #266 overall by KenPom.
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.6% (Rank: #182)
+- **Opponent 2-Point Shooting:** 51.6% (Rank: #181)
 - **Opponent 3-Point Shooting:** 34.2% (Rank: #197)
 - **Block Percentage:** 9.1% (Rank: #194)
 - **Steal Rate:** 0.1% (Rank: #212)
@@ -108,7 +108,7 @@ Fairfield Stags comes in ranked #266 overall by KenPom.
 
 ## Sacred Heart Pioneers
 
-Sacred Heart Pioneers comes in ranked #284 overall by KenPom. They're dangerous from beyond the arc, shooting 36.3% from three (ranked #55 nationally), so expect them to let it fly from deep. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Sacred Heart Pioneers comes in ranked #284 overall by KenPom. They're dangerous from beyond the arc, shooting 36.3% from three (ranked #54 nationally), so expect them to let it fly from deep. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 10-14
@@ -122,7 +122,7 @@ Sacred Heart Pioneers comes in ranked #284 overall by KenPom. They're dangerous 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 49.9% (Rank: #245)
-- **3-Point Shooting:** 36.3% (Rank: #55)
+- **3-Point Shooting:** 36.3% (Rank: #54)
 - **Free Throw Shooting:** 77.8% (Rank: #17)
 - **3-Point Rate:** 50.0% (Rank: #18)
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Siena Saints -7.5</p>
-  <p><strong>Moneyline:</strong> Iona Gaels (+290) | Siena Saints (-375)</p>
+  <p><strong>Moneyline:</strong> Iona Gaels (+285) | Siena Saints (-367)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Iona Gaels**: 7.5, Edge For Covering Spread: **0.1%**
-- **Siena Saints**: -7.5, Edge For Covering Spread: -4.8%
+- **Iona Gaels**: 7.5, Edge For Covering Spread: -0.5%
+- **Siena Saints**: -7.5, Edge For Covering Spread: -4.3%
 
 ### Moneyline
-- **Iona Gaels Win Probability**: 25.3%, Moneyline Edge: -0.4%
-- **Siena Saints Win Probability**: 74.7%, Moneyline Edge: -4.2%
+- **Iona Gaels Win Probability**: 25.4%, Moneyline Edge: -0.6%
+- **Siena Saints Win Probability**: 74.6%, Moneyline Edge: -4.0%
 
 ### Total
-- **Predicted Total**: 141.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 141.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -75,12 +75,12 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Iona Gaels
 
-Iona Gaels comes in ranked #232 overall by KenPom. 
+Iona Gaels comes in ranked #231 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 14-9
 - **Head Coach:** Dan Geriot
-- **KenPom Rank:** #232
+- **KenPom Rank:** #231
 - **Offensive Efficiency:** 104.7 (Rank: #242)
 - **Defensive Efficiency:** 103.6 (Rank: #84)
 - **Tempo:** 69.6 (Rank: #137)
@@ -94,7 +94,7 @@ Iona Gaels comes in ranked #232 overall by KenPom.
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.0% (Rank: #147)
+- **Opponent 2-Point Shooting:** 51.0% (Rank: #148)
 - **Opponent 3-Point Shooting:** 30.0% (Rank: #29)
 - **Block Percentage:** 8.1% (Rank: #251)
 - **Steal Rate:** 0.1% (Rank: #127)
@@ -137,7 +137,7 @@ Siena Saints comes in ranked #173 overall by KenPom. The three-point shot hasn't
 
 ### Team Metrics
 
-- **Assist Rate:** 52.3% (Rank: #188)
+- **Assist Rate:** 52.3% (Rank: #187)
 - **Experience:** 1.2 years (Rank: #250)
 - **Bench Minutes:** 23.9% (Rank: #338)
 - **Average Height:** 76.6" (Rank: #305)

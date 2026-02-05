@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Marist Red Foxes -14.5</p>
-  <p><strong>Moneyline:</strong> Rider Broncs (+875) | Marist Red Foxes (-1650)</p>
+  <p><strong>Moneyline:</strong> Rider Broncs (+980) | Marist Red Foxes (-2000)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Rider Broncs**: 14.5, Edge For Covering Spread: -6.3%
-- **Marist Red Foxes**: -14.5, Edge For Covering Spread: **1.5%**
+- **Rider Broncs**: 14.5, Edge For Covering Spread: -6.6%
+- **Marist Red Foxes**: -14.5, Edge For Covering Spread: **1.9%**
 
 ### Moneyline
-- **Rider Broncs Win Probability**: 8.3%, Moneyline Edge: -1.9%
-- **Marist Red Foxes Win Probability**: 91.7%, Moneyline Edge: -2.6%
+- **Rider Broncs Win Probability**: 7.8%, Moneyline Edge: -1.4%
+- **Marist Red Foxes Win Probability**: 92.2%, Moneyline Edge: -3.1%
 
 ### Total
-- **Predicted Total**: 134.5
-- Edge For Covering The Over: -5.4%
-- Edge For Covering The Under: **0.6%**
+- **Predicted Total**: 134.0
+- Edge For Covering The Over: -4.9%
+- Edge For Covering The Under: -0.1%
 
 ---
 
@@ -94,7 +94,7 @@ Rider Broncs comes in ranked #353 overall by KenPom. The three-point shot hasn't
 
 - **Opponent 2-Point Shooting:** 53.4% (Rank: #251)
 - **Opponent 3-Point Shooting:** 36.9% (Rank: #328)
-- **Block Percentage:** 9.4% (Rank: #178)
+- **Block Percentage:** 9.4% (Rank: #177)
 - **Steal Rate:** 0.1% (Rank: #341)
 
 ### Team Metrics

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Mercer Bears -4.5</p>
-  <p><strong>Moneyline:</strong> Mercer Bears (-216) | Chattanooga Mocs (+180)</p>
+  <p><strong>Moneyline:</strong> Mercer Bears (-214) | Chattanooga Mocs (+177)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Mercer Bears**: -4.5, Edge For Covering Spread: **0.6%**
-- **Chattanooga Mocs**: 4.5, Edge For Covering Spread: -5.4%
+- **Mercer Bears**: -4.5, Edge For Covering Spread: **0.8%**
+- **Chattanooga Mocs**: 4.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **Mercer Bears Win Probability**: 69.3%, Moneyline Edge: **0.9%**
-- **Chattanooga Mocs Win Probability**: 30.7%, Moneyline Edge: -5.1%
+- **Mercer Bears Win Probability**: 69.2%, Moneyline Edge: **1.1%**
+- **Chattanooga Mocs Win Probability**: 30.8%, Moneyline Edge: -5.2%
 
 ### Total
 - **Predicted Total**: 155.5
@@ -73,12 +73,12 @@ Mercer Bears bring a solid offense (ranked #54) that could exploit Chattanooga M
 
 ## Mercer Bears
 
-Mercer Bears comes in ranked #142 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Mercer Bears comes in ranked #143 overall by KenPom. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 15-8
 - **Head Coach:** Ryan Ridder
-- **KenPom Rank:** #142
+- **KenPom Rank:** #143
 - **Offensive Efficiency:** 117.0 (Rank: #54)
 - **Defensive Efficiency:** 111.4 (Rank: #256)
 - **Tempo:** 70.6 (Rank: #87)
@@ -86,7 +86,7 @@ Mercer Bears comes in ranked #142 overall by KenPom. Defense has been a struggle
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 54.9% (Rank: #72)
-- **3-Point Shooting:** 35.0% (Rank: #115)
+- **3-Point Shooting:** 35.0% (Rank: #114)
 - **Free Throw Shooting:** 74.7% (Rank: #96)
 - **3-Point Rate:** 41.2% (Rank: #147)
 

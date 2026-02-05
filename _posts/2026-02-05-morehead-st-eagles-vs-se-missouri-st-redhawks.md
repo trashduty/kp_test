@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> SE Missouri St Redhawks -8.5</p>
-  <p><strong>Moneyline:</strong> Morehead St Eagles (+310) | SE Missouri St Redhawks (-395)</p>
+  <p><strong>Moneyline:</strong> Morehead St Eagles (+304) | SE Missouri St Redhawks (-399)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Morehead St Eagles**: 8.5, Edge For Covering Spread: -2.4%
-- **SE Missouri St Redhawks**: -8.5, Edge For Covering Spread: -2.2%
+- **Morehead St Eagles**: 8.5, Edge For Covering Spread: -1.9%
+- **SE Missouri St Redhawks**: -8.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Morehead St Eagles Win Probability**: 25.2%, Moneyline Edge: **0.8%**
-- **SE Missouri St Redhawks Win Probability**: 74.8%, Moneyline Edge: -5.0%
+- **Morehead St Eagles Win Probability**: 25.3%, Moneyline Edge: **0.6%**
+- **SE Missouri St Redhawks Win Probability**: 74.7%, Moneyline Edge: -5.3%
 
 ### Total
 - **Predicted Total**: 146.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -4.3%
 
 ---
 
@@ -85,7 +85,7 @@ Morehead St Eagles comes in ranked #298 overall by KenPom. The three-point shot 
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 48.5% (Rank: #287)
+- **2-Point Shooting:** 48.5% (Rank: #286)
 - **3-Point Shooting:** 31.6% (Rank: #290)
 - **Free Throw Shooting:** 73.0% (Rank: #159)
 - **3-Point Rate:** 30.8% (Rank: #346)
@@ -129,9 +129,9 @@ SE Missouri St Redhawks comes in ranked #236 overall by KenPom. They've struggle
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 50.7% (Rank: #137)
-- **Opponent 3-Point Shooting:** 36.1% (Rank: #296)
+- **Opponent 3-Point Shooting:** 36.1% (Rank: #297)
 - **Block Percentage:** 8.7% (Rank: #219)
-- **Steal Rate:** 0.1% (Rank: #230)
+- **Steal Rate:** 0.1% (Rank: #229)
 
 ### Team Metrics
 
