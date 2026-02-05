@@ -2846,5 +2846,9 @@
   "Cal Baptist Lancers vs. Tarleton State Texans|Tarleton State Texans|spread": {
     "captured_at": "2026-02-05T00:37:24.819045+00:00",
     "edge_type": "spread"
+  },
+  "Utah Tech Trailblazers vs. UT-Arlington Mavericks|under": {
+    "captured_at": "2026-02-05T01:38:28.131370+00:00",
+    "edge_type": "under"
   }
 }
