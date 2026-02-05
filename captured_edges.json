@@ -2866,5 +2866,13 @@
   "NJIT Highlanders vs. UMass Lowell River Hawks|NJIT Highlanders|moneyline": {
     "captured_at": "2026-02-05T04:38:44.386947+00:00",
     "edge_type": "moneyline"
+  },
+  "Central Connecticut St Blue Devils vs. Chicago St Cougars|Chicago St Cougars|spread": {
+    "captured_at": "2026-02-05T05:29:30.780003+00:00",
+    "edge_type": "spread"
+  },
+  "Weber State Wildcats vs. N Colorado Bears|Weber State Wildcats|spread": {
+    "captured_at": "2026-02-05T05:29:30.783686+00:00",
+    "edge_type": "spread"
   }
 }
