@@ -2854,5 +2854,17 @@
   "Montana St Bobcats vs. Idaho Vandals|Montana St Bobcats|moneyline": {
     "captured_at": "2026-02-05T03:04:46.227023+00:00",
     "edge_type": "moneyline"
+  },
+  "Central Connecticut St Blue Devils vs. Chicago St Cougars|over": {
+    "captured_at": "2026-02-05T04:38:44.386223+00:00",
+    "edge_type": "over"
+  },
+  "NJIT Highlanders vs. UMass Lowell River Hawks|NJIT Highlanders|spread": {
+    "captured_at": "2026-02-05T04:38:44.386908+00:00",
+    "edge_type": "spread"
+  },
+  "NJIT Highlanders vs. UMass Lowell River Hawks|NJIT Highlanders|moneyline": {
+    "captured_at": "2026-02-05T04:38:44.386947+00:00",
+    "edge_type": "moneyline"
   }
 }
