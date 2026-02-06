@@ -2906,5 +2906,9 @@
   "Rutgers Scarlet Knights vs. Nebraska Cornhuskers|Nebraska Cornhuskers|spread": {
     "captured_at": "2026-02-06T18:20:25.364194+00:00",
     "edge_type": "spread"
+  },
+  "Notre Dame Fighting Irish vs. Florida St Seminoles|Notre Dame Fighting Irish|moneyline": {
+    "captured_at": "2026-02-06T19:19:08.152368+00:00",
+    "edge_type": "moneyline"
   }
 }
