@@ -2922,5 +2922,161 @@
   "UC Santa Barbara Gauchos vs. UC Irvine Anteaters|UC Santa Barbara Gauchos|moneyline": {
     "captured_at": "2026-02-07T00:34:55.594777+00:00",
     "edge_type": "moneyline"
+  },
+  "Central Connecticut St Blue Devils vs. Wagner Seahawks|over": {
+    "captured_at": "2026-02-07T01:37:36.252758+00:00",
+    "edge_type": "over"
+  },
+  "Le Moyne Dolphins vs. St. Francis (PA) Red Flash|Le Moyne Dolphins|spread": {
+    "captured_at": "2026-02-07T01:37:36.253175+00:00",
+    "edge_type": "spread"
+  },
+  "Le Moyne Dolphins vs. St. Francis (PA) Red Flash|Le Moyne Dolphins|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.253214+00:00",
+    "edge_type": "moneyline"
+  },
+  "Appalachian St Mountaineers vs. Eastern Michigan Eagles|under": {
+    "captured_at": "2026-02-07T01:37:36.253802+00:00",
+    "edge_type": "under"
+  },
+  "UTSA Roadrunners vs. North Texas Mean Green|under": {
+    "captured_at": "2026-02-07T01:37:36.255859+00:00",
+    "edge_type": "under"
+  },
+  "North Carolina A&T Aggies vs. Campbell Fighting Camels|North Carolina A&T Aggies|spread": {
+    "captured_at": "2026-02-07T01:37:36.256482+00:00",
+    "edge_type": "spread"
+  },
+  "IUPUI Jaguars vs. Cleveland St Vikings|over": {
+    "captured_at": "2026-02-07T01:37:36.257607+00:00",
+    "edge_type": "over"
+  },
+  "Holy Cross Crusaders vs. Lehigh Mountain Hawks|Holy Cross Crusaders|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.257947+00:00",
+    "edge_type": "moneyline"
+  },
+  "Louisiana Tech Bulldogs vs. Sam Houston St Bearkats|Sam Houston St Bearkats|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.259838+00:00",
+    "edge_type": "moneyline"
+  },
+  "NJIT Highlanders vs. Binghamton Bearcats|NJIT Highlanders|spread": {
+    "captured_at": "2026-02-07T01:37:36.260234+00:00",
+    "edge_type": "spread"
+  },
+  "NJIT Highlanders vs. Binghamton Bearcats|NJIT Highlanders|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.260270+00:00",
+    "edge_type": "moneyline"
+  },
+  "Morgan St Bears vs. Maryland-Eastern Shore Hawks|Morgan St Bears|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.261027+00:00",
+    "edge_type": "moneyline"
+  },
+  "Arkansas-Little Rock Trojans vs. SIU-Edwardsville Cougars|SIU-Edwardsville Cougars|spread": {
+    "captured_at": "2026-02-07T01:37:36.262780+00:00",
+    "edge_type": "spread"
+  },
+  "Hofstra Pride vs. Towson Tigers|Hofstra Pride|spread": {
+    "captured_at": "2026-02-07T01:37:36.263236+00:00",
+    "edge_type": "spread"
+  },
+  "Hofstra Pride vs. Towson Tigers|Hofstra Pride|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.263273+00:00",
+    "edge_type": "moneyline"
+  },
+  "Utah Valley Wolverines vs. UT-Arlington Mavericks|under": {
+    "captured_at": "2026-02-07T01:37:36.263463+00:00",
+    "edge_type": "under"
+  },
+  "Utah Valley Wolverines vs. UT-Arlington Mavericks|UT-Arlington Mavericks|spread": {
+    "captured_at": "2026-02-07T01:37:36.263777+00:00",
+    "edge_type": "spread"
+  },
+  "Norfolk St Spartans vs. North Carolina Central Eagles|Norfolk St Spartans|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.263966+00:00",
+    "edge_type": "moneyline"
+  },
+  "Norfolk St Spartans vs. North Carolina Central Eagles|under": {
+    "captured_at": "2026-02-07T01:37:36.264021+00:00",
+    "edge_type": "under"
+  },
+  "UNLV Rebels vs. Grand Canyon Antelopes|Grand Canyon Antelopes|spread": {
+    "captured_at": "2026-02-07T01:37:36.264677+00:00",
+    "edge_type": "spread"
+  },
+  "Grambling St Tigers vs. Alabama St Hornets|Grambling St Tigers|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.265838+00:00",
+    "edge_type": "moneyline"
+  },
+  "Bethune-Cookman Wildcats vs. Prairie View Panthers|Bethune-Cookman Wildcats|spread": {
+    "captured_at": "2026-02-07T01:37:36.266381+00:00",
+    "edge_type": "spread"
+  },
+  "Samford Bulldogs vs. Mercer Bears|Mercer Bears|spread": {
+    "captured_at": "2026-02-07T01:37:36.266599+00:00",
+    "edge_type": "spread"
+  },
+  "Samford Bulldogs vs. Mercer Bears|Mercer Bears|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.266632+00:00",
+    "edge_type": "moneyline"
+  },
+  "Stephen F. Austin Lumberjacks vs. Lamar Cardinals|Stephen F. Austin Lumberjacks|spread": {
+    "captured_at": "2026-02-07T01:37:36.267224+00:00",
+    "edge_type": "spread"
+  },
+  "Montana Grizzlies vs. Idaho Vandals|Montana Grizzlies|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.268337+00:00",
+    "edge_type": "moneyline"
+  },
+  "Arkansas-Pine Bluff Golden Lions vs. Alcorn St Braves|over": {
+    "captured_at": "2026-02-07T01:37:36.268759+00:00",
+    "edge_type": "over"
+  },
+  "Old Dominion Monarchs vs. Ohio Bobcats|Old Dominion Monarchs|spread": {
+    "captured_at": "2026-02-07T01:37:36.268945+00:00",
+    "edge_type": "spread"
+  },
+  "Albany Great Danes vs. UMass Lowell River Hawks|Albany Great Danes|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.269073+00:00",
+    "edge_type": "moneyline"
+  },
+  "CSU Fullerton Titans vs. CSU Bakersfield Roadrunners|over": {
+    "captured_at": "2026-02-07T01:37:36.269323+00:00",
+    "edge_type": "over"
+  },
+  "Fairfield Stags vs. Marist Red Foxes|Marist Red Foxes|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.269491+00:00",
+    "edge_type": "moneyline"
+  },
+  "Iona Gaels vs. Mt. St. Mary's Mountaineers|Iona Gaels|spread": {
+    "captured_at": "2026-02-07T01:37:36.269942+00:00",
+    "edge_type": "spread"
+  },
+  "Iona Gaels vs. Mt. St. Mary's Mountaineers|Iona Gaels|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.269977+00:00",
+    "edge_type": "moneyline"
+  },
+  "Portland Pilots vs. Seattle Redhawks|Portland Pilots|spread": {
+    "captured_at": "2026-02-07T01:37:36.270628+00:00",
+    "edge_type": "spread"
+  },
+  "Montana St Bobcats vs. Eastern Washington Eagles|Montana St Bobcats|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.271331+00:00",
+    "edge_type": "moneyline"
+  },
+  "Southern Utah Thunderbirds vs. Tarleton State Texans|over": {
+    "captured_at": "2026-02-07T01:37:36.271822+00:00",
+    "edge_type": "over"
+  },
+  "Southern Utah Thunderbirds vs. Tarleton State Texans|Tarleton State Texans|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.271934+00:00",
+    "edge_type": "moneyline"
+  },
+  "UTEP Miners vs. New Mexico St Aggies|New Mexico St Aggies|spread": {
+    "captured_at": "2026-02-07T01:37:36.272431+00:00",
+    "edge_type": "spread"
+  },
+  "UTEP Miners vs. New Mexico St Aggies|New Mexico St Aggies|moneyline": {
+    "captured_at": "2026-02-07T01:37:36.272467+00:00",
+    "edge_type": "moneyline"
   }
 }
