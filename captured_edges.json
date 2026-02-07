@@ -3086,5 +3086,17 @@
   "Rider Broncs vs. Merrimack Warriors|under": {
     "captured_at": "2026-02-07T03:00:23.398640+00:00",
     "edge_type": "under"
+  },
+  "Holy Cross Crusaders vs. Lehigh Mountain Hawks|Holy Cross Crusaders|spread": {
+    "captured_at": "2026-02-07T04:35:40.084756+00:00",
+    "edge_type": "spread"
+  },
+  "Georgia St Panthers vs. Northern Illinois Huskies|under": {
+    "captured_at": "2026-02-07T04:35:40.085544+00:00",
+    "edge_type": "under"
+  },
+  "Cal Baptist Lancers vs. Abilene Christian Wildcats|under": {
+    "captured_at": "2026-02-07T04:35:40.096684+00:00",
+    "edge_type": "under"
   }
 }
