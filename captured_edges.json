@@ -3078,5 +3078,13 @@
   "UTEP Miners vs. New Mexico St Aggies|New Mexico St Aggies|moneyline": {
     "captured_at": "2026-02-07T01:37:36.272467+00:00",
     "edge_type": "moneyline"
+  },
+  "Appalachian St Mountaineers vs. Eastern Michigan Eagles|Eastern Michigan Eagles|spread": {
+    "captured_at": "2026-02-07T03:00:23.384139+00:00",
+    "edge_type": "spread"
+  },
+  "Rider Broncs vs. Merrimack Warriors|under": {
+    "captured_at": "2026-02-07T03:00:23.398640+00:00",
+    "edge_type": "under"
   }
 }
