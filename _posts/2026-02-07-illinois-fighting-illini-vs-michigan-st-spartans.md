@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan St Spartans -1.5</p>
-  <p><strong>Moneyline:</strong> Illinois Fighting Illini (-100) | Michigan St Spartans (-120)</p>
+  <p><strong>Moneyline:</strong> Illinois Fighting Illini (-107) | Michigan St Spartans (-112)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Illinois Fighting Illini**: 1.5, Edge For Covering Spread: -1.8%
-- **Michigan St Spartans**: -1.5, Edge For Covering Spread: -2.9%
+- **Illinois Fighting Illini**: 1.5, Edge For Covering Spread: -3.8%
+- **Michigan St Spartans**: -1.5, Edge For Covering Spread: -1.4%
 
 ### Moneyline
-- **Illinois Fighting Illini Win Probability**: 47.9%, Moneyline Edge: -2.1%
-- **Michigan St Spartans Win Probability**: 52.1%, Moneyline Edge: -2.5%
+- **Illinois Fighting Illini Win Probability**: 48.7%, Moneyline Edge: -3.0%
+- **Michigan St Spartans Win Probability**: 51.3%, Moneyline Edge: -1.6%
 
 ### Total
 - **Predicted Total**: 143.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- Edge For Covering The Over: -5.5%
+- Edge For Covering The Under: -1.0%
 
 ---
 
@@ -61,7 +61,7 @@ Getting to the line matters too. Illinois Fighting Illini's free throw rate sits
 #### X-Factors & Intangibles
 Playing at home, Michigan St Spartans get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Brad Underwood leads Illinois Fighting Illini while Tom Izzo guides Michigan St Spartans. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Both teams feature strong defenses (#48 and #10), so offense may be at a premium. 
+Both teams feature strong defenses (#47 and #11), so offense may be at a premium. 
 ### Game Storylines
 
 This matchup features two evenly-matched teams, with Illinois Fighting Illini at #5 and Michigan St Spartans at #10 in the KenPom rankings. Expect a competitive battle throughout. 
@@ -82,7 +82,7 @@ Illinois Fighting Illini comes in ranked #5 overall by KenPom. They're dangerous
 - **Head Coach:** Brad Underwood
 - **KenPom Rank:** #5
 - **Offensive Efficiency:** 126.8 (Rank: #1)
-- **Defensive Efficiency:** 100.8 (Rank: #48)
+- **Defensive Efficiency:** 100.8 (Rank: #47)
 - **Tempo:** 66.7 (Rank: #273)
 
 ### Shooting Breakdown
@@ -95,13 +95,13 @@ Illinois Fighting Illini comes in ranked #5 overall by KenPom. They're dangerous
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 46.3% (Rank: #25)
-- **Opponent 3-Point Shooting:** 31.4% (Rank: #62)
-- **Block Percentage:** 13.0% (Rank: #34)
+- **Opponent 3-Point Shooting:** 31.4% (Rank: #58)
+- **Block Percentage:** 13.0% (Rank: #33)
 - **Steal Rate:** 0.1% (Rank: #365)
 
 ### Team Metrics
 
-- **Assist Rate:** 51.8% (Rank: #204)
+- **Assist Rate:** 51.8% (Rank: #205)
 - **Experience:** 1.6 years (Rank: #127)
 - **Bench Minutes:** 31.2% (Rank: #220)
 - **Average Height:** 79.8" (Rank: #1)
@@ -110,7 +110,7 @@ Illinois Fighting Illini comes in ranked #5 overall by KenPom. They're dangerous
 
 ## Michigan St Spartans
 
-Michigan St Spartans comes in ranked #10 overall by KenPom. Defensively, they've been rock solid, ranking #10 nationally in efficiency. 
+Michigan St Spartans comes in ranked #10 overall by KenPom. Defensively, they've been rock solid, ranking #11 nationally in efficiency. 
 
 ### Record & Ranking
 - **Record:** 19-4
@@ -118,20 +118,20 @@ Michigan St Spartans comes in ranked #10 overall by KenPom. Defensively, they've
 - **Home Arena:** Breslin Center
 - **KenPom Rank:** #10
 - **Offensive Efficiency:** 116.5 (Rank: #57)
-- **Defensive Efficiency:** 95.8 (Rank: #10)
+- **Defensive Efficiency:** 95.8 (Rank: #11)
 - **Tempo:** 67.2 (Rank: #248)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 54.3% (Rank: #89)
-- **3-Point Shooting:** 35.1% (Rank: #107)
-- **Free Throw Shooting:** 74.4% (Rank: #107)
-- **3-Point Rate:** 36.7% (Rank: #240)
+- **3-Point Shooting:** 35.1% (Rank: #108)
+- **Free Throw Shooting:** 74.4% (Rank: #109)
+- **3-Point Rate:** 36.7% (Rank: #241)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 46.6% (Rank: #29)
-- **Opponent 3-Point Shooting:** 31.0% (Rank: #48)
+- **Opponent 2-Point Shooting:** 46.6% (Rank: #28)
+- **Opponent 3-Point Shooting:** 31.0% (Rank: #47)
 - **Block Percentage:** 14.6% (Rank: #15)
 - **Steal Rate:** 0.1% (Rank: #267)
 

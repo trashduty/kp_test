@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Arizona Wildcats -21.5</p>
-  <p><strong>Moneyline:</strong> Oklahoma St Cowboys (+2500) | Arizona Wildcats (-10000)</p>
+  <p><strong>Spread:</strong> Arizona Wildcats -19.5</p>
+  <p><strong>Moneyline:</strong> Oklahoma St Cowboys (+1400) | Arizona Wildcats (-3557)</p>
   <p><strong>Total:</strong> 168.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oklahoma St Cowboys**: 21.5, Edge For Covering Spread: -1.9%
-- **Arizona Wildcats**: -21.5, Edge For Covering Spread: -4.0%
+- **Oklahoma St Cowboys**: 19.5, Edge For Covering Spread: -2.4%
+- **Arizona Wildcats**: -19.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Oklahoma St Cowboys Win Probability**: 4.3%, Moneyline Edge: **0.5%**
-- **Arizona Wildcats Win Probability**: 95.7%, Moneyline Edge: -3.3%
+- **Oklahoma St Cowboys Win Probability**: 5.7%, Moneyline Edge: -1.0%
+- **Arizona Wildcats Win Probability**: 94.3%, Moneyline Edge: -2.9%
 
 ### Total
-- **Predicted Total**: 168.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.9%
+- **Predicted Total**: 167.5
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Arizona Wildcats (22-0) hosts Oklahoma St Cowboys (16-6) at McKale Memorial Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Arizona Wildcats favored by 21.5 points, with the total sitting at 168.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Arizona Wildcats (22-0) hosts Oklahoma St Cowboys (16-6) at McKale Memorial Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Arizona Wildcats favored by 19.5 points, with the total sitting at 168.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 21.5-point spread screams mismatch. The books are asking Oklahoma St Cowboys to hang within two possessions, which based on the profiles, requires Arizona Wildcats to play below their standard. The total of 168.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 19.5-point spread screams mismatch. The books are asking Oklahoma St Cowboys to hang within two possessions, which based on the profiles, requires Arizona Wildcats to play below their standard. The total of 168.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Oklahoma St Cowboys** bring an offensive efficiency of 114.34 (ranked #73 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.0% three-point shooting is serviceable but won't scare anyone. 
@@ -88,22 +88,22 @@ Oklahoma St Cowboys comes in ranked #54 overall by KenPom.
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 54.7% (Rank: #78)
-- **3-Point Shooting:** 35.0% (Rank: #110)
+- **3-Point Shooting:** 35.0% (Rank: #111)
 - **Free Throw Shooting:** 74.5% (Rank: #102)
-- **3-Point Rate:** 35.1% (Rank: #273)
+- **3-Point Rate:** 35.1% (Rank: #274)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 52.3% (Rank: #208)
 - **Opponent 3-Point Shooting:** 34.5% (Rank: #217)
 - **Block Percentage:** 7.8% (Rank: #268)
-- **Steal Rate:** 0.1% (Rank: #128)
+- **Steal Rate:** 0.1% (Rank: #129)
 
 ### Team Metrics
 
 - **Assist Rate:** 51.5% (Rank: #214)
 - **Experience:** 1.7 years (Rank: #113)
-- **Bench Minutes:** 37.6% (Rank: #58)
+- **Bench Minutes:** 37.6% (Rank: #59)
 - **Average Height:** 77.5" (Rank: #159)
 
 ---
@@ -131,13 +131,13 @@ Arizona Wildcats comes in ranked #2 overall by KenPom. They're dangerous from be
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 43.7% (Rank: #4)
-- **Opponent 3-Point Shooting:** 31.9% (Rank: #78)
+- **Opponent 3-Point Shooting:** 31.9% (Rank: #77)
 - **Block Percentage:** 11.4% (Rank: #77)
 - **Steal Rate:** 0.1% (Rank: #50)
 
 ### Team Metrics
 
-- **Assist Rate:** 57.3% (Rank: #78)
+- **Assist Rate:** 57.3% (Rank: #77)
 - **Experience:** 1.5 years (Rank: #161)
 - **Bench Minutes:** 29.9% (Rank: #250)
 - **Average Height:** 79.0" (Rank: #7)

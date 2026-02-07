@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Duke Blue Devils -5.5</p>
-  <p><strong>Moneyline:</strong> Duke Blue Devils (-250) | North Carolina Tar Heels (+210)</p>
+  <p><strong>Moneyline:</strong> Duke Blue Devils (-250) | North Carolina Tar Heels (+205)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Duke Blue Devils**: -5.5, Edge For Covering Spread: -4.0%
-- **North Carolina Tar Heels**: 5.5, Edge For Covering Spread: -0.8%
+- **Duke Blue Devils**: -5.5, Edge For Covering Spread: -2.9%
+- **North Carolina Tar Heels**: 5.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Duke Blue Devils Win Probability**: 69.4%, Moneyline Edge: -2.0%
-- **North Carolina Tar Heels Win Probability**: 30.6%, Moneyline Edge: -1.7%
+- **Duke Blue Devils Win Probability**: 69.3%, Moneyline Edge: -2.1%
+- **North Carolina Tar Heels Win Probability**: 30.7%, Moneyline Edge: -2.1%
 
 ### Total
-- **Predicted Total**: 150.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 151.0
+- Edge For Covering The Over: -5.3%
+- Edge For Covering The Under: -1.0%
 
 ---
 
@@ -87,14 +87,14 @@ Duke Blue Devils comes in ranked #3 overall by KenPom. They boast one of the nat
 
 - **2-Point Shooting:** 62.8% (Rank: #4)
 - **3-Point Shooting:** 33.8% (Rank: #191)
-- **Free Throw Shooting:** 71.6% (Rank: #205)
+- **Free Throw Shooting:** 71.6% (Rank: #206)
 - **3-Point Rate:** 44.5% (Rank: #85)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 45.6% (Rank: #17)
-- **Opponent 3-Point Shooting:** 30.8% (Rank: #46)
-- **Block Percentage:** 11.5% (Rank: #71)
+- **Opponent 3-Point Shooting:** 30.8% (Rank: #45)
+- **Block Percentage:** 11.5% (Rank: #73)
 - **Steal Rate:** 0.1% (Rank: #31)
 
 ### Team Metrics
@@ -116,13 +116,13 @@ North Carolina Tar Heels comes in ranked #30 overall by KenPom.
 - **Home Arena:** Dean E. Smith Center
 - **KenPom Rank:** #30
 - **Offensive Efficiency:** 119.0 (Rank: #33)
-- **Defensive Efficiency:** 101.6 (Rank: #54)
+- **Defensive Efficiency:** 101.6 (Rank: #52)
 - **Tempo:** 69.8 (Rank: #128)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 58.0% (Rank: #27)
-- **3-Point Shooting:** 34.4% (Rank: #145)
+- **3-Point Shooting:** 34.4% (Rank: #146)
 - **Free Throw Shooting:** 68.4% (Rank: #305)
 - **3-Point Rate:** 42.2% (Rank: #128)
 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Auburn Tigers -1.5</p>
-  <p><strong>Moneyline:</strong> Alabama Crimson Tide (+110) | Auburn Tigers (-130)</p>
+  <p><strong>Spread:</strong> Auburn Tigers -3.5</p>
+  <p><strong>Moneyline:</strong> Alabama Crimson Tide (+135) | Auburn Tigers (-161)</p>
   <p><strong>Total:</strong> 176.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Alabama Crimson Tide**: 1.5, Edge For Covering Spread: -1.2%
-- **Auburn Tigers**: -1.5, Edge For Covering Spread: -3.5%
+- **Alabama Crimson Tide**: 3.5, Edge For Covering Spread: -0.3%
+- **Auburn Tigers**: -3.5, Edge For Covering Spread: -4.4%
 
 ### Moneyline
-- **Alabama Crimson Tide Win Probability**: 45.9%, Moneyline Edge: -1.8%
-- **Auburn Tigers Win Probability**: 54.1%, Moneyline Edge: -2.4%
+- **Alabama Crimson Tide Win Probability**: 43.4%, Moneyline Edge: **0.9%**
+- **Auburn Tigers Win Probability**: 56.6%, Moneyline Edge: -5.1%
 
 ### Total
-- **Predicted Total**: 175.5
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -0.7%
+- **Predicted Total**: 174.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Alabama Crimson Tide (15-7) travels to face Auburn Tigers (14-8) at Neville Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Auburn Tigers favored by 1.5 points, with the total sitting at 176.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Alabama Crimson Tide (15-7) travels to face Auburn Tigers (14-8) at Neville Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Auburn Tigers favored by 3.5 points, with the total sitting at 176.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Auburn Tigers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 176.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.5-point spread indicates Auburn Tigers is viewed as the better team, but this isn't an overwhelming edge. Alabama Crimson Tide has a legitimate path to covering or winning outright. The total of 176.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Alabama Crimson Tide** bring an offensive efficiency of 121.20 (ranked #18 nationally). This is an elite offense that can score in multiple ways. Their 35.0% three-point shooting is serviceable but won't scare anyone. 
@@ -88,15 +88,15 @@ Alabama Crimson Tide comes in ranked #22 overall by KenPom. They boast one of th
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 57.6% (Rank: #31)
-- **3-Point Shooting:** 35.0% (Rank: #113)
+- **3-Point Shooting:** 35.0% (Rank: #114)
 - **Free Throw Shooting:** 75.0% (Rank: #85)
 - **3-Point Rate:** 54.0% (Rank: #2)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 48.4% (Rank: #65)
-- **Opponent 3-Point Shooting:** 31.8% (Rank: #71)
-- **Block Percentage:** 12.9% (Rank: #36)
+- **Opponent 2-Point Shooting:** 48.4% (Rank: #66)
+- **Opponent 3-Point Shooting:** 31.8% (Rank: #69)
+- **Block Percentage:** 12.9% (Rank: #35)
 - **Steal Rate:** 0.1% (Rank: #235)
 
 ### Team Metrics
@@ -130,10 +130,10 @@ Auburn Tigers comes in ranked #27 overall by KenPom.
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.7% (Rank: #181)
-- **Opponent 3-Point Shooting:** 34.9% (Rank: #238)
+- **Opponent 2-Point Shooting:** 51.7% (Rank: #180)
+- **Opponent 3-Point Shooting:** 34.9% (Rank: #239)
 - **Block Percentage:** 12.2% (Rank: #58)
-- **Steal Rate:** 0.1% (Rank: #62)
+- **Steal Rate:** 0.1% (Rank: #61)
 
 ### Team Metrics
 

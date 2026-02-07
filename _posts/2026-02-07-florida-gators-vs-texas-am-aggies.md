@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Florida Gators -4.5</p>
-  <p><strong>Moneyline:</strong> Florida Gators (-218) | Texas A&M Aggies (+180)</p>
+  <p><strong>Spread:</strong> Florida Gators -6.5</p>
+  <p><strong>Moneyline:</strong> Florida Gators (-277) | Texas A&M Aggies (+225)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Gators**: -4.5, Edge For Covering Spread: -4.0%
-- **Texas A&M Aggies**: 4.5, Edge For Covering Spread: -0.8%
+- **Florida Gators**: -6.5, Edge For Covering Spread: -5.7%
+- **Texas A&M Aggies**: 6.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Florida Gators Win Probability**: 64.5%, Moneyline Edge: -4.1%
-- **Texas A&M Aggies Win Probability**: 35.5%, Moneyline Edge: -0.2%
+- **Florida Gators Win Probability**: 66.7%, Moneyline Edge: -6.8%
+- **Texas A&M Aggies Win Probability**: 33.3%, Moneyline Edge: **2.5%**
 
 ### Total
-- **Predicted Total**: 163.0
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- **Predicted Total**: 165.5
+- Edge For Covering The Over: -6.5%
+- Edge For Covering The Under: **1.7%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Florida Gators (16-6) travels to face Texas A&M Aggies (17-5) at Reed Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Florida Gators favored by 4.5 points, with the total sitting at 163.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Florida Gators (16-6) enters hostile territory as they take on Texas A&M Aggies (17-5) at Reed Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Florida Gators favored by 6.5 points, with the total sitting at 163.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Florida Gators is viewed as the better team, but this isn't an overwhelming edge. Texas A&M Aggies has a legitimate path to covering or winning outright. The total of 163.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 6.5-point spread indicates Florida Gators is viewed as the better team, but this isn't an overwhelming edge. Texas A&M Aggies has a legitimate path to covering or winning outright. The total of 163.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Florida Gators** bring an offensive efficiency of 119.16 (ranked #32 nationally). This is an elite offense that can score in multiple ways. At 28.9% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -80,22 +80,22 @@ Florida Gators comes in ranked #7 overall by KenPom. The three-point shot hasn't
 - **Head Coach:** Todd Golden
 - **KenPom Rank:** #7
 - **Offensive Efficiency:** 119.2 (Rank: #32)
-- **Defensive Efficiency:** 98.5 (Rank: #25)
+- **Defensive Efficiency:** 98.5 (Rank: #24)
 - **Tempo:** 72.5 (Rank: #30)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 58.4% (Rank: #20)
 - **3-Point Shooting:** 28.9% (Rank: #350)
-- **Free Throw Shooting:** 69.9% (Rank: #262)
+- **Free Throw Shooting:** 69.9% (Rank: #260)
 - **3-Point Rate:** 39.0% (Rank: #196)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 45.3% (Rank: #13)
-- **Opponent 3-Point Shooting:** 33.2% (Rank: #139)
-- **Block Percentage:** 13.0% (Rank: #32)
-- **Steal Rate:** 0.1% (Rank: #204)
+- **Opponent 2-Point Shooting:** 45.3% (Rank: #12)
+- **Opponent 3-Point Shooting:** 33.2% (Rank: #138)
+- **Block Percentage:** 13.0% (Rank: #31)
+- **Steal Rate:** 0.1% (Rank: #205)
 
 ### Team Metrics
 
@@ -123,12 +123,12 @@ Texas A&M Aggies comes in ranked #29 overall by KenPom. They're dangerous from b
 
 - **2-Point Shooting:** 56.7% (Rank: #46)
 - **3-Point Shooting:** 37.6% (Rank: #28)
-- **Free Throw Shooting:** 75.4% (Rank: #76)
+- **Free Throw Shooting:** 75.4% (Rank: #75)
 - **3-Point Rate:** 47.8% (Rank: #25)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.3% (Rank: #171)
+- **Opponent 2-Point Shooting:** 51.3% (Rank: #169)
 - **Opponent 3-Point Shooting:** 32.4% (Rank: #101)
 - **Block Percentage:** 9.8% (Rank: #159)
 - **Steal Rate:** 0.1% (Rank: #41)

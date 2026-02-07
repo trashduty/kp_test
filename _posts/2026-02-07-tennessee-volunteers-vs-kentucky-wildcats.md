@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kentucky Wildcats -1.5</p>
-  <p><strong>Moneyline:</strong> Tennessee Volunteers (-108) | Kentucky Wildcats (-112)</p>
+  <p><strong>Moneyline:</strong> Tennessee Volunteers (+113) | Kentucky Wildcats (-135)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tennessee Volunteers**: 1.5, Edge For Covering Spread: -5.4%
-- **Kentucky Wildcats**: -1.5, Edge For Covering Spread: **0.5%**
+- **Tennessee Volunteers**: 1.5, Edge For Covering Spread: -0.9%
+- **Kentucky Wildcats**: -1.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Tennessee Volunteers Win Probability**: 48.3%, Moneyline Edge: -3.6%
-- **Kentucky Wildcats Win Probability**: 51.7%, Moneyline Edge: -1.1%
+- **Tennessee Volunteers Win Probability**: 46.0%, Moneyline Edge: -1.0%
+- **Kentucky Wildcats Win Probability**: 54.0%, Moneyline Edge: -3.4%
 
 ### Total
-- **Predicted Total**: 144.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 146.0
+- Edge For Covering The Over: -4.9%
+- Edge For Covering The Under: -1.5%
 
 ---
 
@@ -48,11 +48,11 @@ When Tennessee Volunteers (16-6) travels to face Kentucky Wildcats (16-7) at Rup
 A spread under 3 points suggests the books see this as essentially a coin flip. Kentucky Wildcats's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Tennessee Volunteers** bring an offensive efficiency of 118.47 (ranked #38 nationally). This is an elite offense that can score in multiple ways. Their 35.1% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Kentucky Wildcats** counter with 118.35 offensive efficiency (#40). This offense can match anyone bucket-for-bucket. At 34.8% from three, they have adequate spacing but must pick their spots. 
+**Tennessee Volunteers** bring an offensive efficiency of 118.47 (ranked #37 nationally). This is an elite offense that can score in multiple ways. Their 35.1% three-point shooting is serviceable but won't scare anyone. 
+Meanwhile, **Kentucky Wildcats** counter with 118.35 offensive efficiency (#39). This offense can match anyone bucket-for-bucket. At 34.8% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Tennessee Volunteers operate at a 68.5 tempo (#204), while Kentucky Wildcats play at 69.2 (#161). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 68.8) should create a standard flow. 
+Tennessee Volunteers operate at a 68.5 tempo (#204), while Kentucky Wildcats play at 69.2 (#162). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 68.8) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Tennessee Volunteers shoot 53.9% on two-pointers, while Kentucky Wildcats convert at 55.1%. Both teams are evenly matched in paint efficiency. 
@@ -75,35 +75,35 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Tennessee Volunteers
 
-Tennessee Volunteers comes in ranked #16 overall by KenPom. They boast one of the nation's top offenses, ranked #38 in efficiency. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.7% from three. 
+Tennessee Volunteers comes in ranked #17 overall by KenPom. They boast one of the nation's top offenses, ranked #37 in efficiency. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.7% from three. 
 
 ### Record & Ranking
 - **Record:** 16-6
 - **Head Coach:** Rick Barnes
-- **KenPom Rank:** #16
-- **Offensive Efficiency:** 118.5 (Rank: #38)
+- **KenPom Rank:** #17
+- **Offensive Efficiency:** 118.5 (Rank: #37)
 - **Defensive Efficiency:** 100.5 (Rank: #40)
 - **Tempo:** 68.5 (Rank: #204)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 53.9% (Rank: #104)
-- **3-Point Shooting:** 35.1% (Rank: #105)
+- **3-Point Shooting:** 35.1% (Rank: #106)
 - **Free Throw Shooting:** 69.2% (Rank: #276)
-- **3-Point Rate:** 33.8% (Rank: #306)
+- **3-Point Rate:** 33.8% (Rank: #305)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 48.9% (Rank: #77)
+- **Opponent 2-Point Shooting:** 48.9% (Rank: #76)
 - **Opponent 3-Point Shooting:** 29.7% (Rank: #23)
-- **Block Percentage:** 10.8% (Rank: #103)
+- **Block Percentage:** 10.8% (Rank: #102)
 - **Steal Rate:** 0.1% (Rank: #78)
 
 ### Team Metrics
 
-- **Assist Rate:** 60.7% (Rank: #27)
+- **Assist Rate:** 60.7% (Rank: #28)
 - **Experience:** 1.6 years (Rank: #135)
-- **Bench Minutes:** 36.5% (Rank: #85)
+- **Bench Minutes:** 36.5% (Rank: #87)
 - **Average Height:** 78.4" (Rank: #43)
 
 ---
@@ -117,27 +117,27 @@ Kentucky Wildcats comes in ranked #31 overall by KenPom.
 - **Head Coach:** Mark Pope
 - **Home Arena:** Rupp Arena
 - **KenPom Rank:** #31
-- **Offensive Efficiency:** 118.3 (Rank: #40)
+- **Offensive Efficiency:** 118.3 (Rank: #39)
 - **Defensive Efficiency:** 103.3 (Rank: #76)
-- **Tempo:** 69.2 (Rank: #161)
+- **Tempo:** 69.2 (Rank: #162)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 55.1% (Rank: #70)
-- **3-Point Shooting:** 34.8% (Rank: #123)
-- **Free Throw Shooting:** 73.0% (Rank: #158)
+- **3-Point Shooting:** 34.8% (Rank: #124)
+- **Free Throw Shooting:** 73.0% (Rank: #157)
 - **3-Point Rate:** 39.8% (Rank: #181)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 49.3% (Rank: #94)
-- **Opponent 3-Point Shooting:** 30.6% (Rank: #41)
+- **Opponent 2-Point Shooting:** 49.3% (Rank: #93)
+- **Opponent 3-Point Shooting:** 30.6% (Rank: #40)
 - **Block Percentage:** 13.9% (Rank: #21)
 - **Steal Rate:** 0.1% (Rank: #123)
 
 ### Team Metrics
 
-- **Assist Rate:** 57.6% (Rank: #71)
+- **Assist Rate:** 57.6% (Rank: #70)
 - **Experience:** 1.5 years (Rank: #165)
 - **Bench Minutes:** 38.3% (Rank: #47)
 - **Average Height:** 78.8" (Rank: #20)
