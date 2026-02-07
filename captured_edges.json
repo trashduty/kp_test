@@ -2914,5 +2914,13 @@
   "Providence Friars vs. DePaul Blue Demons|Providence Friars|moneyline": {
     "captured_at": "2026-02-06T20:11:20.345242+00:00",
     "edge_type": "moneyline"
+  },
+  "Louisiana Tech Bulldogs vs. Sam Houston St Bearkats|Sam Houston St Bearkats|spread": {
+    "captured_at": "2026-02-07T00:34:55.591818+00:00",
+    "edge_type": "spread"
+  },
+  "UC Santa Barbara Gauchos vs. UC Irvine Anteaters|UC Santa Barbara Gauchos|moneyline": {
+    "captured_at": "2026-02-07T00:34:55.594777+00:00",
+    "edge_type": "moneyline"
   }
 }
