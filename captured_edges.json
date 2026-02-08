@@ -3126,5 +3126,25 @@
   "Grambling St Tigers vs. Alabama A&M Bulldogs|Grambling St Tigers|spread": {
     "captured_at": "2026-02-08T21:10:03.386228+00:00",
     "edge_type": "spread"
+  },
+  "Howard Bison vs. Yale Bulldogs|Howard Bison|spread": {
+    "captured_at": "2026-02-08T22:09:33.708913+00:00",
+    "edge_type": "spread"
+  },
+  "SE Louisiana Lions vs. Incarnate Word Cardinals|SE Louisiana Lions|moneyline": {
+    "captured_at": "2026-02-08T22:09:33.709261+00:00",
+    "edge_type": "moneyline"
+  },
+  "Grambling St Tigers vs. Alabama A&M Bulldogs|Grambling St Tigers|moneyline": {
+    "captured_at": "2026-02-08T22:09:33.709458+00:00",
+    "edge_type": "moneyline"
+  },
+  "North Carolina Central Eagles vs. Delaware St Hornets|North Carolina Central Eagles|moneyline": {
+    "captured_at": "2026-02-08T22:09:33.710284+00:00",
+    "edge_type": "moneyline"
+  },
+  "Bradley Braves vs. Belmont Bruins|Belmont Bruins|moneyline": {
+    "captured_at": "2026-02-08T22:09:33.710478+00:00",
+    "edge_type": "moneyline"
   }
 }
