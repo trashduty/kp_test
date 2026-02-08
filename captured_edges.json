@@ -3106,5 +3106,17 @@
   "Loyola Marymount Lions vs. San Diego Toreros|Loyola Marymount Lions|moneyline": {
     "captured_at": "2026-02-07T05:22:08.100396+00:00",
     "edge_type": "moneyline"
+  },
+  "St. John's Red Storm vs. Xavier Musketeers|St. John's Red Storm|spread": {
+    "captured_at": "2026-02-08T20:08:22.277732+00:00",
+    "edge_type": "spread"
+  },
+  "Charleston Cougars vs. UNC Wilmington Seahawks|under": {
+    "captured_at": "2026-02-08T20:08:22.278673+00:00",
+    "edge_type": "under"
+  },
+  "Indiana Hoosiers vs. Oregon Ducks|Indiana Hoosiers|spread": {
+    "captured_at": "2026-02-08T20:08:22.279125+00:00",
+    "edge_type": "spread"
   }
 }
