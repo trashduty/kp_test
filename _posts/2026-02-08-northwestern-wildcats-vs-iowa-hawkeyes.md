@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Iowa Hawkeyes -12.5</p>
-  <p><strong>Moneyline:</strong> Northwestern Wildcats (+700) | Iowa Hawkeyes (-1148)</p>
+  <p><strong>Moneyline:</strong> Northwestern Wildcats (+651) | Iowa Hawkeyes (-1048)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Iowa Hawkeyes**: -12.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **Northwestern Wildcats Win Probability**: 11.0%, Moneyline Edge: -1.5%
-- **Iowa Hawkeyes Win Probability**: 89.0%, Moneyline Edge: -3.0%
+- **Northwestern Wildcats Win Probability**: 11.4%, Moneyline Edge: -1.9%
+- **Iowa Hawkeyes Win Probability**: 88.6%, Moneyline Edge: -2.6%
 
 ### Total
 - **Predicted Total**: 140.5

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Minnesota Golden Gophers -8.5</p>
-  <p><strong>Moneyline:</strong> Maryland Terrapins (+359) | Minnesota Golden Gophers (-482)</p>
+  <p><strong>Moneyline:</strong> Maryland Terrapins (+330) | Minnesota Golden Gophers (-437)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Maryland Terrapins**: 8.5, Edge For Covering Spread: -3.5%
-- **Minnesota Golden Gophers**: -8.5, Edge For Covering Spread: -1.3%
+- **Maryland Terrapins**: 8.5, Edge For Covering Spread: -4.1%
+- **Minnesota Golden Gophers**: -8.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Maryland Terrapins Win Probability**: 19.1%, Moneyline Edge: -2.6%
-- **Minnesota Golden Gophers Win Probability**: 80.9%, Moneyline Edge: -1.9%
+- **Maryland Terrapins Win Probability**: 19.8%, Moneyline Edge: -3.5%
+- **Minnesota Golden Gophers Win Probability**: 80.2%, Moneyline Edge: -1.2%
 
 ### Total
 - **Predicted Total**: 138.5

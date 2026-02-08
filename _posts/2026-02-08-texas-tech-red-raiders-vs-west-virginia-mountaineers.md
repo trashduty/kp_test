@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Texas Tech Red Raiders -4.5</p>
-  <p><strong>Moneyline:</strong> Texas Tech Red Raiders (-219) | West Virginia Mountaineers (+180)</p>
+  <p><strong>Spread:</strong> Texas Tech Red Raiders -5.5</p>
+  <p><strong>Moneyline:</strong> Texas Tech Red Raiders (-250) | West Virginia Mountaineers (+202)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Texas Tech Red Raiders**: -4.5, Edge For Covering Spread: -4.1%
-- **West Virginia Mountaineers**: 4.5, Edge For Covering Spread: -0.6%
+- **Texas Tech Red Raiders**: -5.5, Edge For Covering Spread: -5.9%
+- **West Virginia Mountaineers**: 5.5, Edge For Covering Spread: **1.1%**
 
 ### Moneyline
-- **Texas Tech Red Raiders Win Probability**: 62.9%, Moneyline Edge: -5.8%
-- **West Virginia Mountaineers Win Probability**: 37.1%, Moneyline Edge: **1.4%**
+- **Texas Tech Red Raiders Win Probability**: 64.2%, Moneyline Edge: -7.2%
+- **West Virginia Mountaineers Win Probability**: 35.8%, Moneyline Edge: **2.8%**
 
 ### Total
 - **Predicted Total**: 136.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Texas Tech Red Raiders (16-6) travels to face West Virginia Mountaineers (15-8) at Hope Coliseum in what shapes up to be a competitive matchup. The early betting action has shaped into Texas Tech Red Raiders favored by 4.5 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Texas Tech Red Raiders (16-6) travels to face West Virginia Mountaineers (15-8) at Hope Coliseum in what shapes up to be a competitive matchup. The early betting action has shaped into Texas Tech Red Raiders favored by 5.5 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Texas Tech Red Raiders is viewed as the better team, but this isn't an overwhelming edge. West Virginia Mountaineers has a legitimate path to covering or winning outright. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 5.5-point spread indicates Texas Tech Red Raiders is viewed as the better team, but this isn't an overwhelming edge. West Virginia Mountaineers has a legitimate path to covering or winning outright. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Texas Tech Red Raiders** bring an offensive efficiency of 118.84 (ranked #35 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 38.6% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

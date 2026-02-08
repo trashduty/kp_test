@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Memphis Tigers -8.5</p>
-  <p><strong>Moneyline:</strong> Charlotte 49ers (+330) | Memphis Tigers (-437)</p>
+  <p><strong>Spread:</strong> Memphis Tigers -9.5</p>
+  <p><strong>Moneyline:</strong> Charlotte 49ers (+340) | Memphis Tigers (-445)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Charlotte 49ers**: 8.5, Edge For Covering Spread: -1.8%
-- **Memphis Tigers**: -8.5, Edge For Covering Spread: -2.9%
+- **Charlotte 49ers**: 9.5, Edge For Covering Spread: -1.5%
+- **Memphis Tigers**: -9.5, Edge For Covering Spread: -3.3%
 
 ### Moneyline
-- **Charlotte 49ers Win Probability**: 21.6%, Moneyline Edge: -1.7%
-- **Memphis Tigers Win Probability**: 78.4%, Moneyline Edge: -3.0%
+- **Charlotte 49ers Win Probability**: 21.4%, Moneyline Edge: -1.3%
+- **Memphis Tigers Win Probability**: 78.6%, Moneyline Edge: -3.0%
 
 ### Total
-- **Predicted Total**: 143.0
+- **Predicted Total**: 143.5
 - Edge For Covering The Over: -4.9%
-- Edge For Covering The Under: **0.2%**
+- Edge For Covering The Under: -1.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Memphis Tigers (11-11) hosts Charlotte 49ers (13-10) at FedExForum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Memphis Tigers favored by 8.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Memphis Tigers (11-11) hosts Charlotte 49ers (13-10) at FedExForum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Memphis Tigers favored by 9.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Memphis Tigers has clear advantages, but games aren't played on paper. Charlotte 49ers needs to punch above their weight class to keep this close. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 9.5 points tells us Memphis Tigers has clear advantages, but games aren't played on paper. Charlotte 49ers needs to punch above their weight class to keep this close. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Charlotte 49ers** bring an offensive efficiency of 113.17 (ranked #85 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 36.7% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

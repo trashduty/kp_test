@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Cincinnati Bearcats -3.5</p>
-  <p><strong>Moneyline:</strong> UCF Knights (+152) | Cincinnati Bearcats (-182)</p>
+  <p><strong>Moneyline:</strong> UCF Knights (+145) | Cincinnati Bearcats (-172)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UCF Knights**: 3.5, Edge For Covering Spread: -0.1%
-- **Cincinnati Bearcats**: -3.5, Edge For Covering Spread: -4.6%
+- **UCF Knights**: 3.5, Edge For Covering Spread: -0.7%
+- **Cincinnati Bearcats**: -3.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **UCF Knights Win Probability**: 37.0%, Moneyline Edge: -2.7%
-- **Cincinnati Bearcats Win Probability**: 63.0%, Moneyline Edge: -1.6%
+- **UCF Knights Win Probability**: 37.6%, Moneyline Edge: -3.2%
+- **Cincinnati Bearcats Win Probability**: 62.4%, Moneyline Edge: -0.9%
 
 ### Total
 - **Predicted Total**: 145.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -1.0%
 
 ---
 

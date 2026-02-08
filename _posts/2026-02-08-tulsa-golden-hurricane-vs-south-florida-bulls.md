@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> South Florida Bulls -3.5</p>
-  <p><strong>Moneyline:</strong> Tulsa Golden Hurricane (+159) | South Florida Bulls (-192)</p>
+  <p><strong>Moneyline:</strong> Tulsa Golden Hurricane (+147) | South Florida Bulls (-178)</p>
   <p><strong>Total:</strong> 171.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **South Florida Bulls**: -3.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Tulsa Golden Hurricane Win Probability**: 39.5%, Moneyline Edge: **0.9%**
-- **South Florida Bulls Win Probability**: 60.5%, Moneyline Edge: -5.3%
+- **Tulsa Golden Hurricane Win Probability**: 40.3%, Moneyline Edge: -0.1%
+- **South Florida Bulls Win Probability**: 59.7%, Moneyline Edge: -4.4%
 
 ### Total
 - **Predicted Total**: 171.0

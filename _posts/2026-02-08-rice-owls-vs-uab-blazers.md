@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UAB Blazers -8.5</p>
-  <p><strong>Moneyline:</strong> Rice Owls (+335) | UAB Blazers (-437)</p>
+  <p><strong>Moneyline:</strong> Rice Owls (+312) | UAB Blazers (-402)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Rice Owls**: 8.5, Edge For Covering Spread: -3.8%
-- **UAB Blazers**: -8.5, Edge For Covering Spread: -0.9%
+- **Rice Owls**: 8.5, Edge For Covering Spread: -3.5%
+- **UAB Blazers**: -8.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Rice Owls Win Probability**: 21.0%, Moneyline Edge: -2.0%
-- **UAB Blazers Win Probability**: 79.0%, Moneyline Edge: -2.4%
+- **Rice Owls Win Probability**: 21.6%, Moneyline Edge: -2.6%
+- **UAB Blazers Win Probability**: 78.4%, Moneyline Edge: -1.7%
 
 ### Total
 - **Predicted Total**: 152.0
-- Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -1.0%
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 

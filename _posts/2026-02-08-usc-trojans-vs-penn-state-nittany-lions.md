@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> USC Trojans -3.5</p>
-  <p><strong>Moneyline:</strong> USC Trojans (-170) | Penn State Nittany Lions (+143)</p>
+  <p><strong>Moneyline:</strong> USC Trojans (-177) | Penn State Nittany Lions (+150)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **USC Trojans**: -3.5, Edge For Covering Spread: **0.8%**
-- **Penn State Nittany Lions**: 3.5, Edge For Covering Spread: -5.6%
+- **USC Trojans**: -3.5, Edge For Covering Spread: **0.6%**
+- **Penn State Nittany Lions**: 3.5, Edge For Covering Spread: -5.4%
 
 ### Moneyline
-- **USC Trojans Win Probability**: 64.3%, Moneyline Edge: **1.3%**
-- **Penn State Nittany Lions Win Probability**: 35.7%, Moneyline Edge: -5.3%
+- **USC Trojans Win Probability**: 64.8%, Moneyline Edge: **0.8%**
+- **Penn State Nittany Lions Win Probability**: 35.2%, Moneyline Edge: -4.8%
 
 ### Total
-- **Predicted Total**: 156.0
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -2.9%
+- **Predicted Total**: 155.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan Wolverines -9.5</p>
-  <p><strong>Moneyline:</strong> Michigan Wolverines (-417) | Ohio State Buckeyes (+320)</p>
+  <p><strong>Moneyline:</strong> Michigan Wolverines (-600) | Ohio State Buckeyes (+415)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Ohio State Buckeyes**: 9.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Michigan Wolverines Win Probability**: 78.1%, Moneyline Edge: -2.6%
-- **Ohio State Buckeyes Win Probability**: 21.9%, Moneyline Edge: -1.9%
+- **Michigan Wolverines Win Probability**: 80.3%, Moneyline Edge: -5.5%
+- **Ohio State Buckeyes Win Probability**: 19.7%, Moneyline Edge: **0.3%**
 
 ### Total
 - **Predicted Total**: 160.0

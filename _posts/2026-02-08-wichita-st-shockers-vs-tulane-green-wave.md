@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wichita St Shockers -3.5</p>
-  <p><strong>Moneyline:</strong> Wichita St Shockers (-170) | Tulane Green Wave (+141)</p>
+  <p><strong>Moneyline:</strong> Wichita St Shockers (-172) | Tulane Green Wave (+146)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Tulane Green Wave**: 3.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Wichita St Shockers Win Probability**: 61.1%, Moneyline Edge: -1.8%
-- **Tulane Green Wave Win Probability**: 38.9%, Moneyline Edge: -2.6%
+- **Wichita St Shockers Win Probability**: 61.4%, Moneyline Edge: -1.9%
+- **Tulane Green Wave Win Probability**: 38.6%, Moneyline Edge: -2.1%
 
 ### Total
-- **Predicted Total**: 145.5
-- Edge For Covering The Over: -5.0%
-- Edge For Covering The Under: **0.3%**
+- **Predicted Total**: 145.0
+- Edge For Covering The Over: -5.3%
+- Edge For Covering The Under: **0.5%**
 
 ---
 
