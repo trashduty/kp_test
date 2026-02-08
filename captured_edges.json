@@ -3146,5 +3146,9 @@
   "Bradley Braves vs. Belmont Bruins|Belmont Bruins|moneyline": {
     "captured_at": "2026-02-08T22:09:33.710478+00:00",
     "edge_type": "moneyline"
+  },
+  "New Orleans Privateers vs. Texas A&M-CC Islanders|New Orleans Privateers|moneyline": {
+    "captured_at": "2026-02-08T23:12:14.929275+00:00",
+    "edge_type": "moneyline"
   }
 }
