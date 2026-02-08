@@ -3118,5 +3118,13 @@
   "Indiana Hoosiers vs. Oregon Ducks|Indiana Hoosiers|spread": {
     "captured_at": "2026-02-08T20:08:22.279125+00:00",
     "edge_type": "spread"
+  },
+  "Arkansas-Pine Bluff Golden Lions vs. Jackson St Tigers|Arkansas-Pine Bluff Golden Lions|spread": {
+    "captured_at": "2026-02-08T21:10:03.384643+00:00",
+    "edge_type": "spread"
+  },
+  "Grambling St Tigers vs. Alabama A&M Bulldogs|Grambling St Tigers|spread": {
+    "captured_at": "2026-02-08T21:10:03.386228+00:00",
+    "edge_type": "spread"
   }
 }
