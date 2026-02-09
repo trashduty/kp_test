@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arkansas-Pine Bluff Golden Lions -6.5</p>
-  <p><strong>Moneyline:</strong> Jackson St Tigers (+222) | Arkansas-Pine Bluff Golden Lions (-275)</p>
+  <p><strong>Moneyline:</strong> Jackson St Tigers (+225) | Arkansas-Pine Bluff Golden Lions (-276)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Arkansas-Pine Bluff Golden Lions**: -6.5, Edge For Covering Spread: **0.6%**
 
 ### Moneyline
-- **Jackson St Tigers Win Probability**: 29.9%, Moneyline Edge: -1.2%
-- **Arkansas-Pine Bluff Golden Lions Win Probability**: 70.1%, Moneyline Edge: -3.2%
+- **Jackson St Tigers Win Probability**: 29.8%, Moneyline Edge: -1.0%
+- **Arkansas-Pine Bluff Golden Lions Win Probability**: 70.2%, Moneyline Edge: -3.2%
 
 ### Total
 - **Predicted Total**: 158.0
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 

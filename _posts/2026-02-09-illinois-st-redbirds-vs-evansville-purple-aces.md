@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Illinois St Redbirds -9.5</p>
-  <p><strong>Moneyline:</strong> Illinois St Redbirds (-630) | Evansville Purple Aces (+425)</p>
+  <p><strong>Moneyline:</strong> Illinois St Redbirds (-550) | Evansville Purple Aces (+400)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Evansville Purple Aces**: 9.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Illinois St Redbirds Win Probability**: 82.5%, Moneyline Edge: -3.8%
-- **Evansville Purple Aces Win Probability**: 17.5%, Moneyline Edge: -1.5%
+- **Illinois St Redbirds Win Probability**: 81.9%, Moneyline Edge: -2.7%
+- **Evansville Purple Aces Win Probability**: 18.1%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 137.5

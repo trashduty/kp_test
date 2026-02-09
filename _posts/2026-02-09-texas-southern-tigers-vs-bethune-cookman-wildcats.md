@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Bethune-Cookman Wildcats**: -7.5, Edge For Covering Spread: **0.6%**
 
 ### Moneyline
-- **Texas Southern Tigers Win Probability**: 22.2%, Moneyline Edge: -4.9%
-- **Bethune-Cookman Wildcats Win Probability**: 77.8%, Moneyline Edge: **0.6%**
+- **Texas Southern Tigers Win Probability**: 22.1%, Moneyline Edge: -4.9%
+- **Bethune-Cookman Wildcats Win Probability**: 77.9%, Moneyline Edge: **0.6%**
 
 ### Total
 - **Predicted Total**: 150.0

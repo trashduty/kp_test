@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Lamar Cardinals -8.5</p>
-  <p><strong>Moneyline:</strong> Northwestern St Demons (+320) | Lamar Cardinals (-425)</p>
+  <p><strong>Moneyline:</strong> Northwestern St Demons (+330) | Lamar Cardinals (-437)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Lamar Cardinals**: -8.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Northwestern St Demons Win Probability**: 20.9%, Moneyline Edge: -2.9%
-- **Lamar Cardinals Win Probability**: 79.1%, Moneyline Edge: -1.9%
+- **Northwestern St Demons Win Probability**: 20.7%, Moneyline Edge: -2.5%
+- **Lamar Cardinals Win Probability**: 79.3%, Moneyline Edge: -2.1%
 
 ### Total
 - **Predicted Total**: 136.5

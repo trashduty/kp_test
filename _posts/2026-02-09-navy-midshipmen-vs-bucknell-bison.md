@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Navy Midshipmen -6.5</p>
-  <p><strong>Moneyline:</strong> Navy Midshipmen (-277) | Bucknell Bison (+225)</p>
+  <p><strong>Spread:</strong> Navy Midshipmen -7.5</p>
+  <p><strong>Moneyline:</strong> Navy Midshipmen (-299) | Bucknell Bison (+240)</p>
   <p><strong>Total:</strong> 134.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Navy Midshipmen**: -6.5, Edge For Covering Spread: **0.9%**
-- **Bucknell Bison**: 6.5, Edge For Covering Spread: -5.8%
+- **Navy Midshipmen**: -7.5, Edge For Covering Spread: -1.6%
+- **Bucknell Bison**: 7.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
-- **Navy Midshipmen Win Probability**: 72.2%, Moneyline Edge: -1.3%
-- **Bucknell Bison Win Probability**: 27.8%, Moneyline Edge: -3.0%
+- **Navy Midshipmen Win Probability**: 72.9%, Moneyline Edge: -2.0%
+- **Bucknell Bison Win Probability**: 27.1%, Moneyline Edge: -2.3%
 
 ### Total
 - **Predicted Total**: 133.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Navy Midshipmen (19-6) enters hostile territory as they take on Bucknell Bison (8-17) at Sojka Pavilion in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Navy Midshipmen favored by 6.5 points, with the total sitting at 134.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Navy Midshipmen (19-6) enters hostile territory as they take on Bucknell Bison (8-17) at Sojka Pavilion in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Navy Midshipmen favored by 7.5 points, with the total sitting at 134.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates Navy Midshipmen is viewed as the better team, but this isn't an overwhelming edge. Bucknell Bison has a legitimate path to covering or winning outright. The total of 134.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+A spread around 7.5 points tells us Navy Midshipmen has clear advantages, but games aren't played on paper. Bucknell Bison needs to punch above their weight class to keep this close. The total of 134.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **Navy Midshipmen** bring an offensive efficiency of 110.14 (ranked #139 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.9% three-point shooting is serviceable but won't scare anyone. 

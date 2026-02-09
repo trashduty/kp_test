@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Indiana Hoosiers -11.5</p>
-  <p><strong>Moneyline:</strong> Oregon Ducks (+524) | Indiana Hoosiers (-756)</p>
+  <p><strong>Moneyline:</strong> Oregon Ducks (+525) | Indiana Hoosiers (-800)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Indiana Hoosiers**: -11.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Oregon Ducks Win Probability**: 13.2%, Moneyline Edge: -2.8%
-- **Indiana Hoosiers Win Probability**: 86.8%, Moneyline Edge: -1.5%
+- **Oregon Ducks Win Probability**: 13.1%, Moneyline Edge: -2.9%
+- **Indiana Hoosiers Win Probability**: 86.9%, Moneyline Edge: -2.0%
 
 ### Total
 - **Predicted Total**: 143.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.0%
 
 ---
 

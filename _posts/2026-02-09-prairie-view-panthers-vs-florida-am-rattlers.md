@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Florida A&M Rattlers**: -2.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Prairie View Panthers Win Probability**: 39.5%, Moneyline Edge: -3.5%
-- **Florida A&M Rattlers Win Probability**: 60.5%, Moneyline Edge: -0.3%
+- **Prairie View Panthers Win Probability**: 39.7%, Moneyline Edge: -3.3%
+- **Florida A&M Rattlers Win Probability**: 60.3%, Moneyline Edge: -0.5%
 
 ### Total
 - **Predicted Total**: 147.5

@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Indiana St Sycamores -0.5</p>
+  <p><strong>Spread:</strong> Pick'em</p>
   <p><strong>Moneyline:</strong> Southern Illinois Salukis (-110) | Indiana St Sycamores (-110)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Southern Illinois Salukis**: 0.5, Edge For Covering Spread: -0.7%
-- **Indiana St Sycamores**: -0.5, Edge For Covering Spread: -4.1%
+- **Southern Illinois Salukis**: 0.0, Edge For Covering Spread: -3.9%
+- **Indiana St Sycamores**: 0.0, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Southern Illinois Salukis Win Probability**: 50.3%, Moneyline Edge: -2.1%
-- **Indiana St Sycamores Win Probability**: 49.7%, Moneyline Edge: -2.6%
+- **Southern Illinois Salukis Win Probability**: 50.4%, Moneyline Edge: -2.0%
+- **Indiana St Sycamores Win Probability**: 49.6%, Moneyline Edge: -2.8%
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: N/A
+- Edge For Covering The Under: N/A
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Southern Illinois Salukis (10-14) travels to face Indiana St Sycamores (10-14) at Hulman Center in what shapes up to be a competitive matchup. The early betting action has shaped into Indiana St Sycamores favored by 0.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Southern Illinois Salukis (10-14) travels to face Indiana St Sycamores (10-14) at Hulman Center in what shapes up to be a competitive matchup. The early betting action has shaped into Indiana St Sycamores favored by 0.0 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Indiana St Sycamores's 0.5-point cushion reflects home court advantage more than a talent gap. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Indiana St Sycamores's 0.0-point cushion reflects home court advantage more than a talent gap. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Southern Illinois Salukis** bring an offensive efficiency of 102.70 (ranked #276 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 28.1% from three, they can't rely on the arc. Expect a paint-focused attack. 

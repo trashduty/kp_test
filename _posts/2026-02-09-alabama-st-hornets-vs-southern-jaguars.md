@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Alabama St Hornets**: 7.5, Edge For Covering Spread: -3.5%
-- **Southern Jaguars**: -7.5, Edge For Covering Spread: -1.2%
+- **Alabama St Hornets**: 7.5, Edge For Covering Spread: -3.8%
+- **Southern Jaguars**: -7.5, Edge For Covering Spread: -1.1%
 
 ### Moneyline
-- **Alabama St Hornets Win Probability**: 25.7%, Moneyline Edge: -2.1%
-- **Southern Jaguars Win Probability**: 74.3%, Moneyline Edge: -1.8%
+- **Alabama St Hornets Win Probability**: 25.8%, Moneyline Edge: -2.0%
+- **Southern Jaguars Win Probability**: 74.2%, Moneyline Edge: -2.0%
 
 ### Total
-- **Predicted Total**: 152.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 151.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

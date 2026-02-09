@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Delaware St Hornets**: 7.5, Edge For Covering Spread: -2.9%
-- **North Carolina Central Eagles**: -7.5, Edge For Covering Spread: -1.8%
+- **Delaware St Hornets**: 7.5, Edge For Covering Spread: -3.5%
+- **North Carolina Central Eagles**: -7.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
 - **Delaware St Hornets Win Probability**: 23.8%, Moneyline Edge: -2.9%
 - **North Carolina Central Eagles Win Probability**: 76.2%, Moneyline Edge: -1.4%
 
 ### Total
-- **Predicted Total**: 133.0
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -0.3%
+- **Predicted Total**: 133.5
+- Edge For Covering The Over: -5.3%
+- Edge For Covering The Under: **0.5%**
 
 ---
 

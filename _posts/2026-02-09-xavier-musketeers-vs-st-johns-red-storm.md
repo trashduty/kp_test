@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> St. John's Red Storm -14.5</p>
-  <p><strong>Moneyline:</strong> Xavier Musketeers (+792) | St. John's Red Storm (-1425)</p>
+  <p><strong>Moneyline:</strong> Xavier Musketeers (+810) | St. John's Red Storm (-1450)</p>
   <p><strong>Total:</strong> 162.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Xavier Musketeers**: 14.5, Edge For Covering Spread: -7.0%
-- **St. John's Red Storm**: -14.5, Edge For Covering Spread: **2.2%**
+- **Xavier Musketeers**: 14.5, Edge For Covering Spread: -7.2%
+- **St. John's Red Storm**: -14.5, Edge For Covering Spread: **2.4%**
 
 ### Moneyline
-- **Xavier Musketeers Win Probability**: 8.9%, Moneyline Edge: -2.4%
-- **St. John's Red Storm Win Probability**: 91.1%, Moneyline Edge: -2.3%
+- **Xavier Musketeers Win Probability**: 8.8%, Moneyline Edge: -2.2%
+- **St. John's Red Storm Win Probability**: 91.2%, Moneyline Edge: -2.3%
 
 ### Total
-- **Predicted Total**: 161.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.9%
+- **Predicted Total**: 161.0
+- Edge For Covering The Over: -4.6%
+- Edge For Covering The Under: -0.1%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Louisville Cardinals -6.5</p>
-  <p><strong>Moneyline:</strong> NC State Wolfpack (+237) | Louisville Cardinals (-296)</p>
+  <p><strong>Moneyline:</strong> NC State Wolfpack (+230) | Louisville Cardinals (-295)</p>
   <p><strong>Total:</strong> 162.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **NC State Wolfpack**: 6.5, Edge For Covering Spread: **0.1%**
-- **Louisville Cardinals**: -6.5, Edge For Covering Spread: -4.9%
+- **NC State Wolfpack**: 6.5, Edge For Covering Spread: -1.3%
+- **Louisville Cardinals**: -6.5, Edge For Covering Spread: -3.4%
 
 ### Moneyline
-- **NC State Wolfpack Win Probability**: 31.2%, Moneyline Edge: **1.5%**
-- **Louisville Cardinals Win Probability**: 68.8%, Moneyline Edge: -6.0%
+- **NC State Wolfpack Win Probability**: 31.4%, Moneyline Edge: **1.1%**
+- **Louisville Cardinals Win Probability**: 68.6%, Moneyline Edge: -6.1%
 
 ### Total
-- **Predicted Total**: 161.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 161.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Murray St Racers -4.5</p>
+  <p><strong>Spread:</strong> Murray St Racers -5.5</p>
   <p><strong>Moneyline:</strong> Northern Iowa Panthers (+192) | Murray St Racers (-230)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northern Iowa Panthers**: 4.5, Edge For Covering Spread: **1.2%**
-- **Murray St Racers**: -4.5, Edge For Covering Spread: -5.8%
+- **Northern Iowa Panthers**: 5.5, Edge For Covering Spread: -0.4%
+- **Murray St Racers**: -5.5, Edge For Covering Spread: -4.2%
 
 ### Moneyline
 - **Northern Iowa Panthers Win Probability**: 34.0%, Moneyline Edge: -0.2%
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Northern Iowa Panthers (15-9) travels to face Murray St Racers (18-7) at CFSB Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Murray St Racers favored by 4.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Northern Iowa Panthers (15-9) travels to face Murray St Racers (18-7) at CFSB Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Murray St Racers favored by 5.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Murray St Racers is viewed as the better team, but this isn't an overwhelming edge. Northern Iowa Panthers has a legitimate path to covering or winning outright. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 5.5-point spread indicates Murray St Racers is viewed as the better team, but this isn't an overwhelming edge. Northern Iowa Panthers has a legitimate path to covering or winning outright. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Northern Iowa Panthers** bring an offensive efficiency of 102.32 (ranked #285 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.1% three-point shooting is serviceable but won't scare anyone. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Central Arkansas Bears -7.5</p>
-  <p><strong>Moneyline:</strong> Central Arkansas Bears (-349) | North Alabama Lions (+274)</p>
+  <p><strong>Moneyline:</strong> Central Arkansas Bears (-340) | North Alabama Lions (+270)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Central Arkansas Bears**: -7.5, Edge For Covering Spread: -1.9%
-- **North Alabama Lions**: 7.5, Edge For Covering Spread: -2.8%
+- **Central Arkansas Bears**: -7.5, Edge For Covering Spread: **0.4%**
+- **North Alabama Lions**: 7.5, Edge For Covering Spread: -5.1%
 
 ### Moneyline
-- **Central Arkansas Bears Win Probability**: 76.7%, Moneyline Edge: -1.0%
-- **North Alabama Lions Win Probability**: 23.3%, Moneyline Edge: -3.4%
+- **Central Arkansas Bears Win Probability**: 76.5%, Moneyline Edge: -0.7%
+- **North Alabama Lions Win Probability**: 23.5%, Moneyline Edge: -3.6%
 
 ### Total
 - **Predicted Total**: 147.5

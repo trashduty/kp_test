@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Texas A&M-CC Islanders -1.5</p>
-  <p><strong>Moneyline:</strong> Texas A&M-CC Islanders (-120) | New Orleans Privateers (-100)</p>
+  <p><strong>Moneyline:</strong> Texas A&M-CC Islanders (-118) | New Orleans Privateers (-102)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **New Orleans Privateers**: 1.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **Texas A&M-CC Islanders Win Probability**: 48.6%, Moneyline Edge: -6.0%
-- **New Orleans Privateers Win Probability**: 51.4%, Moneyline Edge: **1.4%**
+- **Texas A&M-CC Islanders Win Probability**: 48.4%, Moneyline Edge: -5.8%
+- **New Orleans Privateers Win Probability**: 51.6%, Moneyline Edge: **1.1%**
 
 ### Total
 - **Predicted Total**: 147.5

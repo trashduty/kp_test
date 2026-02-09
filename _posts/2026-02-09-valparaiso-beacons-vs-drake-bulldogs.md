@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Drake Bulldogs -2.5</p>
-  <p><strong>Moneyline:</strong> Valparaiso Beacons (+125) | Drake Bulldogs (-149)</p>
+  <p><strong>Moneyline:</strong> Valparaiso Beacons (+127) | Drake Bulldogs (-155)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Drake Bulldogs**: -2.5, Edge For Covering Spread: -4.6%
 
 ### Moneyline
-- **Valparaiso Beacons Win Probability**: 42.3%, Moneyline Edge: -2.1%
-- **Drake Bulldogs Win Probability**: 57.7%, Moneyline Edge: -2.1%
+- **Valparaiso Beacons Win Probability**: 42.0%, Moneyline Edge: -2.0%
+- **Drake Bulldogs Win Probability**: 58.0%, Moneyline Edge: -2.8%
 
 ### Total
 - **Predicted Total**: 142.5

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Chicago St Cougars -2.5</p>
-  <p><strong>Moneyline:</strong> St. Francis (PA) Red Flash (+116) | Chicago St Cougars (-141)</p>
+  <p><strong>Moneyline:</strong> St. Francis (PA) Red Flash (+118) | Chicago St Cougars (-145)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Chicago St Cougars**: -2.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **St. Francis (PA) Red Flash Win Probability**: 42.3%, Moneyline Edge: -4.0%
-- **Chicago St Cougars Win Probability**: 57.7%, Moneyline Edge: -0.8%
+- **St. Francis (PA) Red Flash Win Probability**: 42.1%, Moneyline Edge: -3.8%
+- **Chicago St Cougars Win Probability**: 57.9%, Moneyline Edge: -1.3%
 
 ### Total
 - **Predicted Total**: 147.0
-- Edge For Covering The Over: **0.6%**
-- Edge For Covering The Under: -5.4%
+- Edge For Covering The Over: **0.2%**
+- Edge For Covering The Under: -4.9%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arizona Wildcats -2.5</p>
-  <p><strong>Moneyline:</strong> Arizona Wildcats (-150) | Kansas Jayhawks (+126)</p>
+  <p><strong>Moneyline:</strong> Arizona Wildcats (-150) | Kansas Jayhawks (+125)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arizona Wildcats**: -2.5, Edge For Covering Spread: -3.2%
-- **Kansas Jayhawks**: 2.5, Edge For Covering Spread: -1.6%
+- **Arizona Wildcats**: -2.5, Edge For Covering Spread: -2.6%
+- **Kansas Jayhawks**: 2.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Arizona Wildcats Win Probability**: 57.2%, Moneyline Edge: -2.8%
-- **Kansas Jayhawks Win Probability**: 42.8%, Moneyline Edge: -1.3%
+- **Arizona Wildcats Win Probability**: 56.8%, Moneyline Edge: -3.2%
+- **Kansas Jayhawks Win Probability**: 43.2%, Moneyline Edge: -1.2%
 
 ### Total
 - **Predicted Total**: 149.5
-- Edge For Covering The Over: -6.0%
-- Edge For Covering The Under: **1.3%**
+- Edge For Covering The Over: -6.9%
+- Edge For Covering The Under: **2.2%**
 
 ---
 

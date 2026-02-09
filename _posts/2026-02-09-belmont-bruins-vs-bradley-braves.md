@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Belmont Bruins -2.5</p>
-  <p><strong>Moneyline:</strong> Belmont Bruins (-151) | Bradley Braves (+125)</p>
+  <p><strong>Moneyline:</strong> Belmont Bruins (-145) | Bradley Braves (+122)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Bradley Braves**: 2.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Belmont Bruins Win Probability**: 60.3%, Moneyline Edge: **0.1%**
-- **Bradley Braves Win Probability**: 39.7%, Moneyline Edge: -4.6%
+- **Belmont Bruins Win Probability**: 59.9%, Moneyline Edge: **0.7%**
+- **Bradley Braves Win Probability**: 40.1%, Moneyline Edge: -4.9%
 
 ### Total
 - **Predicted Total**: 154.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

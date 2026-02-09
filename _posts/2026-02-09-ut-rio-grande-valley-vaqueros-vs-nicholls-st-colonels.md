@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UT Rio Grande Valley Vaqueros -1.5</p>
-  <p><strong>Moneyline:</strong> UT Rio Grande Valley Vaqueros (-135) | Nicholls St Colonels (+110)</p>
+  <p><strong>Moneyline:</strong> UT Rio Grande Valley Vaqueros (-126) | Nicholls St Colonels (+105)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Nicholls St Colonels**: 1.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **UT Rio Grande Valley Vaqueros Win Probability**: 57.7%, Moneyline Edge: **0.2%**
-- **Nicholls St Colonels Win Probability**: 42.3%, Moneyline Edge: -5.3%
+- **UT Rio Grande Valley Vaqueros Win Probability**: 57.0%, Moneyline Edge: **1.2%**
+- **Nicholls St Colonels Win Probability**: 43.0%, Moneyline Edge: -5.7%
 
 ### Total
 - **Predicted Total**: 145.5
