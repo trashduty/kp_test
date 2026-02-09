@@ -3150,5 +3150,21 @@
   "New Orleans Privateers vs. Texas A&M-CC Islanders|New Orleans Privateers|moneyline": {
     "captured_at": "2026-02-08T23:12:14.929275+00:00",
     "edge_type": "moneyline"
+  },
+  "Richmond Spiders vs. George Mason Patriots|Richmond Spiders|spread": {
+    "captured_at": "2026-02-09T21:17:03.205316+00:00",
+    "edge_type": "spread"
+  },
+  "Western Illinois Leathernecks vs. Eastern Illinois Panthers|under": {
+    "captured_at": "2026-02-09T21:17:03.206182+00:00",
+    "edge_type": "under"
+  },
+  "Western Illinois Leathernecks vs. Eastern Illinois Panthers|Eastern Illinois Panthers|spread": {
+    "captured_at": "2026-02-09T21:17:03.206257+00:00",
+    "edge_type": "spread"
+  },
+  "Utah State Aggies vs. Fresno St Bulldogs|under": {
+    "captured_at": "2026-02-09T21:17:03.206360+00:00",
+    "edge_type": "under"
   }
 }
