@@ -3186,5 +3186,17 @@
   "Wichita St Shockers vs. South Florida Bulls|Wichita St Shockers|moneyline": {
     "captured_at": "2026-02-10T21:20:00.045235+00:00",
     "edge_type": "moneyline"
+  },
+  "Kent State Golden Flashes vs. Eastern Michigan Eagles|Eastern Michigan Eagles|spread": {
+    "captured_at": "2026-02-10T22:18:53.447723+00:00",
+    "edge_type": "spread"
+  },
+  "Western Michigan Broncos vs. Toledo Rockets|Western Michigan Broncos|spread": {
+    "captured_at": "2026-02-10T22:18:53.448153+00:00",
+    "edge_type": "spread"
+  },
+  "South Dakota Coyotes vs. North Dakota Fighting Hawks|South Dakota Coyotes|spread": {
+    "captured_at": "2026-02-10T22:18:53.450446+00:00",
+    "edge_type": "spread"
   }
 }
