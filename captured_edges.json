@@ -3198,5 +3198,25 @@
   "South Dakota Coyotes vs. North Dakota Fighting Hawks|South Dakota Coyotes|spread": {
     "captured_at": "2026-02-10T22:18:53.450446+00:00",
     "edge_type": "spread"
+  },
+  "Stetson Hatters vs. Jacksonville Dolphins|Stetson Hatters|spread": {
+    "captured_at": "2026-02-10T23:18:27.370734+00:00",
+    "edge_type": "spread"
+  },
+  "Stetson Hatters vs. Jacksonville Dolphins|Stetson Hatters|moneyline": {
+    "captured_at": "2026-02-10T23:18:27.370776+00:00",
+    "edge_type": "moneyline"
+  },
+  "South Dakota Coyotes vs. North Dakota Fighting Hawks|South Dakota Coyotes|moneyline": {
+    "captured_at": "2026-02-10T23:18:27.373848+00:00",
+    "edge_type": "moneyline"
+  },
+  "Grand Canyon Antelopes vs. New Mexico Lobos|Grand Canyon Antelopes|moneyline": {
+    "captured_at": "2026-02-10T23:18:27.376101+00:00",
+    "edge_type": "moneyline"
+  },
+  "Grand Canyon Antelopes vs. New Mexico Lobos|under": {
+    "captured_at": "2026-02-10T23:18:27.376146+00:00",
+    "edge_type": "under"
   }
 }
