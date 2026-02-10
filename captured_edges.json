@@ -3174,5 +3174,13 @@
   "LSU Tigers vs. Arkansas Razorbacks|LSU Tigers|spread": {
     "captured_at": "2026-02-09T22:15:41.281904+00:00",
     "edge_type": "spread"
+  },
+  "Maryland Terrapins vs. Iowa Hawkeyes|Iowa Hawkeyes|spread": {
+    "captured_at": "2026-02-10T20:18:28.710795+00:00",
+    "edge_type": "spread"
+  },
+  "Georgia Tech Yellow Jackets vs. Wake Forest Demon Deacons|under": {
+    "captured_at": "2026-02-10T20:18:28.712325+00:00",
+    "edge_type": "under"
   }
 }
