@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> BYU Cougars -3.5</p>
-  <p><strong>Moneyline:</strong> BYU Cougars (-168) | Baylor Bears (+141)</p>
+  <p><strong>Moneyline:</strong> BYU Cougars (-167) | Baylor Bears (+140)</p>
   <p><strong>Total:</strong> 162.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **BYU Cougars**: -3.5, Edge For Covering Spread: -2.5%
-- **Baylor Bears**: 3.5, Edge For Covering Spread: -2.2%
+- **BYU Cougars**: -3.5, Edge For Covering Spread: -4.0%
+- **Baylor Bears**: 3.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **BYU Cougars Win Probability**: 57.6%, Moneyline Edge: -5.1%
-- **Baylor Bears Win Probability**: 42.4%, Moneyline Edge: **0.9%**
+- **BYU Cougars Win Probability**: 57.5%, Moneyline Edge: -5.1%
+- **Baylor Bears Win Probability**: 42.5%, Moneyline Edge: **0.9%**
 
 ### Total
 - **Predicted Total**: 162.0
-- Edge For Covering The Over: -2.7%
-- Edge For Covering The Under: -2.0%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 

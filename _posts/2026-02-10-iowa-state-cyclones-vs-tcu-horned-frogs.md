@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Iowa State Cyclones -6.5</p>
-  <p><strong>Moneyline:</strong> Iowa State Cyclones (-279) | TCU Horned Frogs (+227)</p>
+  <p><strong>Moneyline:</strong> Iowa State Cyclones (-302) | TCU Horned Frogs (+247)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Iowa State Cyclones**: -6.5, Edge For Covering Spread: -1.9%
-- **TCU Horned Frogs**: 6.5, Edge For Covering Spread: -2.8%
+- **Iowa State Cyclones**: -6.5, Edge For Covering Spread: -2.2%
+- **TCU Horned Frogs**: 6.5, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **Iowa State Cyclones Win Probability**: 74.3%, Moneyline Edge: **0.7%**
-- **TCU Horned Frogs Win Probability**: 25.7%, Moneyline Edge: -4.9%
+- **Iowa State Cyclones Win Probability**: 75.2%, Moneyline Edge: **0.0%**
+- **TCU Horned Frogs Win Probability**: 24.8%, Moneyline Edge: -3.9%
 
 ### Total
 - **Predicted Total**: 146.5

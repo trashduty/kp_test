@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arkansas Razorbacks -5.5</p>
-  <p><strong>Moneyline:</strong> Arkansas Razorbacks (-237) | LSU Tigers (+197)</p>
+  <p><strong>Moneyline:</strong> Arkansas Razorbacks (-250) | LSU Tigers (+202)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **LSU Tigers**: 5.5, Edge For Covering Spread: **1.6%**
 
 ### Moneyline
-- **Arkansas Razorbacks Win Probability**: 64.3%, Moneyline Edge: -6.0%
-- **LSU Tigers Win Probability**: 35.7%, Moneyline Edge: **2.0%**
+- **Arkansas Razorbacks Win Probability**: 64.7%, Moneyline Edge: -6.7%
+- **LSU Tigers Win Probability**: 35.3%, Moneyline Edge: **2.3%**
 
 ### Total
 - **Predicted Total**: 162.0

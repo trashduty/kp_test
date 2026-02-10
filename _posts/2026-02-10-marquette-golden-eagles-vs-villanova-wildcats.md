@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Villanova Wildcats -9.5</p>
-  <p><strong>Moneyline:</strong> Marquette Golden Eagles (+405) | Villanova Wildcats (-550)</p>
+  <p><strong>Moneyline:</strong> Marquette Golden Eagles (+400) | Villanova Wildcats (-550)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Villanova Wildcats**: -9.5, Edge For Covering Spread: **2.7%**
 
 ### Moneyline
-- **Marquette Golden Eagles Win Probability**: 15.5%, Moneyline Edge: -4.3%
-- **Villanova Wildcats Win Probability**: 84.5%, Moneyline Edge: -0.1%
+- **Marquette Golden Eagles Win Probability**: 15.6%, Moneyline Edge: -4.4%
+- **Villanova Wildcats Win Probability**: 84.4%, Moneyline Edge: -0.2%
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: -2.8%
-- Edge For Covering The Under: -1.9%
+- Edge For Covering The Over: -3.4%
+- Edge For Covering The Under: -1.4%
 
 ---
 

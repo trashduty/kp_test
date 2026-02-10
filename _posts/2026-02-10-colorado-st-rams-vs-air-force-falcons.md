@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Colorado St Rams -15.5</p>
-  <p><strong>Moneyline:</strong> Colorado St Rams (-1895) | Air Force Falcons (+974)</p>
+  <p><strong>Moneyline:</strong> Colorado St Rams (-1800) | Air Force Falcons (+958)</p>
   <p><strong>Total:</strong> 134.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Colorado St Rams**: -15.5, Edge For Covering Spread: -5.3%
-- **Air Force Falcons**: 15.5, Edge For Covering Spread: **0.5%**
+- **Colorado St Rams**: -15.5, Edge For Covering Spread: -4.7%
+- **Air Force Falcons**: 15.5, Edge For Covering Spread: -0.0%
 
 ### Moneyline
-- **Colorado St Rams Win Probability**: 90.0%, Moneyline Edge: -4.9%
-- **Air Force Falcons Win Probability**: 10.0%, Moneyline Edge: **0.7%**
+- **Colorado St Rams Win Probability**: 90.0%, Moneyline Edge: -4.8%
+- **Air Force Falcons Win Probability**: 10.0%, Moneyline Edge: **0.6%**
 
 ### Total
 - **Predicted Total**: 133.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.9%
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -0.6%
 
 ---
 

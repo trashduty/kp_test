@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Gonzaga Bulldogs -20.0</p>
+  <p><strong>Spread:</strong> Gonzaga Bulldogs -20.5</p>
   <p><strong>Moneyline:</strong> Washington St Cougars (+1548) | Gonzaga Bulldogs (-4001)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Washington St Cougars**: 20.0, Edge For Covering Spread: -2.0%
-- **Gonzaga Bulldogs**: -20.0, Edge For Covering Spread: -2.9%
+- **Washington St Cougars**: 20.5, Edge For Covering Spread: -1.9%
+- **Gonzaga Bulldogs**: -20.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
 - **Washington St Cougars Win Probability**: 4.9%, Moneyline Edge: -1.1%
 - **Gonzaga Bulldogs Win Probability**: 95.1%, Moneyline Edge: -2.5%
 
 ### Total
-- **Predicted Total**: 157.0
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -2.8%
+- **Predicted Total**: 156.0
+- Edge For Covering The Over: -3.6%
+- Edge For Covering The Under: -2.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Gonzaga Bulldogs (23-2) hosts Washington St Cougars (11-15) at McCarthey Athletic Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Gonzaga Bulldogs favored by 20.0 points, with the total sitting at 158.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Gonzaga Bulldogs (23-2) hosts Washington St Cougars (11-15) at McCarthey Athletic Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Gonzaga Bulldogs favored by 20.5 points, with the total sitting at 158.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 20.0-point spread screams mismatch. The books are asking Washington St Cougars to hang within two possessions, which based on the profiles, requires Gonzaga Bulldogs to play below their standard. The total of 158.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 20.5-point spread screams mismatch. The books are asking Washington St Cougars to hang within two possessions, which based on the profiles, requires Gonzaga Bulldogs to play below their standard. The total of 158.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Washington St Cougars** bring an offensive efficiency of 111.41 (ranked #110 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 36.9% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

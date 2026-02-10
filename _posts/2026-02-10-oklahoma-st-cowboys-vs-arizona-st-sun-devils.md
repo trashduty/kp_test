@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Arizona St Sun Devils**: -2.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Oklahoma St Cowboys Win Probability**: 42.6%, Moneyline Edge: -0.9%
-- **Arizona St Sun Devils Win Probability**: 57.4%, Moneyline Edge: -3.4%
+- **Oklahoma St Cowboys Win Probability**: 42.5%, Moneyline Edge: -0.9%
+- **Arizona St Sun Devils Win Probability**: 57.5%, Moneyline Edge: -3.3%
 
 ### Total
 - **Predicted Total**: 164.0

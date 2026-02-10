@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> SMU Mustangs -11.5</p>
-  <p><strong>Moneyline:</strong> Notre Dame Fighting Irish (+600) | SMU Mustangs (-924)</p>
+  <p><strong>Moneyline:</strong> Notre Dame Fighting Irish (+551) | SMU Mustangs (-810)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Notre Dame Fighting Irish**: 11.5, Edge For Covering Spread: -0.9%
-- **SMU Mustangs**: -11.5, Edge For Covering Spread: -3.8%
+- **Notre Dame Fighting Irish**: 11.5, Edge For Covering Spread: -1.2%
+- **SMU Mustangs**: -11.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Notre Dame Fighting Irish Win Probability**: 13.8%, Moneyline Edge: -0.5%
-- **SMU Mustangs Win Probability**: 86.2%, Moneyline Edge: -4.1%
+- **Notre Dame Fighting Irish Win Probability**: 14.4%, Moneyline Edge: -1.0%
+- **SMU Mustangs Win Probability**: 85.6%, Moneyline Edge: -3.4%
 
 ### Total
 - **Predicted Total**: 153.5

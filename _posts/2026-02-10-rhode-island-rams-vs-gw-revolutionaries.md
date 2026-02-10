@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> GW Revolutionaries -5.5</p>
-  <p><strong>Moneyline:</strong> Rhode Island Rams (+190) | GW Revolutionaries (-225)</p>
+  <p><strong>Moneyline:</strong> Rhode Island Rams (+180) | GW Revolutionaries (-215)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Rhode Island Rams**: 5.5, Edge For Covering Spread: -5.4%
-- **GW Revolutionaries**: -5.5, Edge For Covering Spread: **0.7%**
+- **Rhode Island Rams**: 5.5, Edge For Covering Spread: -5.1%
+- **GW Revolutionaries**: -5.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Rhode Island Rams Win Probability**: 30.8%, Moneyline Edge: -3.7%
-- **GW Revolutionaries Win Probability**: 69.2%, Moneyline Edge: -0.0%
+- **Rhode Island Rams Win Probability**: 31.3%, Moneyline Edge: -4.4%
+- **GW Revolutionaries Win Probability**: 68.7%, Moneyline Edge: **0.4%**
 
 ### Total
 - **Predicted Total**: 150.0
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 

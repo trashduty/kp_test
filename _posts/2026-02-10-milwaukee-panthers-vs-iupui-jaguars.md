@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Milwaukee Panthers -1.5</p>
-  <p><strong>Moneyline:</strong> Milwaukee Panthers (-114) | IUPUI Jaguars (-105)</p>
+  <p><strong>Moneyline:</strong> Milwaukee Panthers (-116) | IUPUI Jaguars (-103)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Milwaukee Panthers**: -1.5, Edge For Covering Spread: -3.2%
-- **IUPUI Jaguars**: 1.5, Edge For Covering Spread: -1.5%
+- **Milwaukee Panthers**: -1.5, Edge For Covering Spread: -5.6%
+- **IUPUI Jaguars**: 1.5, Edge For Covering Spread: -1.1%
 
 ### Moneyline
-- **Milwaukee Panthers Win Probability**: 52.0%, Moneyline Edge: -1.4%
-- **IUPUI Jaguars Win Probability**: 48.0%, Moneyline Edge: -3.2%
+- **Milwaukee Panthers Win Probability**: 52.2%, Moneyline Edge: -1.6%
+- **IUPUI Jaguars Win Probability**: 47.8%, Moneyline Edge: -3.1%
 
 ### Total
 - **Predicted Total**: 163.5

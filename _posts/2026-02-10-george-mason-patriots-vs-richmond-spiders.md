@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> George Mason Patriots -4.5</p>
-  <p><strong>Moneyline:</strong> George Mason Patriots (-200) | Richmond Spiders (+168)</p>
+  <p><strong>Spread:</strong> George Mason Patriots -4.0</p>
+  <p><strong>Moneyline:</strong> George Mason Patriots (-190) | Richmond Spiders (+160)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **George Mason Patriots**: -4.5, Edge For Covering Spread: -4.6%
-- **Richmond Spiders**: 4.5, Edge For Covering Spread: -0.1%
+- **George Mason Patriots**: -4.0, Edge For Covering Spread: -5.6%
+- **Richmond Spiders**: 4.0, Edge For Covering Spread: **0.6%**
 
 ### Moneyline
-- **George Mason Patriots Win Probability**: 61.1%, Moneyline Edge: -5.6%
-- **Richmond Spiders Win Probability**: 38.9%, Moneyline Edge: **1.6%**
+- **George Mason Patriots Win Probability**: 60.5%, Moneyline Edge: -5.0%
+- **Richmond Spiders Win Probability**: 39.5%, Moneyline Edge: **1.0%**
 
 ### Total
-- **Predicted Total**: 140.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 141.5
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-George Mason Patriots (21-3) travels to face Richmond Spiders (13-11) at Robins Center in what shapes up to be a competitive matchup. The early betting action has shaped into George Mason Patriots favored by 4.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+George Mason Patriots (21-3) travels to face Richmond Spiders (13-11) at Robins Center in what shapes up to be a competitive matchup. The early betting action has shaped into George Mason Patriots favored by 4.0 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates George Mason Patriots is viewed as the better team, but this isn't an overwhelming edge. Richmond Spiders has a legitimate path to covering or winning outright. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 4.0-point spread indicates George Mason Patriots is viewed as the better team, but this isn't an overwhelming edge. Richmond Spiders has a legitimate path to covering or winning outright. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **George Mason Patriots** bring an offensive efficiency of 114.31 (ranked #75 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.4% three-point shooting is serviceable but won't scare anyone. 

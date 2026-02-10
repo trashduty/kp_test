@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Illinois Fighting Illini -11.5</p>
-  <p><strong>Moneyline:</strong> Wisconsin Badgers (+537) | Illinois Fighting Illini (-784)</p>
+  <p><strong>Moneyline:</strong> Wisconsin Badgers (+524) | Illinois Fighting Illini (-781)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wisconsin Badgers**: 11.5, Edge For Covering Spread: -3.8%
-- **Illinois Fighting Illini**: -11.5, Edge For Covering Spread: -1.0%
+- **Wisconsin Badgers**: 11.5, Edge For Covering Spread: -4.5%
+- **Illinois Fighting Illini**: -11.5, Edge For Covering Spread: -0.2%
 
 ### Moneyline
-- **Wisconsin Badgers Win Probability**: 13.5%, Moneyline Edge: -2.2%
-- **Illinois Fighting Illini Win Probability**: 86.5%, Moneyline Edge: -2.2%
+- **Wisconsin Badgers Win Probability**: 13.7%, Moneyline Edge: -2.4%
+- **Illinois Fighting Illini Win Probability**: 86.3%, Moneyline Edge: -2.3%
 
 ### Total
 - **Predicted Total**: 155.5

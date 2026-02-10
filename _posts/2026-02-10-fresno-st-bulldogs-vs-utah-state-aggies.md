@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Utah State Aggies -19.5</p>
-  <p><strong>Moneyline:</strong> Fresno St Bulldogs (+1448) | Utah State Aggies (-3790)</p>
+  <p><strong>Spread:</strong> Utah State Aggies -18.5</p>
+  <p><strong>Moneyline:</strong> Fresno St Bulldogs (+1400) | Utah State Aggies (-3557)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fresno St Bulldogs**: 19.5, Edge For Covering Spread: -0.3%
-- **Utah State Aggies**: -19.5, Edge For Covering Spread: -4.4%
+- **Fresno St Bulldogs**: 18.5, Edge For Covering Spread: **1.1%**
+- **Utah State Aggies**: -18.5, Edge For Covering Spread: -5.7%
 
 ### Moneyline
-- **Fresno St Bulldogs Win Probability**: 6.1%, Moneyline Edge: -0.4%
-- **Utah State Aggies Win Probability**: 93.9%, Moneyline Edge: -3.5%
+- **Fresno St Bulldogs Win Probability**: 6.2%, Moneyline Edge: -0.5%
+- **Utah State Aggies Win Probability**: 93.8%, Moneyline Edge: -3.5%
 
 ### Total
 - **Predicted Total**: 147.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Utah State Aggies (20-3) hosts Fresno St Bulldogs (11-12) at Dee Glen Smith Spectrum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Utah State Aggies favored by 19.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Utah State Aggies (20-3) hosts Fresno St Bulldogs (11-12) at Dee Glen Smith Spectrum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Utah State Aggies favored by 18.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 19.5-point spread screams mismatch. The books are asking Fresno St Bulldogs to hang within two possessions, which based on the profiles, requires Utah State Aggies to play below their standard. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 18.5-point spread screams mismatch. The books are asking Fresno St Bulldogs to hang within two possessions, which based on the profiles, requires Utah State Aggies to play below their standard. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Fresno St Bulldogs** bring an offensive efficiency of 102.75 (ranked #280 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.3% three-point shooting is serviceable but won't scare anyone. 

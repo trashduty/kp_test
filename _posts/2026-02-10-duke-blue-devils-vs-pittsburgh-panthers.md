@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Duke Blue Devils**: -16.5, Edge For Covering Spread: -4.1%
-- **Pittsburgh Panthers**: 16.5, Edge For Covering Spread: -0.6%
+- **Duke Blue Devils**: -16.5, Edge For Covering Spread: -4.7%
+- **Pittsburgh Panthers**: 16.5, Edge For Covering Spread: -0.1%
 
 ### Moneyline
 - **Duke Blue Devils Win Probability**: 92.2%, Moneyline Edge: -4.0%

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Virginia Cavaliers -8.0</p>
-  <p><strong>Moneyline:</strong> Virginia Cavaliers (-370) | Florida St Seminoles (+287)</p>
+  <p><strong>Spread:</strong> Virginia Cavaliers -8.5</p>
+  <p><strong>Moneyline:</strong> Virginia Cavaliers (-387) | Florida St Seminoles (+297)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Virginia Cavaliers**: -8.0, Edge For Covering Spread: -2.4%
-- **Florida St Seminoles**: 8.0, Edge For Covering Spread: -2.4%
+- **Virginia Cavaliers**: -8.5, Edge For Covering Spread: -1.2%
+- **Florida St Seminoles**: 8.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Virginia Cavaliers Win Probability**: 76.2%, Moneyline Edge: -2.6%
-- **Florida St Seminoles Win Probability**: 23.8%, Moneyline Edge: -2.0%
+- **Virginia Cavaliers Win Probability**: 76.5%, Moneyline Edge: -3.0%
+- **Florida St Seminoles Win Probability**: 23.5%, Moneyline Edge: -1.6%
 
 ### Total
-- **Predicted Total**: 152.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 153.0
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -3.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Virginia Cavaliers (20-3) enters hostile territory as they take on Florida St Seminoles (11-12) at Donald L. Tucker Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Virginia Cavaliers favored by 8.0 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Virginia Cavaliers (20-3) enters hostile territory as they take on Florida St Seminoles (11-12) at Donald L. Tucker Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Virginia Cavaliers favored by 8.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.0 points tells us Virginia Cavaliers has clear advantages, but games aren't played on paper. Florida St Seminoles needs to punch above their weight class to keep this close. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 8.5 points tells us Virginia Cavaliers has clear advantages, but games aren't played on paper. Florida St Seminoles needs to punch above their weight class to keep this close. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Virginia Cavaliers** bring an offensive efficiency of 122.21 (ranked #10 nationally). This is an elite offense that can score in multiple ways. Their 35.7% three-point shooting is serviceable but won't scare anyone. 

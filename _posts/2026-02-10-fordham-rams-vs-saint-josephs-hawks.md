@@ -24,15 +24,15 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fordham Rams**: 5.0, Edge For Covering Spread: -2.6%
+- **Fordham Rams**: 5.0, Edge For Covering Spread: -2.4%
 - **Saint Joseph's Hawks**: -5.0, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Fordham Rams Win Probability**: 33.1%, Moneyline Edge: -1.4%
-- **Saint Joseph's Hawks Win Probability**: 66.9%, Moneyline Edge: -2.3%
+- **Fordham Rams Win Probability**: 32.9%, Moneyline Edge: -1.6%
+- **Saint Joseph's Hawks Win Probability**: 67.1%, Moneyline Edge: -2.2%
 
 ### Total
-- **Predicted Total**: 131.5
+- **Predicted Total**: 132.5
 - Edge For Covering The Over: -3.9%
 - Edge For Covering The Under: -0.8%
 

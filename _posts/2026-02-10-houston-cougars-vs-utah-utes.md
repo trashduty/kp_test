@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Houston Cougars -16.5</p>
-  <p><strong>Moneyline:</strong> Houston Cougars (-2800) | Utah Utes (+1160)</p>
+  <p><strong>Moneyline:</strong> Houston Cougars (-2500) | Utah Utes (+1100)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Utah Utes**: 16.5, Edge For Covering Spread: **1.0%**
 
 ### Moneyline
-- **Houston Cougars Win Probability**: 91.2%, Moneyline Edge: -5.3%
-- **Utah Utes Win Probability**: 8.8%, Moneyline Edge: **0.8%**
+- **Houston Cougars Win Probability**: 91.0%, Moneyline Edge: -5.1%
+- **Utah Utes Win Probability**: 9.0%, Moneyline Edge: **0.7%**
 
 ### Total
-- **Predicted Total**: 143.0
-- Edge For Covering The Over: -3.1%
-- Edge For Covering The Under: -3.1%
+- **Predicted Total**: 142.5
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 

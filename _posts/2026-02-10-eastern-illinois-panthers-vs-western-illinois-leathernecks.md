@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Eastern Illinois Panthers -4.5</p>
-  <p><strong>Moneyline:</strong> Eastern Illinois Panthers (-191) | Western Illinois Leathernecks (+160)</p>
+  <p><strong>Moneyline:</strong> Eastern Illinois Panthers (-194) | Western Illinois Leathernecks (+162)</p>
   <p><strong>Total:</strong> 132.5</p>
 </div>
 
@@ -25,16 +25,16 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **Eastern Illinois Panthers**: -4.5, Edge For Covering Spread: **1.2%**
-- **Western Illinois Leathernecks**: 4.5, Edge For Covering Spread: -6.1%
+- **Western Illinois Leathernecks**: 4.5, Edge For Covering Spread: -5.9%
 
 ### Moneyline
-- **Eastern Illinois Panthers Win Probability**: 66.3%, Moneyline Edge: **0.6%**
-- **Western Illinois Leathernecks Win Probability**: 33.7%, Moneyline Edge: -4.7%
+- **Eastern Illinois Panthers Win Probability**: 66.5%, Moneyline Edge: **0.5%**
+- **Western Illinois Leathernecks Win Probability**: 33.5%, Moneyline Edge: -4.6%
 
 ### Total
-- **Predicted Total**: 131.0
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -0.6%
+- **Predicted Total**: 130.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 

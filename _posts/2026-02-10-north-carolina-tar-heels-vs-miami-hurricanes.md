@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> North Carolina Tar Heels -1.5</p>
-  <p><strong>Moneyline:</strong> North Carolina Tar Heels (-118) | Miami Hurricanes (-102)</p>
+  <p><strong>Spread:</strong> Pick'em</p>
+  <p><strong>Moneyline:</strong> North Carolina Tar Heels (-111) | Miami Hurricanes (-109)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **North Carolina Tar Heels**: -1.5, Edge For Covering Spread: -3.9%
-- **Miami Hurricanes**: 1.5, Edge For Covering Spread: -0.9%
+- **North Carolina Tar Heels**: 0.0, Edge For Covering Spread: -2.4%
+- **Miami Hurricanes**: 0.0, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **North Carolina Tar Heels Win Probability**: 50.9%, Moneyline Edge: -3.3%
-- **Miami Hurricanes Win Probability**: 49.1%, Moneyline Edge: -1.4%
+- **North Carolina Tar Heels Win Probability**: 50.1%, Moneyline Edge: -2.5%
+- **Miami Hurricanes Win Probability**: 49.9%, Moneyline Edge: -2.3%
 
 ### Total
 - **Predicted Total**: 157.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- Edge For Covering The Over: N/A
+- Edge For Covering The Under: N/A
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-North Carolina Tar Heels (19-4) travels to face Miami Hurricanes (18-5) at Watsco Center in what shapes up to be a competitive matchup. The early betting action has shaped into North Carolina Tar Heels favored by 1.5 points, with the total sitting at 158.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+North Carolina Tar Heels (19-4) travels to face Miami Hurricanes (18-5) at Watsco Center in what shapes up to be a competitive matchup. The early betting action has shaped into Miami Hurricanes favored by 0.0 points, with the total sitting at 158.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. North Carolina Tar Heels's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 158.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Miami Hurricanes's 0.0-point cushion reflects home court advantage more than a talent gap. The total of 158.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **North Carolina Tar Heels** bring an offensive efficiency of 118.67 (ranked #35 nationally). This is an elite offense that can score in multiple ways. Their 34.7% three-point shooting is serviceable but won't scare anyone. 
