@@ -3182,5 +3182,9 @@
   "Georgia Tech Yellow Jackets vs. Wake Forest Demon Deacons|under": {
     "captured_at": "2026-02-10T20:18:28.712325+00:00",
     "edge_type": "under"
+  },
+  "Wichita St Shockers vs. South Florida Bulls|Wichita St Shockers|moneyline": {
+    "captured_at": "2026-02-10T21:20:00.045235+00:00",
+    "edge_type": "moneyline"
   }
 }
