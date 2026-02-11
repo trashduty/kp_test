@@ -3222,5 +3222,9 @@
   "Ball State Cardinals vs. Buffalo Bulls|Buffalo Bulls|moneyline": {
     "captured_at": "2026-02-11T01:39:57.613473+00:00",
     "edge_type": "moneyline"
+  },
+  "Central Arkansas Bears vs. Bellarmine Knights|Central Arkansas Bears|spread": {
+    "captured_at": "2026-02-11T04:49:12.893235+00:00",
+    "edge_type": "spread"
   }
 }
