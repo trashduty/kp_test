@@ -3218,5 +3218,9 @@
   "Grand Canyon Antelopes vs. New Mexico Lobos|under": {
     "captured_at": "2026-02-10T23:18:27.376146+00:00",
     "edge_type": "under"
+  },
+  "Ball State Cardinals vs. Buffalo Bulls|Buffalo Bulls|moneyline": {
+    "captured_at": "2026-02-11T01:39:57.613473+00:00",
+    "edge_type": "moneyline"
   }
 }
