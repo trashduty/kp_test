@@ -3226,5 +3226,17 @@
   "Central Arkansas Bears vs. Bellarmine Knights|Central Arkansas Bears|spread": {
     "captured_at": "2026-02-11T04:49:12.893235+00:00",
     "edge_type": "spread"
+  },
+  "Charleston Cougars vs. Hofstra Pride|Hofstra Pride|moneyline": {
+    "captured_at": "2026-02-11T21:16:26.852253+00:00",
+    "edge_type": "moneyline"
+  },
+  "Illinois St Redbirds vs. Valparaiso Beacons|Valparaiso Beacons|spread": {
+    "captured_at": "2026-02-11T21:16:26.852444+00:00",
+    "edge_type": "spread"
+  },
+  "Lindenwood Lions vs. Tenn-Martin Skyhawks|Lindenwood Lions|spread": {
+    "captured_at": "2026-02-11T21:16:26.853192+00:00",
+    "edge_type": "spread"
   }
 }
