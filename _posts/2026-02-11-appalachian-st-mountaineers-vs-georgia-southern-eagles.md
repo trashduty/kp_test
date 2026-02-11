@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Appalachian St Mountaineers -2.5</p>
-  <p><strong>Moneyline:</strong> Appalachian St Mountaineers (-142) | Georgia Southern Eagles (+120)</p>
+  <p><strong>Moneyline:</strong> Appalachian St Mountaineers (-137) | Georgia Southern Eagles (+115)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Appalachian St Mountaineers**: -2.5, Edge For Covering Spread: -3.6%
-- **Georgia Southern Eagles**: 2.5, Edge For Covering Spread: -1.1%
+- **Appalachian St Mountaineers**: -2.5, Edge For Covering Spread: -3.0%
+- **Georgia Southern Eagles**: 2.5, Edge For Covering Spread: -1.7%
 
 ### Moneyline
-- **Appalachian St Mountaineers Win Probability**: 56.7%, Moneyline Edge: -2.0%
-- **Georgia Southern Eagles Win Probability**: 43.3%, Moneyline Edge: -2.1%
+- **Appalachian St Mountaineers Win Probability**: 56.2%, Moneyline Edge: -1.7%
+- **Georgia Southern Eagles Win Probability**: 43.8%, Moneyline Edge: -2.8%
 
 ### Total
 - **Predicted Total**: 142.5
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -0.2%
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.7%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Clemson Tigers -8.5</p>
-  <p><strong>Moneyline:</strong> Virginia Tech Hokies (+346) | Clemson Tigers (-460)</p>
+  <p><strong>Moneyline:</strong> Virginia Tech Hokies (+340) | Clemson Tigers (-450)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Virginia Tech Hokies**: 8.5, Edge For Covering Spread: -3.0%
-- **Clemson Tigers**: -8.5, Edge For Covering Spread: -1.8%
+- **Virginia Tech Hokies**: 8.5, Edge For Covering Spread: -4.1%
+- **Clemson Tigers**: -8.5, Edge For Covering Spread: -0.6%
 
 ### Moneyline
-- **Virginia Tech Hokies Win Probability**: 20.0%, Moneyline Edge: -2.5%
-- **Clemson Tigers Win Probability**: 80.0%, Moneyline Edge: -2.1%
+- **Virginia Tech Hokies Win Probability**: 20.1%, Moneyline Edge: -2.6%
+- **Clemson Tigers Win Probability**: 79.9%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 136.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -1.9%
 
 ---
 

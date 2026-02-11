@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Jacksonville St Gamecocks -7.5</p>
-  <p><strong>Moneyline:</strong> UTEP Miners (+270) | Jacksonville St Gamecocks (-340)</p>
+  <p><strong>Moneyline:</strong> UTEP Miners (+270) | Jacksonville St Gamecocks (-342)</p>
   <p><strong>Total:</strong> 131.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UTEP Miners**: 7.5, Edge For Covering Spread: -2.4%
-- **Jacksonville St Gamecocks**: -7.5, Edge For Covering Spread: -2.4%
+- **UTEP Miners**: 7.5, Edge For Covering Spread: -2.8%
+- **Jacksonville St Gamecocks**: -7.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
 - **UTEP Miners Win Probability**: 25.5%, Moneyline Edge: -1.6%
-- **Jacksonville St Gamecocks Win Probability**: 74.5%, Moneyline Edge: -2.7%
+- **Jacksonville St Gamecocks Win Probability**: 74.5%, Moneyline Edge: -2.8%
 
 ### Total
 - **Predicted Total**: 131.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -1.3%
 
 ---
 

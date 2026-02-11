@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **North Alabama Lions Win Probability**: 52.4%, Moneyline Edge: -1.8%
 
 ### Total
-- **Predicted Total**: 145.5
-- Edge For Covering The Over: -1.2%
-- Edge For Covering The Under: -3.5%
+- **Predicted Total**: 144.5
+- Edge For Covering The Over: -1.1%
+- Edge For Covering The Under: -3.6%
 
 ---
 

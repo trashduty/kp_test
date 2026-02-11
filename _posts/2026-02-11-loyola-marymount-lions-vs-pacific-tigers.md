@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Loyola Marymount Lions**: 5.5, Edge For Covering Spread: -2.5%
-- **Pacific Tigers**: -5.5, Edge For Covering Spread: -2.1%
+- **Loyola Marymount Lions**: 5.5, Edge For Covering Spread: -3.3%
+- **Pacific Tigers**: -5.5, Edge For Covering Spread: -1.5%
 
 ### Moneyline
-- **Loyola Marymount Lions Win Probability**: 30.8%, Moneyline Edge: -1.4%
-- **Pacific Tigers Win Probability**: 69.2%, Moneyline Edge: -2.6%
+- **Loyola Marymount Lions Win Probability**: 30.6%, Moneyline Edge: -1.6%
+- **Pacific Tigers Win Probability**: 69.4%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 139.0

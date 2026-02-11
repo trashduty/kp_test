@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Buffalo Bulls -1.5</p>
-  <p><strong>Moneyline:</strong> Buffalo Bulls (-115) | Ball State Cardinals (-105)</p>
+  <p><strong>Moneyline:</strong> Buffalo Bulls (-125) | Ball State Cardinals (+105)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Buffalo Bulls**: -1.5, Edge For Covering Spread: 0.0%
-- **Ball State Cardinals**: 1.5, Edge For Covering Spread: -4.5%
+- **Buffalo Bulls**: -1.5, Edge For Covering Spread: -2.4%
+- **Ball State Cardinals**: 1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Buffalo Bulls Win Probability**: 55.0%, Moneyline Edge: **1.6%**
-- **Ball State Cardinals Win Probability**: 45.0%, Moneyline Edge: -6.2%
+- **Buffalo Bulls Win Probability**: 56.1%, Moneyline Edge: **0.6%**
+- **Ball State Cardinals Win Probability**: 43.9%, Moneyline Edge: -4.9%
 
 ### Total
 - **Predicted Total**: 141.0
-- Edge For Covering The Over: -3.8%
-- Edge For Covering The Under: -1.0%
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -1.5%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Liberty Flames -3.5</p>
-  <p><strong>Moneyline:</strong> Liberty Flames (-170) | New Mexico St Aggies (+140)</p>
+  <p><strong>Moneyline:</strong> Liberty Flames (-170) | New Mexico St Aggies (+141)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **New Mexico St Aggies**: 3.5, Edge For Covering Spread: -0.2%
 
 ### Moneyline
-- **Liberty Flames Win Probability**: 59.6%, Moneyline Edge: -3.4%
-- **New Mexico St Aggies Win Probability**: 40.4%, Moneyline Edge: -1.3%
+- **Liberty Flames Win Probability**: 59.6%, Moneyline Edge: -3.3%
+- **New Mexico St Aggies Win Probability**: 40.4%, Moneyline Edge: -1.1%
 
 ### Total
 - **Predicted Total**: 143.5
 - Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Under: -4.2%
 
 ---
 

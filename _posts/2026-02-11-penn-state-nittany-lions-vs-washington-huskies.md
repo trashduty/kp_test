@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Washington Huskies -12.5</p>
-  <p><strong>Moneyline:</strong> Penn State Nittany Lions (+677) | Washington Huskies (-1074)</p>
+  <p><strong>Moneyline:</strong> Penn State Nittany Lions (+601) | Washington Huskies (-910)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Washington Huskies**: -12.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Penn State Nittany Lions Win Probability**: 12.2%, Moneyline Edge: -0.7%
-- **Washington Huskies Win Probability**: 87.8%, Moneyline Edge: -3.6%
+- **Penn State Nittany Lions Win Probability**: 12.8%, Moneyline Edge: -1.4%
+- **Washington Huskies Win Probability**: 87.2%, Moneyline Edge: -2.9%
 
 ### Total
 - **Predicted Total**: 154.0
-- Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -1.1%
+- Edge For Covering The Over: -4.2%
+- Edge For Covering The Under: -0.5%
 
 ---
 

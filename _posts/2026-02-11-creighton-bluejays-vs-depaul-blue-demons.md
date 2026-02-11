@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Creighton Bluejays**: 1.5, Edge For Covering Spread: -2.7%
-- **DePaul Blue Demons**: -1.5, Edge For Covering Spread: -4.1%
+- **Creighton Bluejays**: 1.5, Edge For Covering Spread: -2.1%
+- **DePaul Blue Demons**: -1.5, Edge For Covering Spread: -2.5%
 
 ### Moneyline
 - **Creighton Bluejays Win Probability**: 49.5%, Moneyline Edge: -0.7%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 142.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.3%
 
 ---
 

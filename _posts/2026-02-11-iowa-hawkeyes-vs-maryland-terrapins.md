@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Iowa Hawkeyes -10.5</p>
-  <p><strong>Moneyline:</strong> Iowa Hawkeyes (-679) | Maryland Terrapins (+472)</p>
+  <p><strong>Moneyline:</strong> Iowa Hawkeyes (-642) | Maryland Terrapins (+445)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Maryland Terrapins**: 10.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Iowa Hawkeyes Win Probability**: 83.7%, Moneyline Edge: -3.5%
-- **Maryland Terrapins Win Probability**: 16.3%, Moneyline Edge: -1.1%
+- **Iowa Hawkeyes Win Probability**: 83.3%, Moneyline Edge: -3.3%
+- **Maryland Terrapins Win Probability**: 16.7%, Moneyline Edge: -1.6%
 
 ### Total
 - **Predicted Total**: 141.5
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 

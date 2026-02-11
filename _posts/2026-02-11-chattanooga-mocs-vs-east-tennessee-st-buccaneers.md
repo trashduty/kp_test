@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> East Tennessee St Buccaneers -10.5</p>
-  <p><strong>Moneyline:</strong> Chattanooga Mocs (+500) | East Tennessee St Buccaneers (-738)</p>
+  <p><strong>Moneyline:</strong> Chattanooga Mocs (+459) | East Tennessee St Buccaneers (-642)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **East Tennessee St Buccaneers**: -10.5, Edge For Covering Spread: **1.0%**
 
 ### Moneyline
-- **Chattanooga Mocs Win Probability**: 14.5%, Moneyline Edge: -2.2%
-- **East Tennessee St Buccaneers Win Probability**: 85.5%, Moneyline Edge: -2.5%
+- **Chattanooga Mocs Win Probability**: 15.1%, Moneyline Edge: -2.8%
+- **East Tennessee St Buccaneers Win Probability**: 84.9%, Moneyline Edge: -1.6%
 
 ### Total
 - **Predicted Total**: 144.0

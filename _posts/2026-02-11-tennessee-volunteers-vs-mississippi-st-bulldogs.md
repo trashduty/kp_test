@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Tennessee Volunteers -7.0</p>
-  <p><strong>Moneyline:</strong> Tennessee Volunteers (-315) | Mississippi St Bulldogs (+255)</p>
+  <p><strong>Spread:</strong> Tennessee Volunteers -7.5</p>
+  <p><strong>Moneyline:</strong> Tennessee Volunteers (-305) | Mississippi St Bulldogs (+250)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tennessee Volunteers**: -7.0, Edge For Covering Spread: -2.0%
-- **Mississippi St Bulldogs**: 7.0, Edge For Covering Spread: -2.9%
+- **Tennessee Volunteers**: -7.5, Edge For Covering Spread: -0.9%
+- **Mississippi St Bulldogs**: 7.5, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **Tennessee Volunteers Win Probability**: 74.0%, Moneyline Edge: -1.9%
-- **Mississippi St Bulldogs Win Probability**: 26.0%, Moneyline Edge: -2.1%
+- **Tennessee Volunteers Win Probability**: 73.7%, Moneyline Edge: -1.6%
+- **Mississippi St Bulldogs Win Probability**: 26.3%, Moneyline Edge: -2.3%
 
 ### Total
 - **Predicted Total**: 146.0
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- Edge For Covering The Over: -4.9%
+- Edge For Covering The Under: **0.2%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Tennessee Volunteers (16-7) enters hostile territory as they take on Mississippi St Bulldogs (11-12) at Humphrey Coliseum in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Tennessee Volunteers favored by 7.0 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Tennessee Volunteers (16-7) enters hostile territory as they take on Mississippi St Bulldogs (11-12) at Humphrey Coliseum in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Tennessee Volunteers favored by 7.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.0 points tells us Tennessee Volunteers has clear advantages, but games aren't played on paper. Mississippi St Bulldogs needs to punch above their weight class to keep this close. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 7.5 points tells us Tennessee Volunteers has clear advantages, but games aren't played on paper. Mississippi St Bulldogs needs to punch above their weight class to keep this close. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Tennessee Volunteers** bring an offensive efficiency of 117.88 (ranked #40 nationally). This is an elite offense that can score in multiple ways. Their 35.2% three-point shooting is serviceable but won't scare anyone. 

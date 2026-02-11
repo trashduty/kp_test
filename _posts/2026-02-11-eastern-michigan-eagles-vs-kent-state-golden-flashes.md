@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Kent State Golden Flashes -10.5</p>
-  <p><strong>Moneyline:</strong> Eastern Michigan Eagles (+490) | Kent State Golden Flashes (-675)</p>
+  <p><strong>Spread:</strong> Kent State Golden Flashes -9.5</p>
+  <p><strong>Moneyline:</strong> Eastern Michigan Eagles (+390) | Kent State Golden Flashes (-542)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Eastern Michigan Eagles**: 10.5, Edge For Covering Spread: **1.4%**
-- **Kent State Golden Flashes**: -10.5, Edge For Covering Spread: -6.2%
+- **Eastern Michigan Eagles**: 9.5, Edge For Covering Spread: -0.5%
+- **Kent State Golden Flashes**: -9.5, Edge For Covering Spread: -4.3%
 
 ### Moneyline
-- **Eastern Michigan Eagles Win Probability**: 20.1%, Moneyline Edge: **3.2%**
-- **Kent State Golden Flashes Win Probability**: 79.9%, Moneyline Edge: -7.2%
+- **Eastern Michigan Eagles Win Probability**: 21.7%, Moneyline Edge: **1.3%**
+- **Kent State Golden Flashes Win Probability**: 78.3%, Moneyline Edge: -6.2%
 
 ### Total
 - **Predicted Total**: 144.0
-- Edge For Covering The Over: -3.1%
+- Edge For Covering The Over: -3.2%
 - Edge For Covering The Under: -1.6%
 
 ---
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Kent State Golden Flashes (17-7) hosts Eastern Michigan Eagles (9-15) at Memorial Athletic & Convocation Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Kent State Golden Flashes favored by 10.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Kent State Golden Flashes (17-7) hosts Eastern Michigan Eagles (9-15) at Memorial Athletic & Convocation Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Kent State Golden Flashes favored by 9.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us Kent State Golden Flashes has clear advantages, but games aren't played on paper. Eastern Michigan Eagles needs to punch above their weight class to keep this close. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 9.5 points tells us Kent State Golden Flashes has clear advantages, but games aren't played on paper. Eastern Michigan Eagles needs to punch above their weight class to keep this close. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Eastern Michigan Eagles** bring an offensive efficiency of 101.73 (ranked #299 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.8% three-point shooting is serviceable but won't scare anyone. 

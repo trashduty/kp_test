@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Wichita St Shockers -1.5</p>
-  <p><strong>Moneyline:</strong> South Florida Bulls (-109) | Wichita St Shockers (-111)</p>
+  <p><strong>Spread:</strong> Pick'em</p>
+  <p><strong>Moneyline:</strong> South Florida Bulls (-111) | Wichita St Shockers (-109)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Florida Bulls**: 1.5, Edge For Covering Spread: -4.1%
-- **Wichita St Shockers**: -1.5, Edge For Covering Spread: -0.5%
+- **South Florida Bulls**: 0.0, Edge For Covering Spread: -4.0%
+- **Wichita St Shockers**: 0.0, Edge For Covering Spread: -2.1%
 
 ### Moneyline
-- **South Florida Bulls Win Probability**: 47.3%, Moneyline Edge: -4.8%
-- **Wichita St Shockers Win Probability**: 52.7%, Moneyline Edge: **0.1%**
+- **South Florida Bulls Win Probability**: 47.7%, Moneyline Edge: -4.9%
+- **Wichita St Shockers Win Probability**: 52.3%, Moneyline Edge: **0.2%**
 
 ### Total
 - **Predicted Total**: 158.0
-- Edge For Covering The Over: -5.2%
-- Edge For Covering The Under: **0.4%**
+- Edge For Covering The Over: N/A
+- Edge For Covering The Under: N/A
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-South Florida Bulls (16-8) travels to face Wichita St Shockers (15-9) at Charles Koch Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Wichita St Shockers favored by 1.5 points, with the total sitting at 157.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+South Florida Bulls (16-8) travels to face Wichita St Shockers (15-9) at Charles Koch Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Wichita St Shockers favored by 0.0 points, with the total sitting at 157.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Wichita St Shockers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 157.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Wichita St Shockers's 0.0-point cushion reflects home court advantage more than a talent gap. The total of 157.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **South Florida Bulls** bring an offensive efficiency of 117.87 (ranked #41 nationally). This is an elite offense that can score in multiple ways. Their 33.1% three-point shooting is serviceable but won't scare anyone. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Marshall Thundering Herd -2.5</p>
-  <p><strong>Moneyline:</strong> Marshall Thundering Herd (-135) | Old Dominion Monarchs (+110)</p>
+  <p><strong>Moneyline:</strong> Marshall Thundering Herd (-152) | Old Dominion Monarchs (+130)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Marshall Thundering Herd**: -2.5, Edge For Covering Spread: -2.8%
-- **Old Dominion Monarchs**: 2.5, Edge For Covering Spread: -1.9%
+- **Marshall Thundering Herd**: -2.5, Edge For Covering Spread: -5.1%
+- **Old Dominion Monarchs**: 2.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Marshall Thundering Herd Win Probability**: 54.7%, Moneyline Edge: -2.8%
-- **Old Dominion Monarchs Win Probability**: 45.3%, Moneyline Edge: -2.3%
+- **Marshall Thundering Herd Win Probability**: 56.5%, Moneyline Edge: -3.9%
+- **Old Dominion Monarchs Win Probability**: 43.5%, Moneyline Edge: **0.1%**
 
 ### Total
 - **Predicted Total**: 153.5

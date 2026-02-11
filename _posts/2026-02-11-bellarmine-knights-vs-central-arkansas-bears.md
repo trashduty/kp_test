@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Central Arkansas Bears -8.5</p>
-  <p><strong>Moneyline:</strong> Bellarmine Knights (+280) | Central Arkansas Bears (-355)</p>
+  <p><strong>Spread:</strong> Central Arkansas Bears -7.5</p>
+  <p><strong>Moneyline:</strong> Bellarmine Knights (+275) | Central Arkansas Bears (-350)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bellarmine Knights**: 8.5, Edge For Covering Spread: -5.7%
-- **Central Arkansas Bears**: -8.5, Edge For Covering Spread: **1.1%**
+- **Bellarmine Knights**: 7.5, Edge For Covering Spread: -4.9%
+- **Central Arkansas Bears**: -7.5, Edge For Covering Spread: -0.1%
 
 ### Moneyline
-- **Bellarmine Knights Win Probability**: 22.6%, Moneyline Edge: -3.7%
-- **Central Arkansas Bears Win Probability**: 77.4%, Moneyline Edge: -0.7%
+- **Bellarmine Knights Win Probability**: 22.9%, Moneyline Edge: -3.8%
+- **Central Arkansas Bears Win Probability**: 77.1%, Moneyline Edge: -0.6%
 
 ### Total
-- **Predicted Total**: 152.5
-- Edge For Covering The Over: -2.8%
-- Edge For Covering The Under: -1.9%
+- **Predicted Total**: 153.0
+- Edge For Covering The Over: -1.4%
+- Edge For Covering The Under: -3.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Central Arkansas Bears (15-10) hosts Bellarmine Knights (11-13) at Farris Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Central Arkansas Bears favored by 8.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Central Arkansas Bears (15-10) hosts Bellarmine Knights (11-13) at Farris Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Central Arkansas Bears favored by 7.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Central Arkansas Bears has clear advantages, but games aren't played on paper. Bellarmine Knights needs to punch above their weight class to keep this close. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us Central Arkansas Bears has clear advantages, but games aren't played on paper. Bellarmine Knights needs to punch above their weight class to keep this close. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Bellarmine Knights** bring an offensive efficiency of 116.88 (ranked #54 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 37.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

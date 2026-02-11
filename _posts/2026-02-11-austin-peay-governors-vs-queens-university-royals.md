@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Queens University Royals -2.5</p>
-  <p><strong>Moneyline:</strong> Austin Peay Governors (+117) | Queens University Royals (-137)</p>
+  <p><strong>Spread:</strong> Queens University Royals -1.5</p>
+  <p><strong>Moneyline:</strong> Austin Peay Governors (+114) | Queens University Royals (-135)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Austin Peay Governors**: 2.5, Edge For Covering Spread: -0.6%
-- **Queens University Royals**: -2.5, Edge For Covering Spread: -4.1%
+- **Austin Peay Governors**: 1.5, Edge For Covering Spread: **1.1%**
+- **Queens University Royals**: -1.5, Edge For Covering Spread: -6.1%
 
 ### Moneyline
-- **Austin Peay Governors Win Probability**: 46.7%, Moneyline Edge: **0.6%**
-- **Queens University Royals Win Probability**: 53.3%, Moneyline Edge: -4.6%
+- **Austin Peay Governors Win Probability**: 46.9%, Moneyline Edge: **0.2%**
+- **Queens University Royals Win Probability**: 53.1%, Moneyline Edge: -4.4%
 
 ### Total
-- **Predicted Total**: 160.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- **Predicted Total**: 160.5
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -0.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Austin Peay Governors (17-6) travels to face Queens University Royals (14-11) at Curry Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Queens University Royals favored by 2.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Austin Peay Governors (17-6) travels to face Queens University Royals (14-11) at Curry Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Queens University Royals favored by 1.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Queens University Royals's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Queens University Royals's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Austin Peay Governors** bring an offensive efficiency of 110.66 (ranked #121 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.4% three-point shooting is serviceable but won't scare anyone. 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Tulsa Golden Hurricane -10.5</p>
-  <p><strong>Moneyline:</strong> UAB Blazers (+470) | Tulsa Golden Hurricane (-650)</p>
+  <p><strong>Spread:</strong> Tulsa Golden Hurricane -9.5</p>
+  <p><strong>Moneyline:</strong> UAB Blazers (+390) | Tulsa Golden Hurricane (-546)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UAB Blazers**: 10.5, Edge For Covering Spread: -5.7%
-- **Tulsa Golden Hurricane**: -10.5, Edge For Covering Spread: **1.1%**
+- **UAB Blazers**: 9.5, Edge For Covering Spread: -5.4%
+- **Tulsa Golden Hurricane**: -9.5, Edge For Covering Spread: **0.6%**
 
 ### Moneyline
-- **UAB Blazers Win Probability**: 15.9%, Moneyline Edge: -1.6%
-- **Tulsa Golden Hurricane Win Probability**: 84.1%, Moneyline Edge: -2.6%
+- **UAB Blazers Win Probability**: 17.2%, Moneyline Edge: -3.2%
+- **Tulsa Golden Hurricane Win Probability**: 82.8%, Moneyline Edge: -1.8%
 
 ### Total
 - **Predicted Total**: 160.5
-- Edge For Covering The Over: -2.4%
+- Edge For Covering The Over: -2.6%
 - Edge For Covering The Under: -2.4%
 
 ---
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Tulsa Golden Hurricane (20-4) hosts UAB Blazers (15-9) at Reynolds Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Tulsa Golden Hurricane favored by 10.5 points, with the total sitting at 160.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Tulsa Golden Hurricane (20-4) hosts UAB Blazers (15-9) at Reynolds Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Tulsa Golden Hurricane favored by 9.5 points, with the total sitting at 160.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us Tulsa Golden Hurricane has clear advantages, but games aren't played on paper. UAB Blazers needs to punch above their weight class to keep this close. The total of 160.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 9.5 points tells us Tulsa Golden Hurricane has clear advantages, but games aren't played on paper. UAB Blazers needs to punch above their weight class to keep this close. The total of 160.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **UAB Blazers** bring an offensive efficiency of 110.30 (ranked #130 nationally). They're solid offensively, capable of putting up points but not overwhelming. At 28.2% from three, they can't rely on the arc. Expect a paint-focused attack. 

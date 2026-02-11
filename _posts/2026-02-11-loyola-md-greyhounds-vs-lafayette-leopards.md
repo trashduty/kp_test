@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Loyola (MD) Greyhounds**: 2.5, Edge For Covering Spread: -2.2%
-- **Lafayette Leopards**: -2.5, Edge For Covering Spread: -2.4%
+- **Loyola (MD) Greyhounds**: 2.5, Edge For Covering Spread: -2.3%
+- **Lafayette Leopards**: -2.5, Edge For Covering Spread: -2.5%
 
 ### Moneyline
-- **Loyola (MD) Greyhounds Win Probability**: 38.7%, Moneyline Edge: -4.8%
-- **Lafayette Leopards Win Probability**: 61.3%, Moneyline Edge: **0.6%**
+- **Loyola (MD) Greyhounds Win Probability**: 38.6%, Moneyline Edge: -4.9%
+- **Lafayette Leopards Win Probability**: 61.4%, Moneyline Edge: **0.7%**
 
 ### Total
-- **Predicted Total**: 146.0
-- Edge For Covering The Over: -1.5%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 146.5
+- Edge For Covering The Over: -1.3%
+- Edge For Covering The Under: -3.5%
 
 ---
 

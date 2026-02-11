@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Colgate Raiders -6.5</p>
-  <p><strong>Moneyline:</strong> Colgate Raiders (-315) | Holy Cross Crusaders (+250)</p>
+  <p><strong>Spread:</strong> Colgate Raiders -7.5</p>
+  <p><strong>Moneyline:</strong> Colgate Raiders (-335) | Holy Cross Crusaders (+265)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Colgate Raiders**: -6.5, Edge For Covering Spread: -4.1%
-- **Holy Cross Crusaders**: 6.5, Edge For Covering Spread: -0.7%
+- **Colgate Raiders**: -7.5, Edge For Covering Spread: -4.6%
+- **Holy Cross Crusaders**: 7.5, Edge For Covering Spread: -0.1%
 
 ### Moneyline
-- **Colgate Raiders Win Probability**: 70.3%, Moneyline Edge: -5.6%
-- **Holy Cross Crusaders Win Probability**: 29.7%, Moneyline Edge: **1.1%**
+- **Colgate Raiders Win Probability**: 70.9%, Moneyline Edge: -6.1%
+- **Holy Cross Crusaders Win Probability**: 29.1%, Moneyline Edge: **1.7%**
 
 ### Total
 - **Predicted Total**: 142.5
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Colgate Raiders (15-10) enters hostile territory as they take on Holy Cross Crusaders (9-16) at Hart Center Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Colgate Raiders favored by 6.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Colgate Raiders (15-10) enters hostile territory as they take on Holy Cross Crusaders (9-16) at Hart Center Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Colgate Raiders favored by 7.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates Colgate Raiders is viewed as the better team, but this isn't an overwhelming edge. Holy Cross Crusaders has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us Colgate Raiders has clear advantages, but games aren't played on paper. Holy Cross Crusaders needs to punch above their weight class to keep this close. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Colgate Raiders** bring an offensive efficiency of 109.82 (ranked #145 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.4% three-point shooting is serviceable but won't scare anyone. 

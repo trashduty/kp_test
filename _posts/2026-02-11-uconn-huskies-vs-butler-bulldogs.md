@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UConn Huskies -11.5</p>
-  <p><strong>Moneyline:</strong> UConn Huskies (-800) | Butler Bulldogs (+550)</p>
+  <p><strong>Moneyline:</strong> UConn Huskies (-820) | Butler Bulldogs (+550)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UConn Huskies**: -11.5, Edge For Covering Spread: -4.8%
-- **Butler Bulldogs**: 11.5, Edge For Covering Spread: **0.1%**
+- **UConn Huskies**: -11.5, Edge For Covering Spread: -3.8%
+- **Butler Bulldogs**: 11.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **UConn Huskies Win Probability**: 84.1%, Moneyline Edge: -4.8%
+- **UConn Huskies Win Probability**: 84.1%, Moneyline Edge: -5.0%
 - **Butler Bulldogs Win Probability**: 15.9%, Moneyline Edge: **0.5%**
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 

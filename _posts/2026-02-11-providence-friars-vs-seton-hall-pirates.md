@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Seton Hall Pirates -4.5</p>
-  <p><strong>Moneyline:</strong> Providence Friars (+175) | Seton Hall Pirates (-210)</p>
+  <p><strong>Moneyline:</strong> Providence Friars (+170) | Seton Hall Pirates (-200)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Seton Hall Pirates**: -4.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Providence Friars Win Probability**: 34.2%, Moneyline Edge: -2.2%
-- **Seton Hall Pirates Win Probability**: 65.8%, Moneyline Edge: -1.9%
+- **Providence Friars Win Probability**: 34.6%, Moneyline Edge: -2.4%
+- **Seton Hall Pirates Win Probability**: 65.4%, Moneyline Edge: -1.3%
 
 ### Total
 - **Predicted Total**: 150.5
-- Edge For Covering The Over: -1.1%
-- Edge For Covering The Under: -3.7%
+- Edge For Covering The Over: -0.8%
+- Edge For Covering The Under: -3.9%
 
 ---
 

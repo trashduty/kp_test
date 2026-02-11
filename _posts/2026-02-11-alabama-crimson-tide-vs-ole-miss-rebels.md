@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama Crimson Tide -7.5</p>
-  <p><strong>Moneyline:</strong> Alabama Crimson Tide (-335) | Ole Miss Rebels (+265)</p>
+  <p><strong>Moneyline:</strong> Alabama Crimson Tide (-342) | Ole Miss Rebels (+270)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Alabama Crimson Tide**: -7.5, Edge For Covering Spread: -2.8%
-- **Ole Miss Rebels**: 7.5, Edge For Covering Spread: -1.9%
+- **Alabama Crimson Tide**: -7.5, Edge For Covering Spread: -4.0%
+- **Ole Miss Rebels**: 7.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Alabama Crimson Tide Win Probability**: 72.9%, Moneyline Edge: -4.1%
-- **Ole Miss Rebels Win Probability**: 27.1%, Moneyline Edge: -0.3%
+- **Alabama Crimson Tide Win Probability**: 73.0%, Moneyline Edge: -4.3%
+- **Ole Miss Rebels Win Probability**: 27.0%, Moneyline Edge: -0.1%
 
 ### Total
 - **Predicted Total**: 164.0
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- Edge For Covering The Over: -4.5%
+- Edge For Covering The Under: -0.3%
 
 ---
 

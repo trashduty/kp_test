@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Florida Gators -9.5</p>
-  <p><strong>Moneyline:</strong> Florida Gators (-474) | Georgia Bulldogs (+350)</p>
+  <p><strong>Moneyline:</strong> Florida Gators (-480) | Georgia Bulldogs (+355)</p>
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Gators**: -9.5, Edge For Covering Spread: -5.6%
-- **Georgia Bulldogs**: 9.5, Edge For Covering Spread: **0.8%**
+- **Florida Gators**: -9.5, Edge For Covering Spread: -5.0%
+- **Georgia Bulldogs**: 9.5, Edge For Covering Spread: **0.3%**
 
 ### Moneyline
-- **Florida Gators Win Probability**: 75.4%, Moneyline Edge: -7.2%
-- **Georgia Bulldogs Win Probability**: 24.6%, Moneyline Edge: **2.4%**
+- **Florida Gators Win Probability**: 75.5%, Moneyline Edge: -7.3%
+- **Georgia Bulldogs Win Probability**: 24.5%, Moneyline Edge: **2.5%**
 
 ### Total
 - **Predicted Total**: 166.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Over: -3.6%
+- Edge For Covering The Under: -1.1%
 
 ---
 

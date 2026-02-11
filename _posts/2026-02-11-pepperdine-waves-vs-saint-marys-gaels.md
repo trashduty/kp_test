@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Saint Mary's Gaels -24.5</p>
-  <p><strong>Moneyline:</strong> Pepperdine Waves (+3000) | Saint Mary's Gaels (-10000)</p>
+  <p><strong>Moneyline:</strong> Pepperdine Waves (+2897) | Saint Mary's Gaels (-10000)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,11 +24,11 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Pepperdine Waves**: 24.5, Edge For Covering Spread: -1.5%
-- **Saint Mary's Gaels**: -24.5, Edge For Covering Spread: -3.3%
+- **Pepperdine Waves**: 24.5, Edge For Covering Spread: -2.4%
+- **Saint Mary's Gaels**: -24.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Pepperdine Waves Win Probability**: 2.6%, Moneyline Edge: -0.6%
+- **Pepperdine Waves Win Probability**: 2.6%, Moneyline Edge: -0.7%
 - **Saint Mary's Gaels Win Probability**: 97.4%, Moneyline Edge: -1.6%
 
 ### Total

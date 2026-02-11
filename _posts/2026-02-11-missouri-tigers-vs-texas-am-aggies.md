@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Missouri Tigers**: 7.5, Edge For Covering Spread: -2.6%
-- **Texas A&M Aggies**: -7.5, Edge For Covering Spread: -2.2%
+- **Missouri Tigers**: 7.5, Edge For Covering Spread: -2.4%
+- **Texas A&M Aggies**: -7.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
 - **Missouri Tigers Win Probability**: 26.3%, Moneyline Edge: -2.1%
-- **Texas A&M Aggies Win Probability**: 73.7%, Moneyline Edge: -2.1%
+- **Texas A&M Aggies Win Probability**: 73.7%, Moneyline Edge: -2.0%
 
 ### Total
 - **Predicted Total**: 157.0

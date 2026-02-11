@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Western Carolina Catamounts -7.5</p>
-  <p><strong>Moneyline:</strong> The Citadel Bulldogs (+300) | Western Carolina Catamounts (-395)</p>
+  <p><strong>Moneyline:</strong> The Citadel Bulldogs (+275) | Western Carolina Catamounts (-350)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Western Carolina Catamounts**: -7.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **The Citadel Bulldogs Win Probability**: 21.6%, Moneyline Edge: -3.4%
-- **Western Carolina Catamounts Win Probability**: 78.4%, Moneyline Edge: -1.4%
+- **The Citadel Bulldogs Win Probability**: 22.5%, Moneyline Edge: -4.2%
+- **Western Carolina Catamounts Win Probability**: 77.5%, Moneyline Edge: -0.3%
 
 ### Total
-- **Predicted Total**: 146.5
-- Edge For Covering The Over: -1.2%
-- Edge For Covering The Under: -3.5%
+- **Predicted Total**: 146.0
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -3.7%
 
 ---
 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Pick'em</p>
-  <p><strong>Moneyline:</strong> Temple Owls (-110) | Tulane Green Wave (-110)</p>
+  <p><strong>Spread:</strong> Temple Owls -1.5</p>
+  <p><strong>Moneyline:</strong> Temple Owls (-114) | Tulane Green Wave (-105)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Temple Owls**: 0.0, Edge For Covering Spread: -2.4%
-- **Tulane Green Wave**: 0.0, Edge For Covering Spread: -4.0%
+- **Temple Owls**: -1.5, Edge For Covering Spread: -4.1%
+- **Tulane Green Wave**: 1.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Temple Owls Win Probability**: 49.3%, Moneyline Edge: -3.1%
-- **Tulane Green Wave Win Probability**: 50.7%, Moneyline Edge: -1.7%
+- **Temple Owls Win Probability**: 49.7%, Moneyline Edge: -3.6%
+- **Tulane Green Wave Win Probability**: 50.3%, Moneyline Edge: -1.1%
 
 ### Total
 - **Predicted Total**: 145.0
-- Edge For Covering The Over: N/A
-- Edge For Covering The Under: N/A
+- Edge For Covering The Over: -3.3%
+- Edge For Covering The Under: -3.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Temple Owls (15-8) travels to face Tulane Green Wave (13-10) at Fogelman Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Tulane Green Wave favored by 0.0 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Temple Owls (15-8) travels to face Tulane Green Wave (13-10) at Fogelman Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Temple Owls favored by 1.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Tulane Green Wave's 0.0-point cushion reflects home court advantage more than a talent gap. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Temple Owls's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Temple Owls** bring an offensive efficiency of 113.17 (ranked #84 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.5% three-point shooting is serviceable but won't scare anyone. 

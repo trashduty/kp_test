@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Mercer Bears -2.5</p>
-  <p><strong>Moneyline:</strong> Furman Paladins (+130) | Mercer Bears (-150)</p>
+  <p><strong>Moneyline:</strong> Furman Paladins (+123) | Mercer Bears (-146)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Furman Paladins**: 2.5, Edge For Covering Spread: -5.6%
-- **Mercer Bears**: -2.5, Edge For Covering Spread: **0.8%**
+- **Furman Paladins**: 2.5, Edge For Covering Spread: -6.7%
+- **Mercer Bears**: -2.5, Edge For Covering Spread: **2.0%**
 
 ### Moneyline
-- **Furman Paladins Win Probability**: 38.9%, Moneyline Edge: -4.6%
-- **Mercer Bears Win Probability**: 61.1%, Moneyline Edge: **1.1%**
+- **Furman Paladins Win Probability**: 39.4%, Moneyline Edge: -5.5%
+- **Mercer Bears Win Probability**: 60.6%, Moneyline Edge: **1.2%**
 
 ### Total
 - **Predicted Total**: 150.5
-- Edge For Covering The Over: -5.2%
-- Edge For Covering The Under: **0.5%**
+- Edge For Covering The Over: -5.1%
+- Edge For Covering The Under: -0.1%
 
 ---
 

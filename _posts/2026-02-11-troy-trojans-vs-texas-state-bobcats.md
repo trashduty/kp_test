@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Troy Trojans -5.5</p>
-  <p><strong>Moneyline:</strong> Troy Trojans (-225) | Texas State Bobcats (+185)</p>
+  <p><strong>Moneyline:</strong> Troy Trojans (-225) | Texas State Bobcats (+187)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Troy Trojans**: -5.5, Edge For Covering Spread: -5.7%
-- **Texas State Bobcats**: 5.5, Edge For Covering Spread: **1.0%**
+- **Troy Trojans**: -5.5, Edge For Covering Spread: -4.9%
+- **Texas State Bobcats**: 5.5, Edge For Covering Spread: **0.2%**
 
 ### Moneyline
-- **Troy Trojans Win Probability**: 64.7%, Moneyline Edge: -4.5%
-- **Texas State Bobcats Win Probability**: 35.3%, Moneyline Edge: **0.2%**
+- **Troy Trojans Win Probability**: 64.8%, Moneyline Edge: -4.5%
+- **Texas State Bobcats Win Probability**: 35.2%, Moneyline Edge: **0.4%**
 
 ### Total
 - **Predicted Total**: 140.5

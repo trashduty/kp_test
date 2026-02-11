@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> VCU Rams -12.5</p>
-  <p><strong>Moneyline:</strong> VCU Rams (-948) | La Salle Explorers (+600)</p>
+  <p><strong>Moneyline:</strong> VCU Rams (-838) | La Salle Explorers (+550)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **VCU Rams**: -12.5, Edge For Covering Spread: -3.2%
-- **La Salle Explorers**: 12.5, Edge For Covering Spread: -1.6%
+- **VCU Rams**: -12.5, Edge For Covering Spread: -2.1%
+- **La Salle Explorers**: 12.5, Edge For Covering Spread: -2.5%
 
 ### Moneyline
-- **VCU Rams Win Probability**: 84.6%, Moneyline Edge: -5.8%
-- **La Salle Explorers Win Probability**: 15.4%, Moneyline Edge: **1.1%**
+- **VCU Rams Win Probability**: 84.1%, Moneyline Edge: -5.3%
+- **La Salle Explorers Win Probability**: 15.9%, Moneyline Edge: **0.5%**
 
 ### Total
 - **Predicted Total**: 147.0

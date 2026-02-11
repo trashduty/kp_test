@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arkansas St Red Wolves -19.5</p>
-  <p><strong>Moneyline:</strong> UL Monroe Warhawks (+1400) | Arkansas St Red Wolves (-3200)</p>
+  <p><strong>Moneyline:</strong> UL Monroe Warhawks (+1448) | Arkansas St Red Wolves (-3907)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UL Monroe Warhawks**: 19.5, Edge For Covering Spread: -4.0%
-- **Arkansas St Red Wolves**: -19.5, Edge For Covering Spread: -0.8%
+- **UL Monroe Warhawks**: 19.5, Edge For Covering Spread: -4.5%
+- **Arkansas St Red Wolves**: -19.5, Edge For Covering Spread: -0.2%
 
 ### Moneyline
-- **UL Monroe Warhawks Win Probability**: 5.2%, Moneyline Edge: -1.5%
-- **Arkansas St Red Wolves Win Probability**: 94.8%, Moneyline Edge: -2.2%
+- **UL Monroe Warhawks Win Probability**: 5.1%, Moneyline Edge: -1.4%
+- **Arkansas St Red Wolves Win Probability**: 94.9%, Moneyline Edge: -2.6%
 
 ### Total
 - **Predicted Total**: 161.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- Edge For Covering The Over: -1.4%
+- Edge For Covering The Under: -3.7%
 
 ---
 

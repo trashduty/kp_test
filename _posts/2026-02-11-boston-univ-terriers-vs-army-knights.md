@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Boston Univ. Terriers -2.5</p>
-  <p><strong>Moneyline:</strong> Boston Univ. Terriers (-165) | Army Knights (+140)</p>
+  <p><strong>Spread:</strong> Boston Univ. Terriers -3.5</p>
+  <p><strong>Moneyline:</strong> Boston Univ. Terriers (-170) | Army Knights (+142)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Boston Univ. Terriers**: -2.5, Edge For Covering Spread: -5.8%
-- **Army Knights**: 2.5, Edge For Covering Spread: **1.2%**
+- **Boston Univ. Terriers**: -3.5, Edge For Covering Spread: -3.9%
+- **Army Knights**: 3.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Boston Univ. Terriers Win Probability**: 57.1%, Moneyline Edge: -5.2%
-- **Army Knights Win Probability**: 42.9%, Moneyline Edge: **1.3%**
+- **Boston Univ. Terriers Win Probability**: 57.2%, Moneyline Edge: -5.7%
+- **Army Knights Win Probability**: 42.8%, Moneyline Edge: **1.4%**
 
 ### Total
-- **Predicted Total**: 143.0
-- Edge For Covering The Over: -0.4%
-- Edge For Covering The Under: -4.3%
+- **Predicted Total**: 142.0
+- Edge For Covering The Over: -0.0%
+- Edge For Covering The Under: -4.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Boston Univ. Terriers (10-15) travels to face Army Knights (10-15) at Christl Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Boston Univ. Terriers favored by 2.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Boston Univ. Terriers (10-15) travels to face Army Knights (10-15) at Christl Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Boston Univ. Terriers favored by 3.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Boston Univ. Terriers's 2.5-point cushion reflects home court advantage more than a talent gap. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.5-point spread indicates Boston Univ. Terriers is viewed as the better team, but this isn't an overwhelming edge. Army Knights has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Boston Univ. Terriers** bring an offensive efficiency of 111.82 (ranked #104 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 37.8% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

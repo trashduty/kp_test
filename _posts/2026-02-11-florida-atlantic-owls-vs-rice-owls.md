@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Florida Atlantic Owls -3.5</p>
-  <p><strong>Moneyline:</strong> Florida Atlantic Owls (-162) | Rice Owls (+136)</p>
+  <p><strong>Moneyline:</strong> Florida Atlantic Owls (-177) | Rice Owls (+150)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Atlantic Owls**: -3.5, Edge For Covering Spread: -0.3%
-- **Rice Owls**: 3.5, Edge For Covering Spread: -4.4%
+- **Florida Atlantic Owls**: -3.5, Edge For Covering Spread: -3.4%
+- **Rice Owls**: 3.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **Florida Atlantic Owls Win Probability**: 62.2%, Moneyline Edge: **0.3%**
-- **Rice Owls Win Probability**: 37.8%, Moneyline Edge: -4.5%
+- **Florida Atlantic Owls Win Probability**: 63.3%, Moneyline Edge: -0.7%
+- **Rice Owls Win Probability**: 36.7%, Moneyline Edge: -3.3%
 
 ### Total
 - **Predicted Total**: 151.5

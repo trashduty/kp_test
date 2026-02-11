@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan Wolverines -15.5</p>
-  <p><strong>Moneyline:</strong> Michigan Wolverines (-1809) | Northwestern Wildcats (+965)</p>
+  <p><strong>Moneyline:</strong> Michigan Wolverines (-1722) | Northwestern Wildcats (+935)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Northwestern Wildcats**: 15.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Michigan Wolverines Win Probability**: 91.5%, Moneyline Edge: -3.3%
-- **Northwestern Wildcats Win Probability**: 8.5%, Moneyline Edge: -0.9%
+- **Michigan Wolverines Win Probability**: 91.4%, Moneyline Edge: -3.1%
+- **Northwestern Wildcats Win Probability**: 8.6%, Moneyline Edge: -1.0%
 
 ### Total
 - **Predicted Total**: 153.0

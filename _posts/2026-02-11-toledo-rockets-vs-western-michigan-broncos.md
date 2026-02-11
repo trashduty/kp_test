@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Toledo Rockets -6.5</p>
-  <p><strong>Moneyline:</strong> Toledo Rockets (-275) | Western Michigan Broncos (+225)</p>
+  <p><strong>Moneyline:</strong> Toledo Rockets (-275) | Western Michigan Broncos (+222)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Toledo Rockets**: -6.5, Edge For Covering Spread: -4.4%
-- **Western Michigan Broncos**: 6.5, Edge For Covering Spread: -0.3%
+- **Toledo Rockets**: -6.5, Edge For Covering Spread: -4.5%
+- **Western Michigan Broncos**: 6.5, Edge For Covering Spread: -0.2%
 
 ### Moneyline
-- **Toledo Rockets Win Probability**: 67.2%, Moneyline Edge: -6.1%
-- **Western Michigan Broncos Win Probability**: 32.8%, Moneyline Edge: **2.0%**
+- **Toledo Rockets Win Probability**: 67.1%, Moneyline Edge: -6.2%
+- **Western Michigan Broncos Win Probability**: 32.9%, Moneyline Edge: **1.8%**
 
 ### Total
 - **Predicted Total**: 156.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -1.2%
+- Edge For Covering The Under: -3.5%
 
 ---
 

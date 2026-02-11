@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> South Dakota Coyotes -1.5</p>
-  <p><strong>Moneyline:</strong> North Dakota Fighting Hawks (+105) | South Dakota Coyotes (-125)</p>
+  <p><strong>Moneyline:</strong> North Dakota Fighting Hawks (+103) | South Dakota Coyotes (-123)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **North Dakota Fighting Hawks**: 1.5, Edge For Covering Spread: -5.1%
-- **South Dakota Coyotes**: -1.5, Edge For Covering Spread: **0.4%**
+- **North Dakota Fighting Hawks**: 1.5, Edge For Covering Spread: -5.6%
+- **South Dakota Coyotes**: -1.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **North Dakota Fighting Hawks Win Probability**: 41.4%, Moneyline Edge: -7.4%
-- **South Dakota Coyotes Win Probability**: 58.6%, Moneyline Edge: **3.1%**
+- **North Dakota Fighting Hawks Win Probability**: 41.5%, Moneyline Edge: -7.6%
+- **South Dakota Coyotes Win Probability**: 58.5%, Moneyline Edge: **3.2%**
 
 ### Total
 - **Predicted Total**: 157.5
-- Edge For Covering The Over: **0.5%**
-- Edge For Covering The Under: -5.2%
+- Edge For Covering The Over: -0.1%
+- Edge For Covering The Under: -5.1%
 
 ---
 

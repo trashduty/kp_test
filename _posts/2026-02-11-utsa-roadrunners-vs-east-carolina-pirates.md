@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> East Carolina Pirates -11.5</p>
-  <p><strong>Moneyline:</strong> UTSA Roadrunners (+450) | East Carolina Pirates (-625)</p>
+  <p><strong>Spread:</strong> East Carolina Pirates -10.5</p>
+  <p><strong>Moneyline:</strong> UTSA Roadrunners (+450) | East Carolina Pirates (-661)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UTSA Roadrunners**: 11.5, Edge For Covering Spread: -2.5%
-- **East Carolina Pirates**: -11.5, Edge For Covering Spread: -2.1%
+- **UTSA Roadrunners**: 10.5, Edge For Covering Spread: -1.7%
+- **East Carolina Pirates**: -10.5, Edge For Covering Spread: -3.1%
 
 ### Moneyline
 - **UTSA Roadrunners Win Probability**: 17.2%, Moneyline Edge: -1.0%
-- **East Carolina Pirates Win Probability**: 82.8%, Moneyline Edge: -3.4%
+- **East Carolina Pirates Win Probability**: 82.8%, Moneyline Edge: -4.0%
 
 ### Total
-- **Predicted Total**: 148.0
-- Edge For Covering The Over: -4.6%
+- **Predicted Total**: 147.5
+- Edge For Covering The Over: -5.0%
 - Edge For Covering The Under: -0.1%
 
 ---
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-East Carolina Pirates (7-16) hosts UTSA Roadrunners (4-19) at Williams Arena at Minges Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into East Carolina Pirates favored by 11.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+East Carolina Pirates (7-16) hosts UTSA Roadrunners (4-19) at Williams Arena at Minges Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into East Carolina Pirates favored by 10.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us East Carolina Pirates has clear advantages, but games aren't played on paper. UTSA Roadrunners needs to punch above their weight class to keep this close. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 10.5 points tells us East Carolina Pirates has clear advantages, but games aren't played on paper. UTSA Roadrunners needs to punch above their weight class to keep this close. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **UTSA Roadrunners** bring an offensive efficiency of 94.32 (ranked #354 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 27.9% from three, they can't rely on the arc. Expect a paint-focused attack. 

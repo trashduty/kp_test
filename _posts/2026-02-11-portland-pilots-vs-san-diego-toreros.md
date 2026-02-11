@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> San Diego Toreros -2.5</p>
-  <p><strong>Moneyline:</strong> Portland Pilots (+105) | San Diego Toreros (-125)</p>
+  <p><strong>Moneyline:</strong> Portland Pilots (+115) | San Diego Toreros (-140)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Portland Pilots**: 2.5, Edge For Covering Spread: -0.3%
-- **San Diego Toreros**: -2.5, Edge For Covering Spread: -4.4%
+- **Portland Pilots**: 2.5, Edge For Covering Spread: -0.8%
+- **San Diego Toreros**: -2.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Portland Pilots Win Probability**: 44.9%, Moneyline Edge: -3.9%
-- **San Diego Toreros Win Probability**: 55.1%, Moneyline Edge: -0.4%
+- **Portland Pilots Win Probability**: 43.7%, Moneyline Edge: -2.8%
+- **San Diego Toreros Win Probability**: 56.3%, Moneyline Edge: -2.0%
 
 ### Total
 - **Predicted Total**: 153.5

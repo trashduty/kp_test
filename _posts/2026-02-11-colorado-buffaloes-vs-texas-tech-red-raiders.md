@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Texas Tech Red Raiders -14.5</p>
-  <p><strong>Moneyline:</strong> Colorado Buffaloes (+855) | Texas Tech Red Raiders (-1522)</p>
+  <p><strong>Spread:</strong> Texas Tech Red Raiders -14.0</p>
+  <p><strong>Moneyline:</strong> Colorado Buffaloes (+800) | Texas Tech Red Raiders (-1375)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Colorado Buffaloes**: 14.5, Edge For Covering Spread: -4.0%
-- **Texas Tech Red Raiders**: -14.5, Edge For Covering Spread: -2.4%
+- **Colorado Buffaloes**: 14.0, Edge For Covering Spread: -2.6%
+- **Texas Tech Red Raiders**: -14.0, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Colorado Buffaloes Win Probability**: 9.4%, Moneyline Edge: -1.0%
-- **Texas Tech Red Raiders Win Probability**: 90.6%, Moneyline Edge: -3.3%
+- **Colorado Buffaloes Win Probability**: 9.8%, Moneyline Edge: -1.3%
+- **Texas Tech Red Raiders Win Probability**: 90.2%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 157.0
 - Edge For Covering The Over: -1.1%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Under: -3.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Texas Tech Red Raiders (17-6) hosts Colorado Buffaloes (14-10) at United Supermarkets Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Texas Tech Red Raiders favored by 14.5 points, with the total sitting at 157.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Texas Tech Red Raiders (17-6) hosts Colorado Buffaloes (14-10) at United Supermarkets Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Texas Tech Red Raiders favored by 14.0 points, with the total sitting at 157.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 14.5-point spread screams mismatch. The books are asking Colorado Buffaloes to hang within two possessions, which based on the profiles, requires Texas Tech Red Raiders to play below their standard. The total of 157.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 14.0-point spread screams mismatch. The books are asking Colorado Buffaloes to hang within two possessions, which based on the profiles, requires Texas Tech Red Raiders to play below their standard. The total of 157.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Colorado Buffaloes** bring an offensive efficiency of 115.73 (ranked #65 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 36.0% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

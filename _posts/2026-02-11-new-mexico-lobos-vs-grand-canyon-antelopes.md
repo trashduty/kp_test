@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Grand Canyon Antelopes -1.5</p>
-  <p><strong>Moneyline:</strong> New Mexico Lobos (-100) | Grand Canyon Antelopes (-120)</p>
+  <p><strong>Moneyline:</strong> New Mexico Lobos (+101) | Grand Canyon Antelopes (-121)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **New Mexico Lobos**: 1.5, Edge For Covering Spread: -3.5%
-- **Grand Canyon Antelopes**: -1.5, Edge For Covering Spread: -1.2%
+- **New Mexico Lobos**: 1.5, Edge For Covering Spread: -3.2%
+- **Grand Canyon Antelopes**: -1.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **New Mexico Lobos Win Probability**: 44.4%, Moneyline Edge: -5.6%
-- **Grand Canyon Antelopes Win Probability**: 55.6%, Moneyline Edge: **1.0%**
+- **New Mexico Lobos Win Probability**: 44.3%, Moneyline Edge: -5.4%
+- **Grand Canyon Antelopes Win Probability**: 55.7%, Moneyline Edge: **0.9%**
 
 ### Total
 - **Predicted Total**: 148.0
-- Edge For Covering The Over: -6.4%
-- Edge For Covering The Under: **1.7%**
+- Edge For Covering The Over: -6.6%
+- Edge For Covering The Under: **0.2%**
 
 ---
 

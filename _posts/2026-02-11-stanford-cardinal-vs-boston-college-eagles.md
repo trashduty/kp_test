@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Stanford Cardinal -1.5</p>
-  <p><strong>Moneyline:</strong> Stanford Cardinal (-132) | Boston College Eagles (+110)</p>
+  <p><strong>Moneyline:</strong> Stanford Cardinal (-135) | Boston College Eagles (+112)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Stanford Cardinal**: -1.5, Edge For Covering Spread: -1.3%
-- **Boston College Eagles**: 1.5, Edge For Covering Spread: -3.5%
+- **Stanford Cardinal**: -1.5, Edge For Covering Spread: -2.1%
+- **Boston College Eagles**: 1.5, Edge For Covering Spread: -2.5%
 
 ### Moneyline
-- **Stanford Cardinal Win Probability**: 56.2%, Moneyline Edge: -0.7%
-- **Boston College Eagles Win Probability**: 43.8%, Moneyline Edge: -3.9%
+- **Stanford Cardinal Win Probability**: 56.5%, Moneyline Edge: -1.0%
+- **Boston College Eagles Win Probability**: 43.5%, Moneyline Edge: -3.5%
 
 ### Total
-- **Predicted Total**: 137.5
-- Edge For Covering The Over: -5.6%
-- Edge For Covering The Under: -0.9%
+- **Predicted Total**: 137.0
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -0.0%
 
 ---
 

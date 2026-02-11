@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Samford Bulldogs -4.5</p>
-  <p><strong>Moneyline:</strong> Wofford Terriers (+165) | Samford Bulldogs (-198)</p>
+  <p><strong>Moneyline:</strong> Wofford Terriers (+164) | Samford Bulldogs (-199)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Samford Bulldogs**: -4.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **Wofford Terriers Win Probability**: 39.6%, Moneyline Edge: **1.9%**
-- **Samford Bulldogs Win Probability**: 60.4%, Moneyline Edge: -6.1%
+- **Wofford Terriers Win Probability**: 39.6%, Moneyline Edge: **1.8%**
+- **Samford Bulldogs Win Probability**: 60.4%, Moneyline Edge: -6.2%
 
 ### Total
-- **Predicted Total**: 151.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 150.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -4.3%
 
 ---
 

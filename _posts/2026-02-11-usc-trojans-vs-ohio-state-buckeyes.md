@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Ohio State Buckeyes -7.5</p>
-  <p><strong>Moneyline:</strong> USC Trojans (+275) | Ohio State Buckeyes (-350)</p>
+  <p><strong>Moneyline:</strong> USC Trojans (+260) | Ohio State Buckeyes (-325)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Ohio State Buckeyes**: -7.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **USC Trojans Win Probability**: 26.8%, Moneyline Edge: **0.1%**
-- **Ohio State Buckeyes Win Probability**: 73.2%, Moneyline Edge: -4.5%
+- **USC Trojans Win Probability**: 27.3%, Moneyline Edge: -0.5%
+- **Ohio State Buckeyes Win Probability**: 72.7%, Moneyline Edge: -3.8%
 
 ### Total
 - **Predicted Total**: 151.5
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -1.9%
+- Edge For Covering The Under: -4.4%
 
 ---
 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Bowling Green Falcons -6.5</p>
-  <p><strong>Moneyline:</strong> Bowling Green Falcons (-278) | Northern Illinois Huskies (+225)</p>
+  <p><strong>Spread:</strong> Bowling Green Falcons -7.5</p>
+  <p><strong>Moneyline:</strong> Bowling Green Falcons (-325) | Northern Illinois Huskies (+260)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bowling Green Falcons**: -6.5, Edge For Covering Spread: -5.2%
-- **Northern Illinois Huskies**: 6.5, Edge For Covering Spread: **0.5%**
+- **Bowling Green Falcons**: -7.5, Edge For Covering Spread: -2.9%
+- **Northern Illinois Huskies**: 7.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Bowling Green Falcons Win Probability**: 71.8%, Moneyline Edge: -1.8%
-- **Northern Illinois Huskies Win Probability**: 28.2%, Moneyline Edge: -2.5%
+- **Bowling Green Falcons Win Probability**: 73.2%, Moneyline Edge: -3.3%
+- **Northern Illinois Huskies Win Probability**: 26.8%, Moneyline Edge: -1.0%
 
 ### Total
-- **Predicted Total**: 141.5
-- Edge For Covering The Over: -4.4%
-- Edge For Covering The Under: -0.4%
+- **Predicted Total**: 142.0
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Bowling Green Falcons (14-10) enters hostile territory as they take on Northern Illinois Huskies (8-14) at Convocation Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Bowling Green Falcons favored by 6.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Bowling Green Falcons (14-10) enters hostile territory as they take on Northern Illinois Huskies (8-14) at Convocation Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Bowling Green Falcons favored by 7.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates Bowling Green Falcons is viewed as the better team, but this isn't an overwhelming edge. Northern Illinois Huskies has a legitimate path to covering or winning outright. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 7.5 points tells us Bowling Green Falcons has clear advantages, but games aren't played on paper. Northern Illinois Huskies needs to punch above their weight class to keep this close. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Bowling Green Falcons** bring an offensive efficiency of 109.27 (ranked #157 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.6% three-point shooting is serviceable but won't scare anyone. 

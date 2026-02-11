@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Cincinnati Bearcats -2.5</p>
-  <p><strong>Moneyline:</strong> Cincinnati Bearcats (-136) | Kansas St Wildcats (+115)</p>
+  <p><strong>Moneyline:</strong> Cincinnati Bearcats (-140) | Kansas St Wildcats (+116)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Kansas St Wildcats**: 2.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Cincinnati Bearcats Win Probability**: 55.7%, Moneyline Edge: -2.0%
-- **Kansas St Wildcats Win Probability**: 44.3%, Moneyline Edge: -2.2%
+- **Cincinnati Bearcats Win Probability**: 55.9%, Moneyline Edge: -2.4%
+- **Kansas St Wildcats Win Probability**: 44.1%, Moneyline Edge: -2.1%
 
 ### Total
 - **Predicted Total**: 148.0
-- Edge For Covering The Over: -4.9%
-- Edge For Covering The Under: -1.5%
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.3%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UNC Greensboro Spartans -8.5</p>
-  <p><strong>Moneyline:</strong> VMI Keydets (+320) | UNC Greensboro Spartans (-425)</p>
+  <p><strong>Moneyline:</strong> VMI Keydets (+331) | UNC Greensboro Spartans (-445)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **VMI Keydets**: 8.5, Edge For Covering Spread: -4.0%
-- **UNC Greensboro Spartans**: -8.5, Edge For Covering Spread: -0.8%
+- **VMI Keydets**: 8.5, Edge For Covering Spread: -3.5%
+- **UNC Greensboro Spartans**: -8.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **VMI Keydets Win Probability**: 19.5%, Moneyline Edge: -4.3%
-- **UNC Greensboro Spartans Win Probability**: 80.5%, Moneyline Edge: -0.5%
+- **VMI Keydets Win Probability**: 19.3%, Moneyline Edge: -3.9%
+- **UNC Greensboro Spartans Win Probability**: 80.7%, Moneyline Edge: -0.9%
 
 ### Total
 - **Predicted Total**: 150.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -2.9%
 
 ---
 

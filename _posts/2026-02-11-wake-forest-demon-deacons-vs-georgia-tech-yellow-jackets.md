@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wake Forest Demon Deacons -2.5</p>
-  <p><strong>Moneyline:</strong> Wake Forest Demon Deacons (-150) | Georgia Tech Yellow Jackets (+125)</p>
+  <p><strong>Moneyline:</strong> Wake Forest Demon Deacons (-153) | Georgia Tech Yellow Jackets (+128)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Georgia Tech Yellow Jackets**: 2.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Wake Forest Demon Deacons Win Probability**: 57.8%, Moneyline Edge: -2.2%
-- **Georgia Tech Yellow Jackets Win Probability**: 42.2%, Moneyline Edge: -2.1%
+- **Wake Forest Demon Deacons Win Probability**: 58.0%, Moneyline Edge: -2.6%
+- **Georgia Tech Yellow Jackets Win Probability**: 42.0%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 156.5
 - Edge For Covering The Over: -6.9%
-- Edge For Covering The Under: **0.5%**
+- Edge For Covering The Under: **2.2%**
 
 ---
 

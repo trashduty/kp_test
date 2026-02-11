@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Santa Clara Broncos -13.5</p>
-  <p><strong>Moneyline:</strong> Seattle Redhawks (+829) | Santa Clara Broncos (-1465)</p>
+  <p><strong>Moneyline:</strong> Seattle Redhawks (+769) | Santa Clara Broncos (-1271)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Seattle Redhawks**: 13.5, Edge For Covering Spread: -1.5%
-- **Santa Clara Broncos**: -13.5, Edge For Covering Spread: -3.5%
+- **Seattle Redhawks**: 13.5, Edge For Covering Spread: -2.4%
+- **Santa Clara Broncos**: -13.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Seattle Redhawks Win Probability**: 10.7%, Moneyline Edge: -0.1%
-- **Santa Clara Broncos Win Probability**: 89.3%, Moneyline Edge: -4.3%
+- **Seattle Redhawks Win Probability**: 11.0%, Moneyline Edge: -0.5%
+- **Santa Clara Broncos Win Probability**: 89.0%, Moneyline Edge: -3.7%
 
 ### Total
 - **Predicted Total**: 144.0
