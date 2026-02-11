@@ -3238,5 +3238,25 @@
   "Lindenwood Lions vs. Tenn-Martin Skyhawks|Lindenwood Lions|spread": {
     "captured_at": "2026-02-11T21:16:26.853192+00:00",
     "edge_type": "spread"
+  },
+  "Green Bay Phoenix vs. Fort Wayne Mastodons|Green Bay Phoenix|moneyline": {
+    "captured_at": "2026-02-11T22:12:13.963726+00:00",
+    "edge_type": "moneyline"
+  },
+  "SIU-Edwardsville Cougars vs. SE Missouri St Redhawks|SIU-Edwardsville Cougars|spread": {
+    "captured_at": "2026-02-11T22:12:13.965946+00:00",
+    "edge_type": "spread"
+  },
+  "SIU-Edwardsville Cougars vs. SE Missouri St Redhawks|SIU-Edwardsville Cougars|moneyline": {
+    "captured_at": "2026-02-11T22:12:13.965981+00:00",
+    "edge_type": "moneyline"
+  },
+  "North Texas Mean Green vs. Memphis Tigers|under": {
+    "captured_at": "2026-02-11T22:12:13.966340+00:00",
+    "edge_type": "under"
+  },
+  "Abilene Christian Wildcats vs. UT-Arlington Mavericks|under": {
+    "captured_at": "2026-02-11T22:12:13.966886+00:00",
+    "edge_type": "under"
   }
 }
