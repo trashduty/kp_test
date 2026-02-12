@@ -3294,5 +3294,21 @@
   "Duke Blue Devils vs. Michigan Wolverines|Michigan Wolverines|moneyline": {
     "captured_at": "2026-02-12T18:25:02.498219+00:00",
     "edge_type": "moneyline"
+  },
+  "Pennsylvania Quakers vs. Columbia Lions|Pennsylvania Quakers|moneyline": {
+    "captured_at": "2026-02-12T19:27:02.574467+00:00",
+    "edge_type": "moneyline"
+  },
+  "Loyola (Chi) Ramblers vs. Saint Louis Billikens|Saint Louis Billikens|spread": {
+    "captured_at": "2026-02-12T19:27:02.575599+00:00",
+    "edge_type": "spread"
+  },
+  "Miami (OH) RedHawks vs. Ohio Bobcats|Miami (OH) RedHawks|spread": {
+    "captured_at": "2026-02-12T19:27:02.575787+00:00",
+    "edge_type": "spread"
+  },
+  "Hampton Pirates vs. North Carolina A&T Aggies|North Carolina A&T Aggies|spread": {
+    "captured_at": "2026-02-12T19:27:02.576243+00:00",
+    "edge_type": "spread"
   }
 }
