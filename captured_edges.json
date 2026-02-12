@@ -3270,5 +3270,21 @@
   "Eastern Washington Eagles vs. Idaho State Bengals|Eastern Washington Eagles|moneyline": {
     "captured_at": "2026-02-12T00:36:55.156152+00:00",
     "edge_type": "moneyline"
+  },
+  "Charleston Southern Buccaneers vs. Presbyterian Blue Hose|Charleston Southern Buccaneers|spread": {
+    "captured_at": "2026-02-12T01:39:25.459178+00:00",
+    "edge_type": "spread"
+  },
+  "Charleston Southern Buccaneers vs. Presbyterian Blue Hose|Charleston Southern Buccaneers|moneyline": {
+    "captured_at": "2026-02-12T01:39:25.459220+00:00",
+    "edge_type": "moneyline"
+  },
+  "Wagner Seahawks vs. LIU Sharks|over": {
+    "captured_at": "2026-02-12T01:39:25.459402+00:00",
+    "edge_type": "over"
+  },
+  "South Carolina Upstate Spartans vs. High Point Panthers|South Carolina Upstate Spartans|spread": {
+    "captured_at": "2026-02-12T01:39:25.460712+00:00",
+    "edge_type": "spread"
   }
 }
