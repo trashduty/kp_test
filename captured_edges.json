@@ -3286,5 +3286,13 @@
   "South Carolina Upstate Spartans vs. High Point Panthers|South Carolina Upstate Spartans|spread": {
     "captured_at": "2026-02-12T01:39:25.460712+00:00",
     "edge_type": "spread"
+  },
+  "Duke Blue Devils vs. Michigan Wolverines|Michigan Wolverines|spread": {
+    "captured_at": "2026-02-12T18:25:02.498176+00:00",
+    "edge_type": "spread"
+  },
+  "Duke Blue Devils vs. Michigan Wolverines|Michigan Wolverines|moneyline": {
+    "captured_at": "2026-02-12T18:25:02.498219+00:00",
+    "edge_type": "moneyline"
   }
 }
