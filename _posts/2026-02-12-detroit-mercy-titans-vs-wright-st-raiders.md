@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wright St Raiders -10.5</p>
-  <p><strong>Moneyline:</strong> Detroit Mercy Titans (+440) | Wright St Raiders (-610)</p>
+  <p><strong>Moneyline:</strong> Detroit Mercy Titans (+450) | Wright St Raiders (-670)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Wright St Raiders**: -10.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Detroit Mercy Titans Win Probability**: 16.9%, Moneyline Edge: -1.6%
-- **Wright St Raiders Win Probability**: 83.1%, Moneyline Edge: -2.8%
+- **Detroit Mercy Titans Win Probability**: 16.7%, Moneyline Edge: -1.5%
+- **Wright St Raiders Win Probability**: 83.3%, Moneyline Edge: -3.7%
 
 ### Total
 - **Predicted Total**: 153.0

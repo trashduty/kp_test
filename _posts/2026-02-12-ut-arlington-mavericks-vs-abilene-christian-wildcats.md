@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UT-Arlington Mavericks**: -1.5, Edge For Covering Spread: -2.4%
-- **Abilene Christian Wildcats**: 1.5, Edge For Covering Spread: -3.1%
+- **UT-Arlington Mavericks**: -1.5, Edge For Covering Spread: 0.0%
+- **Abilene Christian Wildcats**: 1.5, Edge For Covering Spread: -4.5%
 
 ### Moneyline
 - **UT-Arlington Mavericks Win Probability**: 53.3%, Moneyline Edge: -0.7%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 133.5
-- Edge For Covering The Over: -8.1%
-- Edge For Covering The Under: **3.3%**
+- Edge For Covering The Over: -8.6%
+- Edge For Covering The Under: **3.9%**
 
 ---
 

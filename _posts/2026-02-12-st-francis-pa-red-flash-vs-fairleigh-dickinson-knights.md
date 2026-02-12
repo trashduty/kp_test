@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Fairleigh Dickinson Knights -6.5</p>
-  <p><strong>Moneyline:</strong> St. Francis (PA) Red Flash (+200) | Fairleigh Dickinson Knights (-250)</p>
+  <p><strong>Moneyline:</strong> St. Francis (PA) Red Flash (+225) | Fairleigh Dickinson Knights (-275)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Fairleigh Dickinson Knights**: -6.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **St. Francis (PA) Red Flash Win Probability**: 28.8%, Moneyline Edge: -4.6%
-- **Fairleigh Dickinson Knights Win Probability**: 71.2%, Moneyline Edge: -0.2%
+- **St. Francis (PA) Red Flash Win Probability**: 27.6%, Moneyline Edge: -3.1%
+- **Fairleigh Dickinson Knights Win Probability**: 72.4%, Moneyline Edge: -1.0%
 
 ### Total
 - **Predicted Total**: 146.5

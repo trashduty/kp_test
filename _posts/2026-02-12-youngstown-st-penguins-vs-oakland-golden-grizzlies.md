@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Oakland Golden Grizzlies -4.5</p>
-  <p><strong>Moneyline:</strong> Youngstown St Penguins (+172) | Oakland Golden Grizzlies (-207)</p>
+  <p><strong>Moneyline:</strong> Youngstown St Penguins (+182) | Oakland Golden Grizzlies (-222)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Oakland Golden Grizzlies**: -4.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Youngstown St Penguins Win Probability**: 31.6%, Moneyline Edge: -5.1%
-- **Oakland Golden Grizzlies Win Probability**: 68.4%, Moneyline Edge: **0.9%**
+- **Youngstown St Penguins Win Probability**: 31.0%, Moneyline Edge: -4.4%
+- **Oakland Golden Grizzlies Win Probability**: 69.0%, Moneyline Edge: **0.1%**
 
 ### Total
 - **Predicted Total**: 156.5
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -4.5%
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -3.4%
 
 ---
 

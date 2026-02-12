@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UMBC Retrievers -3.5</p>
-  <p><strong>Moneyline:</strong> UMBC Retrievers (-165) | Maine Black Bears (+140)</p>
+  <p><strong>Moneyline:</strong> UMBC Retrievers (-184) | Maine Black Bears (+152)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UMBC Retrievers**: -3.5, Edge For Covering Spread: -0.5%
-- **Maine Black Bears**: 3.5, Edge For Covering Spread: -4.5%
+- **UMBC Retrievers**: -3.5, Edge For Covering Spread: -2.4%
+- **Maine Black Bears**: 3.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **UMBC Retrievers Win Probability**: 62.5%, Moneyline Edge: **0.2%**
-- **Maine Black Bears Win Probability**: 37.5%, Moneyline Edge: -4.1%
+- **UMBC Retrievers Win Probability**: 63.5%, Moneyline Edge: -1.3%
+- **Maine Black Bears Win Probability**: 36.5%, Moneyline Edge: -3.2%
 
 ### Total
 - **Predicted Total**: 133.5
-- Edge For Covering The Over: -6.6%
-- Edge For Covering The Under: **1.9%**
+- Edge For Covering The Over: -5.0%
+- Edge For Covering The Under: **0.3%**
 
 ---
 

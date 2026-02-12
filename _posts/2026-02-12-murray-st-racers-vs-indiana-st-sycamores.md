@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Murray St Racers -3.5</p>
-  <p><strong>Moneyline:</strong> Murray St Racers (-192) | Indiana St Sycamores (+162)</p>
+  <p><strong>Moneyline:</strong> Murray St Racers (-177) | Indiana St Sycamores (+147)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Murray St Racers**: -3.5, Edge For Covering Spread: -4.2%
-- **Indiana St Sycamores**: 3.5, Edge For Covering Spread: -0.5%
+- **Murray St Racers**: -3.5, Edge For Covering Spread: -4.8%
+- **Indiana St Sycamores**: 3.5, Edge For Covering Spread: **0.0%**
 
 ### Moneyline
-- **Murray St Racers Win Probability**: 62.6%, Moneyline Edge: -3.2%
-- **Indiana St Sycamores Win Probability**: 37.4%, Moneyline Edge: -0.8%
+- **Murray St Racers Win Probability**: 61.6%, Moneyline Edge: -2.3%
+- **Indiana St Sycamores Win Probability**: 38.4%, Moneyline Edge: -2.1%
 
 ### Total
 - **Predicted Total**: 164.0
 - Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 

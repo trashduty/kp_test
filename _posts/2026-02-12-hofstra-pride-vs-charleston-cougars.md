@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Pick'em</p>
-  <p><strong>Moneyline:</strong> Hofstra Pride (-109) | Charleston Cougars (-110)</p>
+  <p><strong>Spread:</strong> Charleston Cougars -0.5</p>
+  <p><strong>Moneyline:</strong> Hofstra Pride (-110) | Charleston Cougars (-110)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Hofstra Pride**: 0.0, Edge For Covering Spread: -0.8%
-- **Charleston Cougars**: 0.0, Edge For Covering Spread: -4.4%
+- **Hofstra Pride**: 0.5, Edge For Covering Spread: **0.8%**
+- **Charleston Cougars**: -0.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **Hofstra Pride Win Probability**: 54.0%, Moneyline Edge: **1.7%**
-- **Charleston Cougars Win Probability**: 46.0%, Moneyline Edge: -6.3%
+- **Hofstra Pride Win Probability**: 54.0%, Moneyline Edge: **1.6%**
+- **Charleston Cougars Win Probability**: 46.0%, Moneyline Edge: -6.4%
 
 ### Total
 - **Predicted Total**: 146.5
-- Edge For Covering The Over: N/A
-- Edge For Covering The Under: N/A
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -0.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Hofstra Pride (16-9) travels to face Charleston Cougars (16-9) at TD Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Charleston Cougars favored by 0.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Hofstra Pride (16-9) travels to face Charleston Cougars (16-9) at TD Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Charleston Cougars favored by 0.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Charleston Cougars's 0.0-point cushion reflects home court advantage more than a talent gap. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Charleston Cougars's 0.5-point cushion reflects home court advantage more than a talent gap. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Hofstra Pride** bring an offensive efficiency of 113.31 (ranked #84 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 38.2% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

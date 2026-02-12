@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Vermont Catamounts -11.5</p>
-  <p><strong>Moneyline:</strong> Vermont Catamounts (-683) | Binghamton Bearcats (+487)</p>
+  <p><strong>Moneyline:</strong> Vermont Catamounts (-720) | Binghamton Bearcats (+475)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -25,16 +25,16 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **Vermont Catamounts**: -11.5, Edge For Covering Spread: -2.2%
-- **Binghamton Bearcats**: 11.5, Edge For Covering Spread: -2.6%
+- **Binghamton Bearcats**: 11.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Vermont Catamounts Win Probability**: 82.8%, Moneyline Edge: -4.4%
-- **Binghamton Bearcats Win Probability**: 17.2%, Moneyline Edge: **0.1%**
+- **Vermont Catamounts Win Probability**: 82.7%, Moneyline Edge: -5.1%
+- **Binghamton Bearcats Win Probability**: 17.3%, Moneyline Edge: -0.1%
 
 ### Total
-- **Predicted Total**: 138.5
-- Edge For Covering The Over: -0.3%
-- Edge For Covering The Under: -4.4%
+- **Predicted Total**: 139.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.1%
 
 ---
 

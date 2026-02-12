@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Northern Kentucky Norse -5.5</p>
-  <p><strong>Moneyline:</strong> Northern Kentucky Norse (-255) | IUPUI Jaguars (+210)</p>
+  <p><strong>Moneyline:</strong> Northern Kentucky Norse (-222) | IUPUI Jaguars (+185)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northern Kentucky Norse**: -5.5, Edge For Covering Spread: -4.0%
-- **IUPUI Jaguars**: 5.5, Edge For Covering Spread: -0.8%
+- **Northern Kentucky Norse**: -5.5, Edge For Covering Spread: -2.8%
+- **IUPUI Jaguars**: 5.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Northern Kentucky Norse Win Probability**: 68.2%, Moneyline Edge: -3.6%
-- **IUPUI Jaguars Win Probability**: 31.8%, Moneyline Edge: -0.4%
+- **Northern Kentucky Norse Win Probability**: 66.8%, Moneyline Edge: -2.2%
+- **IUPUI Jaguars Win Probability**: 33.2%, Moneyline Edge: -1.9%
 
 ### Total
-- **Predicted Total**: 164.0
-- Edge For Covering The Over: -0.0%
-- Edge For Covering The Under: -4.7%
+- **Predicted Total**: 164.5
+- Edge For Covering The Over: **0.7%**
+- Edge For Covering The Under: -5.5%
 
 ---
 

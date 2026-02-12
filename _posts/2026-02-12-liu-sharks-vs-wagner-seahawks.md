@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> LIU Sharks -7.0</p>
-  <p><strong>Moneyline:</strong> LIU Sharks (-316) | Wagner Seahawks (+249)</p>
+  <p><strong>Spread:</strong> LIU Sharks -6.5</p>
+  <p><strong>Moneyline:</strong> LIU Sharks (-295) | Wagner Seahawks (+240)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **LIU Sharks**: -7.0, Edge For Covering Spread: -5.9%
-- **Wagner Seahawks**: 7.0, Edge For Covering Spread: -0.0%
+- **LIU Sharks**: -6.5, Edge For Covering Spread: -4.1%
+- **Wagner Seahawks**: 6.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **LIU Sharks Win Probability**: 72.8%, Moneyline Edge: -3.2%
-- **Wagner Seahawks Win Probability**: 27.2%, Moneyline Edge: -1.5%
+- **LIU Sharks Win Probability**: 72.4%, Moneyline Edge: -2.3%
+- **Wagner Seahawks Win Probability**: 27.6%, Moneyline Edge: -1.8%
 
 ### Total
-- **Predicted Total**: 140.0
-- Edge For Covering The Over: **1.5%**
-- Edge For Covering The Under: -6.3%
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: **1.7%**
+- Edge For Covering The Under: -6.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-LIU Sharks (16-8) enters hostile territory as they take on Wagner Seahawks (8-14) at Spiro Sports Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into LIU Sharks favored by 7.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+LIU Sharks (16-8) enters hostile territory as they take on Wagner Seahawks (8-14) at Spiro Sports Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into LIU Sharks favored by 6.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.0 points tells us LIU Sharks has clear advantages, but games aren't played on paper. Wagner Seahawks needs to punch above their weight class to keep this close. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 6.5-point spread indicates LIU Sharks is viewed as the better team, but this isn't an overwhelming edge. Wagner Seahawks has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **LIU Sharks** bring an offensive efficiency of 106.75 (ranked #201 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

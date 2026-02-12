@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> High Point Panthers -12.5</p>
-  <p><strong>Moneyline:</strong> High Point Panthers (-900) | South Carolina Upstate Spartans (+600)</p>
+  <p><strong>Moneyline:</strong> High Point Panthers (-1200) | South Carolina Upstate Spartans (+700)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **High Point Panthers**: -12.5, Edge For Covering Spread: -6.7%
-- **South Carolina Upstate Spartans**: 12.5, Edge For Covering Spread: **2.0%**
+- **High Point Panthers**: -12.5, Edge For Covering Spread: -5.8%
+- **South Carolina Upstate Spartans**: 12.5, Edge For Covering Spread: **1.1%**
 
 ### Moneyline
-- **High Point Panthers Win Probability**: 83.7%, Moneyline Edge: -6.3%
-- **South Carolina Upstate Spartans Win Probability**: 16.3%, Moneyline Edge: **2.1%**
+- **High Point Panthers Win Probability**: 84.5%, Moneyline Edge: -7.8%
+- **South Carolina Upstate Spartans Win Probability**: 15.5%, Moneyline Edge: **3.0%**
 
 ### Total
 - **Predicted Total**: 153.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.4%
 
 ---
 

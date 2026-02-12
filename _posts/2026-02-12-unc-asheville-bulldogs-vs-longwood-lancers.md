@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Longwood Lancers -1.5</p>
-  <p><strong>Moneyline:</strong> UNC Asheville Bulldogs (+105) | Longwood Lancers (-125)</p>
+  <p><strong>Spread:</strong> Longwood Lancers -2.0</p>
+  <p><strong>Moneyline:</strong> UNC Asheville Bulldogs (+115) | Longwood Lancers (-135)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UNC Asheville Bulldogs**: 1.5, Edge For Covering Spread: -0.5%
-- **Longwood Lancers**: -1.5, Edge For Covering Spread: -4.3%
+- **UNC Asheville Bulldogs**: 2.0, Edge For Covering Spread: -0.2%
+- **Longwood Lancers**: -2.0, Edge For Covering Spread: -4.5%
 
 ### Moneyline
-- **UNC Asheville Bulldogs Win Probability**: 46.2%, Moneyline Edge: -2.6%
-- **Longwood Lancers Win Probability**: 53.8%, Moneyline Edge: -1.7%
+- **UNC Asheville Bulldogs Win Probability**: 45.5%, Moneyline Edge: -1.0%
+- **Longwood Lancers Win Probability**: 54.5%, Moneyline Edge: -2.9%
 
 ### Total
 - **Predicted Total**: 142.0
-- Edge For Covering The Over: -4.0%
-- Edge For Covering The Under: -0.7%
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -1.5%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UNC Asheville Bulldogs (11-13) travels to face Longwood Lancers (13-13) at Brock Center in what shapes up to be a competitive matchup. The early betting action has shaped into Longwood Lancers favored by 1.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UNC Asheville Bulldogs (11-13) travels to face Longwood Lancers (13-13) at Brock Center in what shapes up to be a competitive matchup. The early betting action has shaped into Longwood Lancers favored by 2.0 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Longwood Lancers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Longwood Lancers's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **UNC Asheville Bulldogs** bring an offensive efficiency of 106.29 (ranked #216 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.5% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> San Francisco Dons -8.5</p>
-  <p><strong>Moneyline:</strong> Oregon St Beavers (+330) | San Francisco Dons (-437)</p>
+  <p><strong>Moneyline:</strong> Oregon St Beavers (+335) | San Francisco Dons (-437)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oregon St Beavers**: 8.5, Edge For Covering Spread: -2.4%
-- **San Francisco Dons**: -8.5, Edge For Covering Spread: -2.4%
+- **Oregon St Beavers**: 8.5, Edge For Covering Spread: -1.9%
+- **San Francisco Dons**: -8.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Oregon St Beavers Win Probability**: 20.6%, Moneyline Edge: -2.7%
-- **San Francisco Dons Win Probability**: 79.4%, Moneyline Edge: -2.0%
+- **Oregon St Beavers Win Probability**: 20.5%, Moneyline Edge: -2.5%
+- **San Francisco Dons Win Probability**: 79.5%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 140.5
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 

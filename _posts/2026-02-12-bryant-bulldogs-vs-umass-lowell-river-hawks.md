@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UMass Lowell River Hawks -5.5</p>
-  <p><strong>Moneyline:</strong> Bryant Bulldogs (+200) | UMass Lowell River Hawks (-240)</p>
+  <p><strong>Moneyline:</strong> Bryant Bulldogs (+220) | UMass Lowell River Hawks (-270)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bryant Bulldogs**: 5.5, Edge For Covering Spread: -4.6%
-- **UMass Lowell River Hawks**: -5.5, Edge For Covering Spread: -0.7%
+- **Bryant Bulldogs**: 5.5, Edge For Covering Spread: -2.9%
+- **UMass Lowell River Hawks**: -5.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Bryant Bulldogs Win Probability**: 28.5%, Moneyline Edge: -4.8%
-- **UMass Lowell River Hawks Win Probability**: 71.5%, Moneyline Edge: **0.9%**
+- **Bryant Bulldogs Win Probability**: 27.3%, Moneyline Edge: -3.9%
+- **UMass Lowell River Hawks Win Probability**: 72.7%, Moneyline Edge: -0.3%
 
 ### Total
 - **Predicted Total**: 142.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -1.9%
 
 ---
 

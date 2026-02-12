@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Memphis Tigers -1.5</p>
-  <p><strong>Moneyline:</strong> Memphis Tigers (-117) | North Texas Mean Green (-102)</p>
+  <p><strong>Moneyline:</strong> Memphis Tigers (-123) | North Texas Mean Green (+103)</p>
   <p><strong>Total:</strong> 134.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Memphis Tigers**: -1.5, Edge For Covering Spread: -2.4%
-- **North Texas Mean Green**: 1.5, Edge For Covering Spread: -4.0%
+- **Memphis Tigers**: -1.5, Edge For Covering Spread: -1.2%
+- **North Texas Mean Green**: 1.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Memphis Tigers Win Probability**: 53.3%, Moneyline Edge: -0.7%
-- **North Texas Mean Green Win Probability**: 46.7%, Moneyline Edge: -3.9%
+- **Memphis Tigers Win Probability**: 54.0%, Moneyline Edge: -1.3%
+- **North Texas Mean Green Win Probability**: 46.0%, Moneyline Edge: -3.1%
 
 ### Total
-- **Predicted Total**: 133.5
-- Edge For Covering The Over: -8.6%
-- Edge For Covering The Under: **2.2%**
+- **Predicted Total**: 134.5
+- Edge For Covering The Over: -8.0%
+- Edge For Covering The Under: **3.3%**
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> N Colorado Bears -7.5</p>
-  <p><strong>Moneyline:</strong> Sacramento St Hornets (+250) | N Colorado Bears (-310)</p>
+  <p><strong>Moneyline:</strong> Sacramento St Hornets (+265) | N Colorado Bears (-332)</p>
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **N Colorado Bears**: -7.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Sacramento St Hornets Win Probability**: 24.6%, Moneyline Edge: -4.0%
-- **N Colorado Bears Win Probability**: 75.4%, Moneyline Edge: -0.2%
+- **Sacramento St Hornets Win Probability**: 23.9%, Moneyline Edge: -3.5%
+- **N Colorado Bears Win Probability**: 76.1%, Moneyline Edge: -0.7%
 
 ### Total
 - **Predicted Total**: 163.5

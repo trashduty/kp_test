@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Coastal Carolina Chanticleers -1.5</p>
-  <p><strong>Moneyline:</strong> Coastal Carolina Chanticleers (-118) | Louisiana Ragin' Cajuns (-102)</p>
+  <p><strong>Moneyline:</strong> Coastal Carolina Chanticleers (-125) | Louisiana Ragin' Cajuns (+105)</p>
   <p><strong>Total:</strong> 128.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Coastal Carolina Chanticleers**: -1.5, Edge For Covering Spread: -2.6%
-- **Louisiana Ragin' Cajuns**: 1.5, Edge For Covering Spread: -2.1%
+- **Coastal Carolina Chanticleers**: -1.5, Edge For Covering Spread: -3.3%
+- **Louisiana Ragin' Cajuns**: 1.5, Edge For Covering Spread: -1.4%
 
 ### Moneyline
-- **Coastal Carolina Chanticleers Win Probability**: 50.9%, Moneyline Edge: -3.2%
-- **Louisiana Ragin' Cajuns Win Probability**: 49.1%, Moneyline Edge: -1.4%
+- **Coastal Carolina Chanticleers Win Probability**: 51.8%, Moneyline Edge: -3.8%
+- **Louisiana Ragin' Cajuns Win Probability**: 48.2%, Moneyline Edge: -0.5%
 
 ### Total
 - **Predicted Total**: 129.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.9%
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -0.7%
 
 ---
 

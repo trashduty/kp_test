@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Lindenwood Lions -1.5</p>
-  <p><strong>Moneyline:</strong> Tenn-Martin Skyhawks (+104) | Lindenwood Lions (-125)</p>
+  <p><strong>Moneyline:</strong> Tenn-Martin Skyhawks (-101) | Lindenwood Lions (-119)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tenn-Martin Skyhawks**: 1.5, Edge For Covering Spread: -2.4%
-- **Lindenwood Lions**: -1.5, Edge For Covering Spread: -2.4%
+- **Tenn-Martin Skyhawks**: 1.5, Edge For Covering Spread: -3.5%
+- **Lindenwood Lions**: -1.5, Edge For Covering Spread: -1.5%
 
 ### Moneyline
-- **Tenn-Martin Skyhawks Win Probability**: 47.9%, Moneyline Edge: -1.0%
-- **Lindenwood Lions Win Probability**: 52.1%, Moneyline Edge: -3.5%
+- **Tenn-Martin Skyhawks Win Probability**: 48.5%, Moneyline Edge: -1.7%
+- **Lindenwood Lions Win Probability**: 51.5%, Moneyline Edge: -2.9%
 
 ### Total
 - **Predicted Total**: 144.0
-- Edge For Covering The Over: -6.4%
-- Edge For Covering The Under: -0.0%
+- Edge For Covering The Over: -5.8%
+- Edge For Covering The Under: **1.1%**
 
 ---
 

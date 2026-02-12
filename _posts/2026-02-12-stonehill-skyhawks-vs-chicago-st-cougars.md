@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Pick'em</p>
-  <p><strong>Moneyline:</strong> Stonehill Skyhawks (-110) | Chicago St Cougars (-110)</p>
+  <p><strong>Spread:</strong> Stonehill Skyhawks -1.5</p>
+  <p><strong>Moneyline:</strong> Stonehill Skyhawks (-112) | Chicago St Cougars (-108)</p>
   <p><strong>Total:</strong> 130.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Stonehill Skyhawks**: 0.0, Edge For Covering Spread: -4.1%
-- **Chicago St Cougars**: 0.0, Edge For Covering Spread: -1.4%
+- **Stonehill Skyhawks**: -1.5, Edge For Covering Spread: -5.9%
+- **Chicago St Cougars**: 1.5, Edge For Covering Spread: -1.1%
 
 ### Moneyline
-- **Stonehill Skyhawks Win Probability**: 49.9%, Moneyline Edge: -2.5%
-- **Chicago St Cougars Win Probability**: 50.1%, Moneyline Edge: -2.3%
+- **Stonehill Skyhawks Win Probability**: 50.2%, Moneyline Edge: -2.7%
+- **Chicago St Cougars Win Probability**: 49.8%, Moneyline Edge: -2.1%
 
 ### Total
 - **Predicted Total**: 130.5
-- Edge For Covering The Over: N/A
-- Edge For Covering The Under: N/A
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Stonehill Skyhawks (9-16) travels to face Chicago St Cougars (5-20) at Jones Convocation Center in what shapes up to be a competitive matchup. The early betting action has shaped into Chicago St Cougars favored by 0.0 points, with the total sitting at 130.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Stonehill Skyhawks (9-16) travels to face Chicago St Cougars (5-20) at Jones Convocation Center in what shapes up to be a competitive matchup. The early betting action has shaped into Stonehill Skyhawks favored by 1.5 points, with the total sitting at 130.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Chicago St Cougars's 0.0-point cushion reflects home court advantage more than a talent gap. The total of 130.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Stonehill Skyhawks's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 130.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **Stonehill Skyhawks** bring an offensive efficiency of 92.99 (ranked #360 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.4% from three, they can't rely on the arc. Expect a paint-focused attack. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Illinois St Redbirds -8.5</p>
-  <p><strong>Moneyline:</strong> Valparaiso Beacons (+362) | Illinois St Redbirds (-477)</p>
+  <p><strong>Moneyline:</strong> Valparaiso Beacons (+350) | Illinois St Redbirds (-474)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Valparaiso Beacons**: 8.5, Edge For Covering Spread: -1.2%
-- **Illinois St Redbirds**: -8.5, Edge For Covering Spread: -3.5%
+- **Valparaiso Beacons**: 8.5, Edge For Covering Spread: -0.9%
+- **Illinois St Redbirds**: -8.5, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **Valparaiso Beacons Win Probability**: 20.4%, Moneyline Edge: -1.3%
-- **Illinois St Redbirds Win Probability**: 79.6%, Moneyline Edge: -3.0%
+- **Valparaiso Beacons Win Probability**: 20.6%, Moneyline Edge: -1.6%
+- **Illinois St Redbirds Win Probability**: 79.4%, Moneyline Edge: -3.2%
 
 ### Total
 - **Predicted Total**: 136.5
-- Edge For Covering The Over: -4.5%
+- Edge For Covering The Over: -6.1%
 - Edge For Covering The Under: -0.3%
 
 ---

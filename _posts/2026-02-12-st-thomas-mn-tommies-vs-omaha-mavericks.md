@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> St. Thomas (MN) Tommies -4.5</p>
-  <p><strong>Moneyline:</strong> St. Thomas (MN) Tommies (-182) | Omaha Mavericks (+152)</p>
+  <p><strong>Moneyline:</strong> St. Thomas (MN) Tommies (-195) | Omaha Mavericks (+164)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **St. Thomas (MN) Tommies**: -4.5, Edge For Covering Spread: -1.2%
-- **Omaha Mavericks**: 4.5, Edge For Covering Spread: -3.5%
+- **St. Thomas (MN) Tommies**: -4.5, Edge For Covering Spread: -1.6%
+- **Omaha Mavericks**: 4.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
-- **St. Thomas (MN) Tommies Win Probability**: 63.1%, Moneyline Edge: -1.4%
-- **Omaha Mavericks Win Probability**: 36.9%, Moneyline Edge: -2.8%
+- **St. Thomas (MN) Tommies Win Probability**: 64.0%, Moneyline Edge: -2.1%
+- **Omaha Mavericks Win Probability**: 36.0%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 154.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -1.7%
 
 ---
 

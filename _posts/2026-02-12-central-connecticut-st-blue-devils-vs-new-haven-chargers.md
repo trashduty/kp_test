@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Central Connecticut St Blue Devils -1.5</p>
-  <p><strong>Moneyline:</strong> Central Connecticut St Blue Devils (-130) | New Haven Chargers (+110)</p>
+  <p><strong>Spread:</strong> Central Connecticut St Blue Devils -2.5</p>
+  <p><strong>Moneyline:</strong> Central Connecticut St Blue Devils (-140) | New Haven Chargers (+117)</p>
   <p><strong>Total:</strong> 128.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Central Connecticut St Blue Devils**: -1.5, Edge For Covering Spread: -4.1%
-- **New Haven Chargers**: 1.5, Edge For Covering Spread: -0.5%
+- **Central Connecticut St Blue Devils**: -2.5, Edge For Covering Spread: -4.1%
+- **New Haven Chargers**: 2.5, Edge For Covering Spread: -0.6%
 
 ### Moneyline
-- **Central Connecticut St Blue Devils Win Probability**: 55.6%, Moneyline Edge: -0.9%
-- **New Haven Chargers Win Probability**: 44.4%, Moneyline Edge: -3.3%
+- **Central Connecticut St Blue Devils Win Probability**: 56.4%, Moneyline Edge: -1.9%
+- **New Haven Chargers Win Probability**: 43.6%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 129.0
-- Edge For Covering The Over: -1.1%
-- Edge For Covering The Under: -3.7%
+- Edge For Covering The Over: -0.7%
+- Edge For Covering The Under: -4.3%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Central Connecticut St Blue Devils (13-10) travels to face New Haven Chargers (10-14) at The Hazell Center in what shapes up to be a competitive matchup. The early betting action has shaped into Central Connecticut St Blue Devils favored by 1.5 points, with the total sitting at 128.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Central Connecticut St Blue Devils (13-10) travels to face New Haven Chargers (10-14) at The Hazell Center in what shapes up to be a competitive matchup. The early betting action has shaped into Central Connecticut St Blue Devils favored by 2.5 points, with the total sitting at 128.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Central Connecticut St Blue Devils's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 128.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Central Connecticut St Blue Devils's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 128.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **Central Connecticut St Blue Devils** bring an offensive efficiency of 108.24 (ranked #174 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.3% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

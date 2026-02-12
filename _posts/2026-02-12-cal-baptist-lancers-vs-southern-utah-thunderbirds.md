@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Cal Baptist Lancers -6.0</p>
-  <p><strong>Moneyline:</strong> Cal Baptist Lancers (-275) | Southern Utah Thunderbirds (+225)</p>
+  <p><strong>Spread:</strong> Cal Baptist Lancers -5.5</p>
+  <p><strong>Moneyline:</strong> Cal Baptist Lancers (-260) | Southern Utah Thunderbirds (+212)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Cal Baptist Lancers**: -6.0, Edge For Covering Spread: -4.6%
-- **Southern Utah Thunderbirds**: 6.0, Edge For Covering Spread: -0.1%
+- **Cal Baptist Lancers**: -5.5, Edge For Covering Spread: -3.2%
+- **Southern Utah Thunderbirds**: 5.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Cal Baptist Lancers Win Probability**: 70.2%, Moneyline Edge: -3.1%
-- **Southern Utah Thunderbirds Win Probability**: 29.8%, Moneyline Edge: -1.0%
+- **Cal Baptist Lancers Win Probability**: 69.6%, Moneyline Edge: -2.6%
+- **Southern Utah Thunderbirds Win Probability**: 30.4%, Moneyline Edge: -1.7%
 
 ### Total
 - **Predicted Total**: 144.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Cal Baptist Lancers (18-6) enters hostile territory as they take on Southern Utah Thunderbirds (8-16) at America First Event Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Cal Baptist Lancers favored by 6.0 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Cal Baptist Lancers (18-6) travels to face Southern Utah Thunderbirds (8-16) at America First Event Center in what shapes up to be a competitive matchup. The early betting action has shaped into Cal Baptist Lancers favored by 5.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.0-point spread indicates Cal Baptist Lancers is viewed as the better team, but this isn't an overwhelming edge. Southern Utah Thunderbirds has a legitimate path to covering or winning outright. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 5.5-point spread indicates Cal Baptist Lancers is viewed as the better team, but this isn't an overwhelming edge. Southern Utah Thunderbirds has a legitimate path to covering or winning outright. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Cal Baptist Lancers** bring an offensive efficiency of 106.30 (ranked #215 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.6% from three, they can't rely on the arc. Expect a paint-focused attack. 

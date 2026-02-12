@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kennesaw St Owls -3.5</p>
-  <p><strong>Moneyline:</strong> Middle Tennessee Blue Raiders (+159) | Kennesaw St Owls (-191)</p>
+  <p><strong>Moneyline:</strong> Middle Tennessee Blue Raiders (+152) | Kennesaw St Owls (-185)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Middle Tennessee Blue Raiders**: 3.5, Edge For Covering Spread: -1.2%
-- **Kennesaw St Owls**: -3.5, Edge For Covering Spread: -3.5%
+- **Middle Tennessee Blue Raiders**: 3.5, Edge For Covering Spread: -1.3%
+- **Kennesaw St Owls**: -3.5, Edge For Covering Spread: -3.4%
 
 ### Moneyline
-- **Middle Tennessee Blue Raiders Win Probability**: 36.0%, Moneyline Edge: -2.6%
-- **Kennesaw St Owls Win Probability**: 64.0%, Moneyline Edge: -1.7%
+- **Middle Tennessee Blue Raiders Win Probability**: 36.5%, Moneyline Edge: -3.2%
+- **Kennesaw St Owls Win Probability**: 63.5%, Moneyline Edge: -1.4%
 
 ### Total
 - **Predicted Total**: 149.0
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -3.2%
 
 ---
 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Robert Morris Colonials -3.0</p>
-  <p><strong>Moneyline:</strong> Robert Morris Colonials (-155) | Cleveland St Vikings (+125)</p>
+  <p><strong>Spread:</strong> Robert Morris Colonials -3.5</p>
+  <p><strong>Moneyline:</strong> Robert Morris Colonials (-160) | Cleveland St Vikings (+135)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Robert Morris Colonials**: -3.0, Edge For Covering Spread: -4.3%
-- **Cleveland St Vikings**: 3.0, Edge For Covering Spread: -0.4%
+- **Robert Morris Colonials**: -3.5, Edge For Covering Spread: -2.7%
+- **Cleveland St Vikings**: 3.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Robert Morris Colonials Win Probability**: 57.6%, Moneyline Edge: -3.2%
-- **Cleveland St Vikings Win Probability**: 42.4%, Moneyline Edge: -2.0%
+- **Robert Morris Colonials Win Probability**: 58.1%, Moneyline Edge: -3.5%
+- **Cleveland St Vikings Win Probability**: 41.9%, Moneyline Edge: -0.6%
 
 ### Total
 - **Predicted Total**: 153.5
-- Edge For Covering The Over: -1.1%
-- Edge For Covering The Under: -3.7%
+- Edge For Covering The Over: -0.4%
+- Edge For Covering The Under: -4.5%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Robert Morris Colonials (16-10) travels to face Cleveland St Vikings (10-15) at Wolstein Center in what shapes up to be a competitive matchup. The early betting action has shaped into Robert Morris Colonials favored by 3.0 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Robert Morris Colonials (16-10) travels to face Cleveland St Vikings (10-15) at Wolstein Center in what shapes up to be a competitive matchup. The early betting action has shaped into Robert Morris Colonials favored by 3.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.0-point spread indicates Robert Morris Colonials is viewed as the better team, but this isn't an overwhelming edge. Cleveland St Vikings has a legitimate path to covering or winning outright. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.5-point spread indicates Robert Morris Colonials is viewed as the better team, but this isn't an overwhelming edge. Cleveland St Vikings has a legitimate path to covering or winning outright. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Robert Morris Colonials** bring an offensive efficiency of 111.88 (ranked #100 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 37.8% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

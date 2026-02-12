@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> New Hampshire Wildcats -2.5</p>
-  <p><strong>Moneyline:</strong> NJIT Highlanders (+135) | New Hampshire Wildcats (-160)</p>
+  <p><strong>Moneyline:</strong> NJIT Highlanders (+122) | New Hampshire Wildcats (-145)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **NJIT Highlanders**: 2.5, Edge For Covering Spread: -0.5%
-- **New Hampshire Wildcats**: -2.5, Edge For Covering Spread: -4.1%
+- **NJIT Highlanders**: 2.5, Edge For Covering Spread: -3.5%
+- **New Hampshire Wildcats**: -2.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **NJIT Highlanders Win Probability**: 42.7%, Moneyline Edge: **0.2%**
-- **New Hampshire Wildcats Win Probability**: 57.3%, Moneyline Edge: -4.2%
+- **NJIT Highlanders Win Probability**: 43.8%, Moneyline Edge: -1.2%
+- **New Hampshire Wildcats Win Probability**: 56.2%, Moneyline Edge: -3.0%
 
 ### Total
-- **Predicted Total**: 141.0
-- Edge For Covering The Over: -3.8%
-- Edge For Covering The Under: -0.9%
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -0.7%
 
 ---
 

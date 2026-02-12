@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UC Santa Barbara Gauchos -6.5</p>
-  <p><strong>Moneyline:</strong> UC Santa Barbara Gauchos (-284) | UC Riverside Highlanders (+232)</p>
+  <p><strong>Moneyline:</strong> UC Santa Barbara Gauchos (-297) | UC Riverside Highlanders (+242)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **UC Riverside Highlanders**: 6.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **UC Santa Barbara Gauchos Win Probability**: 72.0%, Moneyline Edge: -1.9%
-- **UC Riverside Highlanders Win Probability**: 28.0%, Moneyline Edge: -2.1%
+- **UC Santa Barbara Gauchos Win Probability**: 72.5%, Moneyline Edge: -2.4%
+- **UC Riverside Highlanders Win Probability**: 27.5%, Moneyline Edge: -1.7%
 
 ### Total
 - **Predicted Total**: 145.0

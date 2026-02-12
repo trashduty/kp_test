@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Oral Roberts Golden Eagles -6.5</p>
-  <p><strong>Moneyline:</strong> UMKC Kangaroos (+210) | Oral Roberts Golden Eagles (-250)</p>
+  <p><strong>Moneyline:</strong> UMKC Kangaroos (+210) | Oral Roberts Golden Eagles (-254)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UMKC Kangaroos**: 6.5, Edge For Covering Spread: -3.5%
-- **Oral Roberts Golden Eagles**: -6.5, Edge For Covering Spread: -1.2%
+- **UMKC Kangaroos**: 6.5, Edge For Covering Spread: -3.8%
+- **Oral Roberts Golden Eagles**: -6.5, Edge For Covering Spread: -1.1%
 
 ### Moneyline
-- **UMKC Kangaroos Win Probability**: 29.6%, Moneyline Edge: -2.7%
-- **Oral Roberts Golden Eagles Win Probability**: 70.4%, Moneyline Edge: -1.0%
+- **UMKC Kangaroos Win Probability**: 29.5%, Moneyline Edge: -2.8%
+- **Oral Roberts Golden Eagles Win Probability**: 70.5%, Moneyline Edge: -1.3%
 
 ### Total
 - **Predicted Total**: 145.0

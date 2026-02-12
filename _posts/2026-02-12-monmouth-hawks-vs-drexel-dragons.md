@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Drexel Dragons -1.5</p>
-  <p><strong>Moneyline:</strong> Monmouth Hawks (+112) | Drexel Dragons (-135)</p>
+  <p><strong>Moneyline:</strong> Monmouth Hawks (+110) | Drexel Dragons (-132)</p>
   <p><strong>Total:</strong> 130.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Drexel Dragons**: -1.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Monmouth Hawks Win Probability**: 42.0%, Moneyline Edge: -5.0%
-- **Drexel Dragons Win Probability**: 58.0%, Moneyline Edge: **0.5%**
+- **Monmouth Hawks Win Probability**: 42.3%, Moneyline Edge: -5.4%
+- **Drexel Dragons Win Probability**: 57.7%, Moneyline Edge: **0.8%**
 
 ### Total
 - **Predicted Total**: 130.0

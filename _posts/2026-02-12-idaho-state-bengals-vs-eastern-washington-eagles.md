@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Eastern Washington Eagles -3.5</p>
-  <p><strong>Moneyline:</strong> Idaho State Bengals (+136) | Eastern Washington Eagles (-165)</p>
+  <p><strong>Moneyline:</strong> Idaho State Bengals (+140) | Eastern Washington Eagles (-168)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Eastern Washington Eagles**: -3.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Idaho State Bengals Win Probability**: 37.0%, Moneyline Edge: -5.3%
-- **Eastern Washington Eagles Win Probability**: 63.0%, Moneyline Edge: **0.7%**
+- **Idaho State Bengals Win Probability**: 36.9%, Moneyline Edge: -4.8%
+- **Eastern Washington Eagles Win Probability**: 63.1%, Moneyline Edge: **0.5%**
 
 ### Total
-- **Predicted Total**: 148.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 149.0
+- Edge For Covering The Over: **0.2%**
+- Edge For Covering The Under: -5.3%
 
 ---
 

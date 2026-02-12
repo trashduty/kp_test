@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Portland St Vikings -7.5</p>
-  <p><strong>Moneyline:</strong> Portland St Vikings (-325) | Northern Arizona Lumberjacks (+260)</p>
+  <p><strong>Moneyline:</strong> Portland St Vikings (-360) | Northern Arizona Lumberjacks (+280)</p>
   <p><strong>Total:</strong> 134.5</p>
 </div>
 
@@ -28,12 +28,12 @@ All that being said, here's how our model prices this game.
 - **Northern Arizona Lumberjacks**: 7.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Portland St Vikings Win Probability**: 73.5%, Moneyline Edge: -3.0%
-- **Northern Arizona Lumberjacks Win Probability**: 26.5%, Moneyline Edge: -1.3%
+- **Portland St Vikings Win Probability**: 74.3%, Moneyline Edge: -4.0%
+- **Northern Arizona Lumberjacks Win Probability**: 25.7%, Moneyline Edge: -0.6%
 
 ### Total
 - **Predicted Total**: 135.0
-- Edge For Covering The Over: -1.6%
+- Edge For Covering The Over: -2.1%
 - Edge For Covering The Under: -3.2%
 
 ---

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Le Moyne Dolphins -3.5</p>
-  <p><strong>Moneyline:</strong> Mercyhurst Lakers (+152) | Le Moyne Dolphins (-182)</p>
+  <p><strong>Moneyline:</strong> Mercyhurst Lakers (+140) | Le Moyne Dolphins (-170)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Mercyhurst Lakers**: 3.5, Edge For Covering Spread: -2.4%
-- **Le Moyne Dolphins**: -3.5, Edge For Covering Spread: -2.9%
+- **Mercyhurst Lakers**: 3.5, Edge For Covering Spread: -4.5%
+- **Le Moyne Dolphins**: -3.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **Mercyhurst Lakers Win Probability**: 37.0%, Moneyline Edge: -2.7%
-- **Le Moyne Dolphins Win Probability**: 63.0%, Moneyline Edge: -1.6%
+- **Mercyhurst Lakers Win Probability**: 38.0%, Moneyline Edge: -3.7%
+- **Le Moyne Dolphins Win Probability**: 62.0%, Moneyline Edge: -0.9%
 
 ### Total
-- **Predicted Total**: 137.5
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -2.9%
+- **Predicted Total**: 138.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -4.0%
 
 ---
 

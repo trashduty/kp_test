@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> James Madison Dukes -6.5</p>
-  <p><strong>Moneyline:</strong> Georgia St Panthers (+247) | James Madison Dukes (-302)</p>
+  <p><strong>Moneyline:</strong> Georgia St Panthers (+235) | James Madison Dukes (-292)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Georgia St Panthers**: 6.5, Edge For Covering Spread: -1.6%
-- **James Madison Dukes**: -6.5, Edge For Covering Spread: -3.2%
+- **Georgia St Panthers**: 6.5, Edge For Covering Spread: -2.4%
+- **James Madison Dukes**: -6.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Georgia St Panthers Win Probability**: 27.3%, Moneyline Edge: -1.4%
-- **James Madison Dukes Win Probability**: 72.7%, Moneyline Edge: -2.5%
+- **Georgia St Panthers Win Probability**: 27.8%, Moneyline Edge: -2.1%
+- **James Madison Dukes Win Probability**: 72.2%, Moneyline Edge: -2.3%
 
 ### Total
-- **Predicted Total**: 144.5
-- Edge For Covering The Over: -3.4%
-- Edge For Covering The Under: -2.9%
+- **Predicted Total**: 145.0
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arkansas-Little Rock Trojans -6.5</p>
-  <p><strong>Moneyline:</strong> Arkansas-Little Rock Trojans (-310) | Western Illinois Leathernecks (+250)</p>
+  <p><strong>Moneyline:</strong> Arkansas-Little Rock Trojans (-315) | Western Illinois Leathernecks (+255)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arkansas-Little Rock Trojans**: -6.5, Edge For Covering Spread: -5.2%
+- **Arkansas-Little Rock Trojans**: -6.5, Edge For Covering Spread: -5.4%
 - **Western Illinois Leathernecks**: 6.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Arkansas-Little Rock Trojans Win Probability**: 71.3%, Moneyline Edge: -4.3%
-- **Western Illinois Leathernecks Win Probability**: 28.7%, Moneyline Edge: **0.1%**
+- **Arkansas-Little Rock Trojans Win Probability**: 71.5%, Moneyline Edge: -4.4%
+- **Western Illinois Leathernecks Win Probability**: 28.5%, Moneyline Edge: **0.4%**
 
 ### Total
 - **Predicted Total**: 141.0
 - Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- Edge For Covering The Under: -1.6%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Morehead St Eagles -4.5</p>
-  <p><strong>Moneyline:</strong> Tennessee Tech Golden Eagles (+170) | Morehead St Eagles (-200)</p>
+  <p><strong>Moneyline:</strong> Tennessee Tech Golden Eagles (+162) | Morehead St Eagles (-193)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tennessee Tech Golden Eagles**: 4.5, Edge For Covering Spread: -5.2%
-- **Morehead St Eagles**: -4.5, Edge For Covering Spread: **0.5%**
+- **Tennessee Tech Golden Eagles**: 4.5, Edge For Covering Spread: -3.1%
+- **Morehead St Eagles**: -4.5, Edge For Covering Spread: -1.7%
 
 ### Moneyline
-- **Tennessee Tech Golden Eagles Win Probability**: 33.0%, Moneyline Edge: -4.0%
-- **Morehead St Eagles Win Probability**: 67.0%, Moneyline Edge: **0.3%**
+- **Tennessee Tech Golden Eagles Win Probability**: 33.6%, Moneyline Edge: -4.5%
+- **Morehead St Eagles Win Probability**: 66.4%, Moneyline Edge: **0.5%**
 
 ### Total
 - **Predicted Total**: 145.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Over: -1.5%
+- Edge For Covering The Under: -3.7%
 
 ---
 

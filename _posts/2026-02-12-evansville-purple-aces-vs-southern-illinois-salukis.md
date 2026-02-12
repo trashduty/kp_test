@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Southern Illinois Salukis -11.5</p>
-  <p><strong>Moneyline:</strong> Evansville Purple Aces (+575) | Southern Illinois Salukis (-900)</p>
+  <p><strong>Moneyline:</strong> Evansville Purple Aces (+580) | Southern Illinois Salukis (-880)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Evansville Purple Aces**: 11.5, Edge For Covering Spread: -2.2%
-- **Southern Illinois Salukis**: -11.5, Edge For Covering Spread: -2.7%
+- **Evansville Purple Aces**: 11.5, Edge For Covering Spread: -3.3%
+- **Southern Illinois Salukis**: -11.5, Edge For Covering Spread: -1.5%
 
 ### Moneyline
-- **Evansville Purple Aces Win Probability**: 13.5%, Moneyline Edge: -1.3%
-- **Southern Illinois Salukis Win Probability**: 86.5%, Moneyline Edge: -3.5%
+- **Evansville Purple Aces Win Probability**: 13.5%, Moneyline Edge: -1.2%
+- **Southern Illinois Salukis Win Probability**: 86.5%, Moneyline Edge: -3.3%
 
 ### Total
 - **Predicted Total**: 139.5

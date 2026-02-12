@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Southern Miss Golden Eagles -1.5</p>
-  <p><strong>Moneyline:</strong> South Alabama Jaguars (+106) | Southern Miss Golden Eagles (-127)</p>
+  <p><strong>Moneyline:</strong> South Alabama Jaguars (-105) | Southern Miss Golden Eagles (-114)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Alabama Jaguars**: 1.5, Edge For Covering Spread: -0.9%
-- **Southern Miss Golden Eagles**: -1.5, Edge For Covering Spread: -3.9%
+- **South Alabama Jaguars**: 1.5, Edge For Covering Spread: -1.8%
+- **Southern Miss Golden Eagles**: -1.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **South Alabama Jaguars Win Probability**: 46.2%, Moneyline Edge: -2.2%
-- **Southern Miss Golden Eagles Win Probability**: 53.8%, Moneyline Edge: -2.2%
+- **South Alabama Jaguars Win Probability**: 47.5%, Moneyline Edge: -3.8%
+- **Southern Miss Golden Eagles Win Probability**: 52.5%, Moneyline Edge: -0.8%
 
 ### Total
 - **Predicted Total**: 136.5
-- Edge For Covering The Over: -5.2%
-- Edge For Covering The Under: **0.5%**
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -0.7%
 
 ---
 

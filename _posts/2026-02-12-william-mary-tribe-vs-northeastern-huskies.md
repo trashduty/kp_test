@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> William & Mary Tribe -4.5</p>
-  <p><strong>Moneyline:</strong> William & Mary Tribe (-216) | Northeastern Huskies (+180)</p>
+  <p><strong>Moneyline:</strong> William & Mary Tribe (-227) | Northeastern Huskies (+189)</p>
   <p><strong>Total:</strong> 168.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **William & Mary Tribe**: -4.5, Edge For Covering Spread: -2.4%
-- **Northeastern Huskies**: 4.5, Edge For Covering Spread: -2.4%
+- **William & Mary Tribe**: -4.5, Edge For Covering Spread: -3.8%
+- **Northeastern Huskies**: 4.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **William & Mary Tribe Win Probability**: 64.8%, Moneyline Edge: -3.6%
-- **Northeastern Huskies Win Probability**: 35.2%, Moneyline Edge: -0.6%
+- **William & Mary Tribe Win Probability**: 65.4%, Moneyline Edge: -4.1%
+- **Northeastern Huskies Win Probability**: 34.6%, Moneyline Edge: **0.0%**
 
 ### Total
-- **Predicted Total**: 168.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- **Predicted Total**: 168.0
+- Edge For Covering The Over: -4.5%
+- Edge For Covering The Under: -1.8%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Winthrop Eagles -19.5</p>
-  <p><strong>Moneyline:</strong> Winthrop Eagles (-4500) | Gardner-Webb Bulldogs (+1500)</p>
+  <p><strong>Moneyline:</strong> Winthrop Eagles (-3604) | Gardner-Webb Bulldogs (+1393)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Gardner-Webb Bulldogs**: 19.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Winthrop Eagles Win Probability**: 93.1%, Moneyline Edge: -4.7%
-- **Gardner-Webb Bulldogs Win Probability**: 6.9%, Moneyline Edge: **0.6%**
+- **Winthrop Eagles Win Probability**: 93.0%, Moneyline Edge: -4.3%
+- **Gardner-Webb Bulldogs Win Probability**: 7.0%, Moneyline Edge: **0.3%**
 
 ### Total
 - **Predicted Total**: 155.5

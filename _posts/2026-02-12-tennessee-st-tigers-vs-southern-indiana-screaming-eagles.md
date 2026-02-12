@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tennessee St Tigers -5.5</p>
-  <p><strong>Moneyline:</strong> Tennessee St Tigers (-230) | Southern Indiana Screaming Eagles (+190)</p>
+  <p><strong>Moneyline:</strong> Tennessee St Tigers (-237) | Southern Indiana Screaming Eagles (+192)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tennessee St Tigers**: -5.5, Edge For Covering Spread: -3.5%
-- **Southern Indiana Screaming Eagles**: 5.5, Edge For Covering Spread: -1.2%
+- **Tennessee St Tigers**: -5.5, Edge For Covering Spread: -2.4%
+- **Southern Indiana Screaming Eagles**: 5.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Tennessee St Tigers Win Probability**: 66.9%, Moneyline Edge: -2.8%
-- **Southern Indiana Screaming Eagles Win Probability**: 33.1%, Moneyline Edge: -1.4%
+- **Tennessee St Tigers Win Probability**: 67.1%, Moneyline Edge: -3.2%
+- **Southern Indiana Screaming Eagles Win Probability**: 32.9%, Moneyline Edge: -1.4%
 
 ### Total
 - **Predicted Total**: 148.5

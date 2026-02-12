@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Denver Pioneers -1.0</p>
-  <p><strong>Moneyline:</strong> South Dakota St Jackrabbits (-110) | Denver Pioneers (-109)</p>
+  <p><strong>Spread:</strong> South Dakota St Jackrabbits -1.5</p>
+  <p><strong>Moneyline:</strong> South Dakota St Jackrabbits (-116) | Denver Pioneers (-103)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Dakota St Jackrabbits**: 1.0, Edge For Covering Spread: -4.2%
-- **Denver Pioneers**: -1.0, Edge For Covering Spread: -0.5%
+- **South Dakota St Jackrabbits**: -1.5, Edge For Covering Spread: -5.7%
+- **Denver Pioneers**: 1.5, Edge For Covering Spread: **1.0%**
 
 ### Moneyline
-- **South Dakota St Jackrabbits Win Probability**: 47.1%, Moneyline Edge: -5.4%
-- **Denver Pioneers Win Probability**: 52.9%, Moneyline Edge: **0.8%**
+- **South Dakota St Jackrabbits Win Probability**: 47.7%, Moneyline Edge: -6.1%
+- **Denver Pioneers Win Probability**: 52.3%, Moneyline Edge: **1.4%**
 
 ### Total
 - **Predicted Total**: 159.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-South Dakota St Jackrabbits (11-14) travels to face Denver Pioneers (12-14) at Hamilton Gymnasium in what shapes up to be a competitive matchup. The early betting action has shaped into Denver Pioneers favored by 1.0 points, with the total sitting at 158.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+South Dakota St Jackrabbits (11-14) travels to face Denver Pioneers (12-14) at Hamilton Gymnasium in what shapes up to be a competitive matchup. The early betting action has shaped into South Dakota St Jackrabbits favored by 1.5 points, with the total sitting at 158.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Denver Pioneers's 1.0-point cushion reflects home court advantage more than a talent gap. The total of 158.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. South Dakota St Jackrabbits's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 158.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **South Dakota St Jackrabbits** bring an offensive efficiency of 108.22 (ranked #176 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.5% three-point shooting is serviceable but won't scare anyone. 

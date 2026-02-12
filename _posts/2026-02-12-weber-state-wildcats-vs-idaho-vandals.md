@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Idaho Vandals -6.5</p>
-  <p><strong>Moneyline:</strong> Weber State Wildcats (+230) | Idaho Vandals (-285)</p>
+  <p><strong>Moneyline:</strong> Weber State Wildcats (+222) | Idaho Vandals (-275)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Weber State Wildcats**: 6.5, Edge For Covering Spread: -0.3%
-- **Idaho Vandals**: -6.5, Edge For Covering Spread: -4.4%
+- **Weber State Wildcats**: 6.5, Edge For Covering Spread: -1.9%
+- **Idaho Vandals**: -6.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Weber State Wildcats Win Probability**: 29.1%, Moneyline Edge: -1.2%
-- **Idaho Vandals Win Probability**: 70.9%, Moneyline Edge: -3.1%
+- **Weber State Wildcats Win Probability**: 29.4%, Moneyline Edge: -1.6%
+- **Idaho Vandals Win Probability**: 70.6%, Moneyline Edge: -2.7%
 
 ### Total
 - **Predicted Total**: 156.5
-- Edge For Covering The Over: -4.3%
+- Edge For Covering The Over: -4.4%
 - Edge For Covering The Under: -0.4%
 
 ---

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Drake Bulldogs -1.5</p>
-  <p><strong>Moneyline:</strong> UIC Flames (+101) | Drake Bulldogs (-121)</p>
+  <p><strong>Moneyline:</strong> UIC Flames (-100) | Drake Bulldogs (-120)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UIC Flames**: 1.5, Edge For Covering Spread: -1.1%
-- **Drake Bulldogs**: -1.5, Edge For Covering Spread: -5.6%
+- **UIC Flames**: 1.5, Edge For Covering Spread: -0.8%
+- **Drake Bulldogs**: -1.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **UIC Flames Win Probability**: 48.7%, Moneyline Edge: -1.1%
-- **Drake Bulldogs Win Probability**: 51.3%, Moneyline Edge: -3.4%
+- **UIC Flames Win Probability**: 48.9%, Moneyline Edge: -1.1%
+- **Drake Bulldogs Win Probability**: 51.1%, Moneyline Edge: -3.4%
 
 ### Total
 - **Predicted Total**: 146.0
-- Edge For Covering The Over: -3.8%
-- Edge For Covering The Under: -0.9%
+- Edge For Covering The Over: -4.4%
+- Edge For Covering The Under: -2.1%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Charleston Southern Buccaneers -2.5</p>
-  <p><strong>Moneyline:</strong> Presbyterian Blue Hose (+124) | Charleston Southern Buccaneers (-148)</p>
+  <p><strong>Moneyline:</strong> Presbyterian Blue Hose (+124) | Charleston Southern Buccaneers (-149)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Presbyterian Blue Hose**: 2.5, Edge For Covering Spread: -5.1%
-- **Charleston Southern Buccaneers**: -2.5, Edge For Covering Spread: **0.4%**
+- **Presbyterian Blue Hose**: 2.5, Edge For Covering Spread: -5.6%
+- **Charleston Southern Buccaneers**: -2.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Presbyterian Blue Hose Win Probability**: 37.3%, Moneyline Edge: -7.3%
-- **Charleston Southern Buccaneers Win Probability**: 62.7%, Moneyline Edge: **3.0%**
+- **Presbyterian Blue Hose Win Probability**: 37.4%, Moneyline Edge: -7.2%
+- **Charleston Southern Buccaneers Win Probability**: 62.6%, Moneyline Edge: **2.8%**
 
 ### Total
-- **Predicted Total**: 146.0
-- Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -1.1%
+- **Predicted Total**: 145.5
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -2.6%
 
 ---
 

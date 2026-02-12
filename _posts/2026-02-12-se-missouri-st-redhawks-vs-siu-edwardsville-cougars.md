@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Pick'em</p>
+  <p><strong>Spread:</strong> SE Missouri St Redhawks -1.5</p>
   <p><strong>Moneyline:</strong> SE Missouri St Redhawks (-110) | SIU-Edwardsville Cougars (-110)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **SE Missouri St Redhawks**: 0.0, Edge For Covering Spread: -5.7%
-- **SIU-Edwardsville Cougars**: 0.0, Edge For Covering Spread: **0.2%**
+- **SE Missouri St Redhawks**: -1.5, Edge For Covering Spread: -5.0%
+- **SIU-Edwardsville Cougars**: 1.5, Edge For Covering Spread: -0.0%
 
 ### Moneyline
-- **SE Missouri St Redhawks Win Probability**: 46.1%, Moneyline Edge: -6.3%
-- **SIU-Edwardsville Cougars Win Probability**: 53.9%, Moneyline Edge: **1.5%**
+- **SE Missouri St Redhawks Win Probability**: 46.0%, Moneyline Edge: -6.4%
+- **SIU-Edwardsville Cougars Win Probability**: 54.0%, Moneyline Edge: **1.7%**
 
 ### Total
-- **Predicted Total**: 136.5
-- Edge For Covering The Over: N/A
-- Edge For Covering The Under: N/A
+- **Predicted Total**: 137.0
+- Edge For Covering The Over: -4.9%
+- Edge For Covering The Under: **0.2%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-SE Missouri St Redhawks (15-10) travels to face SIU-Edwardsville Cougars (16-9) at First Community Arena in what shapes up to be a competitive matchup. The early betting action has shaped into SIU-Edwardsville Cougars favored by 0.0 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+SE Missouri St Redhawks (15-10) travels to face SIU-Edwardsville Cougars (16-9) at First Community Arena in what shapes up to be a competitive matchup. The early betting action has shaped into SE Missouri St Redhawks favored by 1.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. SIU-Edwardsville Cougars's 0.0-point cushion reflects home court advantage more than a talent gap. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. SE Missouri St Redhawks's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **SE Missouri St Redhawks** bring an offensive efficiency of 106.69 (ranked #202 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.5% from three, they can't rely on the arc. Expect a paint-focused attack. 

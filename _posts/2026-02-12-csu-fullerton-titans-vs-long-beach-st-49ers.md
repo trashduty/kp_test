@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Long Beach St 49ers -1.5</p>
-  <p><strong>Moneyline:</strong> CSU Fullerton Titans (-106) | Long Beach St 49ers (-114)</p>
+  <p><strong>Moneyline:</strong> CSU Fullerton Titans (-103) | Long Beach St 49ers (-116)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Long Beach St 49ers**: -1.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **CSU Fullerton Titans Win Probability**: 46.6%, Moneyline Edge: -4.9%
-- **Long Beach St 49ers Win Probability**: 53.4%, Moneyline Edge: **0.2%**
+- **CSU Fullerton Titans Win Probability**: 46.3%, Moneyline Edge: -4.6%
+- **Long Beach St 49ers Win Probability**: 53.7%, Moneyline Edge: -0.1%
 
 ### Total
 - **Predicted Total**: 156.0

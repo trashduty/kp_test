@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Missouri St Bears -6.0</p>
-  <p><strong>Moneyline:</strong> Louisiana Tech Bulldogs (+242) | Missouri St Bears (-295)</p>
+  <p><strong>Spread:</strong> Missouri St Bears -5.5</p>
+  <p><strong>Moneyline:</strong> Louisiana Tech Bulldogs (+210) | Missouri St Bears (-255)</p>
   <p><strong>Total:</strong> 131.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Louisiana Tech Bulldogs**: 6.0, Edge For Covering Spread: -1.8%
-- **Missouri St Bears**: -6.0, Edge For Covering Spread: -2.9%
+- **Louisiana Tech Bulldogs**: 5.5, Edge For Covering Spread: -3.9%
+- **Missouri St Bears**: -5.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **Louisiana Tech Bulldogs Win Probability**: 29.1%, Moneyline Edge: -0.2%
-- **Missouri St Bears Win Probability**: 70.9%, Moneyline Edge: -3.7%
+- **Louisiana Tech Bulldogs Win Probability**: 30.5%, Moneyline Edge: -1.8%
+- **Missouri St Bears Win Probability**: 69.5%, Moneyline Edge: -2.3%
 
 ### Total
 - **Predicted Total**: 133.0
-- Edge For Covering The Over: -5.7%
-- Edge For Covering The Under: -0.6%
+- Edge For Covering The Over: -6.3%
+- Edge For Covering The Under: -0.0%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Missouri St Bears (13-10) hosts Louisiana Tech Bulldogs (13-10) at Great Southern Bank Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Missouri St Bears favored by 6.0 points, with the total sitting at 131.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Missouri St Bears (13-10) hosts Louisiana Tech Bulldogs (13-10) at Great Southern Bank Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Missouri St Bears favored by 5.5 points, with the total sitting at 131.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.0-point spread indicates Missouri St Bears is viewed as the better team, but this isn't an overwhelming edge. Louisiana Tech Bulldogs has a legitimate path to covering or winning outright. The total of 131.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+The 5.5-point spread indicates Missouri St Bears is viewed as the better team, but this isn't an overwhelming edge. Louisiana Tech Bulldogs has a legitimate path to covering or winning outright. The total of 131.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **Louisiana Tech Bulldogs** bring an offensive efficiency of 101.59 (ranked #302 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 26.9% from three, they can't rely on the arc. Expect a paint-focused attack. 

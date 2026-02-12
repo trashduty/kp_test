@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Towson Tigers -6.0</p>
-  <p><strong>Moneyline:</strong> Stony Brook Seawolves (+207) | Towson Tigers (-255)</p>
+  <p><strong>Spread:</strong> Towson Tigers -5.5</p>
+  <p><strong>Moneyline:</strong> Stony Brook Seawolves (+210) | Towson Tigers (-250)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Stony Brook Seawolves**: 6.0, Edge For Covering Spread: **0.9%**
-- **Towson Tigers**: -6.0, Edge For Covering Spread: -5.9%
+- **Stony Brook Seawolves**: 5.5, Edge For Covering Spread: -0.2%
+- **Towson Tigers**: -5.5, Edge For Covering Spread: -4.6%
 
 ### Moneyline
-- **Stony Brook Seawolves Win Probability**: 33.1%, Moneyline Edge: **0.5%**
-- **Towson Tigers Win Probability**: 66.9%, Moneyline Edge: -4.9%
+- **Stony Brook Seawolves Win Probability**: 33.1%, Moneyline Edge: **0.8%**
+- **Towson Tigers Win Probability**: 66.9%, Moneyline Edge: -4.5%
 
 ### Total
-- **Predicted Total**: 131.5
-- Edge For Covering The Over: -7.6%
-- Edge For Covering The Under: **2.8%**
+- **Predicted Total**: 132.0
+- Edge For Covering The Over: -7.4%
+- Edge For Covering The Under: **2.7%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Towson Tigers (13-12) hosts Stony Brook Seawolves (15-10) at SECU Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Towson Tigers favored by 6.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Towson Tigers (13-12) hosts Stony Brook Seawolves (15-10) at SECU Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Towson Tigers favored by 5.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.0-point spread indicates Towson Tigers is viewed as the better team, but this isn't an overwhelming edge. Stony Brook Seawolves has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 5.5-point spread indicates Towson Tigers is viewed as the better team, but this isn't an overwhelming edge. Stony Brook Seawolves has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Stony Brook Seawolves** bring an offensive efficiency of 105.39 (ranked #234 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.9% three-point shooting is serviceable but won't scare anyone. 

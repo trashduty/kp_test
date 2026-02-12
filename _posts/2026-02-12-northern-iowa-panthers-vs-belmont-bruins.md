@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Belmont Bruins -4.5</p>
-  <p><strong>Moneyline:</strong> Northern Iowa Panthers (+192) | Belmont Bruins (-230)</p>
+  <p><strong>Spread:</strong> Belmont Bruins -5.5</p>
+  <p><strong>Moneyline:</strong> Northern Iowa Panthers (+190) | Belmont Bruins (-227)</p>
   <p><strong>Total:</strong> 134.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northern Iowa Panthers**: 4.5, Edge For Covering Spread: -0.9%
-- **Belmont Bruins**: -4.5, Edge For Covering Spread: -3.8%
+- **Northern Iowa Panthers**: 5.5, Edge For Covering Spread: -2.1%
+- **Belmont Bruins**: -5.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Northern Iowa Panthers Win Probability**: 32.5%, Moneyline Edge: -1.7%
-- **Belmont Bruins Win Probability**: 67.5%, Moneyline Edge: -2.2%
+- **Northern Iowa Panthers Win Probability**: 32.6%, Moneyline Edge: -1.9%
+- **Belmont Bruins Win Probability**: 67.4%, Moneyline Edge: -2.1%
 
 ### Total
 - **Predicted Total**: 136.0
-- Edge For Covering The Over: -5.3%
-- Edge For Covering The Under: **0.5%**
+- Edge For Covering The Over: -4.9%
+- Edge For Covering The Under: **0.2%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Belmont Bruins (22-4) hosts Northern Iowa Panthers (16-9) at Curb Event Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Belmont Bruins favored by 4.5 points, with the total sitting at 134.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Belmont Bruins (22-4) hosts Northern Iowa Panthers (16-9) at Curb Event Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Belmont Bruins favored by 5.5 points, with the total sitting at 134.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Belmont Bruins is viewed as the better team, but this isn't an overwhelming edge. Northern Iowa Panthers has a legitimate path to covering or winning outright. The total of 134.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+The 5.5-point spread indicates Belmont Bruins is viewed as the better team, but this isn't an overwhelming edge. Northern Iowa Panthers has a legitimate path to covering or winning outright. The total of 134.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **Northern Iowa Panthers** bring an offensive efficiency of 103.73 (ranked #262 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.4% three-point shooting is serviceable but won't scare anyone. 

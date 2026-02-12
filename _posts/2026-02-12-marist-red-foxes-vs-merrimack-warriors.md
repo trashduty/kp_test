@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Merrimack Warriors -3.5</p>
-  <p><strong>Moneyline:</strong> Marist Red Foxes (+140) | Merrimack Warriors (-167)</p>
+  <p><strong>Moneyline:</strong> Marist Red Foxes (+140) | Merrimack Warriors (-170)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Marist Red Foxes**: 3.5, Edge For Covering Spread: -1.8%
+- **Marist Red Foxes**: 3.5, Edge For Covering Spread: -0.6%
 - **Merrimack Warriors**: -3.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Marist Red Foxes Win Probability**: 40.5%, Moneyline Edge: -1.2%
-- **Merrimack Warriors Win Probability**: 59.5%, Moneyline Edge: -3.1%
+- **Marist Red Foxes Win Probability**: 40.5%, Moneyline Edge: -1.1%
+- **Merrimack Warriors Win Probability**: 59.5%, Moneyline Edge: -3.5%
 
 ### Total
 - **Predicted Total**: 128.5
-- Edge For Covering The Over: -6.0%
-- Edge For Covering The Under: **1.3%**
+- Edge For Covering The Over: -5.5%
+- Edge For Covering The Under: -0.2%
 
 ---
 

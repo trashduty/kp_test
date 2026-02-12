@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Utah Valley Wolverines -7.5</p>
-  <p><strong>Moneyline:</strong> Utah Valley Wolverines (-340) | Utah Tech Trailblazers (+270)</p>
+  <p><strong>Moneyline:</strong> Utah Valley Wolverines (-332) | Utah Tech Trailblazers (+265)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Utah Valley Wolverines**: -7.5, Edge For Covering Spread: -4.4%
-- **Utah Tech Trailblazers**: 7.5, Edge For Covering Spread: -0.3%
+- **Utah Valley Wolverines**: -7.5, Edge For Covering Spread: -4.9%
+- **Utah Tech Trailblazers**: 7.5, Edge For Covering Spread: **0.2%**
 
 ### Moneyline
-- **Utah Valley Wolverines Win Probability**: 69.8%, Moneyline Edge: -7.5%
-- **Utah Tech Trailblazers Win Probability**: 30.2%, Moneyline Edge: **3.2%**
+- **Utah Valley Wolverines Win Probability**: 69.7%, Moneyline Edge: -7.2%
+- **Utah Tech Trailblazers Win Probability**: 30.3%, Moneyline Edge: **2.9%**
 
 ### Total
 - **Predicted Total**: 149.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -1.3%
 
 ---
 

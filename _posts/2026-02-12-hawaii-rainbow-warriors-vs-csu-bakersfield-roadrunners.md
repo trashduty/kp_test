@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Hawai'i Rainbow Warriors -12.5</p>
-  <p><strong>Moneyline:</strong> Hawai'i Rainbow Warriors (-1169) | CSU Bakersfield Roadrunners (+683)</p>
+  <p><strong>Moneyline:</strong> Hawai'i Rainbow Warriors (-1400) | CSU Bakersfield Roadrunners (+750)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Hawai'i Rainbow Warriors**: -12.5, Edge For Covering Spread: -3.5%
-- **CSU Bakersfield Roadrunners**: 12.5, Edge For Covering Spread: -1.2%
+- **Hawai'i Rainbow Warriors**: -12.5, Edge For Covering Spread: -2.9%
+- **CSU Bakersfield Roadrunners**: 12.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Hawai'i Rainbow Warriors Win Probability**: 87.4%, Moneyline Edge: -4.7%
-- **CSU Bakersfield Roadrunners Win Probability**: 12.6%, Moneyline Edge: -0.2%
+- **Hawai'i Rainbow Warriors Win Probability**: 87.9%, Moneyline Edge: -5.4%
+- **CSU Bakersfield Roadrunners Win Probability**: 12.1%, Moneyline Edge: **0.3%**
 
 ### Total
-- **Predicted Total**: 148.5
-- Edge For Covering The Over: -4.2%
-- Edge For Covering The Under: -0.5%
+- **Predicted Total**: 148.0
+- Edge For Covering The Over: -6.3%
+- Edge For Covering The Under: -0.1%
 
 ---
 
