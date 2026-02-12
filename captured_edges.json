@@ -3262,5 +3262,13 @@
   "CSU Bakersfield Roadrunners vs. Hawai'i Rainbow Warriors|under": {
     "captured_at": "2026-02-11T23:13:03.189952+00:00",
     "edge_type": "under"
+  },
+  "Drexel Dragons vs. Monmouth Hawks|Drexel Dragons|moneyline": {
+    "captured_at": "2026-02-12T00:36:55.151380+00:00",
+    "edge_type": "moneyline"
+  },
+  "Eastern Washington Eagles vs. Idaho State Bengals|Eastern Washington Eagles|moneyline": {
+    "captured_at": "2026-02-12T00:36:55.156152+00:00",
+    "edge_type": "moneyline"
   }
 }
