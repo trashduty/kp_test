@@ -3310,5 +3310,9 @@
   "Hampton Pirates vs. North Carolina A&T Aggies|North Carolina A&T Aggies|spread": {
     "captured_at": "2026-02-12T19:27:02.576243+00:00",
     "edge_type": "spread"
+  },
+  "GW Revolutionaries vs. George Mason Patriots|GW Revolutionaries|moneyline": {
+    "captured_at": "2026-02-12T20:13:51.172987+00:00",
+    "edge_type": "moneyline"
   }
 }
