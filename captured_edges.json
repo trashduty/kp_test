@@ -3334,5 +3334,13 @@
   "Utah State Aggies vs. Memphis Tigers|under": {
     "captured_at": "2026-02-13T21:15:35.844264+00:00",
     "edge_type": "under"
+  },
+  "St. Bonaventure Bonnies vs. Duquesne Dukes|Duquesne Dukes|spread": {
+    "captured_at": "2026-02-13T23:13:10.313701+00:00",
+    "edge_type": "spread"
+  },
+  "Western Kentucky Hilltoppers vs. Middle Tennessee Blue Raiders|Middle Tennessee Blue Raiders|spread": {
+    "captured_at": "2026-02-13T23:13:10.315913+00:00",
+    "edge_type": "spread"
   }
 }
