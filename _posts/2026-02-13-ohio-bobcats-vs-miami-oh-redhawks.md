@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Miami (OH) RedHawks -10.5</p>
-  <p><strong>Moneyline:</strong> Ohio Bobcats (+427) | Miami (OH) RedHawks (-600)</p>
+  <p><strong>Moneyline:</strong> Ohio Bobcats (+460) | Miami (OH) RedHawks (-662)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Miami (OH) RedHawks**: -10.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Ohio Bobcats Win Probability**: 15.1%, Moneyline Edge: -3.9%
-- **Miami (OH) RedHawks Win Probability**: 84.9%, Moneyline Edge: -0.8%
+- **Ohio Bobcats Win Probability**: 14.5%, Moneyline Edge: -3.3%
+- **Miami (OH) RedHawks Win Probability**: 85.5%, Moneyline Edge: -1.4%
 
 ### Total
 - **Predicted Total**: 162.5

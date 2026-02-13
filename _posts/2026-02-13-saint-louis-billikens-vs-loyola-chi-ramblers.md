@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Saint Louis Billikens -18.5</p>
-  <p><strong>Moneyline:</strong> Saint Louis Billikens (-3557) | Loyola (Chi) Ramblers (+1400)</p>
+  <p><strong>Moneyline:</strong> Saint Louis Billikens (-3297) | Loyola (Chi) Ramblers (+1348)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -28,12 +28,12 @@ All that being said, here's how our model prices this game.
 - **Loyola (Chi) Ramblers**: 18.5, Edge For Covering Spread: -7.0%
 
 ### Moneyline
-- **Saint Louis Billikens Win Probability**: 94.8%, Moneyline Edge: -2.5%
-- **Loyola (Chi) Ramblers Win Probability**: 5.2%, Moneyline Edge: -1.5%
+- **Saint Louis Billikens Win Probability**: 94.7%, Moneyline Edge: -2.4%
+- **Loyola (Chi) Ramblers Win Probability**: 5.3%, Moneyline Edge: -1.6%
 
 ### Total
 - **Predicted Total**: 155.0
-- Edge For Covering The Over: -3.1%
+- Edge For Covering The Over: -4.6%
 - Edge For Covering The Under: -1.6%
 
 ---

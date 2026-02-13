@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arizona Wildcats -9.5</p>
-  <p><strong>Moneyline:</strong> Texas Tech Red Raiders (+440) | Arizona Wildcats (-600)</p>
+  <p><strong>Moneyline:</strong> Texas Tech Red Raiders (+445) | Arizona Wildcats (-647)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Arizona Wildcats**: -9.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Texas Tech Red Raiders Win Probability**: 16.4%, Moneyline Edge: -2.1%
-- **Arizona Wildcats Win Probability**: 83.6%, Moneyline Edge: -2.1%
+- **Texas Tech Red Raiders Win Probability**: 16.2%, Moneyline Edge: -2.1%
+- **Arizona Wildcats Win Probability**: 83.8%, Moneyline Edge: -2.8%
 
 ### Total
 - **Predicted Total**: 155.0

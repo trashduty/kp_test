@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Cornell Big Red -2.5</p>
-  <p><strong>Moneyline:</strong> Cornell Big Red (-145) | Princeton Tigers (+125)</p>
+  <p><strong>Moneyline:</strong> Cornell Big Red (-150) | Princeton Tigers (+125)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Princeton Tigers**: 2.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Cornell Big Red Win Probability**: 53.7%, Moneyline Edge: -5.5%
-- **Princeton Tigers Win Probability**: 46.3%, Moneyline Edge: **1.9%**
+- **Cornell Big Red Win Probability**: 53.6%, Moneyline Edge: -6.4%
+- **Princeton Tigers Win Probability**: 46.4%, Moneyline Edge: **1.9%**
 
 ### Total
-- **Predicted Total**: 158.0
-- Edge For Covering The Over: **0.2%**
-- Edge For Covering The Under: -4.9%
+- **Predicted Total**: 157.5
+- Edge For Covering The Over: **1.0%**
+- Edge For Covering The Under: -5.8%
 
 ---
 

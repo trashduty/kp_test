@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Duke Blue Devils**: -11.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Clemson Tigers Win Probability**: 13.6%, Moneyline Edge: -2.0%
-- **Duke Blue Devils Win Probability**: 86.4%, Moneyline Edge: -2.8%
+- **Clemson Tigers Win Probability**: 13.7%, Moneyline Edge: -2.0%
+- **Duke Blue Devils Win Probability**: 86.3%, Moneyline Edge: -2.8%
 
 ### Total
 - **Predicted Total**: 133.0

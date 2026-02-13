@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **Sacred Heart Pioneers Win Probability**: 45.9%, Moneyline Edge: -1.8%
 
 ### Total
-- **Predicted Total**: 147.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 147.0
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -3.0%
 
 ---
 

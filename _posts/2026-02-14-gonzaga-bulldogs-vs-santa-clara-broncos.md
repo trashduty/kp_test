@@ -28,7 +28,7 @@ All that being said, here's how our model prices this game.
 - **Santa Clara Broncos**: 3.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Gonzaga Bulldogs Win Probability**: 60.1%, Moneyline Edge: -3.8%
+- **Gonzaga Bulldogs Win Probability**: 60.1%, Moneyline Edge: -3.9%
 - **Santa Clara Broncos Win Probability**: 39.9%, Moneyline Edge: -0.1%
 
 ### Total

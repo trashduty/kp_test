@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Boise State Broncos -10.0</p>
-  <p><strong>Moneyline:</strong> UNLV Rebels (+425) | Boise State Broncos (-579)</p>
+  <p><strong>Spread:</strong> Boise State Broncos -9.5</p>
+  <p><strong>Moneyline:</strong> UNLV Rebels (+412) | Boise State Broncos (-579)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UNLV Rebels**: 10.0, Edge For Covering Spread: -4.0%
-- **Boise State Broncos**: -10.0, Edge For Covering Spread: -0.8%
+- **UNLV Rebels**: 9.5, Edge For Covering Spread: -2.1%
+- **Boise State Broncos**: -9.5, Edge For Covering Spread: -2.5%
 
 ### Moneyline
-- **UNLV Rebels Win Probability**: 17.1%, Moneyline Edge: -1.9%
-- **Boise State Broncos Win Probability**: 82.9%, Moneyline Edge: -2.4%
+- **UNLV Rebels Win Probability**: 17.3%, Moneyline Edge: -2.2%
+- **Boise State Broncos Win Probability**: 82.7%, Moneyline Edge: -2.6%
 
 ### Total
-- **Predicted Total**: 156.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 155.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Boise State Broncos (15-9) hosts UNLV Rebels (12-12) at ExtraMile Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Boise State Broncos favored by 10.0 points, with the total sitting at 157.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Boise State Broncos (15-9) hosts UNLV Rebels (12-12) at ExtraMile Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Boise State Broncos favored by 9.5 points, with the total sitting at 157.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.0 points tells us Boise State Broncos has clear advantages, but games aren't played on paper. UNLV Rebels needs to punch above their weight class to keep this close. The total of 157.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 9.5 points tells us Boise State Broncos has clear advantages, but games aren't played on paper. UNLV Rebels needs to punch above their weight class to keep this close. The total of 157.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **UNLV Rebels** bring an offensive efficiency of 109.22 (ranked #159 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.6% three-point shooting is serviceable but won't scare anyone. 

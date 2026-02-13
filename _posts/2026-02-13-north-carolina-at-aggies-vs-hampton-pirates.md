@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Hampton Pirates -3.5</p>
-  <p><strong>Moneyline:</strong> North Carolina A&T Aggies (+142) | Hampton Pirates (-170)</p>
+  <p><strong>Moneyline:</strong> North Carolina A&T Aggies (+139) | Hampton Pirates (-166)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Hampton Pirates**: -3.5, Edge For Covering Spread: -4.6%
 
 ### Moneyline
-- **North Carolina A&T Aggies Win Probability**: 40.8%, Moneyline Edge: -0.5%
-- **Hampton Pirates Win Probability**: 59.2%, Moneyline Edge: -3.8%
+- **North Carolina A&T Aggies Win Probability**: 41.1%, Moneyline Edge: -0.8%
+- **Hampton Pirates Win Probability**: 58.9%, Moneyline Edge: -3.5%
 
 ### Total
 - **Predicted Total**: 140.0
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -2.1%
+- Edge For Covering The Under: -2.7%
 
 ---
 

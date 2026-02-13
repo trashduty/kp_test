@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Florida Gators -11.5</p>
-  <p><strong>Moneyline:</strong> Kentucky Wildcats (+537) | Florida Gators (-819)</p>
+  <p><strong>Moneyline:</strong> Kentucky Wildcats (+512) | Florida Gators (-774)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Florida Gators**: -11.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Kentucky Wildcats Win Probability**: 12.5%, Moneyline Edge: -3.2%
-- **Florida Gators Win Probability**: 87.5%, Moneyline Edge: -1.6%
+- **Kentucky Wildcats Win Probability**: 12.8%, Moneyline Edge: -3.5%
+- **Florida Gators Win Probability**: 87.2%, Moneyline Edge: -1.3%
 
 ### Total
 - **Predicted Total**: 152.0

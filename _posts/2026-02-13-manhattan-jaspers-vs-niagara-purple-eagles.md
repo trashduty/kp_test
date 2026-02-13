@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Niagara Purple Eagles -2.5</p>
-  <p><strong>Moneyline:</strong> Manhattan Jaspers (+120) | Niagara Purple Eagles (-142)</p>
+  <p><strong>Moneyline:</strong> Manhattan Jaspers (+110) | Niagara Purple Eagles (-132)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Manhattan Jaspers**: 2.5, Edge For Covering Spread: -3.5%
-- **Niagara Purple Eagles**: -2.5, Edge For Covering Spread: -1.2%
+- **Manhattan Jaspers**: 2.5, Edge For Covering Spread: -2.4%
+- **Niagara Purple Eagles**: -2.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Manhattan Jaspers Win Probability**: 41.5%, Moneyline Edge: -4.0%
-- **Niagara Purple Eagles Win Probability**: 58.5%, Moneyline Edge: -0.2%
+- **Manhattan Jaspers Win Probability**: 42.3%, Moneyline Edge: -5.3%
+- **Niagara Purple Eagles Win Probability**: 57.7%, Moneyline Edge: **0.8%**
 
 ### Total
 - **Predicted Total**: 138.0
-- Edge For Covering The Over: -1.5%
-- Edge For Covering The Under: -3.2%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.1%
 
 ---
 

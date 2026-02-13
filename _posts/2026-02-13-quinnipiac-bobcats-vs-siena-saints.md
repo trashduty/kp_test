@@ -25,7 +25,7 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **Quinnipiac Bobcats**: 3.5, Edge For Covering Spread: -2.2%
-- **Siena Saints**: -3.5, Edge For Covering Spread: -2.9%
+- **Siena Saints**: -3.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
 - **Quinnipiac Bobcats Win Probability**: 36.5%, Moneyline Edge: -2.0%

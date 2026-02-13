@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> GW Revolutionaries -2.5</p>
-  <p><strong>Moneyline:</strong> George Mason Patriots (+127) | GW Revolutionaries (-150)</p>
+  <p><strong>Moneyline:</strong> George Mason Patriots (+125) | GW Revolutionaries (-149)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **George Mason Patriots**: 2.5, Edge For Covering Spread: -5.8%
-- **GW Revolutionaries**: -2.5, Edge For Covering Spread: **1.1%**
+- **George Mason Patriots**: 2.5, Edge For Covering Spread: -4.4%
+- **GW Revolutionaries**: -2.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **George Mason Patriots Win Probability**: 38.3%, Moneyline Edge: -5.7%
-- **GW Revolutionaries Win Probability**: 61.7%, Moneyline Edge: **1.7%**
+- **George Mason Patriots Win Probability**: 38.5%, Moneyline Edge: -6.0%
+- **GW Revolutionaries Win Probability**: 61.5%, Moneyline Edge: **1.7%**
 
 ### Total
 - **Predicted Total**: 148.5

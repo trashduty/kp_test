@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Iona Gaels -5.5</p>
-  <p><strong>Moneyline:</strong> Iona Gaels (-270) | Canisius Golden Griffins (+220)</p>
+  <p><strong>Moneyline:</strong> Iona Gaels (-250) | Canisius Golden Griffins (+210)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Iona Gaels**: -5.5, Edge For Covering Spread: -5.8%
-- **Canisius Golden Griffins**: 5.5, Edge For Covering Spread: **1.2%**
+- **Iona Gaels**: -5.5, Edge For Covering Spread: -4.1%
+- **Canisius Golden Griffins**: 5.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Iona Gaels Win Probability**: 69.5%, Moneyline Edge: -3.5%
-- **Canisius Golden Griffins Win Probability**: 30.5%, Moneyline Edge: -0.8%
+- **Iona Gaels Win Probability**: 68.9%, Moneyline Edge: -2.5%
+- **Canisius Golden Griffins Win Probability**: 31.1%, Moneyline Edge: -1.2%
 
 ### Total
 - **Predicted Total**: 138.0

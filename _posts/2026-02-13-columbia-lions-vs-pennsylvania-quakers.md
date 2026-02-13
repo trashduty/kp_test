@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Pennsylvania Quakers**: -3.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Columbia Lions Win Probability**: 39.9%, Moneyline Edge: -2.6%
-- **Pennsylvania Quakers Win Probability**: 60.1%, Moneyline Edge: -1.5%
+- **Columbia Lions Win Probability**: 39.9%, Moneyline Edge: -2.7%
+- **Pennsylvania Quakers Win Probability**: 60.1%, Moneyline Edge: -1.4%
 
 ### Total
-- **Predicted Total**: 149.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 148.5
+- Edge For Covering The Over: -0.8%
+- Edge For Covering The Under: -3.9%
 
 ---
 

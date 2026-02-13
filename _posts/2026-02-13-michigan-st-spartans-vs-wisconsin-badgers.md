@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan St Spartans -1.5</p>
-  <p><strong>Moneyline:</strong> Michigan St Spartans (-125) | Wisconsin Badgers (+105)</p>
+  <p><strong>Moneyline:</strong> Michigan St Spartans (-136) | Wisconsin Badgers (+114)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan St Spartans**: -1.5, Edge For Covering Spread: -2.2%
-- **Wisconsin Badgers**: 1.5, Edge For Covering Spread: -2.6%
+- **Michigan St Spartans**: -1.5, Edge For Covering Spread: -3.4%
+- **Wisconsin Badgers**: 1.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **Michigan St Spartans Win Probability**: 54.8%, Moneyline Edge: -0.8%
-- **Wisconsin Badgers Win Probability**: 45.2%, Moneyline Edge: -3.6%
+- **Michigan St Spartans Win Probability**: 55.8%, Moneyline Edge: -1.9%
+- **Wisconsin Badgers Win Probability**: 44.2%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 146.0
-- Edge For Covering The Over: -2.7%
-- Edge For Covering The Under: -3.8%
+- Edge For Covering The Over: -2.1%
+- Edge For Covering The Under: -2.7%
 
 ---
 

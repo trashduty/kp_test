@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Yale Bulldogs -9.5</p>
-  <p><strong>Moneyline:</strong> Yale Bulldogs (-480) | Dartmouth Big Green (+362)</p>
+  <p><strong>Moneyline:</strong> Yale Bulldogs (-475) | Dartmouth Big Green (+360)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Dartmouth Big Green**: 9.5, Edge For Covering Spread: -1.1%
 
 ### Moneyline
-- **Yale Bulldogs Win Probability**: 78.7%, Moneyline Edge: -4.0%
-- **Dartmouth Big Green Win Probability**: 21.3%, Moneyline Edge: -0.4%
+- **Yale Bulldogs Win Probability**: 78.6%, Moneyline Edge: -4.0%
+- **Dartmouth Big Green Win Probability**: 21.4%, Moneyline Edge: -0.3%
 
 ### Total
 - **Predicted Total**: 153.5
-- Edge For Covering The Over: -1.9%
-- Edge For Covering The Under: -2.8%
+- Edge For Covering The Over: -1.4%
+- Edge For Covering The Under: -3.4%
 
 ---
 

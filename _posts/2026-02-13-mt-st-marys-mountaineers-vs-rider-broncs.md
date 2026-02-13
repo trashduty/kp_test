@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Rider Broncs**: 5.0, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Mt. St. Mary's Mountaineers Win Probability**: 67.2%, Moneyline Edge: -2.3%
-- **Rider Broncs Win Probability**: 32.8%, Moneyline Edge: -1.6%
+- **Mt. St. Mary's Mountaineers Win Probability**: 67.3%, Moneyline Edge: -2.2%
+- **Rider Broncs Win Probability**: 32.7%, Moneyline Edge: -1.8%
 
 ### Total
 - **Predicted Total**: 140.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -1.0%
 
 ---
 

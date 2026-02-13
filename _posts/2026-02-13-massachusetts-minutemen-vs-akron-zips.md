@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Akron Zips -13.5</p>
-  <p><strong>Moneyline:</strong> Massachusetts Minutemen (+760) | Akron Zips (-1250)</p>
+  <p><strong>Moneyline:</strong> Massachusetts Minutemen (+720) | Akron Zips (-1200)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Akron Zips**: -13.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Massachusetts Minutemen Win Probability**: 12.1%, Moneyline Edge: **0.5%**
-- **Akron Zips Win Probability**: 87.9%, Moneyline Edge: -4.7%
+- **Massachusetts Minutemen Win Probability**: 12.3%, Moneyline Edge: **0.1%**
+- **Akron Zips Win Probability**: 87.7%, Moneyline Edge: -4.6%
 
 ### Total
 - **Predicted Total**: 161.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -4.6%
+- Edge For Covering The Over: -1.4%
+- Edge For Covering The Under: -4.9%
 
 ---
 

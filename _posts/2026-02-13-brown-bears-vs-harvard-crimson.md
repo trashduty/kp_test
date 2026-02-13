@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Harvard Crimson -8.5</p>
-  <p><strong>Moneyline:</strong> Brown Bears (+325) | Harvard Crimson (-420)</p>
+  <p><strong>Moneyline:</strong> Brown Bears (+320) | Harvard Crimson (-417)</p>
   <p><strong>Total:</strong> 130.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Harvard Crimson**: -8.5, Edge For Covering Spread: **0.6%**
 
 ### Moneyline
-- **Brown Bears Win Probability**: 22.3%, Moneyline Edge: -1.3%
-- **Harvard Crimson Win Probability**: 77.7%, Moneyline Edge: -3.0%
+- **Brown Bears Win Probability**: 22.4%, Moneyline Edge: -1.4%
+- **Harvard Crimson Win Probability**: 77.6%, Moneyline Edge: -3.1%
 
 ### Total
 - **Predicted Total**: 130.5
-- Edge For Covering The Over: -5.5%
-- Edge For Covering The Under: **0.7%**
+- Edge For Covering The Over: -5.7%
+- Edge For Covering The Under: **1.0%**
 
 ---
 
