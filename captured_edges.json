@@ -3330,5 +3330,9 @@
   "Baylor Bears vs. Louisville Cardinals|Louisville Cardinals|moneyline": {
     "captured_at": "2026-02-13T16:19:16.730208+00:00",
     "edge_type": "moneyline"
+  },
+  "Utah State Aggies vs. Memphis Tigers|under": {
+    "captured_at": "2026-02-13T21:15:35.844264+00:00",
+    "edge_type": "under"
   }
 }
