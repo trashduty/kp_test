@@ -3382,5 +3382,13 @@
   "East Tennessee St Buccaneers vs. Samford Bulldogs|East Tennessee St Buccaneers|moneyline": {
     "captured_at": "2026-02-14T00:36:14.683507+00:00",
     "edge_type": "moneyline"
+  },
+  "Ball State Cardinals vs. Kent State Golden Flashes|Ball State Cardinals|spread": {
+    "captured_at": "2026-02-14T01:38:16.075203+00:00",
+    "edge_type": "spread"
+  },
+  "Fresno St Bulldogs vs. Air Force Falcons|under": {
+    "captured_at": "2026-02-14T01:38:16.081249+00:00",
+    "edge_type": "under"
   }
 }
