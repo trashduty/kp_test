@@ -3390,5 +3390,9 @@
   "Fresno St Bulldogs vs. Air Force Falcons|under": {
     "captured_at": "2026-02-14T01:38:16.081249+00:00",
     "edge_type": "under"
+  },
+  "Rice Owls vs. East Carolina Pirates|Rice Owls|spread": {
+    "captured_at": "2026-02-14T03:02:44.906762+00:00",
+    "edge_type": "spread"
   }
 }
