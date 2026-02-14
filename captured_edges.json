@@ -3414,5 +3414,25 @@
   "San Jos\u00e9 St Spartans vs. Grand Canyon Antelopes|San Jos\u00e9 St Spartans|spread": {
     "captured_at": "2026-02-14T20:08:36.385002+00:00",
     "edge_type": "spread"
+  },
+  "Temple Owls vs. North Texas Mean Green|under": {
+    "captured_at": "2026-02-14T22:07:26.113907+00:00",
+    "edge_type": "under"
+  },
+  "Sacred Heart Pioneers vs. Rider Broncs|Sacred Heart Pioneers|spread": {
+    "captured_at": "2026-02-14T22:07:26.114720+00:00",
+    "edge_type": "spread"
+  },
+  "Florida Atlantic Owls vs. South Florida Bulls|Florida Atlantic Owls|spread": {
+    "captured_at": "2026-02-14T22:07:26.114837+00:00",
+    "edge_type": "spread"
+  },
+  "Murray St Racers vs. Belmont Bruins|Belmont Bruins|moneyline": {
+    "captured_at": "2026-02-14T22:07:26.116114+00:00",
+    "edge_type": "moneyline"
+  },
+  "Monmouth Hawks vs. Towson Tigers|under": {
+    "captured_at": "2026-02-14T22:07:26.116440+00:00",
+    "edge_type": "under"
   }
 }
