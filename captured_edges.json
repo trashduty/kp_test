@@ -3406,5 +3406,9 @@
   "Utah Tech Trailblazers vs. Cal Baptist Lancers|under": {
     "captured_at": "2026-02-14T09:11:45.249248+00:00",
     "edge_type": "under"
+  },
+  "Princeton Tigers vs. Columbia Lions|Princeton Tigers|moneyline": {
+    "captured_at": "2026-02-14T16:09:40.502269+00:00",
+    "edge_type": "moneyline"
   }
 }
