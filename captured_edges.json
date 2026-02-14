@@ -3410,5 +3410,9 @@
   "Princeton Tigers vs. Columbia Lions|Princeton Tigers|moneyline": {
     "captured_at": "2026-02-14T16:09:40.502269+00:00",
     "edge_type": "moneyline"
+  },
+  "San Jos\u00e9 St Spartans vs. Grand Canyon Antelopes|San Jos\u00e9 St Spartans|spread": {
+    "captured_at": "2026-02-14T20:08:36.385002+00:00",
+    "edge_type": "spread"
   }
 }
