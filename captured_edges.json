@@ -3342,5 +3342,45 @@
   "Western Kentucky Hilltoppers vs. Middle Tennessee Blue Raiders|Middle Tennessee Blue Raiders|spread": {
     "captured_at": "2026-02-13T23:13:10.315913+00:00",
     "edge_type": "spread"
+  },
+  "UNC Asheville Bulldogs vs. Presbyterian Blue Hose|UNC Asheville Bulldogs|spread": {
+    "captured_at": "2026-02-14T00:36:14.671505+00:00",
+    "edge_type": "spread"
+  },
+  "Central Arkansas Bears vs. West Georgia Wolves|Central Arkansas Bears|spread": {
+    "captured_at": "2026-02-14T00:36:14.671772+00:00",
+    "edge_type": "spread"
+  },
+  "Norfolk St Spartans vs. Delaware St Hornets|under": {
+    "captured_at": "2026-02-14T00:36:14.676641+00:00",
+    "edge_type": "under"
+  },
+  "SIU-Edwardsville Cougars vs. Tenn-Martin Skyhawks|SIU-Edwardsville Cougars|moneyline": {
+    "captured_at": "2026-02-14T00:36:14.676747+00:00",
+    "edge_type": "moneyline"
+  },
+  "Northwestern St Demons vs. SE Louisiana Lions|Northwestern St Demons|spread": {
+    "captured_at": "2026-02-14T00:36:14.677302+00:00",
+    "edge_type": "spread"
+  },
+  "Eastern Illinois Panthers vs. Arkansas-Little Rock Trojans|Eastern Illinois Panthers|spread": {
+    "captured_at": "2026-02-14T00:36:14.677902+00:00",
+    "edge_type": "spread"
+  },
+  "UC Davis Aggies vs. Long Beach St 49ers|UC Davis Aggies|moneyline": {
+    "captured_at": "2026-02-14T00:36:14.678188+00:00",
+    "edge_type": "moneyline"
+  },
+  "Central Michigan Chippewas vs. Northern Illinois Huskies|Central Michigan Chippewas|moneyline": {
+    "captured_at": "2026-02-14T00:36:14.678509+00:00",
+    "edge_type": "moneyline"
+  },
+  "Pepperdine Waves vs. Loyola Marymount Lions|under": {
+    "captured_at": "2026-02-14T00:36:14.679772+00:00",
+    "edge_type": "under"
+  },
+  "East Tennessee St Buccaneers vs. Samford Bulldogs|East Tennessee St Buccaneers|moneyline": {
+    "captured_at": "2026-02-14T00:36:14.683507+00:00",
+    "edge_type": "moneyline"
   }
 }
