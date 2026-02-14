@@ -3434,5 +3434,17 @@
   "Monmouth Hawks vs. Towson Tigers|under": {
     "captured_at": "2026-02-14T22:07:26.116440+00:00",
     "edge_type": "under"
+  },
+  "Southern Illinois Salukis vs. Bradley Braves|Southern Illinois Salukis|spread": {
+    "captured_at": "2026-02-14T23:08:59.457228+00:00",
+    "edge_type": "spread"
+  },
+  "UIC Flames vs. Illinois St Redbirds|UIC Flames|moneyline": {
+    "captured_at": "2026-02-14T23:08:59.457892+00:00",
+    "edge_type": "moneyline"
+  },
+  "Murray St Racers vs. Belmont Bruins|Belmont Bruins|spread": {
+    "captured_at": "2026-02-14T23:08:59.458446+00:00",
+    "edge_type": "spread"
   }
 }
