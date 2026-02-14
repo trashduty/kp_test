@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Michigan Wolverines -16.5</p>
-  <p><strong>Moneyline:</strong> UCLA Bruins (+1637) | Michigan Wolverines (-4506)</p>
+  <p><strong>Spread:</strong> Michigan Wolverines -15.5</p>
+  <p><strong>Moneyline:</strong> UCLA Bruins (+1048) | Michigan Wolverines (-2100)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,15 +24,15 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UCLA Bruins**: 16.5, Edge For Covering Spread: -2.4%
-- **Michigan Wolverines**: -16.5, Edge For Covering Spread: -2.4%
+- **UCLA Bruins**: 15.5, Edge For Covering Spread: -4.0%
+- **Michigan Wolverines**: -15.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **UCLA Bruins Win Probability**: 6.3%, Moneyline Edge: **0.5%**
-- **Michigan Wolverines Win Probability**: 93.7%, Moneyline Edge: -4.1%
+- **UCLA Bruins Win Probability**: 7.7%, Moneyline Edge: -1.0%
+- **Michigan Wolverines Win Probability**: 92.3%, Moneyline Edge: -3.1%
 
 ### Total
-- **Predicted Total**: 151.5
+- **Predicted Total**: 152.5
 - Edge For Covering The Over: -2.4%
 - Edge For Covering The Under: -2.4%
 
@@ -42,13 +42,13 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Michigan Wolverines (23-1) hosts UCLA Bruins (17-7) at Crisler Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Michigan Wolverines favored by 16.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Michigan Wolverines (23-1) hosts UCLA Bruins (17-7) at Crisler Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Michigan Wolverines favored by 15.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 16.5-point spread screams mismatch. The books are asking UCLA Bruins to hang within two possessions, which based on the profiles, requires Michigan Wolverines to play below their standard. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 15.5-point spread screams mismatch. The books are asking UCLA Bruins to hang within two possessions, which based on the profiles, requires Michigan Wolverines to play below their standard. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
-**UCLA Bruins** bring an offensive efficiency of 117.08 (ranked #50 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 38.5% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
+**UCLA Bruins** bring an offensive efficiency of 117.08 (ranked #51 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 38.5% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
 Meanwhile, **Michigan Wolverines** counter with 122.87 offensive efficiency (#5). This offense can match anyone bucket-for-bucket. At 35.4% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
@@ -68,7 +68,7 @@ On paper, Michigan Wolverines holds the advantage as the higher-ranked team, but
 
 **Key Matchup: Michigan Wolverines's Offense vs UCLA Bruins's Defense**
 
-Michigan Wolverines features a elite offense (ranked #5) that should find success against UCLA Bruins's defensive unit (ranked #82). 
+Michigan Wolverines features a elite offense (ranked #5) that should find success against UCLA Bruins's defensive unit (ranked #81). 
 
 **Pace of Play:** Michigan Wolverines like to push the pace, while UCLA Bruins prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
 
@@ -83,8 +83,8 @@ UCLA Bruins comes in ranked #39 overall by KenPom. They're dangerous from beyond
 - **Record:** 17-7
 - **Head Coach:** Mick Cronin
 - **KenPom Rank:** #39
-- **Offensive Efficiency:** 117.1 (Rank: #50)
-- **Defensive Efficiency:** 103.8 (Rank: #82)
+- **Offensive Efficiency:** 117.1 (Rank: #51)
+- **Defensive Efficiency:** 103.8 (Rank: #81)
 - **Tempo:** 66.6 (Rank: #278)
 
 ### Shooting Breakdown
@@ -92,7 +92,7 @@ UCLA Bruins comes in ranked #39 overall by KenPom. They're dangerous from beyond
 - **2-Point Shooting:** 51.8% (Rank: #178)
 - **3-Point Shooting:** 38.5% (Rank: #14)
 - **Free Throw Shooting:** 77.0% (Rank: #30)
-- **3-Point Rate:** 34.3% (Rank: #291)
+- **3-Point Rate:** 34.3% (Rank: #292)
 
 ### Defensive Stats
 
@@ -105,7 +105,7 @@ UCLA Bruins comes in ranked #39 overall by KenPom. They're dangerous from beyond
 
 - **Assist Rate:** 57.7% (Rank: #63)
 - **Experience:** 2.6 years (Rank: #12)
-- **Bench Minutes:** 32.6% (Rank: #176)
+- **Bench Minutes:** 32.6% (Rank: #175)
 - **Average Height:** 78.1" (Rank: #70)
 
 ---
@@ -125,9 +125,9 @@ Michigan Wolverines comes in ranked #1 overall by KenPom. They boast one of the 
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 62.5% (Rank: #3)
+- **2-Point Shooting:** 62.5% (Rank: #2)
 - **3-Point Shooting:** 35.4% (Rank: #93)
-- **Free Throw Shooting:** 73.5% (Rank: #143)
+- **Free Throw Shooting:** 73.5% (Rank: #144)
 - **3-Point Rate:** 42.4% (Rank: #122)
 
 ### Defensive Stats
@@ -135,7 +135,7 @@ Michigan Wolverines comes in ranked #1 overall by KenPom. They boast one of the 
 - **Opponent 2-Point Shooting:** 42.8% (Rank: #2)
 - **Opponent 3-Point Shooting:** 29.1% (Rank: #10)
 - **Block Percentage:** 16.4% (Rank: #4)
-- **Steal Rate:** 0.1% (Rank: #268)
+- **Steal Rate:** 0.1% (Rank: #269)
 
 ### Team Metrics
 

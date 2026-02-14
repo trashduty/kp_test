@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arizona Wildcats -9.5</p>
-  <p><strong>Moneyline:</strong> Texas Tech Red Raiders (+445) | Arizona Wildcats (-647)</p>
+  <p><strong>Moneyline:</strong> Texas Tech Red Raiders (+377) | Arizona Wildcats (-510)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Texas Tech Red Raiders**: 9.5, Edge For Covering Spread: -4.0%
-- **Arizona Wildcats**: -9.5, Edge For Covering Spread: -0.8%
+- **Texas Tech Red Raiders**: 9.5, Edge For Covering Spread: -5.1%
+- **Arizona Wildcats**: -9.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Texas Tech Red Raiders Win Probability**: 16.2%, Moneyline Edge: -2.1%
-- **Arizona Wildcats Win Probability**: 83.8%, Moneyline Edge: -2.8%
+- **Texas Tech Red Raiders Win Probability**: 17.5%, Moneyline Edge: -3.4%
+- **Arizona Wildcats Win Probability**: 82.5%, Moneyline Edge: -1.1%
 
 ### Total
-- **Predicted Total**: 155.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 156.5
+- Edge For Covering The Over: -3.4%
+- Edge For Covering The Under: -1.4%
 
 ---
 
@@ -49,7 +49,7 @@ A spread around 9.5 points tells us Arizona Wildcats has clear advantages, but g
 
 #### Offensive Firepower
 **Texas Tech Red Raiders** bring an offensive efficiency of 118.56 (ranked #34 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 39.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
-Meanwhile, **Arizona Wildcats** counter with 120.91 offensive efficiency (#21). This offense can match anyone bucket-for-bucket. At 35.7% from three, they have adequate spacing but must pick their spots. 
+Meanwhile, **Arizona Wildcats** counter with 120.91 offensive efficiency (#22). This offense can match anyone bucket-for-bucket. At 35.7% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
 Texas Tech Red Raiders operate at a 69.3 tempo (#153), while Arizona Wildcats play at 73.3 (#16). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.3) should create a standard flow. 
@@ -68,14 +68,14 @@ On paper, Arizona Wildcats holds the advantage as the higher-ranked team, but Te
 
 **Key Matchup: Arizona Wildcats's Offense vs Texas Tech Red Raiders's Defense**
 
-Arizona Wildcats features a elite offense (ranked #21) that should find success against Texas Tech Red Raiders's defensive unit (ranked #100). 
+Arizona Wildcats features a elite offense (ranked #22) that should find success against Texas Tech Red Raiders's defensive unit (ranked #100). 
 
 **X-Factor:** Texas Tech Red Raiders can light it up from three-point range (39.1%), but Arizona Wildcats defend the arc exceptionally well, holding opponents to just 31.4%. This battle on the perimeter could decide the game. 
 
 
 ## Texas Tech Red Raiders
 
-Texas Tech Red Raiders comes in ranked #16 overall by KenPom. They're dangerous from beyond the arc, shooting 39.1% from three (ranked #9 nationally), so expect them to let it fly from deep. 
+Texas Tech Red Raiders comes in ranked #16 overall by KenPom. They're dangerous from beyond the arc, shooting 39.1% from three (ranked #10 nationally), so expect them to let it fly from deep. 
 
 ### Record & Ranking
 - **Record:** 18-6
@@ -87,17 +87,17 @@ Texas Tech Red Raiders comes in ranked #16 overall by KenPom. They're dangerous 
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 53.4% (Rank: #116)
-- **3-Point Shooting:** 39.1% (Rank: #9)
+- **2-Point Shooting:** 53.4% (Rank: #115)
+- **3-Point Shooting:** 39.1% (Rank: #10)
 - **Free Throw Shooting:** 71.0% (Rank: #232)
-- **3-Point Rate:** 47.0% (Rank: #32)
+- **3-Point Rate:** 47.0% (Rank: #33)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 50.9% (Rank: #147)
-- **Opponent 3-Point Shooting:** 31.3% (Rank: #52)
+- **Opponent 3-Point Shooting:** 31.3% (Rank: #50)
 - **Block Percentage:** 9.2% (Rank: #194)
-- **Steal Rate:** 0.1% (Rank: #191)
+- **Steal Rate:** 0.1% (Rank: #190)
 
 ### Team Metrics
 
@@ -110,14 +110,14 @@ Texas Tech Red Raiders comes in ranked #16 overall by KenPom. They're dangerous 
 
 ## Arizona Wildcats
 
-Arizona Wildcats comes in ranked #2 overall by KenPom. They boast one of the nation's top offenses, ranked #21 in efficiency. Their defense has been a calling card this season, making life difficult for opposing offenses. 
+Arizona Wildcats comes in ranked #2 overall by KenPom. They boast one of the nation's top offenses, ranked #22 in efficiency. Their defense has been a calling card this season, making life difficult for opposing offenses. 
 
 ### Record & Ranking
 - **Record:** 23-1
 - **Head Coach:** Tommy Lloyd
 - **Home Arena:** McKale Memorial Center
 - **KenPom Rank:** #2
-- **Offensive Efficiency:** 120.9 (Rank: #21)
+- **Offensive Efficiency:** 120.9 (Rank: #22)
 - **Defensive Efficiency:** 92.8 (Rank: #2)
 - **Tempo:** 73.3 (Rank: #16)
 
@@ -133,12 +133,12 @@ Arizona Wildcats comes in ranked #2 overall by KenPom. They boast one of the nat
 - **Opponent 2-Point Shooting:** 43.1% (Rank: #3)
 - **Opponent 3-Point Shooting:** 31.4% (Rank: #60)
 - **Block Percentage:** 11.7% (Rank: #66)
-- **Steal Rate:** 0.1% (Rank: #48)
+- **Steal Rate:** 0.1% (Rank: #47)
 
 ### Team Metrics
 
 - **Assist Rate:** 56.3% (Rank: #87)
 - **Experience:** 1.5 years (Rank: #161)
-- **Bench Minutes:** 29.6% (Rank: #257)
+- **Bench Minutes:** 29.6% (Rank: #256)
 - **Average Height:** 79.1" (Rank: #7)
 

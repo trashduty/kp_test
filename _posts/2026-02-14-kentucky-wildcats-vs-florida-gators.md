@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Florida Gators -11.5</p>
-  <p><strong>Moneyline:</strong> Kentucky Wildcats (+512) | Florida Gators (-774)</p>
+  <p><strong>Spread:</strong> Florida Gators -12.5</p>
+  <p><strong>Moneyline:</strong> Kentucky Wildcats (+625) | Florida Gators (-1000)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kentucky Wildcats**: 11.5, Edge For Covering Spread: -4.0%
-- **Florida Gators**: -11.5, Edge For Covering Spread: -0.8%
+- **Kentucky Wildcats**: 12.5, Edge For Covering Spread: -1.2%
+- **Florida Gators**: -12.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Kentucky Wildcats Win Probability**: 12.8%, Moneyline Edge: -3.5%
-- **Florida Gators Win Probability**: 87.2%, Moneyline Edge: -1.3%
+- **Kentucky Wildcats Win Probability**: 11.6%, Moneyline Edge: -2.2%
+- **Florida Gators Win Probability**: 88.4%, Moneyline Edge: -2.5%
 
 ### Total
-- **Predicted Total**: 152.0
-- Edge For Covering The Over: -3.1%
+- **Predicted Total**: 153.0
+- Edge For Covering The Over: -4.6%
 - Edge For Covering The Under: -1.6%
 
 ---
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Florida Gators (18-6) hosts Kentucky Wildcats (17-7) at Exactech Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Florida Gators favored by 11.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Florida Gators (18-6) hosts Kentucky Wildcats (17-7) at Exactech Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Florida Gators favored by 12.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us Florida Gators has clear advantages, but games aren't played on paper. Kentucky Wildcats needs to punch above their weight class to keep this close. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 12.5-point spread screams mismatch. The books are asking Kentucky Wildcats to hang within two possessions, which based on the profiles, requires Florida Gators to play below their standard. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
-**Kentucky Wildcats** bring an offensive efficiency of 117.97 (ranked #40 nationally). This is an elite offense that can score in multiple ways. Their 34.5% three-point shooting is serviceable but won't scare anyone. 
+**Kentucky Wildcats** bring an offensive efficiency of 117.97 (ranked #41 nationally). This is an elite offense that can score in multiple ways. Their 34.5% three-point shooting is serviceable but won't scare anyone. 
 Meanwhile, **Florida Gators** counter with 118.94 offensive efficiency (#31). This offense can match anyone bucket-for-bucket. The three-point shot hasn't fallen this year at 29.2%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
-Kentucky Wildcats operate at a 69.1 tempo (#158), while Florida Gators play at 72.6 (#25). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.9) should create a standard flow. 
+Kentucky Wildcats operate at a 69.1 tempo (#157), while Florida Gators play at 72.6 (#25). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.9) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Kentucky Wildcats shoot 55.4% on two-pointers, while Florida Gators convert at 58.3%. Both teams are evenly matched in paint efficiency. 
@@ -73,29 +73,29 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Kentucky Wildcats
 
-Kentucky Wildcats comes in ranked #27 overall by KenPom. They boast one of the nation's top offenses, ranked #40 in efficiency. 
+Kentucky Wildcats comes in ranked #27 overall by KenPom. They boast one of the nation's top offenses, ranked #41 in efficiency. 
 
 ### Record & Ranking
 - **Record:** 17-7
 - **Head Coach:** Mark Pope
 - **KenPom Rank:** #27
-- **Offensive Efficiency:** 118.0 (Rank: #40)
+- **Offensive Efficiency:** 118.0 (Rank: #41)
 - **Defensive Efficiency:** 103.4 (Rank: #70)
-- **Tempo:** 69.1 (Rank: #158)
+- **Tempo:** 69.1 (Rank: #157)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 55.4% (Rank: #62)
+- **2-Point Shooting:** 55.4% (Rank: #63)
 - **3-Point Shooting:** 34.5% (Rank: #138)
 - **Free Throw Shooting:** 72.4% (Rank: #178)
-- **3-Point Rate:** 39.5% (Rank: #185)
+- **3-Point Rate:** 39.5% (Rank: #184)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 48.7% (Rank: #71)
-- **Opponent 3-Point Shooting:** 30.9% (Rank: #44)
+- **Opponent 3-Point Shooting:** 30.9% (Rank: #42)
 - **Block Percentage:** 13.7% (Rank: #20)
-- **Steal Rate:** 0.1% (Rank: #116)
+- **Steal Rate:** 0.1% (Rank: #117)
 
 ### Team Metrics
 
@@ -116,7 +116,7 @@ Florida Gators comes in ranked #5 overall by KenPom. The three-point shot hasn't
 - **Home Arena:** Exactech Arena
 - **KenPom Rank:** #5
 - **Offensive Efficiency:** 118.9 (Rank: #31)
-- **Defensive Efficiency:** 97.8 (Rank: #21)
+- **Defensive Efficiency:** 97.8 (Rank: #20)
 - **Tempo:** 72.6 (Rank: #25)
 
 ### Shooting Breakdown

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Iowa State Cyclones -5.5</p>
-  <p><strong>Moneyline:</strong> Kansas Jayhawks (+200) | Iowa State Cyclones (-242)</p>
+  <p><strong>Spread:</strong> Iowa State Cyclones -6.5</p>
+  <p><strong>Moneyline:</strong> Kansas Jayhawks (+242) | Iowa State Cyclones (-305)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kansas Jayhawks**: 5.5, Edge For Covering Spread: -4.1%
-- **Iowa State Cyclones**: -5.5, Edge For Covering Spread: -0.7%
+- **Kansas Jayhawks**: 6.5, Edge For Covering Spread: **0.4%**
+- **Iowa State Cyclones**: -6.5, Edge For Covering Spread: -5.1%
 
 ### Moneyline
-- **Kansas Jayhawks Win Probability**: 30.5%, Moneyline Edge: -2.8%
-- **Iowa State Cyclones Win Probability**: 69.5%, Moneyline Edge: -1.3%
+- **Kansas Jayhawks Win Probability**: 28.5%, Moneyline Edge: -0.7%
+- **Iowa State Cyclones Win Probability**: 71.5%, Moneyline Edge: -3.8%
 
 ### Total
-- **Predicted Total**: 142.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 145.0
+- Edge For Covering The Over: -4.5%
+- Edge For Covering The Under: -0.3%
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Kansas Jayhawks (19-5) travels to face Iowa State Cyclones (21-3) at Hilton Coliseum, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Iowa State Cyclones favored by 5.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Kansas Jayhawks (19-5) travels to face Iowa State Cyclones (21-3) at Hilton Coliseum, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Iowa State Cyclones favored by 6.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Iowa State Cyclones is viewed as the better team, but this isn't an overwhelming edge. Kansas Jayhawks has a legitimate path to covering or winning outright. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 6.5-point spread indicates Iowa State Cyclones is viewed as the better team, but this isn't an overwhelming edge. Kansas Jayhawks has a legitimate path to covering or winning outright. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Kansas Jayhawks** bring an offensive efficiency of 113.51 (ranked #82 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.4% three-point shooting is serviceable but won't scare anyone. 
+**Kansas Jayhawks** bring an offensive efficiency of 113.51 (ranked #81 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.4% three-point shooting is serviceable but won't scare anyone. 
 Meanwhile, **Iowa State Cyclones** counter with 122.03 offensive efficiency (#9). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 40.0%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-Kansas Jayhawks operate at a 68.0 tempo (#220), while Iowa State Cyclones play at 69.1 (#163). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 68.5) should create a standard flow. 
+Kansas Jayhawks operate at a 68.0 tempo (#220), while Iowa State Cyclones play at 69.1 (#162). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 68.5) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Kansas Jayhawks shoot 54.3% on two-pointers, while Iowa State Cyclones convert at 57.3%. Both teams are evenly matched in paint efficiency. 
@@ -64,7 +64,7 @@ From a coaching perspective, Bill Self leads Kansas Jayhawks while T.J. Otzelber
 Both teams feature strong defenses (#25 and #7), so offense may be at a premium. 
 ### Game Storylines
 
-This matchup features two evenly-matched teams, with Kansas Jayhawks at #12 and Iowa State Cyclones at #7 in the KenPom rankings. Expect a competitive battle throughout. 
+This matchup features two evenly-matched teams, with Kansas Jayhawks at #11 and Iowa State Cyclones at #7 in the KenPom rankings. Expect a competitive battle throughout. 
 
 **Key Matchup: The Battle in the Trenches**
 
@@ -75,13 +75,13 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Kansas Jayhawks
 
-Kansas Jayhawks comes in ranked #12 overall by KenPom. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.6% from three. 
+Kansas Jayhawks comes in ranked #11 overall by KenPom. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.6% from three. 
 
 ### Record & Ranking
 - **Record:** 19-5
 - **Head Coach:** Bill Self
-- **KenPom Rank:** #12
-- **Offensive Efficiency:** 113.5 (Rank: #82)
+- **KenPom Rank:** #11
+- **Offensive Efficiency:** 113.5 (Rank: #81)
 - **Defensive Efficiency:** 98.3 (Rank: #25)
 - **Tempo:** 68.0 (Rank: #220)
 
@@ -89,7 +89,7 @@ Kansas Jayhawks comes in ranked #12 overall by KenPom. On the defensive end, the
 
 - **2-Point Shooting:** 54.3% (Rank: #86)
 - **3-Point Shooting:** 35.4% (Rank: #89)
-- **Free Throw Shooting:** 76.2% (Rank: #52)
+- **Free Throw Shooting:** 76.2% (Rank: #53)
 - **3-Point Rate:** 36.0% (Rank: #250)
 
 ### Defensive Stats
@@ -97,7 +97,7 @@ Kansas Jayhawks comes in ranked #12 overall by KenPom. On the defensive end, the
 - **Opponent 2-Point Shooting:** 44.9% (Rank: #9)
 - **Opponent 3-Point Shooting:** 29.6% (Rank: #19)
 - **Block Percentage:** 17.0% (Rank: #3)
-- **Steal Rate:** 0.1% (Rank: #305)
+- **Steal Rate:** 0.1% (Rank: #303)
 
 ### Team Metrics
 
@@ -119,18 +119,18 @@ Iowa State Cyclones comes in ranked #7 overall by KenPom. They're dangerous from
 - **KenPom Rank:** #7
 - **Offensive Efficiency:** 122.0 (Rank: #9)
 - **Defensive Efficiency:** 94.3 (Rank: #7)
-- **Tempo:** 69.1 (Rank: #163)
+- **Tempo:** 69.1 (Rank: #162)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 57.3% (Rank: #34)
 - **3-Point Shooting:** 40.0% (Rank: #4)
 - **Free Throw Shooting:** 67.7% (Rank: #325)
-- **3-Point Rate:** 37.2% (Rank: #232)
+- **3-Point Rate:** 37.2% (Rank: #233)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 49.2% (Rank: #81)
+- **Opponent 2-Point Shooting:** 49.2% (Rank: #80)
 - **Opponent 3-Point Shooting:** 31.7% (Rank: #64)
 - **Block Percentage:** 9.3% (Rank: #187)
 - **Steal Rate:** 0.1% (Rank: #13)
@@ -139,6 +139,6 @@ Iowa State Cyclones comes in ranked #7 overall by KenPom. They're dangerous from
 
 - **Assist Rate:** 60.3% (Rank: #31)
 - **Experience:** 2.6 years (Rank: #11)
-- **Bench Minutes:** 27.7% (Rank: #290)
+- **Bench Minutes:** 27.7% (Rank: #289)
 - **Average Height:** 78.0" (Rank: #82)
 
