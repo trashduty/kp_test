@@ -3398,5 +3398,13 @@
   "Le Moyne Dolphins vs. Chicago St Cougars|Le Moyne Dolphins|moneyline": {
     "captured_at": "2026-02-14T04:36:59.746849+00:00",
     "edge_type": "moneyline"
+  },
+  "Utah Tech Trailblazers vs. Cal Baptist Lancers|Utah Tech Trailblazers|spread": {
+    "captured_at": "2026-02-14T09:11:45.249198+00:00",
+    "edge_type": "spread"
+  },
+  "Utah Tech Trailblazers vs. Cal Baptist Lancers|under": {
+    "captured_at": "2026-02-14T09:11:45.249248+00:00",
+    "edge_type": "under"
   }
 }
