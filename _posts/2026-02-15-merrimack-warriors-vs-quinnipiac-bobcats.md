@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Quinnipiac Bobcats -1.5</p>
-  <p><strong>Moneyline:</strong> Merrimack Warriors (+110) | Quinnipiac Bobcats (-130)</p>
+  <p><strong>Moneyline:</strong> Merrimack Warriors (+102) | Quinnipiac Bobcats (-122)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Merrimack Warriors**: 1.5, Edge For Covering Spread: -2.2%
-- **Quinnipiac Bobcats**: -1.5, Edge For Covering Spread: -2.6%
+- **Merrimack Warriors**: 1.5, Edge For Covering Spread: -2.9%
+- **Quinnipiac Bobcats**: -1.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Merrimack Warriors Win Probability**: 44.9%, Moneyline Edge: -2.8%
-- **Quinnipiac Bobcats Win Probability**: 55.1%, Moneyline Edge: -1.4%
+- **Merrimack Warriors Win Probability**: 45.7%, Moneyline Edge: -3.8%
+- **Quinnipiac Bobcats Win Probability**: 54.3%, Moneyline Edge: -0.7%
 
 ### Total
-- **Predicted Total**: 141.0
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 

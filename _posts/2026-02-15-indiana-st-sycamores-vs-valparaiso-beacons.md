@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Valparaiso Beacons -4.5</p>
-  <p><strong>Moneyline:</strong> Indiana St Sycamores (+190) | Valparaiso Beacons (-225)</p>
+  <p><strong>Moneyline:</strong> Indiana St Sycamores (+180) | Valparaiso Beacons (-220)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Valparaiso Beacons**: -4.5, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **Indiana St Sycamores Win Probability**: 31.6%, Moneyline Edge: -2.9%
-- **Valparaiso Beacons Win Probability**: 68.4%, Moneyline Edge: -0.9%
+- **Indiana St Sycamores Win Probability**: 32.1%, Moneyline Edge: -3.6%
+- **Valparaiso Beacons Win Probability**: 67.9%, Moneyline Edge: -0.8%
 
 ### Total
-- **Predicted Total**: 142.0
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -0.6%
+- **Predicted Total**: 141.0
+- Edge For Covering The Over: -4.9%
+- Edge For Covering The Under: **0.2%**
 
 ---
 

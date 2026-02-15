@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Manhattan Jaspers -1.5</p>
-  <p><strong>Moneyline:</strong> Manhattan Jaspers (-127) | Canisius Golden Griffins (+105)</p>
+  <p><strong>Moneyline:</strong> Manhattan Jaspers (-125) | Canisius Golden Griffins (+105)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Manhattan Jaspers**: -1.5, Edge For Covering Spread: -4.6%
-- **Canisius Golden Griffins**: 1.5, Edge For Covering Spread: -0.1%
+- **Manhattan Jaspers**: -1.5, Edge For Covering Spread: -4.1%
+- **Canisius Golden Griffins**: 1.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Manhattan Jaspers Win Probability**: 50.1%, Moneyline Edge: -6.0%
-- **Canisius Golden Griffins Win Probability**: 49.9%, Moneyline Edge: **1.1%**
+- **Manhattan Jaspers Win Probability**: 50.2%, Moneyline Edge: -5.4%
+- **Canisius Golden Griffins Win Probability**: 49.8%, Moneyline Edge: **1.0%**
 
 ### Total
 - **Predicted Total**: 141.0
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.1%
+- Edge For Covering The Over: -1.5%
+- Edge For Covering The Under: -3.2%
 
 ---
 

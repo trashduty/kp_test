@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Omaha Mavericks -2.5</p>
-  <p><strong>Moneyline:</strong> Denver Pioneers (+125) | Omaha Mavericks (-151)</p>
+  <p><strong>Moneyline:</strong> Denver Pioneers (+125) | Omaha Mavericks (-149)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Denver Pioneers**: 2.5, Edge For Covering Spread: -1.2%
-- **Omaha Mavericks**: -2.5, Edge For Covering Spread: -3.5%
+- **Denver Pioneers**: 2.5, Edge For Covering Spread: -1.6%
+- **Omaha Mavericks**: -2.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
-- **Denver Pioneers Win Probability**: 41.2%, Moneyline Edge: -3.1%
-- **Omaha Mavericks Win Probability**: 58.8%, Moneyline Edge: -1.4%
+- **Denver Pioneers Win Probability**: 41.3%, Moneyline Edge: -3.1%
+- **Omaha Mavericks Win Probability**: 58.7%, Moneyline Edge: -1.1%
 
 ### Total
-- **Predicted Total**: 161.0
-- Edge For Covering The Over: -0.0%
-- Edge For Covering The Under: -4.7%
+- **Predicted Total**: 161.5
+- Edge For Covering The Over: -0.7%
+- Edge For Covering The Under: -4.1%
 
 ---
 

@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oakland Golden Grizzlies**: 1.5, Edge For Covering Spread: -1.0%
-- **Robert Morris Colonials**: -1.5, Edge For Covering Spread: -3.8%
+- **Oakland Golden Grizzlies**: 1.5, Edge For Covering Spread: -2.4%
+- **Robert Morris Colonials**: -1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Oakland Golden Grizzlies Win Probability**: 47.1%, Moneyline Edge: -2.1%
-- **Robert Morris Colonials Win Probability**: 52.9%, Moneyline Edge: -2.3%
+- **Oakland Golden Grizzlies Win Probability**: 46.8%, Moneyline Edge: -2.3%
+- **Robert Morris Colonials Win Probability**: 53.2%, Moneyline Edge: -2.0%
 
 ### Total
 - **Predicted Total**: 156.5

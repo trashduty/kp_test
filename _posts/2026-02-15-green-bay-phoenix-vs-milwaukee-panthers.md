@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Milwaukee Panthers -2.5</p>
-  <p><strong>Moneyline:</strong> Green Bay Phoenix (+115) | Milwaukee Panthers (-137)</p>
+  <p><strong>Moneyline:</strong> Green Bay Phoenix (+115) | Milwaukee Panthers (-136)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Green Bay Phoenix**: 2.5, Edge For Covering Spread: -0.5%
+- **Green Bay Phoenix**: 2.5, Edge For Covering Spread: -1.1%
 - **Milwaukee Panthers**: -2.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
 - **Green Bay Phoenix Win Probability**: 46.8%, Moneyline Edge: **0.3%**
-- **Milwaukee Panthers Win Probability**: 53.2%, Moneyline Edge: -4.7%
+- **Milwaukee Panthers Win Probability**: 53.2%, Moneyline Edge: -4.5%
 
 ### Total
 - **Predicted Total**: 146.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -3.9%
 
 ---
 

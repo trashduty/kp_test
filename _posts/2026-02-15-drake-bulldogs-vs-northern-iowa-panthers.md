@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Northern Iowa Panthers -9.5</p>
-  <p><strong>Moneyline:</strong> Drake Bulldogs (+412) | Northern Iowa Panthers (-579)</p>
+  <p><strong>Moneyline:</strong> Drake Bulldogs (+401) | Northern Iowa Panthers (-559)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Drake Bulldogs**: 9.5, Edge For Covering Spread: -4.7%
-- **Northern Iowa Panthers**: -9.5, Edge For Covering Spread: -0.0%
+- **Drake Bulldogs**: 9.5, Edge For Covering Spread: -5.3%
+- **Northern Iowa Panthers**: -9.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Drake Bulldogs Win Probability**: 17.5%, Moneyline Edge: -2.0%
-- **Northern Iowa Panthers Win Probability**: 82.5%, Moneyline Edge: -2.8%
+- **Drake Bulldogs Win Probability**: 17.7%, Moneyline Edge: -2.2%
+- **Northern Iowa Panthers Win Probability**: 82.3%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 135.0
-- Edge For Covering The Over: -6.0%
-- Edge For Covering The Under: **1.3%**
+- Edge For Covering The Over: -6.8%
+- Edge For Covering The Under: **0.5%**
 
 ---
 

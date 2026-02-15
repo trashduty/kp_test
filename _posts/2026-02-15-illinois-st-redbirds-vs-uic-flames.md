@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Illinois St Redbirds -1.5</p>
-  <p><strong>Moneyline:</strong> Illinois St Redbirds (-116) | UIC Flames (-103)</p>
+  <p><strong>Moneyline:</strong> Illinois St Redbirds (-113) | UIC Flames (-106)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Illinois St Redbirds**: -1.5, Edge For Covering Spread: -5.7%
-- **UIC Flames**: 1.5, Edge For Covering Spread: -0.9%
+- **Illinois St Redbirds**: -1.5, Edge For Covering Spread: -3.4%
+- **UIC Flames**: 1.5, Edge For Covering Spread: -1.4%
 
 ### Moneyline
-- **Illinois St Redbirds Win Probability**: 48.7%, Moneyline Edge: -5.1%
-- **UIC Flames Win Probability**: 51.3%, Moneyline Edge: **0.4%**
+- **Illinois St Redbirds Win Probability**: 48.4%, Moneyline Edge: -4.7%
+- **UIC Flames Win Probability**: 51.6%, Moneyline Edge: **0.1%**
 
 ### Total
 - **Predicted Total**: 138.5
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

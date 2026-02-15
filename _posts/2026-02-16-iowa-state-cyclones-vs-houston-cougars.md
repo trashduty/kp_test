@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Houston Cougars**: 1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Iowa State Cyclones Win Probability**: 53.4%, Moneyline Edge: -3.2%
-- **Houston Cougars Win Probability**: 46.6%, Moneyline Edge: -1.0%
+- **Iowa State Cyclones Win Probability**: 54.8%, Moneyline Edge: -1.8%
+- **Houston Cougars Win Probability**: 45.2%, Moneyline Edge: -2.4%
 
 ### Total
 - **Predicted Total**: 134.0

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Seton Hall Pirates -1.5</p>
-  <p><strong>Moneyline:</strong> Seton Hall Pirates (-137) | Butler Bulldogs (+114)</p>
+  <p><strong>Moneyline:</strong> Seton Hall Pirates (-132) | Butler Bulldogs (+110)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Butler Bulldogs**: 1.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Seton Hall Pirates Win Probability**: 53.7%, Moneyline Edge: -4.2%
-- **Butler Bulldogs Win Probability**: 46.3%, Moneyline Edge: -0.3%
+- **Seton Hall Pirates Win Probability**: 53.2%, Moneyline Edge: -3.8%
+- **Butler Bulldogs Win Probability**: 46.8%, Moneyline Edge: -0.9%
 
 ### Total
-- **Predicted Total**: 141.0
-- Edge For Covering The Over: -5.5%
-- Edge For Covering The Under: **0.8%**
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -0.7%
 
 ---
 

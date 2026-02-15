@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Rutgers Scarlet Knights -2.5</p>
-  <p><strong>Moneyline:</strong> Maryland Terrapins (+126) | Rutgers Scarlet Knights (-150)</p>
+  <p><strong>Moneyline:</strong> Maryland Terrapins (+110) | Rutgers Scarlet Knights (-135)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Maryland Terrapins**: 2.5, Edge For Covering Spread: -0.7%
-- **Rutgers Scarlet Knights**: -2.5, Edge For Covering Spread: -4.1%
+- **Maryland Terrapins**: 2.5, Edge For Covering Spread: -1.8%
+- **Rutgers Scarlet Knights**: -2.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Maryland Terrapins Win Probability**: 43.5%, Moneyline Edge: -0.8%
-- **Rutgers Scarlet Knights Win Probability**: 56.5%, Moneyline Edge: -3.5%
+- **Maryland Terrapins Win Probability**: 45.1%, Moneyline Edge: -2.5%
+- **Rutgers Scarlet Knights Win Probability**: 54.9%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Siena Saints**: 1.5, Edge For Covering Spread: -5.3%
-- **Marist Red Foxes**: -1.5, Edge For Covering Spread: **0.5%**
+- **Siena Saints**: 1.5, Edge For Covering Spread: -4.7%
+- **Marist Red Foxes**: -1.5, Edge For Covering Spread: -0.0%
 
 ### Moneyline
 - **Siena Saints Win Probability**: 39.2%, Moneyline Edge: -8.4%
-- **Marist Red Foxes Win Probability**: 60.8%, Moneyline Edge: **3.8%**
+- **Marist Red Foxes Win Probability**: 60.8%, Moneyline Edge: **3.9%**
 
 ### Total
-- **Predicted Total**: 132.5
-- Edge For Covering The Over: -5.2%
-- Edge For Covering The Under: -1.2%
+- **Predicted Total**: 133.0
+- Edge For Covering The Over: -4.0%
+- Edge For Covering The Under: -0.7%
 
 ---
 

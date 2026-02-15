@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Dayton Flyers -4.0</p>
-  <p><strong>Moneyline:</strong> Davidson Wildcats (+152) | Dayton Flyers (-185)</p>
+  <p><strong>Spread:</strong> Dayton Flyers -4.5</p>
+  <p><strong>Moneyline:</strong> Davidson Wildcats (+167) | Dayton Flyers (-200)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Davidson Wildcats**: 4.0, Edge For Covering Spread: -0.1%
-- **Dayton Flyers**: -4.0, Edge For Covering Spread: -4.6%
+- **Davidson Wildcats**: 4.5, Edge For Covering Spread: -0.7%
+- **Dayton Flyers**: -4.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Davidson Wildcats Win Probability**: 36.4%, Moneyline Edge: -3.2%
-- **Dayton Flyers Win Probability**: 63.6%, Moneyline Edge: -1.4%
+- **Davidson Wildcats Win Probability**: 35.5%, Moneyline Edge: -1.9%
+- **Dayton Flyers Win Probability**: 64.5%, Moneyline Edge: -2.1%
 
 ### Total
-- **Predicted Total**: 138.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- **Predicted Total**: 139.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Davidson Wildcats (15-9) travels to face Dayton Flyers (15-9) at University of Dayton Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Dayton Flyers favored by 4.0 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Davidson Wildcats (15-9) travels to face Dayton Flyers (15-9) at University of Dayton Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Dayton Flyers favored by 4.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.0-point spread indicates Dayton Flyers is viewed as the better team, but this isn't an overwhelming edge. Davidson Wildcats has a legitimate path to covering or winning outright. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 4.5-point spread indicates Dayton Flyers is viewed as the better team, but this isn't an overwhelming edge. Davidson Wildcats has a legitimate path to covering or winning outright. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Davidson Wildcats** bring an offensive efficiency of 110.41 (ranked #128 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 37.3% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

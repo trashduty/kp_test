@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Sacred Heart Pioneers -9.5</p>
-  <p><strong>Moneyline:</strong> Rider Broncs (+365) | Sacred Heart Pioneers (-496)</p>
+  <p><strong>Spread:</strong> Sacred Heart Pioneers -9.0</p>
+  <p><strong>Moneyline:</strong> Rider Broncs (+370) | Sacred Heart Pioneers (-520)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Rider Broncs**: 9.5, Edge For Covering Spread: -5.7%
-- **Sacred Heart Pioneers**: -9.5, Edge For Covering Spread: **1.1%**
+- **Rider Broncs**: 9.0, Edge For Covering Spread: -5.2%
+- **Sacred Heart Pioneers**: -9.0, Edge For Covering Spread: **0.3%**
 
 ### Moneyline
-- **Rider Broncs Win Probability**: 17.9%, Moneyline Edge: -3.6%
-- **Sacred Heart Pioneers Win Probability**: 82.1%, Moneyline Edge: -1.1%
+- **Rider Broncs Win Probability**: 17.8%, Moneyline Edge: -3.5%
+- **Sacred Heart Pioneers Win Probability**: 82.2%, Moneyline Edge: -1.7%
 
 ### Total
 - **Predicted Total**: 148.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Sacred Heart Pioneers (11-16) hosts Rider Broncs (3-21) at Pitt Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Sacred Heart Pioneers favored by 9.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Sacred Heart Pioneers (11-16) hosts Rider Broncs (3-21) at Pitt Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Sacred Heart Pioneers favored by 9.0 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Sacred Heart Pioneers has clear advantages, but games aren't played on paper. Rider Broncs needs to punch above their weight class to keep this close. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 9.0 points tells us Sacred Heart Pioneers has clear advantages, but games aren't played on paper. Rider Broncs needs to punch above their weight class to keep this close. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Rider Broncs** bring an offensive efficiency of 95.01 (ranked #352 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 27.3% from three, they can't rely on the arc. Expect a paint-focused attack. 

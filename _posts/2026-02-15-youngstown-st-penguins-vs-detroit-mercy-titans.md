@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Youngstown St Penguins -2.5</p>
-  <p><strong>Moneyline:</strong> Youngstown St Penguins (-145) | Detroit Mercy Titans (+121)</p>
+  <p><strong>Moneyline:</strong> Youngstown St Penguins (-150) | Detroit Mercy Titans (+125)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Detroit Mercy Titans**: 2.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Youngstown St Penguins Win Probability**: 54.4%, Moneyline Edge: -4.8%
-- **Detroit Mercy Titans Win Probability**: 45.6%, Moneyline Edge: **0.5%**
+- **Youngstown St Penguins Win Probability**: 54.7%, Moneyline Edge: -5.3%
+- **Detroit Mercy Titans Win Probability**: 45.3%, Moneyline Edge: **0.8%**
 
 ### Total
 - **Predicted Total**: 151.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 

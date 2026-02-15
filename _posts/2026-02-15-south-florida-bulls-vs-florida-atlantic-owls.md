@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Florida Bulls**: -4.5, Edge For Covering Spread: -6.6%
-- **Florida Atlantic Owls**: 4.5, Edge For Covering Spread: **0.3%**
+- **South Florida Bulls**: -4.5, Edge For Covering Spread: -5.6%
+- **Florida Atlantic Owls**: 4.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **South Florida Bulls Win Probability**: 60.6%, Moneyline Edge: -6.1%
-- **Florida Atlantic Owls Win Probability**: 39.4%, Moneyline Edge: **2.1%**
+- **South Florida Bulls Win Probability**: 60.8%, Moneyline Edge: -5.9%
+- **Florida Atlantic Owls Win Probability**: 39.2%, Moneyline Edge: **1.8%**
 
 ### Total
 - **Predicted Total**: 164.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- Edge For Covering The Over: -5.0%
+- Edge For Covering The Under: **0.3%**
 
 ---
 

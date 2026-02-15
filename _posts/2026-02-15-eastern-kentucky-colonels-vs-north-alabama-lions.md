@@ -29,12 +29,12 @@ All that being said, here's how our model prices this game.
 
 ### Moneyline
 - **Eastern Kentucky Colonels Win Probability**: 62.0%, Moneyline Edge: -3.9%
-- **North Alabama Lions Win Probability**: 38.0%, Moneyline Edge: -0.1%
+- **North Alabama Lions Win Probability**: 38.0%, Moneyline Edge: -0.2%
 
 ### Total
-- **Predicted Total**: 149.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 150.5
+- Edge For Covering The Over: -1.2%
+- Edge For Covering The Under: -3.5%
 
 ---
 

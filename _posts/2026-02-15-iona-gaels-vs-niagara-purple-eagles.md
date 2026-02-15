@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Iona Gaels -5.5</p>
-  <p><strong>Moneyline:</strong> Iona Gaels (-230) | Niagara Purple Eagles (+192)</p>
+  <p><strong>Moneyline:</strong> Iona Gaels (-260) | Niagara Purple Eagles (+210)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Iona Gaels**: -5.5, Edge For Covering Spread: -4.1%
-- **Niagara Purple Eagles**: 5.5, Edge For Covering Spread: -0.6%
+- **Iona Gaels**: -5.5, Edge For Covering Spread: -5.2%
+- **Niagara Purple Eagles**: 5.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Iona Gaels Win Probability**: 66.5%, Moneyline Edge: -3.1%
-- **Niagara Purple Eagles Win Probability**: 33.5%, Moneyline Edge: -0.7%
+- **Iona Gaels Win Probability**: 67.6%, Moneyline Edge: -4.7%
+- **Niagara Purple Eagles Win Probability**: 32.4%, Moneyline Edge: **0.2%**
 
 ### Total
-- **Predicted Total**: 134.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -3.4%
+- **Predicted Total**: 134.0
+- Edge For Covering The Over: -0.7%
+- Edge For Covering The Under: -4.0%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Southern Illinois Salukis -2.5</p>
-  <p><strong>Moneyline:</strong> Bradley Braves (+130) | Southern Illinois Salukis (-150)</p>
+  <p><strong>Moneyline:</strong> Bradley Braves (+125) | Southern Illinois Salukis (-150)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bradley Braves**: 2.5, Edge For Covering Spread: -5.2%
-- **Southern Illinois Salukis**: -2.5, Edge For Covering Spread: **0.4%**
+- **Bradley Braves**: 2.5, Edge For Covering Spread: -5.5%
+- **Southern Illinois Salukis**: -2.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Bradley Braves Win Probability**: 38.0%, Moneyline Edge: -5.5%
-- **Southern Illinois Salukis Win Probability**: 62.0%, Moneyline Edge: **2.0%**
+- **Bradley Braves Win Probability**: 38.3%, Moneyline Edge: -6.2%
+- **Southern Illinois Salukis Win Probability**: 61.7%, Moneyline Edge: **1.7%**
 
 ### Total
 - **Predicted Total**: 143.5
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- Edge For Covering The Over: -5.2%
+- Edge For Covering The Under: **0.5%**
 
 ---
 

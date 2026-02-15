@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Loyola (MD) Greyhounds -5.5</p>
-  <p><strong>Moneyline:</strong> Holy Cross Crusaders (+170) | Loyola (MD) Greyhounds (-210)</p>
+  <p><strong>Spread:</strong> Loyola (MD) Greyhounds -3.5</p>
+  <p><strong>Moneyline:</strong> Holy Cross Crusaders (+154) | Loyola (MD) Greyhounds (-185)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Holy Cross Crusaders**: 5.5, Edge For Covering Spread: -0.7%
-- **Loyola (MD) Greyhounds**: -5.5, Edge For Covering Spread: -4.1%
+- **Holy Cross Crusaders**: 3.5, Edge For Covering Spread: -4.1%
+- **Loyola (MD) Greyhounds**: -3.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Holy Cross Crusaders Win Probability**: 34.2%, Moneyline Edge: -2.9%
-- **Loyola (MD) Greyhounds Win Probability**: 65.8%, Moneyline Edge: -1.9%
+- **Holy Cross Crusaders Win Probability**: 35.4%, Moneyline Edge: -3.9%
+- **Loyola (MD) Greyhounds Win Probability**: 64.6%, Moneyline Edge: -0.3%
 
 ### Total
 - **Predicted Total**: 145.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Holy Cross Crusaders (9-17) travels to face Loyola (MD) Greyhounds (10-16) at Reitz Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Loyola (MD) Greyhounds favored by 5.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Holy Cross Crusaders (9-17) travels to face Loyola (MD) Greyhounds (10-16) at Reitz Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Loyola (MD) Greyhounds favored by 3.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Loyola (MD) Greyhounds is viewed as the better team, but this isn't an overwhelming edge. Holy Cross Crusaders has a legitimate path to covering or winning outright. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 3.5-point spread indicates Loyola (MD) Greyhounds is viewed as the better team, but this isn't an overwhelming edge. Holy Cross Crusaders has a legitimate path to covering or winning outright. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Holy Cross Crusaders** bring an offensive efficiency of 101.77 (ranked #300 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.4% three-point shooting is serviceable but won't scare anyone. 

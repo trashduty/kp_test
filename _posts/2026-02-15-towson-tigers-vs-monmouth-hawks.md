@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Monmouth Hawks -1.5</p>
-  <p><strong>Moneyline:</strong> Towson Tigers (+110) | Monmouth Hawks (-132)</p>
+  <p><strong>Moneyline:</strong> Towson Tigers (-100) | Monmouth Hawks (-120)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Towson Tigers**: 1.5, Edge For Covering Spread: -3.9%
-- **Monmouth Hawks**: -1.5, Edge For Covering Spread: -0.9%
+- **Towson Tigers**: 1.5, Edge For Covering Spread: -4.1%
+- **Monmouth Hawks**: -1.5, Edge For Covering Spread: -0.6%
 
 ### Moneyline
-- **Towson Tigers Win Probability**: 45.8%, Moneyline Edge: -1.9%
-- **Monmouth Hawks Win Probability**: 54.2%, Moneyline Edge: -2.7%
+- **Towson Tigers Win Probability**: 46.9%, Moneyline Edge: -3.1%
+- **Monmouth Hawks Win Probability**: 53.1%, Moneyline Edge: -1.5%
 
 ### Total
 - **Predicted Total**: 134.0
-- Edge For Covering The Over: -6.1%
-- Edge For Covering The Under: **1.3%**
+- Edge For Covering The Over: -6.6%
+- Edge For Covering The Under: **1.9%**
 
 ---
 

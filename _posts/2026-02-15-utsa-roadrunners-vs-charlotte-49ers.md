@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Charlotte 49ers -15.0</p>
-  <p><strong>Moneyline:</strong> UTSA Roadrunners (+1000) | Charlotte 49ers (-1939)</p>
+  <p><strong>Spread:</strong> Charlotte 49ers -14.5</p>
+  <p><strong>Moneyline:</strong> UTSA Roadrunners (+837) | Charlotte 49ers (-1522)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UTSA Roadrunners**: 15.0, Edge For Covering Spread: -5.0%
-- **Charlotte 49ers**: -15.0, Edge For Covering Spread: **0.3%**
+- **UTSA Roadrunners**: 14.5, Edge For Covering Spread: -4.1%
+- **Charlotte 49ers**: -14.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **UTSA Roadrunners Win Probability**: 7.5%, Moneyline Edge: -1.6%
-- **Charlotte 49ers Win Probability**: 92.5%, Moneyline Edge: -2.6%
+- **UTSA Roadrunners Win Probability**: 8.2%, Moneyline Edge: -2.4%
+- **Charlotte 49ers Win Probability**: 91.8%, Moneyline Edge: -2.1%
 
 ### Total
 - **Predicted Total**: 146.5
-- Edge For Covering The Over: -5.0%
-- Edge For Covering The Under: **0.3%**
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Charlotte 49ers (13-11) hosts UTSA Roadrunners (4-20) at Halton Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Charlotte 49ers favored by 15.0 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Charlotte 49ers (13-11) hosts UTSA Roadrunners (4-20) at Halton Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Charlotte 49ers favored by 14.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 15.0-point spread screams mismatch. The books are asking UTSA Roadrunners to hang within two possessions, which based on the profiles, requires Charlotte 49ers to play below their standard. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 14.5-point spread screams mismatch. The books are asking UTSA Roadrunners to hang within two possessions, which based on the profiles, requires Charlotte 49ers to play below their standard. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **UTSA Roadrunners** bring an offensive efficiency of 94.64 (ranked #353 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 28.2% from three, they can't rely on the arc. Expect a paint-focused attack. 

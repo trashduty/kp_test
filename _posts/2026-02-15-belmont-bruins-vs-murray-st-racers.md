@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Murray St Racers -1.5</p>
-  <p><strong>Moneyline:</strong> Belmont Bruins (+105) | Murray St Racers (-125)</p>
+  <p><strong>Moneyline:</strong> Belmont Bruins (+103) | Murray St Racers (-123)</p>
   <p><strong>Total:</strong> 169.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Murray St Racers**: -1.5, Edge For Covering Spread: -7.2%
 
 ### Moneyline
-- **Belmont Bruins Win Probability**: 51.1%, Moneyline Edge: **2.4%**
-- **Murray St Racers Win Probability**: 48.9%, Moneyline Edge: -6.7%
+- **Belmont Bruins Win Probability**: 51.3%, Moneyline Edge: **2.2%**
+- **Murray St Racers Win Probability**: 48.7%, Moneyline Edge: -6.6%
 
 ### Total
 - **Predicted Total**: 169.0

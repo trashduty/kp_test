@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Temple Owls -2.5</p>
-  <p><strong>Moneyline:</strong> North Texas Mean Green (+125) | Temple Owls (-149)</p>
+  <p><strong>Moneyline:</strong> North Texas Mean Green (+122) | Temple Owls (-145)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Temple Owls**: -2.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **North Texas Mean Green Win Probability**: 40.7%, Moneyline Edge: -3.7%
-- **Temple Owls Win Probability**: 59.3%, Moneyline Edge: -0.5%
+- **North Texas Mean Green Win Probability**: 41.0%, Moneyline Edge: -4.0%
+- **Temple Owls Win Probability**: 59.0%, Moneyline Edge: -0.1%
 
 ### Total
 - **Predicted Total**: 135.5
-- Edge For Covering The Over: -6.0%
-- Edge For Covering The Under: **1.3%**
+- Edge For Covering The Over: -5.6%
+- Edge For Covering The Under: **0.8%**
 
 ---
 

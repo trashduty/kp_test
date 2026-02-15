@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UAB Blazers -6.5</p>
-  <p><strong>Moneyline:</strong> Tulane Green Wave (+232) | UAB Blazers (-287)</p>
+  <p><strong>Moneyline:</strong> Tulane Green Wave (+227) | UAB Blazers (-279)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **UAB Blazers**: -6.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Tulane Green Wave Win Probability**: 26.9%, Moneyline Edge: -3.2%
-- **UAB Blazers Win Probability**: 73.1%, Moneyline Edge: -1.1%
+- **Tulane Green Wave Win Probability**: 27.2%, Moneyline Edge: -3.4%
+- **UAB Blazers Win Probability**: 72.8%, Moneyline Edge: -0.8%
 
 ### Total
 - **Predicted Total**: 151.0

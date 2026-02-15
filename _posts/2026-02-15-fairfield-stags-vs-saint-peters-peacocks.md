@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Saint Peter's Peacocks -3.5</p>
-  <p><strong>Moneyline:</strong> Fairfield Stags (+155) | Saint Peter's Peacocks (-185)</p>
+  <p><strong>Moneyline:</strong> Fairfield Stags (+145) | Saint Peter's Peacocks (-170)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fairfield Stags**: 3.5, Edge For Covering Spread: -2.9%
-- **Saint Peter's Peacocks**: -3.5, Edge For Covering Spread: -1.8%
+- **Fairfield Stags**: 3.5, Edge For Covering Spread: -3.5%
+- **Saint Peter's Peacocks**: -3.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **Fairfield Stags Win Probability**: 35.4%, Moneyline Edge: -3.9%
-- **Saint Peter's Peacocks Win Probability**: 64.6%, Moneyline Edge: -0.2%
+- **Fairfield Stags Win Probability**: 36.2%, Moneyline Edge: -4.7%
+- **Saint Peter's Peacocks Win Probability**: 63.8%, Moneyline Edge: **0.9%**
 
 ### Total
 - **Predicted Total**: 142.0

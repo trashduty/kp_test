@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Wright St Raiders -6.5</p>
-  <p><strong>Moneyline:</strong> Wright St Raiders (-322) | Cleveland St Vikings (+257)</p>
+  <p><strong>Spread:</strong> Wright St Raiders -7.5</p>
+  <p><strong>Moneyline:</strong> Wright St Raiders (-322) | Cleveland St Vikings (+260)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wright St Raiders**: -6.5, Edge For Covering Spread: -3.5%
-- **Cleveland St Vikings**: 6.5, Edge For Covering Spread: -1.2%
+- **Wright St Raiders**: -7.5, Edge For Covering Spread: -2.1%
+- **Cleveland St Vikings**: 7.5, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **Wright St Raiders Win Probability**: 72.6%, Moneyline Edge: -3.7%
-- **Cleveland St Vikings Win Probability**: 27.4%, Moneyline Edge: -0.6%
+- **Wright St Raiders Win Probability**: 72.7%, Moneyline Edge: -3.7%
+- **Cleveland St Vikings Win Probability**: 27.3%, Moneyline Edge: -0.4%
 
 ### Total
 - **Predicted Total**: 158.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Wright St Raiders (16-10) enters hostile territory as they take on Cleveland St Vikings (10-16) at Wolstein Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Wright St Raiders favored by 6.5 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Wright St Raiders (16-10) enters hostile territory as they take on Cleveland St Vikings (10-16) at Wolstein Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Wright St Raiders favored by 7.5 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates Wright St Raiders is viewed as the better team, but this isn't an overwhelming edge. Cleveland St Vikings has a legitimate path to covering or winning outright. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us Wright St Raiders has clear advantages, but games aren't played on paper. Cleveland St Vikings needs to punch above their weight class to keep this close. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Wright St Raiders** bring an offensive efficiency of 114.34 (ranked #71 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.6% three-point shooting is serviceable but won't scare anyone. 

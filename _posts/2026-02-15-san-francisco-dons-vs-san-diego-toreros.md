@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> San Francisco Dons -4.5</p>
-  <p><strong>Moneyline:</strong> San Francisco Dons (-198) | San Diego Toreros (+164)</p>
+  <p><strong>Moneyline:</strong> San Francisco Dons (-197) | San Diego Toreros (+161)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **San Francisco Dons**: -4.5, Edge For Covering Spread: -4.8%
-- **San Diego Toreros**: 4.5, Edge For Covering Spread: **0.0%**
+- **San Francisco Dons**: -4.5, Edge For Covering Spread: -5.4%
+- **San Diego Toreros**: 4.5, Edge For Covering Spread: **0.6%**
 
 ### Moneyline
-- **San Francisco Dons Win Probability**: 61.5%, Moneyline Edge: -5.0%
-- **San Diego Toreros Win Probability**: 38.5%, Moneyline Edge: **0.6%**
+- **San Francisco Dons Win Probability**: 61.2%, Moneyline Edge: -5.2%
+- **San Diego Toreros Win Probability**: 38.8%, Moneyline Edge: **0.6%**
 
 ### Total
 - **Predicted Total**: 149.0
-- Edge For Covering The Over: -2.7%
-- Edge For Covering The Under: -2.0%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 

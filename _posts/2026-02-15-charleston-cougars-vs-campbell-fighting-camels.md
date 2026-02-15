@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Campbell Fighting Camels -1.5</p>
-  <p><strong>Moneyline:</strong> Charleston Cougars (+110) | Campbell Fighting Camels (-132)</p>
+  <p><strong>Moneyline:</strong> Charleston Cougars (+107) | Campbell Fighting Camels (-130)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Charleston Cougars**: 1.5, Edge For Covering Spread: -2.5%
-- **Campbell Fighting Camels**: -1.5, Edge For Covering Spread: -2.4%
+- **Charleston Cougars**: 1.5, Edge For Covering Spread: -2.8%
+- **Campbell Fighting Camels**: -1.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Charleston Cougars Win Probability**: 44.8%, Moneyline Edge: -2.9%
-- **Campbell Fighting Camels Win Probability**: 55.2%, Moneyline Edge: -1.7%
+- **Charleston Cougars Win Probability**: 45.0%, Moneyline Edge: -3.2%
+- **Campbell Fighting Camels Win Probability**: 55.0%, Moneyline Edge: -1.5%
 
 ### Total
 - **Predicted Total**: 157.0
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.3%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.5%
 
 ---
 

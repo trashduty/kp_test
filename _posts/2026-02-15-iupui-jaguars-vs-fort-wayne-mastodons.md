@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Fort Wayne Mastodons -7.5</p>
-  <p><strong>Moneyline:</strong> IUPUI Jaguars (+275) | Fort Wayne Mastodons (-345)</p>
+  <p><strong>Spread:</strong> Fort Wayne Mastodons -6.5</p>
+  <p><strong>Moneyline:</strong> IUPUI Jaguars (+247) | Fort Wayne Mastodons (-302)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **IUPUI Jaguars**: 7.5, Edge For Covering Spread: -1.9%
-- **Fort Wayne Mastodons**: -7.5, Edge For Covering Spread: -2.8%
+- **IUPUI Jaguars**: 6.5, Edge For Covering Spread: -1.2%
+- **Fort Wayne Mastodons**: -6.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **IUPUI Jaguars Win Probability**: 26.3%, Moneyline Edge: -0.4%
-- **Fort Wayne Mastodons Win Probability**: 73.7%, Moneyline Edge: -3.8%
+- **IUPUI Jaguars Win Probability**: 27.3%, Moneyline Edge: -1.4%
+- **Fort Wayne Mastodons Win Probability**: 72.7%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 162.0
-- Edge For Covering The Over: -0.0%
-- Edge For Covering The Under: -4.7%
+- Edge For Covering The Over: -0.5%
+- Edge For Covering The Under: -4.3%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Fort Wayne Mastodons (14-12) hosts IUPUI Jaguars (7-20) at Allen County War Memorial Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Fort Wayne Mastodons favored by 7.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Fort Wayne Mastodons (14-12) hosts IUPUI Jaguars (7-20) at Allen County War Memorial Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Fort Wayne Mastodons favored by 6.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us Fort Wayne Mastodons has clear advantages, but games aren't played on paper. IUPUI Jaguars needs to punch above their weight class to keep this close. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 6.5-point spread indicates Fort Wayne Mastodons is viewed as the better team, but this isn't an overwhelming edge. IUPUI Jaguars has a legitimate path to covering or winning outright. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **IUPUI Jaguars** bring an offensive efficiency of 107.45 (ranked #190 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.1% three-point shooting is serviceable but won't scare anyone. 

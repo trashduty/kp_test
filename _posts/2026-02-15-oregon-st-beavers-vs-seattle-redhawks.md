@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Seattle Redhawks -6.5</p>
-  <p><strong>Moneyline:</strong> Oregon St Beavers (+235) | Seattle Redhawks (-287)</p>
+  <p><strong>Moneyline:</strong> Oregon St Beavers (+225) | Seattle Redhawks (-277)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Seattle Redhawks**: -6.5, Edge For Covering Spread: -3.0%
 
 ### Moneyline
-- **Oregon St Beavers Win Probability**: 28.8%, Moneyline Edge: -1.0%
-- **Seattle Redhawks Win Probability**: 71.2%, Moneyline Edge: -3.0%
+- **Oregon St Beavers Win Probability**: 29.3%, Moneyline Edge: -1.5%
+- **Seattle Redhawks Win Probability**: 70.7%, Moneyline Edge: -2.8%
 
 ### Total
 - **Predicted Total**: 135.5
-- Edge For Covering The Over: -5.7%
-- Edge For Covering The Under: **1.0%**
+- Edge For Covering The Over: -6.3%
+- Edge For Covering The Under: **1.5%**
 
 ---
 

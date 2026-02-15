@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Illinois Fighting Illini -10.5</p>
-  <p><strong>Moneyline:</strong> Indiana Hoosiers (+485) | Illinois Fighting Illini (-682)</p>
+  <p><strong>Moneyline:</strong> Indiana Hoosiers (+465) | Illinois Fighting Illini (-656)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Indiana Hoosiers**: 10.5, Edge For Covering Spread: -1.3%
-- **Illinois Fighting Illini**: -10.5, Edge For Covering Spread: -3.4%
+- **Indiana Hoosiers**: 10.5, Edge For Covering Spread: -2.2%
+- **Illinois Fighting Illini**: -10.5, Edge For Covering Spread: -3.1%
 
 ### Moneyline
-- **Indiana Hoosiers Win Probability**: 16.2%, Moneyline Edge: -0.9%
-- **Illinois Fighting Illini Win Probability**: 83.8%, Moneyline Edge: -3.4%
+- **Indiana Hoosiers Win Probability**: 16.5%, Moneyline Edge: -1.2%
+- **Illinois Fighting Illini Win Probability**: 83.5%, Moneyline Edge: -3.2%
 
 ### Total
 - **Predicted Total**: 151.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -2.6%
 
 ---
 
