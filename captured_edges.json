@@ -3474,5 +3474,21 @@
   "Stony Brook Seawolves vs. Drexel Dragons|under": {
     "captured_at": "2026-02-15T21:09:10.988473+00:00",
     "edge_type": "under"
+  },
+  "South Carolina St Bulldogs vs. Coppin St Eagles|South Carolina St Bulldogs|moneyline": {
+    "captured_at": "2026-02-15T22:08:21.757047+00:00",
+    "edge_type": "moneyline"
+  },
+  "Alcorn St Braves vs. Florida A&M Rattlers|Alcorn St Braves|spread": {
+    "captured_at": "2026-02-15T22:08:21.757727+00:00",
+    "edge_type": "spread"
+  },
+  "Alcorn St Braves vs. Florida A&M Rattlers|Alcorn St Braves|moneyline": {
+    "captured_at": "2026-02-15T22:08:21.757761+00:00",
+    "edge_type": "moneyline"
+  },
+  "Texas Southern Tigers vs. Southern Jaguars|Texas Southern Tigers|moneyline": {
+    "captured_at": "2026-02-15T22:08:21.757917+00:00",
+    "edge_type": "moneyline"
   }
 }
