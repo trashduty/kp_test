@@ -3490,5 +3490,13 @@
   "Texas Southern Tigers vs. Southern Jaguars|Texas Southern Tigers|moneyline": {
     "captured_at": "2026-02-15T22:08:21.757917+00:00",
     "edge_type": "moneyline"
+  },
+  "LIU Sharks vs. Wagner Seahawks|over": {
+    "captured_at": "2026-02-15T23:09:46.167950+00:00",
+    "edge_type": "over"
+  },
+  "Texas A&M-CC Islanders vs. Stephen F. Austin Lumberjacks|under": {
+    "captured_at": "2026-02-15T23:09:46.169396+00:00",
+    "edge_type": "under"
   }
 }
