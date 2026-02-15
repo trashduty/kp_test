@@ -3462,5 +3462,9 @@
   "Northern Iowa Panthers vs. Drake Bulldogs|under": {
     "captured_at": "2026-02-15T00:39:14.283412+00:00",
     "edge_type": "under"
+  },
+  "Saint Peter's Peacocks vs. Fairfield Stags|Saint Peter's Peacocks|moneyline": {
+    "captured_at": "2026-02-15T01:38:41.307404+00:00",
+    "edge_type": "moneyline"
   }
 }
