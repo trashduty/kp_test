@@ -3446,5 +3446,21 @@
   "Murray St Racers vs. Belmont Bruins|Belmont Bruins|spread": {
     "captured_at": "2026-02-14T23:08:59.458446+00:00",
     "edge_type": "spread"
+  },
+  "Marist Red Foxes vs. Siena Saints|Marist Red Foxes|spread": {
+    "captured_at": "2026-02-15T00:39:14.281798+00:00",
+    "edge_type": "spread"
+  },
+  "Marist Red Foxes vs. Siena Saints|Marist Red Foxes|moneyline": {
+    "captured_at": "2026-02-15T00:39:14.281839+00:00",
+    "edge_type": "moneyline"
+  },
+  "Southern Illinois Salukis vs. Bradley Braves|Southern Illinois Salukis|moneyline": {
+    "captured_at": "2026-02-15T00:39:14.282931+00:00",
+    "edge_type": "moneyline"
+  },
+  "Northern Iowa Panthers vs. Drake Bulldogs|under": {
+    "captured_at": "2026-02-15T00:39:14.283412+00:00",
+    "edge_type": "under"
   }
 }
