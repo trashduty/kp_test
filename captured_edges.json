@@ -3514,5 +3514,17 @@
   "Wyoming Cowboys vs. Fresno St Bulldogs|Fresno St Bulldogs|spread": {
     "captured_at": "2026-02-16T21:11:08.108663+00:00",
     "edge_type": "spread"
+  },
+  "Florida St Seminoles vs. Boston College Eagles|Boston College Eagles|spread": {
+    "captured_at": "2026-02-16T23:11:10.665142+00:00",
+    "edge_type": "spread"
+  },
+  "Ohio Bobcats vs. Ball State Cardinals|under": {
+    "captured_at": "2026-02-16T23:11:10.666723+00:00",
+    "edge_type": "under"
+  },
+  "Tenn-Martin Skyhawks vs. SE Missouri St Redhawks|Tenn-Martin Skyhawks|moneyline": {
+    "captured_at": "2026-02-16T23:11:10.667374+00:00",
+    "edge_type": "moneyline"
   }
 }
