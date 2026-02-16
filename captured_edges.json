@@ -3502,5 +3502,9 @@
   "Maryland-Eastern Shore Hawks vs. Norfolk St Spartans|under": {
     "captured_at": "2026-02-16T00:37:36.621132+00:00",
     "edge_type": "under"
+  },
+  "New Mexico Lobos vs. Air Force Falcons|New Mexico Lobos|spread": {
+    "captured_at": "2026-02-16T19:16:58.132943+00:00",
+    "edge_type": "spread"
   }
 }
