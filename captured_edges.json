@@ -3510,5 +3510,9 @@
   "NC State Wolfpack vs. North Carolina Tar Heels|North Carolina Tar Heels|spread": {
     "captured_at": "2026-02-16T20:10:38.480364+00:00",
     "edge_type": "spread"
+  },
+  "Wyoming Cowboys vs. Fresno St Bulldogs|Fresno St Bulldogs|spread": {
+    "captured_at": "2026-02-16T21:11:08.108663+00:00",
+    "edge_type": "spread"
   }
 }
