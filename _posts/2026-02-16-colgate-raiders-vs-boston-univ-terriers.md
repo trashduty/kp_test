@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Boston Univ. Terriers**: 2.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Colgate Raiders Win Probability**: 54.0%, Moneyline Edge: -3.4%
-- **Boston Univ. Terriers Win Probability**: 46.0%, Moneyline Edge: -0.8%
+- **Colgate Raiders Win Probability**: 54.2%, Moneyline Edge: -3.2%
+- **Boston Univ. Terriers Win Probability**: 45.8%, Moneyline Edge: -0.9%
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: **0.5%**
-- Edge For Covering The Under: -5.2%
+- Edge For Covering The Over: -0.7%
+- Edge For Covering The Under: -4.1%
 
 ---
 

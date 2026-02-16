@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> McNeese Cowboys -13.5</p>
-  <p><strong>Moneyline:</strong> McNeese Cowboys (-1250) | Northwestern St Demons (+740)</p>
+  <p><strong>Moneyline:</strong> McNeese Cowboys (-1200) | Northwestern St Demons (+725)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **McNeese Cowboys**: -13.5, Edge For Covering Spread: -5.2%
-- **Northwestern St Demons**: 13.5, Edge For Covering Spread: **0.5%**
+- **McNeese Cowboys**: -13.5, Edge For Covering Spread: -4.7%
+- **Northwestern St Demons**: 13.5, Edge For Covering Spread: -0.1%
 
 ### Moneyline
-- **McNeese Cowboys Win Probability**: 87.3%, Moneyline Edge: -5.3%
-- **Northwestern St Demons Win Probability**: 12.7%, Moneyline Edge: **0.8%**
+- **McNeese Cowboys Win Probability**: 87.2%, Moneyline Edge: -5.1%
+- **Northwestern St Demons Win Probability**: 12.8%, Moneyline Edge: **0.7%**
 
 ### Total
 - **Predicted Total**: 139.0
-- Edge For Covering The Over: -1.2%
-- Edge For Covering The Under: -3.5%
+- Edge For Covering The Over: -0.7%
+- Edge For Covering The Under: -4.1%
 
 ---
 

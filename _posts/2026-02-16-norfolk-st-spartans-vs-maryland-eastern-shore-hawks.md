@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Norfolk St Spartans**: -1.5, Edge For Covering Spread: -3.3%
-- **Maryland-Eastern Shore Hawks**: 1.5, Edge For Covering Spread: -1.4%
+- **Norfolk St Spartans**: -1.5, Edge For Covering Spread: -4.1%
+- **Maryland-Eastern Shore Hawks**: 1.5, Edge For Covering Spread: -0.6%
 
 ### Moneyline
 - **Norfolk St Spartans Win Probability**: 51.6%, Moneyline Edge: -3.9%
 - **Maryland-Eastern Shore Hawks Win Probability**: 48.4%, Moneyline Edge: -0.4%
 
 ### Total
-- **Predicted Total**: 134.0
-- Edge For Covering The Over: -4.9%
+- **Predicted Total**: 135.0
+- Edge For Covering The Over: -6.6%
 - Edge For Covering The Under: **0.2%**
 
 ---

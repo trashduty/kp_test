@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tarleton State Texans -1.5</p>
-  <p><strong>Moneyline:</strong> Abilene Christian Wildcats (+105) | Tarleton State Texans (-125)</p>
+  <p><strong>Moneyline:</strong> Abilene Christian Wildcats (+105) | Tarleton State Texans (-126)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Tarleton State Texans**: -1.5, Edge For Covering Spread: **2.8%**
 
 ### Moneyline
-- **Abilene Christian Wildcats Win Probability**: 39.9%, Moneyline Edge: -8.9%
-- **Tarleton State Texans Win Probability**: 60.1%, Moneyline Edge: **4.6%**
+- **Abilene Christian Wildcats Win Probability**: 39.8%, Moneyline Edge: -8.9%
+- **Tarleton State Texans Win Probability**: 60.2%, Moneyline Edge: **4.4%**
 
 ### Total
-- **Predicted Total**: 136.0
-- Edge For Covering The Over: **0.2%**
-- Edge For Covering The Under: -4.9%
+- **Predicted Total**: 136.5
+- Edge For Covering The Over: -0.1%
+- Edge For Covering The Under: -6.4%
 
 ---
 

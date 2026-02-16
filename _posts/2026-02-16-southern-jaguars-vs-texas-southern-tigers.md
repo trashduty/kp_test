@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Southern Jaguars -2.5</p>
+  <p><strong>Spread:</strong> Southern Jaguars -2.0</p>
   <p><strong>Moneyline:</strong> Southern Jaguars (-135) | Texas Southern Tigers (+115)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Southern Jaguars**: -2.5, Edge For Covering Spread: -4.3%
-- **Texas Southern Tigers**: 2.5, Edge For Covering Spread: -0.6%
+- **Southern Jaguars**: -2.0, Edge For Covering Spread: -5.6%
+- **Texas Southern Tigers**: 2.0, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
 - **Southern Jaguars Win Probability**: 51.1%, Moneyline Edge: -6.3%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 154.0
-- Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.0%
+- Edge For Covering The Over: -1.5%
+- Edge For Covering The Under: -3.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Southern Jaguars (12-13) travels to face Texas Southern Tigers (8-15) at Health & PE Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Southern Jaguars favored by 2.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Southern Jaguars (12-13) travels to face Texas Southern Tigers (8-15) at Health & PE Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Southern Jaguars favored by 2.0 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Southern Jaguars's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Southern Jaguars's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Southern Jaguars** bring an offensive efficiency of 104.11 (ranked #264 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.3% three-point shooting is serviceable but won't scare anyone. 

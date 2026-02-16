@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama A&M Bulldogs -3.5</p>
-  <p><strong>Moneyline:</strong> Arkansas-Pine Bluff Golden Lions (+147) | Alabama A&M Bulldogs (-175)</p>
+  <p><strong>Moneyline:</strong> Arkansas-Pine Bluff Golden Lions (+150) | Alabama A&M Bulldogs (-177)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Alabama A&M Bulldogs**: -3.5, Edge For Covering Spread: -5.7%
 
 ### Moneyline
-- **Arkansas-Pine Bluff Golden Lions Win Probability**: 40.4%, Moneyline Edge: **0.0%**
-- **Alabama A&M Bulldogs Win Probability**: 59.6%, Moneyline Edge: -4.0%
+- **Arkansas-Pine Bluff Golden Lions Win Probability**: 40.2%, Moneyline Edge: **0.2%**
+- **Alabama A&M Bulldogs Win Probability**: 59.8%, Moneyline Edge: -4.2%
 
 ### Total
 - **Predicted Total**: 144.5

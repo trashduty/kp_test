@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> South Carolina St Bulldogs -4.5</p>
-  <p><strong>Moneyline:</strong> Coppin St Eagles (+190) | South Carolina St Bulldogs (-230)</p>
+  <p><strong>Spread:</strong> South Carolina St Bulldogs -5.0</p>
+  <p><strong>Moneyline:</strong> Coppin St Eagles (+192) | South Carolina St Bulldogs (-232)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Coppin St Eagles**: 4.5, Edge For Covering Spread: -4.3%
-- **South Carolina St Bulldogs**: -4.5, Edge For Covering Spread: -0.3%
+- **Coppin St Eagles**: 5.0, Edge For Covering Spread: -3.7%
+- **South Carolina St Bulldogs**: -5.0, Edge For Covering Spread: -1.0%
 
 ### Moneyline
-- **Coppin St Eagles Win Probability**: 28.5%, Moneyline Edge: -6.0%
-- **South Carolina St Bulldogs Win Probability**: 71.5%, Moneyline Edge: **1.8%**
+- **Coppin St Eagles Win Probability**: 28.3%, Moneyline Edge: -5.9%
+- **South Carolina St Bulldogs Win Probability**: 71.7%, Moneyline Edge: **1.7%**
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -4.7%
+- Edge For Covering The Over: -0.3%
+- Edge For Covering The Under: -4.5%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Coppin St Eagles (5-21) travels to face South Carolina St Bulldogs (6-17) at Smith Hammond Middleton Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into South Carolina St Bulldogs favored by 4.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Coppin St Eagles (5-21) travels to face South Carolina St Bulldogs (6-17) at Smith Hammond Middleton Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into South Carolina St Bulldogs favored by 5.0 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates South Carolina St Bulldogs is viewed as the better team, but this isn't an overwhelming edge. Coppin St Eagles has a legitimate path to covering or winning outright. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 5.0-point spread indicates South Carolina St Bulldogs is viewed as the better team, but this isn't an overwhelming edge. Coppin St Eagles has a legitimate path to covering or winning outright. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Coppin St Eagles** bring an offensive efficiency of 92.05 (ranked #362 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.9% from three, they can't rely on the arc. Expect a paint-focused attack. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama St Hornets -14.5</p>
-  <p><strong>Moneyline:</strong> Miss Valley St Delta Devils (+800) | Alabama St Hornets (-1400)</p>
+  <p><strong>Moneyline:</strong> Miss Valley St Delta Devils (+774) | Alabama St Hornets (-1314)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Miss Valley St Delta Devils**: 14.5, Edge For Covering Spread: -4.6%
-- **Alabama St Hornets**: -14.5, Edge For Covering Spread: -0.1%
+- **Miss Valley St Delta Devils**: 14.5, Edge For Covering Spread: -6.0%
+- **Alabama St Hornets**: -14.5, Edge For Covering Spread: **1.2%**
 
 ### Moneyline
-- **Miss Valley St Delta Devils Win Probability**: 8.3%, Moneyline Edge: -2.8%
-- **Alabama St Hornets Win Probability**: 91.7%, Moneyline Edge: -1.7%
+- **Miss Valley St Delta Devils Win Probability**: 8.5%, Moneyline Edge: -3.0%
+- **Alabama St Hornets Win Probability**: 91.5%, Moneyline Edge: -1.4%
 
 ### Total
-- **Predicted Total**: 141.0
-- Edge For Covering The Over: -2.7%
-- Edge For Covering The Under: -2.0%
+- **Predicted Total**: 141.5
+- Edge For Covering The Over: -1.2%
+- Edge For Covering The Under: -3.5%
 
 ---
 

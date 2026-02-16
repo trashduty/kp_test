@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Stephen F. Austin Lumberjacks -5.5</p>
-  <p><strong>Moneyline:</strong> Stephen F. Austin Lumberjacks (-225) | Texas A&M-CC Islanders (+187)</p>
+  <p><strong>Spread:</strong> Stephen F. Austin Lumberjacks -6.5</p>
+  <p><strong>Moneyline:</strong> Stephen F. Austin Lumberjacks (-269) | Texas A&M-CC Islanders (+220)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Stephen F. Austin Lumberjacks**: -5.5, Edge For Covering Spread: -2.9%
-- **Texas A&M-CC Islanders**: 5.5, Edge For Covering Spread: -1.8%
+- **Stephen F. Austin Lumberjacks**: -6.5, Edge For Covering Spread: -3.0%
+- **Texas A&M-CC Islanders**: 6.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Stephen F. Austin Lumberjacks Win Probability**: 66.8%, Moneyline Edge: -2.5%
-- **Texas A&M-CC Islanders Win Probability**: 33.2%, Moneyline Edge: -1.6%
+- **Stephen F. Austin Lumberjacks Win Probability**: 68.5%, Moneyline Edge: -4.4%
+- **Texas A&M-CC Islanders Win Probability**: 31.5%, Moneyline Edge: **0.2%**
 
 ### Total
-- **Predicted Total**: 136.0
-- Edge For Covering The Over: -6.3%
-- Edge For Covering The Under: **1.5%**
+- **Predicted Total**: 135.0
+- Edge For Covering The Over: -5.8%
+- Edge For Covering The Under: **1.1%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Stephen F. Austin Lumberjacks (23-3) travels to face Texas A&M-CC Islanders (14-12) at American Bank Center in what shapes up to be a competitive matchup. The early betting action has shaped into Stephen F. Austin Lumberjacks favored by 5.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Stephen F. Austin Lumberjacks (23-3) enters hostile territory as they take on Texas A&M-CC Islanders (14-12) at American Bank Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Stephen F. Austin Lumberjacks favored by 6.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Stephen F. Austin Lumberjacks is viewed as the better team, but this isn't an overwhelming edge. Texas A&M-CC Islanders has a legitimate path to covering or winning outright. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 6.5-point spread indicates Stephen F. Austin Lumberjacks is viewed as the better team, but this isn't an overwhelming edge. Texas A&M-CC Islanders has a legitimate path to covering or winning outright. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Stephen F. Austin Lumberjacks** bring an offensive efficiency of 113.27 (ranked #83 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 36.2% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

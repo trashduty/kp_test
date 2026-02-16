@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> North Carolina Central Eagles -5.5</p>
-  <p><strong>Moneyline:</strong> Morgan St Bears (+202) | North Carolina Central Eagles (-244)</p>
+  <p><strong>Spread:</strong> North Carolina Central Eagles -4.5</p>
+  <p><strong>Moneyline:</strong> Morgan St Bears (+180) | North Carolina Central Eagles (-220)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Morgan St Bears**: 5.5, Edge For Covering Spread: -2.9%
-- **North Carolina Central Eagles**: -5.5, Edge For Covering Spread: -1.8%
+- **Morgan St Bears**: 4.5, Edge For Covering Spread: -1.8%
+- **North Carolina Central Eagles**: -4.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Morgan St Bears Win Probability**: 31.4%, Moneyline Edge: -1.7%
-- **North Carolina Central Eagles Win Probability**: 68.6%, Moneyline Edge: -2.3%
+- **Morgan St Bears Win Probability**: 32.6%, Moneyline Edge: -3.1%
+- **North Carolina Central Eagles Win Probability**: 67.4%, Moneyline Edge: -1.3%
 
 ### Total
 - **Predicted Total**: 153.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Morgan St Bears (10-13) travels to face North Carolina Central Eagles (9-14) at McLendon-McDougald Gymnasium, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into North Carolina Central Eagles favored by 5.5 points, with the total sitting at 154.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Morgan St Bears (10-13) travels to face North Carolina Central Eagles (9-14) at McLendon-McDougald Gymnasium, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into North Carolina Central Eagles favored by 4.5 points, with the total sitting at 154.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates North Carolina Central Eagles is viewed as the better team, but this isn't an overwhelming edge. Morgan St Bears has a legitimate path to covering or winning outright. The total of 154.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 4.5-point spread indicates North Carolina Central Eagles is viewed as the better team, but this isn't an overwhelming edge. Morgan St Bears has a legitimate path to covering or winning outright. The total of 154.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Morgan St Bears** bring an offensive efficiency of 99.36 (ranked #325 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.3% from three, they can't rely on the arc. Expect a paint-focused attack. 

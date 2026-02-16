@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alcorn St Braves -1.5</p>
-  <p><strong>Moneyline:</strong> Florida A&M Rattlers (-105) | Alcorn St Braves (-115)</p>
+  <p><strong>Moneyline:</strong> Florida A&M Rattlers (-100) | Alcorn St Braves (-120)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida A&M Rattlers**: 1.5, Edge For Covering Spread: -6.6%
+- **Florida A&M Rattlers**: 1.5, Edge For Covering Spread: -7.2%
 - **Alcorn St Braves**: -1.5, Edge For Covering Spread: **1.7%**
 
 ### Moneyline
-- **Florida A&M Rattlers Win Probability**: 46.5%, Moneyline Edge: -4.8%
-- **Alcorn St Braves Win Probability**: 53.5%, Moneyline Edge: **0.1%**
+- **Florida A&M Rattlers Win Probability**: 45.9%, Moneyline Edge: -4.1%
+- **Alcorn St Braves Win Probability**: 54.1%, Moneyline Edge: -0.5%
 
 ### Total
 - **Predicted Total**: 139.0
-- Edge For Covering The Over: -2.3%
-- Edge For Covering The Under: -4.1%
+- Edge For Covering The Over: -2.1%
+- Edge For Covering The Under: -4.4%
 
 ---
 

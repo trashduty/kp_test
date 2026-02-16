@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Incarnate Word Cardinals -1.5</p>
-  <p><strong>Moneyline:</strong> New Orleans Privateers (+110) | Incarnate Word Cardinals (-130)</p>
+  <p><strong>Moneyline:</strong> New Orleans Privateers (+106) | Incarnate Word Cardinals (-128)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **New Orleans Privateers**: 1.5, Edge For Covering Spread: **0.4%**
-- **Incarnate Word Cardinals**: -1.5, Edge For Covering Spread: -5.1%
+- **New Orleans Privateers**: 1.5, Edge For Covering Spread: -0.8%
+- **Incarnate Word Cardinals**: -1.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **New Orleans Privateers Win Probability**: 49.4%, Moneyline Edge: **1.7%**
-- **Incarnate Word Cardinals Win Probability**: 50.6%, Moneyline Edge: -5.9%
+- **New Orleans Privateers Win Probability**: 49.7%, Moneyline Edge: **1.1%**
+- **Incarnate Word Cardinals Win Probability**: 50.3%, Moneyline Edge: -5.8%
 
 ### Total
 - **Predicted Total**: 156.5
-- Edge For Covering The Over: -1.2%
-- Edge For Covering The Under: -3.5%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

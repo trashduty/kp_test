@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Lamar Cardinals**: 6.5, Edge For Covering Spread: -4.1%
-- **UT Rio Grande Valley Vaqueros**: -6.5, Edge For Covering Spread: -0.7%
+- **Lamar Cardinals**: 6.5, Edge For Covering Spread: -5.2%
+- **UT Rio Grande Valley Vaqueros**: -6.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
 - **Lamar Cardinals Win Probability**: 29.1%, Moneyline Edge: -1.2%
 - **UT Rio Grande Valley Vaqueros Win Probability**: 70.9%, Moneyline Edge: -2.8%
 
 ### Total
-- **Predicted Total**: 140.5
-- Edge For Covering The Over: -5.0%
-- Edge For Covering The Under: **0.3%**
+- **Predicted Total**: 141.5
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -1.9%
 
 ---
 

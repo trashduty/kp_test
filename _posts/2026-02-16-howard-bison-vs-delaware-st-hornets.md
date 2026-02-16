@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Howard Bison -10.5</p>
-  <p><strong>Moneyline:</strong> Howard Bison (-738) | Delaware St Hornets (+500)</p>
+  <p><strong>Moneyline:</strong> Howard Bison (-710) | Delaware St Hornets (+500)</p>
   <p><strong>Total:</strong> 132.5</p>
 </div>
 
@@ -28,7 +28,7 @@ All that being said, here's how our model prices this game.
 - **Delaware St Hornets**: 10.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Howard Bison Win Probability**: 82.5%, Moneyline Edge: -5.5%
+- **Howard Bison Win Probability**: 82.5%, Moneyline Edge: -5.1%
 - **Delaware St Hornets Win Probability**: 17.5%, Moneyline Edge: **0.8%**
 
 ### Total

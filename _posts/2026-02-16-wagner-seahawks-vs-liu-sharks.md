@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> LIU Sharks -9.5</p>
-  <p><strong>Moneyline:</strong> Wagner Seahawks (+450) | LIU Sharks (-625)</p>
+  <p><strong>Moneyline:</strong> Wagner Seahawks (+460) | LIU Sharks (-650)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wagner Seahawks**: 9.5, Edge For Covering Spread: -1.5%
-- **LIU Sharks**: -9.5, Edge For Covering Spread: -3.3%
+- **Wagner Seahawks**: 9.5, Edge For Covering Spread: -0.5%
+- **LIU Sharks**: -9.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Wagner Seahawks Win Probability**: 17.7%, Moneyline Edge: -0.5%
-- **LIU Sharks Win Probability**: 82.3%, Moneyline Edge: -3.9%
+- **Wagner Seahawks Win Probability**: 17.5%, Moneyline Edge: -0.3%
+- **LIU Sharks Win Probability**: 82.5%, Moneyline Edge: -4.2%
 
 ### Total
-- **Predicted Total**: 138.5
-- Edge For Covering The Over: **1.9%**
-- Edge For Covering The Under: -6.6%
+- **Predicted Total**: 139.0
+- Edge For Covering The Over: **1.1%**
+- Edge For Covering The Under: -5.8%
 
 ---
 

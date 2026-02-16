@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Marshall Thundering Herd -3.5</p>
-  <p><strong>Moneyline:</strong> South Alabama Jaguars (+162) | Marshall Thundering Herd (-193)</p>
+  <p><strong>Spread:</strong> Marshall Thundering Herd -4.0</p>
+  <p><strong>Moneyline:</strong> South Alabama Jaguars (+150) | Marshall Thundering Herd (-182)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Alabama Jaguars**: 3.5, Edge For Covering Spread: -0.9%
-- **Marshall Thundering Herd**: -3.5, Edge For Covering Spread: -4.0%
+- **South Alabama Jaguars**: 4.0, Edge For Covering Spread: -1.3%
+- **Marshall Thundering Herd**: -4.0, Edge For Covering Spread: -3.4%
 
 ### Moneyline
-- **South Alabama Jaguars Win Probability**: 37.3%, Moneyline Edge: -0.9%
-- **Marshall Thundering Herd Win Probability**: 62.7%, Moneyline Edge: -3.2%
+- **South Alabama Jaguars Win Probability**: 38.1%, Moneyline Edge: -1.9%
+- **Marshall Thundering Herd Win Probability**: 61.9%, Moneyline Edge: -2.7%
 
 ### Total
 - **Predicted Total**: 148.5
-- Edge For Covering The Over: -6.0%
-- Edge For Covering The Under: **1.3%**
+- Edge For Covering The Over: -5.5%
+- Edge For Covering The Under: -0.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When South Alabama Jaguars (19-7) travels to face Marshall Thundering Herd (16-10) at Henderson Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Marshall Thundering Herd favored by 3.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When South Alabama Jaguars (19-7) travels to face Marshall Thundering Herd (16-10) at Henderson Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Marshall Thundering Herd favored by 4.0 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Marshall Thundering Herd is viewed as the better team, but this isn't an overwhelming edge. South Alabama Jaguars has a legitimate path to covering or winning outright. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 4.0-point spread indicates Marshall Thundering Herd is viewed as the better team, but this isn't an overwhelming edge. South Alabama Jaguars has a legitimate path to covering or winning outright. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **South Alabama Jaguars** bring an offensive efficiency of 107.32 (ranked #192 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.1% three-point shooting is serviceable but won't scare anyone. 

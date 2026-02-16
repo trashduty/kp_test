@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Grambling St Tigers -2.5</p>
-  <p><strong>Moneyline:</strong> Grambling St Tigers (-150) | Prairie View Panthers (+126)</p>
+  <p><strong>Moneyline:</strong> Grambling St Tigers (-146) | Prairie View Panthers (+124)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Grambling St Tigers**: -2.5, Edge For Covering Spread: -2.8%
-- **Prairie View Panthers**: 2.5, Edge For Covering Spread: -1.9%
+- **Grambling St Tigers**: -2.5, Edge For Covering Spread: -2.4%
+- **Prairie View Panthers**: 2.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Grambling St Tigers Win Probability**: 56.8%, Moneyline Edge: -3.2%
-- **Prairie View Panthers Win Probability**: 43.2%, Moneyline Edge: -1.0%
+- **Grambling St Tigers Win Probability**: 56.6%, Moneyline Edge: -2.9%
+- **Prairie View Panthers Win Probability**: 43.4%, Moneyline Edge: -1.1%
 
 ### Total
 - **Predicted Total**: 151.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.1%
 
 ---
 

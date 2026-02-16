@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Bethune-Cookman Wildcats -5.5</p>
-  <p><strong>Moneyline:</strong> Bethune-Cookman Wildcats (-247) | Jackson St Tigers (+205)</p>
+  <p><strong>Moneyline:</strong> Bethune-Cookman Wildcats (-255) | Jackson St Tigers (+210)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bethune-Cookman Wildcats**: -5.5, Edge For Covering Spread: -1.6%
-- **Jackson St Tigers**: 5.5, Edge For Covering Spread: -3.2%
+- **Bethune-Cookman Wildcats**: -5.5, Edge For Covering Spread: -2.4%
+- **Jackson St Tigers**: 5.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Bethune-Cookman Wildcats Win Probability**: 68.2%, Moneyline Edge: -3.0%
-- **Jackson St Tigers Win Probability**: 31.8%, Moneyline Edge: -1.0%
+- **Bethune-Cookman Wildcats Win Probability**: 68.5%, Moneyline Edge: -3.3%
+- **Jackson St Tigers Win Probability**: 31.5%, Moneyline Edge: -0.8%
 
 ### Total
-- **Predicted Total**: 149.5
-- Edge For Covering The Over: -1.3%
-- Edge For Covering The Under: -3.4%
+- **Predicted Total**: 149.0
+- Edge For Covering The Over: -3.3%
+- Edge For Covering The Under: -3.0%
 
 ---
 

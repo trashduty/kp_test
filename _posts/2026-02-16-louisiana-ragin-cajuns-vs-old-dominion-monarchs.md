@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Old Dominion Monarchs -6.0</p>
-  <p><strong>Moneyline:</strong> Louisiana Ragin' Cajuns (+220) | Old Dominion Monarchs (-275)</p>
+  <p><strong>Spread:</strong> Old Dominion Monarchs -6.5</p>
+  <p><strong>Moneyline:</strong> Louisiana Ragin' Cajuns (+215) | Old Dominion Monarchs (-260)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Louisiana Ragin' Cajuns**: 6.0, Edge For Covering Spread: -4.7%
-- **Old Dominion Monarchs**: -6.0, Edge For Covering Spread: -0.1%
+- **Louisiana Ragin' Cajuns**: 6.5, Edge For Covering Spread: -5.2%
+- **Old Dominion Monarchs**: -6.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Louisiana Ragin' Cajuns Win Probability**: 27.4%, Moneyline Edge: -3.8%
-- **Old Dominion Monarchs Win Probability**: 72.6%, Moneyline Edge: -0.8%
+- **Louisiana Ragin' Cajuns Win Probability**: 27.8%, Moneyline Edge: -4.0%
+- **Old Dominion Monarchs Win Probability**: 72.2%, Moneyline Edge: **0.0%**
 
 ### Total
 - **Predicted Total**: 135.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Old Dominion Monarchs (9-18) hosts Louisiana Ragin' Cajuns (9-17) at Chartway Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Old Dominion Monarchs favored by 6.0 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Old Dominion Monarchs (9-18) hosts Louisiana Ragin' Cajuns (9-17) at Chartway Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Old Dominion Monarchs favored by 6.5 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.0-point spread indicates Old Dominion Monarchs is viewed as the better team, but this isn't an overwhelming edge. Louisiana Ragin' Cajuns has a legitimate path to covering or winning outright. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 6.5-point spread indicates Old Dominion Monarchs is viewed as the better team, but this isn't an overwhelming edge. Louisiana Ragin' Cajuns has a legitimate path to covering or winning outright. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Louisiana Ragin' Cajuns** bring an offensive efficiency of 98.88 (ranked #330 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.6% three-point shooting is serviceable but won't scare anyone. 
