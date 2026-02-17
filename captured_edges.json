@@ -3562,5 +3562,33 @@
   "Portland Pilots vs. Pepperdine Waves|under": {
     "captured_at": "2026-02-17T22:11:13.448764+00:00",
     "edge_type": "under"
+  },
+  "Georgetown Hoyas vs. Butler Bulldogs|Butler Bulldogs|spread": {
+    "captured_at": "2026-02-17T23:11:16.028316+00:00",
+    "edge_type": "spread"
+  },
+  "Valparaiso Beacons vs. Bradley Braves|Valparaiso Beacons|spread": {
+    "captured_at": "2026-02-17T23:11:16.029173+00:00",
+    "edge_type": "spread"
+  },
+  "Western Carolina Catamounts vs. UNC Greensboro Spartans|Western Carolina Catamounts|spread": {
+    "captured_at": "2026-02-17T23:11:16.030352+00:00",
+    "edge_type": "spread"
+  },
+  "UL Monroe Warhawks vs. Troy Trojans|UL Monroe Warhawks|spread": {
+    "captured_at": "2026-02-17T23:11:16.031639+00:00",
+    "edge_type": "spread"
+  },
+  "Louisiana Tech Bulldogs vs. Jacksonville St Gamecocks|Jacksonville St Gamecocks|spread": {
+    "captured_at": "2026-02-17T23:11:16.031768+00:00",
+    "edge_type": "spread"
+  },
+  "Seattle Redhawks vs. Saint Mary's Gaels|under": {
+    "captured_at": "2026-02-17T23:11:16.034216+00:00",
+    "edge_type": "under"
+  },
+  "UNLV Rebels vs. Colorado St Rams|UNLV Rebels|spread": {
+    "captured_at": "2026-02-17T23:11:16.035363+00:00",
+    "edge_type": "spread"
   }
 }
