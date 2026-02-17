@@ -3542,5 +3542,17 @@
   "UNLV Rebels vs. Colorado St Rams|UNLV Rebels|moneyline": {
     "captured_at": "2026-02-17T20:15:12.907608+00:00",
     "edge_type": "moneyline"
+  },
+  "Delaware Blue Hens vs. Western Kentucky Hilltoppers|Delaware Blue Hens|spread": {
+    "captured_at": "2026-02-17T21:14:52.695997+00:00",
+    "edge_type": "spread"
+  },
+  "Illinois St Redbirds vs. Murray St Racers|Illinois St Redbirds|spread": {
+    "captured_at": "2026-02-17T21:14:52.698998+00:00",
+    "edge_type": "spread"
+  },
+  "Seattle Redhawks vs. Saint Mary's Gaels|Seattle Redhawks|spread": {
+    "captured_at": "2026-02-17T21:14:52.699327+00:00",
+    "edge_type": "spread"
   }
 }
