@@ -3554,5 +3554,13 @@
   "Seattle Redhawks vs. Saint Mary's Gaels|Seattle Redhawks|spread": {
     "captured_at": "2026-02-17T21:14:52.699327+00:00",
     "edge_type": "spread"
+  },
+  "West Virginia Mountaineers vs. Utah Utes|under": {
+    "captured_at": "2026-02-17T22:11:13.447334+00:00",
+    "edge_type": "under"
+  },
+  "Portland Pilots vs. Pepperdine Waves|under": {
+    "captured_at": "2026-02-17T22:11:13.448764+00:00",
+    "edge_type": "under"
   }
 }
