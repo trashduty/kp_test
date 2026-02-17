@@ -3526,5 +3526,21 @@
   "Tenn-Martin Skyhawks vs. SE Missouri St Redhawks|Tenn-Martin Skyhawks|moneyline": {
     "captured_at": "2026-02-16T23:11:10.667374+00:00",
     "edge_type": "moneyline"
+  },
+  "Valparaiso Beacons vs. Bradley Braves|Valparaiso Beacons|moneyline": {
+    "captured_at": "2026-02-17T20:15:12.904626+00:00",
+    "edge_type": "moneyline"
+  },
+  "Tennessee Volunteers vs. Oklahoma Sooners|Oklahoma Sooners|spread": {
+    "captured_at": "2026-02-17T20:15:12.905569+00:00",
+    "edge_type": "spread"
+  },
+  "Illinois St Redbirds vs. Murray St Racers|Illinois St Redbirds|moneyline": {
+    "captured_at": "2026-02-17T20:15:12.906401+00:00",
+    "edge_type": "moneyline"
+  },
+  "UNLV Rebels vs. Colorado St Rams|UNLV Rebels|moneyline": {
+    "captured_at": "2026-02-17T20:15:12.907608+00:00",
+    "edge_type": "moneyline"
   }
 }
