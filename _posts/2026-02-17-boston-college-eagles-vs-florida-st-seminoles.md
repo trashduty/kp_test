@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Florida St Seminoles -11.5</p>
-  <p><strong>Moneyline:</strong> Boston College Eagles (+587) | Florida St Seminoles (-900)</p>
+  <p><strong>Moneyline:</strong> Boston College Eagles (+532) | Florida St Seminoles (-774)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Florida St Seminoles**: -11.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Boston College Eagles Win Probability**: 17.0%, Moneyline Edge: **2.4%**
-- **Florida St Seminoles Win Probability**: 83.0%, Moneyline Edge: -7.0%
+- **Boston College Eagles Win Probability**: 17.6%, Moneyline Edge: **1.8%**
+- **Florida St Seminoles Win Probability**: 82.4%, Moneyline Edge: -6.1%
 
 ### Total
-- **Predicted Total**: 146.0
-- Edge For Covering The Over: -5.6%
-- Edge For Covering The Under: -0.7%
+- **Predicted Total**: 146.5
+- Edge For Covering The Over: -5.4%
+- Edge For Covering The Under: **0.6%**
 
 ---
 

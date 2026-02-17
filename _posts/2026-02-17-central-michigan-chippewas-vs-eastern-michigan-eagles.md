@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Central Michigan Chippewas**: 4.5, Edge For Covering Spread: -2.5%
-- **Eastern Michigan Eagles**: -4.5, Edge For Covering Spread: -2.3%
+- **Central Michigan Chippewas**: 4.5, Edge For Covering Spread: -2.2%
+- **Eastern Michigan Eagles**: -4.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
 - **Central Michigan Chippewas Win Probability**: 32.1%, Moneyline Edge: -2.4%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 142.5
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -0.3%
+- Edge For Covering The Over: -5.0%
+- Edge For Covering The Under: **0.3%**
 
 ---
 

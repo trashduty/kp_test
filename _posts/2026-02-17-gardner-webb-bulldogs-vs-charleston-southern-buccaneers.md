@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **Charleston Southern Buccaneers Win Probability**: 93.3%, Moneyline Edge: -3.2%
 
 ### Total
-- **Predicted Total**: 160.0
-- Edge For Covering The Over: -3.4%
-- Edge For Covering The Under: -2.9%
+- **Predicted Total**: 160.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

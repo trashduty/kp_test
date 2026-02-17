@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Florida Gators -23.5</p>
-  <p><strong>Moneyline:</strong> South Carolina Gamecocks (+2200) | Florida Gators (-8890)</p>
+  <p><strong>Moneyline:</strong> South Carolina Gamecocks (+2296) | Florida Gators (-10000)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Florida Gators**: -23.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **South Carolina Gamecocks Win Probability**: 3.6%, Moneyline Edge: -0.7%
-- **Florida Gators Win Probability**: 96.4%, Moneyline Edge: -2.5%
+- **South Carolina Gamecocks Win Probability**: 3.5%, Moneyline Edge: -0.7%
+- **Florida Gators Win Probability**: 96.5%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 151.5
-- Edge For Covering The Over: -6.5%
-- Edge For Covering The Under: **1.8%**
+- Edge For Covering The Over: -5.4%
+- Edge For Covering The Under: **0.6%**
 
 ---
 

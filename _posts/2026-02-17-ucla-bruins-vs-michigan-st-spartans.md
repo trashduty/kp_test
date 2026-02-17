@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan St Spartans -8.5</p>
-  <p><strong>Moneyline:</strong> UCLA Bruins (+372) | Michigan St Spartans (-487)</p>
+  <p><strong>Moneyline:</strong> UCLA Bruins (+344) | Michigan St Spartans (-456)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Michigan St Spartans**: -8.5, Edge For Covering Spread: -3.1%
 
 ### Moneyline
-- **UCLA Bruins Win Probability**: 20.2%, Moneyline Edge: -1.0%
-- **Michigan St Spartans Win Probability**: 79.8%, Moneyline Edge: -3.1%
+- **UCLA Bruins Win Probability**: 20.8%, Moneyline Edge: -1.7%
+- **Michigan St Spartans Win Probability**: 79.2%, Moneyline Edge: -2.8%
 
 ### Total
 - **Predicted Total**: 139.5
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

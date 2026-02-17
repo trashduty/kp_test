@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tenn-Martin Skyhawks -3.5</p>
-  <p><strong>Moneyline:</strong> SE Missouri St Redhawks (+140) | Tenn-Martin Skyhawks (-165)</p>
+  <p><strong>Moneyline:</strong> SE Missouri St Redhawks (+140) | Tenn-Martin Skyhawks (-166)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Tenn-Martin Skyhawks**: -3.5, Edge For Covering Spread: -1.7%
 
 ### Moneyline
-- **SE Missouri St Redhawks Win Probability**: 36.6%, Moneyline Edge: -5.1%
-- **Tenn-Martin Skyhawks Win Probability**: 63.4%, Moneyline Edge: **1.2%**
+- **SE Missouri St Redhawks Win Probability**: 36.5%, Moneyline Edge: -5.1%
+- **Tenn-Martin Skyhawks Win Probability**: 63.5%, Moneyline Edge: **1.1%**
 
 ### Total
 - **Predicted Total**: 139.0

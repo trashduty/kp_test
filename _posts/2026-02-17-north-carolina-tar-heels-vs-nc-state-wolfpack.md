@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> NC State Wolfpack -6.5</p>
-  <p><strong>Moneyline:</strong> North Carolina Tar Heels (+225) | NC State Wolfpack (-279)</p>
+  <p><strong>Moneyline:</strong> North Carolina Tar Heels (+227) | NC State Wolfpack (-282)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **NC State Wolfpack**: -6.5, Edge For Covering Spread: -6.4%
 
 ### Moneyline
-- **North Carolina Tar Heels Win Probability**: 33.7%, Moneyline Edge: **3.0%**
-- **NC State Wolfpack Win Probability**: 66.3%, Moneyline Edge: -7.4%
+- **North Carolina Tar Heels Win Probability**: 33.6%, Moneyline Edge: **3.1%**
+- **NC State Wolfpack Win Probability**: 66.4%, Moneyline Edge: -7.5%
 
 ### Total
 - **Predicted Total**: 158.5

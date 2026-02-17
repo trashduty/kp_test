@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Baylor Bears -4.5</p>
-  <p><strong>Moneyline:</strong> Baylor Bears (-196) | Kansas St Wildcats (+165)</p>
+  <p><strong>Moneyline:</strong> Baylor Bears (-193) | Kansas St Wildcats (+162)</p>
   <p><strong>Total:</strong> 165.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Kansas St Wildcats**: 4.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Baylor Bears Win Probability**: 62.8%, Moneyline Edge: -3.4%
-- **Kansas St Wildcats Win Probability**: 37.2%, Moneyline Edge: -0.6%
+- **Baylor Bears Win Probability**: 62.7%, Moneyline Edge: -3.2%
+- **Kansas St Wildcats Win Probability**: 37.3%, Moneyline Edge: -0.8%
 
 ### Total
 - **Predicted Total**: 162.5
-- Edge For Covering The Over: -0.6%
-- Edge For Covering The Under: -4.2%
+- Edge For Covering The Over: -0.4%
+- Edge For Covering The Under: -4.4%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Miami Hurricanes -8.5</p>
-  <p><strong>Moneyline:</strong> Virginia Tech Hokies (+300) | Miami Hurricanes (-400)</p>
+  <p><strong>Moneyline:</strong> Virginia Tech Hokies (+320) | Miami Hurricanes (-425)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Virginia Tech Hokies**: 8.5, Edge For Covering Spread: -1.9%
-- **Miami Hurricanes**: -8.5, Edge For Covering Spread: -2.8%
+- **Virginia Tech Hokies**: 8.5, Edge For Covering Spread: -1.8%
+- **Miami Hurricanes**: -8.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Virginia Tech Hokies Win Probability**: 23.9%, Moneyline Edge: -1.1%
-- **Miami Hurricanes Win Probability**: 76.1%, Moneyline Edge: -3.9%
+- **Virginia Tech Hokies Win Probability**: 23.4%, Moneyline Edge: -0.4%
+- **Miami Hurricanes Win Probability**: 76.6%, Moneyline Edge: -4.3%
 
 ### Total
 - **Predicted Total**: 150.5

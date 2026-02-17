@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Akron Zips -13.5</p>
-  <p><strong>Moneyline:</strong> Akron Zips (-1314) | Western Michigan Broncos (+774)</p>
+  <p><strong>Moneyline:</strong> Akron Zips (-1375) | Western Michigan Broncos (+800)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Western Michigan Broncos**: 13.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Akron Zips Win Probability**: 87.3%, Moneyline Edge: -5.6%
-- **Western Michigan Broncos Win Probability**: 12.7%, Moneyline Edge: **1.2%**
+- **Akron Zips Win Probability**: 87.4%, Moneyline Edge: -5.8%
+- **Western Michigan Broncos Win Probability**: 12.6%, Moneyline Edge: **1.5%**
 
 ### Total
 - **Predicted Total**: 160.5

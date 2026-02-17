@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Louisville Cardinals -3.5</p>
-  <p><strong>Moneyline:</strong> Louisville Cardinals (-193) | SMU Mustangs (+160)</p>
+  <p><strong>Moneyline:</strong> Louisville Cardinals (-187) | SMU Mustangs (+154)</p>
   <p><strong>Total:</strong> 167.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Louisville Cardinals**: -3.5, Edge For Covering Spread: -4.8%
-- **SMU Mustangs**: 3.5, Edge For Covering Spread: **0.0%**
+- **Louisville Cardinals**: -3.5, Edge For Covering Spread: -5.1%
+- **SMU Mustangs**: 3.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Louisville Cardinals Win Probability**: 60.1%, Moneyline Edge: -5.8%
-- **SMU Mustangs Win Probability**: 39.9%, Moneyline Edge: **1.5%**
+- **Louisville Cardinals Win Probability**: 60.0%, Moneyline Edge: -5.2%
+- **SMU Mustangs Win Probability**: 40.0%, Moneyline Edge: **0.7%**
 
 ### Total
 - **Predicted Total**: 166.0

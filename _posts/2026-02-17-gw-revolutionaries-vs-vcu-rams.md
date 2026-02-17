@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> VCU Rams -6.5</p>
-  <p><strong>Moneyline:</strong> GW Revolutionaries (+260) | VCU Rams (-324)</p>
+  <p><strong>Moneyline:</strong> GW Revolutionaries (+252) | VCU Rams (-312)</p>
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **VCU Rams**: -6.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **GW Revolutionaries Win Probability**: 26.3%, Moneyline Edge: -1.5%
-- **VCU Rams Win Probability**: 73.7%, Moneyline Edge: -2.8%
+- **GW Revolutionaries Win Probability**: 26.6%, Moneyline Edge: -1.8%
+- **VCU Rams Win Probability**: 73.4%, Moneyline Edge: -2.4%
 
 ### Total
 - **Predicted Total**: 162.5

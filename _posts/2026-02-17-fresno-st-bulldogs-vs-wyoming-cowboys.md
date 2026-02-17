@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wyoming Cowboys -8.5</p>
-  <p><strong>Moneyline:</strong> Fresno St Bulldogs (+340) | Wyoming Cowboys (-445)</p>
+  <p><strong>Moneyline:</strong> Fresno St Bulldogs (+310) | Wyoming Cowboys (-397)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fresno St Bulldogs**: 8.5, Edge For Covering Spread: **0.8%**
-- **Wyoming Cowboys**: -8.5, Edge For Covering Spread: -7.7%
+- **Fresno St Bulldogs**: 8.5, Edge For Covering Spread: **2.0%**
+- **Wyoming Cowboys**: -8.5, Edge For Covering Spread: -6.7%
 
 ### Moneyline
-- **Fresno St Bulldogs Win Probability**: 25.4%, Moneyline Edge: **2.7%**
-- **Wyoming Cowboys Win Probability**: 74.6%, Moneyline Edge: -7.0%
+- **Fresno St Bulldogs Win Probability**: 26.2%, Moneyline Edge: **1.8%**
+- **Wyoming Cowboys Win Probability**: 73.8%, Moneyline Edge: -6.1%
 
 ### Total
 - **Predicted Total**: 147.0
-- Edge For Covering The Over: -4.0%
-- Edge For Covering The Under: -0.7%
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -0.0%
 
 ---
 

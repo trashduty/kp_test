@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Saint Louis Billikens -10.5</p>
-  <p><strong>Moneyline:</strong> Saint Louis Billikens (-692) | Rhode Island Rams (+482)</p>
+  <p><strong>Moneyline:</strong> Saint Louis Billikens (-669) | Rhode Island Rams (+475)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Rhode Island Rams**: 10.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **Saint Louis Billikens Win Probability**: 82.8%, Moneyline Edge: -4.6%
-- **Rhode Island Rams Win Probability**: 17.2%, Moneyline Edge: **0.0%**
+- **Saint Louis Billikens Win Probability**: 82.7%, Moneyline Edge: -4.3%
+- **Rhode Island Rams Win Probability**: 17.3%, Moneyline Edge: -0.1%
 
 ### Total
 - **Predicted Total**: 151.0

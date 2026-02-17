@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> San Diego St Aztecs -8.5</p>
-  <p><strong>Moneyline:</strong> Grand Canyon Antelopes (+320) | San Diego St Aztecs (-420)</p>
+  <p><strong>Moneyline:</strong> Grand Canyon Antelopes (+320) | San Diego St Aztecs (-425)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Grand Canyon Antelopes**: 8.5, Edge For Covering Spread: -1.8%
-- **San Diego St Aztecs**: -8.5, Edge For Covering Spread: -2.9%
+- **Grand Canyon Antelopes**: 8.5, Edge For Covering Spread: -1.3%
+- **San Diego St Aztecs**: -8.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
 - **Grand Canyon Antelopes Win Probability**: 22.9%, Moneyline Edge: -0.9%
-- **San Diego St Aztecs Win Probability**: 77.1%, Moneyline Edge: -3.7%
+- **San Diego St Aztecs Win Probability**: 77.1%, Moneyline Edge: -3.8%
 
 ### Total
-- **Predicted Total**: 138.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 138.5
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 

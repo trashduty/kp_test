@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Texas Tech Red Raiders -8.5</p>
-  <p><strong>Moneyline:</strong> Texas Tech Red Raiders (-437) | Arizona St Sun Devils (+335)</p>
+  <p><strong>Moneyline:</strong> Texas Tech Red Raiders (-410) | Arizona St Sun Devils (+319)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Arizona St Sun Devils**: 8.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Texas Tech Red Raiders Win Probability**: 77.0%, Moneyline Edge: -4.4%
-- **Arizona St Sun Devils Win Probability**: 23.0%, Moneyline Edge: **0.0%**
+- **Texas Tech Red Raiders Win Probability**: 76.6%, Moneyline Edge: -3.8%
+- **Arizona St Sun Devils Win Probability**: 23.4%, Moneyline Edge: -0.4%
 
 ### Total
 - **Predicted Total**: 154.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -4.5%
 
 ---
 

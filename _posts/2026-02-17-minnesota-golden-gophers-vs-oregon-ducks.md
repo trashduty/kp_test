@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Oregon Ducks -4.5</p>
-  <p><strong>Moneyline:</strong> Minnesota Golden Gophers (+152) | Oregon Ducks (-182)</p>
+  <p><strong>Spread:</strong> Oregon Ducks -3.5</p>
+  <p><strong>Moneyline:</strong> Minnesota Golden Gophers (+152) | Oregon Ducks (-185)</p>
   <p><strong>Total:</strong> 134.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Minnesota Golden Gophers**: 4.5, Edge For Covering Spread: -0.0%
-- **Oregon Ducks**: -4.5, Edge For Covering Spread: -4.7%
+- **Minnesota Golden Gophers**: 3.5, Edge For Covering Spread: **1.2%**
+- **Oregon Ducks**: -3.5, Edge For Covering Spread: -6.1%
 
 ### Moneyline
-- **Minnesota Golden Gophers Win Probability**: 41.0%, Moneyline Edge: **1.4%**
-- **Oregon Ducks Win Probability**: 59.0%, Moneyline Edge: -5.6%
+- **Minnesota Golden Gophers Win Probability**: 40.9%, Moneyline Edge: **1.3%**
+- **Oregon Ducks Win Probability**: 59.1%, Moneyline Edge: -5.9%
 
 ### Total
 - **Predicted Total**: 135.5
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Minnesota Golden Gophers (11-14) travels to face Oregon Ducks (9-16) at Knight Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Oregon Ducks favored by 4.5 points, with the total sitting at 134.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Minnesota Golden Gophers (11-14) travels to face Oregon Ducks (9-16) at Knight Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Oregon Ducks favored by 3.5 points, with the total sitting at 134.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Oregon Ducks is viewed as the better team, but this isn't an overwhelming edge. Minnesota Golden Gophers has a legitimate path to covering or winning outright. The total of 134.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+The 3.5-point spread indicates Oregon Ducks is viewed as the better team, but this isn't an overwhelming edge. Minnesota Golden Gophers has a legitimate path to covering or winning outright. The total of 134.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **Minnesota Golden Gophers** bring an offensive efficiency of 109.33 (ranked #159 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.3% three-point shooting is serviceable but won't scare anyone. 

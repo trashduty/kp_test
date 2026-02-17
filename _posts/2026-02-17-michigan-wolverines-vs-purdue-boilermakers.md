@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan Wolverines -2.5</p>
-  <p><strong>Moneyline:</strong> Michigan Wolverines (-146) | Purdue Boilermakers (+124)</p>
+  <p><strong>Moneyline:</strong> Michigan Wolverines (-158) | Purdue Boilermakers (+135)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan Wolverines**: -2.5, Edge For Covering Spread: -1.6%
-- **Purdue Boilermakers**: 2.5, Edge For Covering Spread: -3.2%
+- **Michigan Wolverines**: -2.5, Edge For Covering Spread: -3.2%
+- **Purdue Boilermakers**: 2.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Michigan Wolverines Win Probability**: 56.6%, Moneyline Edge: -2.9%
-- **Purdue Boilermakers Win Probability**: 43.4%, Moneyline Edge: -1.1%
+- **Michigan Wolverines Win Probability**: 57.5%, Moneyline Edge: -3.7%
+- **Purdue Boilermakers Win Probability**: 42.5%, Moneyline Edge: -0.1%
 
 ### Total
 - **Predicted Total**: 156.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -2.0%
 
 ---
 

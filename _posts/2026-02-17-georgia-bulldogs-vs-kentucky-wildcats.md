@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Kentucky Wildcats -6.5</p>
-  <p><strong>Moneyline:</strong> Georgia Bulldogs (+257) | Kentucky Wildcats (-322)</p>
+  <p><strong>Spread:</strong> Kentucky Wildcats -7.5</p>
+  <p><strong>Moneyline:</strong> Georgia Bulldogs (+252) | Kentucky Wildcats (-315)</p>
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Georgia Bulldogs**: 6.5, Edge For Covering Spread: -2.8%
-- **Kentucky Wildcats**: -6.5, Edge For Covering Spread: -1.9%
+- **Georgia Bulldogs**: 7.5, Edge For Covering Spread: -3.5%
+- **Kentucky Wildcats**: -7.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Georgia Bulldogs Win Probability**: 27.4%, Moneyline Edge: -0.6%
-- **Kentucky Wildcats Win Probability**: 72.6%, Moneyline Edge: -3.7%
+- **Georgia Bulldogs Win Probability**: 27.6%, Moneyline Edge: -0.8%
+- **Kentucky Wildcats Win Probability**: 72.4%, Moneyline Edge: -3.5%
 
 ### Total
 - **Predicted Total**: 162.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Kentucky Wildcats (17-8) hosts Georgia Bulldogs (17-8) at Rupp Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Kentucky Wildcats favored by 6.5 points, with the total sitting at 164.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Kentucky Wildcats (17-8) hosts Georgia Bulldogs (17-8) at Rupp Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Kentucky Wildcats favored by 7.5 points, with the total sitting at 164.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates Kentucky Wildcats is viewed as the better team, but this isn't an overwhelming edge. Georgia Bulldogs has a legitimate path to covering or winning outright. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us Kentucky Wildcats has clear advantages, but games aren't played on paper. Georgia Bulldogs needs to punch above their weight class to keep this close. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Georgia Bulldogs** bring an offensive efficiency of 118.64 (ranked #33 nationally). This is an elite offense that can score in multiple ways. At 31.7% from three, they can't rely on the arc. Expect a paint-focused attack. 

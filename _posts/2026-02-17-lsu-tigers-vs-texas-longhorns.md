@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Texas Longhorns -10.5</p>
+  <p><strong>Spread:</strong> Texas Longhorns -11.0</p>
   <p><strong>Moneyline:</strong> LSU Tigers (+522) | Texas Longhorns (-750)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **LSU Tigers**: 10.5, Edge For Covering Spread: **0.9%**
-- **Texas Longhorns**: -10.5, Edge For Covering Spread: -5.7%
+- **LSU Tigers**: 11.0, Edge For Covering Spread: **0.1%**
+- **Texas Longhorns**: -11.0, Edge For Covering Spread: -4.9%
 
 ### Moneyline
 - **LSU Tigers Win Probability**: 18.2%, Moneyline Edge: **2.1%**
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Texas Longhorns (16-9) hosts LSU Tigers (14-11) at Moody Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Texas Longhorns favored by 10.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Texas Longhorns (16-9) hosts LSU Tigers (14-11) at Moody Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Texas Longhorns favored by 11.0 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us Texas Longhorns has clear advantages, but games aren't played on paper. LSU Tigers needs to punch above their weight class to keep this close. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 11.0 points tells us Texas Longhorns has clear advantages, but games aren't played on paper. LSU Tigers needs to punch above their weight class to keep this close. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **LSU Tigers** bring an offensive efficiency of 116.05 (ranked #59 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 32.1% three-point shooting is serviceable but won't scare anyone. 

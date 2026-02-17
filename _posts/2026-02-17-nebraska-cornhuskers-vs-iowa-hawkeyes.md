@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Iowa Hawkeyes -1.5</p>
-  <p><strong>Moneyline:</strong> Nebraska Cornhuskers (-100) | Iowa Hawkeyes (-120)</p>
+  <p><strong>Moneyline:</strong> Nebraska Cornhuskers (+103) | Iowa Hawkeyes (-123)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Nebraska Cornhuskers**: 1.5, Edge For Covering Spread: -0.1%
-- **Iowa Hawkeyes**: -1.5, Edge For Covering Spread: -4.6%
+- **Nebraska Cornhuskers**: 1.5, Edge For Covering Spread: **1.0%**
+- **Iowa Hawkeyes**: -1.5, Edge For Covering Spread: -5.7%
 
 ### Moneyline
-- **Nebraska Cornhuskers Win Probability**: 49.9%, Moneyline Edge: -0.1%
-- **Iowa Hawkeyes Win Probability**: 50.1%, Moneyline Edge: -4.5%
+- **Nebraska Cornhuskers Win Probability**: 49.5%, Moneyline Edge: **0.4%**
+- **Iowa Hawkeyes Win Probability**: 50.5%, Moneyline Edge: -4.8%
 
 ### Total
 - **Predicted Total**: 139.0

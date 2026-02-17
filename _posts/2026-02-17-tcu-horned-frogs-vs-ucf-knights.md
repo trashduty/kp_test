@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UCF Knights -2.5</p>
-  <p><strong>Moneyline:</strong> TCU Horned Frogs (+120) | UCF Knights (-143)</p>
+  <p><strong>Moneyline:</strong> TCU Horned Frogs (+115) | UCF Knights (-137)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **TCU Horned Frogs**: 2.5, Edge For Covering Spread: -3.8%
-- **UCF Knights**: -2.5, Edge For Covering Spread: -0.9%
+- **TCU Horned Frogs**: 2.5, Edge For Covering Spread: -3.5%
+- **UCF Knights**: -2.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **TCU Horned Frogs Win Probability**: 41.8%, Moneyline Edge: -3.7%
-- **UCF Knights Win Probability**: 58.2%, Moneyline Edge: -0.6%
+- **TCU Horned Frogs Win Probability**: 42.3%, Moneyline Edge: -4.3%
+- **UCF Knights Win Probability**: 57.7%, Moneyline Edge: -0.2%
 
 ### Total
 - **Predicted Total**: 154.0

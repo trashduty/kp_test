@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Nevada Wolf Pack -10.5</p>
-  <p><strong>Moneyline:</strong> Nevada Wolf Pack (-733) | San José St Spartans (+495)</p>
+  <p><strong>Moneyline:</strong> Nevada Wolf Pack (-711) | San José St Spartans (+495)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **San José St Spartans**: 10.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Nevada Wolf Pack Win Probability**: 82.5%, Moneyline Edge: -5.5%
+- **Nevada Wolf Pack Win Probability**: 82.5%, Moneyline Edge: -5.2%
 - **San José St Spartans Win Probability**: 17.5%, Moneyline Edge: **0.7%**
 
 ### Total
-- **Predicted Total**: 141.5
+- **Predicted Total**: 141.0
 - Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Under: -2.3%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Buffalo Bulls -8.5</p>
-  <p><strong>Moneyline:</strong> Northern Illinois Huskies (+380) | Buffalo Bulls (-520)</p>
+  <p><strong>Moneyline:</strong> Northern Illinois Huskies (+360) | Buffalo Bulls (-490)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,15 +24,15 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northern Illinois Huskies**: 8.5, Edge For Covering Spread: -4.1%
-- **Buffalo Bulls**: -8.5, Edge For Covering Spread: -0.8%
+- **Northern Illinois Huskies**: 8.5, Edge For Covering Spread: -5.6%
+- **Buffalo Bulls**: -8.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **Northern Illinois Huskies Win Probability**: 17.9%, Moneyline Edge: -2.9%
-- **Buffalo Bulls Win Probability**: 82.1%, Moneyline Edge: -1.8%
+- **Northern Illinois Huskies Win Probability**: 18.4%, Moneyline Edge: -3.4%
+- **Buffalo Bulls Win Probability**: 81.6%, Moneyline Edge: -1.4%
 
 ### Total
-- **Predicted Total**: 146.0
+- **Predicted Total**: 147.0
 - Edge For Covering The Over: -4.7%
 - Edge For Covering The Under: -0.0%
 

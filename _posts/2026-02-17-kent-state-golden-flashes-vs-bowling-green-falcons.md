@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Bowling Green Falcons -3.5</p>
-  <p><strong>Moneyline:</strong> Kent State Golden Flashes (+146) | Bowling Green Falcons (-172)</p>
+  <p><strong>Moneyline:</strong> Kent State Golden Flashes (+135) | Bowling Green Falcons (-160)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kent State Golden Flashes**: 3.5, Edge For Covering Spread: -3.5%
-- **Bowling Green Falcons**: -3.5, Edge For Covering Spread: -1.2%
+- **Kent State Golden Flashes**: 3.5, Edge For Covering Spread: -3.3%
+- **Bowling Green Falcons**: -3.5, Edge For Covering Spread: -1.5%
 
 ### Moneyline
-- **Kent State Golden Flashes Win Probability**: 38.6%, Moneyline Edge: -2.1%
-- **Bowling Green Falcons Win Probability**: 61.4%, Moneyline Edge: -1.9%
+- **Kent State Golden Flashes Win Probability**: 39.4%, Moneyline Edge: -3.1%
+- **Bowling Green Falcons Win Probability**: 60.6%, Moneyline Edge: -1.0%
 
 ### Total
 - **Predicted Total**: 151.5

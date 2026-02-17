@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Villanova Wildcats -4.5</p>
-  <p><strong>Moneyline:</strong> Villanova Wildcats (-216) | Xavier Musketeers (+180)</p>
+  <p><strong>Moneyline:</strong> Villanova Wildcats (-212) | Xavier Musketeers (+175)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Villanova Wildcats**: -4.5, Edge For Covering Spread: -0.8%
-- **Xavier Musketeers**: 4.5, Edge For Covering Spread: -4.0%
+- **Villanova Wildcats**: -4.5, Edge For Covering Spread: -1.3%
+- **Xavier Musketeers**: 4.5, Edge For Covering Spread: -3.4%
 
 ### Moneyline
-- **Villanova Wildcats Win Probability**: 67.2%, Moneyline Edge: -1.2%
-- **Xavier Musketeers Win Probability**: 32.8%, Moneyline Edge: -3.0%
+- **Villanova Wildcats Win Probability**: 66.9%, Moneyline Edge: -1.1%
+- **Xavier Musketeers Win Probability**: 33.1%, Moneyline Edge: -3.3%
 
 ### Total
 - **Predicted Total**: 151.5
