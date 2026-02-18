@@ -3622,5 +3622,9 @@
   "Sacramento St Hornets vs. Eastern Washington Eagles|Sacramento St Hornets|spread": {
     "captured_at": "2026-02-18T20:16:18.321251+00:00",
     "edge_type": "spread"
+  },
+  "North Texas Mean Green vs. Tulane Green Wave|under": {
+    "captured_at": "2026-02-18T21:17:11.599226+00:00",
+    "edge_type": "under"
   }
 }
