@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Texas A&M Aggies -9.5</p>
-  <p><strong>Moneyline:</strong> Ole Miss Rebels (+400) | Texas A&M Aggies (-550)</p>
+  <p><strong>Moneyline:</strong> Ole Miss Rebels (+362) | Texas A&M Aggies (-480)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ole Miss Rebels**: 9.5, Edge For Covering Spread: -4.2%
-- **Texas A&M Aggies**: -9.5, Edge For Covering Spread: -0.5%
+- **Ole Miss Rebels**: 9.5, Edge For Covering Spread: -5.1%
+- **Texas A&M Aggies**: -9.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Ole Miss Rebels Win Probability**: 18.6%, Moneyline Edge: -1.4%
-- **Texas A&M Aggies Win Probability**: 81.4%, Moneyline Edge: -3.2%
+- **Ole Miss Rebels Win Probability**: 19.3%, Moneyline Edge: -2.4%
+- **Texas A&M Aggies Win Probability**: 80.7%, Moneyline Edge: -2.0%
 
 ### Total
 - **Predicted Total**: 153.5

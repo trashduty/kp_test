@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> American Eagles -2.5</p>
-  <p><strong>Moneyline:</strong> American Eagles (-143) | Bucknell Bison (+119)</p>
+  <p><strong>Moneyline:</strong> American Eagles (-143) | Bucknell Bison (+120)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Bucknell Bison**: 2.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **American Eagles Win Probability**: 58.7%, Moneyline Edge: -0.3%
-- **Bucknell Bison Win Probability**: 41.3%, Moneyline Edge: -4.3%
+- **American Eagles Win Probability**: 58.7%, Moneyline Edge: -0.2%
+- **Bucknell Bison Win Probability**: 41.3%, Moneyline Edge: -4.2%
 
 ### Total
 - **Predicted Total**: 140.0
-- Edge For Covering The Over: -1.5%
-- Edge For Covering The Under: -4.9%
+- Edge For Covering The Over: -2.0%
+- Edge For Covering The Under: -3.5%
 
 ---
 

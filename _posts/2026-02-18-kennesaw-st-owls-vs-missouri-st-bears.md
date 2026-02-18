@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Missouri St Bears**: -1.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Kennesaw St Owls Win Probability**: 43.9%, Moneyline Edge: -3.7%
-- **Missouri St Bears Win Probability**: 56.1%, Moneyline Edge: -0.9%
+- **Kennesaw St Owls Win Probability**: 44.1%, Moneyline Edge: -3.5%
+- **Missouri St Bears Win Probability**: 55.9%, Moneyline Edge: -1.0%
 
 ### Total
 - **Predicted Total**: 153.0
 - Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.3%
+- Edge For Covering The Under: -1.5%
 
 ---
 

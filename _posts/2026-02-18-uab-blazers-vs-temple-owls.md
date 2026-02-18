@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Temple Owls -0.5</p>
-  <p><strong>Moneyline:</strong> UAB Blazers (-105) | Temple Owls (-115)</p>
+  <p><strong>Spread:</strong> Temple Owls -1.5</p>
+  <p><strong>Moneyline:</strong> UAB Blazers (-103) | Temple Owls (-116)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UAB Blazers**: 0.5, Edge For Covering Spread: -2.6%
-- **Temple Owls**: -0.5, Edge For Covering Spread: -2.5%
+- **UAB Blazers**: 1.5, Edge For Covering Spread: -2.9%
+- **Temple Owls**: -1.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **UAB Blazers Win Probability**: 45.9%, Moneyline Edge: -5.3%
-- **Temple Owls Win Probability**: 54.1%, Moneyline Edge: **0.6%**
+- **UAB Blazers Win Probability**: 45.8%, Moneyline Edge: -5.0%
+- **Temple Owls Win Probability**: 54.2%, Moneyline Edge: **0.4%**
 
 ### Total
 - **Predicted Total**: 146.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UAB Blazers (16-10) travels to face Temple Owls (15-10) at The Liacouras Center in what shapes up to be a competitive matchup. The early betting action has shaped into Temple Owls favored by 0.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UAB Blazers (16-10) travels to face Temple Owls (15-10) at The Liacouras Center in what shapes up to be a competitive matchup. The early betting action has shaped into Temple Owls favored by 1.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Temple Owls's 0.5-point cushion reflects home court advantage more than a talent gap. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Temple Owls's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **UAB Blazers** bring an offensive efficiency of 109.00 (ranked #165 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 28.0% from three, they can't rely on the arc. Expect a paint-focused attack. 

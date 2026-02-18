@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Georgetown Hoyas -6.5</p>
-  <p><strong>Moneyline:</strong> Butler Bulldogs (+235) | Georgetown Hoyas (-290)</p>
+  <p><strong>Moneyline:</strong> Butler Bulldogs (+210) | Georgetown Hoyas (-255)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Butler Bulldogs**: 6.5, Edge For Covering Spread: **1.0%**
-- **Georgetown Hoyas**: -6.5, Edge For Covering Spread: -5.7%
+- **Butler Bulldogs**: 6.5, Edge For Covering Spread: -0.1%
+- **Georgetown Hoyas**: -6.5, Edge For Covering Spread: -4.6%
 
 ### Moneyline
-- **Butler Bulldogs Win Probability**: 32.3%, Moneyline Edge: **2.5%**
-- **Georgetown Hoyas Win Probability**: 67.7%, Moneyline Edge: -6.7%
+- **Butler Bulldogs Win Probability**: 33.5%, Moneyline Edge: **1.2%**
+- **Georgetown Hoyas Win Probability**: 66.5%, Moneyline Edge: -5.3%
 
 ### Total
 - **Predicted Total**: 147.0
-- Edge For Covering The Over: -0.0%
-- Edge For Covering The Under: -4.7%
+- Edge For Covering The Over: -0.8%
+- Edge For Covering The Under: -3.9%
 
 ---
 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Tennessee Volunteers -10.5</p>
-  <p><strong>Moneyline:</strong> Oklahoma Sooners (+520) | Tennessee Volunteers (-750)</p>
+  <p><strong>Spread:</strong> Tennessee Volunteers -11.5</p>
+  <p><strong>Moneyline:</strong> Oklahoma Sooners (+500) | Tennessee Volunteers (-750)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oklahoma Sooners**: 10.5, Edge For Covering Spread: -0.5%
-- **Tennessee Volunteers**: -10.5, Edge For Covering Spread: -4.3%
+- **Oklahoma Sooners**: 11.5, Edge For Covering Spread: -1.7%
+- **Tennessee Volunteers**: -11.5, Edge For Covering Spread: -3.1%
 
 ### Moneyline
-- **Oklahoma Sooners Win Probability**: 14.9%, Moneyline Edge: -1.2%
-- **Tennessee Volunteers Win Probability**: 85.1%, Moneyline Edge: -3.1%
+- **Oklahoma Sooners Win Probability**: 15.2%, Moneyline Edge: -1.5%
+- **Tennessee Volunteers Win Probability**: 84.8%, Moneyline Edge: -3.4%
 
 ### Total
-- **Predicted Total**: 149.5
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 150.0
+- Edge For Covering The Over: -2.0%
+- Edge For Covering The Under: -2.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Tennessee Volunteers (18-7) hosts Oklahoma Sooners (13-12) at Thompson Boling Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Tennessee Volunteers favored by 10.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Tennessee Volunteers (18-7) hosts Oklahoma Sooners (13-12) at Thompson Boling Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Tennessee Volunteers favored by 11.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us Tennessee Volunteers has clear advantages, but games aren't played on paper. Oklahoma Sooners needs to punch above their weight class to keep this close. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 11.5 points tells us Tennessee Volunteers has clear advantages, but games aren't played on paper. Oklahoma Sooners needs to punch above their weight class to keep this close. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Oklahoma Sooners** bring an offensive efficiency of 119.97 (ranked #23 nationally). This is an elite offense that can score in multiple ways. Their 35.7% three-point shooting is serviceable but won't scare anyone. 

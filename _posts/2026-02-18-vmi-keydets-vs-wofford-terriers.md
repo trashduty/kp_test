@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Wofford Terriers -14.5</p>
-  <p><strong>Moneyline:</strong> VMI Keydets (+900) | Wofford Terriers (-1600)</p>
+  <p><strong>Spread:</strong> Wofford Terriers -14.0</p>
+  <p><strong>Moneyline:</strong> VMI Keydets (+800) | Wofford Terriers (-1465)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **VMI Keydets**: 14.5, Edge For Covering Spread: -6.7%
-- **Wofford Terriers**: -14.5, Edge For Covering Spread: **2.0%**
+- **VMI Keydets**: 14.0, Edge For Covering Spread: -5.9%
+- **Wofford Terriers**: -14.0, Edge For Covering Spread: **1.2%**
 
 ### Moneyline
-- **VMI Keydets Win Probability**: 8.3%, Moneyline Edge: -1.7%
-- **Wofford Terriers Win Probability**: 91.7%, Moneyline Edge: -2.4%
+- **VMI Keydets Win Probability**: 8.8%, Moneyline Edge: -2.3%
+- **Wofford Terriers Win Probability**: 91.2%, Moneyline Edge: -2.4%
 
 ### Total
 - **Predicted Total**: 155.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -2.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Wofford Terriers (17-10) hosts VMI Keydets (6-21) at Richardson Indoor Stadium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Wofford Terriers favored by 14.5 points, with the total sitting at 154.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Wofford Terriers (17-10) hosts VMI Keydets (6-21) at Richardson Indoor Stadium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Wofford Terriers favored by 14.0 points, with the total sitting at 154.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 14.5-point spread screams mismatch. The books are asking VMI Keydets to hang within two possessions, which based on the profiles, requires Wofford Terriers to play below their standard. The total of 154.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 14.0-point spread screams mismatch. The books are asking VMI Keydets to hang within two possessions, which based on the profiles, requires Wofford Terriers to play below their standard. The total of 154.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **VMI Keydets** bring an offensive efficiency of 100.40 (ranked #315 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.4% from three, they can't rely on the arc. Expect a paint-focused attack. 

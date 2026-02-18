@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Saint Mary's Gaels -10.5</p>
-  <p><strong>Moneyline:</strong> Saint Mary's Gaels (-650) | Seattle Redhawks (+475)</p>
+  <p><strong>Moneyline:</strong> Saint Mary's Gaels (-615) | Seattle Redhawks (+425)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Saint Mary's Gaels**: -10.5, Edge For Covering Spread: -6.1%
-- **Seattle Redhawks**: 10.5, Edge For Covering Spread: **1.3%**
+- **Saint Mary's Gaels**: -10.5, Edge For Covering Spread: -4.7%
+- **Seattle Redhawks**: 10.5, Edge For Covering Spread: -0.0%
 
 ### Moneyline
-- **Saint Mary's Gaels Win Probability**: 79.5%, Moneyline Edge: -7.2%
-- **Seattle Redhawks Win Probability**: 20.5%, Moneyline Edge: **3.1%**
+- **Saint Mary's Gaels Win Probability**: 78.9%, Moneyline Edge: -7.1%
+- **Seattle Redhawks Win Probability**: 21.1%, Moneyline Edge: **2.1%**
 
 ### Total
 - **Predicted Total**: 134.0
-- Edge For Covering The Over: -6.1%
-- Edge For Covering The Under: **1.4%**
+- Edge For Covering The Over: -5.0%
+- Edge For Covering The Under: **0.3%**
 
 ---
 

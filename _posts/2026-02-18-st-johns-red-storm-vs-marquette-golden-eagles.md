@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> St. John's Red Storm -9.5</p>
-  <p><strong>Moneyline:</strong> St. John's Red Storm (-482) | Marquette Golden Eagles (+362)</p>
+  <p><strong>Moneyline:</strong> St. John's Red Storm (-530) | Marquette Golden Eagles (+380)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **St. John's Red Storm**: -9.5, Edge For Covering Spread: -2.1%
-- **Marquette Golden Eagles**: 9.5, Edge For Covering Spread: -2.9%
+- **St. John's Red Storm**: -9.5, Edge For Covering Spread: -2.8%
+- **Marquette Golden Eagles**: 9.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **St. John's Red Storm Win Probability**: 78.3%, Moneyline Edge: -4.6%
-- **Marquette Golden Eagles Win Probability**: 21.7%, Moneyline Edge: **0.1%**
+- **St. John's Red Storm Win Probability**: 78.7%, Moneyline Edge: -5.5%
+- **Marquette Golden Eagles Win Probability**: 21.3%, Moneyline Edge: **0.5%**
 
 ### Total
 - **Predicted Total**: 156.0
 - Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Under: -0.0%
 
 ---
 

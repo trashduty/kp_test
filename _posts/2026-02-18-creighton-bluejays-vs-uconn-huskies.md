@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UConn Huskies -16.5</p>
-  <p><strong>Moneyline:</strong> Creighton Bluejays (+1045) | UConn Huskies (-2336)</p>
+  <p><strong>Moneyline:</strong> Creighton Bluejays (+1100) | UConn Huskies (-2500)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Creighton Bluejays**: 16.5, Edge For Covering Spread: -2.4%
-- **UConn Huskies**: -16.5, Edge For Covering Spread: -2.4%
+- **Creighton Bluejays**: 16.5, Edge For Covering Spread: -1.6%
+- **UConn Huskies**: -16.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
-- **Creighton Bluejays Win Probability**: 7.2%, Moneyline Edge: -1.6%
-- **UConn Huskies Win Probability**: 92.8%, Moneyline Edge: -3.1%
+- **Creighton Bluejays Win Probability**: 7.0%, Moneyline Edge: -1.3%
+- **UConn Huskies Win Probability**: 93.0%, Moneyline Edge: -3.1%
 
 ### Total
 - **Predicted Total**: 143.0

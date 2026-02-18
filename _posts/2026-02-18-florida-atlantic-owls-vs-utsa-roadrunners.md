@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Florida Atlantic Owls -12.5</p>
-  <p><strong>Moneyline:</strong> Florida Atlantic Owls (-750) | UTSA Roadrunners (+525)</p>
+  <p><strong>Moneyline:</strong> Florida Atlantic Owls (-1000) | UTSA Roadrunners (+612)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Atlantic Owls**: -12.5, Edge For Covering Spread: -1.3%
-- **UTSA Roadrunners**: 12.5, Edge For Covering Spread: -3.4%
+- **Florida Atlantic Owls**: -12.5, Edge For Covering Spread: -1.9%
+- **UTSA Roadrunners**: 12.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Florida Atlantic Owls Win Probability**: 86.8%, Moneyline Edge: -1.4%
-- **UTSA Roadrunners Win Probability**: 13.2%, Moneyline Edge: -2.8%
+- **Florida Atlantic Owls Win Probability**: 87.8%, Moneyline Edge: -3.1%
+- **UTSA Roadrunners Win Probability**: 12.2%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 156.5
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.1%
+- Edge For Covering The Over: -5.0%
+- Edge For Covering The Under: **0.2%**
 
 ---
 

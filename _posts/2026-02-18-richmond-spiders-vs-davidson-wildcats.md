@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Davidson Wildcats -5.5</p>
-  <p><strong>Moneyline:</strong> Richmond Spiders (+185) | Davidson Wildcats (-225)</p>
+  <p><strong>Moneyline:</strong> Richmond Spiders (+196) | Davidson Wildcats (-239)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Richmond Spiders**: 5.5, Edge For Covering Spread: -2.4%
-- **Davidson Wildcats**: -5.5, Edge For Covering Spread: -2.4%
+- **Richmond Spiders**: 5.5, Edge For Covering Spread: -2.9%
+- **Davidson Wildcats**: -5.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Richmond Spiders Win Probability**: 33.1%, Moneyline Edge: -2.0%
-- **Davidson Wildcats Win Probability**: 66.9%, Moneyline Edge: -2.4%
+- **Richmond Spiders Win Probability**: 32.5%, Moneyline Edge: -1.3%
+- **Davidson Wildcats Win Probability**: 67.5%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 141.5

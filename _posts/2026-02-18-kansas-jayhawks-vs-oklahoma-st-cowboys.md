@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kansas Jayhawks -5.5</p>
-  <p><strong>Moneyline:</strong> Kansas Jayhawks (-265) | Oklahoma St Cowboys (+215)</p>
+  <p><strong>Moneyline:</strong> Kansas Jayhawks (-267) | Oklahoma St Cowboys (+217)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kansas Jayhawks**: -5.5, Edge For Covering Spread: -2.5%
-- **Oklahoma St Cowboys**: 5.5, Edge For Covering Spread: -2.6%
+- **Kansas Jayhawks**: -5.5, Edge For Covering Spread: -2.2%
+- **Oklahoma St Cowboys**: 5.5, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **Kansas Jayhawks Win Probability**: 70.8%, Moneyline Edge: -1.8%
-- **Oklahoma St Cowboys Win Probability**: 29.2%, Moneyline Edge: -2.5%
+- **Kansas Jayhawks Win Probability**: 70.9%, Moneyline Edge: -1.9%
+- **Oklahoma St Cowboys Win Probability**: 29.1%, Moneyline Edge: -2.4%
 
 ### Total
 - **Predicted Total**: 156.0

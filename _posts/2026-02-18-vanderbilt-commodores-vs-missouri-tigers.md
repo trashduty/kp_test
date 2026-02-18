@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Vanderbilt Commodores -4.5</p>
-  <p><strong>Moneyline:</strong> Vanderbilt Commodores (-185) | Missouri Tigers (+150)</p>
+  <p><strong>Spread:</strong> Vanderbilt Commodores -3.5</p>
+  <p><strong>Moneyline:</strong> Vanderbilt Commodores (-187) | Missouri Tigers (+155)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Vanderbilt Commodores**: -4.5, Edge For Covering Spread: **1.1%**
-- **Missouri Tigers**: 4.5, Edge For Covering Spread: -5.7%
+- **Vanderbilt Commodores**: -3.5, Edge For Covering Spread: -0.6%
+- **Missouri Tigers**: 3.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Vanderbilt Commodores Win Probability**: 66.4%, Moneyline Edge: **1.5%**
-- **Missouri Tigers Win Probability**: 33.6%, Moneyline Edge: -6.4%
+- **Vanderbilt Commodores Win Probability**: 66.7%, Moneyline Edge: **1.5%**
+- **Missouri Tigers Win Probability**: 33.3%, Moneyline Edge: -6.0%
 
 ### Total
 - **Predicted Total**: 154.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Vanderbilt Commodores (21-4) travels to face Missouri Tigers (17-8) at Mizzou Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Vanderbilt Commodores favored by 4.5 points, with the total sitting at 154.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Vanderbilt Commodores (21-4) travels to face Missouri Tigers (17-8) at Mizzou Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Vanderbilt Commodores favored by 3.5 points, with the total sitting at 154.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Vanderbilt Commodores is viewed as the better team, but this isn't an overwhelming edge. Missouri Tigers has a legitimate path to covering or winning outright. The total of 154.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.5-point spread indicates Vanderbilt Commodores is viewed as the better team, but this isn't an overwhelming edge. Missouri Tigers has a legitimate path to covering or winning outright. The total of 154.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Vanderbilt Commodores** bring an offensive efficiency of 122.22 (ranked #9 nationally). This is an elite offense that can score in multiple ways. Their 35.9% three-point shooting is serviceable but won't scare anyone. 

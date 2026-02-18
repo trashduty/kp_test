@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Seton Hall Pirates -8.5</p>
-  <p><strong>Moneyline:</strong> DePaul Blue Demons (+324) | Seton Hall Pirates (-424)</p>
+  <p><strong>Moneyline:</strong> DePaul Blue Demons (+320) | Seton Hall Pirates (-425)</p>
   <p><strong>Total:</strong> 130.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Seton Hall Pirates**: -8.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **DePaul Blue Demons Win Probability**: 21.4%, Moneyline Edge: -2.1%
-- **Seton Hall Pirates Win Probability**: 78.6%, Moneyline Edge: -2.3%
+- **DePaul Blue Demons Win Probability**: 21.6%, Moneyline Edge: -2.2%
+- **Seton Hall Pirates Win Probability**: 78.4%, Moneyline Edge: -2.6%
 
 ### Total
-- **Predicted Total**: 129.5
-- Edge For Covering The Over: -5.9%
-- Edge For Covering The Under: **1.2%**
+- **Predicted Total**: 129.0
+- Edge For Covering The Over: -6.3%
+- Edge For Covering The Under: -0.0%
 
 ---
 

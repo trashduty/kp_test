@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Youngstown St Penguins -10.5</p>
-  <p><strong>Moneyline:</strong> Cleveland St Vikings (+440) | Youngstown St Penguins (-600)</p>
+  <p><strong>Moneyline:</strong> Cleveland St Vikings (+445) | Youngstown St Penguins (-642)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Youngstown St Penguins**: -10.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Cleveland St Vikings Win Probability**: 18.4%, Moneyline Edge: -0.1%
-- **Youngstown St Penguins Win Probability**: 81.6%, Moneyline Edge: -4.1%
+- **Cleveland St Vikings Win Probability**: 18.2%, Moneyline Edge: -0.1%
+- **Youngstown St Penguins Win Probability**: 81.8%, Moneyline Edge: -4.8%
 
 ### Total
 - **Predicted Total**: 157.0
-- Edge For Covering The Over: -2.1%
-- Edge For Covering The Under: -2.7%
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -2.6%
 
 ---
 

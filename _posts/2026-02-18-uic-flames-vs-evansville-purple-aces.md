@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UIC Flames -8.5</p>
-  <p><strong>Moneyline:</strong> UIC Flames (-400) | Evansville Purple Aces (+300)</p>
+  <p><strong>Moneyline:</strong> UIC Flames (-425) | Evansville Purple Aces (+320)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Evansville Purple Aces**: 8.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **UIC Flames Win Probability**: 75.6%, Moneyline Edge: -4.4%
-- **Evansville Purple Aces Win Probability**: 24.4%, Moneyline Edge: -0.6%
+- **UIC Flames Win Probability**: 76.1%, Moneyline Edge: -4.8%
+- **Evansville Purple Aces Win Probability**: 23.9%, Moneyline Edge: **0.1%**
 
 ### Total
 - **Predicted Total**: 138.5
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 

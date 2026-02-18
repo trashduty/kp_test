@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> James Madison Dukes -1.5</p>
+  <p><strong>Spread:</strong> Pick'em</p>
   <p><strong>Moneyline:</strong> James Madison Dukes (-110) | Coastal Carolina Chanticleers (-110)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **James Madison Dukes**: -1.5, Edge For Covering Spread: -4.4%
-- **Coastal Carolina Chanticleers**: 1.5, Edge For Covering Spread: -0.0%
+- **James Madison Dukes**: 0.0, Edge For Covering Spread: -7.4%
+- **Coastal Carolina Chanticleers**: 0.0, Edge For Covering Spread: **1.0%**
 
 ### Moneyline
-- **James Madison Dukes Win Probability**: 45.6%, Moneyline Edge: -6.8%
-- **Coastal Carolina Chanticleers Win Probability**: 54.4%, Moneyline Edge: **2.0%**
+- **James Madison Dukes Win Probability**: 45.7%, Moneyline Edge: -6.7%
+- **Coastal Carolina Chanticleers Win Probability**: 54.3%, Moneyline Edge: **1.9%**
 
 ### Total
 - **Predicted Total**: 141.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- Edge For Covering The Over: N/A
+- Edge For Covering The Under: N/A
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When James Madison Dukes (14-13) travels to face Coastal Carolina Chanticleers (16-11) at HTC Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into James Madison Dukes favored by 1.5 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When James Madison Dukes (14-13) travels to face Coastal Carolina Chanticleers (16-11) at HTC Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Coastal Carolina Chanticleers favored by 0.0 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. James Madison Dukes's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Coastal Carolina Chanticleers's 0.0-point cushion reflects home court advantage more than a talent gap. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **James Madison Dukes** bring an offensive efficiency of 110.12 (ranked #141 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 36.0% three-point shooting is serviceable but won't scare anyone. 

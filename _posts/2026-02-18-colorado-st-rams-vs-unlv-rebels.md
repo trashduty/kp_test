@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UNLV Rebels -1.5</p>
-  <p><strong>Moneyline:</strong> Colorado St Rams (+105) | UNLV Rebels (-125)</p>
+  <p><strong>Moneyline:</strong> Colorado St Rams (-100) | UNLV Rebels (-120)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Colorado St Rams**: 1.5, Edge For Covering Spread: -2.4%
-- **UNLV Rebels**: -1.5, Edge For Covering Spread: -2.4%
+- **Colorado St Rams**: 1.5, Edge For Covering Spread: -3.5%
+- **UNLV Rebels**: -1.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Colorado St Rams Win Probability**: 43.9%, Moneyline Edge: -4.9%
-- **UNLV Rebels Win Probability**: 56.1%, Moneyline Edge: **0.6%**
+- **Colorado St Rams Win Probability**: 44.4%, Moneyline Edge: -5.6%
+- **UNLV Rebels Win Probability**: 55.6%, Moneyline Edge: **1.0%**
 
 ### Total
-- **Predicted Total**: 149.0
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.1%
+- **Predicted Total**: 149.5
+- Edge For Covering The Over: -1.2%
+- Edge For Covering The Under: -3.5%
 
 ---
 

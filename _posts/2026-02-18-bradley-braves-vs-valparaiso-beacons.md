@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Bradley Braves -2.5</p>
-  <p><strong>Moneyline:</strong> Bradley Braves (-150) | Valparaiso Beacons (+125)</p>
+  <p><strong>Moneyline:</strong> Bradley Braves (-142) | Valparaiso Beacons (+120)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bradley Braves**: -2.5, Edge For Covering Spread: -6.2%
-- **Valparaiso Beacons**: 2.5, Edge For Covering Spread: **1.4%**
+- **Bradley Braves**: -2.5, Edge For Covering Spread: -5.5%
+- **Valparaiso Beacons**: 2.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Bradley Braves Win Probability**: 51.7%, Moneyline Edge: -8.3%
-- **Valparaiso Beacons Win Probability**: 48.3%, Moneyline Edge: **3.8%**
+- **Bradley Braves Win Probability**: 51.2%, Moneyline Edge: -7.5%
+- **Valparaiso Beacons Win Probability**: 48.8%, Moneyline Edge: **3.4%**
 
 ### Total
 - **Predicted Total**: 141.0
-- Edge For Covering The Over: -4.9%
-- Edge For Covering The Under: **0.2%**
+- Edge For Covering The Over: -5.7%
+- Edge For Covering The Under: **1.0%**
 
 ---
 

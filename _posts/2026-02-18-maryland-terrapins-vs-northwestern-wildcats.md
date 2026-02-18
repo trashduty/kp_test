@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Northwestern Wildcats -8.5</p>
-  <p><strong>Moneyline:</strong> Maryland Terrapins (+310) | Northwestern Wildcats (-400)</p>
+  <p><strong>Moneyline:</strong> Maryland Terrapins (+300) | Northwestern Wildcats (-390)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Northwestern Wildcats**: -8.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Maryland Terrapins Win Probability**: 21.2%, Moneyline Edge: -3.2%
-- **Northwestern Wildcats Win Probability**: 78.8%, Moneyline Edge: -1.2%
+- **Maryland Terrapins Win Probability**: 21.5%, Moneyline Edge: -3.5%
+- **Northwestern Wildcats Win Probability**: 78.5%, Moneyline Edge: -1.0%
 
 ### Total
 - **Predicted Total**: 144.0

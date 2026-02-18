@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Western Kentucky Hilltoppers -3.5</p>
-  <p><strong>Moneyline:</strong> Western Kentucky Hilltoppers (-175) | Delaware Blue Hens (+145)</p>
+  <p><strong>Moneyline:</strong> Western Kentucky Hilltoppers (-177) | Delaware Blue Hens (+147)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Delaware Blue Hens**: 3.5, Edge For Covering Spread: **1.0%**
 
 ### Moneyline
-- **Western Kentucky Hilltoppers Win Probability**: 59.8%, Moneyline Edge: -3.8%
-- **Delaware Blue Hens Win Probability**: 40.2%, Moneyline Edge: -0.7%
+- **Western Kentucky Hilltoppers Win Probability**: 59.9%, Moneyline Edge: -4.0%
+- **Delaware Blue Hens Win Probability**: 40.1%, Moneyline Edge: -0.3%
 
 ### Total
 - **Predicted Total**: 139.5

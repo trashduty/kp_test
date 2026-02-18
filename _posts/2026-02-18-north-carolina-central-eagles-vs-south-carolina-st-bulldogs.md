@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> North Carolina Central Eagles -3.0</p>
-  <p><strong>Moneyline:</strong> North Carolina Central Eagles (-161) | South Carolina St Bulldogs (+135)</p>
+  <p><strong>Moneyline:</strong> North Carolina Central Eagles (-163) | South Carolina St Bulldogs (+135)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **South Carolina St Bulldogs**: 3.0, Edge For Covering Spread: **3.0%**
 
 ### Moneyline
-- **North Carolina Central Eagles Win Probability**: 53.1%, Moneyline Edge: -8.6%
-- **South Carolina St Bulldogs Win Probability**: 46.9%, Moneyline Edge: **4.5%**
+- **North Carolina Central Eagles Win Probability**: 52.9%, Moneyline Edge: -9.1%
+- **South Carolina St Bulldogs Win Probability**: 47.1%, Moneyline Edge: **4.6%**
 
 ### Total
-- **Predicted Total**: 140.0
-- Edge For Covering The Over: -2.7%
-- Edge For Covering The Under: -2.0%
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -4.5%
 
 ---
 

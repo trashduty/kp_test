@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Lipscomb Bisons -3.5</p>
-  <p><strong>Moneyline:</strong> Lipscomb Bisons (-161) | Bellarmine Knights (+135)</p>
+  <p><strong>Moneyline:</strong> Lipscomb Bisons (-163) | Bellarmine Knights (+137)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Lipscomb Bisons**: -3.5, Edge For Covering Spread: -4.8%
-- **Bellarmine Knights**: 3.5, Edge For Covering Spread: **0.0%**
+- **Lipscomb Bisons**: -3.5, Edge For Covering Spread: -5.1%
+- **Bellarmine Knights**: 3.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Lipscomb Bisons Win Probability**: 58.1%, Moneyline Edge: -3.6%
-- **Bellarmine Knights Win Probability**: 41.9%, Moneyline Edge: -0.6%
+- **Lipscomb Bisons Win Probability**: 58.3%, Moneyline Edge: -3.8%
+- **Bellarmine Knights Win Probability**: 41.7%, Moneyline Edge: -0.5%
 
 ### Total
-- **Predicted Total**: 158.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 158.0
+- Edge For Covering The Over: -2.1%
+- Edge For Covering The Under: -2.9%
 
 ---
 

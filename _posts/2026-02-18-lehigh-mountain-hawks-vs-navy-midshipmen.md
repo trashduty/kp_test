@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Navy Midshipmen -10.0</p>
-  <p><strong>Moneyline:</strong> Lehigh Mountain Hawks (+372) | Navy Midshipmen (-492)</p>
+  <p><strong>Moneyline:</strong> Lehigh Mountain Hawks (+382) | Navy Midshipmen (-524)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Lehigh Mountain Hawks**: 10.0, Edge For Covering Spread: -2.7%
-- **Navy Midshipmen**: -10.0, Edge For Covering Spread: -2.0%
+- **Lehigh Mountain Hawks**: 10.0, Edge For Covering Spread: -2.3%
+- **Navy Midshipmen**: -10.0, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **Lehigh Mountain Hawks Win Probability**: 17.7%, Moneyline Edge: -3.5%
-- **Navy Midshipmen Win Probability**: 82.3%, Moneyline Edge: -0.8%
+- **Lehigh Mountain Hawks Win Probability**: 17.5%, Moneyline Edge: -3.3%
+- **Navy Midshipmen Win Probability**: 82.5%, Moneyline Edge: -1.4%
 
 ### Total
 - **Predicted Total**: 138.0
-- Edge For Covering The Over: -6.5%
-- Edge For Covering The Under: **0.2%**
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -0.3%
 
 ---
 

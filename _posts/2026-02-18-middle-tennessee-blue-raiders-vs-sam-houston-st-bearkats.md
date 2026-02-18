@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Sam Houston St Bearkats -5.5</p>
-  <p><strong>Moneyline:</strong> Middle Tennessee Blue Raiders (N/A) | Sam Houston St Bearkats (N/A)</p>
+  <p><strong>Moneyline:</strong> Middle Tennessee Blue Raiders (+190) | Sam Houston St Bearkats (-230)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Middle Tennessee Blue Raiders**: 5.5, Edge For Covering Spread: -4.4%
-- **Sam Houston St Bearkats**: -5.5, Edge For Covering Spread: -0.3%
+- **Middle Tennessee Blue Raiders**: 5.5, Edge For Covering Spread: -4.7%
+- **Sam Houston St Bearkats**: -5.5, Edge For Covering Spread: -0.1%
 
 ### Moneyline
-- **Middle Tennessee Blue Raiders Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Sam Houston St Bearkats Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Middle Tennessee Blue Raiders Win Probability**: 29.0%, Moneyline Edge: -5.4%
+- **Sam Houston St Bearkats Win Probability**: 71.0%, Moneyline Edge: **1.3%**
 
 ### Total
 - **Predicted Total**: 152.0
-- Edge For Covering The Over: -2.7%
-- Edge For Covering The Under: -2.1%
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 

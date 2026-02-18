@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wichita St Shockers -7.5</p>
-  <p><strong>Moneyline:</strong> Wichita St Shockers (-395) | East Carolina Pirates (+310)</p>
+  <p><strong>Moneyline:</strong> Wichita St Shockers (-355) | East Carolina Pirates (+277)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wichita St Shockers**: -7.5, Edge For Covering Spread: -4.5%
-- **East Carolina Pirates**: 7.5, Edge For Covering Spread: -0.2%
+- **Wichita St Shockers**: -7.5, Edge For Covering Spread: -2.8%
+- **East Carolina Pirates**: 7.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Wichita St Shockers Win Probability**: 76.3%, Moneyline Edge: -3.5%
-- **East Carolina Pirates Win Probability**: 23.7%, Moneyline Edge: -0.7%
+- **Wichita St Shockers Win Probability**: 75.3%, Moneyline Edge: -2.7%
+- **East Carolina Pirates Win Probability**: 24.7%, Moneyline Edge: -1.8%
 
 ### Total
 - **Predicted Total**: 144.0

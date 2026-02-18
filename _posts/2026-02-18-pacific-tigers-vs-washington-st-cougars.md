@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Washington St Cougars -1.5</p>
-  <p><strong>Moneyline:</strong> Pacific Tigers (+110) | Washington St Cougars (-132)</p>
+  <p><strong>Moneyline:</strong> Pacific Tigers (+110) | Washington St Cougars (-130)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Pacific Tigers**: 1.5, Edge For Covering Spread: -3.8%
-- **Washington St Cougars**: -1.5, Edge For Covering Spread: -0.9%
+- **Pacific Tigers**: 1.5, Edge For Covering Spread: -3.3%
+- **Washington St Cougars**: -1.5, Edge For Covering Spread: -1.5%
 
 ### Moneyline
-- **Pacific Tigers Win Probability**: 43.8%, Moneyline Edge: -3.9%
-- **Washington St Cougars Win Probability**: 56.2%, Moneyline Edge: -0.7%
+- **Pacific Tigers Win Probability**: 43.9%, Moneyline Edge: -3.8%
+- **Washington St Cougars Win Probability**: 56.1%, Moneyline Edge: -0.4%
 
 ### Total
 - **Predicted Total**: 145.0
-- Edge For Covering The Over: -1.0%
-- Edge For Covering The Under: -3.8%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -3.2%
 
 ---
 

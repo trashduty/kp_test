@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Omaha Mavericks -9.5</p>
-  <p><strong>Moneyline:</strong> Oral Roberts Golden Eagles (+350) | Omaha Mavericks (-465)</p>
+  <p><strong>Moneyline:</strong> Oral Roberts Golden Eagles (+385) | Omaha Mavericks (-524)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oral Roberts Golden Eagles**: 9.5, Edge For Covering Spread: -4.2%
-- **Omaha Mavericks**: -9.5, Edge For Covering Spread: -0.5%
+- **Oral Roberts Golden Eagles**: 9.5, Edge For Covering Spread: -4.0%
+- **Omaha Mavericks**: -9.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Oral Roberts Golden Eagles Win Probability**: 18.4%, Moneyline Edge: -3.8%
-- **Omaha Mavericks Win Probability**: 81.6%, Moneyline Edge: -0.7%
+- **Oral Roberts Golden Eagles Win Probability**: 17.7%, Moneyline Edge: -2.9%
+- **Omaha Mavericks Win Probability**: 82.3%, Moneyline Edge: -1.7%
 
 ### Total
 - **Predicted Total**: 149.5
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- Edge For Covering The Over: -4.6%
+- Edge For Covering The Under: -0.6%
 
 ---
 

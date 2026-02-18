@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Penn State Nittany Lions -4.5</p>
-  <p><strong>Moneyline:</strong> Rutgers Scarlet Knights (+165) | Penn State Nittany Lions (-203)</p>
+  <p><strong>Moneyline:</strong> Rutgers Scarlet Knights (+170) | Penn State Nittany Lions (-200)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Rutgers Scarlet Knights**: 4.5, Edge For Covering Spread: -2.4%
-- **Penn State Nittany Lions**: -4.5, Edge For Covering Spread: -2.4%
+- **Rutgers Scarlet Knights**: 4.5, Edge For Covering Spread: -3.2%
+- **Penn State Nittany Lions**: -4.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Rutgers Scarlet Knights Win Probability**: 33.5%, Moneyline Edge: -4.2%
-- **Penn State Nittany Lions Win Probability**: 66.5%, Moneyline Edge: -0.5%
+- **Rutgers Scarlet Knights Win Probability**: 33.4%, Moneyline Edge: -3.7%
+- **Penn State Nittany Lions Win Probability**: 66.6%, Moneyline Edge: -0.0%
 
 ### Total
-- **Predicted Total**: 149.5
-- Edge For Covering The Over: -1.9%
-- Edge For Covering The Under: -2.8%
+- **Predicted Total**: 148.5
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 

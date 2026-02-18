@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Duquesne Dukes -11.5</p>
-  <p><strong>Moneyline:</strong> La Salle Explorers (+452) | Duquesne Dukes (-625)</p>
+  <p><strong>Moneyline:</strong> La Salle Explorers (+500) | Duquesne Dukes (-747)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Duquesne Dukes**: -11.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **La Salle Explorers Win Probability**: 16.7%, Moneyline Edge: -1.4%
-- **Duquesne Dukes Win Probability**: 83.3%, Moneyline Edge: -2.9%
+- **La Salle Explorers Win Probability**: 15.9%, Moneyline Edge: -0.7%
+- **Duquesne Dukes Win Probability**: 84.1%, Moneyline Edge: -4.1%
 
 ### Total
 - **Predicted Total**: 145.0
-- Edge For Covering The Over: -2.0%
-- Edge For Covering The Under: -2.7%
+- Edge For Covering The Over: -3.1%
+- Edge For Covering The Under: -1.6%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Loyola (MD) Greyhounds -5.5</p>
-  <p><strong>Moneyline:</strong> Army Knights (+165) | Loyola (MD) Greyhounds (-200)</p>
+  <p><strong>Moneyline:</strong> Army Knights (+180) | Loyola (MD) Greyhounds (-215)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Loyola (MD) Greyhounds**: -5.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Army Knights Win Probability**: 32.1%, Moneyline Edge: -5.6%
-- **Loyola (MD) Greyhounds Win Probability**: 67.9%, Moneyline Edge: **1.2%**
+- **Army Knights Win Probability**: 31.2%, Moneyline Edge: -4.5%
+- **Loyola (MD) Greyhounds Win Probability**: 68.8%, Moneyline Edge: **0.5%**
 
 ### Total
 - **Predicted Total**: 148.0

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> North Dakota St Bison -1.5</p>
-  <p><strong>Moneyline:</strong> North Dakota St Bison (-118) | South Dakota St Jackrabbits (-102)</p>
+  <p><strong>Moneyline:</strong> North Dakota St Bison (-116) | South Dakota St Jackrabbits (-104)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **North Dakota St Bison**: -1.5, Edge For Covering Spread: -0.5%
-- **South Dakota St Jackrabbits**: 1.5, Edge For Covering Spread: -4.1%
+- **North Dakota St Bison**: -1.5, Edge For Covering Spread: -2.4%
+- **South Dakota St Jackrabbits**: 1.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **North Dakota St Bison Win Probability**: 53.4%, Moneyline Edge: -0.8%
-- **South Dakota St Jackrabbits Win Probability**: 46.6%, Moneyline Edge: -3.9%
+- **North Dakota St Bison Win Probability**: 53.1%, Moneyline Edge: -0.7%
+- **South Dakota St Jackrabbits Win Probability**: 46.9%, Moneyline Edge: -4.2%
 
 ### Total
 - **Predicted Total**: 146.5
-- Edge For Covering The Over: -3.9%
+- Edge For Covering The Over: -4.1%
 - Edge For Covering The Under: -0.9%
 
 ---

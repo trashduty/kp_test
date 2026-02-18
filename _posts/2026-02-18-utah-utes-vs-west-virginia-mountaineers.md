@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> West Virginia Mountaineers -10.5</p>
-  <p><strong>Moneyline:</strong> Utah Utes (+437) | West Virginia Mountaineers (-613)</p>
+  <p><strong>Moneyline:</strong> Utah Utes (+450) | West Virginia Mountaineers (-690)</p>
   <p><strong>Total:</strong> 130.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Utah Utes**: 10.5, Edge For Covering Spread: -0.6%
-- **West Virginia Mountaineers**: -10.5, Edge For Covering Spread: -4.1%
+- **Utah Utes**: 10.5, Edge For Covering Spread: -1.2%
+- **West Virginia Mountaineers**: -10.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Utah Utes Win Probability**: 17.4%, Moneyline Edge: -1.2%
-- **West Virginia Mountaineers Win Probability**: 82.6%, Moneyline Edge: -3.4%
+- **Utah Utes Win Probability**: 17.2%, Moneyline Edge: -1.0%
+- **West Virginia Mountaineers Win Probability**: 82.8%, Moneyline Edge: -4.5%
 
 ### Total
 - **Predicted Total**: 132.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Over: -1.4%
+- Edge For Covering The Under: -3.3%
 
 ---
 

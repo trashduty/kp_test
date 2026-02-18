@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Queens University Royals -7.5</p>
-  <p><strong>Moneyline:</strong> Queens University Royals (N/A) | North Alabama Lions (N/A)</p>
+  <p><strong>Spread:</strong> Queens University Royals -8.5</p>
+  <p><strong>Moneyline:</strong> Queens University Royals (-460) | North Alabama Lions (+339)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Queens University Royals**: -7.5, Edge For Covering Spread: -4.1%
-- **North Alabama Lions**: 7.5, Edge For Covering Spread: -0.5%
+- **Queens University Royals**: -8.5, Edge For Covering Spread: -2.8%
+- **North Alabama Lions**: 8.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Queens University Royals Win Probability**: N/A, Moneyline Edge: 0.0%
-- **North Alabama Lions Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Queens University Royals Win Probability**: 76.6%, Moneyline Edge: -5.5%
+- **North Alabama Lions Win Probability**: 23.4%, Moneyline Edge: **0.6%**
 
 ### Total
 - **Predicted Total**: 156.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Queens University Royals (15-12) enters hostile territory as they take on North Alabama Lions (8-17) at CB&S Bank Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Queens University Royals favored by 7.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Queens University Royals (15-12) enters hostile territory as they take on North Alabama Lions (8-17) at CB&S Bank Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Queens University Royals favored by 8.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us Queens University Royals has clear advantages, but games aren't played on paper. North Alabama Lions needs to punch above their weight class to keep this close. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 8.5 points tells us Queens University Royals has clear advantages, but games aren't played on paper. North Alabama Lions needs to punch above their weight class to keep this close. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Queens University Royals** bring an offensive efficiency of 118.97 (ranked #32 nationally). This is an elite offense that can score in multiple ways. Their 35.5% three-point shooting is serviceable but won't scare anyone. 

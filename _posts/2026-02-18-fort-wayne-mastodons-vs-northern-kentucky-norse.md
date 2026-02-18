@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Northern Kentucky Norse -6.5</p>
-  <p><strong>Moneyline:</strong> Fort Wayne Mastodons (+205) | Northern Kentucky Norse (-254)</p>
+  <p><strong>Moneyline:</strong> Fort Wayne Mastodons (+220) | Northern Kentucky Norse (-272)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Northern Kentucky Norse**: -6.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Fort Wayne Mastodons Win Probability**: 28.7%, Moneyline Edge: -4.1%
-- **Northern Kentucky Norse Win Probability**: 71.3%, Moneyline Edge: -0.4%
+- **Fort Wayne Mastodons Win Probability**: 28.0%, Moneyline Edge: -3.3%
+- **Northern Kentucky Norse Win Probability**: 72.0%, Moneyline Edge: -1.1%
 
 ### Total
-- **Predicted Total**: 151.5
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 152.0
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -2.6%
 
 ---
 

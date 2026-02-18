@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Eastern Kentucky Colonels -5.5</p>
-  <p><strong>Moneyline:</strong> West Georgia Wolves (+180) | Eastern Kentucky Colonels (-220)</p>
+  <p><strong>Spread:</strong> Eastern Kentucky Colonels -6.5</p>
+  <p><strong>Moneyline:</strong> West Georgia Wolves (+198) | Eastern Kentucky Colonels (-250)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **West Georgia Wolves**: 5.5, Edge For Covering Spread: -3.4%
-- **Eastern Kentucky Colonels**: -5.5, Edge For Covering Spread: -1.3%
+- **West Georgia Wolves**: 6.5, Edge For Covering Spread: -3.8%
+- **Eastern Kentucky Colonels**: -6.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **West Georgia Wolves Win Probability**: 30.6%, Moneyline Edge: -5.1%
-- **Eastern Kentucky Colonels Win Probability**: 69.4%, Moneyline Edge: **0.7%**
+- **West Georgia Wolves Win Probability**: 29.5%, Moneyline Edge: -4.1%
+- **Eastern Kentucky Colonels Win Probability**: 70.5%, Moneyline Edge: -0.9%
 
 ### Total
 - **Predicted Total**: 156.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Eastern Kentucky Colonels (9-18) hosts West Georgia Wolves (12-14) at Baptist Health Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Eastern Kentucky Colonels favored by 5.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Eastern Kentucky Colonels (9-18) hosts West Georgia Wolves (12-14) at Baptist Health Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Eastern Kentucky Colonels favored by 6.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Eastern Kentucky Colonels is viewed as the better team, but this isn't an overwhelming edge. West Georgia Wolves has a legitimate path to covering or winning outright. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 6.5-point spread indicates Eastern Kentucky Colonels is viewed as the better team, but this isn't an overwhelming edge. West Georgia Wolves has a legitimate path to covering or winning outright. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **West Georgia Wolves** bring an offensive efficiency of 105.16 (ranked #237 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.2% three-point shooting is serviceable but won't scare anyone. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Fordham Rams -8.5</p>
-  <p><strong>Moneyline:</strong> Loyola (Chi) Ramblers (+310) | Fordham Rams (-400)</p>
+  <p><strong>Moneyline:</strong> Loyola (Chi) Ramblers (+350) | Fordham Rams (-480)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -25,16 +25,16 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **Loyola (Chi) Ramblers**: 8.5, Edge For Covering Spread: -4.1%
-- **Fordham Rams**: -8.5, Edge For Covering Spread: -0.7%
+- **Fordham Rams**: -8.5, Edge For Covering Spread: -0.6%
 
 ### Moneyline
-- **Loyola (Chi) Ramblers Win Probability**: 19.2%, Moneyline Edge: -5.2%
-- **Fordham Rams Win Probability**: 80.8%, Moneyline Edge: **0.8%**
+- **Loyola (Chi) Ramblers Win Probability**: 18.1%, Moneyline Edge: -4.1%
+- **Fordham Rams Win Probability**: 81.9%, Moneyline Edge: -0.8%
 
 ### Total
-- **Predicted Total**: 136.5
-- Edge For Covering The Over: -6.6%
-- Edge For Covering The Under: **1.9%**
+- **Predicted Total**: 136.0
+- Edge For Covering The Over: -5.8%
+- Edge For Covering The Under: **0.4%**
 
 ---
 

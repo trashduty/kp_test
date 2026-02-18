@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Virginia Cavaliers -13.5</p>
-  <p><strong>Moneyline:</strong> Virginia Cavaliers (-1250) | Georgia Tech Yellow Jackets (+740)</p>
+  <p><strong>Moneyline:</strong> Virginia Cavaliers (-1148) | Georgia Tech Yellow Jackets (+690)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Virginia Cavaliers**: -13.5, Edge For Covering Spread: -1.8%
-- **Georgia Tech Yellow Jackets**: 13.5, Edge For Covering Spread: -2.9%
+- **Virginia Cavaliers**: -13.5, Edge For Covering Spread: -1.2%
+- **Georgia Tech Yellow Jackets**: 13.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Virginia Cavaliers Win Probability**: 88.3%, Moneyline Edge: -4.3%
-- **Georgia Tech Yellow Jackets Win Probability**: 11.7%, Moneyline Edge: -0.2%
+- **Virginia Cavaliers Win Probability**: 88.0%, Moneyline Edge: -4.0%
+- **Georgia Tech Yellow Jackets Win Probability**: 12.0%, Moneyline Edge: -0.6%
 
 ### Total
-- **Predicted Total**: 146.0
-- Edge For Covering The Over: -3.1%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 146.5
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.0%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Clemson Tigers -3.5</p>
-  <p><strong>Moneyline:</strong> Clemson Tigers (-170) | Wake Forest Demon Deacons (+140)</p>
+  <p><strong>Moneyline:</strong> Clemson Tigers (-170) | Wake Forest Demon Deacons (+142)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Clemson Tigers**: -3.5, Edge For Covering Spread: -4.1%
-- **Wake Forest Demon Deacons**: 3.5, Edge For Covering Spread: -0.7%
+- **Clemson Tigers**: -3.5, Edge For Covering Spread: -3.8%
+- **Wake Forest Demon Deacons**: 3.5, Edge For Covering Spread: -1.5%
 
 ### Moneyline
-- **Clemson Tigers Win Probability**: 61.1%, Moneyline Edge: -1.9%
-- **Wake Forest Demon Deacons Win Probability**: 38.9%, Moneyline Edge: -2.8%
+- **Clemson Tigers Win Probability**: 61.2%, Moneyline Edge: -1.8%
+- **Wake Forest Demon Deacons Win Probability**: 38.8%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 138.0

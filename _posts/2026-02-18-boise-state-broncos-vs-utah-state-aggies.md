@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Utah State Aggies -9.5</p>
-  <p><strong>Moneyline:</strong> Boise State Broncos (+390) | Utah State Aggies (-520)</p>
+  <p><strong>Moneyline:</strong> Boise State Broncos (+390) | Utah State Aggies (-524)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Boise State Broncos**: 9.5, Edge For Covering Spread: -1.2%
+- **Boise State Broncos**: 9.5, Edge For Covering Spread: -1.8%
 - **Utah State Aggies**: -9.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Boise State Broncos Win Probability**: 18.7%, Moneyline Edge: -1.7%
-- **Utah State Aggies Win Probability**: 81.3%, Moneyline Edge: -2.6%
+- **Boise State Broncos Win Probability**: 18.9%, Moneyline Edge: -1.5%
+- **Utah State Aggies Win Probability**: 81.1%, Moneyline Edge: -2.9%
 
 ### Total
-- **Predicted Total**: 152.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- **Predicted Total**: 152.5
+- Edge For Covering The Over: -4.5%
+- Edge For Covering The Under: -1.8%
 
 ---
 

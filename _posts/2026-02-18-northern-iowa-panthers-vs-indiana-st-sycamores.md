@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Northern Iowa Panthers -4.5</p>
-  <p><strong>Moneyline:</strong> Northern Iowa Panthers (-210) | Indiana St Sycamores (+170)</p>
+  <p><strong>Moneyline:</strong> Northern Iowa Panthers (-222) | Indiana St Sycamores (+182)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northern Iowa Panthers**: -4.5, Edge For Covering Spread: -2.4%
-- **Indiana St Sycamores**: 4.5, Edge For Covering Spread: -2.4%
+- **Northern Iowa Panthers**: -4.5, Edge For Covering Spread: -3.2%
+- **Indiana St Sycamores**: 4.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Northern Iowa Panthers Win Probability**: 66.2%, Moneyline Edge: -1.6%
-- **Indiana St Sycamores Win Probability**: 33.8%, Moneyline Edge: -3.2%
+- **Northern Iowa Panthers Win Probability**: 67.0%, Moneyline Edge: -2.0%
+- **Indiana St Sycamores Win Probability**: 33.0%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 134.0
-- Edge For Covering The Over: -6.7%
-- Edge For Covering The Under: **2.0%**
+- Edge For Covering The Over: -6.5%
+- Edge For Covering The Under: **1.7%**
 
 ---
 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Illinois Fighting Illini -8.5</p>
-  <p><strong>Moneyline:</strong> Illinois Fighting Illini (-455) | USC Trojans (+350)</p>
+  <p><strong>Spread:</strong> Illinois Fighting Illini -9.5</p>
+  <p><strong>Moneyline:</strong> Illinois Fighting Illini (-487) | USC Trojans (+355)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Illinois Fighting Illini**: -8.5, Edge For Covering Spread: -2.8%
-- **USC Trojans**: 8.5, Edge For Covering Spread: -1.9%
+- **Illinois Fighting Illini**: -9.5, Edge For Covering Spread: -3.2%
+- **USC Trojans**: 9.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Illinois Fighting Illini Win Probability**: 78.3%, Moneyline Edge: -3.6%
-- **USC Trojans Win Probability**: 21.7%, Moneyline Edge: -0.6%
+- **Illinois Fighting Illini Win Probability**: 78.5%, Moneyline Edge: -4.4%
+- **USC Trojans Win Probability**: 21.5%, Moneyline Edge: -0.5%
 
 ### Total
-- **Predicted Total**: 152.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 151.5
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Illinois Fighting Illini (21-5) enters hostile territory as they take on USC Trojans (18-7) at Galen Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Illinois Fighting Illini favored by 8.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Illinois Fighting Illini (21-5) enters hostile territory as they take on USC Trojans (18-7) at Galen Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Illinois Fighting Illini favored by 9.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Illinois Fighting Illini has clear advantages, but games aren't played on paper. USC Trojans needs to punch above their weight class to keep this close. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 9.5 points tells us Illinois Fighting Illini has clear advantages, but games aren't played on paper. USC Trojans needs to punch above their weight class to keep this close. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Illinois Fighting Illini** bring an offensive efficiency of 126.11 (ranked #1 nationally). This is an elite offense that can score in multiple ways. Their 35.6% three-point shooting is serviceable but won't scare anyone. 

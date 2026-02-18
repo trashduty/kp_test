@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Alabama Crimson Tide -4.5</p>
-  <p><strong>Moneyline:</strong> Arkansas Razorbacks (+160) | Alabama Crimson Tide (-192)</p>
+  <p><strong>Spread:</strong> Alabama Crimson Tide -3.5</p>
+  <p><strong>Moneyline:</strong> Arkansas Razorbacks (+154) | Alabama Crimson Tide (-185)</p>
   <p><strong>Total:</strong> 183.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arkansas Razorbacks**: 4.5, Edge For Covering Spread: -0.8%
-- **Alabama Crimson Tide**: -4.5, Edge For Covering Spread: -4.0%
+- **Arkansas Razorbacks**: 3.5, Edge For Covering Spread: -1.2%
+- **Alabama Crimson Tide**: -3.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Arkansas Razorbacks Win Probability**: 38.0%, Moneyline Edge: -0.5%
-- **Alabama Crimson Tide Win Probability**: 62.0%, Moneyline Edge: -3.7%
+- **Arkansas Razorbacks Win Probability**: 38.4%, Moneyline Edge: -0.9%
+- **Alabama Crimson Tide Win Probability**: 61.6%, Moneyline Edge: -3.3%
 
 ### Total
-- **Predicted Total**: 181.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- **Predicted Total**: 182.0
+- Edge For Covering The Over: -5.3%
+- Edge For Covering The Under: **0.5%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Arkansas Razorbacks (19-6) travels to face Alabama Crimson Tide (18-7) at Coleman Coliseum, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Alabama Crimson Tide favored by 4.5 points, with the total sitting at 183.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Arkansas Razorbacks (19-6) travels to face Alabama Crimson Tide (18-7) at Coleman Coliseum, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Alabama Crimson Tide favored by 3.5 points, with the total sitting at 183.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Alabama Crimson Tide is viewed as the better team, but this isn't an overwhelming edge. Arkansas Razorbacks has a legitimate path to covering or winning outright. The total of 183.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.5-point spread indicates Alabama Crimson Tide is viewed as the better team, but this isn't an overwhelming edge. Arkansas Razorbacks has a legitimate path to covering or winning outright. The total of 183.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Arkansas Razorbacks** bring an offensive efficiency of 122.71 (ranked #5 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 37.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

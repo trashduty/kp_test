@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> George Mason Patriots -1.5</p>
-  <p><strong>Moneyline:</strong> Dayton Flyers (+110) | George Mason Patriots (-135)</p>
+  <p><strong>Moneyline:</strong> Dayton Flyers (+112) | George Mason Patriots (-135)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Dayton Flyers**: 1.5, Edge For Covering Spread: -3.0%
-- **George Mason Patriots**: -1.5, Edge For Covering Spread: -1.8%
+- **Dayton Flyers**: 1.5, Edge For Covering Spread: -2.6%
+- **George Mason Patriots**: -1.5, Edge For Covering Spread: -2.3%
 
 ### Moneyline
-- **Dayton Flyers Win Probability**: 42.2%, Moneyline Edge: -5.5%
-- **George Mason Patriots Win Probability**: 57.8%, Moneyline Edge: **0.4%**
+- **Dayton Flyers Win Probability**: 42.0%, Moneyline Edge: -5.0%
+- **George Mason Patriots Win Probability**: 58.0%, Moneyline Edge: **0.5%**
 
 ### Total
 - **Predicted Total**: 137.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.1%
 
 ---
 

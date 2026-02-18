@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> St. Bonaventure Bonnies -4.5</p>
-  <p><strong>Moneyline:</strong> Saint Joseph's Hawks (+173) | St. Bonaventure Bonnies (-212)</p>
+  <p><strong>Moneyline:</strong> Saint Joseph's Hawks (+165) | St. Bonaventure Bonnies (-200)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Saint Joseph's Hawks**: 4.5, Edge For Covering Spread: -1.2%
-- **St. Bonaventure Bonnies**: -4.5, Edge For Covering Spread: -3.5%
+- **Saint Joseph's Hawks**: 4.5, Edge For Covering Spread: -1.6%
+- **St. Bonaventure Bonnies**: -4.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
-- **Saint Joseph's Hawks Win Probability**: 37.5%, Moneyline Edge: **0.9%**
-- **St. Bonaventure Bonnies Win Probability**: 62.5%, Moneyline Edge: -5.5%
+- **Saint Joseph's Hawks Win Probability**: 38.2%, Moneyline Edge: **0.5%**
+- **St. Bonaventure Bonnies Win Probability**: 61.8%, Moneyline Edge: -4.9%
 
 ### Total
-- **Predicted Total**: 146.5
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 146.0
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Louisiana Tech Bulldogs -2.5</p>
-  <p><strong>Moneyline:</strong> Jacksonville St Gamecocks (+120) | Louisiana Tech Bulldogs (-143)</p>
+  <p><strong>Moneyline:</strong> Jacksonville St Gamecocks (+120) | Louisiana Tech Bulldogs (-142)</p>
   <p><strong>Total:</strong> 132.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Louisiana Tech Bulldogs**: -2.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Jacksonville St Gamecocks Win Probability**: 44.3%, Moneyline Edge: -1.2%
-- **Louisiana Tech Bulldogs Win Probability**: 55.7%, Moneyline Edge: -3.2%
+- **Jacksonville St Gamecocks Win Probability**: 44.3%, Moneyline Edge: -1.1%
+- **Louisiana Tech Bulldogs Win Probability**: 55.7%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 130.0
-- Edge For Covering The Over: -6.4%
-- Edge For Covering The Under: **1.7%**
+- Edge For Covering The Over: -6.6%
+- Edge For Covering The Under: **1.0%**
 
 ---
 

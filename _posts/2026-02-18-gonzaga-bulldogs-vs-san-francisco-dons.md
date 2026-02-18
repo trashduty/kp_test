@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Gonzaga Bulldogs -14.5</p>
-  <p><strong>Moneyline:</strong> Gonzaga Bulldogs (-1350) | San Francisco Dons (+800)</p>
+  <p><strong>Spread:</strong> Gonzaga Bulldogs -13.5</p>
+  <p><strong>Moneyline:</strong> Gonzaga Bulldogs (-1465) | San Francisco Dons (+829)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Gonzaga Bulldogs**: -14.5, Edge For Covering Spread: -2.1%
-- **San Francisco Dons**: 14.5, Edge For Covering Spread: -2.5%
+- **Gonzaga Bulldogs**: -13.5, Edge For Covering Spread: -4.0%
+- **San Francisco Dons**: 13.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Gonzaga Bulldogs Win Probability**: 89.6%, Moneyline Edge: -3.5%
-- **San Francisco Dons Win Probability**: 10.4%, Moneyline Edge: -0.7%
+- **Gonzaga Bulldogs Win Probability**: 89.7%, Moneyline Edge: -3.9%
+- **San Francisco Dons Win Probability**: 10.3%, Moneyline Edge: -0.5%
 
 ### Total
 - **Predicted Total**: 149.5
-- Edge For Covering The Over: -2.8%
-- Edge For Covering The Under: -1.9%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Gonzaga Bulldogs (25-2) enters hostile territory as they take on San Francisco Dons (15-13) at War Memorial at the Sobrato Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Gonzaga Bulldogs favored by 14.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Gonzaga Bulldogs (25-2) enters hostile territory as they take on San Francisco Dons (15-13) at War Memorial at the Sobrato Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Gonzaga Bulldogs favored by 13.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 14.5-point spread screams mismatch. The books are asking San Francisco Dons to hang within two possessions, which based on the profiles, requires Gonzaga Bulldogs to play below their standard. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 13.5-point spread screams mismatch. The books are asking San Francisco Dons to hang within two possessions, which based on the profiles, requires Gonzaga Bulldogs to play below their standard. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Gonzaga Bulldogs** bring an offensive efficiency of 121.63 (ranked #14 nationally). This is an elite offense that can score in multiple ways. Their 34.2% three-point shooting is serviceable but won't scare anyone. 
