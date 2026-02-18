@@ -3606,5 +3606,21 @@
   "South Carolina St Bulldogs vs. North Carolina Central Eagles|South Carolina St Bulldogs|spread": {
     "captured_at": "2026-02-18T04:42:19.270493+00:00",
     "edge_type": "spread"
+  },
+  "Northeastern Huskies vs. Drexel Dragons|Northeastern Huskies|spread": {
+    "captured_at": "2026-02-18T20:16:18.320223+00:00",
+    "edge_type": "spread"
+  },
+  "Georgia St Panthers vs. Georgia Southern Eagles|Georgia St Panthers|spread": {
+    "captured_at": "2026-02-18T20:16:18.320640+00:00",
+    "edge_type": "spread"
+  },
+  "Louisiana Ragin' Cajuns vs. Arkansas St Red Wolves|under": {
+    "captured_at": "2026-02-18T20:16:18.320747+00:00",
+    "edge_type": "under"
+  },
+  "Sacramento St Hornets vs. Eastern Washington Eagles|Sacramento St Hornets|spread": {
+    "captured_at": "2026-02-18T20:16:18.321251+00:00",
+    "edge_type": "spread"
   }
 }
