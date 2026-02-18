@@ -3590,5 +3590,21 @@
   "UNLV Rebels vs. Colorado St Rams|UNLV Rebels|spread": {
     "captured_at": "2026-02-17T23:11:16.035363+00:00",
     "edge_type": "spread"
+  },
+  "Fordham Rams vs. Loyola (Chi) Ramblers|under": {
+    "captured_at": "2026-02-18T04:42:19.265209+00:00",
+    "edge_type": "under"
+  },
+  "North Alabama Lions vs. Queens University Royals|North Alabama Lions|spread": {
+    "captured_at": "2026-02-18T04:42:19.268017+00:00",
+    "edge_type": "spread"
+  },
+  "Loyola (MD) Greyhounds vs. Army Knights|Loyola (MD) Greyhounds|moneyline": {
+    "captured_at": "2026-02-18T04:42:19.268381+00:00",
+    "edge_type": "moneyline"
+  },
+  "South Carolina St Bulldogs vs. North Carolina Central Eagles|South Carolina St Bulldogs|spread": {
+    "captured_at": "2026-02-18T04:42:19.270493+00:00",
+    "edge_type": "spread"
   }
 }
