@@ -3626,5 +3626,21 @@
   "North Texas Mean Green vs. Tulane Green Wave|under": {
     "captured_at": "2026-02-18T21:17:11.599226+00:00",
     "edge_type": "under"
+  },
+  "New Haven Chargers vs. Stonehill Skyhawks|New Haven Chargers|spread": {
+    "captured_at": "2026-02-18T22:13:08.088552+00:00",
+    "edge_type": "spread"
+  },
+  "Wright St Raiders vs. IUPUI Jaguars|Wright St Raiders|spread": {
+    "captured_at": "2026-02-18T22:13:08.089040+00:00",
+    "edge_type": "spread"
+  },
+  "Chicago St Cougars vs. Fairleigh Dickinson Knights|Chicago St Cougars|spread": {
+    "captured_at": "2026-02-18T22:13:08.089597+00:00",
+    "edge_type": "spread"
+  },
+  "Denver Pioneers vs. South Dakota Coyotes|over": {
+    "captured_at": "2026-02-18T22:13:08.092379+00:00",
+    "edge_type": "over"
   }
 }
