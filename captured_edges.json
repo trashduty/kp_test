@@ -3686,5 +3686,17 @@
   "Detroit Mercy Titans vs. Milwaukee Panthers|Detroit Mercy Titans|moneyline": {
     "captured_at": "2026-02-19T19:20:24.759534+00:00",
     "edge_type": "moneyline"
+  },
+  "Iona Gaels vs. Saint Peter's Peacocks|Iona Gaels|spread": {
+    "captured_at": "2026-02-19T20:12:37.176608+00:00",
+    "edge_type": "spread"
+  },
+  "Iona Gaels vs. Saint Peter's Peacocks|Iona Gaels|moneyline": {
+    "captured_at": "2026-02-19T20:12:37.176650+00:00",
+    "edge_type": "moneyline"
+  },
+  "Merrimack Warriors vs. Siena Saints|Merrimack Warriors|spread": {
+    "captured_at": "2026-02-19T20:12:37.177282+00:00",
+    "edge_type": "spread"
   }
 }
