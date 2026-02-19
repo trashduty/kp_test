@@ -3670,5 +3670,9 @@
   "CSU Fullerton Titans vs. UC Davis Aggies|CSU Fullerton Titans|moneyline": {
     "captured_at": "2026-02-19T01:38:32.594944+00:00",
     "edge_type": "moneyline"
+  },
+  "Mercyhurst Lakers vs. Wagner Seahawks|under": {
+    "captured_at": "2026-02-19T03:06:48.946317+00:00",
+    "edge_type": "under"
   }
 }
