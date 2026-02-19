@@ -3674,5 +3674,9 @@
   "Mercyhurst Lakers vs. Wagner Seahawks|under": {
     "captured_at": "2026-02-19T03:06:48.946317+00:00",
     "edge_type": "under"
+  },
+  "NJIT Highlanders vs. Albany Great Danes|NJIT Highlanders|spread": {
+    "captured_at": "2026-02-19T04:41:22.354222+00:00",
+    "edge_type": "spread"
   }
 }
