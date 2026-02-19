@@ -3698,5 +3698,9 @@
   "Merrimack Warriors vs. Siena Saints|Merrimack Warriors|spread": {
     "captured_at": "2026-02-19T20:12:37.177282+00:00",
     "edge_type": "spread"
+  },
+  "Auburn Tigers vs. Kentucky Wildcats|Auburn Tigers|moneyline": {
+    "captured_at": "2026-02-19T22:11:16.689559+00:00",
+    "edge_type": "moneyline"
   }
 }
