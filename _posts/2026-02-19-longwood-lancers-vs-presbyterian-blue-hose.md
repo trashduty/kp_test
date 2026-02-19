@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Presbyterian Blue Hose -2.5</p>
-  <p><strong>Moneyline:</strong> Longwood Lancers (+118) | Presbyterian Blue Hose (-145)</p>
+  <p><strong>Moneyline:</strong> Longwood Lancers (+115) | Presbyterian Blue Hose (-140)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Longwood Lancers**: 2.5, Edge For Covering Spread: -3.3%
-- **Presbyterian Blue Hose**: -2.5, Edge For Covering Spread: -1.5%
+- **Longwood Lancers**: 2.5, Edge For Covering Spread: -4.3%
+- **Presbyterian Blue Hose**: -2.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **Longwood Lancers Win Probability**: 41.7%, Moneyline Edge: -4.2%
-- **Presbyterian Blue Hose Win Probability**: 58.3%, Moneyline Edge: -0.9%
+- **Longwood Lancers Win Probability**: 42.0%, Moneyline Edge: -4.5%
+- **Presbyterian Blue Hose Win Probability**: 58.0%, Moneyline Edge: -0.3%
 
 ### Total
-- **Predicted Total**: 138.0
-- Edge For Covering The Over: -5.5%
-- Edge For Covering The Under: -1.0%
+- **Predicted Total**: 138.5
+- Edge For Covering The Over: -4.5%
+- Edge For Covering The Under: -0.4%
 
 ---
 

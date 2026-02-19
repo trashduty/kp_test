@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Drexel Dragons -1.5</p>
-  <p><strong>Moneyline:</strong> Drexel Dragons (-108) | Northeastern Huskies (-111)</p>
+  <p><strong>Moneyline:</strong> Drexel Dragons (-110) | Northeastern Huskies (-110)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Drexel Dragons**: -1.5, Edge For Covering Spread: -1.2%
-- **Northeastern Huskies**: 1.5, Edge For Covering Spread: -3.7%
+- **Drexel Dragons**: -1.5, Edge For Covering Spread: -1.4%
+- **Northeastern Huskies**: 1.5, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **Drexel Dragons Win Probability**: 50.6%, Moneyline Edge: -1.4%
-- **Northeastern Huskies Win Probability**: 49.4%, Moneyline Edge: -3.3%
+- **Drexel Dragons Win Probability**: 50.8%, Moneyline Edge: -1.6%
+- **Northeastern Huskies Win Probability**: 49.2%, Moneyline Edge: -3.2%
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 

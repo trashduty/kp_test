@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Bethune-Cookman Wildcats -5.5</p>
-  <p><strong>Moneyline:</strong> Alabama St Hornets (+200) | Bethune-Cookman Wildcats (-245)</p>
+  <p><strong>Moneyline:</strong> Alabama St Hornets (+205) | Bethune-Cookman Wildcats (-255)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Alabama St Hornets**: 5.5, Edge For Covering Spread: -2.9%
-- **Bethune-Cookman Wildcats**: -5.5, Edge For Covering Spread: -1.8%
+- **Alabama St Hornets**: 5.5, Edge For Covering Spread: -3.2%
+- **Bethune-Cookman Wildcats**: -5.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Alabama St Hornets Win Probability**: 27.0%, Moneyline Edge: -6.4%
-- **Bethune-Cookman Wildcats Win Probability**: 73.0%, Moneyline Edge: **2.0%**
+- **Alabama St Hornets Win Probability**: 26.7%, Moneyline Edge: -6.1%
+- **Bethune-Cookman Wildcats Win Probability**: 73.3%, Moneyline Edge: **1.5%**
 
 ### Total
-- **Predicted Total**: 145.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- **Predicted Total**: 146.0
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 

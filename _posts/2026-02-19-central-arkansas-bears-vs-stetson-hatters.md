@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Central Arkansas Bears -8.5</p>
-  <p><strong>Moneyline:</strong> Central Arkansas Bears (-350) | Stetson Hatters (+275)</p>
+  <p><strong>Moneyline:</strong> Central Arkansas Bears (-400) | Stetson Hatters (+300)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Central Arkansas Bears**: -8.5, Edge For Covering Spread: -2.5%
-- **Stetson Hatters**: 8.5, Edge For Covering Spread: -2.2%
+- **Central Arkansas Bears**: -8.5, Edge For Covering Spread: -2.8%
+- **Stetson Hatters**: 8.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Central Arkansas Bears Win Probability**: 72.2%, Moneyline Edge: -5.5%
-- **Stetson Hatters Win Probability**: 27.8%, Moneyline Edge: **1.1%**
+- **Central Arkansas Bears Win Probability**: 73.1%, Moneyline Edge: -6.9%
+- **Stetson Hatters Win Probability**: 26.9%, Moneyline Edge: **1.9%**
 
 ### Total
 - **Predicted Total**: 148.5

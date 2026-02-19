@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Prairie View Panthers -9.5</p>
-  <p><strong>Moneyline:</strong> Prairie View Panthers (-450) | Miss Valley St Delta Devils (+340)</p>
+  <p><strong>Spread:</strong> Prairie View Panthers -8.5</p>
+  <p><strong>Moneyline:</strong> Prairie View Panthers (-550) | Miss Valley St Delta Devils (+380)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Prairie View Panthers**: -9.5, Edge For Covering Spread: -3.5%
-- **Miss Valley St Delta Devils**: 9.5, Edge For Covering Spread: -1.2%
+- **Prairie View Panthers**: -8.5, Edge For Covering Spread: -4.5%
+- **Miss Valley St Delta Devils**: 8.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **Prairie View Panthers Win Probability**: 78.6%, Moneyline Edge: -3.2%
-- **Miss Valley St Delta Devils Win Probability**: 21.4%, Moneyline Edge: -1.4%
+- **Prairie View Panthers Win Probability**: 79.6%, Moneyline Edge: -5.0%
+- **Miss Valley St Delta Devils Win Probability**: 20.4%, Moneyline Edge: -0.5%
 
 ### Total
-- **Predicted Total**: 152.5
-- Edge For Covering The Over: -3.4%
-- Edge For Covering The Under: -1.4%
+- **Predicted Total**: 153.0
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Prairie View Panthers (10-16) enters hostile territory as they take on Miss Valley St Delta Devils (1-25) at Harrison Complex in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Prairie View Panthers favored by 9.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Prairie View Panthers (10-16) enters hostile territory as they take on Miss Valley St Delta Devils (1-25) at Harrison Complex in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Prairie View Panthers favored by 8.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Prairie View Panthers has clear advantages, but games aren't played on paper. Miss Valley St Delta Devils needs to punch above their weight class to keep this close. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 8.5 points tells us Prairie View Panthers has clear advantages, but games aren't played on paper. Miss Valley St Delta Devils needs to punch above their weight class to keep this close. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Prairie View Panthers** bring an offensive efficiency of 101.71 (ranked #300 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.5% from three, they can't rely on the arc. Expect a paint-focused attack. 

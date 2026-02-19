@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Denver Pioneers -6.5</p>
-  <p><strong>Moneyline:</strong> South Dakota Coyotes (+200) | Denver Pioneers (-250)</p>
+  <p><strong>Moneyline:</strong> South Dakota Coyotes (+220) | Denver Pioneers (-275)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Dakota Coyotes**: 6.5, Edge For Covering Spread: -4.2%
-- **Denver Pioneers**: -6.5, Edge For Covering Spread: -0.5%
+- **South Dakota Coyotes**: 6.5, Edge For Covering Spread: -4.8%
+- **Denver Pioneers**: -6.5, Edge For Covering Spread: **0.0%**
 
 ### Moneyline
-- **South Dakota Coyotes Win Probability**: 29.4%, Moneyline Edge: -3.9%
-- **Denver Pioneers Win Probability**: 70.6%, Moneyline Edge: -0.8%
+- **South Dakota Coyotes Win Probability**: 28.4%, Moneyline Edge: -2.8%
+- **Denver Pioneers Win Probability**: 71.6%, Moneyline Edge: -1.8%
 
 ### Total
 - **Predicted Total**: 164.0

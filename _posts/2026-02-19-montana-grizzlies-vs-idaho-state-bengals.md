@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Montana Grizzlies -1.5</p>
-  <p><strong>Moneyline:</strong> Montana Grizzlies (-120) | Idaho State Bengals (-100)</p>
+  <p><strong>Moneyline:</strong> Montana Grizzlies (-122) | Idaho State Bengals (+101)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Montana Grizzlies**: -1.5, Edge For Covering Spread: **0.7%**
-- **Idaho State Bengals**: 1.5, Edge For Covering Spread: -5.4%
+- **Montana Grizzlies**: -1.5, Edge For Covering Spread: -0.2%
+- **Idaho State Bengals**: 1.5, Edge For Covering Spread: -4.5%
 
 ### Moneyline
-- **Montana Grizzlies Win Probability**: 55.8%, Moneyline Edge: **1.3%**
-- **Idaho State Bengals Win Probability**: 44.2%, Moneyline Edge: -5.8%
+- **Montana Grizzlies Win Probability**: 55.9%, Moneyline Edge: **1.0%**
+- **Idaho State Bengals Win Probability**: 44.1%, Moneyline Edge: -5.7%
 
 ### Total
-- **Predicted Total**: 148.5
-- Edge For Covering The Over: -5.2%
-- Edge For Covering The Under: **0.5%**
+- **Predicted Total**: 149.0
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 

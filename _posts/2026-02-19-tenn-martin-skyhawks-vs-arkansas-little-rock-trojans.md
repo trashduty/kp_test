@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tenn-Martin Skyhawks -2.5</p>
-  <p><strong>Moneyline:</strong> Tenn-Martin Skyhawks (-145) | Arkansas-Little Rock Trojans (+120)</p>
+  <p><strong>Moneyline:</strong> Tenn-Martin Skyhawks (-144) | Arkansas-Little Rock Trojans (+120)</p>
   <p><strong>Total:</strong> 133.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tenn-Martin Skyhawks**: -2.5, Edge For Covering Spread: -2.2%
-- **Arkansas-Little Rock Trojans**: 2.5, Edge For Covering Spread: -2.6%
+- **Tenn-Martin Skyhawks**: -2.5, Edge For Covering Spread: -1.1%
+- **Arkansas-Little Rock Trojans**: 2.5, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **Tenn-Martin Skyhawks Win Probability**: 58.8%, Moneyline Edge: -0.4%
-- **Arkansas-Little Rock Trojans Win Probability**: 41.2%, Moneyline Edge: -4.2%
+- **Tenn-Martin Skyhawks Win Probability**: 58.7%, Moneyline Edge: -0.3%
+- **Arkansas-Little Rock Trojans Win Probability**: 41.3%, Moneyline Edge: -4.2%
 
 ### Total
-- **Predicted Total**: 134.0
-- Edge For Covering The Over: -5.2%
-- Edge For Covering The Under: -1.3%
+- **Predicted Total**: 134.5
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Southern Indiana Screaming Eagles -2.5</p>
-  <p><strong>Moneyline:</strong> Southern Indiana Screaming Eagles (-145) | Western Illinois Leathernecks (+118)</p>
+  <p><strong>Moneyline:</strong> Southern Indiana Screaming Eagles (-145) | Western Illinois Leathernecks (+120)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Southern Indiana Screaming Eagles**: -2.5, Edge For Covering Spread: -2.2%
-- **Western Illinois Leathernecks**: 2.5, Edge For Covering Spread: -2.6%
+- **Southern Indiana Screaming Eagles**: -2.5, Edge For Covering Spread: -1.7%
+- **Western Illinois Leathernecks**: 2.5, Edge For Covering Spread: -3.1%
 
 ### Moneyline
 - **Southern Indiana Screaming Eagles Win Probability**: 58.7%, Moneyline Edge: -0.5%
-- **Western Illinois Leathernecks Win Probability**: 41.3%, Moneyline Edge: -4.5%
+- **Western Illinois Leathernecks Win Probability**: 41.3%, Moneyline Edge: -4.2%
 
 ### Total
 - **Predicted Total**: 137.5
 - Edge For Covering The Over: -5.2%
-- Edge For Covering The Under: **0.5%**
+- Edge For Covering The Under: **0.4%**
 
 ---
 

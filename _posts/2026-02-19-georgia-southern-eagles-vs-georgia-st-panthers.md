@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Georgia St Panthers -1.5</p>
-  <p><strong>Moneyline:</strong> Georgia Southern Eagles (-107) | Georgia St Panthers (-112)</p>
+  <p><strong>Moneyline:</strong> Georgia Southern Eagles (-104) | Georgia St Panthers (-115)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Georgia Southern Eagles**: 1.5, Edge For Covering Spread: -6.6%
-- **Georgia St Panthers**: -1.5, Edge For Covering Spread: **1.6%**
+- **Georgia Southern Eagles**: 1.5, Edge For Covering Spread: -4.0%
+- **Georgia St Panthers**: -1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Georgia Southern Eagles Win Probability**: 46.3%, Moneyline Edge: -5.5%
-- **Georgia St Panthers Win Probability**: 53.7%, Moneyline Edge: **0.9%**
+- **Georgia Southern Eagles Win Probability**: 45.9%, Moneyline Edge: -5.1%
+- **Georgia St Panthers Win Probability**: 54.1%, Moneyline Edge: **0.6%**
 
 ### Total
 - **Predicted Total**: 153.5

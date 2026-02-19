@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UMBC Retrievers -0.5</p>
-  <p><strong>Moneyline:</strong> Vermont Catamounts (-105) | UMBC Retrievers (-115)</p>
+  <p><strong>Spread:</strong> Vermont Catamounts -1.5</p>
+  <p><strong>Moneyline:</strong> Vermont Catamounts (-115) | UMBC Retrievers (-105)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Vermont Catamounts**: 0.5, Edge For Covering Spread: -2.7%
-- **UMBC Retrievers**: -0.5, Edge For Covering Spread: -2.4%
+- **Vermont Catamounts**: -1.5, Edge For Covering Spread: -2.9%
+- **UMBC Retrievers**: 1.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Vermont Catamounts Win Probability**: 46.6%, Moneyline Edge: -4.7%
-- **UMBC Retrievers Win Probability**: 53.4%, Moneyline Edge: -0.0%
+- **Vermont Catamounts Win Probability**: 47.7%, Moneyline Edge: -5.8%
+- **UMBC Retrievers Win Probability**: 52.3%, Moneyline Edge: **1.1%**
 
 ### Total
 - **Predicted Total**: 141.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Vermont Catamounts (17-10) travels to face UMBC Retrievers (16-8) at Chesapeake Employers Insurance Arena in what shapes up to be a competitive matchup. The early betting action has shaped into UMBC Retrievers favored by 0.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Vermont Catamounts (17-10) travels to face UMBC Retrievers (16-8) at Chesapeake Employers Insurance Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Vermont Catamounts favored by 1.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. UMBC Retrievers's 0.5-point cushion reflects home court advantage more than a talent gap. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Vermont Catamounts's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Vermont Catamounts** bring an offensive efficiency of 112.08 (ranked #98 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.1% three-point shooting is serviceable but won't scare anyone. 

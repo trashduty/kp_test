@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UC Irvine Anteaters -5.5</p>
-  <p><strong>Moneyline:</strong> UC Irvine Anteaters (-252) | Long Beach St 49ers (+206)</p>
+  <p><strong>Moneyline:</strong> UC Irvine Anteaters (-265) | Long Beach St 49ers (+215)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UC Irvine Anteaters**: -5.5, Edge For Covering Spread: -4.1%
-- **Long Beach St 49ers**: 5.5, Edge For Covering Spread: -0.7%
+- **UC Irvine Anteaters**: -5.5, Edge For Covering Spread: -5.1%
+- **Long Beach St 49ers**: 5.5, Edge For Covering Spread: **0.3%**
 
 ### Moneyline
-- **UC Irvine Anteaters Win Probability**: 68.9%, Moneyline Edge: -2.7%
-- **Long Beach St 49ers Win Probability**: 31.1%, Moneyline Edge: -1.6%
+- **UC Irvine Anteaters Win Probability**: 69.2%, Moneyline Edge: -3.4%
+- **Long Beach St 49ers Win Probability**: 30.8%, Moneyline Edge: -0.9%
 
 ### Total
 - **Predicted Total**: 141.5

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Charleston Cougars -5.5</p>
-  <p><strong>Moneyline:</strong> Charleston Cougars (-227) | North Carolina A&T Aggies (+183)</p>
+  <p><strong>Moneyline:</strong> Charleston Cougars (-225) | North Carolina A&T Aggies (+190)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Charleston Cougars**: -5.5, Edge For Covering Spread: -3.7%
-- **North Carolina A&T Aggies**: 5.5, Edge For Covering Spread: -0.9%
+- **Charleston Cougars**: -5.5, Edge For Covering Spread: -4.8%
+- **North Carolina A&T Aggies**: 5.5, Edge For Covering Spread: **0.0%**
 
 ### Moneyline
-- **Charleston Cougars Win Probability**: 64.6%, Moneyline Edge: -4.7%
-- **North Carolina A&T Aggies Win Probability**: 35.4%, Moneyline Edge: **0.1%**
+- **Charleston Cougars Win Probability**: 64.9%, Moneyline Edge: -4.4%
+- **North Carolina A&T Aggies Win Probability**: 35.1%, Moneyline Edge: **0.6%**
 
 ### Total
 - **Predicted Total**: 147.5

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Florida A&M Rattlers -1.5</p>
-  <p><strong>Moneyline:</strong> Alabama A&M Bulldogs (+110) | Florida A&M Rattlers (-135)</p>
+  <p><strong>Spread:</strong> Florida A&M Rattlers -2.5</p>
+  <p><strong>Moneyline:</strong> Alabama A&M Bulldogs (+118) | Florida A&M Rattlers (-140)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Alabama A&M Bulldogs**: 1.5, Edge For Covering Spread: -1.9%
-- **Florida A&M Rattlers**: -1.5, Edge For Covering Spread: -2.8%
+- **Alabama A&M Bulldogs**: 2.5, Edge For Covering Spread: -1.8%
+- **Florida A&M Rattlers**: -2.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Alabama A&M Bulldogs Win Probability**: 44.3%, Moneyline Edge: -3.4%
-- **Florida A&M Rattlers Win Probability**: 55.7%, Moneyline Edge: -1.7%
+- **Alabama A&M Bulldogs Win Probability**: 43.4%, Moneyline Edge: -2.4%
+- **Florida A&M Rattlers Win Probability**: 56.6%, Moneyline Edge: -1.8%
 
 ### Total
 - **Predicted Total**: 139.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Alabama A&M Bulldogs (15-11) travels to face Florida A&M Rattlers (10-14) at Lawson Center in what shapes up to be a competitive matchup. The early betting action has shaped into Florida A&M Rattlers favored by 1.5 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Alabama A&M Bulldogs (15-11) travels to face Florida A&M Rattlers (10-14) at Lawson Center in what shapes up to be a competitive matchup. The early betting action has shaped into Florida A&M Rattlers favored by 2.5 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Florida A&M Rattlers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Florida A&M Rattlers's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Alabama A&M Bulldogs** bring an offensive efficiency of 103.94 (ranked #269 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.5% three-point shooting is serviceable but won't scare anyone. 

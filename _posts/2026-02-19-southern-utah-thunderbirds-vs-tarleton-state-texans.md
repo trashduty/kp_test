@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tarleton State Texans -5.5</p>
-  <p><strong>Moneyline:</strong> Southern Utah Thunderbirds (+185) | Tarleton State Texans (-225)</p>
+  <p><strong>Moneyline:</strong> Southern Utah Thunderbirds (+210) | Tarleton State Texans (-250)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Southern Utah Thunderbirds**: 5.5, Edge For Covering Spread: -6.0%
-- **Tarleton State Texans**: -5.5, Edge For Covering Spread: **1.2%**
+- **Southern Utah Thunderbirds**: 5.5, Edge For Covering Spread: -5.7%
+- **Tarleton State Texans**: -5.5, Edge For Covering Spread: **1.0%**
 
 ### Moneyline
-- **Southern Utah Thunderbirds Win Probability**: 29.8%, Moneyline Edge: -5.3%
-- **Tarleton State Texans Win Probability**: 70.2%, Moneyline Edge: **1.0%**
+- **Southern Utah Thunderbirds Win Probability**: 28.6%, Moneyline Edge: -3.7%
+- **Tarleton State Texans Win Probability**: 71.4%, Moneyline Edge: **0.0%**
 
 ### Total
-- **Predicted Total**: 147.0
-- Edge For Covering The Over: -0.3%
-- Edge For Covering The Under: -4.5%
+- **Predicted Total**: 146.0
+- Edge For Covering The Over: **1.7%**
+- Edge For Covering The Under: -6.5%
 
 ---
 

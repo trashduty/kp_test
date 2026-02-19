@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Morehead St Eagles -2.0</p>
-  <p><strong>Moneyline:</strong> Morehead St Eagles (-135) | Eastern Illinois Panthers (+110)</p>
+  <p><strong>Moneyline:</strong> Morehead St Eagles (-140) | Eastern Illinois Panthers (+118)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Morehead St Eagles**: -2.0, Edge For Covering Spread: -6.1%
-- **Eastern Illinois Panthers**: 2.0, Edge For Covering Spread: **1.3%**
+- **Morehead St Eagles**: -2.0, Edge For Covering Spread: -5.6%
+- **Eastern Illinois Panthers**: 2.0, Edge For Covering Spread: **0.6%**
 
 ### Moneyline
-- **Morehead St Eagles Win Probability**: 50.8%, Moneyline Edge: -6.6%
-- **Eastern Illinois Panthers Win Probability**: 49.2%, Moneyline Edge: **1.5%**
+- **Morehead St Eagles Win Probability**: 51.5%, Moneyline Edge: -6.8%
+- **Eastern Illinois Panthers Win Probability**: 48.5%, Moneyline Edge: **2.6%**
 
 ### Total
-- **Predicted Total**: 137.5
-- Edge For Covering The Over: -3.3%
-- Edge For Covering The Under: -1.5%
+- **Predicted Total**: 137.0
+- Edge For Covering The Over: -5.3%
+- Edge For Covering The Under: -1.3%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Radford Highlanders -19.5</p>
-  <p><strong>Moneyline:</strong> Gardner-Webb Bulldogs (+1150) | Radford Highlanders (-3000)</p>
+  <p><strong>Moneyline:</strong> Gardner-Webb Bulldogs (+1600) | Radford Highlanders (-6000)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Radford Highlanders**: -19.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **Gardner-Webb Bulldogs Win Probability**: 6.3%, Moneyline Edge: -1.7%
-- **Radford Highlanders Win Probability**: 93.7%, Moneyline Edge: -3.1%
+- **Gardner-Webb Bulldogs Win Probability**: 5.3%, Moneyline Edge: -0.6%
+- **Radford Highlanders Win Probability**: 94.7%, Moneyline Edge: -3.7%
 
 ### Total
 - **Predicted Total**: 161.0
 - Edge For Covering The Over: -4.2%
-- Edge For Covering The Under: -0.5%
+- Edge For Covering The Under: -0.6%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Appalachian St Mountaineers -2.5</p>
-  <p><strong>Moneyline:</strong> Marshall Thundering Herd (+135) | Appalachian St Mountaineers (-161)</p>
+  <p><strong>Moneyline:</strong> Marshall Thundering Herd (+125) | Appalachian St Mountaineers (-149)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Marshall Thundering Herd**: 2.5, Edge For Covering Spread: -2.9%
-- **Appalachian St Mountaineers**: -2.5, Edge For Covering Spread: -1.8%
+- **Marshall Thundering Herd**: 2.5, Edge For Covering Spread: -4.1%
+- **Appalachian St Mountaineers**: -2.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Marshall Thundering Herd Win Probability**: 38.6%, Moneyline Edge: -3.8%
-- **Appalachian St Mountaineers Win Probability**: 61.4%, Moneyline Edge: -0.3%
+- **Marshall Thundering Herd Win Probability**: 39.5%, Moneyline Edge: -4.9%
+- **Appalachian St Mountaineers Win Probability**: 60.5%, Moneyline Edge: **0.6%**
 
 ### Total
 - **Predicted Total**: 142.5

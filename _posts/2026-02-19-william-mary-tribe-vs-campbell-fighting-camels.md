@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> William & Mary Tribe -1.5</p>
-  <p><strong>Moneyline:</strong> William & Mary Tribe (-110) | Campbell Fighting Camels (-110)</p>
+  <p><strong>Moneyline:</strong> William & Mary Tribe (-117) | Campbell Fighting Camels (-102)</p>
   <p><strong>Total:</strong> 169.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **William & Mary Tribe**: -1.5, Edge For Covering Spread: -4.0%
-- **Campbell Fighting Camels**: 1.5, Edge For Covering Spread: -0.8%
+- **William & Mary Tribe**: -1.5, Edge For Covering Spread: -2.5%
+- **Campbell Fighting Camels**: 1.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **William & Mary Tribe Win Probability**: 49.6%, Moneyline Edge: -2.8%
-- **Campbell Fighting Camels Win Probability**: 50.4%, Moneyline Edge: -1.9%
+- **William & Mary Tribe Win Probability**: 50.4%, Moneyline Edge: -3.6%
+- **Campbell Fighting Camels Win Probability**: 49.6%, Moneyline Edge: -1.0%
 
 ### Total
 - **Predicted Total**: 167.5
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -0.2%
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.7%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Austin Peay Governors -10.5</p>
-  <p><strong>Moneyline:</strong> Austin Peay Governors (-600) | North Florida Ospreys (+425)</p>
+  <p><strong>Moneyline:</strong> Austin Peay Governors (-700) | North Florida Ospreys (+450)</p>
   <p><strong>Total:</strong> 162.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Austin Peay Governors**: -10.5, Edge For Covering Spread: -2.9%
-- **North Florida Ospreys**: 10.5, Edge For Covering Spread: -1.8%
+- **Austin Peay Governors**: -10.5, Edge For Covering Spread: -2.6%
+- **North Florida Ospreys**: 10.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Austin Peay Governors Win Probability**: 81.4%, Moneyline Edge: -4.3%
-- **North Florida Ospreys Win Probability**: 18.6%, Moneyline Edge: -0.4%
+- **Austin Peay Governors Win Probability**: 82.0%, Moneyline Edge: -5.5%
+- **North Florida Ospreys Win Probability**: 18.0%, Moneyline Edge: -0.2%
 
 ### Total
 - **Predicted Total**: 163.5
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.5%
 
 ---
 

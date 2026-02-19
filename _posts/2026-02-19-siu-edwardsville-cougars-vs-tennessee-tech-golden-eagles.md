@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> SIU-Edwardsville Cougars -2.0</p>
-  <p><strong>Moneyline:</strong> SIU-Edwardsville Cougars (-135) | Tennessee Tech Golden Eagles (+110)</p>
+  <p><strong>Spread:</strong> SIU-Edwardsville Cougars -2.5</p>
+  <p><strong>Moneyline:</strong> SIU-Edwardsville Cougars (-140) | Tennessee Tech Golden Eagles (+118)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **SIU-Edwardsville Cougars**: -2.0, Edge For Covering Spread: -1.0%
-- **Tennessee Tech Golden Eagles**: 2.0, Edge For Covering Spread: -3.8%
+- **SIU-Edwardsville Cougars**: -2.5, Edge For Covering Spread: -0.7%
+- **Tennessee Tech Golden Eagles**: 2.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **SIU-Edwardsville Cougars Win Probability**: 58.7%, Moneyline Edge: **1.3%**
-- **Tennessee Tech Golden Eagles Win Probability**: 41.3%, Moneyline Edge: -6.3%
+- **SIU-Edwardsville Cougars Win Probability**: 59.2%, Moneyline Edge: **0.9%**
+- **Tennessee Tech Golden Eagles Win Probability**: 40.8%, Moneyline Edge: -5.1%
 
 ### Total
 - **Predicted Total**: 136.0
-- Edge For Covering The Over: -3.8%
-- Edge For Covering The Under: -1.0%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -2.0%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-SIU-Edwardsville Cougars (17-10) travels to face Tennessee Tech Golden Eagles (11-16) at Eblen Center in what shapes up to be a competitive matchup. The early betting action has shaped into SIU-Edwardsville Cougars favored by 2.0 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+SIU-Edwardsville Cougars (17-10) travels to face Tennessee Tech Golden Eagles (11-16) at Eblen Center in what shapes up to be a competitive matchup. The early betting action has shaped into SIU-Edwardsville Cougars favored by 2.5 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. SIU-Edwardsville Cougars's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. SIU-Edwardsville Cougars's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **SIU-Edwardsville Cougars** bring an offensive efficiency of 103.45 (ranked #275 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.8% three-point shooting is serviceable but won't scare anyone. 

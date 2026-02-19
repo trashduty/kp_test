@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Mercer Bears -10.5</p>
-  <p><strong>Moneyline:</strong> Chattanooga Mocs (+425) | Mercer Bears (-600)</p>
+  <p><strong>Moneyline:</strong> Chattanooga Mocs (+445) | Mercer Bears (-612)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Chattanooga Mocs**: 10.5, Edge For Covering Spread: -2.1%
-- **Mercer Bears**: -10.5, Edge For Covering Spread: -2.5%
+- **Chattanooga Mocs**: 10.5, Edge For Covering Spread: -4.0%
+- **Mercer Bears**: -10.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Chattanooga Mocs Win Probability**: 16.6%, Moneyline Edge: -2.5%
-- **Mercer Bears Win Probability**: 83.4%, Moneyline Edge: -2.3%
+- **Chattanooga Mocs Win Probability**: 16.3%, Moneyline Edge: -2.1%
+- **Mercer Bears Win Probability**: 83.7%, Moneyline Edge: -2.3%
 
 ### Total
 - **Predicted Total**: 152.0
-- Edge For Covering The Over: -3.1%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -2.2%
 
 ---
 

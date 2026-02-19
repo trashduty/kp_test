@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **New Hampshire Wildcats**: 4.5, Edge For Covering Spread: -2.2%
-- **UMass Lowell River Hawks**: -4.5, Edge For Covering Spread: -2.6%
+- **New Hampshire Wildcats**: 4.5, Edge For Covering Spread: -1.6%
+- **UMass Lowell River Hawks**: -4.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
 - **New Hampshire Wildcats Win Probability**: 33.2%, Moneyline Edge: -2.5%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 148.0
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.2%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> LIU Sharks -9.5</p>
-  <p><strong>Moneyline:</strong> LIU Sharks (-450) | St. Francis (PA) Red Flash (+333)</p>
+  <p><strong>Moneyline:</strong> LIU Sharks (-520) | St. Francis (PA) Red Flash (+370)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **LIU Sharks**: -9.5, Edge For Covering Spread: -2.8%
-- **St. Francis (PA) Red Flash**: 9.5, Edge For Covering Spread: -1.9%
+- **LIU Sharks**: -9.5, Edge For Covering Spread: -2.6%
+- **St. Francis (PA) Red Flash**: 9.5, Edge For Covering Spread: -2.5%
 
 ### Moneyline
-- **LIU Sharks Win Probability**: 78.7%, Moneyline Edge: -3.1%
-- **St. Francis (PA) Red Flash Win Probability**: 21.3%, Moneyline Edge: -1.8%
+- **LIU Sharks Win Probability**: 79.7%, Moneyline Edge: -4.2%
+- **St. Francis (PA) Red Flash Win Probability**: 20.3%, Moneyline Edge: -0.9%
 
 ### Total
-- **Predicted Total**: 147.5
+- **Predicted Total**: 148.5
 - Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Under: -4.8%
 
 ---
 

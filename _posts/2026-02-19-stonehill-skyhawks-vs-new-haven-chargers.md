@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> New Haven Chargers -2.5</p>
-  <p><strong>Moneyline:</strong> Stonehill Skyhawks (+118) | New Haven Chargers (-140)</p>
+  <p><strong>Moneyline:</strong> Stonehill Skyhawks (+115) | New Haven Chargers (-140)</p>
   <p><strong>Total:</strong> 119.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Stonehill Skyhawks**: 2.5, Edge For Covering Spread: -5.2%
-- **New Haven Chargers**: -2.5, Edge For Covering Spread: **0.5%**
+- **Stonehill Skyhawks**: 2.5, Edge For Covering Spread: -5.5%
+- **New Haven Chargers**: -2.5, Edge For Covering Spread: **0.9%**
 
 ### Moneyline
-- **Stonehill Skyhawks Win Probability**: 40.5%, Moneyline Edge: -5.4%
-- **New Haven Chargers Win Probability**: 59.5%, Moneyline Edge: **1.2%**
+- **Stonehill Skyhawks Win Probability**: 40.7%, Moneyline Edge: -5.8%
+- **New Haven Chargers Win Probability**: 59.3%, Moneyline Edge: **1.0%**
 
 ### Total
 - **Predicted Total**: 119.5
-- Edge For Covering The Over: -3.6%
+- Edge For Covering The Over: -3.9%
 - Edge For Covering The Under: -1.1%
 
 ---

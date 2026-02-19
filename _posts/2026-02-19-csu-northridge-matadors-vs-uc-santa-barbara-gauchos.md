@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UC Santa Barbara Gauchos -3.5</p>
-  <p><strong>Moneyline:</strong> CSU Northridge Matadors (+146) | UC Santa Barbara Gauchos (-178)</p>
+  <p><strong>Moneyline:</strong> CSU Northridge Matadors (+150) | UC Santa Barbara Gauchos (-175)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **CSU Northridge Matadors**: 3.5, Edge For Covering Spread: -5.6%
-- **UC Santa Barbara Gauchos**: -3.5, Edge For Covering Spread: **0.8%**
+- **CSU Northridge Matadors**: 3.5, Edge For Covering Spread: -4.4%
+- **UC Santa Barbara Gauchos**: -3.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **CSU Northridge Matadors Win Probability**: 33.9%, Moneyline Edge: -6.7%
-- **UC Santa Barbara Gauchos Win Probability**: 66.1%, Moneyline Edge: **2.1%**
+- **CSU Northridge Matadors Win Probability**: 33.8%, Moneyline Edge: -6.2%
+- **UC Santa Barbara Gauchos Win Probability**: 66.2%, Moneyline Edge: **2.6%**
 
 ### Total
 - **Predicted Total**: 159.0
-- Edge For Covering The Over: -1.1%
-- Edge For Covering The Under: -3.6%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UT-Arlington Mavericks -4.5</p>
-  <p><strong>Moneyline:</strong> Utah Tech Trailblazers (+150) | UT-Arlington Mavericks (-185)</p>
+  <p><strong>Moneyline:</strong> Utah Tech Trailblazers (+160) | UT-Arlington Mavericks (-194)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Utah Tech Trailblazers**: 4.5, Edge For Covering Spread: -1.5%
-- **UT-Arlington Mavericks**: -4.5, Edge For Covering Spread: -3.3%
+- **Utah Tech Trailblazers**: 4.5, Edge For Covering Spread: -1.4%
+- **UT-Arlington Mavericks**: -4.5, Edge For Covering Spread: -3.4%
 
 ### Moneyline
-- **Utah Tech Trailblazers Win Probability**: 38.6%, Moneyline Edge: -1.4%
-- **UT-Arlington Mavericks Win Probability**: 61.4%, Moneyline Edge: -3.5%
+- **Utah Tech Trailblazers Win Probability**: 37.9%, Moneyline Edge: -0.5%
+- **UT-Arlington Mavericks Win Probability**: 62.1%, Moneyline Edge: -3.9%
 
 ### Total
 - **Predicted Total**: 139.5
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- Edge For Covering The Over: -4.2%
+- Edge For Covering The Under: -0.8%
 
 ---
 

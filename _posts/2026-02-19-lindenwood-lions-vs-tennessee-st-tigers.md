@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tennessee St Tigers -3.5</p>
-  <p><strong>Moneyline:</strong> Lindenwood Lions (+135) | Tennessee St Tigers (-160)</p>
+  <p><strong>Moneyline:</strong> Lindenwood Lions (+140) | Tennessee St Tigers (-165)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Lindenwood Lions**: 3.5, Edge For Covering Spread: -2.4%
-- **Tennessee St Tigers**: -3.5, Edge For Covering Spread: -2.4%
+- **Lindenwood Lions**: 3.5, Edge For Covering Spread: -2.9%
+- **Tennessee St Tigers**: -3.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Lindenwood Lions Win Probability**: 39.9%, Moneyline Edge: -2.6%
-- **Tennessee St Tigers Win Probability**: 60.1%, Moneyline Edge: -1.5%
+- **Lindenwood Lions Win Probability**: 39.5%, Moneyline Edge: -2.1%
+- **Tennessee St Tigers Win Probability**: 60.5%, Moneyline Edge: -1.8%
 
 ### Total
 - **Predicted Total**: 161.5
-- Edge For Covering The Over: -3.4%
-- Edge For Covering The Under: -1.4%
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -1.1%
 
 ---
 

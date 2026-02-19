@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Liberty Flames -11.0</p>
-  <p><strong>Moneyline:</strong> Florida Int'l Golden Panthers (+530) | Liberty Flames (-780)</p>
+  <p><strong>Spread:</strong> Liberty Flames -11.5</p>
+  <p><strong>Moneyline:</strong> Florida Int'l Golden Panthers (+550) | Liberty Flames (-880)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Int'l Golden Panthers**: 11.0, Edge For Covering Spread: -2.0%
-- **Liberty Flames**: -11.0, Edge For Covering Spread: -2.7%
+- **Florida Int'l Golden Panthers**: 11.5, Edge For Covering Spread: -3.8%
+- **Liberty Flames**: -11.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **Florida Int'l Golden Panthers Win Probability**: 15.6%, Moneyline Edge: -0.3%
-- **Liberty Flames Win Probability**: 84.4%, Moneyline Edge: -4.2%
+- **Florida Int'l Golden Panthers Win Probability**: 15.3%, Moneyline Edge: -0.1%
+- **Liberty Flames Win Probability**: 84.7%, Moneyline Edge: -5.1%
 
 ### Total
-- **Predicted Total**: 153.0
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.8%
+- **Predicted Total**: 152.5
+- Edge For Covering The Over: -1.3%
+- Edge For Covering The Under: -3.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Liberty Flames (22-3) hosts Florida Int'l Golden Panthers (12-13) at Liberty Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Liberty Flames favored by 11.0 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Liberty Flames (22-3) hosts Florida Int'l Golden Panthers (12-13) at Liberty Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Liberty Flames favored by 11.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.0 points tells us Liberty Flames has clear advantages, but games aren't played on paper. Florida Int'l Golden Panthers needs to punch above their weight class to keep this close. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 11.5 points tells us Liberty Flames has clear advantages, but games aren't played on paper. Florida Int'l Golden Panthers needs to punch above their weight class to keep this close. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Florida Int'l Golden Panthers** bring an offensive efficiency of 107.01 (ranked #200 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.9% three-point shooting is serviceable but won't scare anyone. 

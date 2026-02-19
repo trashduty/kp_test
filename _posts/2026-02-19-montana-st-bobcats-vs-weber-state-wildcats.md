@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Pick'em</p>
+  <p><strong>Spread:</strong> Weber State Wildcats -1.5</p>
   <p><strong>Moneyline:</strong> Montana St Bobcats (-110) | Weber State Wildcats (-110)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Montana St Bobcats**: 0.0, Edge For Covering Spread: -1.6%
-- **Weber State Wildcats**: 0.0, Edge For Covering Spread: -4.0%
+- **Montana St Bobcats**: 1.5, Edge For Covering Spread: -2.3%
+- **Weber State Wildcats**: -1.5, Edge For Covering Spread: -3.0%
 
 ### Moneyline
 - **Montana St Bobcats Win Probability**: 51.5%, Moneyline Edge: -0.9%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 150.0
-- Edge For Covering The Over: N/A
-- Edge For Covering The Under: N/A
+- Edge For Covering The Over: -2.1%
+- Edge For Covering The Under: -2.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Montana St Bobcats (15-11) travels to face Weber State Wildcats (13-14) at Dee Events Center in what shapes up to be a competitive matchup. The early betting action has shaped into Weber State Wildcats favored by 0.0 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Montana St Bobcats (15-11) travels to face Weber State Wildcats (13-14) at Dee Events Center in what shapes up to be a competitive matchup. The early betting action has shaped into Weber State Wildcats favored by 1.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Weber State Wildcats's 0.0-point cushion reflects home court advantage more than a talent gap. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Weber State Wildcats's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Montana St Bobcats** bring an offensive efficiency of 110.41 (ranked #131 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.2% three-point shooting is serviceable but won't scare anyone. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UNC Wilmington Seahawks -7.5</p>
-  <p><strong>Moneyline:</strong> Monmouth Hawks (+288) | UNC Wilmington Seahawks (-368)</p>
+  <p><strong>Moneyline:</strong> Monmouth Hawks (+300) | UNC Wilmington Seahawks (-400)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Monmouth Hawks**: 7.5, Edge For Covering Spread: -1.9%
-- **UNC Wilmington Seahawks**: -7.5, Edge For Covering Spread: -2.8%
+- **Monmouth Hawks**: 7.5, Edge For Covering Spread: -2.2%
+- **UNC Wilmington Seahawks**: -7.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Monmouth Hawks Win Probability**: 23.4%, Moneyline Edge: -2.4%
-- **UNC Wilmington Seahawks Win Probability**: 76.6%, Moneyline Edge: -2.0%
+- **Monmouth Hawks Win Probability**: 22.9%, Moneyline Edge: -2.1%
+- **UNC Wilmington Seahawks Win Probability**: 77.1%, Moneyline Edge: -2.9%
 
 ### Total
-- **Predicted Total**: 140.0
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -5.5%
+- Edge For Covering The Under: -0.8%
 
 ---
 

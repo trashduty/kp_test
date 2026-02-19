@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> High Point Panthers -13.5</p>
-  <p><strong>Moneyline:</strong> UNC Asheville Bulldogs (+600) | High Point Panthers (-900)</p>
+  <p><strong>Moneyline:</strong> UNC Asheville Bulldogs (+638) | High Point Panthers (-1030)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **High Point Panthers**: -13.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **UNC Asheville Bulldogs Win Probability**: 13.1%, Moneyline Edge: -1.2%
-- **High Point Panthers Win Probability**: 86.9%, Moneyline Edge: -3.1%
+- **UNC Asheville Bulldogs Win Probability**: 12.5%, Moneyline Edge: -1.0%
+- **High Point Panthers Win Probability**: 87.5%, Moneyline Edge: -3.7%
 
 ### Total
 - **Predicted Total**: 151.5
 - Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- Edge For Covering The Under: -1.3%
 
 ---
 

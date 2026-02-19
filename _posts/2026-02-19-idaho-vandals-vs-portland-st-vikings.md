@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Portland St Vikings -4.0</p>
-  <p><strong>Moneyline:</strong> Idaho Vandals (+150) | Portland St Vikings (-185)</p>
+  <p><strong>Moneyline:</strong> Idaho Vandals (+160) | Portland St Vikings (-190)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Portland St Vikings**: -4.0, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Idaho Vandals Win Probability**: 35.1%, Moneyline Edge: -4.9%
-- **Portland St Vikings Win Probability**: 64.9%, Moneyline Edge: **0.0%**
+- **Idaho Vandals Win Probability**: 34.5%, Moneyline Edge: -4.0%
+- **Portland St Vikings Win Probability**: 65.5%, Moneyline Edge: -0.0%
 
 ### Total
 - **Predicted Total**: 141.0
-- Edge For Covering The Over: -5.1%
-- Edge For Covering The Under: **0.3%**
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -0.0%
 
 ---
 

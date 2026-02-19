@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> South Alabama Jaguars -3.5</p>
-  <p><strong>Moneyline:</strong> Texas State Bobcats (+145) | South Alabama Jaguars (-175)</p>
+  <p><strong>Moneyline:</strong> Texas State Bobcats (+152) | South Alabama Jaguars (-185)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Texas State Bobcats**: 3.5, Edge For Covering Spread: -4.7%
-- **South Alabama Jaguars**: -3.5, Edge For Covering Spread: -0.0%
+- **Texas State Bobcats**: 3.5, Edge For Covering Spread: -4.6%
+- **South Alabama Jaguars**: -3.5, Edge For Covering Spread: -0.1%
 
 ### Moneyline
-- **Texas State Bobcats Win Probability**: 34.0%, Moneyline Edge: -6.8%
-- **South Alabama Jaguars Win Probability**: 66.0%, Moneyline Edge: **2.3%**
+- **Texas State Bobcats Win Probability**: 33.5%, Moneyline Edge: -6.2%
+- **South Alabama Jaguars Win Probability**: 66.5%, Moneyline Edge: **1.6%**
 
 ### Total
 - **Predicted Total**: 137.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -4.5%
+- Edge For Covering The Under: -1.9%
 
 ---
 

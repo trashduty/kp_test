@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> North Texas Mean Green -6.5</p>
-  <p><strong>Moneyline:</strong> Tulane Green Wave (+242) | North Texas Mean Green (-302)</p>
+  <p><strong>Moneyline:</strong> Tulane Green Wave (+250) | North Texas Mean Green (-300)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tulane Green Wave**: 6.5, Edge For Covering Spread: **0.5%**
-- **North Texas Mean Green**: -6.5, Edge For Covering Spread: -5.2%
+- **Tulane Green Wave**: 6.5, Edge For Covering Spread: **0.2%**
+- **North Texas Mean Green**: -6.5, Edge For Covering Spread: -4.9%
 
 ### Moneyline
-- **Tulane Green Wave Win Probability**: 29.0%, Moneyline Edge: -0.2%
-- **North Texas Mean Green Win Probability**: 71.0%, Moneyline Edge: -4.1%
+- **Tulane Green Wave Win Probability**: 28.8%, Moneyline Edge: **0.2%**
+- **North Texas Mean Green Win Probability**: 71.2%, Moneyline Edge: -3.8%
 
 ### Total
-- **Predicted Total**: 135.0
-- Edge For Covering The Over: -6.3%
-- Edge For Covering The Under: **1.5%**
+- **Predicted Total**: 134.5
+- Edge For Covering The Over: -7.0%
+- Edge For Covering The Under: **0.7%**
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Hofstra Pride -11.5</p>
-  <p><strong>Moneyline:</strong> Hampton Pirates (+565) | Hofstra Pride (-839)</p>
+  <p><strong>Moneyline:</strong> Hampton Pirates (+550) | Hofstra Pride (-900)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Hampton Pirates**: 11.5, Edge For Covering Spread: -3.2%
-- **Hofstra Pride**: -11.5, Edge For Covering Spread: -1.8%
+- **Hampton Pirates**: 11.5, Edge For Covering Spread: -4.1%
+- **Hofstra Pride**: -11.5, Edge For Covering Spread: -0.6%
 
 ### Moneyline
-- **Hampton Pirates Win Probability**: 14.0%, Moneyline Edge: -1.0%
-- **Hofstra Pride Win Probability**: 86.0%, Moneyline Edge: -3.4%
+- **Hampton Pirates Win Probability**: 14.2%, Moneyline Edge: -1.2%
+- **Hofstra Pride Win Probability**: 85.8%, Moneyline Edge: -4.2%
 
 ### Total
-- **Predicted Total**: 135.0
-- Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -2.6%
+- **Predicted Total**: 135.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

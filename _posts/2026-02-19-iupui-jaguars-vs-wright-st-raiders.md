@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wright St Raiders -12.5</p>
-  <p><strong>Moneyline:</strong> IUPUI Jaguars (+575) | Wright St Raiders (-900)</p>
+  <p><strong>Moneyline:</strong> IUPUI Jaguars (+600) | Wright St Raiders (-1000)</p>
   <p><strong>Total:</strong> 162.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Wright St Raiders**: -12.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **IUPUI Jaguars Win Probability**: 12.3%, Moneyline Edge: -2.5%
-- **Wright St Raiders Win Probability**: 87.7%, Moneyline Edge: -2.3%
+- **IUPUI Jaguars Win Probability**: 12.2%, Moneyline Edge: -2.1%
+- **Wright St Raiders Win Probability**: 87.8%, Moneyline Edge: -3.1%
 
 ### Total
-- **Predicted Total**: 163.5
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -4.4%
+- **Predicted Total**: 163.0
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.3%
 
 ---
 

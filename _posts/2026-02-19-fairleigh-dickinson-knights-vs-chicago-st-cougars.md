@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Fairleigh Dickinson Knights -1.5</p>
-  <p><strong>Moneyline:</strong> Fairleigh Dickinson Knights (-127) | Chicago St Cougars (+107)</p>
+  <p><strong>Moneyline:</strong> Fairleigh Dickinson Knights (-130) | Chicago St Cougars (+110)</p>
   <p><strong>Total:</strong> 134.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fairleigh Dickinson Knights**: -1.5, Edge For Covering Spread: -7.0%
-- **Chicago St Cougars**: 1.5, Edge For Covering Spread: **2.3%**
+- **Fairleigh Dickinson Knights**: -1.5, Edge For Covering Spread: -6.4%
+- **Chicago St Cougars**: 1.5, Edge For Covering Spread: **1.7%**
 
 ### Moneyline
-- **Fairleigh Dickinson Knights Win Probability**: 50.9%, Moneyline Edge: -5.1%
-- **Chicago St Cougars Win Probability**: 49.1%, Moneyline Edge: **0.9%**
+- **Fairleigh Dickinson Knights Win Probability**: 51.0%, Moneyline Edge: -5.5%
+- **Chicago St Cougars Win Probability**: 49.0%, Moneyline Edge: **1.4%**
 
 ### Total
 - **Predicted Total**: 136.5
 - Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.1%
+- Edge For Covering The Under: -4.5%
 
 ---
 

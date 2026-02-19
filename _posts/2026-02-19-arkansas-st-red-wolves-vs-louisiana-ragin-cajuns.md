@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arkansas St Red Wolves -7.5</p>
-  <p><strong>Moneyline:</strong> Arkansas St Red Wolves (-368) | Louisiana Ragin' Cajuns (+288)</p>
+  <p><strong>Moneyline:</strong> Arkansas St Red Wolves (-400) | Louisiana Ragin' Cajuns (+300)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arkansas St Red Wolves**: -7.5, Edge For Covering Spread: -2.8%
-- **Louisiana Ragin' Cajuns**: 7.5, Edge For Covering Spread: -1.9%
+- **Arkansas St Red Wolves**: -7.5, Edge For Covering Spread: -3.2%
+- **Louisiana Ragin' Cajuns**: 7.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Arkansas St Red Wolves Win Probability**: 74.6%, Moneyline Edge: -4.0%
-- **Louisiana Ragin' Cajuns Win Probability**: 25.4%, Moneyline Edge: -0.4%
+- **Arkansas St Red Wolves Win Probability**: 75.1%, Moneyline Edge: -4.9%
+- **Louisiana Ragin' Cajuns Win Probability**: 24.9%, Moneyline Edge: -0.1%
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: -2.8%
-- Edge For Covering The Under: -1.9%
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 

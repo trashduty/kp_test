@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wagner Seahawks**: 5.5, Edge For Covering Spread: -1.8%
-- **Mercyhurst Lakers**: -5.5, Edge For Covering Spread: -2.9%
+- **Wagner Seahawks**: 5.5, Edge For Covering Spread: -2.4%
+- **Mercyhurst Lakers**: -5.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
 - **Wagner Seahawks Win Probability**: 29.4%, Moneyline Edge: -3.4%

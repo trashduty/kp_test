@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Samford Bulldogs -10.5</p>
-  <p><strong>Moneyline:</strong> Samford Bulldogs (-600) | The Citadel Bulldogs (+425)</p>
+  <p><strong>Moneyline:</strong> Samford Bulldogs (-800) | The Citadel Bulldogs (+500)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Samford Bulldogs**: -10.5, Edge For Covering Spread: -5.5%
-- **The Citadel Bulldogs**: 10.5, Edge For Covering Spread: **0.8%**
+- **Samford Bulldogs**: -10.5, Edge For Covering Spread: -5.3%
+- **The Citadel Bulldogs**: 10.5, Edge For Covering Spread: **0.3%**
 
 ### Moneyline
-- **Samford Bulldogs Win Probability**: 78.7%, Moneyline Edge: -7.0%
-- **The Citadel Bulldogs Win Probability**: 21.3%, Moneyline Edge: **2.3%**
+- **Samford Bulldogs Win Probability**: 79.8%, Moneyline Edge: -9.1%
+- **The Citadel Bulldogs Win Probability**: 20.2%, Moneyline Edge: **3.6%**
 
 ### Total
 - **Predicted Total**: 140.5

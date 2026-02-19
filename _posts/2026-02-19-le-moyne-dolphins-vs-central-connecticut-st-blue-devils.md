@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Central Connecticut St Blue Devils -4.5</p>
-  <p><strong>Moneyline:</strong> Le Moyne Dolphins (+160) | Central Connecticut St Blue Devils (-192)</p>
+  <p><strong>Moneyline:</strong> Le Moyne Dolphins (+164) | Central Connecticut St Blue Devils (-200)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Central Connecticut St Blue Devils**: -4.5, Edge For Covering Spread: -4.6%
 
 ### Moneyline
-- **Le Moyne Dolphins Win Probability**: 38.5%, Moneyline Edge: **0.1%**
-- **Central Connecticut St Blue Devils Win Probability**: 61.5%, Moneyline Edge: -4.3%
+- **Le Moyne Dolphins Win Probability**: 38.1%, Moneyline Edge: **0.3%**
+- **Central Connecticut St Blue Devils Win Probability**: 61.9%, Moneyline Edge: -4.8%
 
 ### Total
-- **Predicted Total**: 145.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 146.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 

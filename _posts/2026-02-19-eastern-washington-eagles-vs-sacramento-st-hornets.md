@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Eastern Washington Eagles -1.5</p>
-  <p><strong>Moneyline:</strong> Eastern Washington Eagles (-135) | Sacramento St Hornets (+110)</p>
+  <p><strong>Moneyline:</strong> Eastern Washington Eagles (-135) | Sacramento St Hornets (+115)</p>
   <p><strong>Total:</strong> 162.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Eastern Washington Eagles**: -1.5, Edge For Covering Spread: -5.1%
+- **Eastern Washington Eagles**: -1.5, Edge For Covering Spread: -5.3%
 - **Sacramento St Hornets**: 1.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Eastern Washington Eagles Win Probability**: 53.4%, Moneyline Edge: -4.1%
-- **Sacramento St Hornets Win Probability**: 46.6%, Moneyline Edge: -0.9%
+- **Eastern Washington Eagles Win Probability**: 53.6%, Moneyline Edge: -3.8%
+- **Sacramento St Hornets Win Probability**: 46.4%, Moneyline Edge: -0.1%
 
 ### Total
-- **Predicted Total**: 162.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 162.0
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -3.0%
 
 ---
 

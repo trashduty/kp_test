@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Hawai'i Rainbow Warriors -11.5</p>
-  <p><strong>Moneyline:</strong> Cal Poly Mustangs (+538) | Hawai'i Rainbow Warriors (-781)</p>
+  <p><strong>Spread:</strong> Hawai'i Rainbow Warriors -12.5</p>
+  <p><strong>Moneyline:</strong> Cal Poly Mustangs (+550) | Hawai'i Rainbow Warriors (-900)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Cal Poly Mustangs**: 11.5, Edge For Covering Spread: -2.5%
-- **Hawai'i Rainbow Warriors**: -11.5, Edge For Covering Spread: -2.4%
+- **Cal Poly Mustangs**: 12.5, Edge For Covering Spread: -3.5%
+- **Hawai'i Rainbow Warriors**: -12.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Cal Poly Mustangs Win Probability**: 13.5%, Moneyline Edge: -2.2%
-- **Hawai'i Rainbow Warriors Win Probability**: 86.5%, Moneyline Edge: -2.2%
+- **Cal Poly Mustangs Win Probability**: 13.3%, Moneyline Edge: -2.1%
+- **Hawai'i Rainbow Warriors Win Probability**: 86.7%, Moneyline Edge: -3.3%
 
 ### Total
 - **Predicted Total**: 160.0
-- Edge For Covering The Over: -3.1%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -2.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Hawai'i Rainbow Warriors (18-6) hosts Cal Poly Mustangs (11-16) at Stan Sheriff Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Hawai'i Rainbow Warriors favored by 11.5 points, with the total sitting at 160.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Hawai'i Rainbow Warriors (18-6) hosts Cal Poly Mustangs (11-16) at Stan Sheriff Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Hawai'i Rainbow Warriors favored by 12.5 points, with the total sitting at 160.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us Hawai'i Rainbow Warriors has clear advantages, but games aren't played on paper. Cal Poly Mustangs needs to punch above their weight class to keep this close. The total of 160.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 12.5-point spread screams mismatch. The books are asking Cal Poly Mustangs to hang within two possessions, which based on the profiles, requires Hawai'i Rainbow Warriors to play below their standard. The total of 160.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Cal Poly Mustangs** bring an offensive efficiency of 105.72 (ranked #230 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.8% three-point shooting is serviceable but won't scare anyone. 

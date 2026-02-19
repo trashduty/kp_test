@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> North Dakota Fighting Hawks -11.5</p>
-  <p><strong>Moneyline:</strong> UMKC Kangaroos (+475) | North Dakota Fighting Hawks (-650)</p>
+  <p><strong>Spread:</strong> North Dakota Fighting Hawks -11.0</p>
+  <p><strong>Moneyline:</strong> UMKC Kangaroos (+500) | North Dakota Fighting Hawks (-800)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UMKC Kangaroos**: 11.5, Edge For Covering Spread: -3.5%
-- **North Dakota Fighting Hawks**: -11.5, Edge For Covering Spread: -1.2%
+- **UMKC Kangaroos**: 11.0, Edge For Covering Spread: -3.3%
+- **North Dakota Fighting Hawks**: -11.0, Edge For Covering Spread: -1.7%
 
 ### Moneyline
-- **UMKC Kangaroos Win Probability**: 16.8%, Moneyline Edge: -0.6%
-- **North Dakota Fighting Hawks Win Probability**: 83.2%, Moneyline Edge: -3.4%
+- **UMKC Kangaroos Win Probability**: 16.3%, Moneyline Edge: -0.4%
+- **North Dakota Fighting Hawks Win Probability**: 83.7%, Moneyline Edge: -5.2%
 
 ### Total
 - **Predicted Total**: 148.5
-- Edge For Covering The Over: -4.1%
+- Edge For Covering The Over: -4.6%
 - Edge For Covering The Under: -0.6%
 
 ---
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-North Dakota Fighting Hawks (15-14) hosts UMKC Kangaroos (4-22) at Betty Engelstad Sioux Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into North Dakota Fighting Hawks favored by 11.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+North Dakota Fighting Hawks (15-14) hosts UMKC Kangaroos (4-22) at Betty Engelstad Sioux Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into North Dakota Fighting Hawks favored by 11.0 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us North Dakota Fighting Hawks has clear advantages, but games aren't played on paper. UMKC Kangaroos needs to punch above their weight class to keep this close. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 11.0 points tells us North Dakota Fighting Hawks has clear advantages, but games aren't played on paper. UMKC Kangaroos needs to punch above their weight class to keep this close. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **UMKC Kangaroos** bring an offensive efficiency of 94.48 (ranked #356 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 28.2% from three, they can't rely on the arc. Expect a paint-focused attack. 

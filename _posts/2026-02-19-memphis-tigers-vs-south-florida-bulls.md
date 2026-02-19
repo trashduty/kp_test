@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> South Florida Bulls -8.5</p>
-  <p><strong>Moneyline:</strong> Memphis Tigers (+324) | South Florida Bulls (-431)</p>
+  <p><strong>Moneyline:</strong> Memphis Tigers (+340) | South Florida Bulls (-450)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Memphis Tigers**: 8.5, Edge For Covering Spread: -0.3%
-- **South Florida Bulls**: -8.5, Edge For Covering Spread: -4.4%
+- **Memphis Tigers**: 8.5, Edge For Covering Spread: -0.8%
+- **South Florida Bulls**: -8.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Memphis Tigers Win Probability**: 24.3%, Moneyline Edge: **0.7%**
-- **South Florida Bulls Win Probability**: 75.7%, Moneyline Edge: -5.4%
+- **Memphis Tigers Win Probability**: 23.9%, Moneyline Edge: **1.1%**
+- **South Florida Bulls Win Probability**: 76.1%, Moneyline Edge: -5.7%
 
 ### Total
-- **Predicted Total**: 157.5
-- Edge For Covering The Over: -5.0%
-- Edge For Covering The Under: **0.3%**
+- **Predicted Total**: 158.0
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -2.2%
 
 ---
 

@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **CSU Fullerton Titans**: -1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **UC Davis Aggies Win Probability**: 44.5%, Moneyline Edge: -4.3%
-- **CSU Fullerton Titans Win Probability**: 55.5%, Moneyline Edge: -0.0%
+- **UC Davis Aggies Win Probability**: 44.4%, Moneyline Edge: -4.4%
+- **CSU Fullerton Titans Win Probability**: 55.6%, Moneyline Edge: **0.1%**
 
 ### Total
 - **Predicted Total**: 157.0
-- Edge For Covering The Over: -2.1%
-- Edge For Covering The Under: -2.7%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -3.0%
 
 ---
 

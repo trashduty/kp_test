@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Utah Valley Wolverines -7.5</p>
-  <p><strong>Moneyline:</strong> Cal Baptist Lancers (+260) | Utah Valley Wolverines (-325)</p>
+  <p><strong>Moneyline:</strong> Cal Baptist Lancers (+280) | Utah Valley Wolverines (-360)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Cal Baptist Lancers**: 7.5, Edge For Covering Spread: -0.9%
-- **Utah Valley Wolverines**: -7.5, Edge For Covering Spread: -3.8%
+- **Cal Baptist Lancers**: 7.5, Edge For Covering Spread: -1.8%
+- **Utah Valley Wolverines**: -7.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Cal Baptist Lancers Win Probability**: 26.8%, Moneyline Edge: -1.0%
-- **Utah Valley Wolverines Win Probability**: 73.2%, Moneyline Edge: -3.3%
+- **Cal Baptist Lancers Win Probability**: 26.1%, Moneyline Edge: -0.2%
+- **Utah Valley Wolverines Win Probability**: 73.9%, Moneyline Edge: -4.3%
 
 ### Total
-- **Predicted Total**: 141.5
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 141.0
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.6%
 
 ---
 

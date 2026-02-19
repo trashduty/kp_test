@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UC Riverside Highlanders -5.5</p>
-  <p><strong>Moneyline:</strong> CSU Bakersfield Roadrunners (+204) | UC Riverside Highlanders (-254)</p>
+  <p><strong>Moneyline:</strong> CSU Bakersfield Roadrunners (+210) | UC Riverside Highlanders (-260)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **CSU Bakersfield Roadrunners**: 5.5, Edge For Covering Spread: -4.0%
-- **UC Riverside Highlanders**: -5.5, Edge For Covering Spread: -0.8%
+- **CSU Bakersfield Roadrunners**: 5.5, Edge For Covering Spread: -3.8%
+- **UC Riverside Highlanders**: -5.5, Edge For Covering Spread: -1.0%
 
 ### Moneyline
-- **CSU Bakersfield Roadrunners Win Probability**: 30.2%, Moneyline Edge: -2.7%
-- **UC Riverside Highlanders Win Probability**: 69.8%, Moneyline Edge: -2.0%
+- **CSU Bakersfield Roadrunners Win Probability**: 29.9%, Moneyline Edge: -2.3%
+- **UC Riverside Highlanders Win Probability**: 70.1%, Moneyline Edge: -2.2%
 
 ### Total
 - **Predicted Total**: 149.5

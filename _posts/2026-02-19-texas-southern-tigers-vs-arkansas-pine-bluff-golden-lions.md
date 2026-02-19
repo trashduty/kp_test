@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arkansas-Pine Bluff Golden Lions -2.5</p>
-  <p><strong>Moneyline:</strong> Texas Southern Tigers (+118) | Arkansas-Pine Bluff Golden Lions (-145)</p>
+  <p><strong>Moneyline:</strong> Texas Southern Tigers (+130) | Arkansas-Pine Bluff Golden Lions (-150)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Texas Southern Tigers**: 2.5, Edge For Covering Spread: -4.0%
-- **Arkansas-Pine Bluff Golden Lions**: -2.5, Edge For Covering Spread: -0.8%
+- **Texas Southern Tigers**: 2.5, Edge For Covering Spread: -2.8%
+- **Arkansas-Pine Bluff Golden Lions**: -2.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Texas Southern Tigers Win Probability**: 42.8%, Moneyline Edge: -3.0%
-- **Arkansas-Pine Bluff Golden Lions Win Probability**: 57.2%, Moneyline Edge: -2.0%
+- **Texas Southern Tigers Win Probability**: 42.0%, Moneyline Edge: -1.5%
+- **Arkansas-Pine Bluff Golden Lions Win Probability**: 58.0%, Moneyline Edge: -2.0%
 
 ### Total
 - **Predicted Total**: 153.0
-- Edge For Covering The Over: **0.8%**
+- Edge For Covering The Over: **0.4%**
 - Edge For Covering The Under: -5.5%
 
 ---
