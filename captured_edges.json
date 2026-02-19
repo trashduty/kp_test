@@ -3642,5 +3642,33 @@
   "Denver Pioneers vs. South Dakota Coyotes|over": {
     "captured_at": "2026-02-18T22:13:08.092379+00:00",
     "edge_type": "over"
+  },
+  "New Haven Chargers vs. Stonehill Skyhawks|New Haven Chargers|moneyline": {
+    "captured_at": "2026-02-19T01:38:32.589163+00:00",
+    "edge_type": "moneyline"
+  },
+  "NJIT Highlanders vs. Albany Great Danes|NJIT Highlanders|moneyline": {
+    "captured_at": "2026-02-19T01:38:32.590260+00:00",
+    "edge_type": "moneyline"
+  },
+  "South Alabama Jaguars vs. Texas State Bobcats|South Alabama Jaguars|moneyline": {
+    "captured_at": "2026-02-19T01:38:32.591761+00:00",
+    "edge_type": "moneyline"
+  },
+  "Tennessee Tech Golden Eagles vs. SIU-Edwardsville Cougars|SIU-Edwardsville Cougars|moneyline": {
+    "captured_at": "2026-02-19T01:38:32.593664+00:00",
+    "edge_type": "moneyline"
+  },
+  "Idaho State Bengals vs. Montana Grizzlies|Montana Grizzlies|moneyline": {
+    "captured_at": "2026-02-19T01:38:32.593913+00:00",
+    "edge_type": "moneyline"
+  },
+  "Portland St Vikings vs. Idaho Vandals|Portland St Vikings|moneyline": {
+    "captured_at": "2026-02-19T01:38:32.594388+00:00",
+    "edge_type": "moneyline"
+  },
+  "CSU Fullerton Titans vs. UC Davis Aggies|CSU Fullerton Titans|moneyline": {
+    "captured_at": "2026-02-19T01:38:32.594944+00:00",
+    "edge_type": "moneyline"
   }
 }
