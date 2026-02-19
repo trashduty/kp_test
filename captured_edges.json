@@ -3678,5 +3678,13 @@
   "NJIT Highlanders vs. Albany Great Danes|NJIT Highlanders|spread": {
     "captured_at": "2026-02-19T04:41:22.354222+00:00",
     "edge_type": "spread"
+  },
+  "Detroit Mercy Titans vs. Milwaukee Panthers|Detroit Mercy Titans|spread": {
+    "captured_at": "2026-02-19T19:20:24.759490+00:00",
+    "edge_type": "spread"
+  },
+  "Detroit Mercy Titans vs. Milwaukee Panthers|Detroit Mercy Titans|moneyline": {
+    "captured_at": "2026-02-19T19:20:24.759534+00:00",
+    "edge_type": "moneyline"
   }
 }
