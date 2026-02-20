@@ -3702,5 +3702,17 @@
   "Auburn Tigers vs. Kentucky Wildcats|Auburn Tigers|moneyline": {
     "captured_at": "2026-02-19T22:11:16.689559+00:00",
     "edge_type": "moneyline"
+  },
+  "USC Trojans vs. Oregon Ducks|USC Trojans|spread": {
+    "captured_at": "2026-02-20T20:10:21.288207+00:00",
+    "edge_type": "spread"
+  },
+  "USC Trojans vs. Oregon Ducks|USC Trojans|moneyline": {
+    "captured_at": "2026-02-20T20:10:21.288250+00:00",
+    "edge_type": "moneyline"
+  },
+  "Baylor Bears vs. Arizona St Sun Devils|over": {
+    "captured_at": "2026-02-20T20:10:21.288370+00:00",
+    "edge_type": "over"
   }
 }
