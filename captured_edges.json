@@ -3718,5 +3718,9 @@
   "California Golden Bears vs. Stanford Cardinal|California Golden Bears|moneyline": {
     "captured_at": "2026-02-20T21:08:20.859110+00:00",
     "edge_type": "moneyline"
+  },
+  "Charlotte 49ers vs. East Carolina Pirates|Charlotte 49ers|moneyline": {
+    "captured_at": "2026-02-20T23:11:20.438590+00:00",
+    "edge_type": "moneyline"
   }
 }
