@@ -3714,5 +3714,9 @@
   "Baylor Bears vs. Arizona St Sun Devils|over": {
     "captured_at": "2026-02-20T20:10:21.288370+00:00",
     "edge_type": "over"
+  },
+  "California Golden Bears vs. Stanford Cardinal|California Golden Bears|moneyline": {
+    "captured_at": "2026-02-20T21:08:20.859110+00:00",
+    "edge_type": "moneyline"
   }
 }
