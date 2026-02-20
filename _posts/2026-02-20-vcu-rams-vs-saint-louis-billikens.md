@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Saint Louis Billikens -7.5</p>
-  <p><strong>Moneyline:</strong> VCU Rams (+310) | Saint Louis Billikens (-401)</p>
+  <p><strong>Moneyline:</strong> VCU Rams (+277) | Saint Louis Billikens (-355)</p>
   <p><strong>Total:</strong> 165.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **VCU Rams**: 7.5, Edge For Covering Spread: -3.7%
-- **Saint Louis Billikens**: -7.5, Edge For Covering Spread: -1.3%
+- **VCU Rams**: 7.5, Edge For Covering Spread: -5.0%
+- **Saint Louis Billikens**: -7.5, Edge For Covering Spread: **0.3%**
 
 ### Moneyline
-- **VCU Rams Win Probability**: 21.2%, Moneyline Edge: -3.2%
-- **Saint Louis Billikens Win Probability**: 78.8%, Moneyline Edge: -1.3%
+- **VCU Rams Win Probability**: 22.8%, Moneyline Edge: -3.7%
+- **Saint Louis Billikens Win Probability**: 77.2%, Moneyline Edge: -0.8%
 
 ### Total
 - **Predicted Total**: 164.0

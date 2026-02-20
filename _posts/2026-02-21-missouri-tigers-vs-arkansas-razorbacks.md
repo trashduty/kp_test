@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **Arkansas Razorbacks Win Probability**: 84.3%, Moneyline Edge: -2.3%
 
 ### Total
-- **Predicted Total**: 160.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.9%
+- **Predicted Total**: 161.0
+- Edge For Covering The Over: -3.1%
+- Edge For Covering The Under: -1.6%
 
 ---
 

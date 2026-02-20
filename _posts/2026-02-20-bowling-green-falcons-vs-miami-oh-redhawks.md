@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Miami (OH) RedHawks -8.5</p>
-  <p><strong>Moneyline:</strong> Bowling Green Falcons (+330) | Miami (OH) RedHawks (-429)</p>
+  <p><strong>Spread:</strong> Miami (OH) RedHawks -7.5</p>
+  <p><strong>Moneyline:</strong> Bowling Green Falcons (+287) | Miami (OH) RedHawks (-370)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bowling Green Falcons**: 8.5, Edge For Covering Spread: -5.7%
-- **Miami (OH) RedHawks**: -8.5, Edge For Covering Spread: **1.1%**
+- **Bowling Green Falcons**: 7.5, Edge For Covering Spread: -4.4%
+- **Miami (OH) RedHawks**: -7.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **Bowling Green Falcons Win Probability**: 20.3%, Moneyline Edge: -3.0%
-- **Miami (OH) RedHawks Win Probability**: 79.7%, Moneyline Edge: -1.4%
+- **Bowling Green Falcons Win Probability**: 21.8%, Moneyline Edge: -4.0%
+- **Miami (OH) RedHawks Win Probability**: 78.2%, Moneyline Edge: -0.6%
 
 ### Total
-- **Predicted Total**: 153.0
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 153.5
+- Edge For Covering The Over: -3.4%
+- Edge For Covering The Under: -1.3%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Miami (OH) RedHawks (26-0) hosts Bowling Green Falcons (16-11) at Millett Hall in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Miami (OH) RedHawks favored by 8.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Miami (OH) RedHawks (26-0) hosts Bowling Green Falcons (16-11) at Millett Hall in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Miami (OH) RedHawks favored by 7.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Miami (OH) RedHawks has clear advantages, but games aren't played on paper. Bowling Green Falcons needs to punch above their weight class to keep this close. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us Miami (OH) RedHawks has clear advantages, but games aren't played on paper. Bowling Green Falcons needs to punch above their weight class to keep this close. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Bowling Green Falcons** bring an offensive efficiency of 108.83 (ranked #169 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.8% three-point shooting is serviceable but won't scare anyone. 

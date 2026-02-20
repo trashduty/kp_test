@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Brown Bears -1.5</p>
-  <p><strong>Moneyline:</strong> Princeton Tigers (+110) | Brown Bears (-130)</p>
+  <p><strong>Moneyline:</strong> Princeton Tigers (+105) | Brown Bears (-126)</p>
   <p><strong>Total:</strong> 130.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Princeton Tigers**: 1.5, Edge For Covering Spread: -4.1%
-- **Brown Bears**: -1.5, Edge For Covering Spread: -0.6%
+- **Princeton Tigers**: 1.5, Edge For Covering Spread: -2.4%
+- **Brown Bears**: -1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Princeton Tigers Win Probability**: 43.3%, Moneyline Edge: -4.3%
-- **Brown Bears Win Probability**: 56.7%, Moneyline Edge: **0.2%**
+- **Princeton Tigers Win Probability**: 44.8%, Moneyline Edge: -3.9%
+- **Brown Bears Win Probability**: 55.2%, Moneyline Edge: -0.6%
 
 ### Total
-- **Predicted Total**: 129.5
-- Edge For Covering The Over: -6.4%
-- Edge For Covering The Under: **1.6%**
+- **Predicted Total**: 130.0
+- Edge For Covering The Over: -5.5%
+- Edge For Covering The Under: **0.8%**
 
 ---
 

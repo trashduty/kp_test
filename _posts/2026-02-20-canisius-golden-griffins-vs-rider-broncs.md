@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Rider Broncs -1.5</p>
-  <p><strong>Moneyline:</strong> Canisius Golden Griffins (+105) | Rider Broncs (-125)</p>
+  <p><strong>Moneyline:</strong> Canisius Golden Griffins (-100) | Rider Broncs (-120)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Canisius Golden Griffins**: 1.5, Edge For Covering Spread: -3.5%
-- **Rider Broncs**: -1.5, Edge For Covering Spread: -2.4%
+- **Canisius Golden Griffins**: 1.5, Edge For Covering Spread: -2.4%
+- **Rider Broncs**: -1.5, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **Canisius Golden Griffins Win Probability**: 45.8%, Moneyline Edge: -3.0%
-- **Rider Broncs Win Probability**: 54.2%, Moneyline Edge: -1.4%
+- **Canisius Golden Griffins Win Probability**: 46.9%, Moneyline Edge: -3.1%
+- **Rider Broncs Win Probability**: 53.1%, Moneyline Edge: -1.4%
 
 ### Total
 - **Predicted Total**: 132.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 

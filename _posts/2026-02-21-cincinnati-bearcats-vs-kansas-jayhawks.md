@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Cincinnati Bearcats**: 10.5, Edge For Covering Spread: -2.4%
-- **Kansas Jayhawks**: -10.5, Edge For Covering Spread: -2.4%
+- **Cincinnati Bearcats**: 10.5, Edge For Covering Spread: -4.1%
+- **Kansas Jayhawks**: -10.5, Edge For Covering Spread: -0.6%
 
 ### Moneyline
-- **Cincinnati Bearcats Win Probability**: 16.2%, Moneyline Edge: -2.1%
-- **Kansas Jayhawks Win Probability**: 83.8%, Moneyline Edge: -2.8%
+- **Cincinnati Bearcats Win Probability**: 15.7%, Moneyline Edge: -2.6%
+- **Kansas Jayhawks Win Probability**: 84.3%, Moneyline Edge: -2.3%
 
 ### Total
 - **Predicted Total**: 135.0

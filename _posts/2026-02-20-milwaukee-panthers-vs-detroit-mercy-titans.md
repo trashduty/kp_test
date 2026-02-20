@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Detroit Mercy Titans -2.5</p>
-  <p><strong>Moneyline:</strong> Milwaukee Panthers (+121) | Detroit Mercy Titans (-145)</p>
+  <p><strong>Moneyline:</strong> Milwaukee Panthers (+115) | Detroit Mercy Titans (-137)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Milwaukee Panthers**: 2.5, Edge For Covering Spread: -8.3%
-- **Detroit Mercy Titans**: -2.5, Edge For Covering Spread: **3.6%**
+- **Milwaukee Panthers**: 2.5, Edge For Covering Spread: -7.0%
+- **Detroit Mercy Titans**: -2.5, Edge For Covering Spread: **2.3%**
 
 ### Moneyline
-- **Milwaukee Panthers Win Probability**: 36.6%, Moneyline Edge: -8.6%
-- **Detroit Mercy Titans Win Probability**: 63.4%, Moneyline Edge: **4.1%**
+- **Milwaukee Panthers Win Probability**: 39.8%, Moneyline Edge: -6.7%
+- **Detroit Mercy Titans Win Probability**: 60.2%, Moneyline Edge: **2.3%**
 
 ### Total
 - **Predicted Total**: 153.0
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -3.0%
+- Edge For Covering The Over: -1.3%
+- Edge For Covering The Under: -3.5%
 
 ---
 

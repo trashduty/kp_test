@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Purdue Boilermakers -11.0</p>
-  <p><strong>Moneyline:</strong> Indiana Hoosiers (+500) | Purdue Boilermakers (-710)</p>
+  <p><strong>Spread:</strong> Purdue Boilermakers -10.5</p>
+  <p><strong>Moneyline:</strong> Indiana Hoosiers (+472) | Purdue Boilermakers (-660)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Indiana Hoosiers**: 11.0, Edge For Covering Spread: -0.9%
-- **Purdue Boilermakers**: -11.0, Edge For Covering Spread: -3.9%
+- **Indiana Hoosiers**: 10.5, Edge For Covering Spread: -0.9%
+- **Purdue Boilermakers**: -10.5, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **Indiana Hoosiers Win Probability**: 15.2%, Moneyline Edge: -1.5%
-- **Purdue Boilermakers Win Probability**: 84.8%, Moneyline Edge: -2.8%
+- **Indiana Hoosiers Win Probability**: 16.9%, Moneyline Edge: -0.6%
+- **Purdue Boilermakers Win Probability**: 83.1%, Moneyline Edge: -3.7%
 
 ### Total
-- **Predicted Total**: 148.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 149.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Purdue Boilermakers (21-5) hosts Indiana Hoosiers (17-9) at Mackey Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Purdue Boilermakers favored by 11.0 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Purdue Boilermakers (21-5) hosts Indiana Hoosiers (17-9) at Mackey Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Purdue Boilermakers favored by 10.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.0 points tells us Purdue Boilermakers has clear advantages, but games aren't played on paper. Indiana Hoosiers needs to punch above their weight class to keep this close. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 10.5 points tells us Purdue Boilermakers has clear advantages, but games aren't played on paper. Indiana Hoosiers needs to punch above their weight class to keep this close. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Indiana Hoosiers** bring an offensive efficiency of 116.97 (ranked #47 nationally). This is an elite offense that can score in multiple ways. Their 34.8% three-point shooting is serviceable but won't scare anyone. 

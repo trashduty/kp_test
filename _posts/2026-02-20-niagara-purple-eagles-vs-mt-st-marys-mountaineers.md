@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Mt. St. Mary's Mountaineers -6.5</p>
-  <p><strong>Moneyline:</strong> Niagara Purple Eagles (+260) | Mt. St. Mary's Mountaineers (-320)</p>
+  <p><strong>Moneyline:</strong> Niagara Purple Eagles (+250) | Mt. St. Mary's Mountaineers (-300)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Niagara Purple Eagles**: 6.5, Edge For Covering Spread: -1.2%
-- **Mt. St. Mary's Mountaineers**: -6.5, Edge For Covering Spread: -3.5%
+- **Niagara Purple Eagles**: 6.5, Edge For Covering Spread: -0.5%
+- **Mt. St. Mary's Mountaineers**: -6.5, Edge For Covering Spread: -4.5%
 
 ### Moneyline
-- **Niagara Purple Eagles Win Probability**: 24.4%, Moneyline Edge: -3.4%
-- **Mt. St. Mary's Mountaineers Win Probability**: 75.6%, Moneyline Edge: -0.6%
+- **Niagara Purple Eagles Win Probability**: 24.8%, Moneyline Edge: -3.8%
+- **Mt. St. Mary's Mountaineers Win Probability**: 75.2%, Moneyline Edge: **0.2%**
 
 ### Total
-- **Predicted Total**: 129.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 130.0
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.0%
 
 ---
 

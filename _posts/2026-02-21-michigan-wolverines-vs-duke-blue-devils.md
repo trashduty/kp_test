@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Duke Blue Devils**: 2.5, Edge For Covering Spread: -4.8%
 
 ### Moneyline
-- **Michigan Wolverines Win Probability**: 59.8%, Moneyline Edge: **0.6%**
-- **Duke Blue Devils Win Probability**: 40.2%, Moneyline Edge: -4.8%
+- **Michigan Wolverines Win Probability**: 59.4%, Moneyline Edge: **0.2%**
+- **Duke Blue Devils Win Probability**: 40.6%, Moneyline Edge: -4.4%
 
 ### Total
-- **Predicted Total**: 150.0
-- Edge For Covering The Over: **0.2%**
-- Edge For Covering The Under: -4.9%
+- **Predicted Total**: 149.5
+- Edge For Covering The Over: -0.7%
+- Edge For Covering The Under: -4.1%
 
 ---
 

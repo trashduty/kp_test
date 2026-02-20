@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Iona Gaels -1.5</p>
-  <p><strong>Moneyline:</strong> Saint Peter's Peacocks (-102) | Iona Gaels (-118)</p>
+  <p><strong>Moneyline:</strong> Saint Peter's Peacocks (-100) | Iona Gaels (-120)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -25,16 +25,16 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **Saint Peter's Peacocks**: 1.5, Edge For Covering Spread: -6.2%
-- **Iona Gaels**: -1.5, Edge For Covering Spread: **1.7%**
+- **Iona Gaels**: -1.5, Edge For Covering Spread: **1.2%**
 
 ### Moneyline
-- **Saint Peter's Peacocks Win Probability**: 44.0%, Moneyline Edge: -6.5%
-- **Iona Gaels Win Probability**: 56.0%, Moneyline Edge: **1.9%**
+- **Saint Peter's Peacocks Win Probability**: 44.4%, Moneyline Edge: -5.6%
+- **Iona Gaels Win Probability**: 55.6%, Moneyline Edge: **1.0%**
 
 ### Total
-- **Predicted Total**: 141.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 142.0
+- Edge For Covering The Over: -1.5%
+- Edge For Covering The Under: -3.2%
 
 ---
 
