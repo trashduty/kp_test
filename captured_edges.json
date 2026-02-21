@@ -3890,5 +3890,9 @@
   "UMBC Retrievers vs. Albany Great Danes|UMBC Retrievers|spread": {
     "captured_at": "2026-02-21T14:09:59.317882+00:00",
     "edge_type": "spread"
+  },
+  "Belmont Bruins vs. Indiana St Sycamores|Belmont Bruins|spread": {
+    "captured_at": "2026-02-21T16:09:16.638619+00:00",
+    "edge_type": "spread"
   }
 }
