@@ -3894,5 +3894,21 @@
   "Belmont Bruins vs. Indiana St Sycamores|Belmont Bruins|spread": {
     "captured_at": "2026-02-21T16:09:16.638619+00:00",
     "edge_type": "spread"
+  },
+  "Drexel Dragons vs. Towson Tigers|under": {
+    "captured_at": "2026-02-21T23:08:42.387291+00:00",
+    "edge_type": "under"
+  },
+  "Cleveland St Vikings vs. Fort Wayne Mastodons|Cleveland St Vikings|spread": {
+    "captured_at": "2026-02-21T23:08:42.387552+00:00",
+    "edge_type": "spread"
+  },
+  "Drexel Dragons vs. Towson Tigers|Drexel Dragons|spread": {
+    "captured_at": "2026-02-21T23:08:42.387740+00:00",
+    "edge_type": "spread"
+  },
+  "Oakland Golden Grizzlies vs. Milwaukee Panthers|Oakland Golden Grizzlies|spread": {
+    "captured_at": "2026-02-21T23:08:42.387865+00:00",
+    "edge_type": "spread"
   }
 }
