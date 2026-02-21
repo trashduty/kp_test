@@ -1,18 +1,18 @@
 Team,Odds
 Michigan Wolverines,320
-Arizona Wildcats,600
 Duke Blue Devils,600
-Houston Cougars,700
+Arizona Wildcats,650
+Houston Cougars,650
 Florida Gators,1100
 Illinois Fighting Illini,1100
 Iowa State Cyclones,1300
-Kansas Jayhawks,2000
+Kansas Jayhawks,2200
 UConn Huskies,2200
 Purdue Boilermakers,2500
-St. John's Red Storm,4000
 Gonzaga Bulldogs,4000
 Arkansas Razorbacks,5000
 Michigan St Spartans,5000
+St. John's Red Storm,5000
 Alabama Crimson Tide,5000
 Louisville Cardinals,6000
 Tennessee Volunteers,6000
@@ -20,16 +20,15 @@ Nebraska Cornhuskers,6000
 Vanderbilt Commodores,6000
 Virginia Cavaliers,8000
 Kentucky Wildcats,10000
-Texas Tech Red Raiders,10000
 Wisconsin Badgers,10000
-North Carolina Tar Heels,10000
-Texas A&M Aggies,10000
+Texas Tech Red Raiders,12500
+North Carolina Tar Heels,12500
+NC State Wolfpack,12500
+Texas A&M Aggies,12500
+Saint Louis Billikens,12500
 Iowa Hawkeyes,15000
 BYU Cougars,15000
-NC State Wolfpack,15000
-Saint Louis Billikens,15000
 Clemson Tigers,20000
-Indiana Hoosiers,20000
 Miami Hurricanes,20000
 Villanova Wildcats,20000
 Texas Longhorns,20000
@@ -38,6 +37,7 @@ SMU Mustangs,25000
 Missouri Tigers,25000
 Auburn Tigers,25000
 Saint Mary's Gaels,25000
+Indiana Hoosiers,30000
 UCF Knights,30000
 Miami (OH) RedHawks,30000
 McNeese Cowboys,50000
