@@ -3786,5 +3786,33 @@
   "Saint Joseph's Hawks vs. Loyola (Chi) Ramblers|Saint Joseph's Hawks|spread": {
     "captured_at": "2026-02-21T00:35:06.273644+00:00",
     "edge_type": "spread"
+  },
+  "Chicago St Cougars vs. Central Connecticut St Blue Devils|over": {
+    "captured_at": "2026-02-21T01:37:29.133628+00:00",
+    "edge_type": "over"
+  },
+  "Cornell Big Red vs. Harvard Crimson|over": {
+    "captured_at": "2026-02-21T01:37:29.133752+00:00",
+    "edge_type": "over"
+  },
+  "Stetson Hatters vs. North Florida Ospreys|Stetson Hatters|spread": {
+    "captured_at": "2026-02-21T01:37:29.136834+00:00",
+    "edge_type": "spread"
+  },
+  "New Hampshire Wildcats vs. Maine Black Bears|under": {
+    "captured_at": "2026-02-21T01:37:29.137754+00:00",
+    "edge_type": "under"
+  },
+  "UNC Asheville Bulldogs vs. Radford Highlanders|UNC Asheville Bulldogs|spread": {
+    "captured_at": "2026-02-21T01:37:29.140892+00:00",
+    "edge_type": "spread"
+  },
+  "Eastern Illinois Panthers vs. Southern Indiana Screaming Eagles|under": {
+    "captured_at": "2026-02-21T01:37:29.141028+00:00",
+    "edge_type": "under"
+  },
+  "Hawai'i Rainbow Warriors vs. UC Santa Barbara Gauchos|under": {
+    "captured_at": "2026-02-21T01:37:29.147188+00:00",
+    "edge_type": "under"
   }
 }
