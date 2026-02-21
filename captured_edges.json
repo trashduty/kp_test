@@ -3814,5 +3814,49 @@
   "Hawai'i Rainbow Warriors vs. UC Santa Barbara Gauchos|under": {
     "captured_at": "2026-02-21T01:37:29.147188+00:00",
     "edge_type": "under"
+  },
+  "UMass Lowell River Hawks vs. Binghamton Bearcats|UMass Lowell River Hawks|spread": {
+    "captured_at": "2026-02-21T02:59:32.165692+00:00",
+    "edge_type": "spread"
+  },
+  "North Dakota St Bison vs. UMKC Kangaroos|North Dakota St Bison|spread": {
+    "captured_at": "2026-02-21T02:59:32.167161+00:00",
+    "edge_type": "spread"
+  },
+  "Morgan St Bears vs. Delaware St Hornets|Morgan St Bears|moneyline": {
+    "captured_at": "2026-02-21T02:59:32.170971+00:00",
+    "edge_type": "moneyline"
+  },
+  "Alcorn St Braves vs. Jackson St Tigers|Alcorn St Braves|moneyline": {
+    "captured_at": "2026-02-21T02:59:32.171942+00:00",
+    "edge_type": "moneyline"
+  },
+  "Liberty Flames vs. Western Kentucky Hilltoppers|Liberty Flames|spread": {
+    "captured_at": "2026-02-21T02:59:32.172631+00:00",
+    "edge_type": "spread"
+  },
+  "SE Louisiana Lions vs. UT Rio Grande Valley Vaqueros|UT Rio Grande Valley Vaqueros|moneyline": {
+    "captured_at": "2026-02-21T02:59:32.173208+00:00",
+    "edge_type": "moneyline"
+  },
+  "UNC Asheville Bulldogs vs. Radford Highlanders|UNC Asheville Bulldogs|moneyline": {
+    "captured_at": "2026-02-21T02:59:32.173410+00:00",
+    "edge_type": "moneyline"
+  },
+  "South Carolina Upstate Spartans vs. Presbyterian Blue Hose|South Carolina Upstate Spartans|moneyline": {
+    "captured_at": "2026-02-21T02:59:32.173571+00:00",
+    "edge_type": "moneyline"
+  },
+  "Bethune-Cookman Wildcats vs. Alabama A&M Bulldogs|Bethune-Cookman Wildcats|moneyline": {
+    "captured_at": "2026-02-21T02:59:32.175037+00:00",
+    "edge_type": "moneyline"
+  },
+  "Stephen F. Austin Lumberjacks vs. Nicholls St Colonels|Stephen F. Austin Lumberjacks|spread": {
+    "captured_at": "2026-02-21T02:59:32.176783+00:00",
+    "edge_type": "spread"
+  },
+  "Howard Bison vs. North Carolina Central Eagles|Howard Bison|spread": {
+    "captured_at": "2026-02-21T02:59:32.179000+00:00",
+    "edge_type": "spread"
   }
 }
