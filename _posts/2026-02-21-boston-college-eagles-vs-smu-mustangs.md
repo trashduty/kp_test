@@ -1,0 +1,144 @@
+---
+layout: post
+title: "Boston College Eagles vs SMU Mustangs - Game Preview"
+date: 2026-02-21
+categories: [basketball, preview]
+---
+
+# Boston College Eagles vs SMU Mustangs
+## Game Preview for February 21, 2026
+
+
+<div class="betting-lines">
+  <h3>Betting Lines</h3>
+  <p><strong>Spread:</strong> SMU Mustangs -15.5</p>
+  <p><strong>Moneyline:</strong> Boston College Eagles (+1048) | SMU Mustangs (-2100)</p>
+  <p><strong>Total:</strong> 148.5</p>
+</div>
+
+
+---
+
+## Model Predictions
+
+All that being said, here's how our model prices this game.
+
+### Spread
+- **Boston College Eagles**: 15.5, Edge For Covering Spread: -4.0%
+- **SMU Mustangs**: -15.5, Edge For Covering Spread: -0.8%
+
+### Moneyline
+- **Boston College Eagles Win Probability**: 8.0%, Moneyline Edge: -0.7%
+- **SMU Mustangs Win Probability**: 92.0%, Moneyline Edge: -3.5%
+
+### Total
+- **Predicted Total**: 150.0
+- Edge For Covering The Over: -4.4%
+- Edge For Covering The Under: -0.4%
+
+---
+
+To see predictions for spreads, moneylines, and totals for every D1 men's college basketball game, be sure to get access at [btb-analytics.com](https://btb-analytics.com)
+
+### Game Analysis & Betting Breakdown
+#### Setting the Stage
+SMU Mustangs (18-8) hosts Boston College Eagles (9-17) at Moody Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into SMU Mustangs favored by 15.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+
+#### Breaking Down the Spread
+The 15.5-point spread screams mismatch. The books are asking Boston College Eagles to hang within two possessions, which based on the profiles, requires SMU Mustangs to play below their standard. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+
+#### Offensive Firepower
+**Boston College Eagles** bring an offensive efficiency of 100.18 (ranked #319 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.3% from three, they can't rely on the arc. Expect a paint-focused attack. 
+Meanwhile, **SMU Mustangs** counter with 119.53 offensive efficiency (#28). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 38.1%, giving them spacing and shot creation. 
+
+#### Tempo & Playing Style
+Boston College Eagles operate at a 66.2 tempo (#294), while SMU Mustangs play at 71.6 (#43). SMU Mustangs like to push the pace, while Boston College Eagles want to control the clock. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 68.9) should create a standard flow. 
+
+#### The Interior Battle
+Inside the paint, Boston College Eagles shoot 48.9% on two-pointers, while SMU Mustangs convert at 56.0%. SMU Mustangs has a clear edge in interior scoring efficiency. 
+Getting to the line matters too. Boston College Eagles's free throw rate sits at 32.4, suggesting they're more perimeter-oriented or struggle to draw fouls. SMU Mustangs check in at 32.0, meaning they don't manufacture easy points at the line. When they do get fouled, Boston College Eagles convert 64.2% while SMU Mustangs hit 76.3%. SMU Mustangs's edge at the charity stripe matters in close finishes. 
+
+#### X-Factors & Intangibles
+Playing at home, SMU Mustangs get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—Boston College Eagles is simply the superior team on paper. 
+From a coaching perspective, Earl Grant leads Boston College Eagles while Andy Enfield guides SMU Mustangs. Experience and game planning will be critical in what promises to be a tactical chess match. 
+
+### Game Storylines
+
+This looks like a mismatch on paper with SMU Mustangs significantly higher in the rankings, but as they say, that's why they play the games. Boston College Eagles will need their best performance to stay competitive. 
+
+**Key Matchup: The Battle in the Trenches**
+
+Both teams are fairly evenly matched on both ends of the floor. This could come down to execution in crunch time. 
+
+**Pace of Play:** SMU Mustangs like to push the pace, while Boston College Eagles prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
+
+
+## Boston College Eagles
+
+Boston College Eagles comes in ranked #150 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
+
+### Record & Ranking
+- **Record:** 9-17
+- **Head Coach:** Earl Grant
+- **KenPom Rank:** #150
+- **Offensive Efficiency:** 100.2 (Rank: #319)
+- **Defensive Efficiency:** 103.4 (Rank: #65)
+- **Tempo:** 66.2 (Rank: #294)
+
+### Shooting Breakdown
+
+- **2-Point Shooting:** 48.9% (Rank: #282)
+- **3-Point Shooting:** 30.3% (Rank: #335)
+- **Free Throw Shooting:** 64.2% (Rank: #362)
+- **3-Point Rate:** 41.7% (Rank: #138)
+
+### Defensive Stats
+
+- **Opponent 2-Point Shooting:** 49.4% (Rank: #86)
+- **Opponent 3-Point Shooting:** 31.1% (Rank: #41)
+- **Block Percentage:** 12.4% (Rank: #44)
+- **Steal Rate:** 0.1% (Rank: #347)
+
+### Team Metrics
+
+- **Assist Rate:** 47.4% (Rank: #300)
+- **Experience:** 1.5 years (Rank: #171)
+- **Bench Minutes:** 31.6% (Rank: #199)
+- **Average Height:** 77.8" (Rank: #106)
+
+---
+
+## SMU Mustangs
+
+SMU Mustangs comes in ranked #34 overall by KenPom. They're dangerous from beyond the arc, shooting 38.1% from three (ranked #15 nationally), so expect them to let it fly from deep. 
+
+### Record & Ranking
+- **Record:** 18-8
+- **Head Coach:** Andy Enfield
+- **Home Arena:** Moody Coliseum
+- **KenPom Rank:** #34
+- **Offensive Efficiency:** 119.5 (Rank: #28)
+- **Defensive Efficiency:** 108.4 (Rank: #179)
+- **Tempo:** 71.6 (Rank: #43)
+
+### Shooting Breakdown
+
+- **2-Point Shooting:** 56.0% (Rank: #50)
+- **3-Point Shooting:** 38.1% (Rank: #15)
+- **Free Throw Shooting:** 76.3% (Rank: #51)
+- **3-Point Rate:** 34.6% (Rank: #284)
+
+### Defensive Stats
+
+- **Opponent 2-Point Shooting:** 52.5% (Rank: #217)
+- **Opponent 3-Point Shooting:** 33.0% (Rank: #123)
+- **Block Percentage:** 11.6% (Rank: #73)
+- **Steal Rate:** 0.1% (Rank: #119)
+
+### Team Metrics
+
+- **Assist Rate:** 56.5% (Rank: #78)
+- **Experience:** 2.8 years (Rank: #5)
+- **Bench Minutes:** 22.5% (Rank: #347)
+- **Average Height:** 77.8" (Rank: #105)
+

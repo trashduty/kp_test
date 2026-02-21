@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan Wolverines -2.5</p>
-  <p><strong>Moneyline:</strong> Michigan Wolverines (-145) | Duke Blue Devils (+122)</p>
+  <p><strong>Moneyline:</strong> Michigan Wolverines (-155) | Duke Blue Devils (+134)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan Wolverines**: -2.5, Edge For Covering Spread: **0.0%**
-- **Duke Blue Devils**: 2.5, Edge For Covering Spread: -4.8%
+- **Michigan Wolverines**: -2.5, Edge For Covering Spread: -1.2%
+- **Duke Blue Devils**: 2.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Michigan Wolverines Win Probability**: 59.4%, Moneyline Edge: **0.2%**
-- **Duke Blue Devils Win Probability**: 40.6%, Moneyline Edge: -4.4%
+- **Michigan Wolverines Win Probability**: 60.4%, Moneyline Edge: -0.4%
+- **Duke Blue Devils Win Probability**: 39.6%, Moneyline Edge: -3.1%
 
 ### Total
-- **Predicted Total**: 149.5
-- Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.1%
+- **Predicted Total**: 151.0
+- Edge For Covering The Over: -1.5%
+- Edge For Covering The Under: -3.2%
 
 ---
 
@@ -48,11 +48,11 @@ When Michigan Wolverines (25-1) travels to face Duke Blue Devils (24-2) at Camer
 A spread under 3 points suggests the books see this as essentially a coin flip. Michigan Wolverines's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Michigan Wolverines** bring an offensive efficiency of 123.61 (ranked #2 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
+**Michigan Wolverines** bring an offensive efficiency of 123.61 (ranked #3 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
 Meanwhile, **Duke Blue Devils** counter with 122.14 offensive efficiency (#9). This offense can match anyone bucket-for-bucket. At 34.9% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Michigan Wolverines operate at a 73.0 tempo (#15), while Duke Blue Devils play at 67.8 (#221). Michigan Wolverines want to run, but Duke Blue Devils prefer to slow things down. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 70.4) should create a standard flow. 
+Michigan Wolverines operate at a 73.0 tempo (#16), while Duke Blue Devils play at 67.8 (#221). Michigan Wolverines want to run, but Duke Blue Devils prefer to slow things down. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 70.4) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Michigan Wolverines shoot 62.6% on two-pointers, while Duke Blue Devils convert at 62.0%. Both teams are evenly matched in paint efficiency. 
@@ -77,21 +77,21 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Michigan Wolverines
 
-Michigan Wolverines comes in ranked #1 overall by KenPom. They're dangerous from beyond the arc, shooting 36.1% from three (ranked #62 nationally), so expect them to let it fly from deep. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.2% from three. 
+Michigan Wolverines comes in ranked #1 overall by KenPom. They're dangerous from beyond the arc, shooting 36.1% from three (ranked #61 nationally), so expect them to let it fly from deep. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.2% from three. 
 
 ### Record & Ranking
 - **Record:** 25-1
 - **Head Coach:** Dusty May
 - **KenPom Rank:** #1
-- **Offensive Efficiency:** 123.6 (Rank: #2)
+- **Offensive Efficiency:** 123.6 (Rank: #3)
 - **Defensive Efficiency:** 94.1 (Rank: #4)
-- **Tempo:** 73.0 (Rank: #15)
+- **Tempo:** 73.0 (Rank: #16)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 62.6% (Rank: #2)
-- **3-Point Shooting:** 36.1% (Rank: #62)
-- **Free Throw Shooting:** 73.4% (Rank: #154)
+- **3-Point Shooting:** 36.1% (Rank: #61)
+- **Free Throw Shooting:** 73.4% (Rank: #153)
 - **3-Point Rate:** 42.2% (Rank: #128)
 
 ### Defensive Stats
@@ -126,15 +126,15 @@ Duke Blue Devils comes in ranked #2 overall by KenPom. They boast one of the nat
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 62.0% (Rank: #4)
-- **3-Point Shooting:** 34.9% (Rank: #128)
-- **Free Throw Shooting:** 71.4% (Rank: #214)
+- **3-Point Shooting:** 34.9% (Rank: #129)
+- **Free Throw Shooting:** 71.4% (Rank: #215)
 - **3-Point Rate:** 43.8% (Rank: #95)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 45.9% (Rank: #14)
-- **Opponent 3-Point Shooting:** 31.0% (Rank: #40)
-- **Block Percentage:** 10.7% (Rank: #112)
+- **Opponent 3-Point Shooting:** 31.0% (Rank: #39)
+- **Block Percentage:** 10.7% (Rank: #113)
 - **Steal Rate:** 0.1% (Rank: #33)
 
 ### Team Metrics

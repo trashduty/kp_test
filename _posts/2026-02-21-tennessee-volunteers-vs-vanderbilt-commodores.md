@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Vanderbilt Commodores -3.5</p>
-  <p><strong>Moneyline:</strong> Tennessee Volunteers (+147) | Vanderbilt Commodores (-175)</p>
+  <p><strong>Spread:</strong> Vanderbilt Commodores -4.0</p>
+  <p><strong>Moneyline:</strong> Tennessee Volunteers (+157) | Vanderbilt Commodores (-191)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tennessee Volunteers**: 3.5, Edge For Covering Spread: -2.4%
-- **Vanderbilt Commodores**: -3.5, Edge For Covering Spread: -2.4%
+- **Tennessee Volunteers**: 4.0, Edge For Covering Spread: -2.9%
+- **Vanderbilt Commodores**: -4.0, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Tennessee Volunteers Win Probability**: 36.8%, Moneyline Edge: -3.8%
-- **Vanderbilt Commodores Win Probability**: 63.2%, Moneyline Edge: -0.3%
+- **Tennessee Volunteers Win Probability**: 36.0%, Moneyline Edge: -2.9%
+- **Vanderbilt Commodores Win Probability**: 64.0%, Moneyline Edge: -1.7%
 
 ### Total
-- **Predicted Total**: 149.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 150.5
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Tennessee Volunteers (19-7) travels to face Vanderbilt Commodores (21-5) at Memorial Gym, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Vanderbilt Commodores favored by 3.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Tennessee Volunteers (19-7) travels to face Vanderbilt Commodores (21-5) at Memorial Gym, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Vanderbilt Commodores favored by 4.0 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Vanderbilt Commodores is viewed as the better team, but this isn't an overwhelming edge. Tennessee Volunteers has a legitimate path to covering or winning outright. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 4.0-point spread indicates Vanderbilt Commodores is viewed as the better team, but this isn't an overwhelming edge. Tennessee Volunteers has a legitimate path to covering or winning outright. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Tennessee Volunteers** bring an offensive efficiency of 118.29 (ranked #35 nationally). This is an elite offense that can score in multiple ways. Their 34.9% three-point shooting is serviceable but won't scare anyone. 
@@ -118,15 +118,15 @@ Vanderbilt Commodores comes in ranked #12 overall by KenPom. They're dangerous f
 - **Home Arena:** Memorial Gym
 - **KenPom Rank:** #12
 - **Offensive Efficiency:** 121.9 (Rank: #12)
-- **Defensive Efficiency:** 102.5 (Rank: #56)
+- **Defensive Efficiency:** 102.5 (Rank: #55)
 - **Tempo:** 72.0 (Rank: #31)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 57.9% (Rank: #26)
 - **3-Point Shooting:** 36.1% (Rank: #65)
-- **Free Throw Shooting:** 78.0% (Rank: #16)
-- **3-Point Rate:** 44.6% (Rank: #75)
+- **Free Throw Shooting:** 78.0% (Rank: #17)
+- **3-Point Rate:** 44.6% (Rank: #76)
 
 ### Defensive Stats
 

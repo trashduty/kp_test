@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Florida Gators -12.5</p>
-  <p><strong>Moneyline:</strong> Florida Gators (-974) | Ole Miss Rebels (+612)</p>
+  <p><strong>Spread:</strong> Florida Gators -13.5</p>
+  <p><strong>Moneyline:</strong> Florida Gators (-1148) | Ole Miss Rebels (+710)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Gators**: -12.5, Edge For Covering Spread: -2.4%
-- **Ole Miss Rebels**: 12.5, Edge For Covering Spread: -2.4%
+- **Florida Gators**: -13.5, Edge For Covering Spread: -2.1%
+- **Ole Miss Rebels**: 13.5, Edge For Covering Spread: -2.5%
 
 ### Moneyline
-- **Florida Gators Win Probability**: 86.8%, Moneyline Edge: -3.9%
-- **Ole Miss Rebels Win Probability**: 13.2%, Moneyline Edge: -0.8%
+- **Florida Gators Win Probability**: 87.6%, Moneyline Edge: -4.4%
+- **Ole Miss Rebels Win Probability**: 12.4%, Moneyline Edge: **0.1%**
 
 ### Total
-- **Predicted Total**: 146.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 149.0
+- Edge For Covering The Over: -4.9%
+- Edge For Covering The Under: **0.1%**
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Florida Gators (20-6) enters hostile territory as they take on Ole Miss Rebels (11-15) at The Pavilion at Ole Miss in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Florida Gators favored by 12.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Florida Gators (20-6) enters hostile territory as they take on Ole Miss Rebels (11-15) at The Pavilion at Ole Miss in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Florida Gators favored by 13.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 12.5-point spread screams mismatch. The books are asking Ole Miss Rebels to hang within two possessions, which based on the profiles, requires Florida Gators to play below their standard. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 13.5-point spread screams mismatch. The books are asking Ole Miss Rebels to hang within two possessions, which based on the profiles, requires Florida Gators to play below their standard. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Florida Gators** bring an offensive efficiency of 118.78 (ranked #33 nationally). This is an elite offense that can score in multiple ways. At 29.4% from three, they can't rely on the arc. Expect a paint-focused attack. 
+**Florida Gators** bring an offensive efficiency of 118.78 (ranked #32 nationally). This is an elite offense that can score in multiple ways. At 29.4% from three, they can't rely on the arc. Expect a paint-focused attack. 
 Meanwhile, **Ole Miss Rebels** counter with 109.24 offensive efficiency (#160). Points have been hard to come by, making every possession critical. At 33.6% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Florida Gators operate at a 72.5 tempo (#23), while Ole Miss Rebels play at 67.6 (#228). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.1) should create a standard flow. 
+Florida Gators operate at a 72.5 tempo (#24), while Ole Miss Rebels play at 67.6 (#228). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.1) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Florida Gators shoot 58.0% on two-pointers, while Ole Miss Rebels convert at 50.2%. Florida Gators has a clear edge in interior scoring efficiency. 
@@ -68,7 +68,7 @@ This looks like a mismatch on paper with Florida Gators significantly higher in 
 
 **Key Matchup: Florida Gators's Offense vs Ole Miss Rebels's Defense**
 
-Florida Gators bring a very strong offense (ranked #33) that could exploit Ole Miss Rebels's defensive vulnerabilities (ranked #193). 
+Florida Gators bring a very strong offense (ranked #32) that could exploit Ole Miss Rebels's defensive vulnerabilities (ranked #194). 
 
 
 ## Florida Gators
@@ -79,27 +79,27 @@ Florida Gators comes in ranked #6 overall by KenPom. The three-point shot hasn't
 - **Record:** 20-6
 - **Head Coach:** Todd Golden
 - **KenPom Rank:** #6
-- **Offensive Efficiency:** 118.8 (Rank: #33)
+- **Offensive Efficiency:** 118.8 (Rank: #32)
 - **Defensive Efficiency:** 98.0 (Rank: #21)
-- **Tempo:** 72.5 (Rank: #23)
+- **Tempo:** 72.5 (Rank: #24)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 58.0% (Rank: #23)
 - **3-Point Shooting:** 29.4% (Rank: #345)
-- **Free Throw Shooting:** 70.4% (Rank: #243)
+- **Free Throw Shooting:** 70.4% (Rank: #244)
 - **3-Point Rate:** 38.7% (Rank: #201)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 44.6% (Rank: #5)
-- **Opponent 3-Point Shooting:** 32.5% (Rank: #91)
-- **Block Percentage:** 12.4% (Rank: #46)
-- **Steal Rate:** 0.1% (Rank: #194)
+- **Opponent 3-Point Shooting:** 32.5% (Rank: #90)
+- **Block Percentage:** 12.4% (Rank: #45)
+- **Steal Rate:** 0.1% (Rank: #193)
 
 ### Team Metrics
 
-- **Assist Rate:** 53.3% (Rank: #158)
+- **Assist Rate:** 53.3% (Rank: #157)
 - **Experience:** 1.9 years (Rank: #67)
 - **Bench Minutes:** 24.3% (Rank: #331)
 - **Average Height:** 78.9" (Rank: #11)
@@ -116,7 +116,7 @@ Ole Miss Rebels comes in ranked #79 overall by KenPom.
 - **Home Arena:** The Pavilion at Ole Miss
 - **KenPom Rank:** #79
 - **Offensive Efficiency:** 109.2 (Rank: #160)
-- **Defensive Efficiency:** 108.8 (Rank: #193)
+- **Defensive Efficiency:** 108.8 (Rank: #194)
 - **Tempo:** 67.6 (Rank: #228)
 
 ### Shooting Breakdown
@@ -129,7 +129,7 @@ Ole Miss Rebels comes in ranked #79 overall by KenPom.
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 50.7% (Rank: #134)
-- **Opponent 3-Point Shooting:** 33.3% (Rank: #149)
+- **Opponent 3-Point Shooting:** 33.3% (Rank: #147)
 - **Block Percentage:** 13.3% (Rank: #28)
 - **Steal Rate:** 0.1% (Rank: #150)
 

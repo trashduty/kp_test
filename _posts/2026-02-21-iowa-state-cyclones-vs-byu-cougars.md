@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Iowa State Cyclones -3.5</p>
-  <p><strong>Moneyline:</strong> Iowa State Cyclones (-185) | BYU Cougars (+154)</p>
+  <p><strong>Spread:</strong> Iowa State Cyclones -3.0</p>
+  <p><strong>Moneyline:</strong> Iowa State Cyclones (-158) | BYU Cougars (+134)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Iowa State Cyclones**: -3.5, Edge For Covering Spread: -2.4%
-- **BYU Cougars**: 3.5, Edge For Covering Spread: -2.4%
+- **Iowa State Cyclones**: -3.0, Edge For Covering Spread: -2.0%
+- **BYU Cougars**: 3.0, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Iowa State Cyclones Win Probability**: 62.1%, Moneyline Edge: -2.8%
-- **BYU Cougars Win Probability**: 37.9%, Moneyline Edge: -1.5%
+- **Iowa State Cyclones Win Probability**: 60.4%, Moneyline Edge: -0.8%
+- **BYU Cougars Win Probability**: 39.6%, Moneyline Edge: -3.2%
 
 ### Total
 - **Predicted Total**: 155.5
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Iowa State Cyclones (23-3) travels to face BYU Cougars (19-7) at Marriott Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Iowa State Cyclones favored by 3.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Iowa State Cyclones (23-3) travels to face BYU Cougars (19-7) at Marriott Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Iowa State Cyclones favored by 3.0 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Iowa State Cyclones is viewed as the better team, but this isn't an overwhelming edge. BYU Cougars has a legitimate path to covering or winning outright. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.0-point spread indicates Iowa State Cyclones is viewed as the better team, but this isn't an overwhelming edge. BYU Cougars has a legitimate path to covering or winning outright. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Iowa State Cyclones** bring an offensive efficiency of 121.77 (ranked #13 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 39.8% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -68,7 +68,7 @@ On paper, Iowa State Cyclones holds the advantage as the higher-ranked team, but
 
 **Key Matchup: Iowa State Cyclones's Offense vs BYU Cougars's Defense**
 
-Iowa State Cyclones bring a elite offense (ranked #13) that could exploit BYU Cougars's defensive vulnerabilities (ranked #99). 
+Iowa State Cyclones bring a elite offense (ranked #13) that could exploit BYU Cougars's defensive vulnerabilities (ranked #97). 
 
 
 ## Iowa State Cyclones
@@ -80,7 +80,7 @@ Iowa State Cyclones comes in ranked #7 overall by KenPom. They're dangerous from
 - **Head Coach:** T.J. Otzelberger
 - **KenPom Rank:** #7
 - **Offensive Efficiency:** 121.8 (Rank: #13)
-- **Defensive Efficiency:** 94.9 (Rank: #6)
+- **Defensive Efficiency:** 94.9 (Rank: #5)
 - **Tempo:** 68.4 (Rank: #189)
 
 ### Shooting Breakdown
@@ -116,7 +116,7 @@ BYU Cougars comes in ranked #22 overall by KenPom. They boast one of the nation'
 - **Home Arena:** Marriott Center
 - **KenPom Rank:** #22
 - **Offensive Efficiency:** 120.2 (Rank: #19)
-- **Defensive Efficiency:** 104.8 (Rank: #99)
+- **Defensive Efficiency:** 104.8 (Rank: #97)
 - **Tempo:** 71.0 (Rank: #61)
 
 ### Shooting Breakdown
@@ -128,10 +128,10 @@ BYU Cougars comes in ranked #22 overall by KenPom. They boast one of the nation'
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 49.8% (Rank: #101)
-- **Opponent 3-Point Shooting:** 33.3% (Rank: #149)
+- **Opponent 2-Point Shooting:** 49.8% (Rank: #103)
+- **Opponent 3-Point Shooting:** 33.3% (Rank: #147)
 - **Block Percentage:** 12.6% (Rank: #41)
-- **Steal Rate:** 0.1% (Rank: #95)
+- **Steal Rate:** 0.1% (Rank: #96)
 
 ### Team Metrics
 

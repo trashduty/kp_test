@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kansas Jayhawks -10.5</p>
-  <p><strong>Moneyline:</strong> Cincinnati Bearcats (+445) | Kansas Jayhawks (-647)</p>
+  <p><strong>Moneyline:</strong> Cincinnati Bearcats (+450) | Kansas Jayhawks (-647)</p>
   <p><strong>Total:</strong> 134.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Cincinnati Bearcats**: 10.5, Edge For Covering Spread: -4.1%
-- **Kansas Jayhawks**: -10.5, Edge For Covering Spread: -0.6%
+- **Cincinnati Bearcats**: 10.5, Edge For Covering Spread: -4.7%
+- **Kansas Jayhawks**: -10.5, Edge For Covering Spread: -0.0%
 
 ### Moneyline
-- **Cincinnati Bearcats Win Probability**: 15.7%, Moneyline Edge: -2.6%
-- **Kansas Jayhawks Win Probability**: 84.3%, Moneyline Edge: -2.3%
+- **Cincinnati Bearcats Win Probability**: 15.6%, Moneyline Edge: -2.6%
+- **Kansas Jayhawks Win Probability**: 84.4%, Moneyline Edge: -2.2%
 
 ### Total
-- **Predicted Total**: 135.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- **Predicted Total**: 137.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.9%
 
 ---
 
@@ -87,23 +87,23 @@ Cincinnati Bearcats comes in ranked #50 overall by KenPom. Their defense has bee
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 50.9% (Rank: #212)
+- **2-Point Shooting:** 50.9% (Rank: #211)
 - **3-Point Shooting:** 32.2% (Rank: #266)
-- **Free Throw Shooting:** 67.5% (Rank: #332)
-- **3-Point Rate:** 43.5% (Rank: #101)
+- **Free Throw Shooting:** 67.5% (Rank: #331)
+- **3-Point Rate:** 43.5% (Rank: #100)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 47.5% (Rank: #45)
+- **Opponent 2-Point Shooting:** 47.5% (Rank: #43)
 - **Opponent 3-Point Shooting:** 31.9% (Rank: #66)
 - **Block Percentage:** 12.8% (Rank: #38)
 - **Steal Rate:** 0.1% (Rank: #199)
 
 ### Team Metrics
 
-- **Assist Rate:** 64.1% (Rank: #11)
+- **Assist Rate:** 64.1% (Rank: #10)
 - **Experience:** 2.3 years (Rank: #32)
-- **Bench Minutes:** 39.2% (Rank: #37)
+- **Bench Minutes:** 39.2% (Rank: #36)
 - **Average Height:** 78.5" (Rank: #31)
 
 ---
@@ -123,9 +123,9 @@ Kansas Jayhawks comes in ranked #14 overall by KenPom. On the defensive end, the
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 53.5% (Rank: #108)
+- **2-Point Shooting:** 53.5% (Rank: #109)
 - **3-Point Shooting:** 35.8% (Rank: #75)
-- **Free Throw Shooting:** 76.6% (Rank: #41)
+- **Free Throw Shooting:** 76.6% (Rank: #40)
 - **3-Point Rate:** 36.1% (Rank: #249)
 
 ### Defensive Stats

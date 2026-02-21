@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Houston Cougars -5.5</p>
-  <p><strong>Moneyline:</strong> Arizona Wildcats (+196) | Houston Cougars (-239)</p>
+  <p><strong>Moneyline:</strong> Arizona Wildcats (+192) | Houston Cougars (-232)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arizona Wildcats**: 5.5, Edge For Covering Spread: **0.4%**
-- **Houston Cougars**: -5.5, Edge For Covering Spread: -5.2%
+- **Arizona Wildcats**: 5.5, Edge For Covering Spread: -0.1%
+- **Houston Cougars**: -5.5, Edge For Covering Spread: -4.6%
 
 ### Moneyline
-- **Arizona Wildcats Win Probability**: 33.2%, Moneyline Edge: -0.5%
-- **Houston Cougars Win Probability**: 66.8%, Moneyline Edge: -3.7%
+- **Arizona Wildcats Win Probability**: 33.4%, Moneyline Edge: -0.8%
+- **Houston Cougars Win Probability**: 66.6%, Moneyline Edge: -3.3%
 
 ### Total
-- **Predicted Total**: 141.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 142.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 
@@ -61,7 +61,7 @@ Getting to the line matters too. Arizona Wildcats's free throw rate sits at 41.6
 #### X-Factors & Intangibles
 Playing at home, Houston Cougars get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Tommy Lloyd leads Arizona Wildcats while Kelvin Sampson guides Houston Cougars. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Both teams feature strong defenses (#3 and #7), so offense may be at a premium. 
+Both teams feature strong defenses (#3 and #6), so offense may be at a premium. 
 ### Game Storylines
 
 This matchup features two evenly-matched teams, with Arizona Wildcats at #3 and Houston Cougars at #5 in the KenPom rankings. Expect a competitive battle throughout. 
@@ -91,28 +91,28 @@ Arizona Wildcats comes in ranked #3 overall by KenPom. They boast one of the nat
 
 - **2-Point Shooting:** 56.0% (Rank: #51)
 - **3-Point Shooting:** 35.6% (Rank: #85)
-- **Free Throw Shooting:** 73.0% (Rank: #162)
+- **Free Throw Shooting:** 73.0% (Rank: #160)
 - **3-Point Rate:** 26.7% (Rank: #362)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 43.6% (Rank: #4)
-- **Opponent 3-Point Shooting:** 31.4% (Rank: #50)
+- **Opponent 3-Point Shooting:** 31.4% (Rank: #49)
 - **Block Percentage:** 11.2% (Rank: #84)
-- **Steal Rate:** 0.1% (Rank: #50)
+- **Steal Rate:** 0.1% (Rank: #49)
 
 ### Team Metrics
 
 - **Assist Rate:** 56.2% (Rank: #87)
 - **Experience:** 1.5 years (Rank: #152)
-- **Bench Minutes:** 29.5% (Rank: #259)
+- **Bench Minutes:** 29.5% (Rank: #258)
 - **Average Height:** 79.0" (Rank: #7)
 
 ---
 
 ## Houston Cougars
 
-Houston Cougars comes in ranked #5 overall by KenPom. Defensively, they've been rock solid, ranking #7 nationally in efficiency. 
+Houston Cougars comes in ranked #5 overall by KenPom. Defensively, they've been rock solid, ranking #6 nationally in efficiency. 
 
 ### Record & Ranking
 - **Record:** 23-3
@@ -120,27 +120,27 @@ Houston Cougars comes in ranked #5 overall by KenPom. Defensively, they've been 
 - **Home Arena:** Fertitta Center
 - **KenPom Rank:** #5
 - **Offensive Efficiency:** 119.9 (Rank: #25)
-- **Defensive Efficiency:** 94.9 (Rank: #7)
+- **Defensive Efficiency:** 94.9 (Rank: #6)
 - **Tempo:** 64.7 (Rank: #341)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 53.3% (Rank: #117)
+- **2-Point Shooting:** 53.3% (Rank: #118)
 - **3-Point Shooting:** 34.1% (Rank: #169)
-- **Free Throw Shooting:** 76.9% (Rank: #37)
+- **Free Throw Shooting:** 76.9% (Rank: #36)
 - **3-Point Rate:** 42.0% (Rank: #135)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 45.9% (Rank: #15)
-- **Opponent 3-Point Shooting:** 31.5% (Rank: #52)
+- **Opponent 3-Point Shooting:** 31.5% (Rank: #51)
 - **Block Percentage:** 13.2% (Rank: #30)
 - **Steal Rate:** 0.1% (Rank: #25)
 
 ### Team Metrics
 
-- **Assist Rate:** 54.3% (Rank: #134)
+- **Assist Rate:** 54.3% (Rank: #135)
 - **Experience:** 1.8 years (Rank: #96)
-- **Bench Minutes:** 28.8% (Rank: #276)
+- **Bench Minutes:** 28.8% (Rank: #274)
 - **Average Height:** 77.8" (Rank: #101)
 

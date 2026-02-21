@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Arkansas Razorbacks -10.5</p>
-  <p><strong>Moneyline:</strong> Missouri Tigers (+445) | Arkansas Razorbacks (-647)</p>
+  <p><strong>Spread:</strong> Arkansas Razorbacks -10.0</p>
+  <p><strong>Moneyline:</strong> Missouri Tigers (+412) | Arkansas Razorbacks (-566)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Missouri Tigers**: 10.5, Edge For Covering Spread: -4.0%
-- **Arkansas Razorbacks**: -10.5, Edge For Covering Spread: -0.8%
+- **Missouri Tigers**: 10.0, Edge For Covering Spread: -4.7%
+- **Arkansas Razorbacks**: -10.0, Edge For Covering Spread: -0.1%
 
 ### Moneyline
-- **Missouri Tigers Win Probability**: 15.7%, Moneyline Edge: -2.6%
-- **Arkansas Razorbacks Win Probability**: 84.3%, Moneyline Edge: -2.3%
+- **Missouri Tigers Win Probability**: 16.3%, Moneyline Edge: -3.2%
+- **Arkansas Razorbacks Win Probability**: 83.7%, Moneyline Edge: -1.3%
 
 ### Total
-- **Predicted Total**: 161.0
-- Edge For Covering The Over: -3.1%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 160.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -3.9%
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Arkansas Razorbacks (19-7) hosts Missouri Tigers (18-8) at Bud Walton Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Arkansas Razorbacks favored by 10.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Arkansas Razorbacks (19-7) hosts Missouri Tigers (18-8) at Bud Walton Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Arkansas Razorbacks favored by 10.0 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us Arkansas Razorbacks has clear advantages, but games aren't played on paper. Missouri Tigers needs to punch above their weight class to keep this close. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 10.0 points tells us Arkansas Razorbacks has clear advantages, but games aren't played on paper. Missouri Tigers needs to punch above their weight class to keep this close. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Missouri Tigers** bring an offensive efficiency of 115.96 (ranked #59 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.4% three-point shooting is serviceable but won't scare anyone. 
 Meanwhile, **Arkansas Razorbacks** counter with 123.04 offensive efficiency (#4). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 37.7%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-Missouri Tigers operate at a 68.6 tempo (#180), while Arkansas Razorbacks play at 72.3 (#26). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.5) should create a standard flow. 
+Missouri Tigers operate at a 68.6 tempo (#180), while Arkansas Razorbacks play at 72.3 (#27). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 70.5) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Missouri Tigers shoot 56.8% on two-pointers, while Arkansas Razorbacks convert at 57.2%. Both teams are evenly matched in paint efficiency. 
@@ -94,23 +94,23 @@ Missouri Tigers comes in ranked #52 overall by KenPom.
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 46.8% (Rank: #28)
-- **Opponent 3-Point Shooting:** 36.2% (Rank: #308)
+- **Opponent 2-Point Shooting:** 46.8% (Rank: #27)
+- **Opponent 3-Point Shooting:** 36.2% (Rank: #307)
 - **Block Percentage:** 11.0% (Rank: #96)
-- **Steal Rate:** 0.1% (Rank: #161)
+- **Steal Rate:** 0.1% (Rank: #160)
 
 ### Team Metrics
 
-- **Assist Rate:** 52.5% (Rank: #180)
+- **Assist Rate:** 52.5% (Rank: #179)
 - **Experience:** 2.2 years (Rank: #35)
-- **Bench Minutes:** 36.0% (Rank: #87)
+- **Bench Minutes:** 36.0% (Rank: #88)
 - **Average Height:** 79.0" (Rank: #8)
 
 ---
 
 ## Arkansas Razorbacks
 
-Arkansas Razorbacks comes in ranked #17 overall by KenPom. They're dangerous from beyond the arc, shooting 37.7% from three (ranked #24 nationally), so expect them to let it fly from deep. 
+Arkansas Razorbacks comes in ranked #17 overall by KenPom. They're dangerous from beyond the arc, shooting 37.7% from three (ranked #25 nationally), so expect them to let it fly from deep. 
 
 ### Record & Ranking
 - **Record:** 19-7
@@ -119,21 +119,21 @@ Arkansas Razorbacks comes in ranked #17 overall by KenPom. They're dangerous fro
 - **KenPom Rank:** #17
 - **Offensive Efficiency:** 123.0 (Rank: #4)
 - **Defensive Efficiency:** 107.1 (Rank: #155)
-- **Tempo:** 72.3 (Rank: #26)
+- **Tempo:** 72.3 (Rank: #27)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 57.2% (Rank: #35)
-- **3-Point Shooting:** 37.7% (Rank: #24)
+- **3-Point Shooting:** 37.7% (Rank: #25)
 - **Free Throw Shooting:** 74.2% (Rank: #128)
 - **3-Point Rate:** 34.9% (Rank: #275)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.8% (Rank: #231)
-- **Opponent 3-Point Shooting:** 31.1% (Rank: #45)
+- **Opponent 2-Point Shooting:** 52.8% (Rank: #230)
+- **Opponent 3-Point Shooting:** 31.1% (Rank: #44)
 - **Block Percentage:** 13.9% (Rank: #20)
-- **Steal Rate:** 0.1% (Rank: #142)
+- **Steal Rate:** 0.1% (Rank: #143)
 
 ### Team Metrics
 
