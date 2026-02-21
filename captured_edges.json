@@ -3874,5 +3874,17 @@
   "Fairleigh Dickinson Knights vs. New Haven Chargers|Fairleigh Dickinson Knights|moneyline": {
     "captured_at": "2026-02-21T08:10:57.963241+00:00",
     "edge_type": "moneyline"
+  },
+  "UMBC Retrievers vs. Albany Great Danes|UMBC Retrievers|moneyline": {
+    "captured_at": "2026-02-21T13:20:45.152017+00:00",
+    "edge_type": "moneyline"
+  },
+  "Elon Phoenix vs. North Carolina A&T Aggies|over": {
+    "captured_at": "2026-02-21T13:20:45.169932+00:00",
+    "edge_type": "over"
+  },
+  "Bellarmine Knights vs. Eastern Kentucky Colonels|Bellarmine Knights|moneyline": {
+    "captured_at": "2026-02-21T13:20:45.170040+00:00",
+    "edge_type": "moneyline"
   }
 }
