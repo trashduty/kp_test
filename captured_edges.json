@@ -3886,5 +3886,9 @@
   "Bellarmine Knights vs. Eastern Kentucky Colonels|Bellarmine Knights|moneyline": {
     "captured_at": "2026-02-21T13:20:45.170040+00:00",
     "edge_type": "moneyline"
+  },
+  "UMBC Retrievers vs. Albany Great Danes|UMBC Retrievers|spread": {
+    "captured_at": "2026-02-21T14:09:59.317882+00:00",
+    "edge_type": "spread"
   }
 }
