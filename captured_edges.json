@@ -3722,5 +3722,69 @@
   "Charlotte 49ers vs. East Carolina Pirates|Charlotte 49ers|moneyline": {
     "captured_at": "2026-02-20T23:11:20.438590+00:00",
     "edge_type": "moneyline"
+  },
+  "The Citadel Bulldogs vs. Chattanooga Mocs|The Citadel Bulldogs|spread": {
+    "captured_at": "2026-02-21T00:35:06.259841+00:00",
+    "edge_type": "spread"
+  },
+  "Fordham Rams vs. Davidson Wildcats|Davidson Wildcats|spread": {
+    "captured_at": "2026-02-21T00:35:06.260792+00:00",
+    "edge_type": "spread"
+  },
+  "Fordham Rams vs. Davidson Wildcats|Davidson Wildcats|moneyline": {
+    "captured_at": "2026-02-21T00:35:06.260831+00:00",
+    "edge_type": "moneyline"
+  },
+  "Fordham Rams vs. Davidson Wildcats|under": {
+    "captured_at": "2026-02-21T00:35:06.260872+00:00",
+    "edge_type": "under"
+  },
+  "UT-Arlington Mavericks vs. Utah Valley Wolverines|UT-Arlington Mavericks|spread": {
+    "captured_at": "2026-02-21T00:35:06.262886+00:00",
+    "edge_type": "spread"
+  },
+  "Northern Illinois Huskies vs. Ohio Bobcats|Northern Illinois Huskies|spread": {
+    "captured_at": "2026-02-21T00:35:06.263648+00:00",
+    "edge_type": "spread"
+  },
+  "Stony Brook Seawolves vs. Hampton Pirates|Stony Brook Seawolves|spread": {
+    "captured_at": "2026-02-21T00:35:06.265661+00:00",
+    "edge_type": "spread"
+  },
+  "Stony Brook Seawolves vs. Hampton Pirates|Stony Brook Seawolves|moneyline": {
+    "captured_at": "2026-02-21T00:35:06.265724+00:00",
+    "edge_type": "moneyline"
+  },
+  "South Alabama Jaguars vs. Troy Trojans|South Alabama Jaguars|spread": {
+    "captured_at": "2026-02-21T00:35:06.266174+00:00",
+    "edge_type": "spread"
+  },
+  "Central Michigan Chippewas vs. Western Michigan Broncos|Central Michigan Chippewas|moneyline": {
+    "captured_at": "2026-02-21T00:35:06.267872+00:00",
+    "edge_type": "moneyline"
+  },
+  "Colorado St Rams vs. San Diego St Aztecs|San Diego St Aztecs|moneyline": {
+    "captured_at": "2026-02-21T00:35:06.268489+00:00",
+    "edge_type": "moneyline"
+  },
+  "Northern Iowa Panthers vs. Southern Illinois Salukis|under": {
+    "captured_at": "2026-02-21T00:35:06.268792+00:00",
+    "edge_type": "under"
+  },
+  "Richmond Spiders vs. St. Bonaventure Bonnies|Richmond Spiders|moneyline": {
+    "captured_at": "2026-02-21T00:35:06.269053+00:00",
+    "edge_type": "moneyline"
+  },
+  "Fresno St Bulldogs vs. New Mexico Lobos|under": {
+    "captured_at": "2026-02-21T00:35:06.270564+00:00",
+    "edge_type": "under"
+  },
+  "Bradley Braves vs. Illinois St Redbirds|Illinois St Redbirds|spread": {
+    "captured_at": "2026-02-21T00:35:06.270836+00:00",
+    "edge_type": "spread"
+  },
+  "Saint Joseph's Hawks vs. Loyola (Chi) Ramblers|Saint Joseph's Hawks|spread": {
+    "captured_at": "2026-02-21T00:35:06.273644+00:00",
+    "edge_type": "spread"
   }
 }
