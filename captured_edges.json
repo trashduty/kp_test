@@ -3858,5 +3858,17 @@
   "Howard Bison vs. North Carolina Central Eagles|Howard Bison|spread": {
     "captured_at": "2026-02-21T02:59:32.179000+00:00",
     "edge_type": "spread"
+  },
+  "St. Francis (PA) Red Flash vs. Wagner Seahawks|over": {
+    "captured_at": "2026-02-21T05:22:34.757916+00:00",
+    "edge_type": "over"
+  },
+  "Mercyhurst Lakers vs. LIU Sharks|Mercyhurst Lakers|spread": {
+    "captured_at": "2026-02-21T05:22:34.759157+00:00",
+    "edge_type": "spread"
+  },
+  "Florida A&M Rattlers vs. Alabama St Hornets|Florida A&M Rattlers|moneyline": {
+    "captured_at": "2026-02-21T05:22:34.765937+00:00",
+    "edge_type": "moneyline"
   }
 }
