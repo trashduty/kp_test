@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Mt. St. Mary's Mountaineers -7.5</p>
-  <p><strong>Moneyline:</strong> Canisius Golden Griffins (+330) | Mt. St. Mary's Mountaineers (-430)</p>
+  <p><strong>Moneyline:</strong> Canisius Golden Griffins (+280) | Mt. St. Mary's Mountaineers (-360)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Canisius Golden Griffins**: 7.5, Edge For Covering Spread: -4.1%
-- **Mt. St. Mary's Mountaineers**: -7.5, Edge For Covering Spread: -0.6%
+- **Canisius Golden Griffins**: 7.5, Edge For Covering Spread: -3.0%
+- **Mt. St. Mary's Mountaineers**: -7.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Canisius Golden Griffins Win Probability**: 20.1%, Moneyline Edge: -3.1%
-- **Mt. St. Mary's Mountaineers Win Probability**: 79.9%, Moneyline Edge: -1.3%
+- **Canisius Golden Griffins Win Probability**: 21.6%, Moneyline Edge: -4.7%
+- **Mt. St. Mary's Mountaineers Win Probability**: 78.4%, Moneyline Edge: **0.2%**
 
 ### Total
 - **Predicted Total**: 133.5

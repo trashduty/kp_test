@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> North Texas Mean Green -2.5</p>
-  <p><strong>Moneyline:</strong> Florida Atlantic Owls (+125) | North Texas Mean Green (-149)</p>
+  <p><strong>Moneyline:</strong> Florida Atlantic Owls (+122) | North Texas Mean Green (-145)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **North Texas Mean Green**: -2.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Florida Atlantic Owls Win Probability**: 43.8%, Moneyline Edge: -0.6%
-- **North Texas Mean Green Win Probability**: 56.2%, Moneyline Edge: -3.6%
+- **Florida Atlantic Owls Win Probability**: 44.1%, Moneyline Edge: -0.9%
+- **North Texas Mean Green Win Probability**: 55.9%, Moneyline Edge: -3.3%
 
 ### Total
 - **Predicted Total**: 139.0
-- Edge For Covering The Over: -5.2%
-- Edge For Covering The Under: **0.4%**
+- Edge For Covering The Over: -4.9%
+- Edge For Covering The Under: **0.2%**
 
 ---
 

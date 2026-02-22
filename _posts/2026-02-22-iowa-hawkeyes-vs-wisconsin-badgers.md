@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wisconsin Badgers -2.5</p>
-  <p><strong>Moneyline:</strong> Iowa Hawkeyes (+126) | Wisconsin Badgers (-150)</p>
+  <p><strong>Moneyline:</strong> Iowa Hawkeyes (+127) | Wisconsin Badgers (-150)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,11 +24,11 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Iowa Hawkeyes**: 2.5, Edge For Covering Spread: -1.2%
-- **Wisconsin Badgers**: -2.5, Edge For Covering Spread: -3.5%
+- **Iowa Hawkeyes**: 2.5, Edge For Covering Spread: -0.5%
+- **Wisconsin Badgers**: -2.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Iowa Hawkeyes Win Probability**: 41.6%, Moneyline Edge: -2.6%
+- **Iowa Hawkeyes Win Probability**: 41.6%, Moneyline Edge: -2.4%
 - **Wisconsin Badgers Win Probability**: 58.4%, Moneyline Edge: -1.6%
 
 ### Total

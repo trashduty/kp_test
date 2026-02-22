@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Bucknell Bison -2.5</p>
-  <p><strong>Moneyline:</strong> Holy Cross Crusaders (+138) | Bucknell Bison (-163)</p>
+  <p><strong>Moneyline:</strong> Holy Cross Crusaders (+127) | Bucknell Bison (-150)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Holy Cross Crusaders**: 2.5, Edge For Covering Spread: -0.5%
-- **Bucknell Bison**: -2.5, Edge For Covering Spread: -4.3%
+- **Holy Cross Crusaders**: 2.5, Edge For Covering Spread: -1.8%
+- **Bucknell Bison**: -2.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Holy Cross Crusaders Win Probability**: 38.7%, Moneyline Edge: -3.3%
-- **Bucknell Bison Win Probability**: 61.3%, Moneyline Edge: -0.7%
+- **Holy Cross Crusaders Win Probability**: 39.6%, Moneyline Edge: -4.3%
+- **Bucknell Bison Win Probability**: 60.4%, Moneyline Edge: **0.4%**
 
 ### Total
 - **Predicted Total**: 141.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.9%
+- Edge For Covering The Over: -3.3%
+- Edge For Covering The Under: -1.5%
 
 ---
 

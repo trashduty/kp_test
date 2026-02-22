@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Wright St Raiders -4.0</p>
-  <p><strong>Moneyline:</strong> Robert Morris Colonials (+155) | Wright St Raiders (-187)</p>
+  <p><strong>Spread:</strong> Wright St Raiders -3.5</p>
+  <p><strong>Moneyline:</strong> Robert Morris Colonials (+150) | Wright St Raiders (-182)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Robert Morris Colonials**: 4.0, Edge For Covering Spread: -2.4%
-- **Wright St Raiders**: -4.0, Edge For Covering Spread: -2.4%
+- **Robert Morris Colonials**: 3.5, Edge For Covering Spread: -2.5%
+- **Wright St Raiders**: -3.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Robert Morris Colonials Win Probability**: 34.8%, Moneyline Edge: -4.4%
-- **Wright St Raiders Win Probability**: 65.2%, Moneyline Edge: -0.0%
+- **Robert Morris Colonials Win Probability**: 35.2%, Moneyline Edge: -4.8%
+- **Wright St Raiders Win Probability**: 64.8%, Moneyline Edge: **0.2%**
 
 ### Total
 - **Predicted Total**: 146.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Wright St Raiders (18-10) hosts Robert Morris Colonials (18-10) at Nutter Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Wright St Raiders favored by 4.0 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Wright St Raiders (18-10) hosts Robert Morris Colonials (18-10) at Nutter Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Wright St Raiders favored by 3.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.0-point spread indicates Wright St Raiders is viewed as the better team, but this isn't an overwhelming edge. Robert Morris Colonials has a legitimate path to covering or winning outright. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 3.5-point spread indicates Wright St Raiders is viewed as the better team, but this isn't an overwhelming edge. Robert Morris Colonials has a legitimate path to covering or winning outright. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Robert Morris Colonials** bring an offensive efficiency of 113.89 (ranked #76 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 38.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

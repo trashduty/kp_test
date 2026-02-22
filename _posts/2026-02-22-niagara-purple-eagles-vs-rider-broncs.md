@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Niagara Purple Eagles -1.5</p>
-  <p><strong>Moneyline:</strong> Niagara Purple Eagles (-118) | Rider Broncs (-102)</p>
+  <p><strong>Moneyline:</strong> Niagara Purple Eagles (-120) | Rider Broncs (-100)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Niagara Purple Eagles**: -1.5, Edge For Covering Spread: -1.7%
-- **Rider Broncs**: 1.5, Edge For Covering Spread: -2.8%
+- **Niagara Purple Eagles**: -1.5, Edge For Covering Spread: -3.0%
+- **Rider Broncs**: 1.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Niagara Purple Eagles Win Probability**: 52.4%, Moneyline Edge: -1.8%
-- **Rider Broncs Win Probability**: 47.6%, Moneyline Edge: -2.9%
+- **Niagara Purple Eagles Win Probability**: 52.6%, Moneyline Edge: -1.9%
+- **Rider Broncs Win Probability**: 47.4%, Moneyline Edge: -2.6%
 
 ### Total
 - **Predicted Total**: 131.5

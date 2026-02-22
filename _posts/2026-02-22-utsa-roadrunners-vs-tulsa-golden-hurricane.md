@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tulsa Golden Hurricane -22.5</p>
-  <p><strong>Moneyline:</strong> UTSA Roadrunners (+2200) | Tulsa Golden Hurricane (-8890)</p>
+  <p><strong>Moneyline:</strong> UTSA Roadrunners (+2095) | Tulsa Golden Hurricane (-8890)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Tulsa Golden Hurricane**: -22.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **UTSA Roadrunners Win Probability**: 3.0%, Moneyline Edge: -1.4%
-- **Tulsa Golden Hurricane Win Probability**: 97.0%, Moneyline Edge: -1.8%
+- **UTSA Roadrunners Win Probability**: 3.0%, Moneyline Edge: -1.5%
+- **Tulsa Golden Hurricane Win Probability**: 97.0%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 158.0
-- Edge For Covering The Over: -3.1%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 

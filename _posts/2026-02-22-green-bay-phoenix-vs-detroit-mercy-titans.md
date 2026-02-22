@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Detroit Mercy Titans -1.5</p>
-  <p><strong>Moneyline:</strong> Green Bay Phoenix (+103) | Detroit Mercy Titans (-123)</p>
+  <p><strong>Moneyline:</strong> Green Bay Phoenix (-101) | Detroit Mercy Titans (-119)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Green Bay Phoenix**: 1.5, Edge For Covering Spread: -2.9%
-- **Detroit Mercy Titans**: -1.5, Edge For Covering Spread: -1.8%
+- **Green Bay Phoenix**: 1.5, Edge For Covering Spread: -3.5%
+- **Detroit Mercy Titans**: -1.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Green Bay Phoenix Win Probability**: 44.5%, Moneyline Edge: -4.6%
-- **Detroit Mercy Titans Win Probability**: 55.5%, Moneyline Edge: **0.2%**
+- **Green Bay Phoenix Win Probability**: 45.0%, Moneyline Edge: -5.2%
+- **Detroit Mercy Titans Win Probability**: 55.0%, Moneyline Edge: **0.6%**
 
 ### Total
 - **Predicted Total**: 149.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Over: -0.4%
+- Edge For Covering The Under: -4.3%
 
 ---
 

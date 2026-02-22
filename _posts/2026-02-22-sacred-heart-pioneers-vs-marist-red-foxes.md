@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Marist Red Foxes -7.5</p>
+  <p><strong>Spread:</strong> Marist Red Foxes -8.5</p>
   <p><strong>Moneyline:</strong> Sacred Heart Pioneers (+300) | Marist Red Foxes (-400)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Sacred Heart Pioneers**: 7.5, Edge For Covering Spread: -3.7%
-- **Marist Red Foxes**: -7.5, Edge For Covering Spread: -1.3%
+- **Sacred Heart Pioneers**: 8.5, Edge For Covering Spread: -7.3%
+- **Marist Red Foxes**: -8.5, Edge For Covering Spread: **2.7%**
 
 ### Moneyline
 - **Sacred Heart Pioneers Win Probability**: 19.9%, Moneyline Edge: -5.1%
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Marist Red Foxes (17-10) hosts Sacred Heart Pioneers (12-17) at McCann Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Marist Red Foxes favored by 7.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Marist Red Foxes (17-10) hosts Sacred Heart Pioneers (12-17) at McCann Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Marist Red Foxes favored by 8.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us Marist Red Foxes has clear advantages, but games aren't played on paper. Sacred Heart Pioneers needs to punch above their weight class to keep this close. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 8.5 points tells us Marist Red Foxes has clear advantages, but games aren't played on paper. Sacred Heart Pioneers needs to punch above their weight class to keep this close. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Sacred Heart Pioneers** bring an offensive efficiency of 108.29 (ranked #178 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Merrimack Warriors -7.5</p>
-  <p><strong>Moneyline:</strong> Iona Gaels (+290) | Merrimack Warriors (-375)</p>
+  <p><strong>Moneyline:</strong> Iona Gaels (+270) | Merrimack Warriors (-340)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -25,16 +25,16 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **Iona Gaels**: 7.5, Edge For Covering Spread: -4.1%
-- **Merrimack Warriors**: -7.5, Edge For Covering Spread: -0.7%
+- **Merrimack Warriors**: -7.5, Edge For Covering Spread: -0.6%
 
 ### Moneyline
-- **Iona Gaels Win Probability**: 22.4%, Moneyline Edge: -3.2%
-- **Merrimack Warriors Win Probability**: 77.6%, Moneyline Edge: -1.3%
+- **Iona Gaels Win Probability**: 23.3%, Moneyline Edge: -3.8%
+- **Merrimack Warriors Win Probability**: 76.7%, Moneyline Edge: -0.5%
 
 ### Total
-- **Predicted Total**: 138.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 137.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

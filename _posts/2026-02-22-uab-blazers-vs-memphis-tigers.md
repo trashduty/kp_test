@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Memphis Tigers -4.5</p>
-  <p><strong>Moneyline:</strong> UAB Blazers (+180) | Memphis Tigers (-219)</p>
+  <p><strong>Moneyline:</strong> UAB Blazers (+170) | Memphis Tigers (-207)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UAB Blazers**: 4.5, Edge For Covering Spread: -2.8%
-- **Memphis Tigers**: -4.5, Edge For Covering Spread: -1.9%
+- **UAB Blazers**: 4.5, Edge For Covering Spread: -4.0%
+- **Memphis Tigers**: -4.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **UAB Blazers Win Probability**: 30.1%, Moneyline Edge: -5.6%
-- **Memphis Tigers Win Probability**: 69.9%, Moneyline Edge: **1.2%**
+- **UAB Blazers Win Probability**: 30.7%, Moneyline Edge: -6.3%
+- **Memphis Tigers Win Probability**: 69.3%, Moneyline Edge: **1.8%**
 
 ### Total
 - **Predicted Total**: 150.0
-- Edge For Covering The Over: -5.7%
-- Edge For Covering The Under: **0.9%**
+- Edge For Covering The Over: -6.3%
+- Edge For Covering The Under: **1.5%**
 
 ---
 

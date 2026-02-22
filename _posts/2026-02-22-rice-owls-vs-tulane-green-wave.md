@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tulane Green Wave -5.5</p>
-  <p><strong>Moneyline:</strong> Rice Owls (+212) | Tulane Green Wave (-259)</p>
+  <p><strong>Moneyline:</strong> Rice Owls (+202) | Tulane Green Wave (-250)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Rice Owls**: 5.5, Edge For Covering Spread: -4.0%
-- **Tulane Green Wave**: -5.5, Edge For Covering Spread: -0.8%
+- **Rice Owls**: 5.5, Edge For Covering Spread: -4.5%
+- **Tulane Green Wave**: -5.5, Edge For Covering Spread: -0.2%
 
 ### Moneyline
-- **Rice Owls Win Probability**: 28.9%, Moneyline Edge: -3.1%
-- **Tulane Green Wave Win Probability**: 71.1%, Moneyline Edge: -1.0%
+- **Rice Owls Win Probability**: 29.3%, Moneyline Edge: -3.7%
+- **Tulane Green Wave Win Probability**: 70.7%, Moneyline Edge: -0.7%
 
 ### Total
-- **Predicted Total**: 145.5
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 146.0
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -2.8%
 
 ---
 

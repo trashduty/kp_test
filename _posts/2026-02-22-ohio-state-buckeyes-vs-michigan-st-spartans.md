@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Michigan St Spartans -10.5</p>
-  <p><strong>Moneyline:</strong> Ohio State Buckeyes (+432) | Michigan St Spartans (-624)</p>
+  <p><strong>Spread:</strong> Michigan St Spartans -9.5</p>
+  <p><strong>Moneyline:</strong> Ohio State Buckeyes (+387) | Michigan St Spartans (-546)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ohio State Buckeyes**: 10.5, Edge For Covering Spread: -1.7%
-- **Michigan St Spartans**: -10.5, Edge For Covering Spread: -3.1%
+- **Ohio State Buckeyes**: 9.5, Edge For Covering Spread: -1.7%
+- **Michigan St Spartans**: -9.5, Edge For Covering Spread: -3.1%
 
 ### Moneyline
-- **Ohio State Buckeyes Win Probability**: 19.4%, Moneyline Edge: **0.7%**
-- **Michigan St Spartans Win Probability**: 80.6%, Moneyline Edge: -5.6%
+- **Ohio State Buckeyes Win Probability**: 20.3%, Moneyline Edge: -0.3%
+- **Michigan St Spartans Win Probability**: 79.7%, Moneyline Edge: -4.8%
 
 ### Total
-- **Predicted Total**: 146.5
-- Edge For Covering The Over: -3.3%
-- Edge For Covering The Under: -1.4%
+- **Predicted Total**: 146.0
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Michigan St Spartans (21-5) hosts Ohio State Buckeyes (17-9) at Breslin Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Michigan St Spartans favored by 10.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Michigan St Spartans (21-5) hosts Ohio State Buckeyes (17-9) at Breslin Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Michigan St Spartans favored by 9.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us Michigan St Spartans has clear advantages, but games aren't played on paper. Ohio State Buckeyes needs to punch above their weight class to keep this close. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 9.5 points tells us Michigan St Spartans has clear advantages, but games aren't played on paper. Ohio State Buckeyes needs to punch above their weight class to keep this close. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Ohio State Buckeyes** bring an offensive efficiency of 118.12 (ranked #39 nationally). This is an elite offense that can score in multiple ways. Their 34.9% three-point shooting is serviceable but won't scare anyone. 

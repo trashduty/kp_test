@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **Kansas Jayhawks Win Probability**: N/A, Moneyline Edge: 0.0%
 
 ### Total
-- **Predicted Total**: 136.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- **Predicted Total**: 136.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

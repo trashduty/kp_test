@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Siena Saints -5.5</p>
-  <p><strong>Moneyline:</strong> Saint Peter's Peacocks (+220) | Siena Saints (-270)</p>
+  <p><strong>Moneyline:</strong> Saint Peter's Peacocks (+195) | Siena Saints (-235)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Saint Peter's Peacocks**: 5.5, Edge For Covering Spread: -3.5%
-- **Siena Saints**: -5.5, Edge For Covering Spread: -1.2%
+- **Saint Peter's Peacocks**: 5.5, Edge For Covering Spread: -2.4%
+- **Siena Saints**: -5.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Saint Peter's Peacocks Win Probability**: 30.5%, Moneyline Edge: -0.8%
-- **Siena Saints Win Probability**: 69.5%, Moneyline Edge: -3.5%
+- **Saint Peter's Peacocks Win Probability**: 31.8%, Moneyline Edge: -2.1%
+- **Siena Saints Win Probability**: 68.2%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 137.0

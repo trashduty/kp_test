@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Towson Tigers -2.5</p>
-  <p><strong>Moneyline:</strong> Towson Tigers (-141) | Drexel Dragons (+119)</p>
+  <p><strong>Spread:</strong> Towson Tigers -2.0</p>
+  <p><strong>Moneyline:</strong> Towson Tigers (-137) | Drexel Dragons (+115)</p>
   <p><strong>Total:</strong> 132.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Towson Tigers**: -2.5, Edge For Covering Spread: -6.4%
-- **Drexel Dragons**: 2.5, Edge For Covering Spread: **1.7%**
+- **Towson Tigers**: -2.0, Edge For Covering Spread: -7.2%
+- **Drexel Dragons**: 2.0, Edge For Covering Spread: **2.5%**
 
 ### Moneyline
-- **Towson Tigers Win Probability**: 52.6%, Moneyline Edge: -5.9%
-- **Drexel Dragons Win Probability**: 47.4%, Moneyline Edge: **1.8%**
+- **Towson Tigers Win Probability**: 52.2%, Moneyline Edge: -5.7%
+- **Drexel Dragons Win Probability**: 47.8%, Moneyline Edge: **1.3%**
 
 ### Total
 - **Predicted Total**: 129.5
-- Edge For Covering The Over: -6.9%
-- Edge For Covering The Under: **2.2%**
+- Edge For Covering The Over: -6.3%
+- Edge For Covering The Under: **1.6%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Towson Tigers (14-13) travels to face Drexel Dragons (14-14) at Daskalakis Athletic Center in what shapes up to be a competitive matchup. The early betting action has shaped into Towson Tigers favored by 2.5 points, with the total sitting at 132.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Towson Tigers (14-13) travels to face Drexel Dragons (14-14) at Daskalakis Athletic Center in what shapes up to be a competitive matchup. The early betting action has shaped into Towson Tigers favored by 2.0 points, with the total sitting at 132.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Towson Tigers's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 132.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Towson Tigers's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 132.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **Towson Tigers** bring an offensive efficiency of 103.17 (ranked #282 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 28.1% from three, they can't rely on the arc. Expect a paint-focused attack. 

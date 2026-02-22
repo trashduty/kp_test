@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Youngstown St Penguins -3.5</p>
-  <p><strong>Moneyline:</strong> Northern Kentucky Norse (+140) | Youngstown St Penguins (-168)</p>
+  <p><strong>Moneyline:</strong> Northern Kentucky Norse (+137) | Youngstown St Penguins (-162)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northern Kentucky Norse**: 3.5, Edge For Covering Spread: -3.8%
-- **Youngstown St Penguins**: -3.5, Edge For Covering Spread: -0.9%
+- **Northern Kentucky Norse**: 3.5, Edge For Covering Spread: -4.1%
+- **Youngstown St Penguins**: -3.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Northern Kentucky Norse Win Probability**: 38.6%, Moneyline Edge: -3.1%
-- **Youngstown St Penguins Win Probability**: 61.4%, Moneyline Edge: -1.3%
+- **Northern Kentucky Norse Win Probability**: 38.8%, Moneyline Edge: -3.3%
+- **Youngstown St Penguins Win Probability**: 61.2%, Moneyline Edge: -0.7%
 
 ### Total
 - **Predicted Total**: 153.0

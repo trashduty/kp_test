@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Quinnipiac Bobcats -5.5</p>
-  <p><strong>Moneyline:</strong> Fairfield Stags (+195) | Quinnipiac Bobcats (-237)</p>
+  <p><strong>Spread:</strong> Quinnipiac Bobcats -6.5</p>
+  <p><strong>Moneyline:</strong> Fairfield Stags (+210) | Quinnipiac Bobcats (-254)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fairfield Stags**: 5.5, Edge For Covering Spread: -3.2%
-- **Quinnipiac Bobcats**: -5.5, Edge For Covering Spread: -1.6%
+- **Fairfield Stags**: 6.5, Edge For Covering Spread: -3.5%
+- **Quinnipiac Bobcats**: -6.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Fairfield Stags Win Probability**: 30.3%, Moneyline Edge: -3.6%
-- **Quinnipiac Bobcats Win Probability**: 69.7%, Moneyline Edge: -0.6%
+- **Fairfield Stags Win Probability**: 29.5%, Moneyline Edge: -2.8%
+- **Quinnipiac Bobcats Win Probability**: 70.5%, Moneyline Edge: -1.3%
 
 ### Total
 - **Predicted Total**: 148.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Quinnipiac Bobcats (18-10) hosts Fairfield Stags (17-11) at M&T Bank Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Quinnipiac Bobcats favored by 5.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Quinnipiac Bobcats (18-10) hosts Fairfield Stags (17-11) at M&T Bank Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Quinnipiac Bobcats favored by 6.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Quinnipiac Bobcats is viewed as the better team, but this isn't an overwhelming edge. Fairfield Stags has a legitimate path to covering or winning outright. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 6.5-point spread indicates Quinnipiac Bobcats is viewed as the better team, but this isn't an overwhelming edge. Fairfield Stags has a legitimate path to covering or winning outright. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Fairfield Stags** bring an offensive efficiency of 109.76 (ranked #150 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.8% three-point shooting is serviceable but won't scare anyone. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Oakland Golden Grizzlies -7.5</p>
-  <p><strong>Moneyline:</strong> Milwaukee Panthers (+255) | Oakland Golden Grizzlies (-315)</p>
+  <p><strong>Moneyline:</strong> Milwaukee Panthers (+265) | Oakland Golden Grizzlies (-332)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Oakland Golden Grizzlies**: -7.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Milwaukee Panthers Win Probability**: 24.0%, Moneyline Edge: -4.1%
-- **Oakland Golden Grizzlies Win Probability**: 76.0%, Moneyline Edge: **0.1%**
+- **Milwaukee Panthers Win Probability**: 23.6%, Moneyline Edge: -3.8%
+- **Oakland Golden Grizzlies Win Probability**: 76.4%, Moneyline Edge: -0.5%
 
 ### Total
 - **Predicted Total**: 161.0
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -4.1%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 

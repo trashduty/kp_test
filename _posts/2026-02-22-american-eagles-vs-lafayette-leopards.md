@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> American Eagles -4.5</p>
-  <p><strong>Moneyline:</strong> American Eagles (-204) | Lafayette Leopards (+168)</p>
+  <p><strong>Moneyline:</strong> American Eagles (-205) | Lafayette Leopards (+170)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Lafayette Leopards**: 4.5, Edge For Covering Spread: -0.1%
 
 ### Moneyline
-- **American Eagles Win Probability**: 62.1%, Moneyline Edge: -5.0%
-- **Lafayette Leopards Win Probability**: 37.9%, Moneyline Edge: **0.6%**
+- **American Eagles Win Probability**: 62.2%, Moneyline Edge: -5.0%
+- **Lafayette Leopards Win Probability**: 37.8%, Moneyline Edge: **0.7%**
 
 ### Total
 - **Predicted Total**: 141.0
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 
