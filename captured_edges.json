@@ -3910,5 +3910,13 @@
   "Oakland Golden Grizzlies vs. Milwaukee Panthers|Oakland Golden Grizzlies|spread": {
     "captured_at": "2026-02-21T23:08:42.387865+00:00",
     "edge_type": "spread"
+  },
+  "Marist Red Foxes vs. Sacred Heart Pioneers|Marist Red Foxes|spread": {
+    "captured_at": "2026-02-22T00:37:28.323376+00:00",
+    "edge_type": "spread"
+  },
+  "Oakland Golden Grizzlies vs. Milwaukee Panthers|Oakland Golden Grizzlies|moneyline": {
+    "captured_at": "2026-02-22T00:37:28.324766+00:00",
+    "edge_type": "moneyline"
   }
 }
