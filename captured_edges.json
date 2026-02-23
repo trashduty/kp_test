@@ -3922,5 +3922,13 @@
   "Marist Red Foxes vs. Sacred Heart Pioneers|Marist Red Foxes|moneyline": {
     "captured_at": "2026-02-22T03:07:11.664832+00:00",
     "edge_type": "moneyline"
+  },
+  "Texas Tech Red Raiders vs. Cincinnati Bearcats|Texas Tech Red Raiders|spread": {
+    "captured_at": "2026-02-23T20:17:46.250435+00:00",
+    "edge_type": "spread"
+  },
+  "Baylor Bears vs. Arizona Wildcats|over": {
+    "captured_at": "2026-02-23T20:17:46.251591+00:00",
+    "edge_type": "over"
   }
 }
