@@ -3942,5 +3942,9 @@
   "Texas Tech Red Raiders vs. Cincinnati Bearcats|Texas Tech Red Raiders|moneyline": {
     "captured_at": "2026-02-23T22:19:45.073850+00:00",
     "edge_type": "moneyline"
+  },
+  "Colorado St Rams vs. Fresno St Bulldogs|Fresno St Bulldogs|spread": {
+    "captured_at": "2026-02-23T23:16:33.989372+00:00",
+    "edge_type": "spread"
   }
 }
