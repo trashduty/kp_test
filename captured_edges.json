@@ -3930,5 +3930,9 @@
   "Baylor Bears vs. Arizona Wildcats|over": {
     "captured_at": "2026-02-23T20:17:46.251591+00:00",
     "edge_type": "over"
+  },
+  "UIC Flames vs. Bradley Braves|UIC Flames|moneyline": {
+    "captured_at": "2026-02-23T21:20:44.346406+00:00",
+    "edge_type": "moneyline"
   }
 }
