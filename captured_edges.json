@@ -3934,5 +3934,13 @@
   "UIC Flames vs. Bradley Braves|UIC Flames|moneyline": {
     "captured_at": "2026-02-23T21:20:44.346406+00:00",
     "edge_type": "moneyline"
+  },
+  "Toledo Rockets vs. Northern Illinois Huskies|Toledo Rockets|spread": {
+    "captured_at": "2026-02-23T22:19:45.073279+00:00",
+    "edge_type": "spread"
+  },
+  "Texas Tech Red Raiders vs. Cincinnati Bearcats|Texas Tech Red Raiders|moneyline": {
+    "captured_at": "2026-02-23T22:19:45.073850+00:00",
+    "edge_type": "moneyline"
   }
 }
