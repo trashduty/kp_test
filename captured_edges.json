@@ -3946,5 +3946,13 @@
   "Colorado St Rams vs. Fresno St Bulldogs|Fresno St Bulldogs|spread": {
     "captured_at": "2026-02-23T23:16:33.989372+00:00",
     "edge_type": "spread"
+  },
+  "Oregon Ducks vs. Wisconsin Badgers|Wisconsin Badgers|spread": {
+    "captured_at": "2026-02-24T21:14:55.855995+00:00",
+    "edge_type": "spread"
+  },
+  "Oregon Ducks vs. Wisconsin Badgers|Wisconsin Badgers|moneyline": {
+    "captured_at": "2026-02-24T21:14:55.856037+00:00",
+    "edge_type": "moneyline"
   }
 }
