@@ -3966,5 +3966,17 @@
   "Pepperdine Waves vs. Seattle Redhawks|under": {
     "captured_at": "2026-02-24T22:12:43.535081+00:00",
     "edge_type": "under"
+  },
+  "Saint Joseph's Hawks vs. George Mason Patriots|Saint Joseph's Hawks|spread": {
+    "captured_at": "2026-02-24T23:12:40.590075+00:00",
+    "edge_type": "spread"
+  },
+  "Cleveland St Vikings vs. Northern Kentucky Norse|Cleveland St Vikings|spread": {
+    "captured_at": "2026-02-24T23:12:40.591448+00:00",
+    "edge_type": "spread"
+  },
+  "South Alabama Jaguars vs. UL Monroe Warhawks|under": {
+    "captured_at": "2026-02-24T23:12:40.593728+00:00",
+    "edge_type": "under"
   }
 }
