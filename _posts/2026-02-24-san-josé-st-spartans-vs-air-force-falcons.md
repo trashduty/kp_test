@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> San José St Spartans -6.5</p>
-  <p><strong>Moneyline:</strong> San José St Spartans (-312) | Air Force Falcons (+250)</p>
+  <p><strong>Moneyline:</strong> San José St Spartans (-302) | Air Force Falcons (+245)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **San José St Spartans**: -6.5, Edge For Covering Spread: -2.6%
-- **Air Force Falcons**: 6.5, Edge For Covering Spread: -2.2%
+- **San José St Spartans**: -6.5, Edge For Covering Spread: -3.8%
+- **Air Force Falcons**: 6.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **San José St Spartans Win Probability**: 72.3%, Moneyline Edge: -3.4%
-- **Air Force Falcons Win Probability**: 27.7%, Moneyline Edge: -0.9%
+- **San José St Spartans Win Probability**: 72.1%, Moneyline Edge: -3.1%
+- **Air Force Falcons Win Probability**: 27.9%, Moneyline Edge: -1.1%
 
 ### Total
-- **Predicted Total**: 141.0
-- Edge For Covering The Over: -5.3%
-- Edge For Covering The Under: **0.5%**
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 

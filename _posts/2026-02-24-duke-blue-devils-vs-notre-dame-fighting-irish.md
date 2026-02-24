@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Duke Blue Devils -17.5</p>
-  <p><strong>Moneyline:</strong> Duke Blue Devils (-2919) | Notre Dame Fighting Irish (+1239)</p>
+  <p><strong>Moneyline:</strong> Duke Blue Devils (-3112) | Notre Dame Fighting Irish (+1290)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Duke Blue Devils**: -17.5, Edge For Covering Spread: -5.7%
-- **Notre Dame Fighting Irish**: 17.5, Edge For Covering Spread: **1.0%**
+- **Duke Blue Devils**: -17.5, Edge For Covering Spread: -5.2%
+- **Notre Dame Fighting Irish**: 17.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Duke Blue Devils Win Probability**: 91.9%, Moneyline Edge: -4.8%
-- **Notre Dame Fighting Irish Win Probability**: 8.1%, Moneyline Edge: **0.6%**
+- **Duke Blue Devils Win Probability**: 92.0%, Moneyline Edge: -4.8%
+- **Notre Dame Fighting Irish Win Probability**: 8.0%, Moneyline Edge: **0.8%**
 
 ### Total
 - **Predicted Total**: 140.0

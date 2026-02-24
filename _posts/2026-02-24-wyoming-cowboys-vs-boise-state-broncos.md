@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Boise State Broncos -8.0</p>
-  <p><strong>Moneyline:</strong> Wyoming Cowboys (+320) | Boise State Broncos (-422)</p>
+  <p><strong>Spread:</strong> Boise State Broncos -8.5</p>
+  <p><strong>Moneyline:</strong> Wyoming Cowboys (+317) | Boise State Broncos (-410)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wyoming Cowboys**: 8.0, Edge For Covering Spread: -2.0%
-- **Boise State Broncos**: -8.0, Edge For Covering Spread: -2.9%
+- **Wyoming Cowboys**: 8.5, Edge For Covering Spread: -3.5%
+- **Boise State Broncos**: -8.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Wyoming Cowboys Win Probability**: 23.4%, Moneyline Edge: -0.4%
-- **Boise State Broncos Win Probability**: 76.6%, Moneyline Edge: -4.2%
+- **Wyoming Cowboys Win Probability**: 23.5%, Moneyline Edge: -0.5%
+- **Boise State Broncos Win Probability**: 76.5%, Moneyline Edge: -3.9%
 
 ### Total
 - **Predicted Total**: 148.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Boise State Broncos (16-11) hosts Wyoming Cowboys (15-12) at ExtraMile Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Boise State Broncos favored by 8.0 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Boise State Broncos (16-11) hosts Wyoming Cowboys (15-12) at ExtraMile Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Boise State Broncos favored by 8.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.0 points tells us Boise State Broncos has clear advantages, but games aren't played on paper. Wyoming Cowboys needs to punch above their weight class to keep this close. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.5 points tells us Boise State Broncos has clear advantages, but games aren't played on paper. Wyoming Cowboys needs to punch above their weight class to keep this close. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Wyoming Cowboys** bring an offensive efficiency of 113.00 (ranked #88 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.3% three-point shooting is serviceable but won't scare anyone. 

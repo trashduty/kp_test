@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Oklahoma St Cowboys -1.5</p>
-  <p><strong>Moneyline:</strong> West Virginia Mountaineers (+110) | Oklahoma St Cowboys (-132)</p>
+  <p><strong>Moneyline:</strong> West Virginia Mountaineers (+107) | Oklahoma St Cowboys (-130)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **West Virginia Mountaineers**: 1.5, Edge For Covering Spread: -0.9%
-- **Oklahoma St Cowboys**: -1.5, Edge For Covering Spread: -4.0%
+- **West Virginia Mountaineers**: 1.5, Edge For Covering Spread: -1.2%
+- **Oklahoma St Cowboys**: -1.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **West Virginia Mountaineers Win Probability**: 44.3%, Moneyline Edge: -3.4%
-- **Oklahoma St Cowboys Win Probability**: 55.7%, Moneyline Edge: -1.2%
+- **West Virginia Mountaineers Win Probability**: 44.5%, Moneyline Edge: -3.7%
+- **Oklahoma St Cowboys Win Probability**: 55.5%, Moneyline Edge: -1.0%
 
 ### Total
 - **Predicted Total**: 141.5

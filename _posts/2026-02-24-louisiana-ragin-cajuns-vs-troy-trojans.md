@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Troy Trojans -12.5</p>
-  <p><strong>Moneyline:</strong> Louisiana Ragin' Cajuns (+680) | Troy Trojans (-1100)</p>
+  <p><strong>Moneyline:</strong> Louisiana Ragin' Cajuns (+640) | Troy Trojans (-1000)</p>
   <p><strong>Total:</strong> 133.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Louisiana Ragin' Cajuns**: 12.5, Edge For Covering Spread: -1.8%
-- **Troy Trojans**: -12.5, Edge For Covering Spread: -3.0%
+- **Louisiana Ragin' Cajuns**: 12.5, Edge For Covering Spread: -1.2%
+- **Troy Trojans**: -12.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Louisiana Ragin' Cajuns Win Probability**: 13.6%, Moneyline Edge: **0.8%**
-- **Troy Trojans Win Probability**: 86.4%, Moneyline Edge: -5.3%
+- **Louisiana Ragin' Cajuns Win Probability**: 14.0%, Moneyline Edge: **0.5%**
+- **Troy Trojans Win Probability**: 86.0%, Moneyline Edge: -4.9%
 
 ### Total
 - **Predicted Total**: 133.5
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -0.6%
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.9%
 
 ---
 

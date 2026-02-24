@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Providence Friars -6.5</p>
+  <p><strong>Spread:</strong> Providence Friars -5.5</p>
   <p><strong>Moneyline:</strong> Xavier Musketeers (+210) | Providence Friars (-258)</p>
   <p><strong>Total:</strong> 174.5</p>
 </div>
@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Xavier Musketeers**: 6.5, Edge For Covering Spread: -3.5%
-- **Providence Friars**: -6.5, Edge For Covering Spread: -1.2%
+- **Xavier Musketeers**: 5.5, Edge For Covering Spread: -2.4%
+- **Providence Friars**: -5.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
 - **Xavier Musketeers Win Probability**: 29.5%, Moneyline Edge: -2.8%
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Providence Friars (12-15) hosts Xavier Musketeers (13-14) at Amica Mutual Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Providence Friars favored by 6.5 points, with the total sitting at 174.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Providence Friars (12-15) hosts Xavier Musketeers (13-14) at Amica Mutual Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Providence Friars favored by 5.5 points, with the total sitting at 174.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates Providence Friars is viewed as the better team, but this isn't an overwhelming edge. Xavier Musketeers has a legitimate path to covering or winning outright. The total of 174.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 5.5-point spread indicates Providence Friars is viewed as the better team, but this isn't an overwhelming edge. Xavier Musketeers has a legitimate path to covering or winning outright. The total of 174.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Xavier Musketeers** bring an offensive efficiency of 107.91 (ranked #186 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.6% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

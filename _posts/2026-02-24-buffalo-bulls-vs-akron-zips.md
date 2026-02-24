@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Akron Zips -15.5</p>
-  <p><strong>Moneyline:</strong> Buffalo Bulls (+980) | Akron Zips (-2100)</p>
+  <p><strong>Moneyline:</strong> Buffalo Bulls (+900) | Akron Zips (-1800)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Buffalo Bulls**: 15.5, Edge For Covering Spread: -1.9%
-- **Akron Zips**: -15.5, Edge For Covering Spread: -2.8%
+- **Buffalo Bulls**: 15.5, Edge For Covering Spread: -0.8%
+- **Akron Zips**: -15.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Buffalo Bulls Win Probability**: 9.4%, Moneyline Edge: **0.2%**
-- **Akron Zips Win Probability**: 90.6%, Moneyline Edge: -4.9%
+- **Buffalo Bulls Win Probability**: 9.8%, Moneyline Edge: -0.2%
+- **Akron Zips Win Probability**: 90.2%, Moneyline Edge: -4.5%
 
 ### Total
 - **Predicted Total**: 160.0

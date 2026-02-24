@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UIC Flames -2.5</p>
-  <p><strong>Moneyline:</strong> Bradley Braves (+129) | UIC Flames (-155)</p>
+  <p><strong>Moneyline:</strong> Bradley Braves (+129) | UIC Flames (-154)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bradley Braves**: 2.5, Edge For Covering Spread: -4.8%
-- **UIC Flames**: -2.5, Edge For Covering Spread: **0.1%**
+- **Bradley Braves**: 2.5, Edge For Covering Spread: -5.7%
+- **UIC Flames**: -2.5, Edge For Covering Spread: **1.0%**
 
 ### Moneyline
-- **Bradley Braves Win Probability**: 37.6%, Moneyline Edge: -6.0%
-- **UIC Flames Win Probability**: 62.4%, Moneyline Edge: **1.6%**
+- **Bradley Braves Win Probability**: 37.7%, Moneyline Edge: -5.9%
+- **UIC Flames Win Probability**: 62.3%, Moneyline Edge: **1.6%**
 
 ### Total
 - **Predicted Total**: 143.0

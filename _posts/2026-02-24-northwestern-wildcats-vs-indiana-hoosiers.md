@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Indiana Hoosiers -8.5</p>
-  <p><strong>Moneyline:</strong> Northwestern Wildcats (+382) | Indiana Hoosiers (-510)</p>
+  <p><strong>Moneyline:</strong> Northwestern Wildcats (+350) | Indiana Hoosiers (-474)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northwestern Wildcats**: 8.5, Edge For Covering Spread: -2.5%
-- **Indiana Hoosiers**: -8.5, Edge For Covering Spread: -2.4%
+- **Northwestern Wildcats**: 8.5, Edge For Covering Spread: -2.1%
+- **Indiana Hoosiers**: -8.5, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **Northwestern Wildcats Win Probability**: 18.9%, Moneyline Edge: -1.8%
-- **Indiana Hoosiers Win Probability**: 81.1%, Moneyline Edge: -2.5%
+- **Northwestern Wildcats Win Probability**: 19.6%, Moneyline Edge: -2.6%
+- **Indiana Hoosiers Win Probability**: 80.4%, Moneyline Edge: -2.2%
 
 ### Total
 - **Predicted Total**: 147.0
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.0%
 
 ---
 

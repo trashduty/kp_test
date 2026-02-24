@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Auburn Tigers -1.5</p>
-  <p><strong>Moneyline:</strong> Auburn Tigers (-134) | Oklahoma Sooners (+111)</p>
+  <p><strong>Moneyline:</strong> Auburn Tigers (-132) | Oklahoma Sooners (+110)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Auburn Tigers**: -1.5, Edge For Covering Spread: -4.2%
-- **Oklahoma Sooners**: 1.5, Edge For Covering Spread: -0.5%
+- **Auburn Tigers**: -1.5, Edge For Covering Spread: -4.7%
+- **Oklahoma Sooners**: 1.5, Edge For Covering Spread: -0.1%
 
 ### Moneyline
-- **Auburn Tigers Win Probability**: 52.9%, Moneyline Edge: -4.5%
-- **Oklahoma Sooners Win Probability**: 47.1%, Moneyline Edge: -0.3%
+- **Auburn Tigers Win Probability**: 52.7%, Moneyline Edge: -4.2%
+- **Oklahoma Sooners Win Probability**: 47.3%, Moneyline Edge: -0.4%
 
 ### Total
 - **Predicted Total**: 160.0

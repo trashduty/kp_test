@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **BYU Cougars Win Probability**: 84.4%, Moneyline Edge: -4.5%
 
 ### Total
-- **Predicted Total**: 164.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -4.6%
+- **Predicted Total**: 164.5
+- Edge For Covering The Over: -0.6%
+- Edge For Covering The Under: -4.1%
 
 ---
 

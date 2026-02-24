@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Miami Hurricanes -2.5</p>
-  <p><strong>Moneyline:</strong> Miami Hurricanes (-150) | Florida St Seminoles (+130)</p>
+  <p><strong>Moneyline:</strong> Miami Hurricanes (-150) | Florida St Seminoles (+125)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Miami Hurricanes**: -2.5, Edge For Covering Spread: -4.5%
-- **Florida St Seminoles**: 2.5, Edge For Covering Spread: -0.2%
+- **Miami Hurricanes**: -2.5, Edge For Covering Spread: -5.1%
+- **Florida St Seminoles**: 2.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Miami Hurricanes Win Probability**: 59.0%, Moneyline Edge: -1.0%
-- **Florida St Seminoles Win Probability**: 41.0%, Moneyline Edge: -2.5%
+- **Miami Hurricanes Win Probability**: 58.7%, Moneyline Edge: -1.3%
+- **Florida St Seminoles Win Probability**: 41.3%, Moneyline Edge: -3.2%
 
 ### Total
 - **Predicted Total**: 157.5
-- Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.1%
+- Edge For Covering The Over: **0.5%**
+- Edge For Covering The Under: -5.2%
 
 ---
 

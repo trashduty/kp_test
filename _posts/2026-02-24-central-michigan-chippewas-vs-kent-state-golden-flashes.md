@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kent State Golden Flashes -11.5</p>
-  <p><strong>Moneyline:</strong> Central Michigan Chippewas (+522) | Kent State Golden Flashes (-750)</p>
+  <p><strong>Moneyline:</strong> Central Michigan Chippewas (+500) | Kent State Golden Flashes (-738)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Kent State Golden Flashes**: -11.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Central Michigan Chippewas Win Probability**: 16.2%, Moneyline Edge: **0.1%**
-- **Kent State Golden Flashes Win Probability**: 83.8%, Moneyline Edge: -4.4%
+- **Central Michigan Chippewas Win Probability**: 16.5%, Moneyline Edge: -0.2%
+- **Kent State Golden Flashes Win Probability**: 83.5%, Moneyline Edge: -4.5%
 
 ### Total
-- **Predicted Total**: 156.0
-- Edge For Covering The Over: -4.6%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 156.5
+- Edge For Covering The Over: -3.1%
+- Edge For Covering The Under: -1.7%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kentucky Wildcats -6.5</p>
-  <p><strong>Moneyline:</strong> Kentucky Wildcats (-310) | South Carolina Gamecocks (+250)</p>
+  <p><strong>Moneyline:</strong> Kentucky Wildcats (-320) | South Carolina Gamecocks (+257)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **South Carolina Gamecocks**: 6.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Kentucky Wildcats Win Probability**: 70.8%, Moneyline Edge: -4.8%
-- **South Carolina Gamecocks Win Probability**: 29.2%, Moneyline Edge: **0.6%**
+- **Kentucky Wildcats Win Probability**: 71.1%, Moneyline Edge: -5.1%
+- **South Carolina Gamecocks Win Probability**: 28.9%, Moneyline Edge: **1.0%**
 
 ### Total
 - **Predicted Total**: 149.0
-- Edge For Covering The Over: -3.4%
-- Edge For Covering The Under: -1.4%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 

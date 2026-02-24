@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Miami (OH) RedHawks -9.5</p>
-  <p><strong>Moneyline:</strong> Miami (OH) RedHawks (-615) | Eastern Michigan Eagles (+425)</p>
+  <p><strong>Spread:</strong> Miami (OH) RedHawks -10.5</p>
+  <p><strong>Moneyline:</strong> Miami (OH) RedHawks (-590) | Eastern Michigan Eagles (+422)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Miami (OH) RedHawks**: -9.5, Edge For Covering Spread: -6.7%
-- **Eastern Michigan Eagles**: 9.5, Edge For Covering Spread: **2.0%**
+- **Miami (OH) RedHawks**: -10.5, Edge For Covering Spread: -5.3%
+- **Eastern Michigan Eagles**: 10.5, Edge For Covering Spread: **0.7%**
 
 ### Moneyline
-- **Miami (OH) RedHawks Win Probability**: 78.9%, Moneyline Edge: -7.1%
+- **Miami (OH) RedHawks Win Probability**: 78.9%, Moneyline Edge: -6.6%
 - **Eastern Michigan Eagles Win Probability**: 21.1%, Moneyline Edge: **2.0%**
 
 ### Total
 - **Predicted Total**: 152.5
-- Edge For Covering The Over: -4.2%
-- Edge For Covering The Under: -0.6%
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -0.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Miami (OH) RedHawks (27-0) enters hostile territory as they take on Eastern Michigan Eagles (10-18) at George Gervin GameAbove Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Miami (OH) RedHawks favored by 9.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Miami (OH) RedHawks (27-0) enters hostile territory as they take on Eastern Michigan Eagles (10-18) at George Gervin GameAbove Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Miami (OH) RedHawks favored by 10.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Miami (OH) RedHawks has clear advantages, but games aren't played on paper. Eastern Michigan Eagles needs to punch above their weight class to keep this close. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 10.5 points tells us Miami (OH) RedHawks has clear advantages, but games aren't played on paper. Eastern Michigan Eagles needs to punch above their weight class to keep this close. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Miami (OH) RedHawks** bring an offensive efficiency of 121.46 (ranked #14 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 38.5% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

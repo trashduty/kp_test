@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Massachusetts Minutemen -5.5</p>
-  <p><strong>Moneyline:</strong> Massachusetts Minutemen (-225) | Ball State Cardinals (+190)</p>
+  <p><strong>Spread:</strong> Massachusetts Minutemen -4.5</p>
+  <p><strong>Moneyline:</strong> Massachusetts Minutemen (-220) | Ball State Cardinals (+180)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Massachusetts Minutemen**: -5.5, Edge For Covering Spread: -3.3%
-- **Ball State Cardinals**: 5.5, Edge For Covering Spread: -1.5%
+- **Massachusetts Minutemen**: -4.5, Edge For Covering Spread: -3.5%
+- **Ball State Cardinals**: 4.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Massachusetts Minutemen Win Probability**: 67.4%, Moneyline Edge: -1.9%
-- **Ball State Cardinals Win Probability**: 32.6%, Moneyline Edge: -1.9%
+- **Massachusetts Minutemen Win Probability**: 66.9%, Moneyline Edge: -1.8%
+- **Ball State Cardinals Win Probability**: 33.1%, Moneyline Edge: -2.6%
 
 ### Total
 - **Predicted Total**: 141.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Massachusetts Minutemen (15-13) travels to face Ball State Cardinals (8-19) at Worthen Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Massachusetts Minutemen favored by 5.5 points, with the total sitting at 140.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Massachusetts Minutemen (15-13) travels to face Ball State Cardinals (8-19) at Worthen Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Massachusetts Minutemen favored by 4.5 points, with the total sitting at 140.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Massachusetts Minutemen is viewed as the better team, but this isn't an overwhelming edge. Ball State Cardinals has a legitimate path to covering or winning outright. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 4.5-point spread indicates Massachusetts Minutemen is viewed as the better team, but this isn't an overwhelming edge. Ball State Cardinals has a legitimate path to covering or winning outright. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Massachusetts Minutemen** bring an offensive efficiency of 110.32 (ranked #132 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 36.8% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

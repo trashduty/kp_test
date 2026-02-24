@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Toledo Rockets -11.5</p>
-  <p><strong>Moneyline:</strong> Northern Illinois Huskies (+592) | Toledo Rockets (-924)</p>
+  <p><strong>Spread:</strong> Toledo Rockets -12.5</p>
+  <p><strong>Moneyline:</strong> Northern Illinois Huskies (+595) | Toledo Rockets (-900)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northern Illinois Huskies**: 11.5, Edge For Covering Spread: -3.7%
-- **Toledo Rockets**: -11.5, Edge For Covering Spread: -0.9%
+- **Northern Illinois Huskies**: 12.5, Edge For Covering Spread: -5.7%
+- **Toledo Rockets**: -12.5, Edge For Covering Spread: **1.1%**
 
 ### Moneyline
 - **Northern Illinois Huskies Win Probability**: 11.4%, Moneyline Edge: -3.0%
-- **Toledo Rockets Win Probability**: 88.6%, Moneyline Edge: -1.6%
+- **Toledo Rockets Win Probability**: 88.6%, Moneyline Edge: -1.4%
 
 ### Total
 - **Predicted Total**: 150.0
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.2%
+- Edge For Covering The Over: -3.1%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Toledo Rockets (14-13) hosts Northern Illinois Huskies (9-17) at Savage Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Toledo Rockets favored by 11.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Toledo Rockets (14-13) hosts Northern Illinois Huskies (9-17) at Savage Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Toledo Rockets favored by 12.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us Toledo Rockets has clear advantages, but games aren't played on paper. Northern Illinois Huskies needs to punch above their weight class to keep this close. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 12.5-point spread screams mismatch. The books are asking Northern Illinois Huskies to hang within two possessions, which based on the profiles, requires Toledo Rockets to play below their standard. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Northern Illinois Huskies** bring an offensive efficiency of 97.72 (ranked #343 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.3% three-point shooting is serviceable but won't scare anyone. 

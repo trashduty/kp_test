@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Washington Huskies -4.5</p>
-  <p><strong>Moneyline:</strong> Washington Huskies (-240) | Rutgers Scarlet Knights (+198)</p>
+  <p><strong>Moneyline:</strong> Washington Huskies (-220) | Rutgers Scarlet Knights (+180)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Rutgers Scarlet Knights**: 4.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Washington Huskies Win Probability**: 68.4%, Moneyline Edge: -2.2%
-- **Rutgers Scarlet Knights Win Probability**: 31.6%, Moneyline Edge: -1.9%
+- **Washington Huskies Win Probability**: 67.4%, Moneyline Edge: -1.3%
+- **Rutgers Scarlet Knights Win Probability**: 32.6%, Moneyline Edge: -3.1%
 
 ### Total
 - **Predicted Total**: 142.5

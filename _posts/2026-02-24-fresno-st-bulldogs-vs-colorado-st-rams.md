@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Colorado St Rams -8.5</p>
-  <p><strong>Moneyline:</strong> Fresno St Bulldogs (+355) | Colorado St Rams (-472)</p>
+  <p><strong>Moneyline:</strong> Fresno St Bulldogs (+355) | Colorado St Rams (-477)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fresno St Bulldogs**: 8.5, Edge For Covering Spread: **0.4%**
-- **Colorado St Rams**: -8.5, Edge For Covering Spread: -5.1%
+- **Fresno St Bulldogs**: 8.5, Edge For Covering Spread: -0.5%
+- **Colorado St Rams**: -8.5, Edge For Covering Spread: -4.2%
 
 ### Moneyline
 - **Fresno St Bulldogs Win Probability**: 23.5%, Moneyline Edge: **1.5%**
-- **Colorado St Rams Win Probability**: 76.5%, Moneyline Edge: -6.0%
+- **Colorado St Rams Win Probability**: 76.5%, Moneyline Edge: -6.2%
 
 ### Total
 - **Predicted Total**: 145.5
-- Edge For Covering The Over: -6.1%
-- Edge For Covering The Under: -0.3%
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -0.6%
 
 ---
 

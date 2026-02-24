@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UCLA Bruins -6.5</p>
-  <p><strong>Moneyline:</strong> USC Trojans (+235) | UCLA Bruins (-287)</p>
+  <p><strong>Moneyline:</strong> USC Trojans (+230) | UCLA Bruins (-285)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **UCLA Bruins**: -6.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **USC Trojans Win Probability**: 26.8%, Moneyline Edge: -3.0%
-- **UCLA Bruins Win Probability**: 73.2%, Moneyline Edge: -1.0%
+- **USC Trojans Win Probability**: 27.0%, Moneyline Edge: -3.3%
+- **UCLA Bruins Win Probability**: 73.0%, Moneyline Edge: -1.0%
 
 ### Total
 - **Predicted Total**: 150.0

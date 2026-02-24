@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Virginia Cavaliers -5.5</p>
-  <p><strong>Moneyline:</strong> NC State Wolfpack (+220) | Virginia Cavaliers (-270)</p>
+  <p><strong>Spread:</strong> Virginia Cavaliers -6.5</p>
+  <p><strong>Moneyline:</strong> NC State Wolfpack (+207) | Virginia Cavaliers (-250)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **NC State Wolfpack**: 5.5, Edge For Covering Spread: -2.5%
-- **Virginia Cavaliers**: -5.5, Edge For Covering Spread: -2.2%
+- **NC State Wolfpack**: 6.5, Edge For Covering Spread: -3.8%
+- **Virginia Cavaliers**: -6.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **NC State Wolfpack Win Probability**: 29.0%, Moneyline Edge: -2.3%
-- **Virginia Cavaliers Win Probability**: 71.0%, Moneyline Edge: -1.9%
+- **NC State Wolfpack Win Probability**: 29.7%, Moneyline Edge: -2.8%
+- **Virginia Cavaliers Win Probability**: 70.3%, Moneyline Edge: -1.2%
 
 ### Total
 - **Predicted Total**: 151.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -1.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When NC State Wolfpack (19-8) travels to face Virginia Cavaliers (24-3) at John Paul Jones Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Virginia Cavaliers favored by 5.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When NC State Wolfpack (19-8) travels to face Virginia Cavaliers (24-3) at John Paul Jones Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Virginia Cavaliers favored by 6.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Virginia Cavaliers is viewed as the better team, but this isn't an overwhelming edge. NC State Wolfpack has a legitimate path to covering or winning outright. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 6.5-point spread indicates Virginia Cavaliers is viewed as the better team, but this isn't an overwhelming edge. NC State Wolfpack has a legitimate path to covering or winning outright. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **NC State Wolfpack** bring an offensive efficiency of 119.89 (ranked #24 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 39.6% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Iowa State Cyclones -12.5</p>
-  <p><strong>Moneyline:</strong> Iowa State Cyclones (-1200) | Utah Utes (+720)</p>
+  <p><strong>Moneyline:</strong> Iowa State Cyclones (-1200) | Utah Utes (+700)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Utah Utes**: 12.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **Iowa State Cyclones Win Probability**: 87.1%, Moneyline Edge: -5.2%
-- **Utah Utes Win Probability**: 12.9%, Moneyline Edge: **0.7%**
+- **Iowa State Cyclones Win Probability**: 87.0%, Moneyline Edge: -5.4%
+- **Utah Utes Win Probability**: 13.0%, Moneyline Edge: **0.5%**
 
 ### Total
 - **Predicted Total**: 146.0
-- Edge For Covering The Over: -1.2%
-- Edge For Covering The Under: -3.5%
+- Edge For Covering The Over: -0.4%
+- Edge For Covering The Under: -4.4%
 
 ---
 

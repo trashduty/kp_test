@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Morehead St Eagles**: -8.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Southern Indiana Screaming Eagles Win Probability**: 21.5%, Moneyline Edge: -1.7%
-- **Morehead St Eagles Win Probability**: 78.5%, Moneyline Edge: -2.9%
+- **Southern Indiana Screaming Eagles Win Probability**: 21.6%, Moneyline Edge: -1.7%
+- **Morehead St Eagles Win Probability**: 78.4%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 143.0

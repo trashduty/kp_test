@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Georgetown Hoyas -3.5</p>
-  <p><strong>Moneyline:</strong> Marquette Golden Eagles (+150) | Georgetown Hoyas (-180)</p>
+  <p><strong>Moneyline:</strong> Marquette Golden Eagles (+145) | Georgetown Hoyas (-172)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Georgetown Hoyas**: -3.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Marquette Golden Eagles Win Probability**: 35.7%, Moneyline Edge: -4.3%
-- **Georgetown Hoyas Win Probability**: 64.3%, Moneyline Edge: **0.0%**
+- **Marquette Golden Eagles Win Probability**: 36.1%, Moneyline Edge: -4.7%
+- **Georgetown Hoyas Win Probability**: 63.9%, Moneyline Edge: **0.6%**
 
 ### Total
 - **Predicted Total**: 150.0
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tennessee Volunteers -3.5</p>
-  <p><strong>Moneyline:</strong> Tennessee Volunteers (-187) | Missouri Tigers (+157)</p>
+  <p><strong>Moneyline:</strong> Tennessee Volunteers (-187) | Missouri Tigers (+154)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tennessee Volunteers**: -3.5, Edge For Covering Spread: -0.7%
-- **Missouri Tigers**: 3.5, Edge For Covering Spread: -4.1%
+- **Tennessee Volunteers**: -3.5, Edge For Covering Spread: -1.3%
+- **Missouri Tigers**: 3.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Tennessee Volunteers Win Probability**: 64.3%, Moneyline Edge: -0.9%
-- **Missouri Tigers Win Probability**: 35.7%, Moneyline Edge: -3.2%
+- **Tennessee Volunteers Win Probability**: 64.2%, Moneyline Edge: -1.0%
+- **Missouri Tigers Win Probability**: 35.8%, Moneyline Edge: -3.5%
 
 ### Total
 - **Predicted Total**: 144.5

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Bowling Green Falcons -12.5</p>
-  <p><strong>Moneyline:</strong> Western Michigan Broncos (+674) | Bowling Green Falcons (-1048)</p>
+  <p><strong>Moneyline:</strong> Western Michigan Broncos (+595) | Bowling Green Falcons (-900)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Western Michigan Broncos**: 12.5, Edge For Covering Spread: -1.2%
-- **Bowling Green Falcons**: -12.5, Edge For Covering Spread: -3.5%
+- **Western Michigan Broncos**: 12.5, Edge For Covering Spread: -2.6%
+- **Bowling Green Falcons**: -12.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Western Michigan Broncos Win Probability**: 12.2%, Moneyline Edge: -0.7%
-- **Bowling Green Falcons Win Probability**: 87.8%, Moneyline Edge: -3.5%
+- **Western Michigan Broncos Win Probability**: 12.9%, Moneyline Edge: -1.5%
+- **Bowling Green Falcons Win Probability**: 87.1%, Moneyline Edge: -2.9%
 
 ### Total
-- **Predicted Total**: 150.0
-- Edge For Covering The Over: -2.0%
-- Edge For Covering The Under: -2.7%
+- **Predicted Total**: 149.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -2.4%
 
 ---
 

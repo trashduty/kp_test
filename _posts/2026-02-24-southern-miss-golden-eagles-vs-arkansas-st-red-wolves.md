@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arkansas St Red Wolves -9.5</p>
-  <p><strong>Moneyline:</strong> Southern Miss Golden Eagles (+377) | Arkansas St Red Wolves (-510)</p>
+  <p><strong>Moneyline:</strong> Southern Miss Golden Eagles (+382) | Arkansas St Red Wolves (-510)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Arkansas St Red Wolves**: -9.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Southern Miss Golden Eagles Win Probability**: 19.5%, Moneyline Edge: -1.4%
-- **Arkansas St Red Wolves Win Probability**: 80.5%, Moneyline Edge: -3.1%
+- **Southern Miss Golden Eagles Win Probability**: 19.4%, Moneyline Edge: -1.3%
+- **Arkansas St Red Wolves Win Probability**: 80.6%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 156.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 

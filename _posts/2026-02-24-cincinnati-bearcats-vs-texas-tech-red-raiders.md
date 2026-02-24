@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Texas Tech Red Raiders -6.5</p>
-  <p><strong>Moneyline:</strong> Cincinnati Bearcats (+217) | Texas Tech Red Raiders (-269)</p>
+  <p><strong>Moneyline:</strong> Cincinnati Bearcats (+220) | Texas Tech Red Raiders (-272)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Cincinnati Bearcats**: 6.5, Edge For Covering Spread: -8.5%
-- **Texas Tech Red Raiders**: -6.5, Edge For Covering Spread: **3.8%**
+- **Cincinnati Bearcats**: 6.5, Edge For Covering Spread: -7.7%
+- **Texas Tech Red Raiders**: -6.5, Edge For Covering Spread: **2.9%**
 
 ### Moneyline
-- **Cincinnati Bearcats Win Probability**: 24.1%, Moneyline Edge: -7.4%
-- **Texas Tech Red Raiders Win Probability**: 75.9%, Moneyline Edge: **3.0%**
+- **Cincinnati Bearcats Win Probability**: 24.0%, Moneyline Edge: -7.3%
+- **Texas Tech Red Raiders Win Probability**: 76.0%, Moneyline Edge: **2.9%**
 
 ### Total
 - **Predicted Total**: 142.0

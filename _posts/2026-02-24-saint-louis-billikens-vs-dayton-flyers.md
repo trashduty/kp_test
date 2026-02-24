@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Saint Louis Billikens -5.5</p>
-  <p><strong>Moneyline:</strong> Saint Louis Billikens (-239) | Dayton Flyers (+197)</p>
+  <p><strong>Spread:</strong> Saint Louis Billikens -4.5</p>
+  <p><strong>Moneyline:</strong> Saint Louis Billikens (-219) | Dayton Flyers (+180)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Saint Louis Billikens**: -5.5, Edge For Covering Spread: -0.9%
-- **Dayton Flyers**: 5.5, Edge For Covering Spread: -3.8%
+- **Saint Louis Billikens**: -4.5, Edge For Covering Spread: -1.8%
+- **Dayton Flyers**: 4.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Saint Louis Billikens Win Probability**: 68.9%, Moneyline Edge: -1.6%
-- **Dayton Flyers Win Probability**: 31.1%, Moneyline Edge: -2.5%
+- **Saint Louis Billikens Win Probability**: 67.9%, Moneyline Edge: -0.8%
+- **Dayton Flyers Win Probability**: 32.1%, Moneyline Edge: -3.6%
 
 ### Total
 - **Predicted Total**: 156.0
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Saint Louis Billikens (25-2) travels to face Dayton Flyers (18-9) at University of Dayton Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Saint Louis Billikens favored by 5.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Saint Louis Billikens (25-2) travels to face Dayton Flyers (18-9) at University of Dayton Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Saint Louis Billikens favored by 4.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Saint Louis Billikens is viewed as the better team, but this isn't an overwhelming edge. Dayton Flyers has a legitimate path to covering or winning outright. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 4.5-point spread indicates Saint Louis Billikens is viewed as the better team, but this isn't an overwhelming edge. Dayton Flyers has a legitimate path to covering or winning outright. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Saint Louis Billikens** bring an offensive efficiency of 122.28 (ranked #6 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 41.4% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

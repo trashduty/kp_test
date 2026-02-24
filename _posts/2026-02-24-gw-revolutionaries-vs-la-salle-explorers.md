@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> GW Revolutionaries -6.5</p>
-  <p><strong>Moneyline:</strong> GW Revolutionaries (-319) | La Salle Explorers (+255)</p>
+  <p><strong>Moneyline:</strong> GW Revolutionaries (-312) | La Salle Explorers (+252)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **La Salle Explorers**: 6.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **GW Revolutionaries Win Probability**: 72.5%, Moneyline Edge: -3.7%
-- **La Salle Explorers Win Probability**: 27.5%, Moneyline Edge: -0.7%
+- **GW Revolutionaries Win Probability**: 72.4%, Moneyline Edge: -3.4%
+- **La Salle Explorers Win Probability**: 27.6%, Moneyline Edge: -0.8%
 
 ### Total
 - **Predicted Total**: 146.0

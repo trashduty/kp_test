@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan Wolverines -22.5</p>
-  <p><strong>Moneyline:</strong> Minnesota Golden Gophers (+2000) | Michigan Wolverines (-7742)</p>
+  <p><strong>Moneyline:</strong> Minnesota Golden Gophers (+1895) | Michigan Wolverines (-7241)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Minnesota Golden Gophers**: 22.5, Edge For Covering Spread: -3.3%
-- **Michigan Wolverines**: -22.5, Edge For Covering Spread: -1.5%
+- **Minnesota Golden Gophers**: 22.5, Edge For Covering Spread: -3.5%
+- **Michigan Wolverines**: -22.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Minnesota Golden Gophers Win Probability**: 3.8%, Moneyline Edge: -1.0%
-- **Michigan Wolverines Win Probability**: 96.2%, Moneyline Edge: -2.5%
+- **Minnesota Golden Gophers Win Probability**: 3.9%, Moneyline Edge: -1.1%
+- **Michigan Wolverines Win Probability**: 96.1%, Moneyline Edge: -2.6%
 
 ### Total
 - **Predicted Total**: 145.0
-- Edge For Covering The Over: -2.0%
-- Edge For Covering The Under: -2.7%
+- Edge For Covering The Over: -3.1%
+- Edge For Covering The Under: -1.6%
 
 ---
 

@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Coastal Carolina Chanticleers -1.5</p>
+  <p><strong>Spread:</strong> Pick'em</p>
   <p><strong>Moneyline:</strong> Coastal Carolina Chanticleers (-113) | Georgia St Panthers (-106)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Coastal Carolina Chanticleers**: -1.5, Edge For Covering Spread: -4.1%
-- **Georgia St Panthers**: 1.5, Edge For Covering Spread: -2.7%
+- **Coastal Carolina Chanticleers**: 0.0, Edge For Covering Spread: -2.3%
+- **Georgia St Panthers**: 0.0, Edge For Covering Spread: -2.7%
 
 ### Moneyline
 - **Coastal Carolina Chanticleers Win Probability**: 51.4%, Moneyline Edge: -1.8%
 - **Georgia St Panthers Win Probability**: 48.6%, Moneyline Edge: -3.0%
 
 ### Total
-- **Predicted Total**: 138.5
-- Edge For Covering The Over: -6.4%
-- Edge For Covering The Under: **1.6%**
+- **Predicted Total**: 139.0
+- Edge For Covering The Over: N/A
+- Edge For Covering The Under: N/A
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Coastal Carolina Chanticleers (17-12) travels to face Georgia St Panthers (10-19) at GSU Convocation Center in what shapes up to be a competitive matchup. The early betting action has shaped into Coastal Carolina Chanticleers favored by 1.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Coastal Carolina Chanticleers (17-12) travels to face Georgia St Panthers (10-19) at GSU Convocation Center in what shapes up to be a competitive matchup. The early betting action has shaped into Georgia St Panthers favored by 0.0 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Coastal Carolina Chanticleers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Georgia St Panthers's 0.0-point cushion reflects home court advantage more than a talent gap. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Coastal Carolina Chanticleers** bring an offensive efficiency of 102.04 (ranked #298 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.0% three-point shooting is serviceable but won't scare anyone. 
