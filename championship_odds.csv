@@ -3,8 +3,8 @@ Michigan Wolverines,370
 Duke Blue Devils,450
 Arizona Wildcats,500
 Florida Gators,1000
-Houston Cougars,1000
-Illinois Fighting Illini,1300
+Illinois Fighting Illini,1100
+Houston Cougars,1100
 Iowa State Cyclones,1500
 UConn Huskies,2000
 Kansas Jayhawks,2500
@@ -15,14 +15,14 @@ Tennessee Volunteers,5000
 Michigan St Spartans,5000
 St. John's Red Storm,5000
 Alabama Crimson Tide,5000
-Louisville Cardinals,6000
 Nebraska Cornhuskers,6000
+Louisville Cardinals,8000
+North Carolina Tar Heels,8000
 Vanderbilt Commodores,8000
-BYU Cougars,8000
 Virginia Cavaliers,8000
 Kentucky Wildcats,10000
 Wisconsin Badgers,10000
-North Carolina Tar Heels,10000
+BYU Cougars,10000
 Saint Louis Billikens,10000
 Texas Tech Red Raiders,12500
 NC State Wolfpack,12500
@@ -40,7 +40,6 @@ Texas Longhorns,25000
 Utah State Aggies,25000
 Indiana Hoosiers,30000
 UCF Knights,30000
-Miami (OH) RedHawks,30000
 McNeese Cowboys,50000
 Ohio State Buckeyes,50000
 TCU Horned Frogs,50000
@@ -56,3 +55,4 @@ Virginia Tech Hokies,50000
 USC Trojans,50000
 Liberty Flames,50000
 UC Irvine Anteaters,50000
+Miami (OH) RedHawks,50000
