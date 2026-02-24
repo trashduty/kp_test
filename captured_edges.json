@@ -3954,5 +3954,17 @@
   "Oregon Ducks vs. Wisconsin Badgers|Wisconsin Badgers|moneyline": {
     "captured_at": "2026-02-24T21:14:55.856037+00:00",
     "edge_type": "moneyline"
+  },
+  "South Carolina St Bulldogs vs. Morgan St Bears|South Carolina St Bulldogs|moneyline": {
+    "captured_at": "2026-02-24T22:12:43.533032+00:00",
+    "edge_type": "moneyline"
+  },
+  "Saint Joseph's Hawks vs. George Mason Patriots|Saint Joseph's Hawks|moneyline": {
+    "captured_at": "2026-02-24T22:12:43.533585+00:00",
+    "edge_type": "moneyline"
+  },
+  "Pepperdine Waves vs. Seattle Redhawks|under": {
+    "captured_at": "2026-02-24T22:12:43.535081+00:00",
+    "edge_type": "under"
   }
 }
