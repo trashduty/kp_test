@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Wisconsin Badgers -4.5</p>
-  <p><strong>Moneyline:</strong> Wisconsin Badgers (-220) | Oregon Ducks (+180)</p>
+  <p><strong>Spread:</strong> Wisconsin Badgers -5.5</p>
+  <p><strong>Moneyline:</strong> Wisconsin Badgers (-222) | Oregon Ducks (+185)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wisconsin Badgers**: -4.5, Edge For Covering Spread: -0.8%
-- **Oregon Ducks**: 4.5, Edge For Covering Spread: -4.0%
+- **Wisconsin Badgers**: -5.5, Edge For Covering Spread: **1.1%**
+- **Oregon Ducks**: 5.5, Edge For Covering Spread: -5.9%
 
 ### Moneyline
-- **Wisconsin Badgers Win Probability**: 68.4%, Moneyline Edge: -0.4%
-- **Oregon Ducks Win Probability**: 31.6%, Moneyline Edge: -4.1%
+- **Wisconsin Badgers Win Probability**: 68.7%, Moneyline Edge: -0.3%
+- **Oregon Ducks Win Probability**: 31.3%, Moneyline Edge: -3.8%
 
 ### Total
 - **Predicted Total**: 151.5
-- Edge For Covering The Over: -5.0%
-- Edge For Covering The Under: **0.3%**
+- Edge For Covering The Over: -4.5%
+- Edge For Covering The Under: -0.3%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Wisconsin Badgers (19-8) travels to face Oregon Ducks (10-17) at Knight Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Wisconsin Badgers favored by 4.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Wisconsin Badgers (19-8) travels to face Oregon Ducks (10-17) at Knight Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Wisconsin Badgers favored by 5.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Wisconsin Badgers is viewed as the better team, but this isn't an overwhelming edge. Oregon Ducks has a legitimate path to covering or winning outright. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 5.5-point spread indicates Wisconsin Badgers is viewed as the better team, but this isn't an overwhelming edge. Oregon Ducks has a legitimate path to covering or winning outright. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Wisconsin Badgers** bring an offensive efficiency of 118.00 (ranked #38 nationally). This is an elite offense that can score in multiple ways. Their 35.3% three-point shooting is serviceable but won't scare anyone. 

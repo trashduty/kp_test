@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama Crimson Tide -14.5</p>
-  <p><strong>Moneyline:</strong> Mississippi St Bulldogs (+800) | Alabama Crimson Tide (-1350)</p>
+  <p><strong>Moneyline:</strong> Mississippi St Bulldogs (+855) | Alabama Crimson Tide (-1522)</p>
   <p><strong>Total:</strong> 172.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Mississippi St Bulldogs**: 14.5, Edge For Covering Spread: -4.0%
-- **Alabama Crimson Tide**: -14.5, Edge For Covering Spread: -0.8%
+- **Mississippi St Bulldogs**: 14.5, Edge For Covering Spread: -5.4%
+- **Alabama Crimson Tide**: -14.5, Edge For Covering Spread: **0.7%**
 
 ### Moneyline
-- **Mississippi St Bulldogs Win Probability**: 9.3%, Moneyline Edge: -1.8%
-- **Alabama Crimson Tide Win Probability**: 90.7%, Moneyline Edge: -2.4%
+- **Mississippi St Bulldogs Win Probability**: 9.0%, Moneyline Edge: -1.5%
+- **Alabama Crimson Tide Win Probability**: 91.0%, Moneyline Edge: -2.9%
 
 ### Total
-- **Predicted Total**: 174.0
-- Edge For Covering The Over: -4.6%
-- Edge For Covering The Under: -0.1%
+- **Predicted Total**: 174.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.9%
 
 ---
 

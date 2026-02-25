@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> South Alabama Jaguars -14.5</p>
-  <p><strong>Moneyline:</strong> UL Monroe Warhawks (+824) | South Alabama Jaguars (-1425)</p>
+  <p><strong>Moneyline:</strong> UL Monroe Warhawks (+990) | South Alabama Jaguars (-1981)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **South Alabama Jaguars**: -14.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **UL Monroe Warhawks Win Probability**: 9.2%, Moneyline Edge: -1.6%
-- **South Alabama Jaguars Win Probability**: 90.8%, Moneyline Edge: -2.6%
+- **UL Monroe Warhawks Win Probability**: 8.4%, Moneyline Edge: -0.8%
+- **South Alabama Jaguars Win Probability**: 91.6%, Moneyline Edge: -3.6%
 
 ### Total
 - **Predicted Total**: 152.0
-- Edge For Covering The Over: -5.7%
-- Edge For Covering The Under: **1.0%**
+- Edge For Covering The Over: -4.6%
+- Edge For Covering The Under: -0.1%
 
 ---
 

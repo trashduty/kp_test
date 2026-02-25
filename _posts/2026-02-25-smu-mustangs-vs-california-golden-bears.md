@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> SMU Mustangs -3.5</p>
-  <p><strong>Moneyline:</strong> SMU Mustangs (-185) | California Golden Bears (+150)</p>
+  <p><strong>Moneyline:</strong> SMU Mustangs (-179) | California Golden Bears (+148)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **SMU Mustangs**: -3.5, Edge For Covering Spread: -2.8%
-- **California Golden Bears**: 3.5, Edge For Covering Spread: -1.9%
+- **SMU Mustangs**: -3.5, Edge For Covering Spread: -2.6%
+- **California Golden Bears**: 3.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **SMU Mustangs Win Probability**: 60.4%, Moneyline Edge: -4.5%
-- **California Golden Bears Win Probability**: 39.6%, Moneyline Edge: -0.4%
+- **SMU Mustangs Win Probability**: 60.2%, Moneyline Edge: -4.0%
+- **California Golden Bears Win Probability**: 39.8%, Moneyline Edge: -0.5%
 
 ### Total
 - **Predicted Total**: 161.0

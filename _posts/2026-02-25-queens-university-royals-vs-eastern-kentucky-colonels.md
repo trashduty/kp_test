@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Queens University Royals -1.5</p>
-  <p><strong>Moneyline:</strong> Queens University Royals (N/A) | Eastern Kentucky Colonels (N/A)</p>
+  <p><strong>Moneyline:</strong> Queens University Royals (-117) | Eastern Kentucky Colonels (-102)</p>
   <p><strong>Total:</strong> 167.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Queens University Royals**: -1.5, Edge For Covering Spread: -2.1%
+- **Queens University Royals**: -1.5, Edge For Covering Spread: -2.6%
 - **Eastern Kentucky Colonels**: 1.5, Edge For Covering Spread: -2.5%
 
 ### Moneyline
-- **Queens University Royals Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Eastern Kentucky Colonels Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Queens University Royals Win Probability**: 52.3%, Moneyline Edge: -1.7%
+- **Eastern Kentucky Colonels Win Probability**: 47.7%, Moneyline Edge: -2.8%
 
 ### Total
 - **Predicted Total**: 166.5

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Vanderbilt Commodores -8.5</p>
-  <p><strong>Moneyline:</strong> Georgia Bulldogs (+360) | Vanderbilt Commodores (-470)</p>
+  <p><strong>Spread:</strong> Vanderbilt Commodores -9.5</p>
+  <p><strong>Moneyline:</strong> Georgia Bulldogs (+362) | Vanderbilt Commodores (-480)</p>
   <p><strong>Total:</strong> 168.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Georgia Bulldogs**: 8.5, Edge For Covering Spread: -0.5%
-- **Vanderbilt Commodores**: -8.5, Edge For Covering Spread: -4.1%
+- **Georgia Bulldogs**: 9.5, Edge For Covering Spread: -1.9%
+- **Vanderbilt Commodores**: -9.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Georgia Bulldogs Win Probability**: 20.7%, Moneyline Edge: -1.1%
-- **Vanderbilt Commodores Win Probability**: 79.3%, Moneyline Edge: -3.1%
+- **Georgia Bulldogs Win Probability**: 20.6%, Moneyline Edge: -1.0%
+- **Vanderbilt Commodores Win Probability**: 79.4%, Moneyline Edge: -3.3%
 
 ### Total
 - **Predicted Total**: 166.5
-- Edge For Covering The Over: -1.3%
-- Edge For Covering The Under: -3.5%
+- Edge For Covering The Over: -1.1%
+- Edge For Covering The Under: -3.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Vanderbilt Commodores (21-6) hosts Georgia Bulldogs (19-8) at Memorial Gym in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Vanderbilt Commodores favored by 8.5 points, with the total sitting at 168.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Vanderbilt Commodores (21-6) hosts Georgia Bulldogs (19-8) at Memorial Gym in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Vanderbilt Commodores favored by 9.5 points, with the total sitting at 168.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Vanderbilt Commodores has clear advantages, but games aren't played on paper. Georgia Bulldogs needs to punch above their weight class to keep this close. The total of 168.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 9.5 points tells us Vanderbilt Commodores has clear advantages, but games aren't played on paper. Georgia Bulldogs needs to punch above their weight class to keep this close. The total of 168.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Georgia Bulldogs** bring an offensive efficiency of 120.03 (ranked #23 nationally). This is an elite offense that can score in multiple ways. Their 32.8% three-point shooting is serviceable but won't scare anyone. 

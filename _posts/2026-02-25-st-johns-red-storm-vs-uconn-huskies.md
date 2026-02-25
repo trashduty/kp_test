@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UConn Huskies -4.5</p>
-  <p><strong>Moneyline:</strong> St. John's Red Storm (+185) | UConn Huskies (-227)</p>
+  <p><strong>Spread:</strong> UConn Huskies -5.0</p>
+  <p><strong>Moneyline:</strong> St. John's Red Storm (+185) | UConn Huskies (-225)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **St. John's Red Storm**: 4.5, Edge For Covering Spread: -2.1%
-- **UConn Huskies**: -4.5, Edge For Covering Spread: -2.9%
+- **St. John's Red Storm**: 5.0, Edge For Covering Spread: -4.2%
+- **UConn Huskies**: -5.0, Edge For Covering Spread: -0.8%
 
 ### Moneyline
 - **St. John's Red Storm Win Probability**: 32.0%, Moneyline Edge: -3.1%
-- **UConn Huskies Win Probability**: 68.0%, Moneyline Edge: -1.4%
+- **UConn Huskies Win Probability**: 68.0%, Moneyline Edge: -1.2%
 
 ### Total
 - **Predicted Total**: 146.0
-- Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When St. John's Red Storm (22-5) travels to face UConn Huskies (25-3) at Gampel Pavilion, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into UConn Huskies favored by 4.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When St. John's Red Storm (22-5) travels to face UConn Huskies (25-3) at Gampel Pavilion, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into UConn Huskies favored by 5.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates UConn Huskies is viewed as the better team, but this isn't an overwhelming edge. St. John's Red Storm has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 5.0-point spread indicates UConn Huskies is viewed as the better team, but this isn't an overwhelming edge. St. John's Red Storm has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **St. John's Red Storm** bring an offensive efficiency of 116.08 (ranked #58 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.2% three-point shooting is serviceable but won't scare anyone. 

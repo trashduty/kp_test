@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Gonzaga Bulldogs -26.5</p>
-  <p><strong>Moneyline:</strong> Portland Pilots (+3397) | Gonzaga Bulldogs (-13344)</p>
+  <p><strong>Spread:</strong> Gonzaga Bulldogs -27.5</p>
+  <p><strong>Moneyline:</strong> Portland Pilots (+3617) | Gonzaga Bulldogs (-15025)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Portland Pilots**: 26.5, Edge For Covering Spread: -0.3%
-- **Gonzaga Bulldogs**: -26.5, Edge For Covering Spread: -4.4%
+- **Portland Pilots**: 27.5, Edge For Covering Spread: -0.8%
+- **Gonzaga Bulldogs**: -27.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Portland Pilots Win Probability**: 1.9%, Moneyline Edge: -1.0%
-- **Gonzaga Bulldogs Win Probability**: 98.1%, Moneyline Edge: -1.2%
+- **Portland Pilots Win Probability**: 1.8%, Moneyline Edge: -0.9%
+- **Gonzaga Bulldogs Win Probability**: 98.2%, Moneyline Edge: -1.2%
 
 ### Total
-- **Predicted Total**: 150.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 150.0
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -2.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Gonzaga Bulldogs (27-2) hosts Portland Pilots (12-17) at McCarthey Athletic Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Gonzaga Bulldogs favored by 26.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Gonzaga Bulldogs (27-2) hosts Portland Pilots (12-17) at McCarthey Athletic Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Gonzaga Bulldogs favored by 27.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 26.5-point spread screams mismatch. The books are asking Portland Pilots to hang within two possessions, which based on the profiles, requires Gonzaga Bulldogs to play below their standard. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 27.5-point spread screams mismatch. The books are asking Portland Pilots to hang within two possessions, which based on the profiles, requires Gonzaga Bulldogs to play below their standard. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Portland Pilots** bring an offensive efficiency of 102.26 (ranked #294 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.0% from three, they can't rely on the arc. Expect a paint-focused attack. 

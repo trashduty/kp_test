@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Florida Gators -6.5</p>
-  <p><strong>Moneyline:</strong> Florida Gators (-290) | Texas Longhorns (+235)</p>
+  <p><strong>Moneyline:</strong> Florida Gators (-290) | Texas Longhorns (+237)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Texas Longhorns**: 6.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Florida Gators Win Probability**: 70.9%, Moneyline Edge: -3.4%
-- **Texas Longhorns Win Probability**: 29.1%, Moneyline Edge: -0.8%
+- **Florida Gators Win Probability**: 71.1%, Moneyline Edge: -3.3%
+- **Texas Longhorns Win Probability**: 28.9%, Moneyline Edge: -0.7%
 
 ### Total
 - **Predicted Total**: 158.5
-- Edge For Covering The Over: -1.3%
-- Edge For Covering The Under: -3.5%
+- Edge For Covering The Over: -1.1%
+- Edge For Covering The Under: -3.7%
 
 ---
 

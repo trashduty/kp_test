@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wake Forest Demon Deacons -4.5</p>
-  <p><strong>Moneyline:</strong> Wake Forest Demon Deacons (-200) | Boston College Eagles (+165)</p>
+  <p><strong>Moneyline:</strong> Wake Forest Demon Deacons (-199) | Boston College Eagles (+165)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wake Forest Demon Deacons**: -4.5, Edge For Covering Spread: -4.1%
-- **Boston College Eagles**: 4.5, Edge For Covering Spread: -0.7%
+- **Wake Forest Demon Deacons**: -4.5, Edge For Covering Spread: -3.8%
+- **Boston College Eagles**: 4.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **Wake Forest Demon Deacons Win Probability**: 61.9%, Moneyline Edge: -4.7%
-- **Boston College Eagles Win Probability**: 38.1%, Moneyline Edge: **0.3%**
+- **Wake Forest Demon Deacons Win Probability**: 61.9%, Moneyline Edge: -4.6%
+- **Boston College Eagles Win Probability**: 38.1%, Moneyline Edge: **0.4%**
 
 ### Total
 - **Predicted Total**: 143.5

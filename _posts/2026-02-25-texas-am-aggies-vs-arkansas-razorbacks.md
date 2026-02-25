@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arkansas Razorbacks -7.5</p>
-  <p><strong>Moneyline:</strong> Texas A&M Aggies (+300) | Arkansas Razorbacks (-380)</p>
+  <p><strong>Moneyline:</strong> Texas A&M Aggies (+287) | Arkansas Razorbacks (-374)</p>
   <p><strong>Total:</strong> 171.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Texas A&M Aggies**: 7.5, Edge For Covering Spread: -2.1%
-- **Arkansas Razorbacks**: -7.5, Edge For Covering Spread: -2.5%
+- **Texas A&M Aggies**: 7.5, Edge For Covering Spread: -3.4%
+- **Arkansas Razorbacks**: -7.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **Texas A&M Aggies Win Probability**: 23.5%, Moneyline Edge: -1.5%
-- **Arkansas Razorbacks Win Probability**: 76.5%, Moneyline Edge: -2.7%
+- **Texas A&M Aggies Win Probability**: 23.8%, Moneyline Edge: -2.0%
+- **Arkansas Razorbacks Win Probability**: 76.2%, Moneyline Edge: -2.7%
 
 ### Total
 - **Predicted Total**: 170.5

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wright St Raiders -2.5</p>
-  <p><strong>Moneyline:</strong> Wright St Raiders (-149) | Fort Wayne Mastodons (+124)</p>
+  <p><strong>Moneyline:</strong> Wright St Raiders (-150) | Fort Wayne Mastodons (+125)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wright St Raiders**: -2.5, Edge For Covering Spread: -1.3%
-- **Fort Wayne Mastodons**: 2.5, Edge For Covering Spread: -3.4%
+- **Wright St Raiders**: -2.5, Edge For Covering Spread: -1.6%
+- **Fort Wayne Mastodons**: 2.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
-- **Wright St Raiders Win Probability**: 59.7%, Moneyline Edge: -0.2%
-- **Fort Wayne Mastodons Win Probability**: 40.3%, Moneyline Edge: -4.2%
+- **Wright St Raiders Win Probability**: 59.8%, Moneyline Edge: -0.2%
+- **Fort Wayne Mastodons Win Probability**: 40.2%, Moneyline Edge: -4.1%
 
 ### Total
-- **Predicted Total**: 150.0
-- Edge For Covering The Over: -3.0%
-- Edge For Covering The Under: -3.5%
+- **Predicted Total**: 150.5
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -3.2%
 
 ---
 

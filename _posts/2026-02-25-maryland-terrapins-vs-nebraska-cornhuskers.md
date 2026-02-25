@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Nebraska Cornhuskers -17.5</p>
-  <p><strong>Moneyline:</strong> Maryland Terrapins (+1280) | Nebraska Cornhuskers (-3000)</p>
+  <p><strong>Moneyline:</strong> Maryland Terrapins (+1290) | Nebraska Cornhuskers (-3112)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Maryland Terrapins**: 17.5, Edge For Covering Spread: -3.6%
-- **Nebraska Cornhuskers**: -17.5, Edge For Covering Spread: -1.1%
+- **Maryland Terrapins**: 17.5, Edge For Covering Spread: -4.8%
+- **Nebraska Cornhuskers**: -17.5, Edge For Covering Spread: **0.1%**
 
 ### Moneyline
-- **Maryland Terrapins Win Probability**: 5.5%, Moneyline Edge: -1.8%
+- **Maryland Terrapins Win Probability**: 5.5%, Moneyline Edge: -1.7%
 - **Nebraska Cornhuskers Win Probability**: 94.5%, Moneyline Edge: -2.3%
 
 ### Total
 - **Predicted Total**: 141.5
-- Edge For Covering The Over: -1.5%
-- Edge For Covering The Under: -3.3%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

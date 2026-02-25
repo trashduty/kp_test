@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Colorado Buffaloes -6.5</p>
-  <p><strong>Moneyline:</strong> Kansas St Wildcats (+250) | Colorado Buffaloes (-310)</p>
+  <p><strong>Spread:</strong> Colorado Buffaloes -7.5</p>
+  <p><strong>Moneyline:</strong> Kansas St Wildcats (+255) | Colorado Buffaloes (-315)</p>
   <p><strong>Total:</strong> 165.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kansas St Wildcats**: 6.5, Edge For Covering Spread: -0.5%
-- **Colorado Buffaloes**: -6.5, Edge For Covering Spread: -4.1%
+- **Kansas St Wildcats**: 7.5, Edge For Covering Spread: -2.2%
+- **Colorado Buffaloes**: -7.5, Edge For Covering Spread: -2.5%
 
 ### Moneyline
-- **Kansas St Wildcats Win Probability**: 29.2%, Moneyline Edge: **0.6%**
-- **Colorado Buffaloes Win Probability**: 70.8%, Moneyline Edge: -4.8%
+- **Kansas St Wildcats Win Probability**: 29.0%, Moneyline Edge: **0.9%**
+- **Colorado Buffaloes Win Probability**: 71.0%, Moneyline Edge: -4.9%
 
 ### Total
 - **Predicted Total**: 162.0
-- Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.0%
+- Edge For Covering The Over: -1.4%
+- Edge For Covering The Under: -3.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Colorado Buffaloes (15-12) hosts Kansas St Wildcats (11-16) at CU Events Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Colorado Buffaloes favored by 6.5 points, with the total sitting at 165.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Colorado Buffaloes (15-12) hosts Kansas St Wildcats (11-16) at CU Events Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Colorado Buffaloes favored by 7.5 points, with the total sitting at 165.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates Colorado Buffaloes is viewed as the better team, but this isn't an overwhelming edge. Kansas St Wildcats has a legitimate path to covering or winning outright. The total of 165.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us Colorado Buffaloes has clear advantages, but games aren't played on paper. Kansas St Wildcats needs to punch above their weight class to keep this close. The total of 165.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Kansas St Wildcats** bring an offensive efficiency of 108.90 (ranked #166 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.4% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

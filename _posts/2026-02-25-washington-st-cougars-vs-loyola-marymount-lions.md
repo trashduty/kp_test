@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Washington St Cougars -1.5</p>
-  <p><strong>Moneyline:</strong> Washington St Cougars (-118) | Loyola Marymount Lions (-102)</p>
+  <p><strong>Moneyline:</strong> Washington St Cougars (-119) | Loyola Marymount Lions (-101)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Loyola Marymount Lions**: 1.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **Washington St Cougars Win Probability**: 47.9%, Moneyline Edge: -6.3%
-- **Loyola Marymount Lions Win Probability**: 52.1%, Moneyline Edge: **1.6%**
+- **Washington St Cougars Win Probability**: 48.0%, Moneyline Edge: -6.4%
+- **Loyola Marymount Lions Win Probability**: 52.0%, Moneyline Edge: **1.8%**
 
 ### Total
-- **Predicted Total**: 150.5
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -0.7%
+- **Predicted Total**: 150.0
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 

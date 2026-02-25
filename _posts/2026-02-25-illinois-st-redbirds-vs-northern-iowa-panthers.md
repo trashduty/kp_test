@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Northern Iowa Panthers -5.5</p>
-  <p><strong>Moneyline:</strong> Illinois St Redbirds (+205) | Northern Iowa Panthers (-250)</p>
+  <p><strong>Moneyline:</strong> Illinois St Redbirds (+202) | Northern Iowa Panthers (-250)</p>
   <p><strong>Total:</strong> 130.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Northern Iowa Panthers**: -5.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Illinois St Redbirds Win Probability**: 30.2%, Moneyline Edge: -2.6%
-- **Northern Iowa Panthers Win Probability**: 69.8%, Moneyline Edge: -1.7%
+- **Illinois St Redbirds Win Probability**: 30.3%, Moneyline Edge: -2.7%
+- **Northern Iowa Panthers Win Probability**: 69.7%, Moneyline Edge: -1.7%
 
 ### Total
-- **Predicted Total**: 129.5
-- Edge For Covering The Over: -5.5%
-- Edge For Covering The Under: **0.7%**
+- **Predicted Total**: 129.0
+- Edge For Covering The Over: -6.3%
+- Edge For Covering The Under: -0.0%
 
 ---
 

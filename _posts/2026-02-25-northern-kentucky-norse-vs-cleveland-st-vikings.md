@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Northern Kentucky Norse -7.5</p>
-  <p><strong>Moneyline:</strong> Northern Kentucky Norse (-302) | Cleveland St Vikings (+242)</p>
+  <p><strong>Moneyline:</strong> Northern Kentucky Norse (-312) | Cleveland St Vikings (+247)</p>
   <p><strong>Total:</strong> 162.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northern Kentucky Norse**: -7.5, Edge For Covering Spread: -5.4%
-- **Cleveland St Vikings**: 7.5, Edge For Covering Spread: **0.6%**
+- **Northern Kentucky Norse**: -7.5, Edge For Covering Spread: -3.9%
+- **Cleveland St Vikings**: 7.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **Northern Kentucky Norse Win Probability**: 69.8%, Moneyline Edge: -5.4%
-- **Cleveland St Vikings Win Probability**: 30.2%, Moneyline Edge: **1.0%**
+- **Northern Kentucky Norse Win Probability**: 69.9%, Moneyline Edge: -5.9%
+- **Cleveland St Vikings Win Probability**: 30.1%, Moneyline Edge: **1.3%**
 
 ### Total
 - **Predicted Total**: 164.5
-- Edge For Covering The Over: -0.3%
+- Edge For Covering The Over: -0.4%
 - Edge For Covering The Under: -4.5%
 
 ---

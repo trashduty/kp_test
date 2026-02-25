@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> George Mason Patriots -1.5</p>
-  <p><strong>Moneyline:</strong> George Mason Patriots (-112) | Saint Joseph's Hawks (-108)</p>
+  <p><strong>Spread:</strong> Saint Joseph's Hawks -1.5</p>
+  <p><strong>Moneyline:</strong> George Mason Patriots (-106) | Saint Joseph's Hawks (-113)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **George Mason Patriots**: -1.5, Edge For Covering Spread: -7.4%
-- **Saint Joseph's Hawks**: 1.5, Edge For Covering Spread: -0.0%
+- **George Mason Patriots**: 1.5, Edge For Covering Spread: -5.0%
+- **Saint Joseph's Hawks**: -1.5, Edge For Covering Spread: 0.0%
 
 ### Moneyline
-- **George Mason Patriots Win Probability**: 46.1%, Moneyline Edge: -6.7%
-- **Saint Joseph's Hawks Win Probability**: 53.9%, Moneyline Edge: **2.0%**
+- **George Mason Patriots Win Probability**: 45.6%, Moneyline Edge: -6.0%
+- **Saint Joseph's Hawks Win Probability**: 54.4%, Moneyline Edge: **1.4%**
 
 ### Total
-- **Predicted Total**: 138.5
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -0.7%
+- **Predicted Total**: 138.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.5%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-George Mason Patriots (21-6) travels to face Saint Joseph's Hawks (17-10) at Hagan Arena in what shapes up to be a competitive matchup. The early betting action has shaped into George Mason Patriots favored by 1.5 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+George Mason Patriots (21-6) travels to face Saint Joseph's Hawks (17-10) at Hagan Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Saint Joseph's Hawks favored by 1.5 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. George Mason Patriots's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Saint Joseph's Hawks's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **George Mason Patriots** bring an offensive efficiency of 112.54 (ranked #92 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.6% three-point shooting is serviceable but won't scare anyone. 

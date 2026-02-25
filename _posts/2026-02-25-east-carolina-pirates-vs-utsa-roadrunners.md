@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **UTSA Roadrunners Win Probability**: 35.6%, Moneyline Edge: -3.3%
 
 ### Total
-- **Predicted Total**: 149.5
-- Edge For Covering The Over: -4.9%
-- Edge For Covering The Under: **0.2%**
+- **Predicted Total**: 150.0
+- Edge For Covering The Over: -3.6%
+- Edge For Covering The Under: -1.2%
 
 ---
 

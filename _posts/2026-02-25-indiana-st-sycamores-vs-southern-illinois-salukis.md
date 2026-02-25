@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Southern Illinois Salukis -8.5</p>
-  <p><strong>Moneyline:</strong> Indiana St Sycamores (+370) | Southern Illinois Salukis (-485)</p>
+  <p><strong>Moneyline:</strong> Indiana St Sycamores (+350) | Southern Illinois Salukis (-469)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Southern Illinois Salukis**: -8.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Indiana St Sycamores Win Probability**: 20.6%, Moneyline Edge: -0.7%
-- **Southern Illinois Salukis Win Probability**: 79.4%, Moneyline Edge: -3.5%
+- **Indiana St Sycamores Win Probability**: 21.1%, Moneyline Edge: -1.1%
+- **Southern Illinois Salukis Win Probability**: 78.9%, Moneyline Edge: -3.6%
 
 ### Total
 - **Predicted Total**: 145.5
-- Edge For Covering The Over: -5.5%
-- Edge For Covering The Under: **0.7%**
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Creighton Bluejays -5.5</p>
-  <p><strong>Moneyline:</strong> DePaul Blue Demons (+190) | Creighton Bluejays (-235)</p>
+  <p><strong>Spread:</strong> Creighton Bluejays -5.0</p>
+  <p><strong>Moneyline:</strong> DePaul Blue Demons (+192) | Creighton Bluejays (-230)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **DePaul Blue Demons**: 5.5, Edge For Covering Spread: -3.5%
-- **Creighton Bluejays**: -5.5, Edge For Covering Spread: -1.2%
+- **DePaul Blue Demons**: 5.0, Edge For Covering Spread: -4.1%
+- **Creighton Bluejays**: -5.0, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **DePaul Blue Demons Win Probability**: 31.0%, Moneyline Edge: -3.5%
-- **Creighton Bluejays Win Probability**: 69.0%, Moneyline Edge: -1.1%
+- **DePaul Blue Demons Win Probability**: 31.0%, Moneyline Edge: -3.2%
+- **Creighton Bluejays Win Probability**: 69.0%, Moneyline Edge: -0.7%
 
 ### Total
-- **Predicted Total**: 142.0
-- Edge For Covering The Over: -3.6%
-- Edge For Covering The Under: -1.1%
+- **Predicted Total**: 142.5
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Creighton Bluejays (14-14) hosts DePaul Blue Demons (14-13) at CHI Health Center Omaha in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Creighton Bluejays favored by 5.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Creighton Bluejays (14-14) hosts DePaul Blue Demons (14-13) at CHI Health Center Omaha in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Creighton Bluejays favored by 5.0 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Creighton Bluejays is viewed as the better team, but this isn't an overwhelming edge. DePaul Blue Demons has a legitimate path to covering or winning outright. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 5.0-point spread indicates Creighton Bluejays is viewed as the better team, but this isn't an overwhelming edge. DePaul Blue Demons has a legitimate path to covering or winning outright. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **DePaul Blue Demons** bring an offensive efficiency of 105.23 (ranked #246 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.6% three-point shooting is serviceable but won't scare anyone. 

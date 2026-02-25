@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Oakland Golden Grizzlies -5.5</p>
-  <p><strong>Moneyline:</strong> Oakland Golden Grizzlies (-245) | IUPUI Jaguars (+200)</p>
+  <p><strong>Moneyline:</strong> Oakland Golden Grizzlies (-254) | IUPUI Jaguars (+210)</p>
   <p><strong>Total:</strong> 172.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **IUPUI Jaguars**: 5.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Oakland Golden Grizzlies Win Probability**: 68.7%, Moneyline Edge: -2.4%
-- **IUPUI Jaguars Win Probability**: 31.3%, Moneyline Edge: -2.0%
+- **Oakland Golden Grizzlies Win Probability**: 69.1%, Moneyline Edge: -2.7%
+- **IUPUI Jaguars Win Probability**: 30.9%, Moneyline Edge: -1.3%
 
 ### Total
 - **Predicted Total**: 172.0
-- Edge For Covering The Over: -0.0%
-- Edge For Covering The Under: -4.7%
+- Edge For Covering The Over: -1.2%
+- Edge For Covering The Under: -3.6%
 
 ---
 

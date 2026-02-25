@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Mercer Bears -1.5</p>
-  <p><strong>Moneyline:</strong> Mercer Bears (-125) | Western Carolina Catamounts (+105)</p>
+  <p><strong>Moneyline:</strong> Mercer Bears (-131) | Western Carolina Catamounts (+110)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Mercer Bears**: -1.5, Edge For Covering Spread: -4.0%
-- **Western Carolina Catamounts**: 1.5, Edge For Covering Spread: -0.8%
+- **Mercer Bears**: -1.5, Edge For Covering Spread: -4.4%
+- **Western Carolina Catamounts**: 1.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **Mercer Bears Win Probability**: 49.2%, Moneyline Edge: -6.3%
-- **Western Carolina Catamounts Win Probability**: 50.8%, Moneyline Edge: **2.0%**
+- **Mercer Bears Win Probability**: 49.9%, Moneyline Edge: -6.9%
+- **Western Carolina Catamounts Win Probability**: 50.1%, Moneyline Edge: **2.5%**
 
 ### Total
 - **Predicted Total**: 160.5
-- Edge For Covering The Over: -2.2%
+- Edge For Covering The Over: -2.4%
 - Edge For Covering The Under: -2.6%
 
 ---

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Robert Morris Colonials -8.5</p>
-  <p><strong>Moneyline:</strong> Detroit Mercy Titans (+290) | Robert Morris Colonials (-375)</p>
+  <p><strong>Moneyline:</strong> Detroit Mercy Titans (+320) | Robert Morris Colonials (-425)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Detroit Mercy Titans**: 8.5, Edge For Covering Spread: -0.8%
-- **Robert Morris Colonials**: -8.5, Edge For Covering Spread: -4.0%
+- **Detroit Mercy Titans**: 8.5, Edge For Covering Spread: -3.5%
+- **Robert Morris Colonials**: -8.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Detroit Mercy Titans Win Probability**: 24.8%, Moneyline Edge: -0.9%
-- **Robert Morris Colonials Win Probability**: 75.2%, Moneyline Edge: -3.7%
+- **Detroit Mercy Titans Win Probability**: 23.9%, Moneyline Edge: **0.1%**
+- **Robert Morris Colonials Win Probability**: 76.1%, Moneyline Edge: -4.8%
 
 ### Total
 - **Predicted Total**: 150.5

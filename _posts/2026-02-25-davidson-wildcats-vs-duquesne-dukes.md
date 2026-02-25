@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Duquesne Dukes -3.5</p>
-  <p><strong>Moneyline:</strong> Davidson Wildcats (+136) | Duquesne Dukes (-162)</p>
+  <p><strong>Spread:</strong> Duquesne Dukes -3.0</p>
+  <p><strong>Moneyline:</strong> Davidson Wildcats (+135) | Duquesne Dukes (-163)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Davidson Wildcats**: 3.5, Edge For Covering Spread: -1.8%
-- **Duquesne Dukes**: -3.5, Edge For Covering Spread: -2.9%
+- **Davidson Wildcats**: 3.0, Edge For Covering Spread: -2.0%
+- **Duquesne Dukes**: -3.0, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Davidson Wildcats Win Probability**: 40.3%, Moneyline Edge: -2.0%
-- **Duquesne Dukes Win Probability**: 59.7%, Moneyline Edge: -2.2%
+- **Davidson Wildcats Win Probability**: 40.3%, Moneyline Edge: -2.1%
+- **Duquesne Dukes Win Probability**: 59.7%, Moneyline Edge: -2.3%
 
 ### Total
 - **Predicted Total**: 143.0
-- Edge For Covering The Over: -0.4%
-- Edge For Covering The Under: -4.3%
+- Edge For Covering The Over: -1.0%
+- Edge For Covering The Under: -3.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Davidson Wildcats (16-11) travels to face Duquesne Dukes (16-11) at UPMC Cooper Fieldhouse, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Duquesne Dukes favored by 3.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Davidson Wildcats (16-11) travels to face Duquesne Dukes (16-11) at UPMC Cooper Fieldhouse, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Duquesne Dukes favored by 3.0 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Duquesne Dukes is viewed as the better team, but this isn't an overwhelming edge. Davidson Wildcats has a legitimate path to covering or winning outright. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 3.0-point spread indicates Duquesne Dukes is viewed as the better team, but this isn't an overwhelming edge. Davidson Wildcats has a legitimate path to covering or winning outright. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Davidson Wildcats** bring an offensive efficiency of 109.05 (ranked #162 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 37.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Villanova Wildcats -9.5</p>
-  <p><strong>Moneyline:</strong> Butler Bulldogs (+410) | Villanova Wildcats (-550)</p>
+  <p><strong>Moneyline:</strong> Butler Bulldogs (+417) | Villanova Wildcats (-574)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Butler Bulldogs**: 9.5, Edge For Covering Spread: -2.8%
-- **Villanova Wildcats**: -9.5, Edge For Covering Spread: -1.9%
+- **Butler Bulldogs**: 9.5, Edge For Covering Spread: -4.0%
+- **Villanova Wildcats**: -9.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Butler Bulldogs Win Probability**: 17.4%, Moneyline Edge: -2.2%
-- **Villanova Wildcats Win Probability**: 82.6%, Moneyline Edge: -2.0%
+- **Butler Bulldogs Win Probability**: 17.2%, Moneyline Edge: -2.1%
+- **Villanova Wildcats Win Probability**: 82.8%, Moneyline Edge: -2.4%
 
 ### Total
 - **Predicted Total**: 147.0

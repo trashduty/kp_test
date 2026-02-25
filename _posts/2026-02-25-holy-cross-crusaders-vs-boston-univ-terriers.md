@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Boston Univ. Terriers -8.5</p>
-  <p><strong>Moneyline:</strong> Holy Cross Crusaders (+275) | Boston Univ. Terriers (-350)</p>
+  <p><strong>Moneyline:</strong> Holy Cross Crusaders (+300) | Boston Univ. Terriers (-400)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Holy Cross Crusaders**: 8.5, Edge For Covering Spread: -2.4%
-- **Boston Univ. Terriers**: -8.5, Edge For Covering Spread: -2.2%
+- **Holy Cross Crusaders**: 8.5, Edge For Covering Spread: -1.8%
+- **Boston Univ. Terriers**: -8.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Holy Cross Crusaders Win Probability**: 23.9%, Moneyline Edge: -2.7%
-- **Boston Univ. Terriers Win Probability**: 76.1%, Moneyline Edge: -1.7%
+- **Holy Cross Crusaders Win Probability**: 23.1%, Moneyline Edge: -1.9%
+- **Boston Univ. Terriers Win Probability**: 76.9%, Moneyline Edge: -3.1%
 
 ### Total
 - **Predicted Total**: 143.5
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.4%
 
 ---
 

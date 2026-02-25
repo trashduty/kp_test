@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Grand Canyon Antelopes -7.5</p>
-  <p><strong>Moneyline:</strong> UNLV Rebels (+274) | Grand Canyon Antelopes (-349)</p>
+  <p><strong>Moneyline:</strong> UNLV Rebels (+290) | Grand Canyon Antelopes (-375)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UNLV Rebels**: 7.5, Edge For Covering Spread: -4.4%
-- **Grand Canyon Antelopes**: -7.5, Edge For Covering Spread: -0.3%
+- **UNLV Rebels**: 7.5, Edge For Covering Spread: -5.0%
+- **Grand Canyon Antelopes**: -7.5, Edge For Covering Spread: **0.3%**
 
 ### Moneyline
-- **UNLV Rebels Win Probability**: 22.8%, Moneyline Edge: -3.9%
-- **Grand Canyon Antelopes Win Probability**: 77.2%, Moneyline Edge: -0.5%
+- **UNLV Rebels Win Probability**: 22.3%, Moneyline Edge: -3.4%
+- **Grand Canyon Antelopes Win Probability**: 77.7%, Moneyline Edge: -1.2%
 
 ### Total
 - **Predicted Total**: 152.5
-- Edge For Covering The Over: -5.0%
-- Edge For Covering The Under: **0.3%**
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 

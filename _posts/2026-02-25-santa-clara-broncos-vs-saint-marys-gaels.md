@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Saint Mary's Gaels -5.0</p>
-  <p><strong>Moneyline:</strong> Santa Clara Broncos (+190) | Saint Mary's Gaels (-230)</p>
+  <p><strong>Spread:</strong> Saint Mary's Gaels -5.5</p>
+  <p><strong>Moneyline:</strong> Santa Clara Broncos (+187) | Saint Mary's Gaels (-225)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Santa Clara Broncos**: 5.0, Edge For Covering Spread: -0.1%
-- **Saint Mary's Gaels**: -5.0, Edge For Covering Spread: -4.9%
+- **Santa Clara Broncos**: 5.5, Edge For Covering Spread: -1.2%
+- **Saint Mary's Gaels**: -5.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Santa Clara Broncos Win Probability**: 34.5%, Moneyline Edge: **0.1%**
-- **Saint Mary's Gaels Win Probability**: 65.5%, Moneyline Edge: -4.2%
+- **Santa Clara Broncos Win Probability**: 34.7%, Moneyline Edge: -0.1%
+- **Saint Mary's Gaels Win Probability**: 65.3%, Moneyline Edge: -4.0%
 
 ### Total
-- **Predicted Total**: 152.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 151.5
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Santa Clara Broncos (23-6) travels to face Saint Mary's Gaels (25-4) at University Credit Union Pavilion, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Saint Mary's Gaels favored by 5.0 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Santa Clara Broncos (23-6) travels to face Saint Mary's Gaels (25-4) at University Credit Union Pavilion, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Saint Mary's Gaels favored by 5.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.0-point spread indicates Saint Mary's Gaels is viewed as the better team, but this isn't an overwhelming edge. Santa Clara Broncos has a legitimate path to covering or winning outright. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 5.5-point spread indicates Saint Mary's Gaels is viewed as the better team, but this isn't an overwhelming edge. Santa Clara Broncos has a legitimate path to covering or winning outright. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Santa Clara Broncos** bring an offensive efficiency of 118.71 (ranked #32 nationally). This is an elite offense that can score in multiple ways. Their 34.6% three-point shooting is serviceable but won't scare anyone. 

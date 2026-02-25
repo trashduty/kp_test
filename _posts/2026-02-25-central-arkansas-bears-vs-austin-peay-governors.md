@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Austin Peay Governors -3.5</p>
-  <p><strong>Moneyline:</strong> Central Arkansas Bears (+140) | Austin Peay Governors (-168)</p>
+  <p><strong>Moneyline:</strong> Central Arkansas Bears (+145) | Austin Peay Governors (-176)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Austin Peay Governors**: -3.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Central Arkansas Bears Win Probability**: 35.5%, Moneyline Edge: -6.2%
-- **Austin Peay Governors Win Probability**: 64.5%, Moneyline Edge: **1.9%**
+- **Central Arkansas Bears Win Probability**: 35.0%, Moneyline Edge: -5.8%
+- **Austin Peay Governors Win Probability**: 65.0%, Moneyline Edge: **1.2%**
 
 ### Total
-- **Predicted Total**: 149.0
+- **Predicted Total**: 149.5
 - Edge For Covering The Over: -4.9%
-- Edge For Covering The Under: **0.2%**
+- Edge For Covering The Under: -0.3%
 
 ---
 

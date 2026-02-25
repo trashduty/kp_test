@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tulsa Golden Hurricane -4.5</p>
-  <p><strong>Moneyline:</strong> Tulsa Golden Hurricane (-225) | Tulane Green Wave (+185)</p>
+  <p><strong>Moneyline:</strong> Tulsa Golden Hurricane (-225) | Tulane Green Wave (+186)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tulsa Golden Hurricane**: -4.5, Edge For Covering Spread: -3.5%
-- **Tulane Green Wave**: 4.5, Edge For Covering Spread: -1.2%
+- **Tulsa Golden Hurricane**: -4.5, Edge For Covering Spread: -2.9%
+- **Tulane Green Wave**: 4.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Tulsa Golden Hurricane Win Probability**: 66.3%, Moneyline Edge: -3.0%
-- **Tulane Green Wave Win Probability**: 33.7%, Moneyline Edge: -1.3%
+- **Tulsa Golden Hurricane Win Probability**: 66.3%, Moneyline Edge: -2.9%
+- **Tulane Green Wave Win Probability**: 33.7%, Moneyline Edge: -1.2%
 
 ### Total
 - **Predicted Total**: 155.0
 - Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 

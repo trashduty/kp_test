@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Providence Friars -6.5</p>
-  <p><strong>Moneyline:</strong> Xavier Musketeers (+210) | Providence Friars (-258)</p>
+  <p><strong>Moneyline:</strong> Xavier Musketeers (+210) | Providence Friars (-254)</p>
   <p><strong>Total:</strong> 170.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Xavier Musketeers**: 6.5, Edge For Covering Spread: -2.4%
-- **Providence Friars**: -6.5, Edge For Covering Spread: -2.4%
+- **Xavier Musketeers**: 6.5, Edge For Covering Spread: -3.5%
+- **Providence Friars**: -6.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
 - **Xavier Musketeers Win Probability**: 29.5%, Moneyline Edge: -2.8%
-- **Providence Friars Win Probability**: 70.5%, Moneyline Edge: -1.5%
+- **Providence Friars Win Probability**: 70.5%, Moneyline Edge: -1.3%
 
 ### Total
 - **Predicted Total**: 170.5

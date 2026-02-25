@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Bellarmine Knights -2.5</p>
-  <p><strong>Moneyline:</strong> Bellarmine Knights (-137) | North Alabama Lions (+114)</p>
+  <p><strong>Moneyline:</strong> Bellarmine Knights (-143) | North Alabama Lions (+119)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **North Alabama Lions**: 2.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Bellarmine Knights Win Probability**: 54.1%, Moneyline Edge: -3.8%
-- **North Alabama Lions Win Probability**: 45.9%, Moneyline Edge: -0.7%
+- **Bellarmine Knights Win Probability**: 54.7%, Moneyline Edge: -4.1%
+- **North Alabama Lions Win Probability**: 45.3%, Moneyline Edge: -0.4%
 
 ### Total
-- **Predicted Total**: 149.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 150.0
+- Edge For Covering The Over: **0.4%**
+- Edge For Covering The Under: -5.6%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> South Florida Bulls -11.5</p>
-  <p><strong>Moneyline:</strong> South Florida Bulls (-700) | Rice Owls (+500)</p>
+  <p><strong>Moneyline:</strong> South Florida Bulls (-738) | Rice Owls (+500)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Rice Owls**: 11.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **South Florida Bulls Win Probability**: 83.5%, Moneyline Edge: -4.0%
-- **Rice Owls Win Probability**: 16.5%, Moneyline Edge: -0.1%
+- **South Florida Bulls Win Probability**: 83.5%, Moneyline Edge: -4.6%
+- **Rice Owls Win Probability**: 16.5%, Moneyline Edge: -0.2%
 
 ### Total
 - **Predicted Total**: 157.5
-- Edge For Covering The Over: -2.8%
-- Edge For Covering The Under: -1.9%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 

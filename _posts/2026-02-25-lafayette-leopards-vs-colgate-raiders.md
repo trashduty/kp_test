@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Colgate Raiders -8.5</p>
-  <p><strong>Moneyline:</strong> Lafayette Leopards (+300) | Colgate Raiders (-375)</p>
+  <p><strong>Moneyline:</strong> Lafayette Leopards (+360) | Colgate Raiders (-500)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Lafayette Leopards**: 8.5, Edge For Covering Spread: -4.1%
-- **Colgate Raiders**: -8.5, Edge For Covering Spread: -0.7%
+- **Lafayette Leopards**: 8.5, Edge For Covering Spread: -2.7%
+- **Colgate Raiders**: -8.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Lafayette Leopards Win Probability**: 22.8%, Moneyline Edge: -2.2%
-- **Colgate Raiders Win Probability**: 77.2%, Moneyline Edge: -1.7%
+- **Lafayette Leopards Win Probability**: 21.1%, Moneyline Edge: -0.7%
+- **Colgate Raiders Win Probability**: 78.9%, Moneyline Edge: -4.4%
 
 ### Total
-- **Predicted Total**: 144.5
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- **Predicted Total**: 145.0
+- Edge For Covering The Over: -3.6%
+- Edge For Covering The Under: -2.1%
 
 ---
 

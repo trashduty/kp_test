@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> San Diego St Aztecs -1.5</p>
-  <p><strong>Moneyline:</strong> Utah State Aggies (-108) | San Diego St Aztecs (-111)</p>
+  <p><strong>Moneyline:</strong> Utah State Aggies (-106) | San Diego St Aztecs (-113)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Utah State Aggies**: 1.5, Edge For Covering Spread: -1.8%
+- **Utah State Aggies**: 1.5, Edge For Covering Spread: -1.5%
 - **San Diego St Aztecs**: -1.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
-- **Utah State Aggies Win Probability**: 51.3%, Moneyline Edge: -0.6%
-- **San Diego St Aztecs Win Probability**: 48.7%, Moneyline Edge: -3.9%
+- **Utah State Aggies Win Probability**: 51.1%, Moneyline Edge: -0.4%
+- **San Diego St Aztecs Win Probability**: 48.9%, Moneyline Edge: -4.2%
 
 ### Total
 - **Predicted Total**: 146.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 

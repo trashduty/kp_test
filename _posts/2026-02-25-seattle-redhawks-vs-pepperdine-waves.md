@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Seattle Redhawks -5.5</p>
-  <p><strong>Moneyline:</strong> Seattle Redhawks (-238) | Pepperdine Waves (+195)</p>
+  <p><strong>Moneyline:</strong> Seattle Redhawks (-245) | Pepperdine Waves (+201)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Seattle Redhawks**: -5.5, Edge For Covering Spread: -1.9%
-- **Pepperdine Waves**: 5.5, Edge For Covering Spread: -2.8%
+- **Seattle Redhawks**: -5.5, Edge For Covering Spread: -2.2%
+- **Pepperdine Waves**: 5.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Seattle Redhawks Win Probability**: 70.3%, Moneyline Edge: -0.2%
-- **Pepperdine Waves Win Probability**: 29.7%, Moneyline Edge: -4.1%
+- **Seattle Redhawks Win Probability**: 70.6%, Moneyline Edge: -0.4%
+- **Pepperdine Waves Win Probability**: 29.4%, Moneyline Edge: -3.8%
 
 ### Total
 - **Predicted Total**: 142.5
-- Edge For Covering The Over: -8.6%
-- Edge For Covering The Under: **3.8%**
+- Edge For Covering The Over: -9.7%
+- Edge For Covering The Under: **5.0%**
 
 ---
 

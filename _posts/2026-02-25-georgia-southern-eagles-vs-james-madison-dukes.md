@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> James Madison Dukes -5.5</p>
-  <p><strong>Moneyline:</strong> Georgia Southern Eagles (+185) | James Madison Dukes (-225)</p>
+  <p><strong>Moneyline:</strong> Georgia Southern Eagles (+194) | James Madison Dukes (-242)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **James Madison Dukes**: -5.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **Georgia Southern Eagles Win Probability**: 29.3%, Moneyline Edge: -5.8%
-- **James Madison Dukes Win Probability**: 70.7%, Moneyline Edge: **1.5%**
+- **Georgia Southern Eagles Win Probability**: 28.7%, Moneyline Edge: -5.3%
+- **James Madison Dukes Win Probability**: 71.3%, Moneyline Edge: **0.5%**
 
 ### Total
 - **Predicted Total**: 155.0

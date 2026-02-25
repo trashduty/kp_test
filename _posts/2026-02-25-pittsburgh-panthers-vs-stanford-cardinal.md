@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Stanford Cardinal -7.5</p>
-  <p><strong>Moneyline:</strong> Pittsburgh Panthers (+300) | Stanford Cardinal (-385)</p>
+  <p><strong>Spread:</strong> Stanford Cardinal -8.0</p>
+  <p><strong>Moneyline:</strong> Pittsburgh Panthers (+302) | Stanford Cardinal (-388)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Pittsburgh Panthers**: 7.5, Edge For Covering Spread: -0.5%
-- **Stanford Cardinal**: -7.5, Edge For Covering Spread: -4.1%
+- **Pittsburgh Panthers**: 8.0, Edge For Covering Spread: -0.6%
+- **Stanford Cardinal**: -8.0, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Pittsburgh Panthers Win Probability**: 25.5%, Moneyline Edge: **0.5%**
-- **Stanford Cardinal Win Probability**: 74.5%, Moneyline Edge: -4.9%
+- **Pittsburgh Panthers Win Probability**: 25.4%, Moneyline Edge: **0.5%**
+- **Stanford Cardinal Win Probability**: 74.6%, Moneyline Edge: -4.9%
 
 ### Total
-- **Predicted Total**: 137.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 138.0
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -4.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Stanford Cardinal (16-11) hosts Pittsburgh Panthers (10-17) at Maples Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Stanford Cardinal favored by 7.5 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Stanford Cardinal (16-11) hosts Pittsburgh Panthers (10-17) at Maples Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Stanford Cardinal favored by 8.0 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us Stanford Cardinal has clear advantages, but games aren't played on paper. Pittsburgh Panthers needs to punch above their weight class to keep this close. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.0 points tells us Stanford Cardinal has clear advantages, but games aren't played on paper. Pittsburgh Panthers needs to punch above their weight class to keep this close. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Pittsburgh Panthers** bring an offensive efficiency of 107.08 (ranked #210 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.5% three-point shooting is serviceable but won't scare anyone. 

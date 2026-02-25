@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Charlotte 49ers -1.5</p>
-  <p><strong>Moneyline:</strong> North Texas Mean Green (-102) | Charlotte 49ers (-118)</p>
+  <p><strong>Moneyline:</strong> North Texas Mean Green (-109) | Charlotte 49ers (-111)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **North Texas Mean Green**: 1.5, Edge For Covering Spread: -3.5%
-- **Charlotte 49ers**: -1.5, Edge For Covering Spread: -1.2%
+- **North Texas Mean Green**: 1.5, Edge For Covering Spread: -4.8%
+- **Charlotte 49ers**: -1.5, Edge For Covering Spread: 0.0%
 
 ### Moneyline
-- **North Texas Mean Green Win Probability**: 46.4%, Moneyline Edge: -4.1%
-- **Charlotte 49ers Win Probability**: 53.6%, Moneyline Edge: -0.5%
+- **North Texas Mean Green Win Probability**: 47.2%, Moneyline Edge: -4.9%
+- **Charlotte 49ers Win Probability**: 52.8%, Moneyline Edge: **0.2%**
 
 ### Total
-- **Predicted Total**: 134.5
-- Edge For Covering The Over: -6.9%
-- Edge For Covering The Under: **2.2%**
+- **Predicted Total**: 135.5
+- Edge For Covering The Over: -5.8%
+- Edge For Covering The Under: **1.0%**
 
 ---
 

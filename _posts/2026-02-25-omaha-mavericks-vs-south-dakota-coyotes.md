@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Omaha Mavericks -1.5</p>
-  <p><strong>Moneyline:</strong> Omaha Mavericks (-119) | South Dakota Coyotes (-101)</p>
+  <p><strong>Moneyline:</strong> Omaha Mavericks (-117) | South Dakota Coyotes (-103)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Omaha Mavericks**: -1.5, Edge For Covering Spread: -4.1%
-- **South Dakota Coyotes**: 1.5, Edge For Covering Spread: -0.6%
+- **Omaha Mavericks**: -1.5, Edge For Covering Spread: -4.4%
+- **South Dakota Coyotes**: 1.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **Omaha Mavericks Win Probability**: 50.5%, Moneyline Edge: -3.9%
-- **South Dakota Coyotes Win Probability**: 49.5%, Moneyline Edge: -0.7%
+- **Omaha Mavericks Win Probability**: 50.3%, Moneyline Edge: -3.8%
+- **South Dakota Coyotes Win Probability**: 49.7%, Moneyline Edge: -1.1%
 
 ### Total
-- **Predicted Total**: 157.0
-- Edge For Covering The Over: -3.8%
-- Edge For Covering The Under: -2.7%
+- **Predicted Total**: 157.5
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -2.6%
 
 ---
 

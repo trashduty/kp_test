@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Navy Midshipmen -7.5</p>
-  <p><strong>Moneyline:</strong> Navy Midshipmen (-305) | Loyola (MD) Greyhounds (+245)</p>
+  <p><strong>Moneyline:</strong> Navy Midshipmen (-382) | Loyola (MD) Greyhounds (+295)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Loyola (MD) Greyhounds**: 7.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Navy Midshipmen Win Probability**: 74.1%, Moneyline Edge: -1.2%
-- **Loyola (MD) Greyhounds Win Probability**: 25.9%, Moneyline Edge: -3.1%
+- **Navy Midshipmen Win Probability**: 75.9%, Moneyline Edge: -3.4%
+- **Loyola (MD) Greyhounds Win Probability**: 24.1%, Moneyline Edge: -1.2%
 
 ### Total
-- **Predicted Total**: 144.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- **Predicted Total**: 145.0
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -0.0%
 
 ---
 

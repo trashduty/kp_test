@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Iowa Hawkeyes -6.0</p>
-  <p><strong>Moneyline:</strong> Ohio State Buckeyes (+230) | Iowa Hawkeyes (-285)</p>
+  <p><strong>Spread:</strong> Iowa Hawkeyes -5.5</p>
+  <p><strong>Moneyline:</strong> Ohio State Buckeyes (+227) | Iowa Hawkeyes (-282)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ohio State Buckeyes**: 6.0, Edge For Covering Spread: -0.4%
-- **Iowa Hawkeyes**: -6.0, Edge For Covering Spread: -4.6%
+- **Ohio State Buckeyes**: 5.5, Edge For Covering Spread: **1.2%**
+- **Iowa Hawkeyes**: -5.5, Edge For Covering Spread: -6.2%
 
 ### Moneyline
-- **Ohio State Buckeyes Win Probability**: 30.5%, Moneyline Edge: **0.2%**
-- **Iowa Hawkeyes Win Probability**: 69.5%, Moneyline Edge: -4.5%
+- **Ohio State Buckeyes Win Probability**: 30.6%, Moneyline Edge: **0.1%**
+- **Iowa Hawkeyes Win Probability**: 69.4%, Moneyline Edge: -4.5%
 
 ### Total
-- **Predicted Total**: 142.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 143.0
+- Edge For Covering The Over: -1.0%
+- Edge For Covering The Under: -4.3%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Ohio State Buckeyes (17-10) travels to face Iowa Hawkeyes (19-8) at Carver Hawkeye Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Iowa Hawkeyes favored by 6.0 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Ohio State Buckeyes (17-10) travels to face Iowa Hawkeyes (19-8) at Carver Hawkeye Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Iowa Hawkeyes favored by 5.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.0-point spread indicates Iowa Hawkeyes is viewed as the better team, but this isn't an overwhelming edge. Ohio State Buckeyes has a legitimate path to covering or winning outright. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 5.5-point spread indicates Iowa Hawkeyes is viewed as the better team, but this isn't an overwhelming edge. Ohio State Buckeyes has a legitimate path to covering or winning outright. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Ohio State Buckeyes** bring an offensive efficiency of 117.36 (ranked #45 nationally). This is an elite offense that can score in multiple ways. Their 34.3% three-point shooting is serviceable but won't scare anyone. 

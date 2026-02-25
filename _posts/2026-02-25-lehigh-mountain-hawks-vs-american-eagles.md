@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> American Eagles -6.5</p>
-  <p><strong>Moneyline:</strong> Lehigh Mountain Hawks (+217) | American Eagles (-270)</p>
+  <p><strong>Moneyline:</strong> Lehigh Mountain Hawks (+222) | American Eagles (-282)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **American Eagles**: -6.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Lehigh Mountain Hawks Win Probability**: 27.1%, Moneyline Edge: -4.4%
-- **American Eagles Win Probability**: 72.9%, Moneyline Edge: -0.1%
+- **Lehigh Mountain Hawks Win Probability**: 26.9%, Moneyline Edge: -4.2%
+- **American Eagles Win Probability**: 73.1%, Moneyline Edge: -0.7%
 
 ### Total
-- **Predicted Total**: 140.5
-- Edge For Covering The Over: -1.9%
-- Edge For Covering The Under: -2.8%
+- **Predicted Total**: 141.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.7%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> South Carolina St Bulldogs -1.5</p>
-  <p><strong>Moneyline:</strong> Morgan St Bears (-103) | South Carolina St Bulldogs (-116)</p>
+  <p><strong>Moneyline:</strong> Morgan St Bears (-100) | South Carolina St Bulldogs (-120)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Morgan St Bears**: 1.5, Edge For Covering Spread: -4.1%
-- **South Carolina St Bulldogs**: -1.5, Edge For Covering Spread: -0.5%
+- **Morgan St Bears**: 1.5, Edge For Covering Spread: -3.8%
+- **South Carolina St Bulldogs**: -1.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **Morgan St Bears Win Probability**: 43.5%, Moneyline Edge: -7.4%
-- **South Carolina St Bulldogs Win Probability**: 56.5%, Moneyline Edge: **2.7%**
+- **Morgan St Bears Win Probability**: 43.0%, Moneyline Edge: -7.0%
+- **South Carolina St Bulldogs Win Probability**: 57.0%, Moneyline Edge: **2.5%**
 
 ### Total
-- **Predicted Total**: 156.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 155.5
+- Edge For Covering The Over: -4.9%
+- Edge For Covering The Under: **0.1%**
 
 ---
 

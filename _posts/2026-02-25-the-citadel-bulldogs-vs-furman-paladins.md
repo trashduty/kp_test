@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Furman Paladins -15.5</p>
-  <p><strong>Moneyline:</strong> The Citadel Bulldogs (+1100) | Furman Paladins (-2100)</p>
+  <p><strong>Moneyline:</strong> The Citadel Bulldogs (+965) | Furman Paladins (-1809)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Furman Paladins**: -15.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **The Citadel Bulldogs Win Probability**: 7.1%, Moneyline Edge: -1.2%
-- **Furman Paladins Win Probability**: 92.9%, Moneyline Edge: -2.6%
+- **The Citadel Bulldogs Win Probability**: 7.5%, Moneyline Edge: -1.9%
+- **Furman Paladins Win Probability**: 92.5%, Moneyline Edge: -2.3%
 
 ### Total
 - **Predicted Total**: 140.0
-- Edge For Covering The Over: -6.1%
-- Edge For Covering The Under: **1.4%**
+- Edge For Covering The Over: -5.9%
+- Edge For Covering The Under: -0.4%
 
 ---
 

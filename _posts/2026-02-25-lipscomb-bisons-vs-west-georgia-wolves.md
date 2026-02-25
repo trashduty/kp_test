@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Lipscomb Bisons -5.5</p>
-  <p><strong>Moneyline:</strong> Lipscomb Bisons (-225) | West Georgia Wolves (+185)</p>
+  <p><strong>Moneyline:</strong> Lipscomb Bisons (-227) | West Georgia Wolves (+189)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -28,12 +28,12 @@ All that being said, here's how our model prices this game.
 - **West Georgia Wolves**: 5.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Lipscomb Bisons Win Probability**: 64.0%, Moneyline Edge: -5.2%
-- **West Georgia Wolves Win Probability**: 36.0%, Moneyline Edge: **0.9%**
+- **Lipscomb Bisons Win Probability**: 64.1%, Moneyline Edge: -5.4%
+- **West Georgia Wolves Win Probability**: 35.9%, Moneyline Edge: **1.4%**
 
 ### Total
 - **Predicted Total**: 153.0
-- Edge For Covering The Over: -2.2%
+- Edge For Covering The Over: -2.6%
 - Edge For Covering The Under: -2.6%
 
 ---

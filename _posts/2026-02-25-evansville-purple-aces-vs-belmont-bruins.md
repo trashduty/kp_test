@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Belmont Bruins -20.5</p>
-  <p><strong>Moneyline:</strong> Evansville Purple Aces (+1494) | Belmont Bruins (-4737)</p>
+  <p><strong>Moneyline:</strong> Evansville Purple Aces (+1600) | Belmont Bruins (-5000)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Evansville Purple Aces**: 20.5, Edge For Covering Spread: -2.8%
-- **Belmont Bruins**: -20.5, Edge For Covering Spread: -1.9%
+- **Evansville Purple Aces**: 20.5, Edge For Covering Spread: -4.0%
+- **Belmont Bruins**: -20.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Evansville Purple Aces Win Probability**: 4.7%, Moneyline Edge: -1.5%
-- **Belmont Bruins Win Probability**: 95.3%, Moneyline Edge: -2.7%
+- **Evansville Purple Aces Win Probability**: 4.6%, Moneyline Edge: -1.3%
+- **Belmont Bruins Win Probability**: 95.4%, Moneyline Edge: -2.6%
 
 ### Total
 - **Predicted Total**: 151.0
-- Edge For Covering The Over: -0.1%
-- Edge For Covering The Under: -4.6%
+- Edge For Covering The Over: -0.4%
+- Edge For Covering The Under: -4.4%
 
 ---
 

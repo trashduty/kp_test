@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Ole Miss Rebels -1.5</p>
-  <p><strong>Moneyline:</strong> LSU Tigers (+110) | Ole Miss Rebels (-135)</p>
+  <p><strong>Moneyline:</strong> LSU Tigers (+105) | Ole Miss Rebels (-126)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **LSU Tigers**: 1.5, Edge For Covering Spread: -2.4%
-- **Ole Miss Rebels**: -1.5, Edge For Covering Spread: -2.4%
+- **LSU Tigers**: 1.5, Edge For Covering Spread: -1.8%
+- **Ole Miss Rebels**: -1.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **LSU Tigers Win Probability**: 44.4%, Moneyline Edge: -3.2%
-- **Ole Miss Rebels Win Probability**: 55.6%, Moneyline Edge: -1.8%
+- **LSU Tigers Win Probability**: 45.0%, Moneyline Edge: -3.6%
+- **Ole Miss Rebels Win Probability**: 55.0%, Moneyline Edge: -0.9%
 
 ### Total
 - **Predicted Total**: 148.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- Edge For Covering The Over: -3.0%
+- Edge For Covering The Under: -1.8%
 
 ---
 

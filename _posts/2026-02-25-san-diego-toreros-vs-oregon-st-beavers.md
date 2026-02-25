@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Oregon St Beavers -6.5</p>
-  <p><strong>Moneyline:</strong> San Diego Toreros (+240) | Oregon St Beavers (-298)</p>
+  <p><strong>Moneyline:</strong> San Diego Toreros (+244) | Oregon St Beavers (-307)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Oregon St Beavers**: -6.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **San Diego Toreros Win Probability**: 28.1%, Moneyline Edge: -1.3%
-- **Oregon St Beavers Win Probability**: 71.9%, Moneyline Edge: -3.0%
+- **San Diego Toreros Win Probability**: 27.9%, Moneyline Edge: -1.1%
+- **Oregon St Beavers Win Probability**: 72.1%, Moneyline Edge: -3.3%
 
 ### Total
 - **Predicted Total**: 145.5

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Youngstown St Penguins -1.5</p>
-  <p><strong>Moneyline:</strong> Youngstown St Penguins (-121) | Milwaukee Panthers (+101)</p>
+  <p><strong>Moneyline:</strong> Youngstown St Penguins (-122) | Milwaukee Panthers (+101)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Milwaukee Panthers**: 1.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
-- **Youngstown St Penguins Win Probability**: 53.7%, Moneyline Edge: -1.1%
-- **Milwaukee Panthers Win Probability**: 46.3%, Moneyline Edge: -3.4%
+- **Youngstown St Penguins Win Probability**: 53.7%, Moneyline Edge: -1.2%
+- **Milwaukee Panthers Win Probability**: 46.3%, Moneyline Edge: -3.5%
 
 ### Total
-- **Predicted Total**: 149.0
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 149.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.9%
 
 ---
 
