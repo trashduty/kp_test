@@ -3978,5 +3978,9 @@
   "South Alabama Jaguars vs. UL Monroe Warhawks|under": {
     "captured_at": "2026-02-24T23:12:40.593728+00:00",
     "edge_type": "under"
+  },
+  "Rice Owls vs. South Florida Bulls|Rice Owls|spread": {
+    "captured_at": "2026-02-25T01:37:20.939181+00:00",
+    "edge_type": "spread"
   }
 }
