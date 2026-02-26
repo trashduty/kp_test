@@ -4018,5 +4018,21 @@
   "Hampton Pirates vs. Charleston Cougars|Hampton Pirates|spread": {
     "captured_at": "2026-02-26T00:34:22.238727+00:00",
     "edge_type": "spread"
+  },
+  "UMBC Retrievers vs. Bryant Bulldogs|UMBC Retrievers|spread": {
+    "captured_at": "2026-02-26T01:38:06.953949+00:00",
+    "edge_type": "spread"
+  },
+  "Drexel Dragons vs. Campbell Fighting Camels|Drexel Dragons|moneyline": {
+    "captured_at": "2026-02-26T01:38:06.954277+00:00",
+    "edge_type": "moneyline"
+  },
+  "North Florida Ospreys vs. Florida Gulf Coast Eagles|North Florida Ospreys|spread": {
+    "captured_at": "2026-02-26T01:38:06.954886+00:00",
+    "edge_type": "spread"
+  },
+  "Jacksonville Dolphins vs. Stetson Hatters|Stetson Hatters|spread": {
+    "captured_at": "2026-02-26T01:38:06.955673+00:00",
+    "edge_type": "spread"
   }
 }
