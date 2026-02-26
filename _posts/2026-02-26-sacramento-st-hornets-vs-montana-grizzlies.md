@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Sacramento St Hornets**: 7.5, Edge For Covering Spread: -2.8%
-- **Montana Grizzlies**: -7.5, Edge For Covering Spread: -1.9%
+- **Sacramento St Hornets**: 7.5, Edge For Covering Spread: -3.1%
+- **Montana Grizzlies**: -7.5, Edge For Covering Spread: -1.7%
 
 ### Moneyline
-- **Sacramento St Hornets Win Probability**: 23.5%, Moneyline Edge: -4.3%
-- **Montana Grizzlies Win Probability**: 76.5%, Moneyline Edge: **0.0%**
+- **Sacramento St Hornets Win Probability**: 23.6%, Moneyline Edge: -4.2%
+- **Montana Grizzlies Win Probability**: 76.4%, Moneyline Edge: -0.1%
 
 ### Total
 - **Predicted Total**: 162.0
-- Edge For Covering The Over: -3.4%
-- Edge For Covering The Under: -1.4%
+- Edge For Covering The Over: -3.6%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -52,7 +52,7 @@ A spread around 7.5 points tells us Montana Grizzlies has clear advantages, but 
 Meanwhile, **Montana Grizzlies** counter with 107.87 offensive efficiency (#187). Points have been hard to come by, making every possession critical. They're lethal from beyond the arc at 37.1%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-Sacramento St Hornets operate at a 72.8 tempo (#16), while Montana Grizzlies play at 70.6 (#79). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.7) should create a standard flow. 
+Sacramento St Hornets operate at a 72.8 tempo (#16), while Montana Grizzlies play at 70.6 (#78). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.7) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Sacramento St Hornets shoot 47.3% on two-pointers, while Montana Grizzlies convert at 56.4%. Montana Grizzlies has a clear edge in interior scoring efficiency. 
@@ -108,16 +108,16 @@ Sacramento St Hornets comes in ranked #256 overall by KenPom. Defense has been a
 
 ## Montana Grizzlies
 
-Montana Grizzlies comes in ranked #186 overall by KenPom. They're dangerous from beyond the arc, shooting 37.1% from three (ranked #33 nationally), so expect them to let it fly from deep. 
+Montana Grizzlies comes in ranked #187 overall by KenPom. They're dangerous from beyond the arc, shooting 37.1% from three (ranked #33 nationally), so expect them to let it fly from deep. 
 
 ### Record & Ranking
 - **Record:** 14-14
 - **Head Coach:** Travis DeCuire
 - **Home Arena:** Dahlberg Arena
-- **KenPom Rank:** #186
+- **KenPom Rank:** #187
 - **Offensive Efficiency:** 107.9 (Rank: #187)
 - **Defensive Efficiency:** 109.9 (Rank: #219)
-- **Tempo:** 70.6 (Rank: #79)
+- **Tempo:** 70.6 (Rank: #78)
 
 ### Shooting Breakdown
 

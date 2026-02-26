@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Prairie View Panthers -5.5</p>
-  <p><strong>Moneyline:</strong> Jackson St Tigers (+190) | Prairie View Panthers (-232)</p>
+  <p><strong>Moneyline:</strong> Jackson St Tigers (+190) | Prairie View Panthers (-235)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -29,12 +29,12 @@ All that being said, here's how our model prices this game.
 
 ### Moneyline
 - **Jackson St Tigers Win Probability**: 33.0%, Moneyline Edge: -1.5%
-- **Prairie View Panthers Win Probability**: 67.0%, Moneyline Edge: -2.9%
+- **Prairie View Panthers Win Probability**: 67.0%, Moneyline Edge: -3.1%
 
 ### Total
 - **Predicted Total**: 164.5
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -1.9%
+- Edge For Covering The Under: -2.8%
 
 ---
 

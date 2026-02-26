@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Charleston Cougars -4.5</p>
-  <p><strong>Moneyline:</strong> Charleston Cougars (-220) | Hampton Pirates (+180)</p>
+  <p><strong>Spread:</strong> Charleston Cougars -6.5</p>
+  <p><strong>Moneyline:</strong> Charleston Cougars (-275) | Hampton Pirates (+220)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Charleston Cougars**: -4.5, Edge For Covering Spread: -6.9%
-- **Hampton Pirates**: 4.5, Edge For Covering Spread: **2.1%**
+- **Charleston Cougars**: -6.5, Edge For Covering Spread: -6.0%
+- **Hampton Pirates**: 6.5, Edge For Covering Spread: **0.9%**
 
 ### Moneyline
-- **Charleston Cougars Win Probability**: 62.9%, Moneyline Edge: -5.8%
-- **Hampton Pirates Win Probability**: 37.1%, Moneyline Edge: **1.4%**
+- **Charleston Cougars Win Probability**: 65.1%, Moneyline Edge: -8.3%
+- **Hampton Pirates Win Probability**: 34.9%, Moneyline Edge: **3.7%**
 
 ### Total
-- **Predicted Total**: 139.5
-- Edge For Covering The Over: -5.5%
-- Edge For Covering The Under: **0.7%**
+- **Predicted Total**: 139.0
+- Edge For Covering The Over: -3.6%
+- Edge For Covering The Under: -1.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Charleston Cougars (19-10) travels to face Hampton Pirates (12-16) at Hampton Convocation Center in what shapes up to be a competitive matchup. The early betting action has shaped into Charleston Cougars favored by 4.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Charleston Cougars (19-10) enters hostile territory as they take on Hampton Pirates (12-16) at Hampton Convocation Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Charleston Cougars favored by 6.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Charleston Cougars is viewed as the better team, but this isn't an overwhelming edge. Hampton Pirates has a legitimate path to covering or winning outright. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 6.5-point spread indicates Charleston Cougars is viewed as the better team, but this isn't an overwhelming edge. Hampton Pirates has a legitimate path to covering or winning outright. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Charleston Cougars** bring an offensive efficiency of 108.81 (ranked #167 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.6% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -87,7 +87,7 @@ Charleston Cougars comes in ranked #163 overall by KenPom. The three-point shot 
 
 - **2-Point Shooting:** 53.5% (Rank: #111)
 - **3-Point Shooting:** 30.6% (Rank: #329)
-- **Free Throw Shooting:** 74.3% (Rank: #120)
+- **Free Throw Shooting:** 74.3% (Rank: #121)
 - **3-Point Rate:** 38.5% (Rank: #204)
 
 ### Defensive Stats

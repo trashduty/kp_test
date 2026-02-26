@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Albany Great Danes**: -6.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Maine Black Bears Win Probability**: 27.4%, Moneyline Edge: -2.4%
-- **Albany Great Danes Win Probability**: 72.6%, Moneyline Edge: -2.1%
+- **Maine Black Bears Win Probability**: 27.3%, Moneyline Edge: -2.4%
+- **Albany Great Danes Win Probability**: 72.7%, Moneyline Edge: -2.0%
 
 ### Total
 - **Predicted Total**: 133.5
-- Edge For Covering The Over: -4.9%
-- Edge For Covering The Under: **0.2%**
+- Edge For Covering The Over: -5.8%
+- Edge For Covering The Under: **1.1%**
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Bethune-Cookman Wildcats -1.5</p>
-  <p><strong>Moneyline:</strong> Bethune-Cookman Wildcats (-122) | Grambling St Tigers (+102)</p>
+  <p><strong>Moneyline:</strong> Bethune-Cookman Wildcats (-130) | Grambling St Tigers (+110)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bethune-Cookman Wildcats**: -1.5, Edge For Covering Spread: -3.1%
-- **Grambling St Tigers**: 1.5, Edge For Covering Spread: -1.6%
+- **Bethune-Cookman Wildcats**: -1.5, Edge For Covering Spread: -5.2%
+- **Grambling St Tigers**: 1.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Bethune-Cookman Wildcats Win Probability**: 52.3%, Moneyline Edge: -2.7%
-- **Grambling St Tigers Win Probability**: 47.7%, Moneyline Edge: -1.8%
+- **Bethune-Cookman Wildcats Win Probability**: 53.1%, Moneyline Edge: -3.4%
+- **Grambling St Tigers Win Probability**: 46.9%, Moneyline Edge: -0.8%
 
 ### Total
-- **Predicted Total**: 140.5
-- Edge For Covering The Over: -5.2%
-- Edge For Covering The Under: **0.5%**
+- **Predicted Total**: 141.5
+- Edge For Covering The Over: -5.0%
+- Edge For Covering The Under: **0.3%**
 
 ---
 
@@ -73,12 +73,12 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Bethune-Cookman Wildcats
 
-Bethune-Cookman Wildcats comes in ranked #235 overall by KenPom. 
+Bethune-Cookman Wildcats comes in ranked #236 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 15-13
 - **Head Coach:** Reggie Theus
-- **KenPom Rank:** #235
+- **KenPom Rank:** #236
 - **Offensive Efficiency:** 103.8 (Rank: #274)
 - **Defensive Efficiency:** 108.0 (Rank: #167)
 - **Tempo:** 70.8 (Rank: #70)

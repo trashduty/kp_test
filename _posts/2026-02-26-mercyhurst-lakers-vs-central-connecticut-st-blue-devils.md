@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Central Connecticut St Blue Devils -3.5</p>
-  <p><strong>Moneyline:</strong> Mercyhurst Lakers (+135) | Central Connecticut St Blue Devils (-161)</p>
+  <p><strong>Spread:</strong> Central Connecticut St Blue Devils -4.5</p>
+  <p><strong>Moneyline:</strong> Mercyhurst Lakers (+170) | Central Connecticut St Blue Devils (-210)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Mercyhurst Lakers**: 3.5, Edge For Covering Spread: -0.9%
-- **Central Connecticut St Blue Devils**: -3.5, Edge For Covering Spread: -3.8%
+- **Mercyhurst Lakers**: 4.5, Edge For Covering Spread: **1.4%**
+- **Central Connecticut St Blue Devils**: -4.5, Edge For Covering Spread: -6.2%
 
 ### Moneyline
-- **Mercyhurst Lakers Win Probability**: 40.4%, Moneyline Edge: -2.1%
-- **Central Connecticut St Blue Devils Win Probability**: 59.6%, Moneyline Edge: -2.1%
+- **Mercyhurst Lakers Win Probability**: 37.7%, Moneyline Edge: **0.6%**
+- **Central Connecticut St Blue Devils Win Probability**: 62.3%, Moneyline Edge: -5.4%
 
 ### Total
 - **Predicted Total**: 137.5
-- Edge For Covering The Over: -3.4%
-- Edge For Covering The Under: -1.4%
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -1.3%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Mercyhurst Lakers (14-15) travels to face Central Connecticut St Blue Devils (16-11) at Detrick Gymnasium, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Central Connecticut St Blue Devils favored by 3.5 points, with the total sitting at 140.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Mercyhurst Lakers (14-15) travels to face Central Connecticut St Blue Devils (16-11) at Detrick Gymnasium, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Central Connecticut St Blue Devils favored by 4.5 points, with the total sitting at 140.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Central Connecticut St Blue Devils is viewed as the better team, but this isn't an overwhelming edge. Mercyhurst Lakers has a legitimate path to covering or winning outright. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 4.5-point spread indicates Central Connecticut St Blue Devils is viewed as the better team, but this isn't an overwhelming edge. Mercyhurst Lakers has a legitimate path to covering or winning outright. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Mercyhurst Lakers** bring an offensive efficiency of 103.97 (ranked #272 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.9% from three, they can't rely on the arc. Expect a paint-focused attack. 
@@ -93,13 +93,13 @@ Mercyhurst Lakers comes in ranked #286 overall by KenPom. The three-point shot h
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 50.9% (Rank: #142)
-- **Opponent 3-Point Shooting:** 33.1% (Rank: #131)
+- **Opponent 3-Point Shooting:** 33.1% (Rank: #130)
 - **Block Percentage:** 10.6% (Rank: #108)
 - **Steal Rate:** 0.1% (Rank: #69)
 
 ### Team Metrics
 
-- **Assist Rate:** 55.0% (Rank: #118)
+- **Assist Rate:** 55.0% (Rank: #117)
 - **Experience:** 0.7 years (Rank: #337)
 - **Bench Minutes:** 31.2% (Rank: #205)
 - **Average Height:** 75.0" (Rank: #365)

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> CSU Northridge Matadors -1.5</p>
-  <p><strong>Moneyline:</strong> UC Irvine Anteaters (-101) | CSU Northridge Matadors (-119)</p>
+  <p><strong>Moneyline:</strong> UC Irvine Anteaters (-102) | CSU Northridge Matadors (-118)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **CSU Northridge Matadors**: -1.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **UC Irvine Anteaters Win Probability**: 48.4%, Moneyline Edge: -1.9%
-- **CSU Northridge Matadors Win Probability**: 51.6%, Moneyline Edge: -2.7%
+- **UC Irvine Anteaters Win Probability**: 48.2%, Moneyline Edge: -2.3%
+- **CSU Northridge Matadors Win Probability**: 51.8%, Moneyline Edge: -2.4%
 
 ### Total
 - **Predicted Total**: 152.5
-- Edge For Covering The Over: -6.9%
-- Edge For Covering The Under: **2.2%**
+- Edge For Covering The Over: -5.8%
+- Edge For Covering The Under: **1.0%**
 
 ---
 
@@ -52,7 +52,7 @@ A spread under 3 points suggests the books see this as essentially a coin flip. 
 Meanwhile, **CSU Northridge Matadors** counter with 107.55 offensive efficiency (#194). Points have been hard to come by, making every possession critical. At 34.2% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-UC Irvine Anteaters operate at a 70.6 tempo (#77), while CSU Northridge Matadors play at 75.1 (#4). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. With an average tempo around 72.9, expect plenty of possessions and transition opportunities. 
+UC Irvine Anteaters operate at a 70.6 tempo (#76), while CSU Northridge Matadors play at 75.1 (#4). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. With an average tempo around 72.9, expect plenty of possessions and transition opportunities. 
 
 #### The Interior Battle
 Inside the paint, UC Irvine Anteaters shoot 48.7% on two-pointers, while CSU Northridge Matadors convert at 52.1%. Both teams are evenly matched in paint efficiency. 
@@ -81,7 +81,7 @@ UC Irvine Anteaters comes in ranked #110 overall by KenPom. Their defense has be
 - **KenPom Rank:** #110
 - **Offensive Efficiency:** 102.8 (Rank: #287)
 - **Defensive Efficiency:** 96.6 (Rank: #11)
-- **Tempo:** 70.6 (Rank: #77)
+- **Tempo:** 70.6 (Rank: #76)
 
 ### Shooting Breakdown
 
@@ -93,7 +93,7 @@ UC Irvine Anteaters comes in ranked #110 overall by KenPom. Their defense has be
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 41.6% (Rank: #1)
-- **Opponent 3-Point Shooting:** 33.3% (Rank: #143)
+- **Opponent 3-Point Shooting:** 33.3% (Rank: #142)
 - **Block Percentage:** 15.1% (Rank: #12)
 - **Steal Rate:** 0.1% (Rank: #120)
 
@@ -108,13 +108,13 @@ UC Irvine Anteaters comes in ranked #110 overall by KenPom. Their defense has be
 
 ## CSU Northridge Matadors
 
-CSU Northridge Matadors comes in ranked #156 overall by KenPom. 
+CSU Northridge Matadors comes in ranked #157 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 18-10
 - **Head Coach:** Andy Newman
 - **Home Arena:** Premier America Credit Union Arena
-- **KenPom Rank:** #156
+- **KenPom Rank:** #157
 - **Offensive Efficiency:** 107.5 (Rank: #194)
 - **Defensive Efficiency:** 107.1 (Rank: #147)
 - **Tempo:** 75.1 (Rank: #4)

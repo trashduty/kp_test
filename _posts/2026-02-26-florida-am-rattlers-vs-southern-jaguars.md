@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Southern Jaguars -9.5</p>
-  <p><strong>Moneyline:</strong> Florida A&M Rattlers (+350) | Southern Jaguars (-450)</p>
+  <p><strong>Moneyline:</strong> Florida A&M Rattlers (+360) | Southern Jaguars (-483)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Southern Jaguars**: -9.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Florida A&M Rattlers Win Probability**: 21.2%, Moneyline Edge: -1.0%
-- **Southern Jaguars Win Probability**: 78.8%, Moneyline Edge: -3.0%
+- **Florida A&M Rattlers Win Probability**: 20.9%, Moneyline Edge: -0.9%
+- **Southern Jaguars Win Probability**: 79.1%, Moneyline Edge: -3.7%
 
 ### Total
-- **Predicted Total**: 148.5
-- Edge For Covering The Over: -2.8%
-- Edge For Covering The Under: -1.9%
+- **Predicted Total**: 148.0
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wagner Seahawks -1.5</p>
-  <p><strong>Moneyline:</strong> New Haven Chargers (+110) | Wagner Seahawks (-135)</p>
+  <p><strong>Moneyline:</strong> New Haven Chargers (+112) | Wagner Seahawks (-137)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -25,16 +25,16 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **New Haven Chargers**: 1.5, Edge For Covering Spread: -4.0%
-- **Wagner Seahawks**: -1.5, Edge For Covering Spread: -0.7%
+- **Wagner Seahawks**: -1.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **New Haven Chargers Win Probability**: 41.4%, Moneyline Edge: -6.2%
-- **Wagner Seahawks Win Probability**: 58.6%, Moneyline Edge: **1.2%**
+- **New Haven Chargers Win Probability**: 41.0%, Moneyline Edge: -6.2%
+- **Wagner Seahawks Win Probability**: 59.0%, Moneyline Edge: **1.1%**
 
 ### Total
-- **Predicted Total**: 130.5
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- **Predicted Total**: 131.0
+- Edge For Covering The Over: -3.0%
+- Edge For Covering The Under: -2.2%
 
 ---
 

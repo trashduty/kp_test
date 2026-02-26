@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Utah Tech Trailblazers -3.5</p>
-  <p><strong>Moneyline:</strong> Abilene Christian Wildcats (+140) | Utah Tech Trailblazers (-168)</p>
+  <p><strong>Moneyline:</strong> Abilene Christian Wildcats (+140) | Utah Tech Trailblazers (-166)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Utah Tech Trailblazers**: -3.5, Edge For Covering Spread: **2.1%**
 
 ### Moneyline
-- **Abilene Christian Wildcats Win Probability**: 34.5%, Moneyline Edge: -7.2%
-- **Utah Tech Trailblazers Win Probability**: 65.5%, Moneyline Edge: **2.9%**
+- **Abilene Christian Wildcats Win Probability**: 34.5%, Moneyline Edge: -7.1%
+- **Utah Tech Trailblazers Win Probability**: 65.5%, Moneyline Edge: **3.1%**
 
 ### Total
 - **Predicted Total**: 139.5
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.2%
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -108,13 +108,13 @@ Abilene Christian Wildcats comes in ranked #232 overall by KenPom. The three-poi
 
 ## Utah Tech Trailblazers
 
-Utah Tech Trailblazers comes in ranked #174 overall by KenPom. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.3% from three. 
+Utah Tech Trailblazers comes in ranked #175 overall by KenPom. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.3% from three. 
 
 ### Record & Ranking
 - **Record:** 17-12
 - **Head Coach:** Jon Judkins
 - **Home Arena:** Burns Arena
-- **KenPom Rank:** #174
+- **KenPom Rank:** #175
 - **Offensive Efficiency:** 106.1 (Rank: #224)
 - **Defensive Efficiency:** 108.7 (Rank: #188)
 - **Tempo:** 67.9 (Rank: #213)

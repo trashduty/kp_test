@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Florida Atlantic Owls**: -4.5, Edge For Covering Spread: **1.0%**
 
 ### Moneyline
-- **Temple Owls Win Probability**: 31.2%, Moneyline Edge: -5.8%
-- **Florida Atlantic Owls Win Probability**: 68.8%, Moneyline Edge: **1.1%**
+- **Temple Owls Win Probability**: 30.9%, Moneyline Edge: -6.1%
+- **Florida Atlantic Owls Win Probability**: 69.1%, Moneyline Edge: **1.3%**
 
 ### Total
 - **Predicted Total**: 147.0

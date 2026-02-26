@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UC Santa Barbara Gauchos -11.5</p>
-  <p><strong>Moneyline:</strong> UC Riverside Highlanders (+530) | UC Santa Barbara Gauchos (-800)</p>
+  <p><strong>Moneyline:</strong> UC Riverside Highlanders (+520) | UC Santa Barbara Gauchos (-750)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **UC Santa Barbara Gauchos**: -11.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **UC Riverside Highlanders Win Probability**: 13.6%, Moneyline Edge: -2.3%
-- **UC Santa Barbara Gauchos Win Probability**: 86.4%, Moneyline Edge: -2.5%
+- **UC Riverside Highlanders Win Probability**: 13.7%, Moneyline Edge: -2.4%
+- **UC Santa Barbara Gauchos Win Probability**: 86.3%, Moneyline Edge: -2.0%
 
 ### Total
 - **Predicted Total**: 144.5
@@ -108,7 +108,7 @@ UC Riverside Highlanders comes in ranked #263 overall by KenPom. Defense has bee
 
 ## UC Santa Barbara Gauchos
 
-UC Santa Barbara Gauchos comes in ranked #131 overall by KenPom. They're dangerous from beyond the arc, shooting 38.1% from three (ranked #13 nationally), so expect them to let it fly from deep. 
+UC Santa Barbara Gauchos comes in ranked #131 overall by KenPom. They're dangerous from beyond the arc, shooting 38.1% from three (ranked #14 nationally), so expect them to let it fly from deep. 
 
 ### Record & Ranking
 - **Record:** 17-11
@@ -122,7 +122,7 @@ UC Santa Barbara Gauchos comes in ranked #131 overall by KenPom. They're dangero
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 53.8% (Rank: #92)
-- **3-Point Shooting:** 38.1% (Rank: #13)
+- **3-Point Shooting:** 38.1% (Rank: #14)
 - **Free Throw Shooting:** 77.6% (Rank: #22)
 - **3-Point Rate:** 43.9% (Rank: #93)
 

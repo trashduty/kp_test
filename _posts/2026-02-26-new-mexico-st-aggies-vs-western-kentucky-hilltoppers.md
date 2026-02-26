@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **New Mexico St Aggies**: 5.5, Edge For Covering Spread: **1.3%**
-- **Western Kentucky Hilltoppers**: -5.5, Edge For Covering Spread: -6.0%
+- **New Mexico St Aggies**: 5.5, Edge For Covering Spread: **0.8%**
+- **Western Kentucky Hilltoppers**: -5.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
 - **New Mexico St Aggies Win Probability**: 34.0%, Moneyline Edge: **1.7%**
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 150.5
-- Edge For Covering The Over: -5.0%
-- Edge For Covering The Under: **0.3%**
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 

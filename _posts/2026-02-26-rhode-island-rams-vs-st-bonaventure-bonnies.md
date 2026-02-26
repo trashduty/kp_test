@@ -80,7 +80,7 @@ Rhode Island Rams comes in ranked #123 overall by KenPom. The three-point shot h
 - **Head Coach:** Archie Miller
 - **KenPom Rank:** #123
 - **Offensive Efficiency:** 107.1 (Rank: #206)
-- **Defensive Efficiency:** 102.6 (Rank: #54)
+- **Defensive Efficiency:** 102.6 (Rank: #53)
 - **Tempo:** 66.1 (Rank: #302)
 
 ### Shooting Breakdown
@@ -121,7 +121,7 @@ St. Bonaventure Bonnies comes in ranked #160 overall by KenPom. They're dangerou
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 51.0% (Rank: #213)
+- **2-Point Shooting:** 51.0% (Rank: #214)
 - **3-Point Shooting:** 37.7% (Rank: #24)
 - **Free Throw Shooting:** 76.2% (Rank: #51)
 - **3-Point Rate:** 31.1% (Rank: #338)
@@ -135,7 +135,7 @@ St. Bonaventure Bonnies comes in ranked #160 overall by KenPom. They're dangerou
 
 ### Team Metrics
 
-- **Assist Rate:** 54.9% (Rank: #120)
+- **Assist Rate:** 54.9% (Rank: #119)
 - **Experience:** 1.6 years (Rank: #148)
 - **Bench Minutes:** 21.1% (Rank: #356)
 - **Average Height:** 76.4" (Rank: #320)

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Middle Tennessee Blue Raiders -7.5</p>
-  <p><strong>Moneyline:</strong> UTEP Miners (+285) | Middle Tennessee Blue Raiders (-360)</p>
+  <p><strong>Moneyline:</strong> UTEP Miners (+270) | Middle Tennessee Blue Raiders (-340)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UTEP Miners**: 7.5, Edge For Covering Spread: -4.1%
-- **Middle Tennessee Blue Raiders**: -7.5, Edge For Covering Spread: -0.7%
+- **UTEP Miners**: 7.5, Edge For Covering Spread: -2.9%
+- **Middle Tennessee Blue Raiders**: -7.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **UTEP Miners Win Probability**: 23.5%, Moneyline Edge: -2.5%
-- **Middle Tennessee Blue Raiders Win Probability**: 76.5%, Moneyline Edge: -1.7%
+- **UTEP Miners Win Probability**: 24.0%, Moneyline Edge: -3.1%
+- **Middle Tennessee Blue Raiders Win Probability**: 76.0%, Moneyline Edge: -1.2%
 
 ### Total
 - **Predicted Total**: 138.0

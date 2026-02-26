@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Utah Valley Wolverines -16.5</p>
-  <p><strong>Moneyline:</strong> Tarleton State Texans (+1200) | Utah Valley Wolverines (-2500)</p>
+  <p><strong>Moneyline:</strong> Tarleton State Texans (+1100) | Utah Valley Wolverines (-2500)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tarleton State Texans**: 16.5, Edge For Covering Spread: **2.9%**
-- **Utah Valley Wolverines**: -16.5, Edge For Covering Spread: -7.5%
+- **Tarleton State Texans**: 16.5, Edge For Covering Spread: **2.1%**
+- **Utah Valley Wolverines**: -16.5, Edge For Covering Spread: -6.9%
 
 ### Moneyline
-- **Tarleton State Texans Win Probability**: 9.2%, Moneyline Edge: **1.5%**
-- **Utah Valley Wolverines Win Probability**: 90.8%, Moneyline Edge: -5.4%
+- **Tarleton State Texans Win Probability**: 9.5%, Moneyline Edge: **1.2%**
+- **Utah Valley Wolverines Win Probability**: 90.5%, Moneyline Edge: -5.6%
 
 ### Total
 - **Predicted Total**: 143.5
@@ -94,7 +94,7 @@ Tarleton State Texans comes in ranked #215 overall by KenPom. The three-point sh
 
 - **Opponent 2-Point Shooting:** 54.2% (Rank: #284)
 - **Opponent 3-Point Shooting:** 35.7% (Rank: #278)
-- **Block Percentage:** 9.7% (Rank: #159)
+- **Block Percentage:** 9.7% (Rank: #158)
 - **Steal Rate:** 0.1% (Rank: #4)
 
 ### Team Metrics
@@ -121,7 +121,7 @@ Utah Valley Wolverines comes in ranked #82 overall by KenPom. Their defense has 
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 57.3% (Rank: #34)
+- **2-Point Shooting:** 57.3% (Rank: #33)
 - **3-Point Shooting:** 33.0% (Rank: #239)
 - **Free Throw Shooting:** 69.0% (Rank: #289)
 - **3-Point Rate:** 32.9% (Rank: #315)

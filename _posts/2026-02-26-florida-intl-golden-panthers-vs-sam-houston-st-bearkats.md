@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Sam Houston St Bearkats -6.5</p>
-  <p><strong>Moneyline:</strong> Florida Int'l Golden Panthers (+237) | Sam Houston St Bearkats (-296)</p>
+  <p><strong>Moneyline:</strong> Florida Int'l Golden Panthers (+244) | Sam Houston St Bearkats (-312)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Sam Houston St Bearkats**: -6.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Florida Int'l Golden Panthers Win Probability**: 25.2%, Moneyline Edge: -4.5%
-- **Sam Houston St Bearkats Win Probability**: 74.8%, Moneyline Edge: **0.0%**
+- **Florida Int'l Golden Panthers Win Probability**: 24.9%, Moneyline Edge: -4.2%
+- **Sam Houston St Bearkats Win Probability**: 75.1%, Moneyline Edge: -0.6%
 
 ### Total
-- **Predicted Total**: 164.0
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- **Predicted Total**: 163.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 
@@ -123,7 +123,7 @@ Sam Houston St Bearkats comes in ranked #107 overall by KenPom. They're dangerou
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 51.0% (Rank: #214)
+- **2-Point Shooting:** 51.0% (Rank: #215)
 - **3-Point Shooting:** 37.1% (Rank: #34)
 - **Free Throw Shooting:** 73.0% (Rank: #163)
 - **3-Point Rate:** 37.0% (Rank: #231)

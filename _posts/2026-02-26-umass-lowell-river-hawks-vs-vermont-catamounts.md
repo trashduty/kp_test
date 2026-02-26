@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Vermont Catamounts -10.5</p>
-  <p><strong>Moneyline:</strong> UMass Lowell River Hawks (+425) | Vermont Catamounts (-600)</p>
+  <p><strong>Moneyline:</strong> UMass Lowell River Hawks (+447) | Vermont Catamounts (-647)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UMass Lowell River Hawks**: 10.5, Edge For Covering Spread: -1.0%
-- **Vermont Catamounts**: -10.5, Edge For Covering Spread: -3.8%
+- **UMass Lowell River Hawks**: 10.5, Edge For Covering Spread: -1.2%
+- **Vermont Catamounts**: -10.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **UMass Lowell River Hawks Win Probability**: 20.6%, Moneyline Edge: **1.5%**
-- **Vermont Catamounts Win Probability**: 79.4%, Moneyline Edge: -6.3%
+- **UMass Lowell River Hawks Win Probability**: 20.2%, Moneyline Edge: **1.9%**
+- **Vermont Catamounts Win Probability**: 79.8%, Moneyline Edge: -6.8%
 
 ### Total
 - **Predicted Total**: 147.5
@@ -108,13 +108,13 @@ UMass Lowell River Hawks comes in ranked #314 overall by KenPom. Defense has bee
 
 ## Vermont Catamounts
 
-Vermont Catamounts comes in ranked #236 overall by KenPom. 
+Vermont Catamounts comes in ranked #235 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 18-11
 - **Head Coach:** John Becker
 - **Home Arena:** Patrick Gymnasium
-- **KenPom Rank:** #236
+- **KenPom Rank:** #235
 - **Offensive Efficiency:** 111.3 (Rank: #112)
 - **Defensive Efficiency:** 106.8 (Rank: #137)
 - **Tempo:** 64.8 (Rank: #339)

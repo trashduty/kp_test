@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Winthrop Eagles -6.5</p>
-  <p><strong>Moneyline:</strong> Winthrop Eagles (-236) | Charleston Southern Buccaneers (+195)</p>
+  <p><strong>Moneyline:</strong> Winthrop Eagles (-250) | Charleston Southern Buccaneers (+200)</p>
   <p><strong>Total:</strong> 162.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Winthrop Eagles**: -6.5, Edge For Covering Spread: -4.1%
-- **Charleston Southern Buccaneers**: 6.5, Edge For Covering Spread: -0.6%
+- **Winthrop Eagles**: -6.5, Edge For Covering Spread: -4.4%
+- **Charleston Southern Buccaneers**: 6.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **Winthrop Eagles Win Probability**: 65.1%, Moneyline Edge: -5.2%
-- **Charleston Southern Buccaneers Win Probability**: 34.9%, Moneyline Edge: **1.0%**
+- **Winthrop Eagles Win Probability**: 65.6%, Moneyline Edge: -5.9%
+- **Charleston Southern Buccaneers Win Probability**: 34.4%, Moneyline Edge: **1.1%**
 
 ### Total
-- **Predicted Total**: 162.0
-- Edge For Covering The Over: -3.4%
-- Edge For Covering The Under: -1.4%
+- **Predicted Total**: 162.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 
@@ -135,7 +135,7 @@ Charleston Southern Buccaneers comes in ranked #257 overall by KenPom.
 
 ### Team Metrics
 
-- **Assist Rate:** 54.7% (Rank: #129)
+- **Assist Rate:** 54.7% (Rank: #128)
 - **Experience:** 0.8 years (Rank: #321)
 - **Bench Minutes:** 42.6% (Rank: #11)
 - **Average Height:** 77.3" (Rank: #194)

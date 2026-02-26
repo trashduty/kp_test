@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> SE Missouri St Redhawks -3.5</p>
-  <p><strong>Moneyline:</strong> Tennessee St Tigers (+157) | SE Missouri St Redhawks (-191)</p>
+  <p><strong>Moneyline:</strong> Tennessee St Tigers (+154) | SE Missouri St Redhawks (-192)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tennessee St Tigers**: 3.5, Edge For Covering Spread: -1.5%
-- **SE Missouri St Redhawks**: -3.5, Edge For Covering Spread: -3.3%
+- **Tennessee St Tigers**: 3.5, Edge For Covering Spread: -2.4%
+- **SE Missouri St Redhawks**: -3.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Tennessee St Tigers Win Probability**: 36.2%, Moneyline Edge: -2.7%
-- **SE Missouri St Redhawks Win Probability**: 63.8%, Moneyline Edge: -1.8%
+- **Tennessee St Tigers Win Probability**: 36.3%, Moneyline Edge: -3.0%
+- **SE Missouri St Redhawks Win Probability**: 63.7%, Moneyline Edge: -2.1%
 
 ### Total
 - **Predicted Total**: 155.0
@@ -116,7 +116,7 @@ SE Missouri St Redhawks comes in ranked #224 overall by KenPom. The three-point 
 - **Home Arena:** Show Me Center
 - **KenPom Rank:** #224
 - **Offensive Efficiency:** 104.4 (Rank: #266)
-- **Defensive Efficiency:** 102.7 (Rank: #56)
+- **Defensive Efficiency:** 102.7 (Rank: #55)
 - **Tempo:** 70.1 (Rank: #98)
 
 ### Shooting Breakdown

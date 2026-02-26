@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UNC Greensboro Spartans**: 3.5, Edge For Covering Spread: -4.0%
-- **Chattanooga Mocs**: -3.5, Edge For Covering Spread: -0.8%
+- **UNC Greensboro Spartans**: 3.5, Edge For Covering Spread: -2.8%
+- **Chattanooga Mocs**: -3.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
 - **UNC Greensboro Spartans Win Probability**: 35.9%, Moneyline Edge: -3.5%

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Florida Gulf Coast Eagles -5.5</p>
-  <p><strong>Moneyline:</strong> Florida Gulf Coast Eagles (-232) | North Florida Ospreys (+190)</p>
+  <p><strong>Moneyline:</strong> Florida Gulf Coast Eagles (-238) | North Florida Ospreys (+195)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Gulf Coast Eagles**: -5.5, Edge For Covering Spread: -6.4%
-- **North Florida Ospreys**: 5.5, Edge For Covering Spread: **1.6%**
+- **Florida Gulf Coast Eagles**: -5.5, Edge For Covering Spread: -6.0%
+- **North Florida Ospreys**: 5.5, Edge For Covering Spread: **1.3%**
 
 ### Moneyline
-- **Florida Gulf Coast Eagles Win Probability**: 66.5%, Moneyline Edge: -3.4%
-- **North Florida Ospreys Win Probability**: 33.5%, Moneyline Edge: -1.0%
+- **Florida Gulf Coast Eagles Win Probability**: 66.7%, Moneyline Edge: -3.7%
+- **North Florida Ospreys Win Probability**: 33.3%, Moneyline Edge: -0.6%
 
 ### Total
-- **Predicted Total**: 162.5
-- Edge For Covering The Over: -0.4%
-- Edge For Covering The Under: -4.3%
+- **Predicted Total**: 163.0
+- Edge For Covering The Over: -0.0%
+- Edge For Covering The Under: -4.7%
 
 ---
 

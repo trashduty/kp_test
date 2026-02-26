@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> High Point Panthers -10.5</p>
-  <p><strong>Moneyline:</strong> High Point Panthers (-625) | Presbyterian Blue Hose (+450)</p>
+  <p><strong>Moneyline:</strong> High Point Panthers (-650) | Presbyterian Blue Hose (+475)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Presbyterian Blue Hose**: 10.5, Edge For Covering Spread: **1.1%**
 
 ### Moneyline
-- **High Point Panthers Win Probability**: 82.3%, Moneyline Edge: -3.9%
-- **Presbyterian Blue Hose Win Probability**: 17.7%, Moneyline Edge: -0.5%
+- **High Point Panthers Win Probability**: 82.6%, Moneyline Edge: -4.0%
+- **Presbyterian Blue Hose Win Probability**: 17.4%, Moneyline Edge: -0.0%
 
 ### Total
 - **Predicted Total**: 150.5
 - Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 
@@ -133,7 +133,7 @@ Presbyterian Blue Hose comes in ranked #281 overall by KenPom. The three-point s
 - **Opponent 2-Point Shooting:** 51.2% (Rank: #157)
 - **Opponent 3-Point Shooting:** 35.4% (Rank: #254)
 - **Block Percentage:** 11.8% (Rank: #58)
-- **Steal Rate:** 0.1% (Rank: #261)
+- **Steal Rate:** 0.1% (Rank: #262)
 
 ### Team Metrics
 

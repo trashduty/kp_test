@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> LIU Sharks -12.5</p>
-  <p><strong>Moneyline:</strong> Chicago St Cougars (+550) | LIU Sharks (-800)</p>
+  <p><strong>Moneyline:</strong> Chicago St Cougars (+617) | LIU Sharks (-1000)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **LIU Sharks**: -12.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Chicago St Cougars Win Probability**: 13.9%, Moneyline Edge: -1.5%
-- **LIU Sharks Win Probability**: 86.1%, Moneyline Edge: -2.8%
+- **Chicago St Cougars Win Probability**: 13.1%, Moneyline Edge: -0.8%
+- **LIU Sharks Win Probability**: 86.9%, Moneyline Edge: -4.1%
 
 ### Total
-- **Predicted Total**: 140.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 141.5
+- Edge For Covering The Over: -0.1%
+- Edge For Covering The Under: -5.1%
 
 ---
 
@@ -108,13 +108,13 @@ Chicago St Cougars comes in ranked #343 overall by KenPom. Defense has been a st
 
 ## LIU Sharks
 
-LIU Sharks comes in ranked #217 overall by KenPom. 
+LIU Sharks comes in ranked #218 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 19-10
 - **Head Coach:** Rod Strickland
 - **Home Arena:** Steinberg Wellness Center
-- **KenPom Rank:** #217
+- **KenPom Rank:** #218
 - **Offensive Efficiency:** 107.2 (Rank: #202)
 - **Defensive Efficiency:** 104.4 (Rank: #87)
 - **Tempo:** 68.9 (Rank: #165)

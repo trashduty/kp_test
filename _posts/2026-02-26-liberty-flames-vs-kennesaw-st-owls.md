@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Liberty Flames -1.5</p>
-  <p><strong>Moneyline:</strong> Liberty Flames (-137) | Kennesaw St Owls (+114)</p>
+  <p><strong>Moneyline:</strong> Liberty Flames (-125) | Kennesaw St Owls (+105)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Liberty Flames**: -1.5, Edge For Covering Spread: -3.8%
-- **Kennesaw St Owls**: 1.5, Edge For Covering Spread: -0.9%
+- **Liberty Flames**: -1.5, Edge For Covering Spread: -2.4%
+- **Kennesaw St Owls**: 1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Liberty Flames Win Probability**: 56.2%, Moneyline Edge: -1.7%
-- **Kennesaw St Owls Win Probability**: 43.8%, Moneyline Edge: -2.8%
+- **Liberty Flames Win Probability**: 55.1%, Moneyline Edge: -0.4%
+- **Kennesaw St Owls Win Probability**: 44.9%, Moneyline Edge: -3.9%
 
 ### Total
-- **Predicted Total**: 154.5
-- Edge For Covering The Over: -1.2%
-- Edge For Covering The Under: -3.5%
+- **Predicted Total**: 155.0
+- Edge For Covering The Over: **0.2%**
+- Edge For Covering The Under: -4.9%
 
 ---
 
@@ -126,7 +126,7 @@ Kennesaw St Owls comes in ranked #182 overall by KenPom.
 - **2-Point Shooting:** 50.3% (Rank: #240)
 - **3-Point Shooting:** 33.3% (Rank: #224)
 - **Free Throw Shooting:** 70.0% (Rank: #263)
-- **3-Point Rate:** 44.3% (Rank: #85)
+- **3-Point Rate:** 44.3% (Rank: #84)
 
 ### Defensive Stats
 

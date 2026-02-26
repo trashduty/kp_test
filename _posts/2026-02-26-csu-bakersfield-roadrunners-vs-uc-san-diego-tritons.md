@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UC San Diego Tritons -14.5</p>
-  <p><strong>Moneyline:</strong> CSU Bakersfield Roadrunners (+842) | UC San Diego Tritons (-1576)</p>
+  <p><strong>Moneyline:</strong> CSU Bakersfield Roadrunners (+843) | UC San Diego Tritons (-1536)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -29,7 +29,7 @@ All that being said, here's how our model prices this game.
 
 ### Moneyline
 - **CSU Bakersfield Roadrunners Win Probability**: 8.6%, Moneyline Edge: -2.0%
-- **UC San Diego Tritons Win Probability**: 91.4%, Moneyline Edge: -2.6%
+- **UC San Diego Tritons Win Probability**: 91.4%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 149.5
@@ -108,13 +108,13 @@ CSU Bakersfield Roadrunners comes in ranked #326 overall by KenPom. The three-po
 
 ## UC San Diego Tritons
 
-UC San Diego Tritons comes in ranked #113 overall by KenPom. Their defense has been a calling card this season, making life difficult for opposing offenses. 
+UC San Diego Tritons comes in ranked #114 overall by KenPom. Their defense has been a calling card this season, making life difficult for opposing offenses. 
 
 ### Record & Ranking
 - **Record:** 19-9
 - **Head Coach:** Clint Allard
 - **Home Arena:** LionTree Arena
-- **KenPom Rank:** #113
+- **KenPom Rank:** #114
 - **Offensive Efficiency:** 107.3 (Rank: #198)
 - **Defensive Efficiency:** 101.3 (Rank: #45)
 - **Tempo:** 69.7 (Rank: #119)

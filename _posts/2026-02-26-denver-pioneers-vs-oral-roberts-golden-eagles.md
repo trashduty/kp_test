@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Denver Pioneers -4.5</p>
-  <p><strong>Moneyline:</strong> Denver Pioneers (-199) | Oral Roberts Golden Eagles (+164)</p>
+  <p><strong>Moneyline:</strong> Denver Pioneers (-200) | Oral Roberts Golden Eagles (+165)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Denver Pioneers**: -4.5, Edge For Covering Spread: -1.6%
-- **Oral Roberts Golden Eagles**: 4.5, Edge For Covering Spread: -3.2%
+- **Denver Pioneers**: -4.5, Edge For Covering Spread: -1.2%
+- **Oral Roberts Golden Eagles**: 4.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
 - **Denver Pioneers Win Probability**: 65.4%, Moneyline Edge: -1.2%

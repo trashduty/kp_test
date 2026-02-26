@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Cal Baptist Lancers -6.5</p>
-  <p><strong>Moneyline:</strong> UT-Arlington Mavericks (+245) | Cal Baptist Lancers (-305)</p>
+  <p><strong>Moneyline:</strong> UT-Arlington Mavericks (+225) | Cal Baptist Lancers (-278)</p>
   <p><strong>Total:</strong> 132.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Cal Baptist Lancers**: -6.5, Edge For Covering Spread: -4.6%
 
 ### Moneyline
-- **UT-Arlington Mavericks Win Probability**: 28.6%, Moneyline Edge: -0.3%
-- **Cal Baptist Lancers Win Probability**: 71.4%, Moneyline Edge: -4.0%
+- **UT-Arlington Mavericks Win Probability**: 29.5%, Moneyline Edge: -1.3%
+- **Cal Baptist Lancers Win Probability**: 70.5%, Moneyline Edge: -3.1%
 
 ### Total
-- **Predicted Total**: 131.5
-- Edge For Covering The Over: -5.9%
-- Edge For Covering The Under: **1.2%**
+- **Predicted Total**: 131.0
+- Edge For Covering The Over: -7.4%
+- Edge For Covering The Under: **2.7%**
 
 ---
 

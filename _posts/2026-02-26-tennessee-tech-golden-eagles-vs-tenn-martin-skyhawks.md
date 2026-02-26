@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tenn-Martin Skyhawks -8.5</p>
-  <p><strong>Moneyline:</strong> Tennessee Tech Golden Eagles (+300) | Tenn-Martin Skyhawks (-400)</p>
+  <p><strong>Moneyline:</strong> Tennessee Tech Golden Eagles (+340) | Tenn-Martin Skyhawks (-460)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tennessee Tech Golden Eagles**: 8.5, Edge For Covering Spread: -2.2%
-- **Tenn-Martin Skyhawks**: -8.5, Edge For Covering Spread: -2.6%
+- **Tennessee Tech Golden Eagles**: 8.5, Edge For Covering Spread: -1.9%
+- **Tenn-Martin Skyhawks**: -8.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Tennessee Tech Golden Eagles Win Probability**: 22.6%, Moneyline Edge: -2.4%
-- **Tenn-Martin Skyhawks Win Probability**: 77.4%, Moneyline Edge: -2.6%
+- **Tennessee Tech Golden Eagles Win Probability**: 21.6%, Moneyline Edge: -1.2%
+- **Tenn-Martin Skyhawks Win Probability**: 78.4%, Moneyline Edge: -3.7%
 
 ### Total
-- **Predicted Total**: 135.0
-- Edge For Covering The Over: -3.4%
-- Edge For Covering The Under: -1.4%
+- **Predicted Total**: 134.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

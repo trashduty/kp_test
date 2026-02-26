@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Purdue Boilermakers -7.5</p>
-  <p><strong>Moneyline:</strong> Michigan St Spartans (+260) | Purdue Boilermakers (-325)</p>
+  <p><strong>Moneyline:</strong> Michigan St Spartans (+270) | Purdue Boilermakers (-340)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan St Spartans**: 7.5, Edge For Covering Spread: -1.1%
-- **Purdue Boilermakers**: -7.5, Edge For Covering Spread: -3.6%
+- **Michigan St Spartans**: 7.5, Edge For Covering Spread: -1.8%
+- **Purdue Boilermakers**: -7.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Michigan St Spartans Win Probability**: 26.7%, Moneyline Edge: -1.1%
-- **Purdue Boilermakers Win Probability**: 73.3%, Moneyline Edge: -3.2%
+- **Michigan St Spartans Win Probability**: 26.2%, Moneyline Edge: -0.8%
+- **Purdue Boilermakers Win Probability**: 73.8%, Moneyline Edge: -3.5%
 
 ### Total
-- **Predicted Total**: 142.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 143.0
+- Edge For Covering The Over: -0.4%
+- Edge For Covering The Under: -4.3%
 
 ---
 
@@ -123,13 +123,13 @@ Purdue Boilermakers comes in ranked #7 overall by KenPom. They're dangerous from
 
 - **2-Point Shooting:** 58.5% (Rank: #19)
 - **3-Point Shooting:** 38.0% (Rank: #19)
-- **Free Throw Shooting:** 74.3% (Rank: #121)
+- **Free Throw Shooting:** 74.3% (Rank: #122)
 - **3-Point Rate:** 40.4% (Rank: #162)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 52.1% (Rank: #202)
-- **Opponent 3-Point Shooting:** 33.1% (Rank: #134)
+- **Opponent 3-Point Shooting:** 33.1% (Rank: #133)
 - **Block Percentage:** 9.0% (Rank: #194)
 - **Steal Rate:** 0.1% (Rank: #223)
 

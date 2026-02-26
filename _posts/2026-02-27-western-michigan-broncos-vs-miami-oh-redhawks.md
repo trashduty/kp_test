@@ -116,7 +116,7 @@ Miami (OH) RedHawks comes in ranked #83 overall by KenPom. They're dangerous fro
 - **Home Arena:** Millett Hall
 - **KenPom Rank:** #83
 - **Offensive Efficiency:** 120.7 (Rank: #17)
-- **Defensive Efficiency:** 103.4 (Rank: #69)
+- **Defensive Efficiency:** 103.4 (Rank: #68)
 - **Tempo:** 71.5 (Rank: #43)
 
 ### Shooting Breakdown
@@ -129,7 +129,7 @@ Miami (OH) RedHawks comes in ranked #83 overall by KenPom. They're dangerous fro
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 51.1% (Rank: #150)
-- **Opponent 3-Point Shooting:** 33.0% (Rank: #126)
+- **Opponent 3-Point Shooting:** 33.0% (Rank: #125)
 - **Block Percentage:** 8.6% (Rank: #222)
 - **Steal Rate:** 0.1% (Rank: #139)
 

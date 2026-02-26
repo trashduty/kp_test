@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Cal Poly Mustangs -4.5</p>
-  <p><strong>Moneyline:</strong> Long Beach St 49ers (+185) | Cal Poly Mustangs (-225)</p>
+  <p><strong>Moneyline:</strong> Long Beach St 49ers (+170) | Cal Poly Mustangs (-210)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Cal Poly Mustangs**: -4.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Long Beach St 49ers Win Probability**: 32.8%, Moneyline Edge: -2.2%
-- **Cal Poly Mustangs Win Probability**: 67.2%, Moneyline Edge: -2.1%
+- **Long Beach St 49ers Win Probability**: 33.6%, Moneyline Edge: -3.4%
+- **Cal Poly Mustangs Win Probability**: 66.4%, Moneyline Edge: -1.3%
 
 ### Total
-- **Predicted Total**: 160.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 160.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

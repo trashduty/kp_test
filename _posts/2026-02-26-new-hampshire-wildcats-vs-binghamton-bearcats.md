@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> New Hampshire Wildcats -1.5</p>
-  <p><strong>Moneyline:</strong> New Hampshire Wildcats (-121) | Binghamton Bearcats (+101)</p>
+  <p><strong>Moneyline:</strong> New Hampshire Wildcats (-137) | Binghamton Bearcats (+113)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **New Hampshire Wildcats**: -1.5, Edge For Covering Spread: -4.1%
-- **Binghamton Bearcats**: 1.5, Edge For Covering Spread: -2.3%
+- **New Hampshire Wildcats**: -1.5, Edge For Covering Spread: -5.2%
+- **Binghamton Bearcats**: 1.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **New Hampshire Wildcats Win Probability**: 52.7%, Moneyline Edge: -2.1%
-- **Binghamton Bearcats Win Probability**: 47.3%, Moneyline Edge: -2.5%
+- **New Hampshire Wildcats Win Probability**: 54.1%, Moneyline Edge: -3.7%
+- **Binghamton Bearcats Win Probability**: 45.9%, Moneyline Edge: -1.0%
 
 ### Total
-- **Predicted Total**: 140.5
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 141.0
+- Edge For Covering The Over: -3.8%
+- Edge For Covering The Under: -1.0%
 
 ---
 
@@ -93,7 +93,7 @@ New Hampshire Wildcats comes in ranked #342 overall by KenPom. The three-point s
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 54.0% (Rank: #275)
-- **Opponent 3-Point Shooting:** 33.1% (Rank: #132)
+- **Opponent 3-Point Shooting:** 33.1% (Rank: #131)
 - **Block Percentage:** 5.4% (Rank: #352)
 - **Steal Rate:** 0.1% (Rank: #240)
 

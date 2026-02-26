@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Michigan Wolverines**: -1.5, Edge For Covering Spread: N/A
 
 ### Moneyline
-- **Illinois Fighting Illini Win Probability**: 49.1%, Moneyline Edge: -3.3%
-- **Michigan Wolverines Win Probability**: 50.9%, Moneyline Edge: -1.5%
+- **Illinois Fighting Illini Win Probability**: 49.2%, Moneyline Edge: -3.2%
+- **Michigan Wolverines Win Probability**: 50.8%, Moneyline Edge: -1.6%
 
 ### Total
 - **Predicted Total**: 157.0
@@ -68,7 +68,7 @@ This matchup features two evenly-matched teams, with Illinois Fighting Illini at
 
 **Key Matchup: Michigan Wolverines's Offense vs Illinois Fighting Illini's Defense**
 
-Michigan Wolverines features a elite offense (ranked #5) that should find success against Illinois Fighting Illini's defensive unit (ranked #57). 
+Michigan Wolverines features a elite offense (ranked #5) that should find success against Illinois Fighting Illini's defensive unit (ranked #56). 
 
 **Pace of Play:** Michigan Wolverines like to push the pace, while Illinois Fighting Illini prefer a more deliberate approach. The team that can impose their preferred tempo will have a significant advantage. 
 
@@ -84,7 +84,7 @@ Illinois Fighting Illini comes in ranked #4 overall by KenPom. They boast one of
 - **Head Coach:** Brad Underwood
 - **KenPom Rank:** #4
 - **Offensive Efficiency:** 126.8 (Rank: #1)
-- **Defensive Efficiency:** 102.7 (Rank: #57)
+- **Defensive Efficiency:** 102.7 (Rank: #56)
 - **Tempo:** 66.3 (Rank: #288)
 
 ### Shooting Breakdown

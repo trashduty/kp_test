@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Radford Highlanders -6.5</p>
-  <p><strong>Moneyline:</strong> South Carolina Upstate Spartans (+217) | Radford Highlanders (-270)</p>
+  <p><strong>Moneyline:</strong> South Carolina Upstate Spartans (+225) | Radford Highlanders (-278)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Carolina Upstate Spartans**: 6.5, Edge For Covering Spread: -4.5%
-- **Radford Highlanders**: -6.5, Edge For Covering Spread: -0.2%
+- **South Carolina Upstate Spartans**: 6.5, Edge For Covering Spread: -4.0%
+- **Radford Highlanders**: -6.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **South Carolina Upstate Spartans Win Probability**: 28.1%, Moneyline Edge: -3.4%
-- **Radford Highlanders Win Probability**: 71.9%, Moneyline Edge: -1.1%
+- **South Carolina Upstate Spartans Win Probability**: 27.6%, Moneyline Edge: -3.1%
+- **Radford Highlanders Win Probability**: 72.4%, Moneyline Edge: -1.2%
 
 ### Total
-- **Predicted Total**: 153.5
-- Edge For Covering The Over: -3.1%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 154.5
+- Edge For Covering The Over: -4.4%
+- Edge For Covering The Under: -0.4%
 
 ---
 
@@ -88,7 +88,7 @@ South Carolina Upstate Spartans comes in ranked #293 overall by KenPom.
 - **2-Point Shooting:** 48.5% (Rank: #299)
 - **3-Point Shooting:** 32.2% (Rank: #268)
 - **Free Throw Shooting:** 67.8% (Rank: #322)
-- **3-Point Rate:** 35.4% (Rank: #265)
+- **3-Point Rate:** 35.4% (Rank: #266)
 
 ### Defensive Stats
 

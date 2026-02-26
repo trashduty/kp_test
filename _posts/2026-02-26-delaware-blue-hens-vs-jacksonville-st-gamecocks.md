@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Jacksonville St Gamecocks -7.5</p>
-  <p><strong>Moneyline:</strong> Delaware Blue Hens (+245) | Jacksonville St Gamecocks (-305)</p>
+  <p><strong>Moneyline:</strong> Delaware Blue Hens (+260) | Jacksonville St Gamecocks (-340)</p>
   <p><strong>Total:</strong> 134.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Delaware Blue Hens**: 7.5, Edge For Covering Spread: -1.8%
-- **Jacksonville St Gamecocks**: -7.5, Edge For Covering Spread: -3.0%
+- **Delaware Blue Hens**: 7.5, Edge For Covering Spread: -0.6%
+- **Jacksonville St Gamecocks**: -7.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Delaware Blue Hens Win Probability**: 28.4%, Moneyline Edge: -0.6%
-- **Jacksonville St Gamecocks Win Probability**: 71.6%, Moneyline Edge: -3.7%
+- **Delaware Blue Hens Win Probability**: 27.7%, Moneyline Edge: -0.1%
+- **Jacksonville St Gamecocks Win Probability**: 72.3%, Moneyline Edge: -5.0%
 
 ### Total
-- **Predicted Total**: 133.5
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 134.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -95,7 +95,7 @@ Delaware Blue Hens comes in ranked #276 overall by KenPom. They're dangerous fro
 - **Opponent 2-Point Shooting:** 50.2% (Rank: #109)
 - **Opponent 3-Point Shooting:** 33.9% (Rank: #179)
 - **Block Percentage:** 8.8% (Rank: #209)
-- **Steal Rate:** 0.1% (Rank: #262)
+- **Steal Rate:** 0.1% (Rank: #263)
 
 ### Team Metrics
 

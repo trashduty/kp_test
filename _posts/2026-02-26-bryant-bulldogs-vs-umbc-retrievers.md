@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UMBC Retrievers -11.5</p>
-  <p><strong>Moneyline:</strong> Bryant Bulldogs (+505) | UMBC Retrievers (-711)</p>
+  <p><strong>Spread:</strong> UMBC Retrievers -10.5</p>
+  <p><strong>Moneyline:</strong> Bryant Bulldogs (+486) | UMBC Retrievers (-683)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bryant Bulldogs**: 11.5, Edge For Covering Spread: -9.2%
-- **UMBC Retrievers**: -11.5, Edge For Covering Spread: **4.3%**
+- **Bryant Bulldogs**: 10.5, Edge For Covering Spread: -7.4%
+- **UMBC Retrievers**: -10.5, Edge For Covering Spread: **2.4%**
 
 ### Moneyline
-- **Bryant Bulldogs Win Probability**: 11.4%, Moneyline Edge: -5.1%
-- **UMBC Retrievers Win Probability**: 88.6%, Moneyline Edge: **0.9%**
+- **Bryant Bulldogs Win Probability**: 11.6%, Moneyline Edge: -5.4%
+- **UMBC Retrievers Win Probability**: 88.4%, Moneyline Edge: **1.1%**
 
 ### Total
 - **Predicted Total**: 138.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UMBC Retrievers (18-8) hosts Bryant Bulldogs (8-19) at Chesapeake Employers Insurance Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UMBC Retrievers favored by 11.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UMBC Retrievers (18-8) hosts Bryant Bulldogs (8-19) at Chesapeake Employers Insurance Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UMBC Retrievers favored by 10.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us UMBC Retrievers has clear advantages, but games aren't played on paper. Bryant Bulldogs needs to punch above their weight class to keep this close. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 10.5 points tells us UMBC Retrievers has clear advantages, but games aren't played on paper. Bryant Bulldogs needs to punch above their weight class to keep this close. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Bryant Bulldogs** bring an offensive efficiency of 95.89 (ranked #351 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.2% from three, they can't rely on the arc. Expect a paint-focused attack. 

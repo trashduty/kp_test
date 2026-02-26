@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arkansas-Little Rock Trojans -2.5</p>
-  <p><strong>Moneyline:</strong> Morehead St Eagles (+119) | Arkansas-Little Rock Trojans (-143)</p>
+  <p><strong>Moneyline:</strong> Morehead St Eagles (+124) | Arkansas-Little Rock Trojans (-150)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Morehead St Eagles**: 2.5, Edge For Covering Spread: -0.7%
-- **Arkansas-Little Rock Trojans**: -2.5, Edge For Covering Spread: -4.1%
+- **Morehead St Eagles**: 2.5, Edge For Covering Spread: **0.5%**
+- **Arkansas-Little Rock Trojans**: -2.5, Edge For Covering Spread: -5.2%
 
 ### Moneyline
-- **Morehead St Eagles Win Probability**: 44.8%, Moneyline Edge: -0.8%
-- **Arkansas-Little Rock Trojans Win Probability**: 55.2%, Moneyline Edge: -3.8%
+- **Morehead St Eagles Win Probability**: 44.3%, Moneyline Edge: -0.3%
+- **Arkansas-Little Rock Trojans Win Probability**: 55.7%, Moneyline Edge: -4.3%
 
 ### Total
 - **Predicted Total**: 142.0
-- Edge For Covering The Over: -0.0%
-- Edge For Covering The Under: -4.7%
+- Edge For Covering The Over: -0.3%
+- Edge For Covering The Under: -4.9%
 
 ---
 
@@ -87,7 +87,7 @@ Morehead St Eagles comes in ranked #282 overall by KenPom. Defense has been a st
 
 - **2-Point Shooting:** 49.9% (Rank: #258)
 - **3-Point Shooting:** 32.5% (Rank: #258)
-- **Free Throw Shooting:** 74.2% (Rank: #126)
+- **Free Throw Shooting:** 74.2% (Rank: #127)
 - **3-Point Rate:** 30.6% (Rank: #348)
 
 ### Defensive Stats

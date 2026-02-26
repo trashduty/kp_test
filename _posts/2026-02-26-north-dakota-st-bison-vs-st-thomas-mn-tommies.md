@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> St. Thomas (MN) Tommies -3.5</p>
-  <p><strong>Moneyline:</strong> North Dakota St Bison (+125) | St. Thomas (MN) Tommies (-155)</p>
+  <p><strong>Spread:</strong> St. Thomas (MN) Tommies -4.5</p>
+  <p><strong>Moneyline:</strong> North Dakota St Bison (+148) | St. Thomas (MN) Tommies (-184)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **North Dakota St Bison**: 3.5, Edge For Covering Spread: -3.5%
-- **St. Thomas (MN) Tommies**: -3.5, Edge For Covering Spread: -1.2%
+- **North Dakota St Bison**: 4.5, Edge For Covering Spread: -0.8%
+- **St. Thomas (MN) Tommies**: -4.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **North Dakota St Bison Win Probability**: 40.6%, Moneyline Edge: -3.8%
-- **St. Thomas (MN) Tommies Win Probability**: 59.4%, Moneyline Edge: -1.4%
+- **North Dakota St Bison Win Probability**: 38.7%, Moneyline Edge: -1.6%
+- **St. Thomas (MN) Tommies Win Probability**: 61.3%, Moneyline Edge: -3.4%
 
 ### Total
 - **Predicted Total**: 154.0
-- Edge For Covering The Over: -3.4%
-- Edge For Covering The Under: -1.4%
+- Edge For Covering The Over: -3.6%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When North Dakota St Bison (23-6) travels to face St. Thomas (MN) Tommies (21-8) at Anderson Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into St. Thomas (MN) Tommies favored by 3.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When North Dakota St Bison (23-6) travels to face St. Thomas (MN) Tommies (21-8) at Anderson Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into St. Thomas (MN) Tommies favored by 4.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates St. Thomas (MN) Tommies is viewed as the better team, but this isn't an overwhelming edge. North Dakota St Bison has a legitimate path to covering or winning outright. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 4.5-point spread indicates St. Thomas (MN) Tommies is viewed as the better team, but this isn't an overwhelming edge. North Dakota St Bison has a legitimate path to covering or winning outright. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **North Dakota St Bison** bring an offensive efficiency of 115.16 (ranked #63 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.6% three-point shooting is serviceable but won't scare anyone. 

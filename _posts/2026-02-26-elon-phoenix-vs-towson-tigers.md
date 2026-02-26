@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Towson Tigers -5.5</p>
-  <p><strong>Moneyline:</strong> Elon Phoenix (+197) | Towson Tigers (-240)</p>
+  <p><strong>Moneyline:</strong> Elon Phoenix (+200) | Towson Tigers (-245)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Elon Phoenix**: 5.5, Edge For Covering Spread: -2.6%
-- **Towson Tigers**: -5.5, Edge For Covering Spread: -2.2%
+- **Elon Phoenix**: 5.5, Edge For Covering Spread: -2.4%
+- **Towson Tigers**: -5.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Elon Phoenix Win Probability**: 30.1%, Moneyline Edge: -3.5%
-- **Towson Tigers Win Probability**: 69.9%, Moneyline Edge: -0.7%
+- **Elon Phoenix Win Probability**: 30.0%, Moneyline Edge: -3.4%
+- **Towson Tigers Win Probability**: 70.0%, Moneyline Edge: -1.0%
 
 ### Total
-- **Predicted Total**: 143.5
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 143.0
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.7%
 
 ---
 
@@ -126,7 +126,7 @@ Towson Tigers comes in ranked #176 overall by KenPom. The three-point shot hasn'
 - **2-Point Shooting:** 48.2% (Rank: #307)
 - **3-Point Shooting:** 28.1% (Rank: #362)
 - **Free Throw Shooting:** 67.4% (Rank: #330)
-- **3-Point Rate:** 35.5% (Rank: #264)
+- **3-Point Rate:** 35.5% (Rank: #265)
 
 ### Defensive Stats
 

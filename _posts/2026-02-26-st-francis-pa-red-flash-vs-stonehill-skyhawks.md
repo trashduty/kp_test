@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Stonehill Skyhawks -5.5</p>
-  <p><strong>Moneyline:</strong> St. Francis (PA) Red Flash (+180) | Stonehill Skyhawks (-219)</p>
+  <p><strong>Moneyline:</strong> St. Francis (PA) Red Flash (+180) | Stonehill Skyhawks (-220)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **St. Francis (PA) Red Flash**: 5.5, Edge For Covering Spread: -0.9%
-- **Stonehill Skyhawks**: -5.5, Edge For Covering Spread: -3.8%
+- **St. Francis (PA) Red Flash**: 5.5, Edge For Covering Spread: -0.7%
+- **Stonehill Skyhawks**: -5.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
 - **St. Francis (PA) Red Flash Win Probability**: 34.6%, Moneyline Edge: -1.1%
 - **Stonehill Skyhawks Win Probability**: 65.4%, Moneyline Edge: -3.3%
 
 ### Total
-- **Predicted Total**: 139.0
-- Edge For Covering The Over: -4.5%
-- Edge For Covering The Under: -0.3%
+- **Predicted Total**: 139.5
+- Edge For Covering The Over: -5.5%
+- Edge For Covering The Under: **0.7%**
 
 ---
 
@@ -130,7 +130,7 @@ Stonehill Skyhawks comes in ranked #345 overall by KenPom. The three-point shot 
 
 - **Opponent 2-Point Shooting:** 47.6% (Rank: #43)
 - **Opponent 3-Point Shooting:** 33.7% (Rank: #158)
-- **Block Percentage:** 9.7% (Rank: #158)
+- **Block Percentage:** 9.7% (Rank: #157)
 - **Steal Rate:** 0.1% (Rank: #350)
 
 ### Team Metrics

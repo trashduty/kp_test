@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Pick'em</p>
-  <p><strong>Moneyline:</strong> N Colorado Bears (-111) | Eastern Washington Eagles (-109)</p>
+  <p><strong>Spread:</strong> Eastern Washington Eagles -1.5</p>
+  <p><strong>Moneyline:</strong> N Colorado Bears (-110) | Eastern Washington Eagles (-110)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **N Colorado Bears**: 0.0, Edge For Covering Spread: -5.2%
-- **Eastern Washington Eagles**: 0.0, Edge For Covering Spread: **0.5%**
+- **N Colorado Bears**: 1.5, Edge For Covering Spread: -4.1%
+- **Eastern Washington Eagles**: -1.5, Edge For Covering Spread: -1.0%
 
 ### Moneyline
-- **N Colorado Bears Win Probability**: 47.7%, Moneyline Edge: -4.9%
-- **Eastern Washington Eagles Win Probability**: 52.3%, Moneyline Edge: **0.2%**
+- **N Colorado Bears Win Probability**: 47.4%, Moneyline Edge: -5.0%
+- **Eastern Washington Eagles Win Probability**: 52.6%, Moneyline Edge: **0.2%**
 
 ### Total
 - **Predicted Total**: 156.5
-- Edge For Covering The Over: N/A
-- Edge For Covering The Under: N/A
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-N Colorado Bears (18-10) travels to face Eastern Washington Eagles (11-17) at Reese Court in what shapes up to be a competitive matchup. The early betting action has shaped into Eastern Washington Eagles favored by 0.0 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+N Colorado Bears (18-10) travels to face Eastern Washington Eagles (11-17) at Reese Court in what shapes up to be a competitive matchup. The early betting action has shaped into Eastern Washington Eagles favored by 1.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Eastern Washington Eagles's 0.0-point cushion reflects home court advantage more than a talent gap. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Eastern Washington Eagles's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **N Colorado Bears** bring an offensive efficiency of 113.47 (ranked #82 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.1% three-point shooting is serviceable but won't scare anyone. 
@@ -99,7 +99,7 @@ N Colorado Bears comes in ranked #151 overall by KenPom.
 
 ### Team Metrics
 
-- **Assist Rate:** 54.6% (Rank: #131)
+- **Assist Rate:** 54.6% (Rank: #130)
 - **Experience:** 2.1 years (Rank: #51)
 - **Bench Minutes:** 23.3% (Rank: #336)
 - **Average Height:** 77.6" (Rank: #146)
@@ -131,7 +131,7 @@ Eastern Washington Eagles comes in ranked #171 overall by KenPom. They're danger
 - **Opponent 2-Point Shooting:** 56.2% (Rank: #325)
 - **Opponent 3-Point Shooting:** 34.9% (Rank: #234)
 - **Block Percentage:** 8.8% (Rank: #207)
-- **Steal Rate:** 0.1% (Rank: #260)
+- **Steal Rate:** 0.1% (Rank: #261)
 
 ### Team Metrics
 

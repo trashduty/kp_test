@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Campbell Fighting Camels**: 1.5, Edge For Covering Spread: -6.2%
-- **Drexel Dragons**: -1.5, Edge For Covering Spread: N/A
+- **Campbell Fighting Camels**: 1.5, Edge For Covering Spread: -5.2%
+- **Drexel Dragons**: -1.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
 - **Campbell Fighting Camels Win Probability**: 43.0%, Moneyline Edge: -8.2%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 142.5
-- Edge For Covering The Over: -0.4%
-- Edge For Covering The Under: -4.3%
+- Edge For Covering The Over: -0.7%
+- Edge For Covering The Under: -4.5%
 
 ---
 
@@ -52,7 +52,7 @@ A spread under 3 points suggests the books see this as essentially a coin flip. 
 Meanwhile, **Drexel Dragons** counter with 103.56 offensive efficiency (#278). Points have been hard to come by, making every possession critical. At 35.2% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Campbell Fighting Camels operate at a 70.6 tempo (#78), while Drexel Dragons play at 65.5 (#321). Campbell Fighting Camels want to run, but Drexel Dragons prefer to slow things down. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 68.0) should create a standard flow. 
+Campbell Fighting Camels operate at a 70.6 tempo (#77), while Drexel Dragons play at 65.5 (#321). Campbell Fighting Camels want to run, but Drexel Dragons prefer to slow things down. This tempo battle will be crucial—whoever dictates pace gains a significant edge. The moderate pace (around 68.0) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Campbell Fighting Camels shoot 50.2% on two-pointers, while Drexel Dragons convert at 50.1%. Both teams are evenly matched in paint efficiency. 
@@ -85,7 +85,7 @@ Campbell Fighting Camels comes in ranked #199 overall by KenPom. Defense has bee
 - **KenPom Rank:** #199
 - **Offensive Efficiency:** 107.3 (Rank: #199)
 - **Defensive Efficiency:** 113.4 (Rank: #294)
-- **Tempo:** 70.6 (Rank: #78)
+- **Tempo:** 70.6 (Rank: #77)
 
 ### Shooting Breakdown
 
@@ -120,7 +120,7 @@ Drexel Dragons comes in ranked #223 overall by KenPom.
 - **Home Arena:** Daskalakis Athletic Center
 - **KenPom Rank:** #223
 - **Offensive Efficiency:** 103.6 (Rank: #278)
-- **Defensive Efficiency:** 103.2 (Rank: #64)
+- **Defensive Efficiency:** 103.2 (Rank: #63)
 - **Tempo:** 65.5 (Rank: #321)
 
 ### Shooting Breakdown

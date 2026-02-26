@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Montana St Bobcats -2.5</p>
-  <p><strong>Moneyline:</strong> Portland St Vikings (+119) | Montana St Bobcats (-143)</p>
+  <p><strong>Moneyline:</strong> Portland St Vikings (+120) | Montana St Bobcats (-145)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Portland St Vikings**: 2.5, Edge For Covering Spread: -4.6%
-- **Montana St Bobcats**: -2.5, Edge For Covering Spread: -0.1%
+- **Portland St Vikings**: 2.5, Edge For Covering Spread: -5.2%
+- **Montana St Bobcats**: -2.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Portland St Vikings Win Probability**: 40.4%, Moneyline Edge: -5.2%
-- **Montana St Bobcats Win Probability**: 59.6%, Moneyline Edge: **0.6%**
+- **Portland St Vikings Win Probability**: 40.4%, Moneyline Edge: -5.1%
+- **Montana St Bobcats Win Probability**: 59.6%, Moneyline Edge: **0.4%**
 
 ### Total
-- **Predicted Total**: 138.0
-- Edge For Covering The Over: -6.1%
-- Edge For Covering The Under: **1.3%**
+- **Predicted Total**: 138.5
+- Edge For Covering The Over: -4.6%
+- Edge For Covering The Under: -0.1%
 
 ---
 

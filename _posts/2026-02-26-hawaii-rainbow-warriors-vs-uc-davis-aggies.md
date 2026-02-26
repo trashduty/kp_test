@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Hawai'i Rainbow Warriors -1.5</p>
-  <p><strong>Moneyline:</strong> Hawai'i Rainbow Warriors (-120) | UC Davis Aggies (-100)</p>
+  <p><strong>Moneyline:</strong> Hawai'i Rainbow Warriors (-134) | UC Davis Aggies (+111)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Hawai'i Rainbow Warriors**: -1.5, Edge For Covering Spread: -2.8%
-- **UC Davis Aggies**: 1.5, Edge For Covering Spread: -1.9%
+- **Hawai'i Rainbow Warriors**: -1.5, Edge For Covering Spread: -6.7%
+- **UC Davis Aggies**: 1.5, Edge For Covering Spread: **2.0%**
 
 ### Moneyline
-- **Hawai'i Rainbow Warriors Win Probability**: 50.7%, Moneyline Edge: -3.9%
-- **UC Davis Aggies Win Probability**: 49.3%, Moneyline Edge: -0.7%
+- **Hawai'i Rainbow Warriors Win Probability**: 51.8%, Moneyline Edge: -5.5%
+- **UC Davis Aggies Win Probability**: 48.2%, Moneyline Edge: **0.9%**
 
 ### Total
-- **Predicted Total**: 148.5
-- Edge For Covering The Over: -5.8%
-- Edge For Covering The Under: **1.0%**
+- **Predicted Total**: 149.0
+- Edge For Covering The Over: -4.9%
+- Edge For Covering The Under: **0.2%**
 
 ---
 
@@ -128,7 +128,7 @@ UC Davis Aggies comes in ranked #150 overall by KenPom.
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.9% (Rank: #230)
+- **Opponent 2-Point Shooting:** 52.9% (Rank: #229)
 - **Opponent 3-Point Shooting:** 34.3% (Rank: #201)
 - **Block Percentage:** 7.9% (Rank: #270)
 - **Steal Rate:** 0.1% (Rank: #112)

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Texas Southern Tigers -7.5</p>
-  <p><strong>Moneyline:</strong> Alcorn St Braves (+265) | Texas Southern Tigers (-332)</p>
+  <p><strong>Moneyline:</strong> Alcorn St Braves (+270) | Texas Southern Tigers (-340)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Alcorn St Braves**: 7.5, Edge For Covering Spread: -2.2%
-- **Texas Southern Tigers**: -7.5, Edge For Covering Spread: -2.6%
+- **Alcorn St Braves**: 7.5, Edge For Covering Spread: -1.5%
+- **Texas Southern Tigers**: -7.5, Edge For Covering Spread: -3.3%
 
 ### Moneyline
-- **Alcorn St Braves Win Probability**: 24.1%, Moneyline Edge: -3.3%
-- **Texas Southern Tigers Win Probability**: 75.9%, Moneyline Edge: -1.0%
+- **Alcorn St Braves Win Probability**: 24.0%, Moneyline Edge: -3.1%
+- **Texas Southern Tigers Win Probability**: 76.0%, Moneyline Edge: -1.2%
 
 ### Total
 - **Predicted Total**: 149.5
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -2.9%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -3.3%
 
 ---
 

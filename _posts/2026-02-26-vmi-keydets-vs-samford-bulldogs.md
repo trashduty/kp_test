@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Samford Bulldogs -18.5</p>
-  <p><strong>Moneyline:</strong> VMI Keydets (+1074) | Samford Bulldogs (-2283)</p>
+  <p><strong>Spread:</strong> Samford Bulldogs -17.5</p>
+  <p><strong>Moneyline:</strong> VMI Keydets (+1100) | Samford Bulldogs (-2500)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **VMI Keydets**: 18.5, Edge For Covering Spread: -3.5%
-- **Samford Bulldogs**: -18.5, Edge For Covering Spread: -1.2%
+- **VMI Keydets**: 17.5, Edge For Covering Spread: -1.9%
+- **Samford Bulldogs**: -17.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **VMI Keydets Win Probability**: 6.6%, Moneyline Edge: -1.9%
-- **Samford Bulldogs Win Probability**: 93.4%, Moneyline Edge: -2.4%
+- **VMI Keydets Win Probability**: 6.5%, Moneyline Edge: -1.8%
+- **Samford Bulldogs Win Probability**: 93.5%, Moneyline Edge: -2.6%
 
 ### Total
 - **Predicted Total**: 153.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Samford Bulldogs (16-13) hosts VMI Keydets (6-23) at Hanna Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Samford Bulldogs favored by 18.5 points, with the total sitting at 154.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Samford Bulldogs (16-13) hosts VMI Keydets (6-23) at Hanna Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Samford Bulldogs favored by 17.5 points, with the total sitting at 154.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 18.5-point spread screams mismatch. The books are asking VMI Keydets to hang within two possessions, which based on the profiles, requires Samford Bulldogs to play below their standard. The total of 154.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 17.5-point spread screams mismatch. The books are asking VMI Keydets to hang within two possessions, which based on the profiles, requires Samford Bulldogs to play below their standard. The total of 154.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **VMI Keydets** bring an offensive efficiency of 100.70 (ranked #312 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.6% from three, they can't rely on the arc. Expect a paint-focused attack. 

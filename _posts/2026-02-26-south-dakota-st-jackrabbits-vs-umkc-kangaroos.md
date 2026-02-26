@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> South Dakota St Jackrabbits -11.5</p>
-  <p><strong>Moneyline:</strong> South Dakota St Jackrabbits (-650) | UMKC Kangaroos (+472)</p>
+  <p><strong>Moneyline:</strong> South Dakota St Jackrabbits (-700) | UMKC Kangaroos (+490)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **UMKC Kangaroos**: 11.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **South Dakota St Jackrabbits Win Probability**: 82.6%, Moneyline Edge: -4.1%
-- **UMKC Kangaroos Win Probability**: 17.4%, Moneyline Edge: -0.1%
+- **South Dakota St Jackrabbits Win Probability**: 82.9%, Moneyline Edge: -4.6%
+- **UMKC Kangaroos Win Probability**: 17.1%, Moneyline Edge: **0.2%**
 
 ### Total
 - **Predicted Total**: 147.5

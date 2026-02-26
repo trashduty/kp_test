@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Idaho Vandals -11.0</p>
-  <p><strong>Moneyline:</strong> Northern Arizona Lumberjacks (+472) | Idaho Vandals (-650)</p>
+  <p><strong>Spread:</strong> Idaho Vandals -10.5</p>
+  <p><strong>Moneyline:</strong> Northern Arizona Lumberjacks (+450) | Idaho Vandals (-625)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northern Arizona Lumberjacks**: 11.0, Edge For Covering Spread: -2.4%
-- **Idaho Vandals**: -11.0, Edge For Covering Spread: -2.4%
+- **Northern Arizona Lumberjacks**: 10.5, Edge For Covering Spread: -1.9%
+- **Idaho Vandals**: -10.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Northern Arizona Lumberjacks Win Probability**: 16.4%, Moneyline Edge: -1.1%
-- **Idaho Vandals Win Probability**: 83.6%, Moneyline Edge: -3.1%
+- **Northern Arizona Lumberjacks Win Probability**: 16.7%, Moneyline Edge: -1.5%
+- **Idaho Vandals Win Probability**: 83.3%, Moneyline Edge: -2.9%
 
 ### Total
 - **Predicted Total**: 146.5
-- Edge For Covering The Over: -3.3%
-- Edge For Covering The Under: -2.9%
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -1.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Idaho Vandals (15-13) hosts Northern Arizona Lumberjacks (10-18) at ICCU Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Idaho Vandals favored by 11.0 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Idaho Vandals (15-13) hosts Northern Arizona Lumberjacks (10-18) at ICCU Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Idaho Vandals favored by 10.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.0 points tells us Idaho Vandals has clear advantages, but games aren't played on paper. Northern Arizona Lumberjacks needs to punch above their weight class to keep this close. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 10.5 points tells us Idaho Vandals has clear advantages, but games aren't played on paper. Northern Arizona Lumberjacks needs to punch above their weight class to keep this close. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Northern Arizona Lumberjacks** bring an offensive efficiency of 105.09 (ranked #249 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.8% three-point shooting is serviceable but won't scare anyone. 
@@ -85,7 +85,7 @@ Northern Arizona Lumberjacks comes in ranked #302 overall by KenPom. Defense has
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 51.0% (Rank: #212)
+- **2-Point Shooting:** 51.0% (Rank: #213)
 - **3-Point Shooting:** 35.8% (Rank: #74)
 - **Free Throw Shooting:** 69.0% (Rank: #290)
 - **3-Point Rate:** 36.4% (Rank: #240)
@@ -108,13 +108,13 @@ Northern Arizona Lumberjacks comes in ranked #302 overall by KenPom. Defense has
 
 ## Idaho Vandals
 
-Idaho Vandals comes in ranked #175 overall by KenPom. 
+Idaho Vandals comes in ranked #174 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 15-13
 - **Head Coach:** Alex Pribble
 - **Home Arena:** ICCU Arena
-- **KenPom Rank:** #175
+- **KenPom Rank:** #174
 - **Offensive Efficiency:** 109.7 (Rank: #149)
 - **Defensive Efficiency:** 109.0 (Rank: #195)
 - **Tempo:** 69.6 (Rank: #122)

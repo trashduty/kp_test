@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wichita St Shockers**: 1.5, Edge For Covering Spread: -6.1%
-- **Memphis Tigers**: -1.5, Edge For Covering Spread: **1.6%**
+- **Wichita St Shockers**: 1.5, Edge For Covering Spread: -5.1%
+- **Memphis Tigers**: -1.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
 - **Wichita St Shockers Win Probability**: 44.4%, Moneyline Edge: -5.6%
 - **Memphis Tigers Win Probability**: 55.6%, Moneyline Edge: **1.0%**
 
 ### Total
-- **Predicted Total**: 144.5
-- Edge For Covering The Over: -7.5%
-- Edge For Covering The Under: **2.7%**
+- **Predicted Total**: 144.0
+- Edge For Covering The Over: -7.8%
+- Edge For Covering The Under: **3.0%**
 
 ---
 
@@ -108,13 +108,13 @@ Wichita St Shockers comes in ranked #92 overall by KenPom.
 
 ## Memphis Tigers
 
-Memphis Tigers comes in ranked #114 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.8% from three. 
+Memphis Tigers comes in ranked #113 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. On the defensive end, they're lockdown on the perimeter, holding opponents to just 29.8% from three. 
 
 ### Record & Ranking
 - **Record:** 12-15
 - **Head Coach:** Penny Hardaway
 - **Home Arena:** FedExForum
-- **KenPom Rank:** #114
+- **KenPom Rank:** #113
 - **Offensive Efficiency:** 103.7 (Rank: #277)
 - **Defensive Efficiency:** 104.1 (Rank: #82)
 - **Tempo:** 71.2 (Rank: #51)

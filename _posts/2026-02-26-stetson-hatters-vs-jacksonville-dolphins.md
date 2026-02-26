@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Jacksonville Dolphins -6.5</p>
-  <p><strong>Moneyline:</strong> Stetson Hatters (+202) | Jacksonville Dolphins (-250)</p>
+  <p><strong>Moneyline:</strong> Stetson Hatters (+205) | Jacksonville Dolphins (-250)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Stetson Hatters**: 6.5, Edge For Covering Spread: **0.2%**
-- **Jacksonville Dolphins**: -6.5, Edge For Covering Spread: -4.9%
+- **Stetson Hatters**: 6.5, Edge For Covering Spread: **0.1%**
+- **Jacksonville Dolphins**: -6.5, Edge For Covering Spread: -4.6%
 
 ### Moneyline
-- **Stetson Hatters Win Probability**: 30.8%, Moneyline Edge: -2.2%
-- **Jacksonville Dolphins Win Probability**: 69.2%, Moneyline Edge: -2.2%
+- **Stetson Hatters Win Probability**: 30.7%, Moneyline Edge: -2.1%
+- **Jacksonville Dolphins Win Probability**: 69.3%, Moneyline Edge: -2.2%
 
 ### Total
 - **Predicted Total**: 139.0
-- Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -1.0%
+- Edge For Covering The Over: -3.6%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -99,7 +99,7 @@ Stetson Hatters comes in ranked #322 overall by KenPom. Defense has been a strug
 
 ### Team Metrics
 
-- **Assist Rate:** 58.0% (Rank: #56)
+- **Assist Rate:** 58.0% (Rank: #55)
 - **Experience:** 0.5 years (Rank: #356)
 - **Bench Minutes:** 39.0% (Rank: #39)
 - **Average Height:** 76.7" (Rank: #281)

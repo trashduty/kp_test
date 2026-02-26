@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Lindenwood Lions -7.5</p>
-  <p><strong>Moneyline:</strong> Eastern Illinois Panthers (+295) | Lindenwood Lions (-377)</p>
+  <p><strong>Spread:</strong> Lindenwood Lions -8.5</p>
+  <p><strong>Moneyline:</strong> Eastern Illinois Panthers (+310) | Lindenwood Lions (-410)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Eastern Illinois Panthers**: 7.5, Edge For Covering Spread: -0.5%
-- **Lindenwood Lions**: -7.5, Edge For Covering Spread: -4.1%
+- **Eastern Illinois Panthers**: 8.5, Edge For Covering Spread: -3.5%
+- **Lindenwood Lions**: -8.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Eastern Illinois Panthers Win Probability**: 23.8%, Moneyline Edge: -1.6%
-- **Lindenwood Lions Win Probability**: 76.2%, Moneyline Edge: -2.8%
+- **Eastern Illinois Panthers Win Probability**: 23.2%, Moneyline Edge: -1.2%
+- **Lindenwood Lions Win Probability**: 76.8%, Moneyline Edge: -3.5%
 
 ### Total
 - **Predicted Total**: 143.0
-- Edge For Covering The Over: -5.7%
-- Edge For Covering The Under: -0.6%
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -0.0%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Lindenwood Lions (16-13) hosts Eastern Illinois Panthers (11-18) at Hyland Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Lindenwood Lions favored by 7.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Lindenwood Lions (16-13) hosts Eastern Illinois Panthers (11-18) at Hyland Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Lindenwood Lions favored by 8.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us Lindenwood Lions has clear advantages, but games aren't played on paper. Eastern Illinois Panthers needs to punch above their weight class to keep this close. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.5 points tells us Lindenwood Lions has clear advantages, but games aren't played on paper. Eastern Illinois Panthers needs to punch above their weight class to keep this close. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Eastern Illinois Panthers** bring an offensive efficiency of 95.95 (ranked #350 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.3% from three, they can't rely on the arc. Expect a paint-focused attack. 
