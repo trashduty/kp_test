@@ -3994,5 +3994,29 @@
   "Louisiana Tech Bulldogs vs. Missouri St Bears|under": {
     "captured_at": "2026-02-25T22:11:43.581153+00:00",
     "edge_type": "under"
+  },
+  "Drexel Dragons vs. Campbell Fighting Camels|Drexel Dragons|spread": {
+    "captured_at": "2026-02-26T00:34:22.233646+00:00",
+    "edge_type": "spread"
+  },
+  "Western Kentucky Hilltoppers vs. New Mexico St Aggies|New Mexico St Aggies|spread": {
+    "captured_at": "2026-02-26T00:34:22.234805+00:00",
+    "edge_type": "spread"
+  },
+  "Lindenwood Lions vs. Eastern Illinois Panthers|under": {
+    "captured_at": "2026-02-26T00:34:22.235897+00:00",
+    "edge_type": "under"
+  },
+  "SIU-Edwardsville Cougars vs. Western Illinois Leathernecks|under": {
+    "captured_at": "2026-02-26T00:34:22.236258+00:00",
+    "edge_type": "under"
+  },
+  "Utah Tech Trailblazers vs. Abilene Christian Wildcats|Utah Tech Trailblazers|spread": {
+    "captured_at": "2026-02-26T00:34:22.236647+00:00",
+    "edge_type": "spread"
+  },
+  "Hampton Pirates vs. Charleston Cougars|Hampton Pirates|spread": {
+    "captured_at": "2026-02-26T00:34:22.238727+00:00",
+    "edge_type": "spread"
   }
 }
