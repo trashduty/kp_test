@@ -4042,5 +4042,25 @@
   "Montana St Bobcats vs. Portland St Vikings|under": {
     "captured_at": "2026-02-26T03:04:23.398136+00:00",
     "edge_type": "under"
+  },
+  "UMBC Retrievers vs. Bryant Bulldogs|UMBC Retrievers|moneyline": {
+    "captured_at": "2026-02-26T04:39:37.106719+00:00",
+    "edge_type": "moneyline"
+  },
+  "Wagner Seahawks vs. New Haven Chargers|Wagner Seahawks|moneyline": {
+    "captured_at": "2026-02-26T04:39:37.108649+00:00",
+    "edge_type": "moneyline"
+  },
+  "Presbyterian Blue Hose vs. High Point Panthers|Presbyterian Blue Hose|spread": {
+    "captured_at": "2026-02-26T04:39:37.109143+00:00",
+    "edge_type": "spread"
+  },
+  "Le Moyne Dolphins vs. Fairleigh Dickinson Knights|Le Moyne Dolphins|spread": {
+    "captured_at": "2026-02-26T04:39:37.109403+00:00",
+    "edge_type": "spread"
+  },
+  "Le Moyne Dolphins vs. Fairleigh Dickinson Knights|Le Moyne Dolphins|moneyline": {
+    "captured_at": "2026-02-26T04:39:37.109440+00:00",
+    "edge_type": "moneyline"
   }
 }
