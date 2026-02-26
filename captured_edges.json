@@ -4034,5 +4034,13 @@
   "Jacksonville Dolphins vs. Stetson Hatters|Stetson Hatters|spread": {
     "captured_at": "2026-02-26T01:38:06.955673+00:00",
     "edge_type": "spread"
+  },
+  "North Florida Ospreys vs. Florida Gulf Coast Eagles|over": {
+    "captured_at": "2026-02-26T03:04:23.393944+00:00",
+    "edge_type": "over"
+  },
+  "Montana St Bobcats vs. Portland St Vikings|under": {
+    "captured_at": "2026-02-26T03:04:23.398136+00:00",
+    "edge_type": "under"
   }
 }
