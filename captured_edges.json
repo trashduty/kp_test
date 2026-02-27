@@ -4094,5 +4094,9 @@
   "Northwestern Wildcats vs. Oregon Ducks|Northwestern Wildcats|spread": {
     "captured_at": "2026-02-27T22:08:05.352976+00:00",
     "edge_type": "spread"
+  },
+  "Utah State Aggies vs. Grand Canyon Antelopes|Grand Canyon Antelopes|spread": {
+    "captured_at": "2026-02-27T23:09:24.346626+00:00",
+    "edge_type": "spread"
   }
 }
