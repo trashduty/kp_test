@@ -4070,5 +4070,13 @@
   "South Alabama Jaguars vs. Southern Miss Golden Eagles|South Alabama Jaguars|moneyline": {
     "captured_at": "2026-02-26T21:15:03.736357+00:00",
     "edge_type": "moneyline"
+  },
+  "Cincinnati Bearcats vs. Oklahoma St Cowboys|Oklahoma St Cowboys|spread": {
+    "captured_at": "2026-02-27T18:15:41.708519+00:00",
+    "edge_type": "spread"
+  },
+  "Cincinnati Bearcats vs. Oklahoma St Cowboys|over": {
+    "captured_at": "2026-02-27T18:15:41.708566+00:00",
+    "edge_type": "over"
   }
 }
