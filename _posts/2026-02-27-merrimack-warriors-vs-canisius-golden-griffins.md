@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Merrimack Warriors -9.5</p>
-  <p><strong>Moneyline:</strong> Merrimack Warriors (-538) | Canisius Golden Griffins (+396)</p>
+  <p><strong>Moneyline:</strong> Merrimack Warriors (-550) | Canisius Golden Griffins (+400)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Canisius Golden Griffins**: 9.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Merrimack Warriors Win Probability**: 82.4%, Moneyline Edge: -2.0%
-- **Canisius Golden Griffins Win Probability**: 17.6%, Moneyline Edge: -2.5%
+- **Merrimack Warriors Win Probability**: 82.4%, Moneyline Edge: -2.2%
+- **Canisius Golden Griffins Win Probability**: 17.6%, Moneyline Edge: -2.4%
 
 ### Total
 - **Predicted Total**: 129.5
-- Edge For Covering The Over: -4.9%
-- Edge For Covering The Under: **0.2%**
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Akron Zips -4.5</p>
-  <p><strong>Moneyline:</strong> Akron Zips (-185) | Kent State Golden Flashes (+154)</p>
+  <p><strong>Spread:</strong> Akron Zips -3.5</p>
+  <p><strong>Moneyline:</strong> Akron Zips (-187) | Kent State Golden Flashes (+156)</p>
   <p><strong>Total:</strong> 165.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Akron Zips**: -4.5, Edge For Covering Spread: -0.5%
-- **Kent State Golden Flashes**: 4.5, Edge For Covering Spread: -4.1%
+- **Akron Zips**: -3.5, Edge For Covering Spread: -1.9%
+- **Kent State Golden Flashes**: 3.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Akron Zips Win Probability**: 62.6%, Moneyline Edge: -2.3%
-- **Kent State Golden Flashes Win Probability**: 37.4%, Moneyline Edge: -2.0%
+- **Akron Zips Win Probability**: 62.8%, Moneyline Edge: -2.4%
+- **Kent State Golden Flashes Win Probability**: 37.2%, Moneyline Edge: -1.8%
 
 ### Total
 - **Predicted Total**: 166.0
-- Edge For Covering The Over: -0.0%
+- Edge For Covering The Over: -1.6%
 - Edge For Covering The Under: -4.7%
 
 ---
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Akron Zips (23-5) travels to face Kent State Golden Flashes (21-7) at Memorial Athletic & Convocation Center in what shapes up to be a competitive matchup. The early betting action has shaped into Akron Zips favored by 4.5 points, with the total sitting at 165.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Akron Zips (23-5) travels to face Kent State Golden Flashes (21-7) at Memorial Athletic & Convocation Center in what shapes up to be a competitive matchup. The early betting action has shaped into Akron Zips favored by 3.5 points, with the total sitting at 165.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Akron Zips is viewed as the better team, but this isn't an overwhelming edge. Kent State Golden Flashes has a legitimate path to covering or winning outright. The total of 165.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.5-point spread indicates Akron Zips is viewed as the better team, but this isn't an overwhelming edge. Kent State Golden Flashes has a legitimate path to covering or winning outright. The total of 165.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Akron Zips** bring an offensive efficiency of 122.74 (ranked #4 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 38.0% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

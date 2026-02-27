@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Duke Blue Devils -9.5</p>
-  <p><strong>Moneyline:</strong> Virginia Cavaliers (N/A) | Duke Blue Devils (N/A)</p>
+  <p><strong>Moneyline:</strong> Virginia Cavaliers (+300) | Duke Blue Devils (-400)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Duke Blue Devils**: -9.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Virginia Cavaliers Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Duke Blue Devils Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Virginia Cavaliers Win Probability**: 20.4%, Moneyline Edge: -4.6%
+- **Duke Blue Devils Win Probability**: 79.6%, Moneyline Edge: -0.4%
 
 ### Total
 - **Predicted Total**: 138.5

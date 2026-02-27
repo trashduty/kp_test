@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Columbia Lions -5.5</p>
-  <p><strong>Moneyline:</strong> Brown Bears (+212) | Columbia Lions (-258)</p>
+  <p><strong>Spread:</strong> Columbia Lions -4.5</p>
+  <p><strong>Moneyline:</strong> Brown Bears (+190) | Columbia Lions (-225)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Brown Bears**: 5.5, Edge For Covering Spread: -3.5%
-- **Columbia Lions**: -5.5, Edge For Covering Spread: -1.3%
+- **Brown Bears**: 4.5, Edge For Covering Spread: -4.6%
+- **Columbia Lions**: -4.5, Edge For Covering Spread: -0.1%
 
 ### Moneyline
-- **Brown Bears Win Probability**: 29.4%, Moneyline Edge: -2.7%
-- **Columbia Lions Win Probability**: 70.6%, Moneyline Edge: -1.5%
+- **Brown Bears Win Probability**: 30.6%, Moneyline Edge: -3.9%
+- **Columbia Lions Win Probability**: 69.4%, Moneyline Edge: **0.1%**
 
 ### Total
 - **Predicted Total**: 139.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Columbia Lions (15-10) hosts Brown Bears (9-15) at Levien Gymnasium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Columbia Lions favored by 5.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Columbia Lions (15-10) hosts Brown Bears (9-15) at Levien Gymnasium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Columbia Lions favored by 4.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Columbia Lions is viewed as the better team, but this isn't an overwhelming edge. Brown Bears has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 4.5-point spread indicates Columbia Lions is viewed as the better team, but this isn't an overwhelming edge. Brown Bears has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Brown Bears** bring an offensive efficiency of 99.18 (ranked #334 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.8% from three, they can't rely on the arc. Expect a paint-focused attack. 

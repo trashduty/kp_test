@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Old Dominion Monarchs -1.5</p>
-  <p><strong>Moneyline:</strong> Old Dominion Monarchs (-118) | Georgia St Panthers (-102)</p>
+  <p><strong>Moneyline:</strong> Old Dominion Monarchs (-115) | Georgia St Panthers (-105)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Old Dominion Monarchs**: -1.5, Edge For Covering Spread: -2.1%
-- **Georgia St Panthers**: 1.5, Edge For Covering Spread: -2.5%
+- **Old Dominion Monarchs**: -1.5, Edge For Covering Spread: -4.0%
+- **Georgia St Panthers**: 1.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Old Dominion Monarchs Win Probability**: 51.9%, Moneyline Edge: -2.3%
-- **Georgia St Panthers Win Probability**: 48.1%, Moneyline Edge: -2.4%
+- **Old Dominion Monarchs Win Probability**: 51.5%, Moneyline Edge: -1.9%
+- **Georgia St Panthers Win Probability**: 48.5%, Moneyline Edge: -2.8%
 
 ### Total
-- **Predicted Total**: 148.0
-- Edge For Covering The Over: -4.9%
-- Edge For Covering The Under: **0.2%**
+- **Predicted Total**: 147.5
+- Edge For Covering The Over: -5.2%
+- Edge For Covering The Under: **0.5%**
 
 ---
 

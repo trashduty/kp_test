@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Quinnipiac Bobcats -8.5</p>
-  <p><strong>Moneyline:</strong> Quinnipiac Bobcats (-424) | Niagara Purple Eagles (+324)</p>
+  <p><strong>Moneyline:</strong> Quinnipiac Bobcats (-425) | Niagara Purple Eagles (+320)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Quinnipiac Bobcats**: -8.5, Edge For Covering Spread: -3.9%
-- **Niagara Purple Eagles**: 8.5, Edge For Covering Spread: -0.9%
+- **Quinnipiac Bobcats**: -8.5, Edge For Covering Spread: -4.1%
+- **Niagara Purple Eagles**: 8.5, Edge For Covering Spread: -0.6%
 
 ### Moneyline
-- **Quinnipiac Bobcats Win Probability**: 77.2%, Moneyline Edge: -3.7%
-- **Niagara Purple Eagles Win Probability**: 22.8%, Moneyline Edge: -0.8%
+- **Quinnipiac Bobcats Win Probability**: 77.1%, Moneyline Edge: -3.8%
+- **Niagara Purple Eagles Win Probability**: 22.9%, Moneyline Edge: -0.9%
 
 ### Total
 - **Predicted Total**: 135.5
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -2.9%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

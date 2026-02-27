@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Michigan Wolverines -1.5</p>
-  <p><strong>Moneyline:</strong> Michigan Wolverines (-125) | Illinois Fighting Illini (+105)</p>
+  <p><strong>Spread:</strong> Michigan Wolverines -2.0</p>
+  <p><strong>Moneyline:</strong> Michigan Wolverines (-143) | Illinois Fighting Illini (+120)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan Wolverines**: -1.5, Edge For Covering Spread: -4.0%
-- **Illinois Fighting Illini**: 1.5, Edge For Covering Spread: -0.8%
+- **Michigan Wolverines**: -2.0, Edge For Covering Spread: -4.0%
+- **Illinois Fighting Illini**: 2.0, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Michigan Wolverines Win Probability**: 52.1%, Moneyline Edge: -3.4%
-- **Illinois Fighting Illini Win Probability**: 47.9%, Moneyline Edge: -0.9%
+- **Michigan Wolverines Win Probability**: 53.7%, Moneyline Edge: -5.1%
+- **Illinois Fighting Illini Win Probability**: 46.3%, Moneyline Edge: **0.8%**
 
 ### Total
-- **Predicted Total**: 158.0
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.1%
+- **Predicted Total**: 158.5
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -3.5%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Michigan Wolverines (26-2) travels to face Illinois Fighting Illini (22-6) at State Farm Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Michigan Wolverines favored by 1.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Michigan Wolverines (26-2) travels to face Illinois Fighting Illini (22-6) at State Farm Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Michigan Wolverines favored by 2.0 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Michigan Wolverines's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Michigan Wolverines's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Michigan Wolverines** bring an offensive efficiency of 122.67 (ranked #5 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.0% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

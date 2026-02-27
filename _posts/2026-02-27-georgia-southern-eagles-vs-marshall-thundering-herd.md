@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **Marshall Thundering Herd Win Probability**: 76.2%, Moneyline Edge: -0.3%
 
 ### Total
-- **Predicted Total**: 166.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 167.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 

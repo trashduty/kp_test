@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Yale Bulldogs -3.5</p>
-  <p><strong>Moneyline:</strong> Yale Bulldogs (-169) | Cornell Big Red (+140)</p>
+  <p><strong>Moneyline:</strong> Yale Bulldogs (-190) | Cornell Big Red (+160)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Yale Bulldogs**: -3.5, Edge For Covering Spread: -0.3%
-- **Cornell Big Red**: 3.5, Edge For Covering Spread: -4.4%
+- **Yale Bulldogs**: -3.5, Edge For Covering Spread: -1.9%
+- **Cornell Big Red**: 3.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Yale Bulldogs Win Probability**: 64.6%, Moneyline Edge: **1.8%**
-- **Cornell Big Red Win Probability**: 35.4%, Moneyline Edge: -6.2%
+- **Yale Bulldogs Win Probability**: 66.0%, Moneyline Edge: **0.5%**
+- **Cornell Big Red Win Probability**: 34.0%, Moneyline Edge: -4.5%
 
 ### Total
-- **Predicted Total**: 168.5
-- Edge For Covering The Over: **2.3%**
-- Edge For Covering The Under: -7.0%
+- **Predicted Total**: 169.0
+- Edge For Covering The Over: **1.5%**
+- Edge For Covering The Under: -6.3%
 
 ---
 

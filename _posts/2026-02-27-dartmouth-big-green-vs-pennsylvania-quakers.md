@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Pennsylvania Quakers -7.5</p>
-  <p><strong>Moneyline:</strong> Dartmouth Big Green (+250) | Pennsylvania Quakers (-310)</p>
+  <p><strong>Moneyline:</strong> Dartmouth Big Green (+250) | Pennsylvania Quakers (-312)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -29,7 +29,7 @@ All that being said, here's how our model prices this game.
 
 ### Moneyline
 - **Dartmouth Big Green Win Probability**: 26.7%, Moneyline Edge: -1.9%
-- **Pennsylvania Quakers Win Probability**: 73.3%, Moneyline Edge: -2.3%
+- **Pennsylvania Quakers Win Probability**: 73.3%, Moneyline Edge: -2.4%
 
 ### Total
 - **Predicted Total**: 153.0

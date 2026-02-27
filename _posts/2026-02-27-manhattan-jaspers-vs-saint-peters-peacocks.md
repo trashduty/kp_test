@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Saint Peter's Peacocks -7.5</p>
-  <p><strong>Moneyline:</strong> Manhattan Jaspers (+283) | Saint Peter's Peacocks (-359)</p>
+  <p><strong>Moneyline:</strong> Manhattan Jaspers (+290) | Saint Peter's Peacocks (-380)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Manhattan Jaspers**: 7.5, Edge For Covering Spread: -4.7%
+- **Manhattan Jaspers**: 7.5, Edge For Covering Spread: -4.4%
 - **Saint Peter's Peacocks**: -7.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **Manhattan Jaspers Win Probability**: 20.9%, Moneyline Edge: -5.2%
-- **Saint Peter's Peacocks Win Probability**: 79.1%, Moneyline Edge: **0.8%**
+- **Manhattan Jaspers Win Probability**: 20.7%, Moneyline Edge: -5.0%
+- **Saint Peter's Peacocks Win Probability**: 79.3%, Moneyline Edge: **0.2%**
 
 ### Total
 - **Predicted Total**: 147.0

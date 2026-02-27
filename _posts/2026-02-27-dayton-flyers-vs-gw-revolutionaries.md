@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> GW Revolutionaries -3.5</p>
-  <p><strong>Moneyline:</strong> Dayton Flyers (+150) | GW Revolutionaries (-180)</p>
+  <p><strong>Moneyline:</strong> Dayton Flyers (+145) | GW Revolutionaries (-172)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **GW Revolutionaries**: -3.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Dayton Flyers Win Probability**: 35.7%, Moneyline Edge: -4.3%
-- **GW Revolutionaries Win Probability**: 64.3%, Moneyline Edge: **0.0%**
+- **Dayton Flyers Win Probability**: 36.1%, Moneyline Edge: -4.7%
+- **GW Revolutionaries Win Probability**: 63.9%, Moneyline Edge: **0.6%**
 
 ### Total
 - **Predicted Total**: 153.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Over: -0.6%
+- Edge For Covering The Under: -4.2%
 
 ---
 

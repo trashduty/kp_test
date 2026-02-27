@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Pick'em</p>
-  <p><strong>Moneyline:</strong> Siena Saints (-111) | Fairfield Stags (-108)</p>
+  <p><strong>Spread:</strong> Siena Saints -1.5</p>
+  <p><strong>Moneyline:</strong> Siena Saints (-118) | Fairfield Stags (-102)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Siena Saints**: 0.0, Edge For Covering Spread: -0.9%
-- **Fairfield Stags**: 0.0, Edge For Covering Spread: -4.1%
+- **Siena Saints**: -1.5, Edge For Covering Spread: -1.5%
+- **Fairfield Stags**: 1.5, Edge For Covering Spread: -3.3%
 
 ### Moneyline
-- **Siena Saints Win Probability**: 52.2%, Moneyline Edge: -0.4%
-- **Fairfield Stags Win Probability**: 47.8%, Moneyline Edge: -4.2%
+- **Siena Saints Win Probability**: 52.8%, Moneyline Edge: -1.3%
+- **Fairfield Stags Win Probability**: 47.2%, Moneyline Edge: -3.3%
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: N/A
-- Edge For Covering The Under: N/A
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Siena Saints (19-10) travels to face Fairfield Stags (18-11) at Mahoney Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Fairfield Stags favored by 0.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Siena Saints (19-10) travels to face Fairfield Stags (18-11) at Mahoney Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Siena Saints favored by 1.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Fairfield Stags's 0.0-point cushion reflects home court advantage more than a talent gap. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Siena Saints's 1.5-point cushion reflects home court advantage more than a talent gap. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Siena Saints** bring an offensive efficiency of 110.63 (ranked #123 nationally). They're solid offensively, capable of putting up points but not overwhelming. At 30.2% from three, they can't rely on the arc. Expect a paint-focused attack. 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Florida Gators -9.0</p>
-  <p><strong>Moneyline:</strong> Arkansas Razorbacks (+324) | Florida Gators (-421)</p>
+  <p><strong>Spread:</strong> Florida Gators -8.5</p>
+  <p><strong>Moneyline:</strong> Arkansas Razorbacks (+340) | Florida Gators (-450)</p>
   <p><strong>Total:</strong> 166.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arkansas Razorbacks**: 9.0, Edge For Covering Spread: -1.9%
-- **Florida Gators**: -9.0, Edge For Covering Spread: -2.8%
+- **Arkansas Razorbacks**: 8.5, Edge For Covering Spread: -1.5%
+- **Florida Gators**: -8.5, Edge For Covering Spread: -3.3%
 
 ### Moneyline
-- **Arkansas Razorbacks Win Probability**: 20.8%, Moneyline Edge: -2.8%
-- **Florida Gators Win Probability**: 79.2%, Moneyline Edge: -1.6%
+- **Arkansas Razorbacks Win Probability**: 20.5%, Moneyline Edge: -2.3%
+- **Florida Gators Win Probability**: 79.5%, Moneyline Edge: -2.3%
 
 ### Total
-- **Predicted Total**: 166.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 167.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Arkansas Razorbacks (21-7) travels to face Florida Gators (22-6) at Exactech Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Florida Gators favored by 9.0 points, with the total sitting at 166.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Arkansas Razorbacks (21-7) travels to face Florida Gators (22-6) at Exactech Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Florida Gators favored by 8.5 points, with the total sitting at 166.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.0 points tells us Florida Gators has clear advantages, but games aren't played on paper. Arkansas Razorbacks needs to punch above their weight class to keep this close. The total of 166.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 8.5 points tells us Florida Gators has clear advantages, but games aren't played on paper. Arkansas Razorbacks needs to punch above their weight class to keep this close. The total of 166.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Arkansas Razorbacks** bring an offensive efficiency of 123.73 (ranked #3 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 37.5% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

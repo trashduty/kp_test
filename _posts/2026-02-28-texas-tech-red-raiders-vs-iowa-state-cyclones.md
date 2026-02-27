@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Iowa State Cyclones -7.5</p>
-  <p><strong>Moneyline:</strong> Texas Tech Red Raiders (N/A) | Iowa State Cyclones (N/A)</p>
+  <p><strong>Moneyline:</strong> Texas Tech Red Raiders (+250) | Iowa State Cyclones (-300)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Iowa State Cyclones**: -7.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Texas Tech Red Raiders Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Iowa State Cyclones Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Texas Tech Red Raiders Win Probability**: 26.8%, Moneyline Edge: -1.8%
+- **Iowa State Cyclones Win Probability**: 73.2%, Moneyline Edge: -1.8%
 
 ### Total
 - **Predicted Total**: 146.0

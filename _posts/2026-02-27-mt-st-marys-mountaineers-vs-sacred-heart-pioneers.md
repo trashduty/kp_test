@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Sacred Heart Pioneers -2.5</p>
-  <p><strong>Moneyline:</strong> Mt. St. Mary's Mountaineers (+136) | Sacred Heart Pioneers (-162)</p>
+  <p><strong>Moneyline:</strong> Mt. St. Mary's Mountaineers (+138) | Sacred Heart Pioneers (-163)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Sacred Heart Pioneers**: -2.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Mt. St. Mary's Mountaineers Win Probability**: 39.8%, Moneyline Edge: -2.6%
-- **Sacred Heart Pioneers Win Probability**: 60.2%, Moneyline Edge: -1.7%
+- **Mt. St. Mary's Mountaineers Win Probability**: 39.7%, Moneyline Edge: -2.4%
+- **Sacred Heart Pioneers Win Probability**: 60.3%, Moneyline Edge: -1.7%
 
 ### Total
 - **Predicted Total**: 149.5

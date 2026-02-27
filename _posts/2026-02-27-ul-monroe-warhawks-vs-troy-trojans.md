@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Troy Trojans -18.5</p>
-  <p><strong>Moneyline:</strong> UL Monroe Warhawks (+1400) | Troy Trojans (-3600)</p>
+  <p><strong>Moneyline:</strong> UL Monroe Warhawks (+1448) | Troy Trojans (-3790)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UL Monroe Warhawks**: 18.5, Edge For Covering Spread: -1.9%
-- **Troy Trojans**: -18.5, Edge For Covering Spread: -2.8%
+- **UL Monroe Warhawks**: 18.5, Edge For Covering Spread: -0.9%
+- **Troy Trojans**: -18.5, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **UL Monroe Warhawks Win Probability**: 5.7%, Moneyline Edge: -1.0%
-- **Troy Trojans Win Probability**: 94.3%, Moneyline Edge: -3.0%
+- **UL Monroe Warhawks Win Probability**: 5.6%, Moneyline Edge: -0.9%
+- **Troy Trojans Win Probability**: 94.4%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 155.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.9%
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.0%
 
 ---
 

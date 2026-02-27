@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> James Madison Dukes -5.5</p>
-  <p><strong>Moneyline:</strong> Coastal Carolina Chanticleers (+200) | James Madison Dukes (-245)</p>
+  <p><strong>Moneyline:</strong> Coastal Carolina Chanticleers (+210) | James Madison Dukes (-254)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Coastal Carolina Chanticleers**: 5.5, Edge For Covering Spread: -0.2%
-- **James Madison Dukes**: -5.5, Edge For Covering Spread: -4.5%
+- **Coastal Carolina Chanticleers**: 5.5, Edge For Covering Spread: **0.1%**
+- **James Madison Dukes**: -5.5, Edge For Covering Spread: -4.8%
 
 ### Moneyline
-- **Coastal Carolina Chanticleers Win Probability**: 32.0%, Moneyline Edge: -1.4%
-- **James Madison Dukes Win Probability**: 68.0%, Moneyline Edge: -3.0%
+- **Coastal Carolina Chanticleers Win Probability**: 31.5%, Moneyline Edge: -0.8%
+- **James Madison Dukes Win Probability**: 68.5%, Moneyline Edge: -3.3%
 
 ### Total
 - **Predicted Total**: 140.0
 - Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 

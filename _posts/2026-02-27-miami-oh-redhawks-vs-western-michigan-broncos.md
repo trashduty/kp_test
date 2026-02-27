@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Miami (OH) RedHawks -12.5</p>
-  <p><strong>Moneyline:</strong> Miami (OH) RedHawks (-950) | Western Michigan Broncos (+625)</p>
+  <p><strong>Spread:</strong> Miami (OH) RedHawks -11.5</p>
+  <p><strong>Moneyline:</strong> Miami (OH) RedHawks (-865) | Western Michigan Broncos (+562)</p>
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Miami (OH) RedHawks**: -12.5, Edge For Covering Spread: -3.4%
-- **Western Michigan Broncos**: 12.5, Edge For Covering Spread: -1.3%
+- **Miami (OH) RedHawks**: -11.5, Edge For Covering Spread: -2.8%
+- **Western Michigan Broncos**: 11.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Miami (OH) RedHawks Win Probability**: 85.3%, Moneyline Edge: -5.2%
-- **Western Michigan Broncos Win Probability**: 14.7%, Moneyline Edge: **0.9%**
+- **Miami (OH) RedHawks Win Probability**: 84.8%, Moneyline Edge: -4.8%
+- **Western Michigan Broncos Win Probability**: 15.2%, Moneyline Edge: **0.1%**
 
 ### Total
 - **Predicted Total**: 161.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Miami (OH) RedHawks (28-0) enters hostile territory as they take on Western Michigan Broncos (10-18) at University Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Miami (OH) RedHawks favored by 12.5 points, with the total sitting at 164.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Miami (OH) RedHawks (28-0) enters hostile territory as they take on Western Michigan Broncos (10-18) at University Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Miami (OH) RedHawks favored by 11.5 points, with the total sitting at 164.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 12.5-point spread screams mismatch. The books are asking Western Michigan Broncos to hang within two possessions, which based on the profiles, requires Miami (OH) RedHawks to play below their standard. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 11.5 points tells us Miami (OH) RedHawks has clear advantages, but games aren't played on paper. Western Michigan Broncos needs to punch above their weight class to keep this close. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Miami (OH) RedHawks** bring an offensive efficiency of 120.75 (ranked #17 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 37.6% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

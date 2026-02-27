@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Gonzaga Bulldogs -1.5</p>
-  <p><strong>Moneyline:</strong> Gonzaga Bulldogs (N/A) | Saint Mary's Gaels (N/A)</p>
+  <p><strong>Moneyline:</strong> Gonzaga Bulldogs (-130) | Saint Mary's Gaels (+110)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Saint Mary's Gaels**: 1.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Gonzaga Bulldogs Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Saint Mary's Gaels Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Gonzaga Bulldogs Win Probability**: 53.1%, Moneyline Edge: -3.4%
+- **Saint Mary's Gaels Win Probability**: 46.9%, Moneyline Edge: -0.7%
 
 ### Total
 - **Predicted Total**: 144.0

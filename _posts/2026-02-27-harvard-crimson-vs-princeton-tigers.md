@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Harvard Crimson -3.5</p>
-  <p><strong>Moneyline:</strong> Harvard Crimson (-181) | Princeton Tigers (+149)</p>
+  <p><strong>Spread:</strong> Harvard Crimson -4.5</p>
+  <p><strong>Moneyline:</strong> Harvard Crimson (-192) | Princeton Tigers (+158)</p>
   <p><strong>Total:</strong> 130.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Harvard Crimson**: -3.5, Edge For Covering Spread: -2.4%
-- **Princeton Tigers**: 3.5, Edge For Covering Spread: -2.4%
+- **Harvard Crimson**: -4.5, Edge For Covering Spread: -2.2%
+- **Princeton Tigers**: 4.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Harvard Crimson Win Probability**: 61.8%, Moneyline Edge: -2.6%
-- **Princeton Tigers Win Probability**: 38.2%, Moneyline Edge: -2.0%
+- **Harvard Crimson Win Probability**: 62.5%, Moneyline Edge: -3.3%
+- **Princeton Tigers Win Probability**: 37.5%, Moneyline Edge: -1.2%
 
 ### Total
 - **Predicted Total**: 131.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Harvard Crimson (15-10) travels to face Princeton Tigers (8-18) at Jadwin Gymnasium in what shapes up to be a competitive matchup. The early betting action has shaped into Harvard Crimson favored by 3.5 points, with the total sitting at 130.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Harvard Crimson (15-10) travels to face Princeton Tigers (8-18) at Jadwin Gymnasium in what shapes up to be a competitive matchup. The early betting action has shaped into Harvard Crimson favored by 4.5 points, with the total sitting at 130.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Harvard Crimson is viewed as the better team, but this isn't an overwhelming edge. Princeton Tigers has a legitimate path to covering or winning outright. The total of 130.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+The 4.5-point spread indicates Harvard Crimson is viewed as the better team, but this isn't an overwhelming edge. Princeton Tigers has a legitimate path to covering or winning outright. The total of 130.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **Harvard Crimson** bring an offensive efficiency of 109.78 (ranked #149 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 36.2% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Iona Gaels -12.5</p>
-  <p><strong>Moneyline:</strong> Rider Broncs (+655) | Iona Gaels (-1030)</p>
+  <p><strong>Moneyline:</strong> Rider Broncs (+700) | Iona Gaels (-1200)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Rider Broncs**: 12.5, Edge For Covering Spread: -4.8%
-- **Iona Gaels**: -12.5, Edge For Covering Spread: -0.1%
+- **Rider Broncs**: 12.5, Edge For Covering Spread: -5.7%
+- **Iona Gaels**: -12.5, Edge For Covering Spread: **1.0%**
 
 ### Moneyline
-- **Rider Broncs Win Probability**: 11.3%, Moneyline Edge: -1.9%
-- **Iona Gaels Win Probability**: 88.7%, Moneyline Edge: -2.5%
+- **Rider Broncs Win Probability**: 11.0%, Moneyline Edge: -1.5%
+- **Iona Gaels Win Probability**: 89.0%, Moneyline Edge: -3.3%
 
 ### Total
-- **Predicted Total**: 142.0
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -4.1%
+- **Predicted Total**: 142.5
+- Edge For Covering The Over: -0.9%
+- Edge For Covering The Under: -3.9%
 
 ---
 
