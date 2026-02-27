@@ -4078,5 +4078,13 @@
   "Cincinnati Bearcats vs. Oklahoma St Cowboys|over": {
     "captured_at": "2026-02-27T18:15:41.708566+00:00",
     "edge_type": "over"
+  },
+  "Miami Hurricanes vs. Boston College Eagles|Boston College Eagles|spread": {
+    "captured_at": "2026-02-27T19:17:22.701524+00:00",
+    "edge_type": "spread"
+  },
+  "Kansas St Wildcats vs. TCU Horned Frogs|Kansas St Wildcats|spread": {
+    "captured_at": "2026-02-27T19:17:22.703146+00:00",
+    "edge_type": "spread"
   }
 }
