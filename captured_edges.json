@@ -4086,5 +4086,9 @@
   "Kansas St Wildcats vs. TCU Horned Frogs|Kansas St Wildcats|spread": {
     "captured_at": "2026-02-27T19:17:22.703146+00:00",
     "edge_type": "spread"
+  },
+  "Northwestern Wildcats vs. Oregon Ducks|Northwestern Wildcats|moneyline": {
+    "captured_at": "2026-02-27T20:11:14.556793+00:00",
+    "edge_type": "moneyline"
   }
 }
