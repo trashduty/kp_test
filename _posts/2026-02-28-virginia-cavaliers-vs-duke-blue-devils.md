@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Duke Blue Devils -9.5</p>
-  <p><strong>Moneyline:</strong> Virginia Cavaliers (+300) | Duke Blue Devils (-400)</p>
+  <p><strong>Spread:</strong> Duke Blue Devils -10.0</p>
+  <p><strong>Moneyline:</strong> Virginia Cavaliers (+450) | Duke Blue Devils (-640)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Virginia Cavaliers**: 9.5, Edge For Covering Spread: -2.4%
-- **Duke Blue Devils**: -9.5, Edge For Covering Spread: -2.4%
+- **Virginia Cavaliers**: 10.0, Edge For Covering Spread: -2.4%
+- **Duke Blue Devils**: -10.0, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Virginia Cavaliers Win Probability**: 20.4%, Moneyline Edge: -4.6%
-- **Duke Blue Devils Win Probability**: 79.6%, Moneyline Edge: -0.4%
+- **Virginia Cavaliers Win Probability**: 17.2%, Moneyline Edge: -1.0%
+- **Duke Blue Devils Win Probability**: 82.8%, Moneyline Edge: -3.7%
 
 ### Total
-- **Predicted Total**: 138.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Virginia Cavaliers (25-3) travels to face Duke Blue Devils (26-2) at Cameron Indoor Stadium, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Duke Blue Devils favored by 9.5 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Virginia Cavaliers (25-3) travels to face Duke Blue Devils (26-2) at Cameron Indoor Stadium, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Duke Blue Devils favored by 10.0 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Duke Blue Devils has clear advantages, but games aren't played on paper. Virginia Cavaliers needs to punch above their weight class to keep this close. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 10.0 points tells us Duke Blue Devils has clear advantages, but games aren't played on paper. Virginia Cavaliers needs to punch above their weight class to keep this close. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Virginia Cavaliers** bring an offensive efficiency of 120.94 (ranked #16 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.3% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
@@ -89,13 +89,13 @@ Virginia Cavaliers comes in ranked #14 overall by KenPom. They're dangerous from
 
 - **2-Point Shooting:** 55.7% (Rank: #51)
 - **3-Point Shooting:** 36.3% (Rank: #49)
-- **Free Throw Shooting:** 71.1% (Rank: #232)
+- **Free Throw Shooting:** 71.1% (Rank: #231)
 - **3-Point Rate:** 46.1% (Rank: #42)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 44.8% (Rank: #5)
-- **Opponent 3-Point Shooting:** 30.0% (Rank: #19)
+- **Opponent 3-Point Shooting:** 30.0% (Rank: #18)
 - **Block Percentage:** 16.6% (Rank: #2)
 - **Steal Rate:** 0.1% (Rank: #156)
 
@@ -103,20 +103,20 @@ Virginia Cavaliers comes in ranked #14 overall by KenPom. They're dangerous from
 
 - **Assist Rate:** 59.3% (Rank: #41)
 - **Experience:** 2.0 years (Rank: #59)
-- **Bench Minutes:** 34.6% (Rank: #114)
+- **Bench Minutes:** 34.6% (Rank: #113)
 - **Average Height:** 78.2" (Rank: #65)
 
 ---
 
 ## Duke Blue Devils
 
-Duke Blue Devils comes in ranked #1 overall by KenPom. They boast one of the nation's top offenses, ranked #8 in efficiency. Their defense has been a calling card this season, making life difficult for opposing offenses. 
+Duke Blue Devils comes in ranked #2 overall by KenPom. They boast one of the nation's top offenses, ranked #8 in efficiency. Their defense has been a calling card this season, making life difficult for opposing offenses. 
 
 ### Record & Ranking
 - **Record:** 26-2
 - **Head Coach:** Jon Scheyer
 - **Home Arena:** Cameron Indoor Stadium
-- **KenPom Rank:** #1
+- **KenPom Rank:** #2
 - **Offensive Efficiency:** 122.3 (Rank: #8)
 - **Defensive Efficiency:** 93.0 (Rank: #2)
 - **Tempo:** 67.7 (Rank: #222)
@@ -124,21 +124,21 @@ Duke Blue Devils comes in ranked #1 overall by KenPom. They boast one of the nat
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 61.5% (Rank: #4)
-- **3-Point Shooting:** 34.9% (Rank: #125)
+- **3-Point Shooting:** 34.9% (Rank: #126)
 - **Free Throw Shooting:** 72.5% (Rank: #181)
 - **3-Point Rate:** 43.9% (Rank: #92)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 46.1% (Rank: #17)
-- **Opponent 3-Point Shooting:** 30.6% (Rank: #28)
-- **Block Percentage:** 10.7% (Rank: #107)
+- **Opponent 3-Point Shooting:** 30.6% (Rank: #29)
+- **Block Percentage:** 10.7% (Rank: #108)
 - **Steal Rate:** 0.1% (Rank: #31)
 
 ### Team Metrics
 
 - **Assist Rate:** 59.1% (Rank: #43)
 - **Experience:** 0.9 years (Rank: #308)
-- **Bench Minutes:** 34.5% (Rank: #119)
+- **Bench Minutes:** 34.5% (Rank: #118)
 - **Average Height:** 79.4" (Rank: #2)
 

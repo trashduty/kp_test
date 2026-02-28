@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Arizona Wildcats -8.5</p>
-  <p><strong>Moneyline:</strong> Kansas Jayhawks (+270) | Arizona Wildcats (-340)</p>
+  <p><strong>Spread:</strong> Arizona Wildcats -10.0</p>
+  <p><strong>Moneyline:</strong> Kansas Jayhawks (+418) | Arizona Wildcats (-571)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kansas Jayhawks**: 8.5, Edge For Covering Spread: -4.0%
-- **Arizona Wildcats**: -8.5, Edge For Covering Spread: -0.8%
+- **Kansas Jayhawks**: 10.0, Edge For Covering Spread: -3.3%
+- **Arizona Wildcats**: -10.0, Edge For Covering Spread: -1.7%
 
 ### Moneyline
-- **Kansas Jayhawks Win Probability**: 22.0%, Moneyline Edge: -5.1%
-- **Arizona Wildcats Win Probability**: 78.0%, Moneyline Edge: **0.8%**
+- **Kansas Jayhawks Win Probability**: 18.2%, Moneyline Edge: -1.1%
+- **Arizona Wildcats Win Probability**: 81.8%, Moneyline Edge: -3.3%
 
 ### Total
-- **Predicted Total**: 147.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 149.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,14 +42,14 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Kansas Jayhawks (21-7) travels to face Arizona Wildcats (26-2) at McKale Memorial Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Arizona Wildcats favored by 8.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Kansas Jayhawks (21-7) travels to face Arizona Wildcats (26-2) at McKale Memorial Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Arizona Wildcats favored by 10.0 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Arizona Wildcats has clear advantages, but games aren't played on paper. Kansas Jayhawks needs to punch above their weight class to keep this close. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 10.0 points tells us Arizona Wildcats has clear advantages, but games aren't played on paper. Kansas Jayhawks needs to punch above their weight class to keep this close. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Kansas Jayhawks** bring an offensive efficiency of 111.97 (ranked #103 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.6% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Arizona Wildcats** counter with 120.28 offensive efficiency (#19). This offense can match anyone bucket-for-bucket. At 35.7% from three, they have adequate spacing but must pick their spots. 
+**Kansas Jayhawks** bring an offensive efficiency of 111.97 (ranked #102 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.6% three-point shooting is serviceable but won't scare anyone. 
+Meanwhile, **Arizona Wildcats** counter with 120.28 offensive efficiency (#18). This offense can match anyone bucket-for-bucket. At 35.7% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
 Kansas Jayhawks operate at a 67.8 tempo (#218), while Arizona Wildcats play at 72.1 (#28). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.9) should create a standard flow. 
@@ -61,7 +61,7 @@ Getting to the line matters too. Kansas Jayhawks's free throw rate sits at 33.1,
 #### X-Factors & Intangibles
 Playing at home, Arizona Wildcats get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Bill Self leads Kansas Jayhawks while Tommy Lloyd guides Arizona Wildcats. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Both teams feature strong defenses (#30 and #4), so offense may be at a premium. 
+Both teams feature strong defenses (#30 and #3), so offense may be at a premium. 
 ### Game Storylines
 
 On paper, Arizona Wildcats holds the advantage as the higher-ranked team, but Kansas Jayhawks could make this interesting if they play to their potential. 
@@ -81,64 +81,64 @@ Kansas Jayhawks comes in ranked #15 overall by KenPom. On the defensive end, the
 - **Record:** 21-7
 - **Head Coach:** Bill Self
 - **KenPom Rank:** #15
-- **Offensive Efficiency:** 112.0 (Rank: #103)
+- **Offensive Efficiency:** 112.0 (Rank: #102)
 - **Defensive Efficiency:** 99.5 (Rank: #30)
 - **Tempo:** 67.8 (Rank: #218)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 53.2% (Rank: #119)
-- **3-Point Shooting:** 35.6% (Rank: #92)
+- **3-Point Shooting:** 35.6% (Rank: #91)
 - **Free Throw Shooting:** 77.1% (Rank: #33)
-- **3-Point Rate:** 35.8% (Rank: #256)
+- **3-Point Rate:** 35.8% (Rank: #255)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 45.0% (Rank: #10)
-- **Opponent 3-Point Shooting:** 29.8% (Rank: #17)
+- **Opponent 3-Point Shooting:** 29.8% (Rank: #16)
 - **Block Percentage:** 16.5% (Rank: #3)
-- **Steal Rate:** 0.1% (Rank: #320)
+- **Steal Rate:** 0.1% (Rank: #322)
 
 ### Team Metrics
 
 - **Assist Rate:** 53.8% (Rank: #145)
 - **Experience:** 1.8 years (Rank: #104)
-- **Bench Minutes:** 26.5% (Rank: #309)
+- **Bench Minutes:** 26.5% (Rank: #307)
 - **Average Height:** 78.7" (Rank: #21)
 
 ---
 
 ## Arizona Wildcats
 
-Arizona Wildcats comes in ranked #3 overall by KenPom. They boast one of the nation's top offenses, ranked #19 in efficiency. Their defense has been a calling card this season, making life difficult for opposing offenses. 
+Arizona Wildcats comes in ranked #3 overall by KenPom. They boast one of the nation's top offenses, ranked #18 in efficiency. Their defense has been a calling card this season, making life difficult for opposing offenses. 
 
 ### Record & Ranking
 - **Record:** 26-2
 - **Head Coach:** Tommy Lloyd
 - **Home Arena:** McKale Memorial Center
 - **KenPom Rank:** #3
-- **Offensive Efficiency:** 120.3 (Rank: #19)
-- **Defensive Efficiency:** 95.2 (Rank: #4)
+- **Offensive Efficiency:** 120.3 (Rank: #18)
+- **Defensive Efficiency:** 95.2 (Rank: #3)
 - **Tempo:** 72.1 (Rank: #28)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 55.7% (Rank: #52)
-- **3-Point Shooting:** 35.7% (Rank: #82)
-- **Free Throw Shooting:** 72.8% (Rank: #168)
-- **3-Point Rate:** 26.8% (Rank: #361)
+- **3-Point Shooting:** 35.7% (Rank: #80)
+- **Free Throw Shooting:** 72.8% (Rank: #169)
+- **3-Point Rate:** 26.8% (Rank: #362)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 44.0% (Rank: #4)
 - **Opponent 3-Point Shooting:** 31.4% (Rank: #46)
-- **Block Percentage:** 10.9% (Rank: #98)
-- **Steal Rate:** 0.1% (Rank: #59)
+- **Block Percentage:** 10.9% (Rank: #97)
+- **Steal Rate:** 0.1% (Rank: #60)
 
 ### Team Metrics
 
-- **Assist Rate:** 55.8% (Rank: #95)
+- **Assist Rate:** 55.8% (Rank: #94)
 - **Experience:** 1.6 years (Rank: #145)
-- **Bench Minutes:** 29.3% (Rank: #259)
+- **Bench Minutes:** 29.3% (Rank: #258)
 - **Average Height:** 79.0" (Rank: #8)
 
