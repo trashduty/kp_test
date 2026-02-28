@@ -4206,5 +4206,9 @@
   "Navy Midshipmen vs. Colgate Raiders|Navy Midshipmen|moneyline": {
     "captured_at": "2026-02-28T05:16:36.061737+00:00",
     "edge_type": "moneyline"
+  },
+  "Navy Midshipmen vs. Colgate Raiders|Navy Midshipmen|spread": {
+    "captured_at": "2026-02-28T07:11:56.997499+00:00",
+    "edge_type": "spread"
   }
 }
