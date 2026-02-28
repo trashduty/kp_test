@@ -4170,5 +4170,17 @@
   "Holy Cross Crusaders vs. Loyola (MD) Greyhounds|Holy Cross Crusaders|moneyline": {
     "captured_at": "2026-02-28T02:53:13.777730+00:00",
     "edge_type": "moneyline"
+  },
+  "Stonehill Skyhawks vs. Mercyhurst Lakers|Mercyhurst Lakers|spread": {
+    "captured_at": "2026-02-28T03:40:10.647157+00:00",
+    "edge_type": "spread"
+  },
+  "Winthrop Eagles vs. Presbyterian Blue Hose|Winthrop Eagles|spread": {
+    "captured_at": "2026-02-28T03:40:10.650488+00:00",
+    "edge_type": "spread"
+  },
+  "Coppin St Eagles vs. Norfolk St Spartans|over": {
+    "captured_at": "2026-02-28T03:40:10.653222+00:00",
+    "edge_type": "over"
   }
 }
