@@ -4098,5 +4098,61 @@
   "Utah State Aggies vs. Grand Canyon Antelopes|Grand Canyon Antelopes|spread": {
     "captured_at": "2026-02-27T23:09:24.346626+00:00",
     "edge_type": "spread"
+  },
+  "Tenn-Martin Skyhawks vs. Tennessee St Tigers|Tenn-Martin Skyhawks|moneyline": {
+    "captured_at": "2026-02-28T00:32:19.256951+00:00",
+    "edge_type": "moneyline"
+  },
+  "Central Arkansas Bears vs. Queens University Royals|Central Arkansas Bears|spread": {
+    "captured_at": "2026-02-28T00:32:19.257144+00:00",
+    "edge_type": "spread"
+  },
+  "Central Arkansas Bears vs. Queens University Royals|Central Arkansas Bears|moneyline": {
+    "captured_at": "2026-02-28T00:32:19.257181+00:00",
+    "edge_type": "moneyline"
+  },
+  "Montana St Bobcats vs. Sacramento St Hornets|Montana St Bobcats|spread": {
+    "captured_at": "2026-02-28T00:32:19.258485+00:00",
+    "edge_type": "spread"
+  },
+  "Northern Illinois Huskies vs. Ball State Cardinals|Northern Illinois Huskies|moneyline": {
+    "captured_at": "2026-02-28T00:32:19.261073+00:00",
+    "edge_type": "moneyline"
+  },
+  "SIU-Edwardsville Cougars vs. Eastern Illinois Panthers|SIU-Edwardsville Cougars|moneyline": {
+    "captured_at": "2026-02-28T00:32:19.261695+00:00",
+    "edge_type": "moneyline"
+  },
+  "San Jos\u00e9 St Spartans vs. Colorado St Rams|San Jos\u00e9 St Spartans|spread": {
+    "captured_at": "2026-02-28T00:32:19.262641+00:00",
+    "edge_type": "spread"
+  },
+  "Sam Houston St Bearkats vs. Missouri St Bears|Sam Houston St Bearkats|spread": {
+    "captured_at": "2026-02-28T00:32:19.263012+00:00",
+    "edge_type": "spread"
+  },
+  "Sam Houston St Bearkats vs. Missouri St Bears|Sam Houston St Bearkats|moneyline": {
+    "captured_at": "2026-02-28T00:32:19.263050+00:00",
+    "edge_type": "moneyline"
+  },
+  "Hofstra Pride vs. Stony Brook Seawolves|Stony Brook Seawolves|spread": {
+    "captured_at": "2026-02-28T00:32:19.265005+00:00",
+    "edge_type": "spread"
+  },
+  "Fresno St Bulldogs vs. Boise State Broncos|Fresno St Bulldogs|spread": {
+    "captured_at": "2026-02-28T00:32:19.265480+00:00",
+    "edge_type": "spread"
+  },
+  "UMKC Kangaroos vs. Oral Roberts Golden Eagles|UMKC Kangaroos|spread": {
+    "captured_at": "2026-02-28T00:32:19.266295+00:00",
+    "edge_type": "spread"
+  },
+  "Southern Utah Thunderbirds vs. Utah Tech Trailblazers|Utah Tech Trailblazers|spread": {
+    "captured_at": "2026-02-28T00:32:19.266967+00:00",
+    "edge_type": "spread"
+  },
+  "Loyola Marymount Lions vs. Seattle Redhawks|under": {
+    "captured_at": "2026-02-28T00:32:19.267319+00:00",
+    "edge_type": "under"
   }
 }
