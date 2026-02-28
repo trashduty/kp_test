@@ -4218,5 +4218,21 @@
   "Northern Kentucky Norse vs. Wright St Raiders|Wright St Raiders|spread": {
     "captured_at": "2026-02-28T09:09:59.063853+00:00",
     "edge_type": "spread"
+  },
+  "Drake Bulldogs vs. Northern Iowa Panthers|under": {
+    "captured_at": "2026-02-28T22:07:15.126404+00:00",
+    "edge_type": "under"
+  },
+  "UNC Wilmington Seahawks vs. Charleston Cougars|UNC Wilmington Seahawks|spread": {
+    "captured_at": "2026-02-28T22:07:15.127029+00:00",
+    "edge_type": "spread"
+  },
+  "UNC Wilmington Seahawks vs. Charleston Cougars|under": {
+    "captured_at": "2026-02-28T22:07:15.127074+00:00",
+    "edge_type": "under"
+  },
+  "Maryland Terrapins vs. Rutgers Scarlet Knights|over": {
+    "captured_at": "2026-02-28T22:07:15.127408+00:00",
+    "edge_type": "over"
   }
 }
