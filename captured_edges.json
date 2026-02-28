@@ -4158,5 +4158,17 @@
   "CSU Bakersfield Roadrunners vs. Long Beach St 49ers|under": {
     "captured_at": "2026-02-28T01:37:03.768032+00:00",
     "edge_type": "under"
+  },
+  "Stonehill Skyhawks vs. Mercyhurst Lakers|under": {
+    "captured_at": "2026-02-28T02:53:13.766179+00:00",
+    "edge_type": "under"
+  },
+  "Eastern Washington Eagles vs. Northern Arizona Lumberjacks|Eastern Washington Eagles|spread": {
+    "captured_at": "2026-02-28T02:53:13.770772+00:00",
+    "edge_type": "spread"
+  },
+  "Holy Cross Crusaders vs. Loyola (MD) Greyhounds|Holy Cross Crusaders|moneyline": {
+    "captured_at": "2026-02-28T02:53:13.777730+00:00",
+    "edge_type": "moneyline"
   }
 }
