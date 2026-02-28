@@ -4210,5 +4210,13 @@
   "Navy Midshipmen vs. Colgate Raiders|Navy Midshipmen|spread": {
     "captured_at": "2026-02-28T07:11:56.997499+00:00",
     "edge_type": "spread"
+  },
+  "Arkansas-Pine Bluff Golden Lions vs. Miss Valley St Delta Devils|Arkansas-Pine Bluff Golden Lions|spread": {
+    "captured_at": "2026-02-28T09:09:59.063217+00:00",
+    "edge_type": "spread"
+  },
+  "Northern Kentucky Norse vs. Wright St Raiders|Wright St Raiders|spread": {
+    "captured_at": "2026-02-28T09:09:59.063853+00:00",
+    "edge_type": "spread"
   }
 }
