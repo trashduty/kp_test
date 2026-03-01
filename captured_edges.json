@@ -4278,5 +4278,9 @@
   "Sacramento St Hornets vs. Idaho State Bengals|Sacramento St Hornets|moneyline": {
     "captured_at": "2026-03-01T22:07:32.687418+00:00",
     "edge_type": "moneyline"
+  },
+  "Howard Bison vs. Coppin St Eagles|over": {
+    "captured_at": "2026-03-01T23:08:46.192320+00:00",
+    "edge_type": "over"
   }
 }
