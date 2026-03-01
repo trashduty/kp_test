@@ -4254,5 +4254,13 @@
   "UNC Wilmington Seahawks vs. Charleston Cougars|UNC Wilmington Seahawks|moneyline": {
     "captured_at": "2026-03-01T00:41:03.807107+00:00",
     "edge_type": "moneyline"
+  },
+  "Eastern Washington Eagles vs. Idaho Vandals|Eastern Washington Eagles|spread": {
+    "captured_at": "2026-03-01T20:08:30.093818+00:00",
+    "edge_type": "spread"
+  },
+  "Eastern Washington Eagles vs. Idaho Vandals|Eastern Washington Eagles|moneyline": {
+    "captured_at": "2026-03-01T20:08:30.093860+00:00",
+    "edge_type": "moneyline"
   }
 }
