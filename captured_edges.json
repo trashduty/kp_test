@@ -4266,5 +4266,17 @@
   "Howard Bison vs. Coppin St Eagles|Howard Bison|spread": {
     "captured_at": "2026-03-01T21:08:29.593451+00:00",
     "edge_type": "spread"
+  },
+  "Maryland-Eastern Shore Hawks vs. North Carolina Central Eagles|Maryland-Eastern Shore Hawks|spread": {
+    "captured_at": "2026-03-01T22:07:32.685511+00:00",
+    "edge_type": "spread"
+  },
+  "Maryland-Eastern Shore Hawks vs. North Carolina Central Eagles|Maryland-Eastern Shore Hawks|moneyline": {
+    "captured_at": "2026-03-01T22:07:32.685556+00:00",
+    "edge_type": "moneyline"
+  },
+  "Sacramento St Hornets vs. Idaho State Bengals|Sacramento St Hornets|moneyline": {
+    "captured_at": "2026-03-01T22:07:32.687418+00:00",
+    "edge_type": "moneyline"
   }
 }
