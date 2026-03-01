@@ -4234,5 +4234,25 @@
   "Maryland Terrapins vs. Rutgers Scarlet Knights|over": {
     "captured_at": "2026-02-28T22:07:15.127408+00:00",
     "edge_type": "over"
+  },
+  "Ohio State Buckeyes vs. Purdue Boilermakers|Ohio State Buckeyes|spread": {
+    "captured_at": "2026-03-01T00:41:03.804751+00:00",
+    "edge_type": "spread"
+  },
+  "Marist Red Foxes vs. Saint Peter's Peacocks|Marist Red Foxes|moneyline": {
+    "captured_at": "2026-03-01T00:41:03.805423+00:00",
+    "edge_type": "moneyline"
+  },
+  "Manhattan Jaspers vs. Iona Gaels|Iona Gaels|moneyline": {
+    "captured_at": "2026-03-01T00:41:03.806264+00:00",
+    "edge_type": "moneyline"
+  },
+  "Drake Bulldogs vs. Northern Iowa Panthers|Northern Iowa Panthers|moneyline": {
+    "captured_at": "2026-03-01T00:41:03.806377+00:00",
+    "edge_type": "moneyline"
+  },
+  "UNC Wilmington Seahawks vs. Charleston Cougars|UNC Wilmington Seahawks|moneyline": {
+    "captured_at": "2026-03-01T00:41:03.807107+00:00",
+    "edge_type": "moneyline"
   }
 }
