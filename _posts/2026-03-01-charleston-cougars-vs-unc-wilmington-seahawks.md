@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UNC Wilmington Seahawks -4.5</p>
-  <p><strong>Moneyline:</strong> Charleston Cougars (+180) | UNC Wilmington Seahawks (-215)</p>
+  <p><strong>Moneyline:</strong> Charleston Cougars (+160) | UNC Wilmington Seahawks (-190)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Charleston Cougars**: 4.5, Edge For Covering Spread: -6.6%
-- **UNC Wilmington Seahawks**: -4.5, Edge For Covering Spread: **1.9%**
+- **Charleston Cougars**: 4.5, Edge For Covering Spread: -7.4%
+- **UNC Wilmington Seahawks**: -4.5, Edge For Covering Spread: **1.0%**
 
 ### Moneyline
-- **Charleston Cougars Win Probability**: 30.0%, Moneyline Edge: -5.7%
-- **UNC Wilmington Seahawks Win Probability**: 70.0%, Moneyline Edge: **1.7%**
+- **Charleston Cougars Win Probability**: 31.2%, Moneyline Edge: -7.2%
+- **UNC Wilmington Seahawks Win Probability**: 68.8%, Moneyline Edge: **3.2%**
 
 ### Total
 - **Predicted Total**: 143.0
-- Edge For Covering The Over: -6.3%
-- Edge For Covering The Under: -0.0%
+- Edge For Covering The Over: -5.8%
+- Edge For Covering The Under: **1.1%**
 
 ---
 

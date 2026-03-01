@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Florida Atlantic Owls -7.5</p>
-  <p><strong>Moneyline:</strong> Charlotte 49ers (+272) | Florida Atlantic Owls (-344)</p>
+  <p><strong>Moneyline:</strong> Charlotte 49ers (+270) | Florida Atlantic Owls (-342)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Charlotte 49ers**: 7.5, Edge For Covering Spread: -3.5%
-- **Florida Atlantic Owls**: -7.5, Edge For Covering Spread: -1.2%
+- **Charlotte 49ers**: 7.5, Edge For Covering Spread: -2.4%
+- **Florida Atlantic Owls**: -7.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Charlotte 49ers Win Probability**: 23.9%, Moneyline Edge: -3.0%
-- **Florida Atlantic Owls Win Probability**: 76.1%, Moneyline Edge: -1.4%
+- **Charlotte 49ers Win Probability**: 24.0%, Moneyline Edge: -3.1%
+- **Florida Atlantic Owls Win Probability**: 76.0%, Moneyline Edge: -1.3%
 
 ### Total
 - **Predicted Total**: 148.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -3.2%
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -2.6%
 
 ---
 

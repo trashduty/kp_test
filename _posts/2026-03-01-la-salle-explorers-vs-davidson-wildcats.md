@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Davidson Wildcats -10.5</p>
-  <p><strong>Moneyline:</strong> La Salle Explorers (+527) | Davidson Wildcats (-765)</p>
+  <p><strong>Moneyline:</strong> La Salle Explorers (+512) | Davidson Wildcats (-765)</p>
   <p><strong>Total:</strong> 134.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **La Salle Explorers**: 10.5, Edge For Covering Spread: -0.5%
-- **Davidson Wildcats**: -10.5, Edge For Covering Spread: -4.3%
+- **La Salle Explorers**: 10.5, Edge For Covering Spread: -0.9%
+- **Davidson Wildcats**: -10.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **La Salle Explorers Win Probability**: 14.6%, Moneyline Edge: -1.3%
-- **Davidson Wildcats Win Probability**: 85.4%, Moneyline Edge: -3.1%
+- **La Salle Explorers Win Probability**: 14.8%, Moneyline Edge: -1.5%
+- **Davidson Wildcats Win Probability**: 85.2%, Moneyline Edge: -3.2%
 
 ### Total
 - **Predicted Total**: 133.0
-- Edge For Covering The Over: -4.6%
-- Edge For Covering The Under: -0.1%
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -0.7%
 
 ---
 

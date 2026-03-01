@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Marquette Golden Eagles -4.0</p>
-  <p><strong>Moneyline:</strong> DePaul Blue Demons (+164) | Marquette Golden Eagles (-196)</p>
+  <p><strong>Moneyline:</strong> DePaul Blue Demons (+162) | Marquette Golden Eagles (-193)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **DePaul Blue Demons**: 4.0, Edge For Covering Spread: -4.1%
-- **Marquette Golden Eagles**: -4.0, Edge For Covering Spread: -0.7%
+- **DePaul Blue Demons**: 4.0, Edge For Covering Spread: -3.7%
+- **Marquette Golden Eagles**: -4.0, Edge For Covering Spread: -1.0%
 
 ### Moneyline
-- **DePaul Blue Demons Win Probability**: 34.9%, Moneyline Edge: -3.0%
-- **Marquette Golden Eagles Win Probability**: 65.1%, Moneyline Edge: -1.1%
+- **DePaul Blue Demons Win Probability**: 34.9%, Moneyline Edge: -3.2%
+- **Marquette Golden Eagles Win Probability**: 65.1%, Moneyline Edge: -0.8%
 
 ### Total
 - **Predicted Total**: 142.0
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 

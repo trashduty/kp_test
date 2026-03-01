@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Michigan St Spartans -3.5</p>
-  <p><strong>Moneyline:</strong> Michigan St Spartans (-170) | Indiana Hoosiers (+143)</p>
+  <p><strong>Spread:</strong> Michigan St Spartans -2.5</p>
+  <p><strong>Moneyline:</strong> Michigan St Spartans (-155) | Indiana Hoosiers (+132)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan St Spartans**: -3.5, Edge For Covering Spread: -1.3%
-- **Indiana Hoosiers**: 3.5, Edge For Covering Spread: -3.4%
+- **Michigan St Spartans**: -2.5, Edge For Covering Spread: -1.3%
+- **Indiana Hoosiers**: 2.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Michigan St Spartans Win Probability**: 61.8%, Moneyline Edge: -1.2%
-- **Indiana Hoosiers Win Probability**: 38.2%, Moneyline Edge: -2.8%
+- **Michigan St Spartans Win Probability**: 60.8%, Moneyline Edge: -0.0%
+- **Indiana Hoosiers Win Probability**: 39.2%, Moneyline Edge: -3.9%
 
 ### Total
 - **Predicted Total**: 143.5
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -0.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Michigan St Spartans (23-5) travels to face Indiana Hoosiers (17-11) at Assembly Hall in what shapes up to be a competitive matchup. The early betting action has shaped into Michigan St Spartans favored by 3.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Michigan St Spartans (23-5) travels to face Indiana Hoosiers (17-11) at Assembly Hall in what shapes up to be a competitive matchup. The early betting action has shaped into Michigan St Spartans favored by 2.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Michigan St Spartans is viewed as the better team, but this isn't an overwhelming edge. Indiana Hoosiers has a legitimate path to covering or winning outright. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Michigan St Spartans's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Michigan St Spartans** bring an offensive efficiency of 116.37 (ranked #54 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.0% three-point shooting is serviceable but won't scare anyone. 

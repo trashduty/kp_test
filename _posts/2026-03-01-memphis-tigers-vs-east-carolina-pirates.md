@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Memphis Tigers -4.5</p>
-  <p><strong>Moneyline:</strong> Memphis Tigers (-225) | East Carolina Pirates (+182)</p>
+  <p><strong>Moneyline:</strong> Memphis Tigers (-222) | East Carolina Pirates (+182)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Memphis Tigers**: -4.5, Edge For Covering Spread: -1.7%
-- **East Carolina Pirates**: 4.5, Edge For Covering Spread: -3.1%
+- **Memphis Tigers**: -4.5, Edge For Covering Spread: -2.2%
+- **East Carolina Pirates**: 4.5, Edge For Covering Spread: -2.5%
 
 ### Moneyline
-- **Memphis Tigers Win Probability**: 68.6%, Moneyline Edge: -0.6%
-- **East Carolina Pirates Win Probability**: 31.4%, Moneyline Edge: -4.0%
+- **Memphis Tigers Win Probability**: 68.5%, Moneyline Edge: -0.4%
+- **East Carolina Pirates Win Probability**: 31.5%, Moneyline Edge: -3.9%
 
 ### Total
-- **Predicted Total**: 149.0
-- Edge For Covering The Over: -6.8%
-- Edge For Covering The Under: **0.5%**
+- **Predicted Total**: 148.5
+- Edge For Covering The Over: -6.6%
+- Edge For Covering The Under: **1.9%**
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Illinois St Redbirds -1.5</p>
-  <p><strong>Moneyline:</strong> Belmont Bruins (-100) | Illinois St Redbirds (-120)</p>
+  <p><strong>Moneyline:</strong> Belmont Bruins (-102) | Illinois St Redbirds (-118)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Illinois St Redbirds**: -1.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Belmont Bruins Win Probability**: 48.4%, Moneyline Edge: -1.6%
-- **Illinois St Redbirds Win Probability**: 51.6%, Moneyline Edge: -3.0%
+- **Belmont Bruins Win Probability**: 48.6%, Moneyline Edge: -1.9%
+- **Illinois St Redbirds Win Probability**: 51.4%, Moneyline Edge: -2.8%
 
 ### Total
 - **Predicted Total**: 151.5
-- Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.1%
+- Edge For Covering The Over: -0.4%
+- Edge For Covering The Under: -4.3%
 
 ---
 

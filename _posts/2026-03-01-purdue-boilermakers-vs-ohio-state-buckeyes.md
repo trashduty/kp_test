@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Purdue Boilermakers -6.5</p>
-  <p><strong>Moneyline:</strong> Purdue Boilermakers (-304) | Ohio State Buckeyes (+247)</p>
+  <p><strong>Moneyline:</strong> Purdue Boilermakers (-302) | Ohio State Buckeyes (+247)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Purdue Boilermakers**: -6.5, Edge For Covering Spread: -4.4%
-- **Ohio State Buckeyes**: 6.5, Edge For Covering Spread: -0.3%
+- **Purdue Boilermakers**: -6.5, Edge For Covering Spread: -6.5%
+- **Ohio State Buckeyes**: 6.5, Edge For Covering Spread: **1.7%**
 
 ### Moneyline
-- **Purdue Boilermakers Win Probability**: 69.2%, Moneyline Edge: -6.1%
-- **Ohio State Buckeyes Win Probability**: 30.8%, Moneyline Edge: **2.0%**
+- **Purdue Boilermakers Win Probability**: 69.2%, Moneyline Edge: -6.0%
+- **Ohio State Buckeyes Win Probability**: 30.8%, Moneyline Edge: **2.1%**
 
 ### Total
 - **Predicted Total**: 151.0
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 

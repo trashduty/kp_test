@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Northern Iowa Panthers -3.5</p>
-  <p><strong>Moneyline:</strong> Northern Iowa Panthers (-192) | Drake Bulldogs (+158)</p>
+  <p><strong>Spread:</strong> Northern Iowa Panthers -4.0</p>
+  <p><strong>Moneyline:</strong> Northern Iowa Panthers (-190) | Drake Bulldogs (+160)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northern Iowa Panthers**: -3.5, Edge For Covering Spread: -1.3%
-- **Drake Bulldogs**: 3.5, Edge For Covering Spread: -3.5%
+- **Northern Iowa Panthers**: -4.0, Edge For Covering Spread: -0.7%
+- **Drake Bulldogs**: 4.0, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Northern Iowa Panthers Win Probability**: 66.0%, Moneyline Edge: **0.2%**
-- **Drake Bulldogs Win Probability**: 34.0%, Moneyline Edge: -4.7%
+- **Northern Iowa Panthers Win Probability**: 66.0%, Moneyline Edge: **0.5%**
+- **Drake Bulldogs Win Probability**: 34.0%, Moneyline Edge: -4.5%
 
 ### Total
 - **Predicted Total**: 137.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Northern Iowa Panthers (18-12) travels to face Drake Bulldogs (12-18) at Knapp Center in what shapes up to be a competitive matchup. The early betting action has shaped into Northern Iowa Panthers favored by 3.5 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Northern Iowa Panthers (18-12) travels to face Drake Bulldogs (12-18) at Knapp Center in what shapes up to be a competitive matchup. The early betting action has shaped into Northern Iowa Panthers favored by 4.0 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Northern Iowa Panthers is viewed as the better team, but this isn't an overwhelming edge. Drake Bulldogs has a legitimate path to covering or winning outright. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 4.0-point spread indicates Northern Iowa Panthers is viewed as the better team, but this isn't an overwhelming edge. Drake Bulldogs has a legitimate path to covering or winning outright. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Northern Iowa Panthers** bring an offensive efficiency of 105.88 (ranked #232 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.0% three-point shooting is serviceable but won't scare anyone. 

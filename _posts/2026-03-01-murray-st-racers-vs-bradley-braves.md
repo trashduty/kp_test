@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Bradley Braves -4.5</p>
-  <p><strong>Moneyline:</strong> Murray St Racers (+164) | Bradley Braves (-196)</p>
+  <p><strong>Moneyline:</strong> Murray St Racers (+161) | Bradley Braves (-193)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Murray St Racers**: 4.5, Edge For Covering Spread: -1.9%
-- **Bradley Braves**: -4.5, Edge For Covering Spread: -2.8%
+- **Murray St Racers**: 4.5, Edge For Covering Spread: -2.4%
+- **Bradley Braves**: -4.5, Edge For Covering Spread: -2.5%
 
 ### Moneyline
-- **Murray St Racers Win Probability**: 37.7%, Moneyline Edge: -0.2%
-- **Bradley Braves Win Probability**: 62.3%, Moneyline Edge: -3.9%
+- **Murray St Racers Win Probability**: 37.9%, Moneyline Edge: -0.4%
+- **Bradley Braves Win Probability**: 62.1%, Moneyline Edge: -3.8%
 
 ### Total
 - **Predicted Total**: 159.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -3.4%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.1%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Temple Owls -7.5</p>
-  <p><strong>Moneyline:</strong> Rice Owls (+267) | Temple Owls (-337)</p>
+  <p><strong>Moneyline:</strong> Rice Owls (+265) | Temple Owls (-332)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Temple Owls**: -7.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Rice Owls Win Probability**: 24.5%, Moneyline Edge: -2.7%
-- **Temple Owls Win Probability**: 75.5%, Moneyline Edge: -1.7%
+- **Rice Owls Win Probability**: 24.7%, Moneyline Edge: -2.7%
+- **Temple Owls Win Probability**: 75.3%, Moneyline Edge: -1.5%
 
 ### Total
 - **Predicted Total**: 142.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Over: -1.1%
+- Edge For Covering The Under: -3.7%
 
 ---
 

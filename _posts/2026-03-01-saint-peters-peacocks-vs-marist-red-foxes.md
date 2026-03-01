@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Marist Red Foxes -3.5</p>
-  <p><strong>Moneyline:</strong> Saint Peter's Peacocks (+165) | Marist Red Foxes (-195)</p>
+  <p><strong>Moneyline:</strong> Saint Peter's Peacocks (+150) | Marist Red Foxes (-175)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Marist Red Foxes**: -3.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Saint Peter's Peacocks Win Probability**: 31.7%, Moneyline Edge: -6.1%
-- **Marist Red Foxes Win Probability**: 68.3%, Moneyline Edge: **2.2%**
+- **Saint Peter's Peacocks Win Probability**: 32.8%, Moneyline Edge: -7.2%
+- **Marist Red Foxes Win Probability**: 67.2%, Moneyline Edge: **3.6%**
 
 ### Total
 - **Predicted Total**: 132.0

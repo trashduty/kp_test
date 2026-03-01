@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Merrimack Warriors -8.5</p>
-  <p><strong>Moneyline:</strong> Merrimack Warriors (-450) | Niagara Purple Eagles (+340)</p>
+  <p><strong>Spread:</strong> Merrimack Warriors -7.5</p>
+  <p><strong>Moneyline:</strong> Merrimack Warriors (-425) | Niagara Purple Eagles (+320)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Merrimack Warriors**: -8.5, Edge For Covering Spread: -3.0%
-- **Niagara Purple Eagles**: 8.5, Edge For Covering Spread: -1.8%
+- **Merrimack Warriors**: -7.5, Edge For Covering Spread: -4.1%
+- **Niagara Purple Eagles**: 7.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **Merrimack Warriors Win Probability**: 77.6%, Moneyline Edge: -4.2%
-- **Niagara Purple Eagles Win Probability**: 22.4%, Moneyline Edge: -0.4%
+- **Merrimack Warriors Win Probability**: 77.1%, Moneyline Edge: -3.8%
+- **Niagara Purple Eagles Win Probability**: 22.9%, Moneyline Edge: -0.9%
 
 ### Total
-- **Predicted Total**: 126.5
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- **Predicted Total**: 127.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Merrimack Warriors (20-10) enters hostile territory as they take on Niagara Purple Eagles (8-21) at Gallagher Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Merrimack Warriors favored by 8.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Merrimack Warriors (20-10) enters hostile territory as they take on Niagara Purple Eagles (8-21) at Gallagher Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Merrimack Warriors favored by 7.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Merrimack Warriors has clear advantages, but games aren't played on paper. Niagara Purple Eagles needs to punch above their weight class to keep this close. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us Merrimack Warriors has clear advantages, but games aren't played on paper. Niagara Purple Eagles needs to punch above their weight class to keep this close. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Merrimack Warriors** bring an offensive efficiency of 107.11 (ranked #206 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.3% three-point shooting is serviceable but won't scare anyone. 

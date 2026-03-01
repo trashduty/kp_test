@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wichita St Shockers -14.5</p>
-  <p><strong>Moneyline:</strong> Wichita St Shockers (-1566) | UTSA Roadrunners (+870)</p>
+  <p><strong>Moneyline:</strong> Wichita St Shockers (-1522) | UTSA Roadrunners (+855)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **UTSA Roadrunners**: 14.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Wichita St Shockers Win Probability**: 91.1%, Moneyline Edge: -2.9%
-- **UTSA Roadrunners Win Probability**: 8.9%, Moneyline Edge: -1.4%
+- **Wichita St Shockers Win Probability**: 91.0%, Moneyline Edge: -2.9%
+- **UTSA Roadrunners Win Probability**: 9.0%, Moneyline Edge: -1.5%
 
 ### Total
 - **Predicted Total**: 148.0
-- Edge For Covering The Over: -5.4%
-- Edge For Covering The Under: **0.7%**
+- Edge For Covering The Over: -4.9%
+- Edge For Covering The Under: **0.1%**
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Siena Saints -15.5</p>
-  <p><strong>Moneyline:</strong> Rider Broncs (+980) | Siena Saints (-2000)</p>
+  <p><strong>Moneyline:</strong> Rider Broncs (+1000) | Siena Saints (-2000)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,7 +28,7 @@ All that being said, here's how our model prices this game.
 - **Siena Saints**: -15.5, Edge For Covering Spread: **1.1%**
 
 ### Moneyline
-- **Rider Broncs Win Probability**: 7.8%, Moneyline Edge: -1.5%
+- **Rider Broncs Win Probability**: 7.8%, Moneyline Edge: -1.3%
 - **Siena Saints Win Probability**: 92.2%, Moneyline Edge: -3.0%
 
 ### Total

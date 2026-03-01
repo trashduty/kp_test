@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Iona Gaels -2.5</p>
-  <p><strong>Moneyline:</strong> Iona Gaels (-145) | Manhattan Jaspers (+122)</p>
+  <p><strong>Moneyline:</strong> Iona Gaels (-140) | Manhattan Jaspers (+120)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Iona Gaels**: -2.5, Edge For Covering Spread: -0.8%
-- **Manhattan Jaspers**: 2.5, Edge For Covering Spread: -4.0%
+- **Iona Gaels**: -2.5, Edge For Covering Spread: **0.1%**
+- **Manhattan Jaspers**: 2.5, Edge For Covering Spread: -4.9%
 
 ### Moneyline
-- **Iona Gaels Win Probability**: 59.4%, Moneyline Edge: **0.2%**
-- **Manhattan Jaspers Win Probability**: 40.6%, Moneyline Edge: -4.4%
+- **Iona Gaels Win Probability**: 59.1%, Moneyline Edge: **0.8%**
+- **Manhattan Jaspers Win Probability**: 40.9%, Moneyline Edge: -4.6%
 
 ### Total
-- **Predicted Total**: 152.5
-- Edge For Covering The Over: -0.1%
-- Edge For Covering The Under: -4.6%
+- **Predicted Total**: 152.0
+- Edge For Covering The Over: **0.2%**
+- Edge For Covering The Under: -4.9%
 
 ---
 

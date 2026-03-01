@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Quinnipiac Bobcats -7.5</p>
-  <p><strong>Moneyline:</strong> Quinnipiac Bobcats (-375) | Canisius Golden Griffins (+290)</p>
+  <p><strong>Moneyline:</strong> Quinnipiac Bobcats (-340) | Canisius Golden Griffins (+270)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Quinnipiac Bobcats**: -7.5, Edge For Covering Spread: -1.2%
-- **Canisius Golden Griffins**: 7.5, Edge For Covering Spread: -3.5%
+- **Quinnipiac Bobcats**: -7.5, Edge For Covering Spread: -2.4%
+- **Canisius Golden Griffins**: 7.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Quinnipiac Bobcats Win Probability**: 75.7%, Moneyline Edge: -3.2%
-- **Canisius Golden Griffins Win Probability**: 24.3%, Moneyline Edge: -1.4%
+- **Quinnipiac Bobcats Win Probability**: 75.0%, Moneyline Edge: -2.2%
+- **Canisius Golden Griffins Win Probability**: 25.0%, Moneyline Edge: -2.1%
 
 ### Total
 - **Predicted Total**: 137.5

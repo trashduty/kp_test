@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UIC Flames -3.5</p>
-  <p><strong>Moneyline:</strong> UIC Flames (-188) | Indiana St Sycamores (+154)</p>
+  <p><strong>Moneyline:</strong> UIC Flames (-177) | Indiana St Sycamores (+147)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Indiana St Sycamores**: 3.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **UIC Flames Win Probability**: 62.7%, Moneyline Edge: -2.6%
-- **Indiana St Sycamores Win Probability**: 37.3%, Moneyline Edge: -2.1%
+- **UIC Flames Win Probability**: 62.1%, Moneyline Edge: -1.8%
+- **Indiana St Sycamores Win Probability**: 37.9%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 143.0
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 

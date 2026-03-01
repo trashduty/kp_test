@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Fairfield Stags -4.5</p>
-  <p><strong>Moneyline:</strong> Mt. St. Mary's Mountaineers (+172) | Fairfield Stags (-207)</p>
+  <p><strong>Moneyline:</strong> Mt. St. Mary's Mountaineers (+165) | Fairfield Stags (-199)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Fairfield Stags**: -4.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Mt. St. Mary's Mountaineers Win Probability**: 33.8%, Moneyline Edge: -3.0%
-- **Fairfield Stags Win Probability**: 66.2%, Moneyline Edge: -1.2%
+- **Mt. St. Mary's Mountaineers Win Probability**: 34.3%, Moneyline Edge: -3.5%
+- **Fairfield Stags Win Probability**: 65.7%, Moneyline Edge: -0.8%
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
