@@ -4282,5 +4282,13 @@
   "Howard Bison vs. Coppin St Eagles|over": {
     "captured_at": "2026-03-01T23:08:46.192320+00:00",
     "edge_type": "over"
+  },
+  "St. John's Red Storm vs. Georgetown Hoyas|Georgetown Hoyas|spread": {
+    "captured_at": "2026-03-02T21:14:34.531149+00:00",
+    "edge_type": "spread"
+  },
+  "Cincinnati Bearcats vs. BYU Cougars|Cincinnati Bearcats|moneyline": {
+    "captured_at": "2026-03-02T21:14:34.531657+00:00",
+    "edge_type": "moneyline"
   }
 }
