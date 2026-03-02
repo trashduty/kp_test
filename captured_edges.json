@@ -4290,5 +4290,17 @@
   "Cincinnati Bearcats vs. BYU Cougars|Cincinnati Bearcats|moneyline": {
     "captured_at": "2026-03-02T21:14:34.531657+00:00",
     "edge_type": "moneyline"
+  },
+  "New Hampshire Wildcats vs. Bryant Bulldogs|New Hampshire Wildcats|moneyline": {
+    "captured_at": "2026-03-02T22:11:15.031412+00:00",
+    "edge_type": "moneyline"
+  },
+  "Georgia Bulldogs vs. Alabama Crimson Tide|Alabama Crimson Tide|spread": {
+    "captured_at": "2026-03-02T22:11:15.031840+00:00",
+    "edge_type": "spread"
+  },
+  "UNLV Rebels vs. Utah State Aggies|Utah State Aggies|spread": {
+    "captured_at": "2026-03-02T22:11:15.036124+00:00",
+    "edge_type": "spread"
   }
 }
