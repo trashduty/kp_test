@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Stephen F. Austin Lumberjacks -7.5</p>
-  <p><strong>Moneyline:</strong> Stephen F. Austin Lumberjacks (-412) | Incarnate Word Cardinals (+320)</p>
+  <p><strong>Spread:</strong> Stephen F. Austin Lumberjacks -8.5</p>
+  <p><strong>Moneyline:</strong> Stephen F. Austin Lumberjacks (-397) | Incarnate Word Cardinals (+310)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Stephen F. Austin Lumberjacks**: -7.5, Edge For Covering Spread: -2.4%
-- **Incarnate Word Cardinals**: 7.5, Edge For Covering Spread: -2.2%
+- **Stephen F. Austin Lumberjacks**: -8.5, Edge For Covering Spread: **1.2%**
+- **Incarnate Word Cardinals**: 8.5, Edge For Covering Spread: -5.8%
 
 ### Moneyline
-- **Stephen F. Austin Lumberjacks Win Probability**: 78.1%, Moneyline Edge: -2.4%
-- **Incarnate Word Cardinals Win Probability**: 21.9%, Moneyline Edge: -1.9%
+- **Stephen F. Austin Lumberjacks Win Probability**: 77.8%, Moneyline Edge: -2.1%
+- **Incarnate Word Cardinals Win Probability**: 22.2%, Moneyline Edge: -2.2%
 
 ### Total
 - **Predicted Total**: 144.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Stephen F. Austin Lumberjacks (26-4) enters hostile territory as they take on Incarnate Word Cardinals (12-18) at McDermott Convocation Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Stephen F. Austin Lumberjacks favored by 7.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Stephen F. Austin Lumberjacks (26-4) enters hostile territory as they take on Incarnate Word Cardinals (12-18) at McDermott Convocation Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Stephen F. Austin Lumberjacks favored by 8.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us Stephen F. Austin Lumberjacks has clear advantages, but games aren't played on paper. Incarnate Word Cardinals needs to punch above their weight class to keep this close. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.5 points tells us Stephen F. Austin Lumberjacks has clear advantages, but games aren't played on paper. Incarnate Word Cardinals needs to punch above their weight class to keep this close. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Stephen F. Austin Lumberjacks** bring an offensive efficiency of 113.83 (ranked #80 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.9% three-point shooting is serviceable but won't scare anyone. 

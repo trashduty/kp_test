@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Montana St Bobcats -5.5</p>
-  <p><strong>Moneyline:</strong> Montana St Bobcats (-249) | Northern Arizona Lumberjacks (+205)</p>
+  <p><strong>Spread:</strong> Montana St Bobcats -6.0</p>
+  <p><strong>Moneyline:</strong> Montana St Bobcats (-261) | Northern Arizona Lumberjacks (+212)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Montana St Bobcats**: -5.5, Edge For Covering Spread: -1.8%
-- **Northern Arizona Lumberjacks**: 5.5, Edge For Covering Spread: -2.9%
+- **Montana St Bobcats**: -6.0, Edge For Covering Spread: -0.1%
+- **Northern Arizona Lumberjacks**: 6.0, Edge For Covering Spread: -4.6%
 
 ### Moneyline
-- **Montana St Bobcats Win Probability**: 71.2%, Moneyline Edge: -0.1%
-- **Northern Arizona Lumberjacks Win Probability**: 28.8%, Moneyline Edge: -4.1%
+- **Montana St Bobcats Win Probability**: 71.7%, Moneyline Edge: -0.7%
+- **Northern Arizona Lumberjacks Win Probability**: 28.3%, Moneyline Edge: -3.7%
 
 ### Total
 - **Predicted Total**: 142.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Montana St Bobcats (17-13) travels to face Northern Arizona Lumberjacks (10-20) at Walkup Skydome in what shapes up to be a competitive matchup. The early betting action has shaped into Montana St Bobcats favored by 5.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Montana St Bobcats (17-13) enters hostile territory as they take on Northern Arizona Lumberjacks (10-20) at Walkup Skydome in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Montana St Bobcats favored by 6.0 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Montana St Bobcats is viewed as the better team, but this isn't an overwhelming edge. Northern Arizona Lumberjacks has a legitimate path to covering or winning outright. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 6.0-point spread indicates Montana St Bobcats is viewed as the better team, but this isn't an overwhelming edge. Northern Arizona Lumberjacks has a legitimate path to covering or winning outright. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Montana St Bobcats** bring an offensive efficiency of 110.95 (ranked #117 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.7% three-point shooting is serviceable but won't scare anyone. 

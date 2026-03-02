@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Eastern Washington Eagles -3.5</p>
-  <p><strong>Moneyline:</strong> Idaho Vandals (+134) | Eastern Washington Eagles (-160)</p>
+  <p><strong>Moneyline:</strong> Idaho Vandals (+136) | Eastern Washington Eagles (-163)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Idaho Vandals**: 3.5, Edge For Covering Spread: -5.4%
-- **Eastern Washington Eagles**: -3.5, Edge For Covering Spread: **0.5%**
+- **Idaho Vandals**: 3.5, Edge For Covering Spread: -5.0%
+- **Eastern Washington Eagles**: -3.5, Edge For Covering Spread: **0.3%**
 
 ### Moneyline
-- **Idaho Vandals Win Probability**: 36.5%, Moneyline Edge: -6.2%
-- **Eastern Washington Eagles Win Probability**: 63.5%, Moneyline Edge: **2.0%**
+- **Idaho Vandals Win Probability**: 36.3%, Moneyline Edge: -6.1%
+- **Eastern Washington Eagles Win Probability**: 63.7%, Moneyline Edge: **1.7%**
 
 ### Total
 - **Predicted Total**: 152.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -1.0%
 
 ---
 

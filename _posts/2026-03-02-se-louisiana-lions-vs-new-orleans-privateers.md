@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> New Orleans Privateers -7.5</p>
-  <p><strong>Moneyline:</strong> SE Louisiana Lions (+270) | New Orleans Privateers (-340)</p>
+  <p><strong>Moneyline:</strong> SE Louisiana Lions (+300) | New Orleans Privateers (-400)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **SE Louisiana Lions**: 7.5, Edge For Covering Spread: -6.9%
-- **New Orleans Privateers**: -7.5, Edge For Covering Spread: **2.1%**
+- **SE Louisiana Lions**: 7.5, Edge For Covering Spread: -5.3%
+- **New Orleans Privateers**: -7.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **SE Louisiana Lions Win Probability**: 23.0%, Moneyline Edge: -4.1%
-- **New Orleans Privateers Win Probability**: 77.0%, Moneyline Edge: -0.2%
+- **SE Louisiana Lions Win Probability**: 21.9%, Moneyline Edge: -3.1%
+- **New Orleans Privateers Win Probability**: 78.1%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 143.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 

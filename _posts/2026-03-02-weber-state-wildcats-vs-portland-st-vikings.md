@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Portland St Vikings -4.5</p>
-  <p><strong>Moneyline:</strong> Weber State Wildcats (+180) | Portland St Vikings (-216)</p>
+  <p><strong>Moneyline:</strong> Weber State Wildcats (+175) | Portland St Vikings (-212)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Portland St Vikings**: -4.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Weber State Wildcats Win Probability**: 33.2%, Moneyline Edge: -2.6%
-- **Portland St Vikings Win Probability**: 66.8%, Moneyline Edge: -1.6%
+- **Weber State Wildcats Win Probability**: 33.4%, Moneyline Edge: -2.9%
+- **Portland St Vikings Win Probability**: 66.6%, Moneyline Edge: -1.4%
 
 ### Total
 - **Predicted Total**: 145.5

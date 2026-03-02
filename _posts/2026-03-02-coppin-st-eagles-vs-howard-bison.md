@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Howard Bison -19.5</p>
-  <p><strong>Moneyline:</strong> Coppin St Eagles (+1500) | Howard Bison (-4001)</p>
+  <p><strong>Moneyline:</strong> Coppin St Eagles (+1448) | Howard Bison (-4446)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Howard Bison**: -19.5, Edge For Covering Spread: **1.1%**
 
 ### Moneyline
-- **Coppin St Eagles Win Probability**: 4.5%, Moneyline Edge: -1.7%
-- **Howard Bison Win Probability**: 95.5%, Moneyline Edge: -2.1%
+- **Coppin St Eagles Win Probability**: 4.6%, Moneyline Edge: -1.9%
+- **Howard Bison Win Probability**: 95.4%, Moneyline Edge: -2.4%
 
 ### Total
-- **Predicted Total**: 139.5
-- Edge For Covering The Over: **1.4%**
-- Edge For Covering The Under: -6.2%
+- **Predicted Total**: 139.0
+- Edge For Covering The Over: -0.7%
+- Edge For Covering The Under: -5.6%
 
 ---
 

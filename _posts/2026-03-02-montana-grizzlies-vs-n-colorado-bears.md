@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> N Colorado Bears -6.5</p>
-  <p><strong>Moneyline:</strong> Montana Grizzlies (+222) | N Colorado Bears (-275)</p>
+  <p><strong>Moneyline:</strong> Montana Grizzlies (+220) | N Colorado Bears (-272)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Montana Grizzlies**: 6.5, Edge For Covering Spread: -1.9%
-- **N Colorado Bears**: -6.5, Edge For Covering Spread: -2.8%
+- **Montana Grizzlies**: 6.5, Edge For Covering Spread: -1.4%
+- **N Colorado Bears**: -6.5, Edge For Covering Spread: -3.3%
 
 ### Moneyline
-- **Montana Grizzlies Win Probability**: 30.9%, Moneyline Edge: -0.1%
-- **N Colorado Bears Win Probability**: 69.1%, Moneyline Edge: -4.2%
+- **Montana Grizzlies Win Probability**: 31.0%, Moneyline Edge: -0.3%
+- **N Colorado Bears Win Probability**: 69.0%, Moneyline Edge: -4.1%
 
 ### Total
 - **Predicted Total**: 154.0

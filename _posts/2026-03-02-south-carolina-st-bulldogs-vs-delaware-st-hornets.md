@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Delaware St Hornets -2.0</p>
+  <p><strong>Spread:</strong> Delaware St Hornets -1.5</p>
   <p><strong>Moneyline:</strong> South Carolina St Bulldogs (+114) | Delaware St Hornets (-135)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Carolina St Bulldogs**: 2.0, Edge For Covering Spread: -2.4%
-- **Delaware St Hornets**: -2.0, Edge For Covering Spread: -2.4%
+- **South Carolina St Bulldogs**: 1.5, Edge For Covering Spread: -1.2%
+- **Delaware St Hornets**: -1.5, Edge For Covering Spread: -3.7%
 
 ### Moneyline
 - **South Carolina St Bulldogs Win Probability**: 44.4%, Moneyline Edge: -2.2%
 - **Delaware St Hornets Win Probability**: 55.6%, Moneyline Edge: -1.8%
 
 ### Total
-- **Predicted Total**: 137.0
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 136.5
+- Edge For Covering The Over: -5.2%
+- Edge For Covering The Under: **0.5%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When South Carolina St Bulldogs (7-21) travels to face Delaware St Hornets (6-21) at Memorial Hall, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Delaware St Hornets favored by 2.0 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When South Carolina St Bulldogs (7-21) travels to face Delaware St Hornets (6-21) at Memorial Hall, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Delaware St Hornets favored by 1.5 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Delaware St Hornets's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Delaware St Hornets's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **South Carolina St Bulldogs** bring an offensive efficiency of 95.18 (ranked #355 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.5% three-point shooting is serviceable but won't scare anyone. 

@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UT Rio Grande Valley Vaqueros -10.0</p>
+  <p><strong>Spread:</strong> UT Rio Grande Valley Vaqueros -10.5</p>
   <p><strong>Moneyline:</strong> Northwestern St Demons (+460) | UT Rio Grande Valley Vaqueros (-650)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northwestern St Demons**: 10.0, Edge For Covering Spread: -4.1%
-- **UT Rio Grande Valley Vaqueros**: -10.0, Edge For Covering Spread: -0.6%
+- **Northwestern St Demons**: 10.5, Edge For Covering Spread: -4.7%
+- **UT Rio Grande Valley Vaqueros**: -10.5, Edge For Covering Spread: -0.1%
 
 ### Moneyline
 - **Northwestern St Demons Win Probability**: 16.5%, Moneyline Edge: -1.3%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 138.0
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.0%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UT Rio Grande Valley Vaqueros (17-13) hosts Northwestern St Demons (10-20) at UTRGV Fieldhouse in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UT Rio Grande Valley Vaqueros favored by 10.0 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UT Rio Grande Valley Vaqueros (17-13) hosts Northwestern St Demons (10-20) at UTRGV Fieldhouse in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UT Rio Grande Valley Vaqueros favored by 10.5 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.0 points tells us UT Rio Grande Valley Vaqueros has clear advantages, but games aren't played on paper. Northwestern St Demons needs to punch above their weight class to keep this close. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 10.5 points tells us UT Rio Grande Valley Vaqueros has clear advantages, but games aren't played on paper. Northwestern St Demons needs to punch above their weight class to keep this close. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Northwestern St Demons** bring an offensive efficiency of 102.04 (ranked #303 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.4% three-point shooting is serviceable but won't scare anyone. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Norfolk St Spartans -2.5</p>
-  <p><strong>Moneyline:</strong> Norfolk St Spartans (-143) | Morgan St Bears (+119)</p>
+  <p><strong>Moneyline:</strong> Norfolk St Spartans (-149) | Morgan St Bears (+124)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Norfolk St Spartans**: -2.5, Edge For Covering Spread: -3.4%
-- **Morgan St Bears**: 2.5, Edge For Covering Spread: -1.3%
+- **Norfolk St Spartans**: -2.5, Edge For Covering Spread: -4.0%
+- **Morgan St Bears**: 2.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Norfolk St Spartans Win Probability**: 57.3%, Moneyline Edge: -1.6%
-- **Morgan St Bears Win Probability**: 42.7%, Moneyline Edge: -3.0%
+- **Norfolk St Spartans Win Probability**: 58.0%, Moneyline Edge: -1.9%
+- **Morgan St Bears Win Probability**: 42.0%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 154.5
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 

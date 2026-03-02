@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Idaho State Bengals**: 1.5, Edge For Covering Spread: -3.4%
-- **Sacramento St Hornets**: -1.5, Edge For Covering Spread: -1.3%
+- **Idaho State Bengals**: 1.5, Edge For Covering Spread: -4.0%
+- **Sacramento St Hornets**: -1.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
 - **Idaho State Bengals Win Probability**: 42.9%, Moneyline Edge: -5.9%
 - **Sacramento St Hornets Win Probability**: 57.1%, Moneyline Edge: **1.6%**
 
 ### Total
-- **Predicted Total**: 160.0
-- Edge For Covering The Over: -3.8%
-- Edge For Covering The Under: -1.0%
+- **Predicted Total**: 159.5
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -2.6%
 
 ---
 

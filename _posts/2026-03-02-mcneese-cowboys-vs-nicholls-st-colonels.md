@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> McNeese Cowboys -11.5</p>
-  <p><strong>Moneyline:</strong> McNeese Cowboys (-750) | Nicholls St Colonels (+500)</p>
+  <p><strong>Moneyline:</strong> McNeese Cowboys (-720) | Nicholls St Colonels (+500)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **McNeese Cowboys**: -11.5, Edge For Covering Spread: -2.5%
-- **Nicholls St Colonels**: 11.5, Edge For Covering Spread: -2.3%
+- **McNeese Cowboys**: -11.5, Edge For Covering Spread: -2.2%
+- **Nicholls St Colonels**: 11.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **McNeese Cowboys Win Probability**: 83.1%, Moneyline Edge: -5.2%
-- **Nicholls St Colonels Win Probability**: 16.9%, Moneyline Edge: **0.3%**
+- **McNeese Cowboys Win Probability**: 83.0%, Moneyline Edge: -4.8%
+- **Nicholls St Colonels Win Probability**: 17.0%, Moneyline Edge: **0.3%**
 
 ### Total
 - **Predicted Total**: 145.0
