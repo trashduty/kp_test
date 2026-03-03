@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kent State Golden Flashes -9.5</p>
-  <p><strong>Moneyline:</strong> Kent State Golden Flashes (-475) | Northern Illinois Huskies (+360)</p>
+  <p><strong>Moneyline:</strong> Kent State Golden Flashes (-474) | Northern Illinois Huskies (+357)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kent State Golden Flashes**: -9.5, Edge For Covering Spread: -2.8%
-- **Northern Illinois Huskies**: 9.5, Edge For Covering Spread: -1.9%
+- **Kent State Golden Flashes**: -9.5, Edge For Covering Spread: -3.2%
+- **Northern Illinois Huskies**: 9.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Kent State Golden Flashes Win Probability**: 79.6%, Moneyline Edge: -3.0%
-- **Northern Illinois Huskies Win Probability**: 20.4%, Moneyline Edge: -1.3%
+- **Kent State Golden Flashes Win Probability**: 79.5%, Moneyline Edge: -3.1%
+- **Northern Illinois Huskies Win Probability**: 20.5%, Moneyline Edge: -1.4%
 
 ### Total
-- **Predicted Total**: 149.0
-- Edge For Covering The Over: -2.7%
-- Edge For Covering The Under: -2.0%
+- **Predicted Total**: 148.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

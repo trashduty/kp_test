@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Vermont Catamounts -7.5</p>
-  <p><strong>Moneyline:</strong> Albany Great Danes (+240) | Vermont Catamounts (-295)</p>
+  <p><strong>Moneyline:</strong> Albany Great Danes (+270) | Vermont Catamounts (-355)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Vermont Catamounts**: -7.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Albany Great Danes Win Probability**: 25.6%, Moneyline Edge: -3.8%
-- **Vermont Catamounts Win Probability**: 74.4%, Moneyline Edge: -0.3%
+- **Albany Great Danes Win Probability**: 24.4%, Moneyline Edge: -2.7%
+- **Vermont Catamounts Win Probability**: 75.6%, Moneyline Edge: -2.4%
 
 ### Total
-- **Predicted Total**: 139.5
-- Edge For Covering The Over: -1.4%
-- Edge For Covering The Under: -3.4%
+- **Predicted Total**: 140.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -4.0%
 
 ---
 

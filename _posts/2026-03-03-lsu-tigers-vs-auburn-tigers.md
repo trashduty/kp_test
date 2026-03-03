@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Auburn Tigers -8.5</p>
-  <p><strong>Moneyline:</strong> LSU Tigers (+350) | Auburn Tigers (-459)</p>
+  <p><strong>Moneyline:</strong> LSU Tigers (+325) | Auburn Tigers (-420)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **LSU Tigers**: 8.5, Edge For Covering Spread: -2.6%
-- **Auburn Tigers**: -8.5, Edge For Covering Spread: -2.2%
+- **LSU Tigers**: 8.5, Edge For Covering Spread: -2.4%
+- **Auburn Tigers**: -8.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **LSU Tigers Win Probability**: 21.7%, Moneyline Edge: -0.6%
-- **Auburn Tigers Win Probability**: 78.3%, Moneyline Edge: -3.8%
+- **LSU Tigers Win Probability**: 22.3%, Moneyline Edge: -1.3%
+- **Auburn Tigers Win Probability**: 77.7%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 156.5

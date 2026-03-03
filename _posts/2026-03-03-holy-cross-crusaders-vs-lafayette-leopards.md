@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Lafayette Leopards -3.5</p>
-  <p><strong>Moneyline:</strong> Holy Cross Crusaders (+150) | Lafayette Leopards (-181)</p>
+  <p><strong>Moneyline:</strong> Holy Cross Crusaders (+148) | Lafayette Leopards (-179)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Lafayette Leopards**: -3.5, Edge For Covering Spread: -1.1%
 
 ### Moneyline
-- **Holy Cross Crusaders Win Probability**: 36.6%, Moneyline Edge: -3.4%
-- **Lafayette Leopards Win Probability**: 63.4%, Moneyline Edge: -1.0%
+- **Holy Cross Crusaders Win Probability**: 36.6%, Moneyline Edge: -3.6%
+- **Lafayette Leopards Win Probability**: 63.4%, Moneyline Edge: -0.8%
 
 ### Total
 - **Predicted Total**: 141.5

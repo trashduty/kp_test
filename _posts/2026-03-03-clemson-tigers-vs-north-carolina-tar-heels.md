@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> North Carolina Tar Heels -3.5</p>
-  <p><strong>Moneyline:</strong> Clemson Tigers (+144) | North Carolina Tar Heels (-172)</p>
+  <p><strong>Moneyline:</strong> Clemson Tigers (+145) | North Carolina Tar Heels (-172)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Clemson Tigers**: 3.5, Edge For Covering Spread: -3.8%
-- **North Carolina Tar Heels**: -3.5, Edge For Covering Spread: -0.9%
+- **Clemson Tigers**: 3.5, Edge For Covering Spread: -3.6%
+- **North Carolina Tar Heels**: -3.5, Edge For Covering Spread: -1.5%
 
 ### Moneyline
-- **Clemson Tigers Win Probability**: 36.2%, Moneyline Edge: -4.8%
-- **North Carolina Tar Heels Win Probability**: 63.8%, Moneyline Edge: **0.5%**
+- **Clemson Tigers Win Probability**: 36.1%, Moneyline Edge: -4.7%
+- **North Carolina Tar Heels Win Probability**: 63.9%, Moneyline Edge: **0.6%**
 
 ### Total
 - **Predicted Total**: 141.5

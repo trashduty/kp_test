@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UCF Knights -8.5</p>
-  <p><strong>Moneyline:</strong> Oklahoma St Cowboys (+362) | UCF Knights (-477)</p>
+  <p><strong>Moneyline:</strong> Oklahoma St Cowboys (+344) | UCF Knights (-456)</p>
   <p><strong>Total:</strong> 169.5</p>
 </div>
 
@@ -25,16 +25,16 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **Oklahoma St Cowboys**: 8.5, Edge For Covering Spread: -2.1%
-- **UCF Knights**: -8.5, Edge For Covering Spread: -2.5%
+- **UCF Knights**: -8.5, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **Oklahoma St Cowboys Win Probability**: 20.9%, Moneyline Edge: -0.8%
-- **UCF Knights Win Probability**: 79.1%, Moneyline Edge: -3.5%
+- **Oklahoma St Cowboys Win Probability**: 21.3%, Moneyline Edge: -1.2%
+- **UCF Knights Win Probability**: 78.7%, Moneyline Edge: -3.3%
 
 ### Total
 - **Predicted Total**: 169.0
-- Edge For Covering The Over: -1.4%
-- Edge For Covering The Under: -3.4%
+- Edge For Covering The Over: -1.0%
+- Edge For Covering The Under: -3.7%
 
 ---
 

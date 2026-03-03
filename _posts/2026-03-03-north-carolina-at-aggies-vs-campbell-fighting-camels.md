@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Campbell Fighting Camels -7.5</p>
-  <p><strong>Moneyline:</strong> North Carolina A&T Aggies (+250) | Campbell Fighting Camels (-310)</p>
+  <p><strong>Moneyline:</strong> North Carolina A&T Aggies (+255) | Campbell Fighting Camels (-322)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **North Carolina A&T Aggies**: 7.5, Edge For Covering Spread: -4.0%
-- **Campbell Fighting Camels**: -7.5, Edge For Covering Spread: -0.8%
+- **North Carolina A&T Aggies**: 7.5, Edge For Covering Spread: -3.8%
+- **Campbell Fighting Camels**: -7.5, Edge For Covering Spread: -1.0%
 
 ### Moneyline
-- **North Carolina A&T Aggies Win Probability**: 25.5%, Moneyline Edge: -3.1%
-- **Campbell Fighting Camels Win Probability**: 74.5%, Moneyline Edge: -1.1%
+- **North Carolina A&T Aggies Win Probability**: 25.2%, Moneyline Edge: -3.0%
+- **Campbell Fighting Camels Win Probability**: 74.8%, Moneyline Edge: -1.6%
 
 ### Total
 - **Predicted Total**: 157.0
-- Edge For Covering The Over: -2.1%
-- Edge For Covering The Under: -2.7%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -3.2%
 
 ---
 

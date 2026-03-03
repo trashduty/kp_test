@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Akron Zips -11.5</p>
-  <p><strong>Moneyline:</strong> Akron Zips (-724) | Central Michigan Chippewas (+485)</p>
+  <p><strong>Moneyline:</strong> Akron Zips (-900) | Central Michigan Chippewas (+550)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Akron Zips**: -11.5, Edge For Covering Spread: -4.1%
-- **Central Michigan Chippewas**: 11.5, Edge For Covering Spread: -0.5%
+- **Akron Zips**: -11.5, Edge For Covering Spread: -2.6%
+- **Central Michigan Chippewas**: 11.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Akron Zips Win Probability**: 85.0%, Moneyline Edge: -2.8%
-- **Central Michigan Chippewas Win Probability**: 15.0%, Moneyline Edge: -2.1%
+- **Akron Zips Win Probability**: 85.8%, Moneyline Edge: -4.2%
+- **Central Michigan Chippewas Win Probability**: 14.2%, Moneyline Edge: -1.2%
 
 ### Total
 - **Predicted Total**: 160.5
-- Edge For Covering The Over: -2.8%
-- Edge For Covering The Under: -1.9%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 

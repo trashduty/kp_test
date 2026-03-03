@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Texas Tech Red Raiders -9.5</p>
-  <p><strong>Moneyline:</strong> TCU Horned Frogs (+412) | Texas Tech Red Raiders (-570)</p>
+  <p><strong>Moneyline:</strong> TCU Horned Frogs (+412) | Texas Tech Red Raiders (-566)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **TCU Horned Frogs**: 9.5, Edge For Covering Spread: -5.0%
-- **Texas Tech Red Raiders**: -9.5, Edge For Covering Spread: **0.3%**
+- **TCU Horned Frogs**: 9.5, Edge For Covering Spread: -4.1%
+- **Texas Tech Red Raiders**: -9.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
 - **TCU Horned Frogs Win Probability**: 15.8%, Moneyline Edge: -3.7%
-- **Texas Tech Red Raiders Win Probability**: 84.2%, Moneyline Edge: -0.9%
+- **Texas Tech Red Raiders Win Probability**: 84.2%, Moneyline Edge: -0.8%
 
 ### Total
 - **Predicted Total**: 148.0

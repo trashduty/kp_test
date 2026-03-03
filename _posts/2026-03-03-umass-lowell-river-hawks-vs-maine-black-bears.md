@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UMass Lowell River Hawks -1.5</p>
-  <p><strong>Moneyline:</strong> UMass Lowell River Hawks (-122) | Maine Black Bears (+102)</p>
+  <p><strong>Moneyline:</strong> UMass Lowell River Hawks (-120) | Maine Black Bears (-100)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Maine Black Bears**: 1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **UMass Lowell River Hawks Win Probability**: 52.7%, Moneyline Edge: -2.3%
-- **Maine Black Bears Win Probability**: 47.3%, Moneyline Edge: -2.2%
+- **UMass Lowell River Hawks Win Probability**: 52.5%, Moneyline Edge: -2.0%
+- **Maine Black Bears Win Probability**: 47.5%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 140.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.5%
 
 ---
 

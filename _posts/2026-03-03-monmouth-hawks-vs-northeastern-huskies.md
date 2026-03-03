@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Monmouth Hawks -4.0</p>
-  <p><strong>Moneyline:</strong> Monmouth Hawks (-180) | Northeastern Huskies (+145)</p>
+  <p><strong>Spread:</strong> Monmouth Hawks -4.5</p>
+  <p><strong>Moneyline:</strong> Monmouth Hawks (-188) | Northeastern Huskies (+155)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Monmouth Hawks**: -4.0, Edge For Covering Spread: -3.1%
-- **Northeastern Huskies**: 4.0, Edge For Covering Spread: -1.7%
+- **Monmouth Hawks**: -4.5, Edge For Covering Spread: -1.6%
+- **Northeastern Huskies**: 4.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
-- **Monmouth Hawks Win Probability**: 62.6%, Moneyline Edge: -1.7%
-- **Northeastern Huskies Win Probability**: 37.4%, Moneyline Edge: -3.4%
+- **Monmouth Hawks Win Probability**: 63.2%, Moneyline Edge: -2.0%
+- **Northeastern Huskies Win Probability**: 36.8%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 149.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -3.4%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -4.5%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Monmouth Hawks (16-14) travels to face Northeastern Huskies (6-22) at Cabot Center in what shapes up to be a competitive matchup. The early betting action has shaped into Monmouth Hawks favored by 4.0 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Monmouth Hawks (16-14) travels to face Northeastern Huskies (6-22) at Cabot Center in what shapes up to be a competitive matchup. The early betting action has shaped into Monmouth Hawks favored by 4.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.0-point spread indicates Monmouth Hawks is viewed as the better team, but this isn't an overwhelming edge. Northeastern Huskies has a legitimate path to covering or winning outright. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 4.5-point spread indicates Monmouth Hawks is viewed as the better team, but this isn't an overwhelming edge. Northeastern Huskies has a legitimate path to covering or winning outright. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Monmouth Hawks** bring an offensive efficiency of 104.93 (ranked #256 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.9% three-point shooting is serviceable but won't scare anyone. 

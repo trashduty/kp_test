@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Buffalo Bulls -3.5</p>
-  <p><strong>Moneyline:</strong> Eastern Michigan Eagles (+158) | Buffalo Bulls (-190)</p>
+  <p><strong>Moneyline:</strong> Eastern Michigan Eagles (+150) | Buffalo Bulls (-175)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Buffalo Bulls**: -3.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Eastern Michigan Eagles Win Probability**: 35.1%, Moneyline Edge: -3.7%
-- **Buffalo Bulls Win Probability**: 64.9%, Moneyline Edge: -0.6%
+- **Eastern Michigan Eagles Win Probability**: 35.8%, Moneyline Edge: -4.2%
+- **Buffalo Bulls Win Probability**: 64.2%, Moneyline Edge: **0.6%**
 
 ### Total
 - **Predicted Total**: 144.0

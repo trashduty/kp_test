@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> St. John's Red Storm -15.5</p>
-  <p><strong>Moneyline:</strong> Georgetown Hoyas (+1100) | St. John's Red Storm (-2500)</p>
+  <p><strong>Moneyline:</strong> Georgetown Hoyas (+1000) | St. John's Red Storm (-2000)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **St. John's Red Storm**: -15.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **Georgetown Hoyas Win Probability**: 9.0%, Moneyline Edge: **0.7%**
-- **St. John's Red Storm Win Probability**: 91.0%, Moneyline Edge: -5.1%
+- **Georgetown Hoyas Win Probability**: 9.4%, Moneyline Edge: **0.3%**
+- **St. John's Red Storm Win Probability**: 90.6%, Moneyline Edge: -4.6%
 
 ### Total
 - **Predicted Total**: 148.5

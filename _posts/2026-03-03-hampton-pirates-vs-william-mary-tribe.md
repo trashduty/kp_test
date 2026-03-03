@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> William & Mary Tribe -11.5</p>
-  <p><strong>Moneyline:</strong> Hampton Pirates (+460) | William & Mary Tribe (-674)</p>
+  <p><strong>Moneyline:</strong> Hampton Pirates (+550) | William & Mary Tribe (-900)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **William & Mary Tribe**: -11.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Hampton Pirates Win Probability**: 15.6%, Moneyline Edge: -2.2%
-- **William & Mary Tribe Win Probability**: 84.4%, Moneyline Edge: -2.7%
+- **Hampton Pirates Win Probability**: 14.4%, Moneyline Edge: -0.9%
+- **William & Mary Tribe Win Probability**: 85.6%, Moneyline Edge: -4.4%
 
 ### Total
 - **Predicted Total**: 153.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.9%
+- Edge For Covering The Over: -3.7%
+- Edge For Covering The Under: -1.1%
 
 ---
 

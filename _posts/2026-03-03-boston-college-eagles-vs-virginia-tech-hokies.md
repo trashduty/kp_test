@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Virginia Tech Hokies -12.0</p>
-  <p><strong>Moneyline:</strong> Boston College Eagles (+624) | Virginia Tech Hokies (-948)</p>
+  <p><strong>Moneyline:</strong> Boston College Eagles (+592) | Virginia Tech Hokies (-890)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Boston College Eagles**: 12.0, Edge For Covering Spread: -2.4%
-- **Virginia Tech Hokies**: -12.0, Edge For Covering Spread: -2.6%
+- **Boston College Eagles**: 12.0, Edge For Covering Spread: -1.7%
+- **Virginia Tech Hokies**: -12.0, Edge For Covering Spread: -3.1%
 
 ### Moneyline
-- **Boston College Eagles Win Probability**: 13.6%, Moneyline Edge: -0.2%
-- **Virginia Tech Hokies Win Probability**: 86.4%, Moneyline Edge: -4.1%
+- **Boston College Eagles Win Probability**: 13.9%, Moneyline Edge: -0.5%
+- **Virginia Tech Hokies Win Probability**: 86.1%, Moneyline Edge: -3.8%
 
 ### Total
-- **Predicted Total**: 141.0
-- Edge For Covering The Over: -6.4%
-- Edge For Covering The Under: **0.1%**
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -5.6%
+- Edge For Covering The Under: **0.9%**
 
 ---
 

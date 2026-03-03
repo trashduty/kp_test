@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **Kansas St Wildcats Win Probability**: 46.9%, Moneyline Edge: -1.9%
 
 ### Total
-- **Predicted Total**: 142.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 142.0
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 

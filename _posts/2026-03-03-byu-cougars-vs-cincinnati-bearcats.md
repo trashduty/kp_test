@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Cincinnati Bearcats -1.5</p>
-  <p><strong>Moneyline:</strong> BYU Cougars (+112) | Cincinnati Bearcats (-135)</p>
+  <p><strong>Moneyline:</strong> BYU Cougars (+105) | Cincinnati Bearcats (-125)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **BYU Cougars**: 1.5, Edge For Covering Spread: -2.5%
-- **Cincinnati Bearcats**: -1.5, Edge For Covering Spread: -2.4%
+- **BYU Cougars**: 1.5, Edge For Covering Spread: -3.4%
+- **Cincinnati Bearcats**: -1.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **BYU Cougars Win Probability**: 39.5%, Moneyline Edge: -7.5%
-- **Cincinnati Bearcats Win Probability**: 60.5%, Moneyline Edge: **3.0%**
+- **BYU Cougars Win Probability**: 40.4%, Moneyline Edge: -8.4%
+- **Cincinnati Bearcats Win Probability**: 59.6%, Moneyline Edge: **4.1%**
 
 ### Total
 - **Predicted Total**: 152.0

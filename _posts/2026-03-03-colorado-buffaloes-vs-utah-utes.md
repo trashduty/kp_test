@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Utah Utes -1.5</p>
-  <p><strong>Moneyline:</strong> Colorado Buffaloes (-104) | Utah Utes (-115)</p>
+  <p><strong>Spread:</strong> Pick'em</p>
+  <p><strong>Moneyline:</strong> Colorado Buffaloes (-110) | Utah Utes (-110)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Colorado Buffaloes**: 1.5, Edge For Covering Spread: -4.5%
-- **Utah Utes**: -1.5, Edge For Covering Spread: 0.0%
+- **Colorado Buffaloes**: 0.0, Edge For Covering Spread: -4.0%
+- **Utah Utes**: 0.0, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Colorado Buffaloes Win Probability**: 47.3%, Moneyline Edge: -3.7%
-- **Utah Utes Win Probability**: 52.7%, Moneyline Edge: -0.8%
+- **Colorado Buffaloes Win Probability**: 48.1%, Moneyline Edge: -4.3%
+- **Utah Utes Win Probability**: 51.9%, Moneyline Edge: -0.5%
 
 ### Total
 - **Predicted Total**: 151.0
-- Edge For Covering The Over: -0.0%
-- Edge For Covering The Under: -4.7%
+- Edge For Covering The Over: N/A
+- Edge For Covering The Under: N/A
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Colorado Buffaloes (16-13) travels to face Utah Utes (10-19) at Huntsman Center in what shapes up to be a competitive matchup. The early betting action has shaped into Utah Utes favored by 1.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Colorado Buffaloes (16-13) travels to face Utah Utes (10-19) at Huntsman Center in what shapes up to be a competitive matchup. The early betting action has shaped into Utah Utes favored by 0.0 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Utah Utes's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Utah Utes's 0.0-point cushion reflects home court advantage more than a talent gap. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Colorado Buffaloes** bring an offensive efficiency of 112.21 (ranked #100 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.0% three-point shooting is serviceable but won't scare anyone. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Western Michigan Broncos -3.5</p>
-  <p><strong>Moneyline:</strong> Ball State Cardinals (+135) | Western Michigan Broncos (-165)</p>
+  <p><strong>Moneyline:</strong> Ball State Cardinals (+140) | Western Michigan Broncos (-172)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -28,12 +28,12 @@ All that being said, here's how our model prices this game.
 - **Western Michigan Broncos**: -3.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Ball State Cardinals Win Probability**: 36.3%, Moneyline Edge: -6.3%
-- **Western Michigan Broncos Win Probability**: 63.7%, Moneyline Edge: **1.4%**
+- **Ball State Cardinals Win Probability**: 35.9%, Moneyline Edge: -5.8%
+- **Western Michigan Broncos Win Probability**: 64.1%, Moneyline Edge: **0.9%**
 
 ### Total
 - **Predicted Total**: 137.5
-- Edge For Covering The Over: -1.2%
+- Edge For Covering The Over: -1.3%
 - Edge For Covering The Under: -3.5%
 
 ---

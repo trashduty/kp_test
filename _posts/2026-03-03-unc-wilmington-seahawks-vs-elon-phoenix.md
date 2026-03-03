@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UNC Wilmington Seahawks -5.5</p>
-  <p><strong>Moneyline:</strong> UNC Wilmington Seahawks (-225) | Elon Phoenix (+187)</p>
+  <p><strong>Moneyline:</strong> UNC Wilmington Seahawks (-220) | Elon Phoenix (+180)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UNC Wilmington Seahawks**: -5.5, Edge For Covering Spread: -2.4%
-- **Elon Phoenix**: 5.5, Edge For Covering Spread: -2.4%
+- **UNC Wilmington Seahawks**: -5.5, Edge For Covering Spread: -1.2%
+- **Elon Phoenix**: 5.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **UNC Wilmington Seahawks Win Probability**: 66.3%, Moneyline Edge: -3.0%
-- **Elon Phoenix Win Probability**: 33.7%, Moneyline Edge: -1.1%
+- **UNC Wilmington Seahawks Win Probability**: 65.9%, Moneyline Edge: -2.8%
+- **Elon Phoenix Win Probability**: 34.1%, Moneyline Edge: -1.6%
 
 ### Total
 - **Predicted Total**: 146.5
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

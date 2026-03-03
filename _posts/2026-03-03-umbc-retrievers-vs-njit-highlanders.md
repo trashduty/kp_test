@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UMBC Retrievers -4.5</p>
-  <p><strong>Moneyline:</strong> UMBC Retrievers (-225) | NJIT Highlanders (+187)</p>
+  <p><strong>Moneyline:</strong> UMBC Retrievers (-229) | NJIT Highlanders (+189)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **NJIT Highlanders**: 4.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **UMBC Retrievers Win Probability**: 67.3%, Moneyline Edge: -2.0%
-- **NJIT Highlanders Win Probability**: 32.7%, Moneyline Edge: -2.1%
+- **UMBC Retrievers Win Probability**: 67.4%, Moneyline Edge: -2.2%
+- **NJIT Highlanders Win Probability**: 32.6%, Moneyline Edge: -2.0%
 
 ### Total
-- **Predicted Total**: 140.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 141.0
+- Edge For Covering The Over: -2.0%
+- Edge For Covering The Under: -2.7%
 
 ---
 

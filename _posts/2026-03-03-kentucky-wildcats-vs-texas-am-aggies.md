@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kentucky Wildcats**: 1.5, Edge For Covering Spread: -2.4%
-- **Texas A&M Aggies**: -1.5, Edge For Covering Spread: -2.4%
+- **Kentucky Wildcats**: 1.5, Edge For Covering Spread: -1.8%
+- **Texas A&M Aggies**: -1.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
 - **Kentucky Wildcats Win Probability**: 45.6%, Moneyline Edge: -2.0%
-- **Texas A&M Aggies Win Probability**: 54.4%, Moneyline Edge: -2.1%
+- **Texas A&M Aggies Win Probability**: 54.4%, Moneyline Edge: -2.2%
 
 ### Total
 - **Predicted Total**: 158.5

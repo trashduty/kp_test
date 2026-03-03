@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Old Dominion Monarchs -10.5</p>
-  <p><strong>Moneyline:</strong> UL Monroe Warhawks (+447) | Old Dominion Monarchs (-633)</p>
+  <p><strong>Moneyline:</strong> UL Monroe Warhawks (+450) | Old Dominion Monarchs (-650)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UL Monroe Warhawks**: 10.5, Edge For Covering Spread: -2.4%
-- **Old Dominion Monarchs**: -10.5, Edge For Covering Spread: -2.4%
+- **UL Monroe Warhawks**: 10.5, Edge For Covering Spread: -1.2%
+- **Old Dominion Monarchs**: -10.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **UL Monroe Warhawks Win Probability**: 17.2%, Moneyline Edge: -1.1%
-- **Old Dominion Monarchs Win Probability**: 82.8%, Moneyline Edge: -3.6%
+- **UL Monroe Warhawks Win Probability**: 17.2%, Moneyline Edge: -1.0%
+- **Old Dominion Monarchs Win Probability**: 82.8%, Moneyline Edge: -3.8%
 
 ### Total
-- **Predicted Total**: 159.5
-- Edge For Covering The Over: -1.2%
-- Edge For Covering The Under: -3.5%
+- **Predicted Total**: 158.5
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -2.6%
 
 ---
 

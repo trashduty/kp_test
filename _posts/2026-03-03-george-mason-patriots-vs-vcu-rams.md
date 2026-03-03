@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> VCU Rams -11.5</p>
-  <p><strong>Moneyline:</strong> George Mason Patriots (+550) | VCU Rams (-835)</p>
+  <p><strong>Moneyline:</strong> George Mason Patriots (+525) | VCU Rams (-774)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **VCU Rams**: -11.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **George Mason Patriots Win Probability**: 15.0%, Moneyline Edge: -0.4%
-- **VCU Rams Win Probability**: 85.0%, Moneyline Edge: -4.3%
+- **George Mason Patriots Win Probability**: 15.3%, Moneyline Edge: -0.7%
+- **VCU Rams Win Probability**: 84.7%, Moneyline Edge: -3.9%
 
 ### Total
 - **Predicted Total**: 148.0
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.1%
 
 ---
 

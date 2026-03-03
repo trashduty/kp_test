@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Oklahoma Sooners -2.0</p>
-  <p><strong>Moneyline:</strong> Missouri Tigers (+118) | Oklahoma Sooners (-140)</p>
+  <p><strong>Spread:</strong> Oklahoma Sooners -2.5</p>
+  <p><strong>Moneyline:</strong> Missouri Tigers (+116) | Oklahoma Sooners (-141)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Missouri Tigers**: 2.0, Edge For Covering Spread: -3.6%
-- **Oklahoma Sooners**: -2.0, Edge For Covering Spread: -1.1%
+- **Missouri Tigers**: 2.5, Edge For Covering Spread: -4.0%
+- **Oklahoma Sooners**: -2.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Missouri Tigers Win Probability**: 41.0%, Moneyline Edge: -4.9%
-- **Oklahoma Sooners Win Probability**: 59.0%, Moneyline Edge: **0.7%**
+- **Missouri Tigers Win Probability**: 41.1%, Moneyline Edge: -5.1%
+- **Oklahoma Sooners Win Probability**: 58.9%, Moneyline Edge: **0.4%**
 
 ### Total
 - **Predicted Total**: 153.5
-- Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.1%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Missouri Tigers (20-9) travels to face Oklahoma Sooners (15-14) at Lloyd Noble Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Oklahoma Sooners favored by 2.0 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Missouri Tigers (20-9) travels to face Oklahoma Sooners (15-14) at Lloyd Noble Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Oklahoma Sooners favored by 2.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Oklahoma Sooners's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Oklahoma Sooners's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Missouri Tigers** bring an offensive efficiency of 116.56 (ranked #54 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.2% three-point shooting is serviceable but won't scare anyone. 

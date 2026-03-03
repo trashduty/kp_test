@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kansas Jayhawks -5.5</p>
-  <p><strong>Moneyline:</strong> Kansas Jayhawks (-240) | Arizona St Sun Devils (+197)</p>
+  <p><strong>Moneyline:</strong> Kansas Jayhawks (-247) | Arizona St Sun Devils (+201)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kansas Jayhawks**: -5.5, Edge For Covering Spread: -0.9%
-- **Arizona St Sun Devils**: 5.5, Edge For Covering Spread: -4.0%
+- **Kansas Jayhawks**: -5.5, Edge For Covering Spread: -2.2%
+- **Arizona St Sun Devils**: 5.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Kansas Jayhawks Win Probability**: 69.4%, Moneyline Edge: -1.2%
-- **Arizona St Sun Devils Win Probability**: 30.6%, Moneyline Edge: -3.0%
+- **Kansas Jayhawks Win Probability**: 69.6%, Moneyline Edge: -1.6%
+- **Arizona St Sun Devils Win Probability**: 30.4%, Moneyline Edge: -2.8%
 
 ### Total
 - **Predicted Total**: 150.5

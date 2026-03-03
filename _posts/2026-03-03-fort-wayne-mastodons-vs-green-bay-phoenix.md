@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Green Bay Phoenix -6.0</p>
-  <p><strong>Moneyline:</strong> Fort Wayne Mastodons (+235) | Green Bay Phoenix (-295)</p>
+  <p><strong>Moneyline:</strong> Fort Wayne Mastodons (+220) | Green Bay Phoenix (-275)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Green Bay Phoenix**: -6.0, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Fort Wayne Mastodons Win Probability**: 29.3%, Moneyline Edge: -0.6%
-- **Green Bay Phoenix Win Probability**: 70.7%, Moneyline Edge: -4.0%
+- **Fort Wayne Mastodons Win Probability**: 29.9%, Moneyline Edge: -1.3%
+- **Green Bay Phoenix Win Probability**: 70.1%, Moneyline Edge: -3.3%
 
 ### Total
 - **Predicted Total**: 146.5

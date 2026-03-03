@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Dayton Flyers -5.5</p>
-  <p><strong>Moneyline:</strong> Dayton Flyers (-240) | Richmond Spiders (+196)</p>
+  <p><strong>Spread:</strong> Dayton Flyers -4.5</p>
+  <p><strong>Moneyline:</strong> Dayton Flyers (-225) | Richmond Spiders (+187)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Dayton Flyers**: -5.5, Edge For Covering Spread: -3.7%
-- **Richmond Spiders**: 5.5, Edge For Covering Spread: -1.1%
+- **Dayton Flyers**: -4.5, Edge For Covering Spread: -5.1%
+- **Richmond Spiders**: 4.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Dayton Flyers Win Probability**: 65.3%, Moneyline Edge: -5.3%
-- **Richmond Spiders Win Probability**: 34.7%, Moneyline Edge: **0.9%**
+- **Dayton Flyers Win Probability**: 64.8%, Moneyline Edge: -4.5%
+- **Richmond Spiders Win Probability**: 35.2%, Moneyline Edge: **0.4%**
 
 ### Total
 - **Predicted Total**: 146.5
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -2.9%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Dayton Flyers (20-9) travels to face Richmond Spiders (15-14) at Robins Center in what shapes up to be a competitive matchup. The early betting action has shaped into Dayton Flyers favored by 5.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Dayton Flyers (20-9) travels to face Richmond Spiders (15-14) at Robins Center in what shapes up to be a competitive matchup. The early betting action has shaped into Dayton Flyers favored by 4.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Dayton Flyers is viewed as the better team, but this isn't an overwhelming edge. Richmond Spiders has a legitimate path to covering or winning outright. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 4.5-point spread indicates Dayton Flyers is viewed as the better team, but this isn't an overwhelming edge. Richmond Spiders has a legitimate path to covering or winning outright. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Dayton Flyers** bring an offensive efficiency of 109.55 (ranked #155 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.3% three-point shooting is serviceable but won't scare anyone. 

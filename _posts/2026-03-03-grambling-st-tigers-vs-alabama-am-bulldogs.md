@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama A&M Bulldogs -1.5</p>
-  <p><strong>Moneyline:</strong> Grambling St Tigers (+105) | Alabama A&M Bulldogs (-125)</p>
+  <p><strong>Moneyline:</strong> Grambling St Tigers (+103) | Alabama A&M Bulldogs (-124)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Alabama A&M Bulldogs**: -1.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Grambling St Tigers Win Probability**: 44.2%, Moneyline Edge: -4.6%
-- **Alabama A&M Bulldogs Win Probability**: 55.8%, Moneyline Edge: **0.2%**
+- **Grambling St Tigers Win Probability**: 44.3%, Moneyline Edge: -4.8%
+- **Alabama A&M Bulldogs Win Probability**: 55.7%, Moneyline Edge: **0.2%**
 
 ### Total
-- **Predicted Total**: 138.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- **Predicted Total**: 138.5
+- Edge For Covering The Over: -4.2%
+- Edge For Covering The Under: -2.4%
 
 ---
 

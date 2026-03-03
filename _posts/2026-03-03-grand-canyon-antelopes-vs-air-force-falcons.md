@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Grand Canyon Antelopes -19.5</p>
-  <p><strong>Moneyline:</strong> Grand Canyon Antelopes (-3756) | Air Force Falcons (+1364)</p>
+  <p><strong>Moneyline:</strong> Grand Canyon Antelopes (-5000) | Air Force Falcons (+1500)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Grand Canyon Antelopes**: -19.5, Edge For Covering Spread: -4.1%
-- **Air Force Falcons**: 19.5, Edge For Covering Spread: -0.7%
+- **Grand Canyon Antelopes**: -19.5, Edge For Covering Spread: -4.7%
+- **Air Force Falcons**: 19.5, Edge For Covering Spread: -0.0%
 
 ### Moneyline
-- **Grand Canyon Antelopes Win Probability**: 94.2%, Moneyline Edge: -3.2%
-- **Air Force Falcons Win Probability**: 5.8%, Moneyline Edge: -1.1%
+- **Grand Canyon Antelopes Win Probability**: 94.5%, Moneyline Edge: -3.5%
+- **Air Force Falcons Win Probability**: 5.5%, Moneyline Edge: -0.8%
 
 ### Total
 - **Predicted Total**: 139.0
-- Edge For Covering The Over: -5.0%
+- Edge For Covering The Over: -5.3%
 - Edge For Covering The Under: **0.3%**
 
 ---

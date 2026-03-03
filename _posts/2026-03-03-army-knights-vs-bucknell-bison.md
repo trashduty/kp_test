@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Bucknell Bison -3.0</p>
-  <p><strong>Moneyline:</strong> Army Knights (+132) | Bucknell Bison (-162)</p>
+  <p><strong>Moneyline:</strong> Army Knights (+129) | Bucknell Bison (-158)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Bucknell Bison**: -3.0, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Army Knights Win Probability**: 40.5%, Moneyline Edge: -2.5%
-- **Bucknell Bison Win Probability**: 59.5%, Moneyline Edge: -2.4%
+- **Army Knights Win Probability**: 40.8%, Moneyline Edge: -2.8%
+- **Bucknell Bison Win Probability**: 59.2%, Moneyline Edge: -2.1%
 
 ### Total
 - **Predicted Total**: 145.0
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -2.2%
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 

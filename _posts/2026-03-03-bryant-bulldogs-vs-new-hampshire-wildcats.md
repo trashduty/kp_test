@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> New Hampshire Wildcats -2.5</p>
-  <p><strong>Moneyline:</strong> Bryant Bulldogs (+134) | New Hampshire Wildcats (-160)</p>
+  <p><strong>Moneyline:</strong> Bryant Bulldogs (+137) | New Hampshire Wildcats (-163)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **New Hampshire Wildcats**: -2.5, Edge For Covering Spread: -0.0%
 
 ### Moneyline
-- **Bryant Bulldogs Win Probability**: 36.3%, Moneyline Edge: -6.4%
-- **New Hampshire Wildcats Win Probability**: 63.7%, Moneyline Edge: **2.2%**
+- **Bryant Bulldogs Win Probability**: 36.2%, Moneyline Edge: -6.0%
+- **New Hampshire Wildcats Win Probability**: 63.8%, Moneyline Edge: **1.8%**
 
 ### Total
 - **Predicted Total**: 135.0
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.3%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.5%
 
 ---
 

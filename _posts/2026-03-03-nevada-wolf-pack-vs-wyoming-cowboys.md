@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Nevada Wolf Pack -0.5</p>
-  <p><strong>Moneyline:</strong> Nevada Wolf Pack (-111) | Wyoming Cowboys (-108)</p>
+  <p><strong>Spread:</strong> Nevada Wolf Pack -1.5</p>
+  <p><strong>Moneyline:</strong> Nevada Wolf Pack (-115) | Wyoming Cowboys (-105)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Nevada Wolf Pack**: -0.5, Edge For Covering Spread: -4.1%
-- **Wyoming Cowboys**: 0.5, Edge For Covering Spread: -2.3%
+- **Nevada Wolf Pack**: -1.5, Edge For Covering Spread: -3.4%
+- **Wyoming Cowboys**: 1.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Nevada Wolf Pack Win Probability**: 49.2%, Moneyline Edge: -3.4%
-- **Wyoming Cowboys Win Probability**: 50.8%, Moneyline Edge: -1.1%
+- **Nevada Wolf Pack Win Probability**: 49.5%, Moneyline Edge: -3.9%
+- **Wyoming Cowboys Win Probability**: 50.5%, Moneyline Edge: -0.8%
 
 ### Total
 - **Predicted Total**: 143.5
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Nevada Wolf Pack (19-10) travels to face Wyoming Cowboys (16-13) at Arena Auditorium in what shapes up to be a competitive matchup. The early betting action has shaped into Nevada Wolf Pack favored by 0.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Nevada Wolf Pack (19-10) travels to face Wyoming Cowboys (16-13) at Arena Auditorium in what shapes up to be a competitive matchup. The early betting action has shaped into Nevada Wolf Pack favored by 1.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Nevada Wolf Pack's 0.5-point cushion reflects home court advantage more than a talent gap. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Nevada Wolf Pack's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Nevada Wolf Pack** bring an offensive efficiency of 113.00 (ranked #85 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 37.7% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

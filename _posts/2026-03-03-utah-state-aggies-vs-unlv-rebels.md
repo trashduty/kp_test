@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Utah State Aggies -7.5</p>
-  <p><strong>Moneyline:</strong> Utah State Aggies (-390) | UNLV Rebels (+300)</p>
+  <p><strong>Moneyline:</strong> Utah State Aggies (-376) | UNLV Rebels (+290)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **UNLV Rebels**: 7.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Utah State Aggies Win Probability**: 78.0%, Moneyline Edge: -1.5%
-- **UNLV Rebels Win Probability**: 22.0%, Moneyline Edge: -3.0%
+- **Utah State Aggies Win Probability**: 77.7%, Moneyline Edge: -1.3%
+- **UNLV Rebels Win Probability**: 22.3%, Moneyline Edge: -3.4%
 
 ### Total
-- **Predicted Total**: 158.5
-- Edge For Covering The Over: **1.9%**
-- Edge For Covering The Under: -6.6%
+- **Predicted Total**: 158.0
+- Edge For Covering The Over: **0.4%**
+- Edge For Covering The Under: -5.1%
 
 ---
 

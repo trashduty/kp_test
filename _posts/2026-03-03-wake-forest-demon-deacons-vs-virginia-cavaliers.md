@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Virginia Cavaliers -14.5</p>
-  <p><strong>Moneyline:</strong> Wake Forest Demon Deacons (+805) | Virginia Cavaliers (-1450)</p>
+  <p><strong>Moneyline:</strong> Wake Forest Demon Deacons (+787) | Virginia Cavaliers (-1400)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Virginia Cavaliers**: -14.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Wake Forest Demon Deacons Win Probability**: 10.3%, Moneyline Edge: -0.8%
-- **Virginia Cavaliers Win Probability**: 89.7%, Moneyline Edge: -3.8%
+- **Wake Forest Demon Deacons Win Probability**: 10.4%, Moneyline Edge: -0.9%
+- **Virginia Cavaliers Win Probability**: 89.6%, Moneyline Edge: -3.7%
 
 ### Total
 - **Predicted Total**: 148.0
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.2%
+- Edge For Covering The Over: -2.0%
+- Edge For Covering The Under: -2.7%
 
 ---
 

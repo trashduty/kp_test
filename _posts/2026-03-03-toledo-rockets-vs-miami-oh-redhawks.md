@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Miami (OH) RedHawks -8.5</p>
-  <p><strong>Moneyline:</strong> Toledo Rockets (+350) | Miami (OH) RedHawks (-459)</p>
+  <p><strong>Moneyline:</strong> Toledo Rockets (+315) | Miami (OH) RedHawks (-405)</p>
   <p><strong>Total:</strong> 162.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Miami (OH) RedHawks**: -8.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Toledo Rockets Win Probability**: 20.2%, Moneyline Edge: -2.1%
-- **Miami (OH) RedHawks Win Probability**: 79.8%, Moneyline Edge: -2.3%
+- **Toledo Rockets Win Probability**: 21.1%, Moneyline Edge: -3.0%
+- **Miami (OH) RedHawks Win Probability**: 78.9%, Moneyline Edge: -1.2%
 
 ### Total
 - **Predicted Total**: 162.5
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 
