@@ -99,6 +99,10 @@ jobs:
           error_screenshot_*.png
         if-no-files-found: ignore
     
+    - name: Scrape AP Top 25 rankings
+      run: |
+        python scrape_ap_rankings.py
+
     - name: Generate plots
       run: |
         Rscript generate_kenpom_plot.R
