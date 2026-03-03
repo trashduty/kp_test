@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Western Michigan Broncos -3.5</p>
-  <p><strong>Moneyline:</strong> Ball State Cardinals (+140) | Western Michigan Broncos (-172)</p>
+  <p><strong>Spread:</strong> Western Michigan Broncos -3.0</p>
+  <p><strong>Moneyline:</strong> Ball State Cardinals (+135) | Western Michigan Broncos (-158)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ball State Cardinals**: 3.5, Edge For Covering Spread: -2.4%
-- **Western Michigan Broncos**: -3.5, Edge For Covering Spread: -2.4%
+- **Ball State Cardinals**: 3.0, Edge For Covering Spread: -4.7%
+- **Western Michigan Broncos**: -3.0, Edge For Covering Spread: -0.1%
 
 ### Moneyline
-- **Ball State Cardinals Win Probability**: 35.9%, Moneyline Edge: -5.8%
-- **Western Michigan Broncos Win Probability**: 64.1%, Moneyline Edge: **0.9%**
+- **Ball State Cardinals Win Probability**: 36.5%, Moneyline Edge: -6.0%
+- **Western Michigan Broncos Win Probability**: 63.5%, Moneyline Edge: **2.2%**
 
 ### Total
-- **Predicted Total**: 137.5
-- Edge For Covering The Over: -1.3%
-- Edge For Covering The Under: -3.5%
+- **Predicted Total**: 136.5
+- Edge For Covering The Over: **0.3%**
+- Edge For Covering The Under: -5.0%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Western Michigan Broncos (10-19) hosts Ball State Cardinals (10-19) at University Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Western Michigan Broncos favored by 3.5 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Western Michigan Broncos (10-19) hosts Ball State Cardinals (10-19) at University Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Western Michigan Broncos favored by 3.0 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Western Michigan Broncos is viewed as the better team, but this isn't an overwhelming edge. Ball State Cardinals has a legitimate path to covering or winning outright. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 3.0-point spread indicates Western Michigan Broncos is viewed as the better team, but this isn't an overwhelming edge. Ball State Cardinals has a legitimate path to covering or winning outright. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Ball State Cardinals** bring an offensive efficiency of 99.02 (ranked #337 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.0% from three, they can't rely on the arc. Expect a paint-focused attack. 

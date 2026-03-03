@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Cincinnati Bearcats -1.5</p>
-  <p><strong>Moneyline:</strong> BYU Cougars (+105) | Cincinnati Bearcats (-125)</p>
+  <p><strong>Spread:</strong> Cincinnati Bearcats -2.5</p>
+  <p><strong>Moneyline:</strong> BYU Cougars (+115) | Cincinnati Bearcats (-137)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **BYU Cougars**: 1.5, Edge For Covering Spread: -3.4%
-- **Cincinnati Bearcats**: -1.5, Edge For Covering Spread: -1.3%
+- **BYU Cougars**: 2.5, Edge For Covering Spread: -3.7%
+- **Cincinnati Bearcats**: -2.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **BYU Cougars Win Probability**: 40.4%, Moneyline Edge: -8.4%
-- **Cincinnati Bearcats Win Probability**: 59.6%, Moneyline Edge: **4.1%**
+- **BYU Cougars Win Probability**: 39.3%, Moneyline Edge: -7.2%
+- **Cincinnati Bearcats Win Probability**: 60.7%, Moneyline Edge: **2.8%**
 
 ### Total
-- **Predicted Total**: 152.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- **Predicted Total**: 151.5
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -2.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-BYU Cougars (20-9) travels to face Cincinnati Bearcats (16-13) at Fifth Third Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Cincinnati Bearcats favored by 1.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+BYU Cougars (20-9) travels to face Cincinnati Bearcats (16-13) at Fifth Third Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Cincinnati Bearcats favored by 2.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Cincinnati Bearcats's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Cincinnati Bearcats's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **BYU Cougars** bring an offensive efficiency of 119.48 (ranked #25 nationally). This is an elite offense that can score in multiple ways. Their 35.3% three-point shooting is serviceable but won't scare anyone. 

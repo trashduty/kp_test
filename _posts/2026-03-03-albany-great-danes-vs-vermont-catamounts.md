@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Vermont Catamounts -7.5</p>
-  <p><strong>Moneyline:</strong> Albany Great Danes (+270) | Vermont Catamounts (-355)</p>
+  <p><strong>Spread:</strong> Vermont Catamounts -8.5</p>
+  <p><strong>Moneyline:</strong> Albany Great Danes (+310) | Vermont Catamounts (-420)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Albany Great Danes**: 7.5, Edge For Covering Spread: -3.5%
-- **Vermont Catamounts**: -7.5, Edge For Covering Spread: -1.2%
+- **Albany Great Danes**: 8.5, Edge For Covering Spread: **0.5%**
+- **Vermont Catamounts**: -8.5, Edge For Covering Spread: -5.2%
 
 ### Moneyline
-- **Albany Great Danes Win Probability**: 24.4%, Moneyline Edge: -2.7%
-- **Vermont Catamounts Win Probability**: 75.6%, Moneyline Edge: -2.4%
+- **Albany Great Danes Win Probability**: 23.1%, Moneyline Edge: -1.3%
+- **Vermont Catamounts Win Probability**: 76.9%, Moneyline Edge: -3.9%
 
 ### Total
-- **Predicted Total**: 140.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -4.0%
+- **Predicted Total**: 139.5
+- Edge For Covering The Over: -1.9%
+- Edge For Covering The Under: -3.0%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Vermont Catamounts (19-11) hosts Albany Great Danes (11-19) at Patrick Gymnasium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Vermont Catamounts favored by 7.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Vermont Catamounts (19-11) hosts Albany Great Danes (11-19) at Patrick Gymnasium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Vermont Catamounts favored by 8.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us Vermont Catamounts has clear advantages, but games aren't played on paper. Albany Great Danes needs to punch above their weight class to keep this close. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 8.5 points tells us Vermont Catamounts has clear advantages, but games aren't played on paper. Albany Great Danes needs to punch above their weight class to keep this close. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Albany Great Danes** bring an offensive efficiency of 105.28 (ranked #243 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.5% three-point shooting is serviceable but won't scare anyone. 

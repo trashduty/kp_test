@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Grand Canyon Antelopes -19.5</p>
-  <p><strong>Moneyline:</strong> Grand Canyon Antelopes (-5000) | Air Force Falcons (+1500)</p>
+  <p><strong>Spread:</strong> Grand Canyon Antelopes -20.5</p>
+  <p><strong>Moneyline:</strong> Grand Canyon Antelopes (-5000) | Air Force Falcons (+1548)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Grand Canyon Antelopes**: -19.5, Edge For Covering Spread: -4.7%
-- **Air Force Falcons**: 19.5, Edge For Covering Spread: -0.0%
+- **Grand Canyon Antelopes**: -20.5, Edge For Covering Spread: -5.7%
+- **Air Force Falcons**: 20.5, Edge For Covering Spread: **1.0%**
 
 ### Moneyline
-- **Grand Canyon Antelopes Win Probability**: 94.5%, Moneyline Edge: -3.5%
-- **Air Force Falcons Win Probability**: 5.5%, Moneyline Edge: -0.8%
+- **Grand Canyon Antelopes Win Probability**: 94.6%, Moneyline Edge: -3.5%
+- **Air Force Falcons Win Probability**: 5.4%, Moneyline Edge: -0.7%
 
 ### Total
 - **Predicted Total**: 139.0
-- Edge For Covering The Over: -5.3%
-- Edge For Covering The Under: **0.3%**
+- Edge For Covering The Over: -6.4%
+- Edge For Covering The Under: **1.4%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Grand Canyon Antelopes (18-11) enters hostile territory as they take on Air Force Falcons (3-26) at Clune Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Grand Canyon Antelopes favored by 19.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Grand Canyon Antelopes (18-11) enters hostile territory as they take on Air Force Falcons (3-26) at Clune Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Grand Canyon Antelopes favored by 20.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 19.5-point spread screams mismatch. The books are asking Air Force Falcons to hang within two possessions, which based on the profiles, requires Grand Canyon Antelopes to play below their standard. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 20.5-point spread screams mismatch. The books are asking Air Force Falcons to hang within two possessions, which based on the profiles, requires Grand Canyon Antelopes to play below their standard. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Grand Canyon Antelopes** bring an offensive efficiency of 108.18 (ranked #179 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.9% from three, they can't rely on the arc. Expect a paint-focused attack. 

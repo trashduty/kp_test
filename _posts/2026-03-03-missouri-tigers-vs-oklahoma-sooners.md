@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Oklahoma Sooners -2.5</p>
-  <p><strong>Moneyline:</strong> Missouri Tigers (+116) | Oklahoma Sooners (-141)</p>
+  <p><strong>Moneyline:</strong> Missouri Tigers (+112) | Oklahoma Sooners (-135)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Missouri Tigers**: 2.5, Edge For Covering Spread: -4.0%
-- **Oklahoma Sooners**: -2.5, Edge For Covering Spread: -2.4%
+- **Missouri Tigers**: 2.5, Edge For Covering Spread: -3.8%
+- **Oklahoma Sooners**: -2.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
-- **Missouri Tigers Win Probability**: 41.1%, Moneyline Edge: -5.1%
-- **Oklahoma Sooners Win Probability**: 58.9%, Moneyline Edge: **0.4%**
+- **Missouri Tigers Win Probability**: 41.5%, Moneyline Edge: -5.5%
+- **Oklahoma Sooners Win Probability**: 58.5%, Moneyline Edge: **1.0%**
 
 ### Total
-- **Predicted Total**: 153.5
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -2.9%
+- **Predicted Total**: 155.0
+- Edge For Covering The Over: -2.1%
+- Edge For Covering The Under: -2.6%
 
 ---
 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UCF Knights -8.5</p>
-  <p><strong>Moneyline:</strong> Oklahoma St Cowboys (+344) | UCF Knights (-456)</p>
+  <p><strong>Spread:</strong> UCF Knights -9.5</p>
+  <p><strong>Moneyline:</strong> Oklahoma St Cowboys (+360) | UCF Knights (-485)</p>
   <p><strong>Total:</strong> 169.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oklahoma St Cowboys**: 8.5, Edge For Covering Spread: -2.1%
-- **UCF Knights**: -8.5, Edge For Covering Spread: -2.7%
+- **Oklahoma St Cowboys**: 9.5, Edge For Covering Spread: -3.5%
+- **UCF Knights**: -9.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Oklahoma St Cowboys Win Probability**: 21.3%, Moneyline Edge: -1.2%
-- **UCF Knights Win Probability**: 78.7%, Moneyline Edge: -3.3%
+- **Oklahoma St Cowboys Win Probability**: 20.9%, Moneyline Edge: -0.9%
+- **UCF Knights Win Probability**: 79.1%, Moneyline Edge: -3.8%
 
 ### Total
 - **Predicted Total**: 169.0
-- Edge For Covering The Over: -1.0%
-- Edge For Covering The Under: -3.7%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -3.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UCF Knights (20-8) hosts Oklahoma St Cowboys (17-12) at Addition Financial Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UCF Knights favored by 8.5 points, with the total sitting at 169.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UCF Knights (20-8) hosts Oklahoma St Cowboys (17-12) at Addition Financial Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UCF Knights favored by 9.5 points, with the total sitting at 169.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us UCF Knights has clear advantages, but games aren't played on paper. Oklahoma St Cowboys needs to punch above their weight class to keep this close. The total of 169.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 9.5 points tells us UCF Knights has clear advantages, but games aren't played on paper. Oklahoma St Cowboys needs to punch above their weight class to keep this close. The total of 169.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Oklahoma St Cowboys** bring an offensive efficiency of 110.85 (ranked #121 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.1% three-point shooting is serviceable but won't scare anyone. 

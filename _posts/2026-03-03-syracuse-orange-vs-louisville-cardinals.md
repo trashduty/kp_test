@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Louisville Cardinals -12.5</p>
-  <p><strong>Moneyline:</strong> Syracuse Orange (+600) | Louisville Cardinals (-1000)</p>
+  <p><strong>Moneyline:</strong> Syracuse Orange (+625) | Louisville Cardinals (-1000)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Louisville Cardinals**: -12.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **Syracuse Orange Win Probability**: 11.8%, Moneyline Edge: -2.5%
-- **Louisville Cardinals Win Probability**: 88.2%, Moneyline Edge: -2.7%
+- **Syracuse Orange Win Probability**: 11.6%, Moneyline Edge: -2.2%
+- **Louisville Cardinals Win Probability**: 88.4%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 158.5

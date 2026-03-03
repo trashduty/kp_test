@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Miami (OH) RedHawks -8.5</p>
-  <p><strong>Moneyline:</strong> Toledo Rockets (+315) | Miami (OH) RedHawks (-405)</p>
+  <p><strong>Spread:</strong> Miami (OH) RedHawks -7.5</p>
+  <p><strong>Moneyline:</strong> Toledo Rockets (+300) | Miami (OH) RedHawks (-387)</p>
   <p><strong>Total:</strong> 162.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Toledo Rockets**: 8.5, Edge For Covering Spread: -4.0%
-- **Miami (OH) RedHawks**: -8.5, Edge For Covering Spread: -0.8%
+- **Toledo Rockets**: 7.5, Edge For Covering Spread: -2.1%
+- **Miami (OH) RedHawks**: -7.5, Edge For Covering Spread: -2.5%
 
 ### Moneyline
-- **Toledo Rockets Win Probability**: 21.1%, Moneyline Edge: -3.0%
-- **Miami (OH) RedHawks Win Probability**: 78.9%, Moneyline Edge: -1.2%
+- **Toledo Rockets Win Probability**: 21.5%, Moneyline Edge: -3.5%
+- **Miami (OH) RedHawks Win Probability**: 78.5%, Moneyline Edge: -1.0%
 
 ### Total
 - **Predicted Total**: 162.5
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -2.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Miami (OH) RedHawks (29-0) hosts Toledo Rockets (16-13) at Millett Hall in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Miami (OH) RedHawks favored by 8.5 points, with the total sitting at 162.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Miami (OH) RedHawks (29-0) hosts Toledo Rockets (16-13) at Millett Hall in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Miami (OH) RedHawks favored by 7.5 points, with the total sitting at 162.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Miami (OH) RedHawks has clear advantages, but games aren't played on paper. Toledo Rockets needs to punch above their weight class to keep this close. The total of 162.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us Miami (OH) RedHawks has clear advantages, but games aren't played on paper. Toledo Rockets needs to punch above their weight class to keep this close. The total of 162.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Toledo Rockets** bring an offensive efficiency of 114.27 (ranked #74 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 36.3% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

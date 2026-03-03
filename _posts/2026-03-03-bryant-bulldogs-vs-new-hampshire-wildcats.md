@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> New Hampshire Wildcats -2.5</p>
-  <p><strong>Moneyline:</strong> Bryant Bulldogs (+137) | New Hampshire Wildcats (-163)</p>
+  <p><strong>Spread:</strong> New Hampshire Wildcats -1.5</p>
+  <p><strong>Moneyline:</strong> Bryant Bulldogs (-100) | New Hampshire Wildcats (-120)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bryant Bulldogs**: 2.5, Edge For Covering Spread: -4.7%
-- **New Hampshire Wildcats**: -2.5, Edge For Covering Spread: -0.0%
+- **Bryant Bulldogs**: 1.5, Edge For Covering Spread: -6.4%
+- **New Hampshire Wildcats**: -1.5, Edge For Covering Spread: **1.7%**
 
 ### Moneyline
-- **Bryant Bulldogs Win Probability**: 36.2%, Moneyline Edge: -6.0%
-- **New Hampshire Wildcats Win Probability**: 63.8%, Moneyline Edge: **1.8%**
+- **Bryant Bulldogs Win Probability**: 39.8%, Moneyline Edge: -10.2%
+- **New Hampshire Wildcats Win Probability**: 60.2%, Moneyline Edge: **5.6%**
 
 ### Total
 - **Predicted Total**: 135.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.5%
+- Edge For Covering The Over: -3.0%
+- Edge For Covering The Under: -1.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Bryant Bulldogs (9-20) travels to face New Hampshire Wildcats (8-20) at Lundholm Gymnasium, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into New Hampshire Wildcats favored by 2.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Bryant Bulldogs (9-20) travels to face New Hampshire Wildcats (8-20) at Lundholm Gymnasium, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into New Hampshire Wildcats favored by 1.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. New Hampshire Wildcats's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. New Hampshire Wildcats's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Bryant Bulldogs** bring an offensive efficiency of 96.16 (ranked #351 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.5% from three, they can't rely on the arc. Expect a paint-focused attack. 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Bucknell Bison -3.0</p>
-  <p><strong>Moneyline:</strong> Army Knights (+129) | Bucknell Bison (-158)</p>
+  <p><strong>Spread:</strong> Bucknell Bison -2.5</p>
+  <p><strong>Moneyline:</strong> Army Knights (+135) | Bucknell Bison (-162)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Army Knights**: 3.0, Edge For Covering Spread: -2.4%
-- **Bucknell Bison**: -3.0, Edge For Covering Spread: -2.6%
+- **Army Knights**: 2.5, Edge For Covering Spread: -2.2%
+- **Bucknell Bison**: -2.5, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **Army Knights Win Probability**: 40.8%, Moneyline Edge: -2.8%
-- **Bucknell Bison Win Probability**: 59.2%, Moneyline Edge: -2.1%
+- **Army Knights Win Probability**: 40.4%, Moneyline Edge: -2.1%
+- **Bucknell Bison Win Probability**: 59.6%, Moneyline Edge: -2.2%
 
 ### Total
-- **Predicted Total**: 145.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- **Predicted Total**: 144.0
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -3.0%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Army Knights (11-20) travels to face Bucknell Bison (9-22) at Sojka Pavilion, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Bucknell Bison favored by 3.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Army Knights (11-20) travels to face Bucknell Bison (9-22) at Sojka Pavilion, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Bucknell Bison favored by 2.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.0-point spread indicates Bucknell Bison is viewed as the better team, but this isn't an overwhelming edge. Army Knights has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Bucknell Bison's 2.5-point cushion reflects home court advantage more than a talent gap. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Army Knights** bring an offensive efficiency of 103.80 (ranked #274 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.9% three-point shooting is serviceable but won't scare anyone. 

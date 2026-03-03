@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> St. John's Red Storm -15.5</p>
-  <p><strong>Moneyline:</strong> Georgetown Hoyas (+1000) | St. John's Red Storm (-2000)</p>
+  <p><strong>Spread:</strong> St. John's Red Storm -16.5</p>
+  <p><strong>Moneyline:</strong> Georgetown Hoyas (+1100) | St. John's Red Storm (-2500)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Georgetown Hoyas**: 15.5, Edge For Covering Spread: **0.7%**
-- **St. John's Red Storm**: -15.5, Edge For Covering Spread: -5.6%
+- **Georgetown Hoyas**: 16.5, Edge For Covering Spread: **1.4%**
+- **St. John's Red Storm**: -16.5, Edge For Covering Spread: -6.1%
 
 ### Moneyline
-- **Georgetown Hoyas Win Probability**: 9.4%, Moneyline Edge: **0.3%**
-- **St. John's Red Storm Win Probability**: 90.6%, Moneyline Edge: -4.6%
+- **Georgetown Hoyas Win Probability**: 9.0%, Moneyline Edge: **0.7%**
+- **St. John's Red Storm Win Probability**: 91.0%, Moneyline Edge: -5.1%
 
 ### Total
 - **Predicted Total**: 148.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-St. John's Red Storm (23-6) hosts Georgetown Hoyas (13-16) at Carnesecca Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into St. John's Red Storm favored by 15.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+St. John's Red Storm (23-6) hosts Georgetown Hoyas (13-16) at Carnesecca Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into St. John's Red Storm favored by 16.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 15.5-point spread screams mismatch. The books are asking Georgetown Hoyas to hang within two possessions, which based on the profiles, requires St. John's Red Storm to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 16.5-point spread screams mismatch. The books are asking Georgetown Hoyas to hang within two possessions, which based on the profiles, requires St. John's Red Storm to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Georgetown Hoyas** bring an offensive efficiency of 109.40 (ranked #159 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.3% three-point shooting is serviceable but won't scare anyone. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Texas A&M Aggies -1.5</p>
-  <p><strong>Moneyline:</strong> Kentucky Wildcats (+110) | Texas A&M Aggies (-130)</p>
+  <p><strong>Moneyline:</strong> Kentucky Wildcats (+105) | Texas A&M Aggies (-127)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kentucky Wildcats**: 1.5, Edge For Covering Spread: -1.8%
-- **Texas A&M Aggies**: -1.5, Edge For Covering Spread: -2.9%
+- **Kentucky Wildcats**: 1.5, Edge For Covering Spread: -2.4%
+- **Texas A&M Aggies**: -1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Kentucky Wildcats Win Probability**: 45.6%, Moneyline Edge: -2.0%
-- **Texas A&M Aggies Win Probability**: 54.4%, Moneyline Edge: -2.2%
+- **Kentucky Wildcats Win Probability**: 46.0%, Moneyline Edge: -2.7%
+- **Texas A&M Aggies Win Probability**: 54.0%, Moneyline Edge: -2.1%
 
 ### Total
-- **Predicted Total**: 158.5
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.2%
+- **Predicted Total**: 160.0
+- Edge For Covering The Over: -4.9%
+- Edge For Covering The Under: -1.5%
 
 ---
 

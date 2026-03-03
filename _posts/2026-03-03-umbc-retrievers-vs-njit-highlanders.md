@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UMBC Retrievers -4.5</p>
-  <p><strong>Moneyline:</strong> UMBC Retrievers (-229) | NJIT Highlanders (+189)</p>
+  <p><strong>Spread:</strong> UMBC Retrievers -5.5</p>
+  <p><strong>Moneyline:</strong> UMBC Retrievers (-230) | NJIT Highlanders (+190)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UMBC Retrievers**: -4.5, Edge For Covering Spread: -3.5%
-- **NJIT Highlanders**: 4.5, Edge For Covering Spread: -1.2%
+- **UMBC Retrievers**: -5.5, Edge For Covering Spread: -2.9%
+- **NJIT Highlanders**: 5.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **UMBC Retrievers Win Probability**: 67.4%, Moneyline Edge: -2.2%
-- **NJIT Highlanders Win Probability**: 32.6%, Moneyline Edge: -2.0%
+- **UMBC Retrievers Win Probability**: 67.5%, Moneyline Edge: -2.2%
+- **NJIT Highlanders Win Probability**: 32.5%, Moneyline Edge: -1.9%
 
 ### Total
-- **Predicted Total**: 141.0
-- Edge For Covering The Over: -2.0%
-- Edge For Covering The Under: -2.7%
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UMBC Retrievers (20-8) travels to face NJIT Highlanders (15-15) at Wellness and Events Center in what shapes up to be a competitive matchup. The early betting action has shaped into UMBC Retrievers favored by 4.5 points, with the total sitting at 140.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UMBC Retrievers (20-8) travels to face NJIT Highlanders (15-15) at Wellness and Events Center in what shapes up to be a competitive matchup. The early betting action has shaped into UMBC Retrievers favored by 5.5 points, with the total sitting at 140.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates UMBC Retrievers is viewed as the better team, but this isn't an overwhelming edge. NJIT Highlanders has a legitimate path to covering or winning outright. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 5.5-point spread indicates UMBC Retrievers is viewed as the better team, but this isn't an overwhelming edge. NJIT Highlanders has a legitimate path to covering or winning outright. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **UMBC Retrievers** bring an offensive efficiency of 110.56 (ranked #128 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.5% three-point shooting is serviceable but won't scare anyone. 

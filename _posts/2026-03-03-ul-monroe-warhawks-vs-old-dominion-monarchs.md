@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Old Dominion Monarchs -10.5</p>
-  <p><strong>Moneyline:</strong> UL Monroe Warhawks (+450) | Old Dominion Monarchs (-650)</p>
+  <p><strong>Spread:</strong> Old Dominion Monarchs -11.5</p>
+  <p><strong>Moneyline:</strong> UL Monroe Warhawks (+500) | Old Dominion Monarchs (-747)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UL Monroe Warhawks**: 10.5, Edge For Covering Spread: -1.2%
-- **Old Dominion Monarchs**: -10.5, Edge For Covering Spread: -3.5%
+- **UL Monroe Warhawks**: 11.5, Edge For Covering Spread: -1.3%
+- **Old Dominion Monarchs**: -11.5, Edge For Covering Spread: -3.4%
 
 ### Moneyline
-- **UL Monroe Warhawks Win Probability**: 17.2%, Moneyline Edge: -1.0%
-- **Old Dominion Monarchs Win Probability**: 82.8%, Moneyline Edge: -3.8%
+- **UL Monroe Warhawks Win Probability**: 16.4%, Moneyline Edge: -0.2%
+- **Old Dominion Monarchs Win Probability**: 83.6%, Moneyline Edge: -4.6%
 
 ### Total
 - **Predicted Total**: 158.5
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -0.9%
+- Edge For Covering The Under: -3.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Old Dominion Monarchs (11-20) hosts UL Monroe Warhawks (4-27) at Chartway Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Old Dominion Monarchs favored by 10.5 points, with the total sitting at 160.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Old Dominion Monarchs (11-20) hosts UL Monroe Warhawks (4-27) at Chartway Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Old Dominion Monarchs favored by 11.5 points, with the total sitting at 160.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us Old Dominion Monarchs has clear advantages, but games aren't played on paper. UL Monroe Warhawks needs to punch above their weight class to keep this close. The total of 160.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 11.5 points tells us Old Dominion Monarchs has clear advantages, but games aren't played on paper. UL Monroe Warhawks needs to punch above their weight class to keep this close. The total of 160.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **UL Monroe Warhawks** bring an offensive efficiency of 100.00 (ranked #326 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.2% three-point shooting is serviceable but won't scare anyone. 

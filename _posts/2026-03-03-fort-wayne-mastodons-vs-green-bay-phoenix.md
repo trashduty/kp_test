@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Green Bay Phoenix -6.0</p>
-  <p><strong>Moneyline:</strong> Fort Wayne Mastodons (+220) | Green Bay Phoenix (-275)</p>
+  <p><strong>Spread:</strong> Green Bay Phoenix -4.5</p>
+  <p><strong>Moneyline:</strong> Fort Wayne Mastodons (+172) | Green Bay Phoenix (-207)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fort Wayne Mastodons**: 6.0, Edge For Covering Spread: -3.1%
-- **Green Bay Phoenix**: -6.0, Edge For Covering Spread: -1.9%
+- **Fort Wayne Mastodons**: 4.5, Edge For Covering Spread: -6.1%
+- **Green Bay Phoenix**: -4.5, Edge For Covering Spread: **1.4%**
 
 ### Moneyline
-- **Fort Wayne Mastodons Win Probability**: 29.9%, Moneyline Edge: -1.3%
-- **Green Bay Phoenix Win Probability**: 70.1%, Moneyline Edge: -3.3%
+- **Fort Wayne Mastodons Win Probability**: 32.6%, Moneyline Edge: -4.1%
+- **Green Bay Phoenix Win Probability**: 67.4%, Moneyline Edge: -0.1%
 
 ### Total
 - **Predicted Total**: 146.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -2.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Green Bay Phoenix (17-14) hosts Fort Wayne Mastodons (17-14) at Resch Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Green Bay Phoenix favored by 6.0 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Green Bay Phoenix (17-14) hosts Fort Wayne Mastodons (17-14) at Resch Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Green Bay Phoenix favored by 4.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.0-point spread indicates Green Bay Phoenix is viewed as the better team, but this isn't an overwhelming edge. Fort Wayne Mastodons has a legitimate path to covering or winning outright. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 4.5-point spread indicates Green Bay Phoenix is viewed as the better team, but this isn't an overwhelming edge. Fort Wayne Mastodons has a legitimate path to covering or winning outright. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Fort Wayne Mastodons** bring an offensive efficiency of 107.72 (ranked #193 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.5% three-point shooting is serviceable but won't scare anyone. 

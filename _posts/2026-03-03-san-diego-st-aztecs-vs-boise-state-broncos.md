@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Boise State Broncos -1.5</p>
-  <p><strong>Moneyline:</strong> San Diego St Aztecs (-104) | Boise State Broncos (-115)</p>
+  <p><strong>Moneyline:</strong> San Diego St Aztecs (-105) | Boise State Broncos (-115)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Boise State Broncos**: -1.5, Edge For Covering Spread: -2.5%
 
 ### Moneyline
-- **San Diego St Aztecs Win Probability**: 48.4%, Moneyline Edge: -2.7%
-- **Boise State Broncos Win Probability**: 51.6%, Moneyline Edge: -1.9%
+- **San Diego St Aztecs Win Probability**: 48.5%, Moneyline Edge: -2.8%
+- **Boise State Broncos Win Probability**: 51.5%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 143.5
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -0.7%
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 

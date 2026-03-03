@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Alabama St Hornets -1.5</p>
-  <p><strong>Moneyline:</strong> Southern Jaguars (-110) | Alabama St Hornets (-110)</p>
+  <p><strong>Spread:</strong> Alabama St Hornets -2.5</p>
+  <p><strong>Moneyline:</strong> Southern Jaguars (+109) | Alabama St Hornets (-133)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Southern Jaguars**: 1.5, Edge For Covering Spread: -4.8%
-- **Alabama St Hornets**: -1.5, Edge For Covering Spread: 0.0%
+- **Southern Jaguars**: 2.5, Edge For Covering Spread: -1.6%
+- **Alabama St Hornets**: -2.5, Edge For Covering Spread: -3.2%
 
 ### Moneyline
-- **Southern Jaguars Win Probability**: 48.5%, Moneyline Edge: -3.9%
-- **Alabama St Hornets Win Probability**: 51.5%, Moneyline Edge: -0.9%
+- **Southern Jaguars Win Probability**: 46.3%, Moneyline Edge: -1.6%
+- **Alabama St Hornets Win Probability**: 53.7%, Moneyline Edge: -3.5%
 
 ### Total
-- **Predicted Total**: 154.0
-- Edge For Covering The Over: -0.4%
-- Edge For Covering The Under: -4.3%
+- **Predicted Total**: 153.5
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Southern Jaguars (13-16) travels to face Alabama St Hornets (10-19) at Dunn-Oliver Acadome in what shapes up to be a competitive matchup. The early betting action has shaped into Alabama St Hornets favored by 1.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Southern Jaguars (13-16) travels to face Alabama St Hornets (10-19) at Dunn-Oliver Acadome in what shapes up to be a competitive matchup. The early betting action has shaped into Alabama St Hornets favored by 2.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Alabama St Hornets's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Alabama St Hornets's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Southern Jaguars** bring an offensive efficiency of 104.41 (ranked #265 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.0% three-point shooting is serviceable but won't scare anyone. 

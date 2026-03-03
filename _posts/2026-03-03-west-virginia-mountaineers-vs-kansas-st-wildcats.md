@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> West Virginia Mountaineers -1.5</p>
-  <p><strong>Moneyline:</strong> West Virginia Mountaineers (-125) | Kansas St Wildcats (+105)</p>
+  <p><strong>Spread:</strong> West Virginia Mountaineers -2.5</p>
+  <p><strong>Moneyline:</strong> West Virginia Mountaineers (-155) | Kansas St Wildcats (+130)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **West Virginia Mountaineers**: -1.5, Edge For Covering Spread: -2.4%
-- **Kansas St Wildcats**: 1.5, Edge For Covering Spread: -2.4%
+- **West Virginia Mountaineers**: -2.5, Edge For Covering Spread: -4.6%
+- **Kansas St Wildcats**: 2.5, Edge For Covering Spread: -0.1%
 
 ### Moneyline
-- **West Virginia Mountaineers Win Probability**: 53.1%, Moneyline Edge: -2.4%
-- **Kansas St Wildcats Win Probability**: 46.9%, Moneyline Edge: -1.9%
+- **West Virginia Mountaineers Win Probability**: 55.6%, Moneyline Edge: -5.1%
+- **Kansas St Wildcats Win Probability**: 44.4%, Moneyline Edge: **0.9%**
 
 ### Total
 - **Predicted Total**: 142.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-West Virginia Mountaineers (17-12) travels to face Kansas St Wildcats (11-18) at Bramlage Coliseum in what shapes up to be a competitive matchup. The early betting action has shaped into West Virginia Mountaineers favored by 1.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+West Virginia Mountaineers (17-12) travels to face Kansas St Wildcats (11-18) at Bramlage Coliseum in what shapes up to be a competitive matchup. The early betting action has shaped into West Virginia Mountaineers favored by 2.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. West Virginia Mountaineers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. West Virginia Mountaineers's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **West Virginia Mountaineers** bring an offensive efficiency of 107.99 (ranked #185 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.3% three-point shooting is serviceable but won't scare anyone. 

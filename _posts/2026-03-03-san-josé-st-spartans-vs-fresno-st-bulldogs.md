@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Fresno St Bulldogs -7.5</p>
-  <p><strong>Moneyline:</strong> San José St Spartans (+255) | Fresno St Bulldogs (-322)</p>
+  <p><strong>Spread:</strong> Fresno St Bulldogs -6.5</p>
+  <p><strong>Moneyline:</strong> San José St Spartans (+242) | Fresno St Bulldogs (-300)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **San José St Spartans**: 7.5, Edge For Covering Spread: -5.0%
-- **Fresno St Bulldogs**: -7.5, Edge For Covering Spread: **0.3%**
+- **San José St Spartans**: 6.5, Edge For Covering Spread: -5.6%
+- **Fresno St Bulldogs**: -6.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **San José St Spartans Win Probability**: 24.0%, Moneyline Edge: -4.2%
-- **Fresno St Bulldogs Win Probability**: 76.0%, Moneyline Edge: -0.3%
+- **San José St Spartans Win Probability**: 24.5%, Moneyline Edge: -4.7%
+- **Fresno St Bulldogs Win Probability**: 75.5%, Moneyline Edge: **0.5%**
 
 ### Total
 - **Predicted Total**: 147.5
-- Edge For Covering The Over: -6.1%
-- Edge For Covering The Under: -0.4%
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -1.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Fresno St Bulldogs (12-17) hosts San José St Spartans (8-21) at Save Mart Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Fresno St Bulldogs favored by 7.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Fresno St Bulldogs (12-17) hosts San José St Spartans (8-21) at Save Mart Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Fresno St Bulldogs favored by 6.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us Fresno St Bulldogs has clear advantages, but games aren't played on paper. San José St Spartans needs to punch above their weight class to keep this close. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 6.5-point spread indicates Fresno St Bulldogs is viewed as the better team, but this isn't an overwhelming edge. San José St Spartans has a legitimate path to covering or winning outright. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **San José St Spartans** bring an offensive efficiency of 106.09 (ranked #224 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.9% three-point shooting is serviceable but won't scare anyone. 

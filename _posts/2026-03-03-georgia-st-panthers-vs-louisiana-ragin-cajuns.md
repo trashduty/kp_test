@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Louisiana Ragin' Cajuns -1.5</p>
-  <p><strong>Moneyline:</strong> Georgia St Panthers (-106) | Louisiana Ragin' Cajuns (-114)</p>
+  <p><strong>Spread:</strong> Georgia St Panthers -1.5</p>
+  <p><strong>Moneyline:</strong> Georgia St Panthers (-120) | Louisiana Ragin' Cajuns (-100)</p>
   <p><strong>Total:</strong> 132.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Georgia St Panthers**: 1.5, Edge For Covering Spread: -3.2%
-- **Louisiana Ragin' Cajuns**: -1.5, Edge For Covering Spread: -1.7%
+- **Georgia St Panthers**: -1.5, Edge For Covering Spread: -2.2%
+- **Louisiana Ragin' Cajuns**: 1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Georgia St Panthers Win Probability**: 48.7%, Moneyline Edge: -2.7%
-- **Louisiana Ragin' Cajuns Win Probability**: 51.3%, Moneyline Edge: -2.0%
+- **Georgia St Panthers Win Probability**: 50.2%, Moneyline Edge: -4.3%
+- **Louisiana Ragin' Cajuns Win Probability**: 49.8%, Moneyline Edge: -0.2%
 
 ### Total
 - **Predicted Total**: 132.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Georgia St Panthers (10-21) travels to face Louisiana Ragin' Cajuns (10-21) at Cajundome, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Louisiana Ragin' Cajuns favored by 1.5 points, with the total sitting at 132.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Georgia St Panthers (10-21) travels to face Louisiana Ragin' Cajuns (10-21) at Cajundome, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Georgia St Panthers favored by 1.5 points, with the total sitting at 132.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Louisiana Ragin' Cajuns's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 132.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Georgia St Panthers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 132.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **Georgia St Panthers** bring an offensive efficiency of 99.13 (ranked #334 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.7% from three, they can't rely on the arc. Expect a paint-focused attack. 

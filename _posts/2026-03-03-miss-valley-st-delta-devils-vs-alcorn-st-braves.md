@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alcorn St Braves -9.5</p>
-  <p><strong>Moneyline:</strong> Miss Valley St Delta Devils (+390) | Alcorn St Braves (-542)</p>
+  <p><strong>Moneyline:</strong> Miss Valley St Delta Devils (+417) | Alcorn St Braves (-596)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Miss Valley St Delta Devils**: 9.5, Edge For Covering Spread: -4.6%
-- **Alcorn St Braves**: -9.5, Edge For Covering Spread: -0.1%
+- **Miss Valley St Delta Devils**: 9.5, Edge For Covering Spread: -5.9%
+- **Alcorn St Braves**: -9.5, Edge For Covering Spread: **1.1%**
 
 ### Moneyline
-- **Miss Valley St Delta Devils Win Probability**: 16.2%, Moneyline Edge: -4.2%
-- **Alcorn St Braves Win Probability**: 83.8%, Moneyline Edge: -0.7%
+- **Miss Valley St Delta Devils Win Probability**: 15.7%, Moneyline Edge: -3.6%
+- **Alcorn St Braves Win Probability**: 84.3%, Moneyline Edge: -1.3%
 
 ### Total
-- **Predicted Total**: 138.5
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -4.5%
+- **Predicted Total**: 137.5
+- Edge For Covering The Over: -0.3%
+- Edge For Covering The Under: -4.9%
 
 ---
 

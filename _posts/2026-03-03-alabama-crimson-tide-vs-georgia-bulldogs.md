@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama Crimson Tide -1.5</p>
-  <p><strong>Moneyline:</strong> Alabama Crimson Tide (-125) | Georgia Bulldogs (+105)</p>
+  <p><strong>Moneyline:</strong> Alabama Crimson Tide (-115) | Georgia Bulldogs (-105)</p>
   <p><strong>Total:</strong> 177.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Alabama Crimson Tide**: -1.5, Edge For Covering Spread: -2.4%
-- **Georgia Bulldogs**: 1.5, Edge For Covering Spread: -2.4%
+- **Alabama Crimson Tide**: -1.5, Edge For Covering Spread: **0.6%**
+- **Georgia Bulldogs**: 1.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **Alabama Crimson Tide Win Probability**: 53.6%, Moneyline Edge: -1.9%
-- **Georgia Bulldogs Win Probability**: 46.4%, Moneyline Edge: -2.4%
+- **Alabama Crimson Tide Win Probability**: 52.5%, Moneyline Edge: -0.9%
+- **Georgia Bulldogs Win Probability**: 47.5%, Moneyline Edge: -3.8%
 
 ### Total
 - **Predicted Total**: 180.5
-- Edge For Covering The Over: -0.4%
-- Edge For Covering The Under: -4.3%
+- Edge For Covering The Over: -1.2%
+- Edge For Covering The Under: -3.5%
 
 ---
 

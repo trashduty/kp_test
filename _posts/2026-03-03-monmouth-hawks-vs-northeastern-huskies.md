@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Monmouth Hawks -4.5</p>
-  <p><strong>Moneyline:</strong> Monmouth Hawks (-188) | Northeastern Huskies (+155)</p>
+  <p><strong>Moneyline:</strong> Monmouth Hawks (-199) | Northeastern Huskies (+164)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Monmouth Hawks**: -4.5, Edge For Covering Spread: -1.6%
-- **Northeastern Huskies**: 4.5, Edge For Covering Spread: -3.2%
+- **Monmouth Hawks**: -4.5, Edge For Covering Spread: -2.2%
+- **Northeastern Huskies**: 4.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Monmouth Hawks Win Probability**: 63.2%, Moneyline Edge: -2.0%
-- **Northeastern Huskies Win Probability**: 36.8%, Moneyline Edge: -2.5%
+- **Monmouth Hawks Win Probability**: 63.9%, Moneyline Edge: -2.7%
+- **Northeastern Huskies Win Probability**: 36.1%, Moneyline Edge: -1.7%
 
 ### Total
-- **Predicted Total**: 149.5
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -4.5%
+- **Predicted Total**: 150.5
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.4%
 
 ---
 

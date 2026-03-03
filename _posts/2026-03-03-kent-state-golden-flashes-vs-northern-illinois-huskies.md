@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Kent State Golden Flashes -9.5</p>
-  <p><strong>Moneyline:</strong> Kent State Golden Flashes (-474) | Northern Illinois Huskies (+357)</p>
+  <p><strong>Spread:</strong> Kent State Golden Flashes -10.5</p>
+  <p><strong>Moneyline:</strong> Kent State Golden Flashes (-600) | Northern Illinois Huskies (+432)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kent State Golden Flashes**: -9.5, Edge For Covering Spread: -3.2%
-- **Northern Illinois Huskies**: 9.5, Edge For Covering Spread: -1.6%
+- **Kent State Golden Flashes**: -10.5, Edge For Covering Spread: -3.5%
+- **Northern Illinois Huskies**: 10.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Kent State Golden Flashes Win Probability**: 79.5%, Moneyline Edge: -3.1%
-- **Northern Illinois Huskies Win Probability**: 20.5%, Moneyline Edge: -1.4%
+- **Kent State Golden Flashes Win Probability**: 81.0%, Moneyline Edge: -4.7%
+- **Northern Illinois Huskies Win Probability**: 19.0%, Moneyline Edge: **0.2%**
 
 ### Total
-- **Predicted Total**: 148.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 149.0
+- Edge For Covering The Over: -3.6%
+- Edge For Covering The Under: -3.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Kent State Golden Flashes (21-8) enters hostile territory as they take on Northern Illinois Huskies (9-19) at Convocation Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Kent State Golden Flashes favored by 9.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Kent State Golden Flashes (21-8) enters hostile territory as they take on Northern Illinois Huskies (9-19) at Convocation Center in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Kent State Golden Flashes favored by 10.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Kent State Golden Flashes has clear advantages, but games aren't played on paper. Northern Illinois Huskies needs to punch above their weight class to keep this close. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 10.5 points tells us Kent State Golden Flashes has clear advantages, but games aren't played on paper. Northern Illinois Huskies needs to punch above their weight class to keep this close. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Kent State Golden Flashes** bring an offensive efficiency of 111.94 (ranked #105 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.9% three-point shooting is serviceable but won't scare anyone. 

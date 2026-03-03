@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Massachusetts Minutemen -2.5</p>
-  <p><strong>Moneyline:</strong> Ohio Bobcats (+125) | Massachusetts Minutemen (-150)</p>
+  <p><strong>Moneyline:</strong> Ohio Bobcats (+114) | Massachusetts Minutemen (-135)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ohio Bobcats**: 2.5, Edge For Covering Spread: -5.6%
-- **Massachusetts Minutemen**: -2.5, Edge For Covering Spread: **0.8%**
+- **Ohio Bobcats**: 2.5, Edge For Covering Spread: -6.7%
+- **Massachusetts Minutemen**: -2.5, Edge For Covering Spread: **2.0%**
 
 ### Moneyline
-- **Ohio Bobcats Win Probability**: 38.2%, Moneyline Edge: -6.2%
-- **Massachusetts Minutemen Win Probability**: 61.8%, Moneyline Edge: **1.8%**
+- **Ohio Bobcats Win Probability**: 39.4%, Moneyline Edge: -7.2%
+- **Massachusetts Minutemen Win Probability**: 60.6%, Moneyline Edge: **3.2%**
 
 ### Total
 - **Predicted Total**: 157.0
-- Edge For Covering The Over: -1.3%
-- Edge For Covering The Under: -3.7%
+- Edge For Covering The Over: -1.5%
+- Edge For Covering The Under: -3.5%
 
 ---
 

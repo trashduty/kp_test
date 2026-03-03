@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Hofstra Pride -8.5</p>
-  <p><strong>Moneyline:</strong> Drexel Dragons (+350) | Hofstra Pride (-480)</p>
+  <p><strong>Moneyline:</strong> Drexel Dragons (+340) | Hofstra Pride (-450)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Drexel Dragons**: 8.5, Edge For Covering Spread: -3.2%
-- **Hofstra Pride**: -8.5, Edge For Covering Spread: -1.5%
+- **Drexel Dragons**: 8.5, Edge For Covering Spread: -4.1%
+- **Hofstra Pride**: -8.5, Edge For Covering Spread: -0.6%
 
 ### Moneyline
-- **Drexel Dragons Win Probability**: 18.6%, Moneyline Edge: -3.6%
-- **Hofstra Pride Win Probability**: 81.4%, Moneyline Edge: -1.3%
+- **Drexel Dragons Win Probability**: 18.9%, Moneyline Edge: -3.9%
+- **Hofstra Pride Win Probability**: 81.1%, Moneyline Edge: -0.7%
 
 ### Total
-- **Predicted Total**: 132.5
-- Edge For Covering The Over: -2.8%
-- Edge For Covering The Under: -1.9%
+- **Predicted Total**: 133.0
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -0.5%
 
 ---
 

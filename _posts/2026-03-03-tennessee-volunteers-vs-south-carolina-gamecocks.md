@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tennessee Volunteers -8.5</p>
-  <p><strong>Moneyline:</strong> Tennessee Volunteers (-417) | South Carolina Gamecocks (+320)</p>
+  <p><strong>Moneyline:</strong> Tennessee Volunteers (-460) | South Carolina Gamecocks (+350)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tennessee Volunteers**: -8.5, Edge For Covering Spread: -2.4%
-- **South Carolina Gamecocks**: 8.5, Edge For Covering Spread: -2.4%
+- **Tennessee Volunteers**: -8.5, Edge For Covering Spread: -3.2%
+- **South Carolina Gamecocks**: 8.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Tennessee Volunteers Win Probability**: 79.1%, Moneyline Edge: -1.6%
-- **South Carolina Gamecocks Win Probability**: 20.9%, Moneyline Edge: -2.9%
+- **Tennessee Volunteers Win Probability**: 79.8%, Moneyline Edge: -2.3%
+- **South Carolina Gamecocks Win Probability**: 20.2%, Moneyline Edge: -2.1%
 
 ### Total
-- **Predicted Total**: 141.5
-- Edge For Covering The Over: -5.5%
-- Edge For Covering The Under: **0.7%**
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 

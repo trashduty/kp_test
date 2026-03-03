@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Texas Tech Red Raiders -9.5</p>
-  <p><strong>Moneyline:</strong> TCU Horned Frogs (+412) | Texas Tech Red Raiders (-566)</p>
+  <p><strong>Spread:</strong> Texas Tech Red Raiders -8.5</p>
+  <p><strong>Moneyline:</strong> TCU Horned Frogs (+310) | Texas Tech Red Raiders (-400)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **TCU Horned Frogs**: 9.5, Edge For Covering Spread: -4.1%
-- **Texas Tech Red Raiders**: -9.5, Edge For Covering Spread: -0.8%
+- **TCU Horned Frogs**: 8.5, Edge For Covering Spread: -7.2%
+- **Texas Tech Red Raiders**: -8.5, Edge For Covering Spread: **2.4%**
 
 ### Moneyline
-- **TCU Horned Frogs Win Probability**: 15.8%, Moneyline Edge: -3.7%
-- **Texas Tech Red Raiders Win Probability**: 84.2%, Moneyline Edge: -0.8%
+- **TCU Horned Frogs Win Probability**: 18.2%, Moneyline Edge: -6.2%
+- **Texas Tech Red Raiders Win Probability**: 81.8%, Moneyline Edge: **1.8%**
 
 ### Total
-- **Predicted Total**: 148.0
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.2%
+- **Predicted Total**: 147.5
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Texas Tech Red Raiders (22-7) hosts TCU Horned Frogs (19-10) at United Supermarkets Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Texas Tech Red Raiders favored by 9.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Texas Tech Red Raiders (22-7) hosts TCU Horned Frogs (19-10) at United Supermarkets Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Texas Tech Red Raiders favored by 8.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Texas Tech Red Raiders has clear advantages, but games aren't played on paper. TCU Horned Frogs needs to punch above their weight class to keep this close. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.5 points tells us Texas Tech Red Raiders has clear advantages, but games aren't played on paper. TCU Horned Frogs needs to punch above their weight class to keep this close. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **TCU Horned Frogs** bring an offensive efficiency of 110.19 (ranked #137 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.1% three-point shooting is serviceable but won't scare anyone. 

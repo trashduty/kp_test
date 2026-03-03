@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Vanderbilt Commodores -6.5</p>
-  <p><strong>Moneyline:</strong> Vanderbilt Commodores (-305) | Ole Miss Rebels (+250)</p>
+  <p><strong>Moneyline:</strong> Vanderbilt Commodores (-285) | Ole Miss Rebels (+230)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Vanderbilt Commodores**: -6.5, Edge For Covering Spread: -1.9%
-- **Ole Miss Rebels**: 6.5, Edge For Covering Spread: -2.8%
+- **Vanderbilt Commodores**: -6.5, Edge For Covering Spread: -0.5%
+- **Ole Miss Rebels**: 6.5, Edge For Covering Spread: -4.2%
 
 ### Moneyline
-- **Vanderbilt Commodores Win Probability**: 73.7%, Moneyline Edge: -1.6%
-- **Ole Miss Rebels Win Probability**: 26.3%, Moneyline Edge: -2.3%
+- **Vanderbilt Commodores Win Probability**: 73.0%, Moneyline Edge: -1.0%
+- **Ole Miss Rebels Win Probability**: 27.0%, Moneyline Edge: -3.3%
 
 ### Total
-- **Predicted Total**: 153.5
-- Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -1.1%
+- **Predicted Total**: 154.0
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -0.6%
 
 ---
 

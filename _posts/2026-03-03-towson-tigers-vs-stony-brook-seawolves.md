@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Towson Tigers -1.5</p>
-  <p><strong>Moneyline:</strong> Towson Tigers (-114) | Stony Brook Seawolves (-105)</p>
+  <p><strong>Moneyline:</strong> Towson Tigers (-110) | Stony Brook Seawolves (-110)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -25,11 +25,11 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **Towson Tigers**: -1.5, Edge For Covering Spread: -3.5%
-- **Stony Brook Seawolves**: 1.5, Edge For Covering Spread: -1.1%
+- **Stony Brook Seawolves**: 1.5, Edge For Covering Spread: -1.5%
 
 ### Moneyline
-- **Towson Tigers Win Probability**: 49.7%, Moneyline Edge: -3.6%
-- **Stony Brook Seawolves Win Probability**: 50.3%, Moneyline Edge: -0.9%
+- **Towson Tigers Win Probability**: 49.0%, Moneyline Edge: -3.4%
+- **Stony Brook Seawolves Win Probability**: 51.0%, Moneyline Edge: -1.4%
 
 ### Total
 - **Predicted Total**: 133.0

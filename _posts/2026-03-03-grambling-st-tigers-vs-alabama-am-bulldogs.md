@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Alabama A&M Bulldogs -1.5</p>
-  <p><strong>Moneyline:</strong> Grambling St Tigers (+103) | Alabama A&M Bulldogs (-124)</p>
+  <p><strong>Spread:</strong> Alabama A&M Bulldogs -2.5</p>
+  <p><strong>Moneyline:</strong> Grambling St Tigers (+123) | Alabama A&M Bulldogs (-147)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Grambling St Tigers**: 1.5, Edge For Covering Spread: -5.2%
-- **Alabama A&M Bulldogs**: -1.5, Edge For Covering Spread: **0.5%**
+- **Grambling St Tigers**: 2.5, Edge For Covering Spread: -2.4%
+- **Alabama A&M Bulldogs**: -2.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Grambling St Tigers Win Probability**: 44.3%, Moneyline Edge: -4.8%
-- **Alabama A&M Bulldogs Win Probability**: 55.7%, Moneyline Edge: **0.2%**
+- **Grambling St Tigers Win Probability**: 42.3%, Moneyline Edge: -2.5%
+- **Alabama A&M Bulldogs Win Probability**: 57.7%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 138.5
-- Edge For Covering The Over: -4.2%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -4.1%
+- Edge For Covering The Under: -2.5%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Grambling St Tigers (12-17) travels to face Alabama A&M Bulldogs (16-13) at Alabama A&M Event Center , we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Alabama A&M Bulldogs favored by 1.5 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Grambling St Tigers (12-17) travels to face Alabama A&M Bulldogs (16-13) at Alabama A&M Event Center , we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Alabama A&M Bulldogs favored by 2.5 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Alabama A&M Bulldogs's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Alabama A&M Bulldogs's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Grambling St Tigers** bring an offensive efficiency of 99.55 (ranked #329 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.2% three-point shooting is serviceable but won't scare anyone. 

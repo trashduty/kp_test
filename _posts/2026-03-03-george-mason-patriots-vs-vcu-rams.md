@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> VCU Rams -11.5</p>
-  <p><strong>Moneyline:</strong> George Mason Patriots (+525) | VCU Rams (-774)</p>
+  <p><strong>Spread:</strong> VCU Rams -10.5</p>
+  <p><strong>Moneyline:</strong> George Mason Patriots (+450) | VCU Rams (-627)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **George Mason Patriots**: 11.5, Edge For Covering Spread: -2.6%
-- **VCU Rams**: -11.5, Edge For Covering Spread: -2.2%
+- **George Mason Patriots**: 10.5, Edge For Covering Spread: -2.4%
+- **VCU Rams**: -10.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **George Mason Patriots Win Probability**: 15.3%, Moneyline Edge: -0.7%
-- **VCU Rams Win Probability**: 84.7%, Moneyline Edge: -3.9%
+- **George Mason Patriots Win Probability**: 16.3%, Moneyline Edge: -1.8%
+- **VCU Rams Win Probability**: 83.7%, Moneyline Edge: -2.6%
 
 ### Total
 - **Predicted Total**: 148.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-VCU Rams (22-7) hosts George Mason Patriots (22-7) at Siegel Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into VCU Rams favored by 11.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+VCU Rams (22-7) hosts George Mason Patriots (22-7) at Siegel Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into VCU Rams favored by 10.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us VCU Rams has clear advantages, but games aren't played on paper. George Mason Patriots needs to punch above their weight class to keep this close. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 10.5 points tells us VCU Rams has clear advantages, but games aren't played on paper. George Mason Patriots needs to punch above their weight class to keep this close. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **George Mason Patriots** bring an offensive efficiency of 112.27 (ranked #97 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.7% three-point shooting is serviceable but won't scare anyone. 

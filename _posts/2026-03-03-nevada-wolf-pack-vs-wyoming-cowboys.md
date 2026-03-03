@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Nevada Wolf Pack -1.5</p>
-  <p><strong>Moneyline:</strong> Nevada Wolf Pack (-115) | Wyoming Cowboys (-105)</p>
+  <p><strong>Moneyline:</strong> Nevada Wolf Pack (-112) | Wyoming Cowboys (-107)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Nevada Wolf Pack**: -1.5, Edge For Covering Spread: -3.4%
-- **Wyoming Cowboys**: 1.5, Edge For Covering Spread: -1.9%
+- **Nevada Wolf Pack**: -1.5, Edge For Covering Spread: -2.8%
+- **Wyoming Cowboys**: 1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Nevada Wolf Pack Win Probability**: 49.5%, Moneyline Edge: -3.9%
-- **Wyoming Cowboys Win Probability**: 50.5%, Moneyline Edge: -0.8%
+- **Nevada Wolf Pack Win Probability**: 49.3%, Moneyline Edge: -3.7%
+- **Wyoming Cowboys Win Probability**: 50.7%, Moneyline Edge: -1.1%
 
 ### Total
-- **Predicted Total**: 143.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 144.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.5%
 
 ---
 

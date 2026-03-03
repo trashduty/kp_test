@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UNC Wilmington Seahawks -5.5</p>
-  <p><strong>Moneyline:</strong> UNC Wilmington Seahawks (-220) | Elon Phoenix (+180)</p>
+  <p><strong>Spread:</strong> UNC Wilmington Seahawks -4.5</p>
+  <p><strong>Moneyline:</strong> UNC Wilmington Seahawks (-219) | Elon Phoenix (+180)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UNC Wilmington Seahawks**: -5.5, Edge For Covering Spread: -1.2%
-- **Elon Phoenix**: 5.5, Edge For Covering Spread: -3.5%
+- **UNC Wilmington Seahawks**: -4.5, Edge For Covering Spread: -3.8%
+- **Elon Phoenix**: 4.5, Edge For Covering Spread: -1.1%
 
 ### Moneyline
 - **UNC Wilmington Seahawks Win Probability**: 65.9%, Moneyline Edge: -2.8%
 - **Elon Phoenix Win Probability**: 34.1%, Moneyline Edge: -1.6%
 
 ### Total
-- **Predicted Total**: 146.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 146.0
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -3.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UNC Wilmington Seahawks (25-5) travels to face Elon Phoenix (14-16) at Schar Center in what shapes up to be a competitive matchup. The early betting action has shaped into UNC Wilmington Seahawks favored by 5.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UNC Wilmington Seahawks (25-5) travels to face Elon Phoenix (14-16) at Schar Center in what shapes up to be a competitive matchup. The early betting action has shaped into UNC Wilmington Seahawks favored by 4.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates UNC Wilmington Seahawks is viewed as the better team, but this isn't an overwhelming edge. Elon Phoenix has a legitimate path to covering or winning outright. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 4.5-point spread indicates UNC Wilmington Seahawks is viewed as the better team, but this isn't an overwhelming edge. Elon Phoenix has a legitimate path to covering or winning outright. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **UNC Wilmington Seahawks** bring an offensive efficiency of 114.34 (ranked #73 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 36.0% three-point shooting is serviceable but won't scare anyone. 

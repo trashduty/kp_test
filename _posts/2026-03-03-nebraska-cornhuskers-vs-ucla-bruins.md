@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UCLA Bruins -1.5</p>
-  <p><strong>Moneyline:</strong> Nebraska Cornhuskers (-101) | UCLA Bruins (-119)</p>
+  <p><strong>Moneyline:</strong> Nebraska Cornhuskers (-103) | UCLA Bruins (-116)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Nebraska Cornhuskers**: 1.5, Edge For Covering Spread: **0.7%**
-- **UCLA Bruins**: -1.5, Edge For Covering Spread: -7.4%
+- **Nebraska Cornhuskers**: 1.5, Edge For Covering Spread: -0.0%
+- **UCLA Bruins**: -1.5, Edge For Covering Spread: -4.4%
 
 ### Moneyline
-- **Nebraska Cornhuskers Win Probability**: 52.5%, Moneyline Edge: **2.3%**
-- **UCLA Bruins Win Probability**: 47.5%, Moneyline Edge: -6.9%
+- **Nebraska Cornhuskers Win Probability**: 52.8%, Moneyline Edge: **1.9%**
+- **UCLA Bruins Win Probability**: 47.2%, Moneyline Edge: -6.6%
 
 ### Total
 - **Predicted Total**: 142.5

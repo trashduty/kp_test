@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Virginia Tech Hokies -12.0</p>
-  <p><strong>Moneyline:</strong> Boston College Eagles (+592) | Virginia Tech Hokies (-890)</p>
+  <p><strong>Spread:</strong> Virginia Tech Hokies -11.5</p>
+  <p><strong>Moneyline:</strong> Boston College Eagles (+550) | Virginia Tech Hokies (-838)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Boston College Eagles**: 12.0, Edge For Covering Spread: -1.7%
-- **Virginia Tech Hokies**: -12.0, Edge For Covering Spread: -3.1%
+- **Boston College Eagles**: 11.5, Edge For Covering Spread: -3.5%
+- **Virginia Tech Hokies**: -11.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **Boston College Eagles Win Probability**: 13.9%, Moneyline Edge: -0.5%
-- **Virginia Tech Hokies Win Probability**: 86.1%, Moneyline Edge: -3.8%
+- **Boston College Eagles Win Probability**: 14.3%, Moneyline Edge: -1.0%
+- **Virginia Tech Hokies Win Probability**: 85.7%, Moneyline Edge: -3.7%
 
 ### Total
 - **Predicted Total**: 140.5
-- Edge For Covering The Over: -5.6%
-- Edge For Covering The Under: **0.9%**
+- Edge For Covering The Over: -5.4%
+- Edge For Covering The Under: **0.6%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Virginia Tech Hokies (18-11) hosts Boston College Eagles (10-19) at Cassell Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Virginia Tech Hokies favored by 12.0 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Virginia Tech Hokies (18-11) hosts Boston College Eagles (10-19) at Cassell Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Virginia Tech Hokies favored by 11.5 points, with the total sitting at 142.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 12.0-point spread screams mismatch. The books are asking Boston College Eagles to hang within two possessions, which based on the profiles, requires Virginia Tech Hokies to play below their standard. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 11.5 points tells us Virginia Tech Hokies has clear advantages, but games aren't played on paper. Boston College Eagles needs to punch above their weight class to keep this close. The total of 142.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Boston College Eagles** bring an offensive efficiency of 100.06 (ranked #325 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.9% from three, they can't rely on the arc. Expect a paint-focused attack. 

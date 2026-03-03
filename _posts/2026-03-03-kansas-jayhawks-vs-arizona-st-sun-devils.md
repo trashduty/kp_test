@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Kansas Jayhawks -5.5</p>
-  <p><strong>Moneyline:</strong> Kansas Jayhawks (-247) | Arizona St Sun Devils (+201)</p>
+  <p><strong>Spread:</strong> Kansas Jayhawks -6.5</p>
+  <p><strong>Moneyline:</strong> Kansas Jayhawks (-272) | Arizona St Sun Devils (+220)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kansas Jayhawks**: -5.5, Edge For Covering Spread: -2.2%
-- **Arizona St Sun Devils**: 5.5, Edge For Covering Spread: -2.6%
+- **Kansas Jayhawks**: -6.5, Edge For Covering Spread: -1.2%
+- **Arizona St Sun Devils**: 6.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Kansas Jayhawks Win Probability**: 69.6%, Moneyline Edge: -1.6%
-- **Arizona St Sun Devils Win Probability**: 30.4%, Moneyline Edge: -2.8%
+- **Kansas Jayhawks Win Probability**: 70.5%, Moneyline Edge: -2.6%
+- **Arizona St Sun Devils Win Probability**: 29.5%, Moneyline Edge: -1.8%
 
 ### Total
 - **Predicted Total**: 150.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Kansas Jayhawks (21-8) travels to face Arizona St Sun Devils (15-14) at Desert Financial Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Kansas Jayhawks favored by 5.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Kansas Jayhawks (21-8) enters hostile territory as they take on Arizona St Sun Devils (15-14) at Desert Financial Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Kansas Jayhawks favored by 6.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Kansas Jayhawks is viewed as the better team, but this isn't an overwhelming edge. Arizona St Sun Devils has a legitimate path to covering or winning outright. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 6.5-point spread indicates Kansas Jayhawks is viewed as the better team, but this isn't an overwhelming edge. Arizona St Sun Devils has a legitimate path to covering or winning outright. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Kansas Jayhawks** bring an offensive efficiency of 111.14 (ranked #113 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.5% three-point shooting is serviceable but won't scare anyone. 

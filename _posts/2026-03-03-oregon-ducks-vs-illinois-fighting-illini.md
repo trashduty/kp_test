@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Illinois Fighting Illini -18.5</p>
-  <p><strong>Moneyline:</strong> Oregon Ducks (+1300) | Illinois Fighting Illini (-3431)</p>
+  <p><strong>Moneyline:</strong> Oregon Ducks (+1248) | Illinois Fighting Illini (-3000)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oregon Ducks**: 18.5, Edge For Covering Spread: -3.2%
-- **Illinois Fighting Illini**: -18.5, Edge For Covering Spread: -1.6%
+- **Oregon Ducks**: 18.5, Edge For Covering Spread: -4.5%
+- **Illinois Fighting Illini**: -18.5, Edge For Covering Spread: -0.2%
 
 ### Moneyline
-- **Oregon Ducks Win Probability**: 5.4%, Moneyline Edge: -1.7%
-- **Illinois Fighting Illini Win Probability**: 94.6%, Moneyline Edge: -2.6%
+- **Oregon Ducks Win Probability**: 5.6%, Moneyline Edge: -1.9%
+- **Illinois Fighting Illini Win Probability**: 94.4%, Moneyline Edge: -2.3%
 
 ### Total
 - **Predicted Total**: 146.5

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Florida Gators -22.5</p>
-  <p><strong>Moneyline:</strong> Mississippi St Bulldogs (+1895) | Florida Gators (-7742)</p>
+  <p><strong>Moneyline:</strong> Mississippi St Bulldogs (+2000) | Florida Gators (-7742)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Mississippi St Bulldogs**: 22.5, Edge For Covering Spread: -4.0%
-- **Florida Gators**: -22.5, Edge For Covering Spread: -0.8%
+- **Mississippi St Bulldogs**: 22.5, Edge For Covering Spread: -4.8%
+- **Florida Gators**: -22.5, Edge For Covering Spread: **0.0%**
 
 ### Moneyline
-- **Mississippi St Bulldogs Win Probability**: 3.5%, Moneyline Edge: -1.5%
-- **Florida Gators Win Probability**: 96.5%, Moneyline Edge: -2.2%
+- **Mississippi St Bulldogs Win Probability**: 3.4%, Moneyline Edge: -1.4%
+- **Florida Gators Win Probability**: 96.6%, Moneyline Edge: -2.1%
 
 ### Total
 - **Predicted Total**: 158.5

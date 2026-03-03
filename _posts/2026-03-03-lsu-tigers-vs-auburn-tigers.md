@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Auburn Tigers -8.5</p>
-  <p><strong>Moneyline:</strong> LSU Tigers (+325) | Auburn Tigers (-420)</p>
+  <p><strong>Spread:</strong> Auburn Tigers -9.5</p>
+  <p><strong>Moneyline:</strong> LSU Tigers (+360) | Auburn Tigers (-482)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **LSU Tigers**: 8.5, Edge For Covering Spread: -2.4%
-- **Auburn Tigers**: -8.5, Edge For Covering Spread: -2.4%
+- **LSU Tigers**: 9.5, Edge For Covering Spread: -1.3%
+- **Auburn Tigers**: -9.5, Edge For Covering Spread: -3.4%
 
 ### Moneyline
-- **LSU Tigers Win Probability**: 22.3%, Moneyline Edge: -1.3%
-- **Auburn Tigers Win Probability**: 77.7%, Moneyline Edge: -3.0%
+- **LSU Tigers Win Probability**: 21.9%, Moneyline Edge: **0.2%**
+- **Auburn Tigers Win Probability**: 78.1%, Moneyline Edge: -4.7%
 
 ### Total
 - **Predicted Total**: 156.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Auburn Tigers (15-14) hosts LSU Tigers (15-14) at Neville Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Auburn Tigers favored by 8.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Auburn Tigers (15-14) hosts LSU Tigers (15-14) at Neville Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Auburn Tigers favored by 9.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Auburn Tigers has clear advantages, but games aren't played on paper. LSU Tigers needs to punch above their weight class to keep this close. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 9.5 points tells us Auburn Tigers has clear advantages, but games aren't played on paper. LSU Tigers needs to punch above their weight class to keep this close. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **LSU Tigers** bring an offensive efficiency of 116.22 (ranked #56 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.2% three-point shooting is serviceable but won't scare anyone. 
