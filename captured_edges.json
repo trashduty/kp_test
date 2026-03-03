@@ -4314,5 +4314,21 @@
   "UCLA Bruins vs. Nebraska Cornhuskers|Nebraska Cornhuskers|spread": {
     "captured_at": "2026-03-03T00:37:15.710875+00:00",
     "edge_type": "spread"
+  },
+  "Massachusetts Minutemen vs. Ohio Bobcats|Massachusetts Minutemen|moneyline": {
+    "captured_at": "2026-03-03T01:38:59.704771+00:00",
+    "edge_type": "moneyline"
+  },
+  "Western Michigan Broncos vs. Ball State Cardinals|Western Michigan Broncos|moneyline": {
+    "captured_at": "2026-03-03T01:38:59.705744+00:00",
+    "edge_type": "moneyline"
+  },
+  "Jackson St Tigers vs. Arkansas-Pine Bluff Golden Lions|over": {
+    "captured_at": "2026-03-03T01:38:59.707906+00:00",
+    "edge_type": "over"
+  },
+  "Air Force Falcons vs. Grand Canyon Antelopes|under": {
+    "captured_at": "2026-03-03T01:38:59.708477+00:00",
+    "edge_type": "under"
   }
 }
