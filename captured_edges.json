@@ -4350,5 +4350,33 @@
   "Saint Louis Billikens vs. Loyola (Chi) Ramblers|Saint Louis Billikens|spread": {
     "captured_at": "2026-03-04T00:35:36.823779+00:00",
     "edge_type": "spread"
+  },
+  "La Salle Explorers vs. Fordham Rams|under": {
+    "captured_at": "2026-03-04T01:38:20.276188+00:00",
+    "edge_type": "under"
+  },
+  "Charlotte 49ers vs. UAB Blazers|Charlotte 49ers|spread": {
+    "captured_at": "2026-03-04T01:38:20.276594+00:00",
+    "edge_type": "spread"
+  },
+  "Robert Morris Colonials vs. Youngstown St Penguins|Robert Morris Colonials|moneyline": {
+    "captured_at": "2026-03-04T01:38:20.276781+00:00",
+    "edge_type": "moneyline"
+  },
+  "Oakland Golden Grizzlies vs. Northern Kentucky Norse|Oakland Golden Grizzlies|moneyline": {
+    "captured_at": "2026-03-04T01:38:20.276977+00:00",
+    "edge_type": "moneyline"
+  },
+  "Georgia Tech Yellow Jackets vs. California Golden Bears|California Golden Bears|moneyline": {
+    "captured_at": "2026-03-04T01:38:20.277716+00:00",
+    "edge_type": "moneyline"
+  },
+  "GW Revolutionaries vs. St. Bonaventure Bonnies|GW Revolutionaries|moneyline": {
+    "captured_at": "2026-03-04T01:38:20.278014+00:00",
+    "edge_type": "moneyline"
+  },
+  "Providence Friars vs. Marquette Golden Eagles|Providence Friars|spread": {
+    "captured_at": "2026-03-04T01:38:20.278365+00:00",
+    "edge_type": "spread"
   }
 }
