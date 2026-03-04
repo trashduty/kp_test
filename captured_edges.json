@@ -4330,5 +4330,25 @@
   "Air Force Falcons vs. Grand Canyon Antelopes|under": {
     "captured_at": "2026-03-03T01:38:59.708477+00:00",
     "edge_type": "under"
+  },
+  "Eastern Kentucky Colonels vs. Stetson Hatters|Stetson Hatters|spread": {
+    "captured_at": "2026-03-04T00:35:36.820579+00:00",
+    "edge_type": "spread"
+  },
+  "Providence Friars vs. Marquette Golden Eagles|Providence Friars|moneyline": {
+    "captured_at": "2026-03-04T00:35:36.822903+00:00",
+    "edge_type": "moneyline"
+  },
+  "Wisconsin Badgers vs. Maryland Terrapins|Wisconsin Badgers|spread": {
+    "captured_at": "2026-03-04T00:35:36.823263+00:00",
+    "edge_type": "spread"
+  },
+  "North Texas Mean Green vs. Rice Owls|under": {
+    "captured_at": "2026-03-04T00:35:36.823534+00:00",
+    "edge_type": "under"
+  },
+  "Saint Louis Billikens vs. Loyola (Chi) Ramblers|Saint Louis Billikens|spread": {
+    "captured_at": "2026-03-04T00:35:36.823779+00:00",
+    "edge_type": "spread"
   }
 }
