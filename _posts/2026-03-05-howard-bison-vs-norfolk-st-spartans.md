@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Howard Bison -5.5</p>
-  <p><strong>Moneyline:</strong> Howard Bison (-205) | Norfolk St Spartans (+170)</p>
+  <p><strong>Moneyline:</strong> Howard Bison (-219) | Norfolk St Spartans (+180)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Norfolk St Spartans**: 5.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Howard Bison Win Probability**: 65.2%, Moneyline Edge: -2.0%
-- **Norfolk St Spartans Win Probability**: 34.8%, Moneyline Edge: -2.3%
+- **Howard Bison Win Probability**: 65.9%, Moneyline Edge: -2.8%
+- **Norfolk St Spartans Win Probability**: 34.1%, Moneyline Edge: -1.6%
 
 ### Total
 - **Predicted Total**: 145.0

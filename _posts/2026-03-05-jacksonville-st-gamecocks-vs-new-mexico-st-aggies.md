@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> New Mexico St Aggies -5.5</p>
-  <p><strong>Moneyline:</strong> Jacksonville St Gamecocks (+192) | New Mexico St Aggies (-237)</p>
+  <p><strong>Moneyline:</strong> Jacksonville St Gamecocks (+178) | New Mexico St Aggies (-216)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **New Mexico St Aggies**: -5.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Jacksonville St Gamecocks Win Probability**: 32.8%, Moneyline Edge: -1.3%
-- **New Mexico St Aggies Win Probability**: 67.2%, Moneyline Edge: -3.2%
+- **Jacksonville St Gamecocks Win Probability**: 33.7%, Moneyline Edge: -2.2%
+- **New Mexico St Aggies Win Probability**: 66.3%, Moneyline Edge: -2.1%
 
 ### Total
 - **Predicted Total**: 141.5

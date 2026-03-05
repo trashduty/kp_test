@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Sam Houston St Bearkats -6.5</p>
-  <p><strong>Moneyline:</strong> Sam Houston St Bearkats (-282) | Delaware Blue Hens (+230)</p>
+  <p><strong>Moneyline:</strong> Sam Houston St Bearkats (-280) | Delaware Blue Hens (+227)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Sam Houston St Bearkats**: -6.5, Edge For Covering Spread: -0.8%
-- **Delaware Blue Hens**: 6.5, Edge For Covering Spread: -5.3%
+- **Sam Houston St Bearkats**: -6.5, Edge For Covering Spread: **0.0%**
+- **Delaware Blue Hens**: 6.5, Edge For Covering Spread: -4.8%
 
 ### Moneyline
-- **Sam Houston St Bearkats Win Probability**: 74.5%, Moneyline Edge: **0.6%**
-- **Delaware Blue Hens Win Probability**: 25.5%, Moneyline Edge: -4.8%
+- **Sam Houston St Bearkats Win Probability**: 74.3%, Moneyline Edge: **0.7%**
+- **Delaware Blue Hens Win Probability**: 25.7%, Moneyline Edge: -4.9%
 
 ### Total
 - **Predicted Total**: 147.0

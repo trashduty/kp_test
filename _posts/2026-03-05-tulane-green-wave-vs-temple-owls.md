@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Temple Owls -4.5</p>
-  <p><strong>Moneyline:</strong> Tulane Green Wave (+173) | Temple Owls (-212)</p>
+  <p><strong>Moneyline:</strong> Tulane Green Wave (+165) | Temple Owls (-199)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Temple Owls**: -4.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Tulane Green Wave Win Probability**: 36.0%, Moneyline Edge: -0.6%
-- **Temple Owls Win Probability**: 64.0%, Moneyline Edge: -4.0%
+- **Tulane Green Wave Win Probability**: 36.6%, Moneyline Edge: -1.2%
+- **Temple Owls Win Probability**: 63.4%, Moneyline Edge: -3.2%
 
 ### Total
 - **Predicted Total**: 144.0

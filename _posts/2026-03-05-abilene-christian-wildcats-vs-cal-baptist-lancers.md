@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Cal Baptist Lancers -9.5</p>
-  <p><strong>Moneyline:</strong> Abilene Christian Wildcats (+340) | Cal Baptist Lancers (-450)</p>
+  <p><strong>Spread:</strong> Cal Baptist Lancers -8.5</p>
+  <p><strong>Moneyline:</strong> Abilene Christian Wildcats (+355) | Cal Baptist Lancers (-477)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Abilene Christian Wildcats**: 9.5, Edge For Covering Spread: -4.1%
-- **Cal Baptist Lancers**: -9.5, Edge For Covering Spread: -0.5%
+- **Abilene Christian Wildcats**: 8.5, Edge For Covering Spread: -2.2%
+- **Cal Baptist Lancers**: -8.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Abilene Christian Wildcats Win Probability**: 20.9%, Moneyline Edge: -1.9%
-- **Cal Baptist Lancers Win Probability**: 79.1%, Moneyline Edge: -2.7%
+- **Abilene Christian Wildcats Win Probability**: 20.5%, Moneyline Edge: -1.5%
+- **Cal Baptist Lancers Win Probability**: 79.5%, Moneyline Edge: -3.2%
 
 ### Total
 - **Predicted Total**: 134.5
 - Edge For Covering The Over: -4.4%
-- Edge For Covering The Under: -0.4%
+- Edge For Covering The Under: -0.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Cal Baptist Lancers (21-8) hosts Abilene Christian Wildcats (13-16) at Fowler Events Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Cal Baptist Lancers favored by 9.5 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Cal Baptist Lancers (21-8) hosts Abilene Christian Wildcats (13-16) at Fowler Events Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Cal Baptist Lancers favored by 8.5 points, with the total sitting at 136.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Cal Baptist Lancers has clear advantages, but games aren't played on paper. Abilene Christian Wildcats needs to punch above their weight class to keep this close. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.5 points tells us Cal Baptist Lancers has clear advantages, but games aren't played on paper. Abilene Christian Wildcats needs to punch above their weight class to keep this close. The total of 136.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Abilene Christian Wildcats** bring an offensive efficiency of 99.24 (ranked #335 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.9% from three, they can't rely on the arc. Expect a paint-focused attack. 

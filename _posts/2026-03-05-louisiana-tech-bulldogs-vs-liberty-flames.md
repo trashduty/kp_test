@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Liberty Flames -8.5</p>
-  <p><strong>Moneyline:</strong> Louisiana Tech Bulldogs (+355) | Liberty Flames (-477)</p>
+  <p><strong>Moneyline:</strong> Louisiana Tech Bulldogs (+327) | Liberty Flames (-427)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Louisiana Tech Bulldogs**: 8.5, Edge For Covering Spread: -6.0%
-- **Liberty Flames**: -8.5, Edge For Covering Spread: **1.2%**
+- **Louisiana Tech Bulldogs**: 8.5, Edge For Covering Spread: -4.9%
+- **Liberty Flames**: -8.5, Edge For Covering Spread: **0.2%**
 
 ### Moneyline
-- **Louisiana Tech Bulldogs Win Probability**: 17.6%, Moneyline Edge: -4.4%
-- **Liberty Flames Win Probability**: 82.4%, Moneyline Edge: -0.2%
+- **Louisiana Tech Bulldogs Win Probability**: 18.2%, Moneyline Edge: -5.1%
+- **Liberty Flames Win Probability**: 81.8%, Moneyline Edge: **0.7%**
 
 ### Total
 - **Predicted Total**: 137.0
-- Edge For Covering The Over: -5.5%
+- Edge For Covering The Over: -3.9%
 - Edge For Covering The Under: -0.8%
 
 ---

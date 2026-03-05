@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UC Davis Aggies -1.5</p>
-  <p><strong>Moneyline:</strong> UC Davis Aggies (-135) | Long Beach St 49ers (+112)</p>
+  <p><strong>Moneyline:</strong> UC Davis Aggies (-130) | Long Beach St 49ers (+110)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UC Davis Aggies**: -1.5, Edge For Covering Spread: -2.4%
-- **Long Beach St 49ers**: 1.5, Edge For Covering Spread: -2.4%
+- **UC Davis Aggies**: -1.5, Edge For Covering Spread: -2.9%
+- **Long Beach St 49ers**: 1.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **UC Davis Aggies Win Probability**: 55.5%, Moneyline Edge: -2.0%
-- **Long Beach St 49ers Win Probability**: 44.5%, Moneyline Edge: -2.5%
+- **UC Davis Aggies Win Probability**: 55.1%, Moneyline Edge: -1.4%
+- **Long Beach St 49ers Win Probability**: 44.9%, Moneyline Edge: -2.8%
 
 ### Total
 - **Predicted Total**: 150.0

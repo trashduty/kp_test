@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Morgan St Bears -5.5</p>
-  <p><strong>Moneyline:</strong> Coppin St Eagles (+185) | Morgan St Bears (-225)</p>
+  <p><strong>Spread:</strong> Morgan St Bears -6.5</p>
+  <p><strong>Moneyline:</strong> Coppin St Eagles (+230) | Morgan St Bears (-284)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Coppin St Eagles**: 5.5, Edge For Covering Spread: -5.7%
-- **Morgan St Bears**: -5.5, Edge For Covering Spread: **1.0%**
+- **Coppin St Eagles**: 6.5, Edge For Covering Spread: -5.6%
+- **Morgan St Bears**: -6.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Coppin St Eagles Win Probability**: 26.8%, Moneyline Edge: -8.3%
-- **Morgan St Bears Win Probability**: 73.2%, Moneyline Edge: **4.0%**
+- **Coppin St Eagles Win Probability**: 24.5%, Moneyline Edge: -5.8%
+- **Morgan St Bears Win Probability**: 75.5%, Moneyline Edge: **1.5%**
 
 ### Total
 - **Predicted Total**: 152.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Coppin St Eagles (7-23) travels to face Morgan St Bears (13-15) at Hill Field House, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Morgan St Bears favored by 5.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Coppin St Eagles (7-23) travels to face Morgan St Bears (13-15) at Hill Field House, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Morgan St Bears favored by 6.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Morgan St Bears is viewed as the better team, but this isn't an overwhelming edge. Coppin St Eagles has a legitimate path to covering or winning outright. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 6.5-point spread indicates Morgan St Bears is viewed as the better team, but this isn't an overwhelming edge. Coppin St Eagles has a legitimate path to covering or winning outright. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Coppin St Eagles** bring an offensive efficiency of 92.71 (ranked #362 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.6% from three, they can't rely on the arc. Expect a paint-focused attack. 

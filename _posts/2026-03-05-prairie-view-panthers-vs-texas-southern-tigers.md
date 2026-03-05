@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Texas Southern Tigers -3.5</p>
-  <p><strong>Moneyline:</strong> Prairie View Panthers (+140) | Texas Southern Tigers (-168)</p>
+  <p><strong>Moneyline:</strong> Prairie View Panthers (+140) | Texas Southern Tigers (-170)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Texas Southern Tigers**: -3.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **Prairie View Panthers Win Probability**: 35.0%, Moneyline Edge: -6.7%
-- **Texas Southern Tigers Win Probability**: 65.0%, Moneyline Edge: **2.4%**
+- **Prairie View Panthers Win Probability**: 34.9%, Moneyline Edge: -6.8%
+- **Texas Southern Tigers Win Probability**: 65.1%, Moneyline Edge: **2.1%**
 
 ### Total
 - **Predicted Total**: 156.0

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Portland Pilots -2.0</p>
-  <p><strong>Moneyline:</strong> Pepperdine Waves (+117) | Portland Pilots (-137)</p>
+  <p><strong>Spread:</strong> Portland Pilots -2.5</p>
+  <p><strong>Moneyline:</strong> Pepperdine Waves (+110) | Portland Pilots (-130)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Pepperdine Waves**: 2.0, Edge For Covering Spread: -4.5%
-- **Portland Pilots**: -2.0, Edge For Covering Spread: -0.2%
+- **Pepperdine Waves**: 2.5, Edge For Covering Spread: -3.2%
+- **Portland Pilots**: -2.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Pepperdine Waves Win Probability**: 41.2%, Moneyline Edge: -4.9%
-- **Portland Pilots Win Probability**: 58.8%, Moneyline Edge: **0.9%**
+- **Pepperdine Waves Win Probability**: 41.9%, Moneyline Edge: -5.8%
+- **Portland Pilots Win Probability**: 58.1%, Moneyline Edge: **1.6%**
 
 ### Total
 - **Predicted Total**: 151.0
-- Edge For Covering The Over: -4.9%
-- Edge For Covering The Under: -1.5%
+- Edge For Covering The Over: -3.8%
+- Edge For Covering The Under: -0.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Portland Pilots (13-18) hosts Pepperdine Waves (9-22) at Chiles Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Portland Pilots favored by 2.0 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Portland Pilots (13-18) hosts Pepperdine Waves (9-22) at Chiles Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Portland Pilots favored by 2.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Portland Pilots's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Portland Pilots's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Pepperdine Waves** bring an offensive efficiency of 100.28 (ranked #323 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.5% from three, they can't rely on the arc. Expect a paint-focused attack. 

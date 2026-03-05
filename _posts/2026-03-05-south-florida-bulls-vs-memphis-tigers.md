@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> South Florida Bulls -6.5</p>
-  <p><strong>Moneyline:</strong> South Florida Bulls (-285) | Memphis Tigers (+230)</p>
+  <p><strong>Spread:</strong> South Florida Bulls -6.0</p>
+  <p><strong>Moneyline:</strong> South Florida Bulls (-262) | Memphis Tigers (+212)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Florida Bulls**: -6.5, Edge For Covering Spread: -5.0%
-- **Memphis Tigers**: 6.5, Edge For Covering Spread: **0.3%**
+- **South Florida Bulls**: -6.0, Edge For Covering Spread: -5.6%
+- **Memphis Tigers**: 6.0, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **South Florida Bulls Win Probability**: 66.5%, Moneyline Edge: -7.5%
-- **Memphis Tigers Win Probability**: 33.5%, Moneyline Edge: **3.2%**
+- **South Florida Bulls Win Probability**: 65.7%, Moneyline Edge: -6.7%
+- **Memphis Tigers Win Probability**: 34.3%, Moneyline Edge: **2.3%**
 
 ### Total
 - **Predicted Total**: 158.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-South Florida Bulls (21-8) enters hostile territory as they take on Memphis Tigers (12-17) at FedExForum in what the oddsmakers see as a significant talent gap. The early betting action has shaped into South Florida Bulls favored by 6.5 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+South Florida Bulls (21-8) enters hostile territory as they take on Memphis Tigers (12-17) at FedExForum in what the oddsmakers see as a significant talent gap. The early betting action has shaped into South Florida Bulls favored by 6.0 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates South Florida Bulls is viewed as the better team, but this isn't an overwhelming edge. Memphis Tigers has a legitimate path to covering or winning outright. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 6.0-point spread indicates South Florida Bulls is viewed as the better team, but this isn't an overwhelming edge. Memphis Tigers has a legitimate path to covering or winning outright. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **South Florida Bulls** bring an offensive efficiency of 116.78 (ranked #49 nationally). This is an elite offense that can score in multiple ways. Their 33.0% three-point shooting is serviceable but won't scare anyone. 

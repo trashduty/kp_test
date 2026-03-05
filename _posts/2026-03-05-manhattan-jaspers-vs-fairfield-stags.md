@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Fairfield Stags -5.5</p>
-  <p><strong>Moneyline:</strong> Manhattan Jaspers (+210) | Fairfield Stags (-250)</p>
+  <p><strong>Moneyline:</strong> Manhattan Jaspers (+185) | Fairfield Stags (-225)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Manhattan Jaspers**: 5.5, Edge For Covering Spread: -1.9%
-- **Fairfield Stags**: -5.5, Edge For Covering Spread: -2.8%
+- **Manhattan Jaspers**: 5.5, Edge For Covering Spread: **0.4%**
+- **Fairfield Stags**: -5.5, Edge For Covering Spread: -5.1%
 
 ### Moneyline
-- **Manhattan Jaspers Win Probability**: 31.9%, Moneyline Edge: -0.4%
-- **Fairfield Stags Win Probability**: 68.1%, Moneyline Edge: -3.3%
+- **Manhattan Jaspers Win Probability**: 33.2%, Moneyline Edge: -1.9%
+- **Fairfield Stags Win Probability**: 66.8%, Moneyline Edge: -2.4%
 
 ### Total
 - **Predicted Total**: 151.0

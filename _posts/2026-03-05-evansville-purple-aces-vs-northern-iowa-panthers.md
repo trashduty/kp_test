@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Northern Iowa Panthers -14.5</p>
-  <p><strong>Moneyline:</strong> Evansville Purple Aces (+827) | Northern Iowa Panthers (-1444)</p>
+  <p><strong>Moneyline:</strong> Evansville Purple Aces (+847) | Northern Iowa Panthers (-1576)</p>
   <p><strong>Total:</strong> 125.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Northern Iowa Panthers**: -14.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Evansville Purple Aces Win Probability**: 9.7%, Moneyline Edge: -1.1%
-- **Northern Iowa Panthers Win Probability**: 90.3%, Moneyline Edge: -3.2%
+- **Evansville Purple Aces Win Probability**: 9.5%, Moneyline Edge: -1.0%
+- **Northern Iowa Panthers Win Probability**: 90.5%, Moneyline Edge: -3.6%
 
 ### Total
 - **Predicted Total**: 126.5
-- Edge For Covering The Over: -1.0%
-- Edge For Covering The Under: -3.8%
+- Edge For Covering The Over: **0.2%**
+- Edge For Covering The Under: -4.9%
 
 ---
 

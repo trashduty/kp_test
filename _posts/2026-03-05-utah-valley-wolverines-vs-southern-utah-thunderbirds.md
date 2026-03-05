@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Utah Valley Wolverines -9.5</p>
-  <p><strong>Moneyline:</strong> Utah Valley Wolverines (-440) | Southern Utah Thunderbirds (+340)</p>
+  <p><strong>Moneyline:</strong> Utah Valley Wolverines (-517) | Southern Utah Thunderbirds (+377)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Utah Valley Wolverines**: -9.5, Edge For Covering Spread: -5.1%
-- **Southern Utah Thunderbirds**: 9.5, Edge For Covering Spread: **0.4%**
+- **Utah Valley Wolverines**: -9.5, Edge For Covering Spread: -5.0%
+- **Southern Utah Thunderbirds**: 9.5, Edge For Covering Spread: **0.3%**
 
 ### Moneyline
-- **Utah Valley Wolverines Win Probability**: 77.9%, Moneyline Edge: -3.6%
-- **Southern Utah Thunderbirds Win Probability**: 22.1%, Moneyline Edge: -0.6%
+- **Utah Valley Wolverines Win Probability**: 78.8%, Moneyline Edge: -5.0%
+- **Southern Utah Thunderbirds Win Probability**: 21.2%, Moneyline Edge: **0.3%**
 
 ### Total
 - **Predicted Total**: 152.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Over: -0.4%
+- Edge For Covering The Under: -4.7%
 
 ---
 

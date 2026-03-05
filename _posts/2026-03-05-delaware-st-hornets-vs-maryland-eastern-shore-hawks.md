@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Maryland-Eastern Shore Hawks -6.5</p>
-  <p><strong>Moneyline:</strong> Delaware St Hornets (+220) | Maryland-Eastern Shore Hawks (-275)</p>
+  <p><strong>Moneyline:</strong> Delaware St Hornets (+225) | Maryland-Eastern Shore Hawks (-281)</p>
   <p><strong>Total:</strong> 127.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Delaware St Hornets**: 6.5, Edge For Covering Spread: -3.7%
-- **Maryland-Eastern Shore Hawks**: -6.5, Edge For Covering Spread: -1.1%
+- **Delaware St Hornets**: 6.5, Edge For Covering Spread: -3.0%
+- **Maryland-Eastern Shore Hawks**: -6.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Delaware St Hornets Win Probability**: 26.4%, Moneyline Edge: -4.8%
-- **Maryland-Eastern Shore Hawks Win Probability**: 73.6%, Moneyline Edge: **0.2%**
+- **Delaware St Hornets Win Probability**: 26.2%, Moneyline Edge: -4.6%
+- **Maryland-Eastern Shore Hawks Win Probability**: 73.8%, Moneyline Edge: **0.0%**
 
 ### Total
-- **Predicted Total**: 124.5
-- Edge For Covering The Over: -6.6%
-- Edge For Covering The Under: **1.9%**
+- **Predicted Total**: 124.0
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -0.5%
 
 ---
 

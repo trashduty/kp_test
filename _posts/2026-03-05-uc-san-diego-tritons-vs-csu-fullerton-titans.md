@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UC San Diego Tritons -2.5</p>
-  <p><strong>Moneyline:</strong> UC San Diego Tritons (-165) | CSU Fullerton Titans (+140)</p>
+  <p><strong>Spread:</strong> UC San Diego Tritons -3.5</p>
+  <p><strong>Moneyline:</strong> UC San Diego Tritons (-170) | CSU Fullerton Titans (+142)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UC San Diego Tritons**: -2.5, Edge For Covering Spread: -4.1%
-- **CSU Fullerton Titans**: 2.5, Edge For Covering Spread: -0.5%
+- **UC San Diego Tritons**: -3.5, Edge For Covering Spread: -4.2%
+- **CSU Fullerton Titans**: 3.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **UC San Diego Tritons Win Probability**: 59.0%, Moneyline Edge: -3.3%
-- **CSU Fullerton Titans Win Probability**: 41.0%, Moneyline Edge: -0.6%
+- **UC San Diego Tritons Win Probability**: 59.2%, Moneyline Edge: -3.8%
+- **CSU Fullerton Titans Win Probability**: 40.8%, Moneyline Edge: -0.5%
 
 ### Total
-- **Predicted Total**: 156.5
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -0.7%
+- **Predicted Total**: 155.5
+- Edge For Covering The Over: -5.0%
+- Edge For Covering The Under: -0.0%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UC San Diego Tritons (21-9) travels to face CSU Fullerton Titans (15-15) at Titan Gym in what shapes up to be a competitive matchup. The early betting action has shaped into UC San Diego Tritons favored by 2.5 points, with the total sitting at 157.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UC San Diego Tritons (21-9) travels to face CSU Fullerton Titans (15-15) at Titan Gym in what shapes up to be a competitive matchup. The early betting action has shaped into UC San Diego Tritons favored by 3.5 points, with the total sitting at 157.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. UC San Diego Tritons's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 157.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.5-point spread indicates UC San Diego Tritons is viewed as the better team, but this isn't an overwhelming edge. CSU Fullerton Titans has a legitimate path to covering or winning outright. The total of 157.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **UC San Diego Tritons** bring an offensive efficiency of 107.91 (ranked #185 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.7% three-point shooting is serviceable but won't scare anyone. 

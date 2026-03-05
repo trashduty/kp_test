@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Loyola Marymount Lions -5.5</p>
-  <p><strong>Moneyline:</strong> San Diego Toreros (+205) | Loyola Marymount Lions (-247)</p>
+  <p><strong>Moneyline:</strong> San Diego Toreros (+196) | Loyola Marymount Lions (-237)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Loyola Marymount Lions**: -5.5, Edge For Covering Spread: -3.3%
 
 ### Moneyline
-- **San Diego Toreros Win Probability**: 32.3%, Moneyline Edge: -0.5%
-- **Loyola Marymount Lions Win Probability**: 67.7%, Moneyline Edge: -3.5%
+- **San Diego Toreros Win Probability**: 32.7%, Moneyline Edge: -1.0%
+- **Loyola Marymount Lions Win Probability**: 67.3%, Moneyline Edge: -3.1%
 
 ### Total
 - **Predicted Total**: 146.0
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 

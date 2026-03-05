@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tulsa Golden Hurricane -9.5</p>
-  <p><strong>Moneyline:</strong> Tulsa Golden Hurricane (-510) | East Carolina Pirates (+370)</p>
+  <p><strong>Moneyline:</strong> Tulsa Golden Hurricane (-495) | East Carolina Pirates (+372)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tulsa Golden Hurricane**: -9.5, Edge For Covering Spread: -1.8%
-- **East Carolina Pirates**: 9.5, Edge For Covering Spread: -2.9%
+- **Tulsa Golden Hurricane**: -9.5, Edge For Covering Spread: -2.2%
+- **East Carolina Pirates**: 9.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Tulsa Golden Hurricane Win Probability**: 81.4%, Moneyline Edge: -2.3%
-- **East Carolina Pirates Win Probability**: 18.6%, Moneyline Edge: -2.6%
+- **Tulsa Golden Hurricane Win Probability**: 81.4%, Moneyline Edge: -1.8%
+- **East Carolina Pirates Win Probability**: 18.6%, Moneyline Edge: -2.5%
 
 ### Total
-- **Predicted Total**: 156.0
-- Edge For Covering The Over: -2.0%
-- Edge For Covering The Under: -2.7%
+- **Predicted Total**: 155.0
+- Edge For Covering The Over: -3.4%
+- Edge For Covering The Under: -1.4%
 
 ---
 

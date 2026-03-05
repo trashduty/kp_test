@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> CSU Northridge Matadors -8.5</p>
-  <p><strong>Moneyline:</strong> CSU Northridge Matadors (-350) | CSU Bakersfield Roadrunners (+275)</p>
+  <p><strong>Moneyline:</strong> CSU Northridge Matadors (-375) | CSU Bakersfield Roadrunners (+292)</p>
   <p><strong>Total:</strong> 166.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **CSU Northridge Matadors**: -8.5, Edge For Covering Spread: -1.2%
-- **CSU Bakersfield Roadrunners**: 8.5, Edge For Covering Spread: -3.5%
+- **CSU Northridge Matadors**: -8.5, Edge For Covering Spread: -1.7%
+- **CSU Bakersfield Roadrunners**: 8.5, Edge For Covering Spread: -3.1%
 
 ### Moneyline
-- **CSU Northridge Matadors Win Probability**: 75.2%, Moneyline Edge: -2.5%
-- **CSU Bakersfield Roadrunners Win Probability**: 24.8%, Moneyline Edge: -1.9%
+- **CSU Northridge Matadors Win Probability**: 75.8%, Moneyline Edge: -3.1%
+- **CSU Bakersfield Roadrunners Win Probability**: 24.2%, Moneyline Edge: -1.3%
 
 ### Total
-- **Predicted Total**: 164.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- **Predicted Total**: 164.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -1.3%
 
 ---
 

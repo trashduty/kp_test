@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Western Kentucky Hilltoppers -1.5</p>
-  <p><strong>Moneyline:</strong> Western Kentucky Hilltoppers (-127) | Missouri St Bears (+107)</p>
+  <p><strong>Moneyline:</strong> Western Kentucky Hilltoppers (-127) | Missouri St Bears (+105)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Missouri St Bears**: 1.5, Edge For Covering Spread: -0.2%
 
 ### Moneyline
-- **Western Kentucky Hilltoppers Win Probability**: 53.9%, Moneyline Edge: -2.2%
-- **Missouri St Bears Win Probability**: 46.1%, Moneyline Edge: -2.1%
+- **Western Kentucky Hilltoppers Win Probability**: 53.7%, Moneyline Edge: -2.3%
+- **Missouri St Bears Win Probability**: 46.3%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 149.5
-- Edge For Covering The Over: -5.2%
-- Edge For Covering The Under: **0.5%**
+- Edge For Covering The Over: -4.6%
+- Edge For Covering The Under: -0.1%
 
 ---
 

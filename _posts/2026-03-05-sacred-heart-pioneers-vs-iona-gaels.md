@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Iona Gaels -2.5</p>
-  <p><strong>Moneyline:</strong> Sacred Heart Pioneers (+130) | Iona Gaels (-155)</p>
+  <p><strong>Spread:</strong> Iona Gaels -3.5</p>
+  <p><strong>Moneyline:</strong> Sacred Heart Pioneers (+135) | Iona Gaels (-155)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Sacred Heart Pioneers**: 2.5, Edge For Covering Spread: -2.8%
-- **Iona Gaels**: -2.5, Edge For Covering Spread: -1.9%
+- **Sacred Heart Pioneers**: 3.5, Edge For Covering Spread: -2.4%
+- **Iona Gaels**: -3.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Sacred Heart Pioneers Win Probability**: 40.4%, Moneyline Edge: -3.1%
-- **Iona Gaels Win Probability**: 59.6%, Moneyline Edge: -1.1%
+- **Sacred Heart Pioneers Win Probability**: 40.1%, Moneyline Edge: -2.5%
+- **Iona Gaels Win Probability**: 59.9%, Moneyline Edge: -0.9%
 
 ### Total
-- **Predicted Total**: 150.0
-- Edge For Covering The Over: **1.9%**
-- Edge For Covering The Under: -6.6%
+- **Predicted Total**: 150.5
+- Edge For Covering The Over: **0.7%**
+- Edge For Covering The Under: -5.5%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Iona Gaels (18-13) hosts Sacred Heart Pioneers (13-18) at Hynes Athletics Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Iona Gaels favored by 2.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Iona Gaels (18-13) hosts Sacred Heart Pioneers (13-18) at Hynes Athletics Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Iona Gaels favored by 3.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Iona Gaels's 2.5-point cushion reflects home court advantage more than a talent gap. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.5-point spread indicates Iona Gaels is viewed as the better team, but this isn't an overwhelming edge. Sacred Heart Pioneers has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Sacred Heart Pioneers** bring an offensive efficiency of 108.07 (ranked #181 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 36.0% three-point shooting is serviceable but won't scare anyone. 

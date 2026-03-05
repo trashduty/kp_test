@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Hawai'i Rainbow Warriors -11.5</p>
-  <p><strong>Moneyline:</strong> UC Riverside Highlanders (+508) | Hawai'i Rainbow Warriors (-733)</p>
+  <p><strong>Spread:</strong> Hawai'i Rainbow Warriors -11.0</p>
+  <p><strong>Moneyline:</strong> UC Riverside Highlanders (+487) | Hawai'i Rainbow Warriors (-724)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UC Riverside Highlanders**: 11.5, Edge For Covering Spread: -3.8%
-- **Hawai'i Rainbow Warriors**: -11.5, Edge For Covering Spread: -1.0%
+- **UC Riverside Highlanders**: 11.0, Edge For Covering Spread: -4.4%
+- **Hawai'i Rainbow Warriors**: -11.0, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **UC Riverside Highlanders Win Probability**: 13.9%, Moneyline Edge: -2.6%
-- **Hawai'i Rainbow Warriors Win Probability**: 86.1%, Moneyline Edge: -1.9%
+- **UC Riverside Highlanders Win Probability**: 14.1%, Moneyline Edge: -2.9%
+- **Hawai'i Rainbow Warriors Win Probability**: 85.9%, Moneyline Edge: -2.0%
 
 ### Total
 - **Predicted Total**: 147.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Hawai'i Rainbow Warriors (21-7) hosts UC Riverside Highlanders (10-21) at Stan Sheriff Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Hawai'i Rainbow Warriors favored by 11.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Hawai'i Rainbow Warriors (21-7) hosts UC Riverside Highlanders (10-21) at Stan Sheriff Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Hawai'i Rainbow Warriors favored by 11.0 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us Hawai'i Rainbow Warriors has clear advantages, but games aren't played on paper. UC Riverside Highlanders needs to punch above their weight class to keep this close. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 11.0 points tells us Hawai'i Rainbow Warriors has clear advantages, but games aren't played on paper. UC Riverside Highlanders needs to punch above their weight class to keep this close. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **UC Riverside Highlanders** bring an offensive efficiency of 100.73 (ranked #318 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.3% from three, they can't rely on the arc. Expect a paint-focused attack. 

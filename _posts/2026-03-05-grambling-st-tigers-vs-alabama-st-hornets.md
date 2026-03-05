@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama St Hornets -3.5</p>
-  <p><strong>Moneyline:</strong> Grambling St Tigers (+141) | Alabama St Hornets (-170)</p>
+  <p><strong>Moneyline:</strong> Grambling St Tigers (+140) | Alabama St Hornets (-170)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Grambling St Tigers**: 3.5, Edge For Covering Spread: -2.9%
-- **Alabama St Hornets**: -3.5, Edge For Covering Spread: -1.8%
+- **Grambling St Tigers**: 3.5, Edge For Covering Spread: -3.4%
+- **Alabama St Hornets**: -3.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **Grambling St Tigers Win Probability**: 39.5%, Moneyline Edge: -2.0%
-- **Alabama St Hornets Win Probability**: 60.5%, Moneyline Edge: -2.4%
+- **Grambling St Tigers Win Probability**: 39.5%, Moneyline Edge: -2.1%
+- **Alabama St Hornets Win Probability**: 60.5%, Moneyline Edge: -2.5%
 
 ### Total
-- **Predicted Total**: 142.0
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -0.6%
+- **Predicted Total**: 141.5
+- Edge For Covering The Over: -5.0%
+- Edge For Covering The Under: -0.0%
 
 ---
 

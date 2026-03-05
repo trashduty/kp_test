@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UC Irvine Anteaters -9.5</p>
-  <p><strong>Moneyline:</strong> Cal Poly Mustangs (+372) | UC Irvine Anteaters (-497)</p>
+  <p><strong>Moneyline:</strong> Cal Poly Mustangs (+360) | UC Irvine Anteaters (-480)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Cal Poly Mustangs**: 9.5, Edge For Covering Spread: -4.4%
-- **UC Irvine Anteaters**: -9.5, Edge For Covering Spread: -0.3%
+- **Cal Poly Mustangs**: 9.5, Edge For Covering Spread: -4.0%
+- **UC Irvine Anteaters**: -9.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Cal Poly Mustangs Win Probability**: 17.6%, Moneyline Edge: -3.5%
-- **UC Irvine Anteaters Win Probability**: 82.4%, Moneyline Edge: -0.9%
+- **Cal Poly Mustangs Win Probability**: 17.9%, Moneyline Edge: -3.8%
+- **UC Irvine Anteaters Win Probability**: 82.1%, Moneyline Edge: -0.7%
 
 ### Total
 - **Predicted Total**: 154.0

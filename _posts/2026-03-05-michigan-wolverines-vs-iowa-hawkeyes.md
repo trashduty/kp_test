@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Michigan Wolverines -8.5</p>
-  <p><strong>Moneyline:</strong> Michigan Wolverines (-444) | Iowa Hawkeyes (+340)</p>
+  <p><strong>Spread:</strong> Michigan Wolverines -9.5</p>
+  <p><strong>Moneyline:</strong> Michigan Wolverines (-460) | Iowa Hawkeyes (+345)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan Wolverines**: -8.5, Edge For Covering Spread: -2.6%
-- **Iowa Hawkeyes**: 8.5, Edge For Covering Spread: -2.2%
+- **Michigan Wolverines**: -9.5, Edge For Covering Spread: -2.5%
+- **Iowa Hawkeyes**: 9.5, Edge For Covering Spread: -2.3%
 
 ### Moneyline
-- **Michigan Wolverines Win Probability**: 78.1%, Moneyline Edge: -3.5%
-- **Iowa Hawkeyes Win Probability**: 21.9%, Moneyline Edge: -0.8%
+- **Michigan Wolverines Win Probability**: 78.3%, Moneyline Edge: -3.9%
+- **Iowa Hawkeyes Win Probability**: 21.7%, Moneyline Edge: -0.7%
 
 ### Total
 - **Predicted Total**: 146.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Michigan Wolverines (27-2) enters hostile territory as they take on Iowa Hawkeyes (20-9) at Carver Hawkeye Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Michigan Wolverines favored by 8.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Michigan Wolverines (27-2) enters hostile territory as they take on Iowa Hawkeyes (20-9) at Carver Hawkeye Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Michigan Wolverines favored by 9.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Michigan Wolverines has clear advantages, but games aren't played on paper. Iowa Hawkeyes needs to punch above their weight class to keep this close. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 9.5 points tells us Michigan Wolverines has clear advantages, but games aren't played on paper. Iowa Hawkeyes needs to punch above their weight class to keep this close. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Michigan Wolverines** bring an offensive efficiency of 122.81 (ranked #5 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.0% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Bethune-Cookman Wildcats -2.5</p>
-  <p><strong>Moneyline:</strong> Bethune-Cookman Wildcats (-140) | Florida A&M Rattlers (+117)</p>
+  <p><strong>Moneyline:</strong> Bethune-Cookman Wildcats (-143) | Florida A&M Rattlers (+120)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Florida A&M Rattlers**: 2.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Bethune-Cookman Wildcats Win Probability**: 58.0%, Moneyline Edge: -0.4%
-- **Florida A&M Rattlers Win Probability**: 42.0%, Moneyline Edge: -3.9%
+- **Bethune-Cookman Wildcats Win Probability**: 58.2%, Moneyline Edge: -0.7%
+- **Florida A&M Rattlers Win Probability**: 41.8%, Moneyline Edge: -3.7%
 
 ### Total
 - **Predicted Total**: 144.5

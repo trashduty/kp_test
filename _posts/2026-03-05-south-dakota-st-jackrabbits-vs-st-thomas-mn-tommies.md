@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> St. Thomas (MN) Tommies -5.5</p>
-  <p><strong>Moneyline:</strong> South Dakota St Jackrabbits (+232) | St. Thomas (MN) Tommies (-285)</p>
+  <p><strong>Spread:</strong> St. Thomas (MN) Tommies -6.5</p>
+  <p><strong>Moneyline:</strong> South Dakota St Jackrabbits (+215) | St. Thomas (MN) Tommies (-262)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Dakota St Jackrabbits**: 5.5, Edge For Covering Spread: -2.8%
-- **St. Thomas (MN) Tommies**: -5.5, Edge For Covering Spread: -1.9%
+- **South Dakota St Jackrabbits**: 6.5, Edge For Covering Spread: -4.2%
+- **St. Thomas (MN) Tommies**: -6.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **South Dakota St Jackrabbits Win Probability**: 26.9%, Moneyline Edge: -3.1%
-- **St. Thomas (MN) Tommies Win Probability**: 73.1%, Moneyline Edge: -1.0%
+- **South Dakota St Jackrabbits Win Probability**: 27.7%, Moneyline Edge: -4.0%
+- **St. Thomas (MN) Tommies Win Probability**: 72.3%, Moneyline Edge: -0.2%
 
 ### Total
-- **Predicted Total**: 151.0
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 150.0
+- Edge For Covering The Over: -1.0%
+- Edge For Covering The Under: -3.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-St. Thomas (MN) Tommies (23-8) hosts South Dakota St Jackrabbits (14-17) at Anderson Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into St. Thomas (MN) Tommies favored by 5.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+St. Thomas (MN) Tommies (23-8) hosts South Dakota St Jackrabbits (14-17) at Anderson Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into St. Thomas (MN) Tommies favored by 6.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates St. Thomas (MN) Tommies is viewed as the better team, but this isn't an overwhelming edge. South Dakota St Jackrabbits has a legitimate path to covering or winning outright. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 6.5-point spread indicates St. Thomas (MN) Tommies is viewed as the better team, but this isn't an overwhelming edge. South Dakota St Jackrabbits has a legitimate path to covering or winning outright. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **South Dakota St Jackrabbits** bring an offensive efficiency of 109.37 (ranked #157 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.6% three-point shooting is serviceable but won't scare anyone. 

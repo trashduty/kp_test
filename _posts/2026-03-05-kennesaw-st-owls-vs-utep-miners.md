@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kennesaw St Owls -2.5</p>
-  <p><strong>Moneyline:</strong> Kennesaw St Owls (-150) | UTEP Miners (+127)</p>
+  <p><strong>Moneyline:</strong> Kennesaw St Owls (-147) | UTEP Miners (+124)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **UTEP Miners**: 2.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Kennesaw St Owls Win Probability**: 58.9%, Moneyline Edge: -1.1%
-- **UTEP Miners Win Probability**: 41.1%, Moneyline Edge: -2.8%
+- **Kennesaw St Owls Win Probability**: 58.6%, Moneyline Edge: -0.9%
+- **UTEP Miners Win Probability**: 41.4%, Moneyline Edge: -3.1%
 
 ### Total
 - **Predicted Total**: 148.5

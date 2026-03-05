@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tarleton State Texans -1.5</p>
-  <p><strong>Moneyline:</strong> UT-Arlington Mavericks (+110) | Tarleton State Texans (-133)</p>
+  <p><strong>Moneyline:</strong> UT-Arlington Mavericks (+110) | Tarleton State Texans (-130)</p>
   <p><strong>Total:</strong> 136.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Tarleton State Texans**: -1.5, Edge For Covering Spread: -3.7%
 
 ### Moneyline
-- **UT-Arlington Mavericks Win Probability**: 44.5%, Moneyline Edge: -3.2%
-- **Tarleton State Texans Win Probability**: 55.5%, Moneyline Edge: -1.6%
+- **UT-Arlington Mavericks Win Probability**: 44.6%, Moneyline Edge: -3.0%
+- **Tarleton State Texans Win Probability**: 55.4%, Moneyline Edge: -1.1%
 
 ### Total
 - **Predicted Total**: 136.0
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -1.3%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.5%
 
 ---
 

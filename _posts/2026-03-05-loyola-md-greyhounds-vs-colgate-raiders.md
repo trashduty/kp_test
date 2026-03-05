@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Colgate Raiders -6.5</p>
-  <p><strong>Moneyline:</strong> Loyola (MD) Greyhounds (+220) | Colgate Raiders (-272)</p>
+  <p><strong>Moneyline:</strong> Loyola (MD) Greyhounds (+235) | Colgate Raiders (-300)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Loyola (MD) Greyhounds**: 6.5, Edge For Covering Spread: -1.5%
-- **Colgate Raiders**: -6.5, Edge For Covering Spread: -3.3%
+- **Loyola (MD) Greyhounds**: 6.5, Edge For Covering Spread: -1.2%
+- **Colgate Raiders**: -6.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Loyola (MD) Greyhounds Win Probability**: 28.0%, Moneyline Edge: -3.3%
-- **Colgate Raiders Win Probability**: 72.0%, Moneyline Edge: -1.1%
+- **Loyola (MD) Greyhounds Win Probability**: 27.2%, Moneyline Edge: -2.6%
+- **Colgate Raiders Win Probability**: 72.8%, Moneyline Edge: -2.2%
 
 ### Total
 - **Predicted Total**: 151.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -2.4%
 
 ---
 

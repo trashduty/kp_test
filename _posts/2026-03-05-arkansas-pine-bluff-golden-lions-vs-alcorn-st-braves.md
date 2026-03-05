@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arkansas-Pine Bluff Golden Lions -1.5</p>
-  <p><strong>Moneyline:</strong> Arkansas-Pine Bluff Golden Lions (-132) | Alcorn St Braves (+110)</p>
+  <p><strong>Moneyline:</strong> Arkansas-Pine Bluff Golden Lions (-129) | Alcorn St Braves (+107)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arkansas-Pine Bluff Golden Lions**: -1.5, Edge For Covering Spread: -4.2%
-- **Alcorn St Braves**: 1.5, Edge For Covering Spread: -0.5%
+- **Arkansas-Pine Bluff Golden Lions**: -1.5, Edge For Covering Spread: -4.4%
+- **Alcorn St Braves**: 1.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **Arkansas-Pine Bluff Golden Lions Win Probability**: 52.7%, Moneyline Edge: -4.2%
-- **Alcorn St Braves Win Probability**: 47.3%, Moneyline Edge: -0.4%
+- **Arkansas-Pine Bluff Golden Lions Win Probability**: 52.4%, Moneyline Edge: -3.9%
+- **Alcorn St Braves Win Probability**: 47.6%, Moneyline Edge: -0.6%
 
 ### Total
-- **Predicted Total**: 150.5
-- Edge For Covering The Over: -0.4%
-- Edge For Covering The Under: -4.3%
+- **Predicted Total**: 150.0
+- Edge For Covering The Over: -0.6%
+- Edge For Covering The Under: -4.4%
 
 ---
 
