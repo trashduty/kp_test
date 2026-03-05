@@ -4442,5 +4442,17 @@
   "Maryland-Eastern Shore Hawks vs. Delaware St Hornets|under": {
     "captured_at": "2026-03-05T06:22:14.689682+00:00",
     "edge_type": "under"
+  },
+  "Harvard Crimson vs. Columbia Lions|under": {
+    "captured_at": "2026-03-05T23:28:11.711389+00:00",
+    "edge_type": "under"
+  },
+  "UNC Greensboro Spartans vs. VMI Keydets|UNC Greensboro Spartans|moneyline": {
+    "captured_at": "2026-03-05T23:28:11.711882+00:00",
+    "edge_type": "moneyline"
+  },
+  "Radford Highlanders vs. Presbyterian Blue Hose|Radford Highlanders|moneyline": {
+    "captured_at": "2026-03-05T23:28:11.712351+00:00",
+    "edge_type": "moneyline"
   }
 }
