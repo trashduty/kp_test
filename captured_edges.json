@@ -4422,5 +4422,21 @@
   "Missouri St Bears vs. Western Kentucky Hilltoppers|under": {
     "captured_at": "2026-03-05T01:38:47.393547+00:00",
     "edge_type": "under"
+  },
+  "Texas Southern Tigers vs. Prairie View Panthers|Texas Southern Tigers|moneyline": {
+    "captured_at": "2026-03-05T04:38:03.516697+00:00",
+    "edge_type": "moneyline"
+  },
+  "Morgan St Bears vs. Coppin St Eagles|Morgan St Bears|spread": {
+    "captured_at": "2026-03-05T04:38:03.517102+00:00",
+    "edge_type": "spread"
+  },
+  "Morgan St Bears vs. Coppin St Eagles|Morgan St Bears|moneyline": {
+    "captured_at": "2026-03-05T04:38:03.517137+00:00",
+    "edge_type": "moneyline"
+  },
+  "Portland Pilots vs. Pepperdine Waves|Portland Pilots|moneyline": {
+    "captured_at": "2026-03-05T04:38:03.518085+00:00",
+    "edge_type": "moneyline"
   }
 }
