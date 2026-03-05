@@ -4438,5 +4438,9 @@
   "Portland Pilots vs. Pepperdine Waves|Portland Pilots|moneyline": {
     "captured_at": "2026-03-05T04:38:03.518085+00:00",
     "edge_type": "moneyline"
+  },
+  "Maryland-Eastern Shore Hawks vs. Delaware St Hornets|under": {
+    "captured_at": "2026-03-05T06:22:14.689682+00:00",
+    "edge_type": "under"
   }
 }
