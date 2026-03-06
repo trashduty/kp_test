@@ -4454,5 +4454,21 @@
   "Radford Highlanders vs. Presbyterian Blue Hose|Radford Highlanders|moneyline": {
     "captured_at": "2026-03-05T23:28:11.712351+00:00",
     "edge_type": "moneyline"
+  },
+  "Winthrop Eagles vs. Charleston Southern Buccaneers|Winthrop Eagles|moneyline": {
+    "captured_at": "2026-03-06T01:38:22.705681+00:00",
+    "edge_type": "moneyline"
+  },
+  "Murray St Racers vs. UIC Flames|over": {
+    "captured_at": "2026-03-06T01:38:22.705913+00:00",
+    "edge_type": "over"
+  },
+  "Chattanooga Mocs vs. The Citadel Bulldogs|under": {
+    "captured_at": "2026-03-06T01:38:22.706076+00:00",
+    "edge_type": "under"
+  },
+  "Eastern Michigan Eagles vs. Bowling Green Falcons|Eastern Michigan Eagles|spread": {
+    "captured_at": "2026-03-06T01:38:22.706648+00:00",
+    "edge_type": "spread"
   }
 }
