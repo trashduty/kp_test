@@ -4498,5 +4498,21 @@
   "Alabama Crimson Tide vs. Auburn Tigers|Alabama Crimson Tide|moneyline": {
     "captured_at": "2026-03-06T19:17:45.958014+00:00",
     "edge_type": "moneyline"
+  },
+  "NC State Wolfpack vs. Stanford Cardinal|NC State Wolfpack|moneyline": {
+    "captured_at": "2026-03-06T20:11:49.144961+00:00",
+    "edge_type": "moneyline"
+  },
+  "Mississippi St Bulldogs vs. Georgia Bulldogs|Georgia Bulldogs|spread": {
+    "captured_at": "2026-03-06T20:11:49.145055+00:00",
+    "edge_type": "spread"
+  },
+  "Mississippi St Bulldogs vs. Georgia Bulldogs|Georgia Bulldogs|moneyline": {
+    "captured_at": "2026-03-06T20:11:49.145091+00:00",
+    "edge_type": "moneyline"
+  },
+  "Georgetown Hoyas vs. Providence Friars|Georgetown Hoyas|spread": {
+    "captured_at": "2026-03-06T20:11:49.146089+00:00",
+    "edge_type": "spread"
   }
 }
