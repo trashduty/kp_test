@@ -4474,5 +4474,17 @@
   "Merrimack Warriors vs. Sacred Heart Pioneers|Sacred Heart Pioneers|spread": {
     "captured_at": "2026-03-06T03:03:18.608259+00:00",
     "edge_type": "spread"
+  },
+  "Bradley Braves vs. Valparaiso Beacons|over": {
+    "captured_at": "2026-03-06T12:16:18.667390+00:00",
+    "edge_type": "over"
+  },
+  "Washington St Cougars vs. Portland Pilots|Washington St Cougars|moneyline": {
+    "captured_at": "2026-03-06T12:16:18.668913+00:00",
+    "edge_type": "moneyline"
+  },
+  "Morehead St Eagles vs. SE Missouri St Redhawks|SE Missouri St Redhawks|moneyline": {
+    "captured_at": "2026-03-06T12:16:18.669606+00:00",
+    "edge_type": "moneyline"
   }
 }
