@@ -4470,5 +4470,9 @@
   "Eastern Michigan Eagles vs. Bowling Green Falcons|Eastern Michigan Eagles|spread": {
     "captured_at": "2026-03-06T01:38:22.706648+00:00",
     "edge_type": "spread"
+  },
+  "Merrimack Warriors vs. Sacred Heart Pioneers|Sacred Heart Pioneers|spread": {
+    "captured_at": "2026-03-06T03:03:18.608259+00:00",
+    "edge_type": "spread"
   }
 }
