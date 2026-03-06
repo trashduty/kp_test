@@ -4490,5 +4490,13 @@
   "Illinois St Redbirds vs. Northern Iowa Panthers|over": {
     "captured_at": "2026-03-06T14:16:57.936059+00:00",
     "edge_type": "over"
+  },
+  "Purdue Boilermakers vs. Wisconsin Badgers|Purdue Boilermakers|moneyline": {
+    "captured_at": "2026-03-06T19:17:45.957605+00:00",
+    "edge_type": "moneyline"
+  },
+  "Alabama Crimson Tide vs. Auburn Tigers|Alabama Crimson Tide|moneyline": {
+    "captured_at": "2026-03-06T19:17:45.958014+00:00",
+    "edge_type": "moneyline"
   }
 }
