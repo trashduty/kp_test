@@ -4514,5 +4514,37 @@
   "Georgetown Hoyas vs. Providence Friars|Georgetown Hoyas|spread": {
     "captured_at": "2026-03-06T20:11:49.146089+00:00",
     "edge_type": "spread"
+  },
+  "Saint Joseph's Hawks vs. La Salle Explorers|under": {
+    "captured_at": "2026-03-06T23:10:51.773089+00:00",
+    "edge_type": "under"
+  },
+  "Florida St Seminoles vs. SMU Mustangs|SMU Mustangs|moneyline": {
+    "captured_at": "2026-03-06T23:10:51.773494+00:00",
+    "edge_type": "moneyline"
+  },
+  "Florida St Seminoles vs. SMU Mustangs|over": {
+    "captured_at": "2026-03-06T23:10:51.773536+00:00",
+    "edge_type": "over"
+  },
+  "Liberty Flames vs. Sam Houston St Bearkats|Sam Houston St Bearkats|spread": {
+    "captured_at": "2026-03-06T23:10:51.774504+00:00",
+    "edge_type": "spread"
+  },
+  "USC Trojans vs. UCLA Bruins|USC Trojans|spread": {
+    "captured_at": "2026-03-06T23:10:51.777312+00:00",
+    "edge_type": "spread"
+  },
+  "Delaware Blue Hens vs. Louisiana Tech Bulldogs|Delaware Blue Hens|spread": {
+    "captured_at": "2026-03-06T23:10:51.777998+00:00",
+    "edge_type": "spread"
+  },
+  "Delaware Blue Hens vs. Louisiana Tech Bulldogs|under": {
+    "captured_at": "2026-03-06T23:10:51.778043+00:00",
+    "edge_type": "under"
+  },
+  "St. Bonaventure Bonnies vs. Davidson Wildcats|Davidson Wildcats|spread": {
+    "captured_at": "2026-03-06T23:10:51.778315+00:00",
+    "edge_type": "spread"
   }
 }
