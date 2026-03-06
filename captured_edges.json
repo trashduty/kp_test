@@ -4486,5 +4486,9 @@
   "Morehead St Eagles vs. SE Missouri St Redhawks|SE Missouri St Redhawks|moneyline": {
     "captured_at": "2026-03-06T12:16:18.669606+00:00",
     "edge_type": "moneyline"
+  },
+  "Illinois St Redbirds vs. Northern Iowa Panthers|over": {
+    "captured_at": "2026-03-06T14:16:57.936059+00:00",
+    "edge_type": "over"
   }
 }
