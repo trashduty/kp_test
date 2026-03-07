@@ -4594,5 +4594,13 @@
   "CSU Northridge Matadors vs. CSU Fullerton Titans|CSU Northridge Matadors|moneyline": {
     "captured_at": "2026-03-07T01:37:55.974487+00:00",
     "edge_type": "moneyline"
+  },
+  "Drexel Dragons vs. Northeastern Huskies|Drexel Dragons|moneyline": {
+    "captured_at": "2026-03-07T03:45:28.580719+00:00",
+    "edge_type": "moneyline"
+  },
+  "Central Arkansas Bears vs. Florida Gulf Coast Eagles|Florida Gulf Coast Eagles|spread": {
+    "captured_at": "2026-03-07T03:45:28.582793+00:00",
+    "edge_type": "spread"
   }
 }
