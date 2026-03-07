@@ -4622,5 +4622,9 @@
   "Pacific Tigers vs. Seattle Redhawks|Seattle Redhawks|spread": {
     "captured_at": "2026-03-07T12:12:44.696971+00:00",
     "edge_type": "spread"
+  },
+  "Austin Peay Governors vs. Queens University Royals|Austin Peay Governors|moneyline": {
+    "captured_at": "2026-03-07T13:19:31.670396+00:00",
+    "edge_type": "moneyline"
   }
 }
