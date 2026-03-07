@@ -4602,5 +4602,25 @@
   "Central Arkansas Bears vs. Florida Gulf Coast Eagles|Florida Gulf Coast Eagles|spread": {
     "captured_at": "2026-03-07T03:45:28.582793+00:00",
     "edge_type": "spread"
+  },
+  "North Dakota St Bison vs. Omaha Mavericks|over": {
+    "captured_at": "2026-03-07T12:12:44.694206+00:00",
+    "edge_type": "over"
+  },
+  "Tennessee St Tigers vs. Morehead St Eagles|Tennessee St Tigers|moneyline": {
+    "captured_at": "2026-03-07T12:12:44.695211+00:00",
+    "edge_type": "moneyline"
+  },
+  "San Francisco Dons vs. Portland Pilots|San Francisco Dons|spread": {
+    "captured_at": "2026-03-07T12:12:44.695591+00:00",
+    "edge_type": "spread"
+  },
+  "San Francisco Dons vs. Portland Pilots|San Francisco Dons|moneyline": {
+    "captured_at": "2026-03-07T12:12:44.695628+00:00",
+    "edge_type": "moneyline"
+  },
+  "Pacific Tigers vs. Seattle Redhawks|Seattle Redhawks|spread": {
+    "captured_at": "2026-03-07T12:12:44.696971+00:00",
+    "edge_type": "spread"
   }
 }
