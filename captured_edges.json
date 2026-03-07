@@ -4546,5 +4546,45 @@
   "St. Bonaventure Bonnies vs. Davidson Wildcats|Davidson Wildcats|spread": {
     "captured_at": "2026-03-06T23:10:51.778315+00:00",
     "edge_type": "spread"
+  },
+  "UMBC Retrievers vs. New Hampshire Wildcats|UMBC Retrievers|spread": {
+    "captured_at": "2026-03-07T00:36:46.913579+00:00",
+    "edge_type": "spread"
+  },
+  "UMBC Retrievers vs. New Hampshire Wildcats|under": {
+    "captured_at": "2026-03-07T00:36:46.913636+00:00",
+    "edge_type": "under"
+  },
+  "Fordham Rams vs. Rhode Island Rams|under": {
+    "captured_at": "2026-03-07T00:36:46.914317+00:00",
+    "edge_type": "under"
+  },
+  "UTEP Miners vs. Jacksonville St Gamecocks|under": {
+    "captured_at": "2026-03-07T00:36:46.916338+00:00",
+    "edge_type": "under"
+  },
+  "San Jos\u00e9 St Spartans vs. Wyoming Cowboys|San Jos\u00e9 St Spartans|spread": {
+    "captured_at": "2026-03-07T00:36:46.918106+00:00",
+    "edge_type": "spread"
+  },
+  "Quinnipiac Bobcats vs. Marist Red Foxes|over": {
+    "captured_at": "2026-03-07T00:36:46.918482+00:00",
+    "edge_type": "over"
+  },
+  "Abilene Christian Wildcats vs. UT-Arlington Mavericks|UT-Arlington Mavericks|spread": {
+    "captured_at": "2026-03-07T00:36:46.919164+00:00",
+    "edge_type": "spread"
+  },
+  "Grand Canyon Antelopes vs. Fresno St Bulldogs|Fresno St Bulldogs|spread": {
+    "captured_at": "2026-03-07T00:36:46.919671+00:00",
+    "edge_type": "spread"
+  },
+  "Siena Saints vs. Mt. St. Mary's Mountaineers|Mt. St. Mary's Mountaineers|spread": {
+    "captured_at": "2026-03-07T00:36:46.920651+00:00",
+    "edge_type": "spread"
+  },
+  "Mercyhurst Lakers vs. Stonehill Skyhawks|under": {
+    "captured_at": "2026-03-07T00:36:46.921985+00:00",
+    "edge_type": "under"
   }
 }
