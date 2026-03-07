@@ -4634,5 +4634,9 @@
   "Maryland Terrapins vs. Illinois Fighting Illini|Illinois Fighting Illini|spread": {
     "captured_at": "2026-03-07T21:07:06.003523+00:00",
     "edge_type": "spread"
+  },
+  "Green Bay Phoenix vs. Northern Kentucky Norse|Green Bay Phoenix|spread": {
+    "captured_at": "2026-03-07T22:07:40.881411+00:00",
+    "edge_type": "spread"
   }
 }
