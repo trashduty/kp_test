@@ -4586,5 +4586,13 @@
   "Mercyhurst Lakers vs. Stonehill Skyhawks|under": {
     "captured_at": "2026-03-07T00:36:46.921985+00:00",
     "edge_type": "under"
+  },
+  "Quinnipiac Bobcats vs. Marist Red Foxes|Marist Red Foxes|moneyline": {
+    "captured_at": "2026-03-07T01:37:55.973261+00:00",
+    "edge_type": "moneyline"
+  },
+  "CSU Northridge Matadors vs. CSU Fullerton Titans|CSU Northridge Matadors|moneyline": {
+    "captured_at": "2026-03-07T01:37:55.974487+00:00",
+    "edge_type": "moneyline"
   }
 }
