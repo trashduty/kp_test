@@ -4654,5 +4654,13 @@
   "Monmouth Hawks vs. Drexel Dragons|Monmouth Hawks|spread": {
     "captured_at": "2026-03-08T04:36:58.072294+00:00",
     "edge_type": "spread"
+  },
+  "East Tennessee St Buccaneers vs. Western Carolina Catamounts|East Tennessee St Buccaneers|spread": {
+    "captured_at": "2026-03-08T10:08:27.874012+00:00",
+    "edge_type": "spread"
+  },
+  "East Tennessee St Buccaneers vs. Western Carolina Catamounts|East Tennessee St Buccaneers|moneyline": {
+    "captured_at": "2026-03-08T10:08:27.874056+00:00",
+    "edge_type": "moneyline"
   }
 }
