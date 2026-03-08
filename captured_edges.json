@@ -4642,5 +4642,13 @@
   "Lehigh Mountain Hawks vs. Colgate Raiders|Lehigh Mountain Hawks|spread": {
     "captured_at": "2026-03-07T23:07:45.892004+00:00",
     "edge_type": "spread"
+  },
+  "Monmouth Hawks vs. Drexel Dragons|under": {
+    "captured_at": "2026-03-08T03:05:36.246636+00:00",
+    "edge_type": "under"
+  },
+  "UIC Flames vs. Northern Iowa Panthers|over": {
+    "captured_at": "2026-03-08T03:05:36.248051+00:00",
+    "edge_type": "over"
   }
 }
