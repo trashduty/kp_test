@@ -4662,5 +4662,9 @@
   "East Tennessee St Buccaneers vs. Western Carolina Catamounts|East Tennessee St Buccaneers|moneyline": {
     "captured_at": "2026-03-08T10:08:27.874056+00:00",
     "edge_type": "moneyline"
+  },
+  "Central Arkansas Bears vs. Queens University Royals|over": {
+    "captured_at": "2026-03-08T13:19:56.247255+00:00",
+    "edge_type": "over"
   }
 }
