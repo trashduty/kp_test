@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Northern Iowa Panthers -2.5</p>
-  <p><strong>Moneyline:</strong> Northern Iowa Panthers (-146) | UIC Flames (+122)</p>
+  <p><strong>Spread:</strong> Northern Iowa Panthers -3.5</p>
+  <p><strong>Moneyline:</strong> Northern Iowa Panthers (-167) | UIC Flames (+140)</p>
   <p><strong>Total:</strong> 124.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northern Iowa Panthers**: -2.5, Edge For Covering Spread: -2.9%
-- **UIC Flames**: 2.5, Edge For Covering Spread: -1.8%
+- **Northern Iowa Panthers**: -3.5, Edge For Covering Spread: -4.1%
+- **UIC Flames**: 3.5, Edge For Covering Spread: -0.6%
 
 ### Moneyline
-- **Northern Iowa Panthers Win Probability**: 59.0%, Moneyline Edge: -0.3%
-- **UIC Flames Win Probability**: 41.0%, Moneyline Edge: -4.0%
+- **Northern Iowa Panthers Win Probability**: 60.1%, Moneyline Edge: -2.5%
+- **UIC Flames Win Probability**: 39.9%, Moneyline Edge: -1.8%
 
 ### Total
-- **Predicted Total**: 125.5
-- Edge For Covering The Over: -1.2%
-- Edge For Covering The Under: -3.5%
+- **Predicted Total**: 124.5
+- Edge For Covering The Over: -0.6%
+- Edge For Covering The Under: -4.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Northern Iowa Panthers (22-12) travels to face UIC Flames (19-14) at Credit Union 1 Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Northern Iowa Panthers favored by 2.5 points, with the total sitting at 124.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Northern Iowa Panthers (22-12) travels to face UIC Flames (19-14) at Credit Union 1 Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Northern Iowa Panthers favored by 3.5 points, with the total sitting at 124.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Northern Iowa Panthers's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 124.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+The 3.5-point spread indicates Northern Iowa Panthers is viewed as the better team, but this isn't an overwhelming edge. UIC Flames has a legitimate path to covering or winning outright. The total of 124.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **Northern Iowa Panthers** bring an offensive efficiency of 107.03 (ranked #211 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.4% three-point shooting is serviceable but won't scare anyone. 

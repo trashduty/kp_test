@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Northern Kentucky Norse -2.5</p>
-  <p><strong>Moneyline:</strong> Northern Kentucky Norse (-145) | Green Bay Phoenix (+122)</p>
+  <p><strong>Moneyline:</strong> Northern Kentucky Norse (-146) | Green Bay Phoenix (+124)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northern Kentucky Norse**: -2.5, Edge For Covering Spread: -6.3%
-- **Green Bay Phoenix**: 2.5, Edge For Covering Spread: **1.6%**
+- **Northern Kentucky Norse**: -2.5, Edge For Covering Spread: -6.5%
+- **Green Bay Phoenix**: 2.5, Edge For Covering Spread: **1.8%**
 
 ### Moneyline
-- **Northern Kentucky Norse Win Probability**: 55.4%, Moneyline Edge: -3.8%
-- **Green Bay Phoenix Win Probability**: 44.6%, Moneyline Edge: -0.4%
+- **Northern Kentucky Norse Win Probability**: 55.6%, Moneyline Edge: -3.9%
+- **Green Bay Phoenix Win Probability**: 44.4%, Moneyline Edge: -0.1%
 
 ### Total
-- **Predicted Total**: 146.0
-- Edge For Covering The Over: -1.5%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 146.5
+- Edge For Covering The Over: -0.7%
+- Edge For Covering The Under: -4.1%
 
 ---
 

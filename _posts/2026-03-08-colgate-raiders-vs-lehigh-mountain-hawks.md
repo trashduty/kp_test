@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Colgate Raiders -1.5</p>
-  <p><strong>Moneyline:</strong> Colgate Raiders (-120) | Lehigh Mountain Hawks (-100)</p>
+  <p><strong>Moneyline:</strong> Colgate Raiders (-128) | Lehigh Mountain Hawks (+105)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Colgate Raiders**: -1.5, Edge For Covering Spread: -5.6%
-- **Lehigh Mountain Hawks**: 1.5, Edge For Covering Spread: **0.8%**
+- **Colgate Raiders**: -1.5, Edge For Covering Spread: -6.0%
+- **Lehigh Mountain Hawks**: 1.5, Edge For Covering Spread: **1.3%**
 
 ### Moneyline
-- **Colgate Raiders Win Probability**: 49.9%, Moneyline Edge: -4.7%
-- **Lehigh Mountain Hawks Win Probability**: 50.1%, Moneyline Edge: **0.1%**
+- **Colgate Raiders Win Probability**: 50.5%, Moneyline Edge: -5.6%
+- **Lehigh Mountain Hawks Win Probability**: 49.5%, Moneyline Edge: **0.7%**
 
 ### Total
 - **Predicted Total**: 147.0

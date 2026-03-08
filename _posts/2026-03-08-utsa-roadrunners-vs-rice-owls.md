@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Rice Owls -11.5</p>
-  <p><strong>Moneyline:</strong> UTSA Roadrunners (+487) | Rice Owls (-700)</p>
+  <p><strong>Spread:</strong> Rice Owls -12.0</p>
+  <p><strong>Moneyline:</strong> UTSA Roadrunners (+550) | Rice Owls (-800)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UTSA Roadrunners**: 11.5, Edge For Covering Spread: -1.2%
-- **Rice Owls**: -11.5, Edge For Covering Spread: -3.5%
+- **UTSA Roadrunners**: 12.0, Edge For Covering Spread: -3.3%
+- **Rice Owls**: -12.0, Edge For Covering Spread: -1.5%
 
 ### Moneyline
-- **UTSA Roadrunners Win Probability**: 15.5%, Moneyline Edge: -1.5%
-- **Rice Owls Win Probability**: 84.5%, Moneyline Edge: -3.0%
+- **UTSA Roadrunners Win Probability**: 14.7%, Moneyline Edge: -0.7%
+- **Rice Owls Win Probability**: 85.3%, Moneyline Edge: -3.6%
 
 ### Total
 - **Predicted Total**: 149.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Rice Owls (12-18) hosts UTSA Roadrunners (5-24) at Tudor Fieldhouse in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Rice Owls favored by 11.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Rice Owls (12-18) hosts UTSA Roadrunners (5-24) at Tudor Fieldhouse in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Rice Owls favored by 12.0 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us Rice Owls has clear advantages, but games aren't played on paper. UTSA Roadrunners needs to punch above their weight class to keep this close. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 12.0-point spread screams mismatch. The books are asking UTSA Roadrunners to hang within two possessions, which based on the profiles, requires Rice Owls to play below their standard. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **UTSA Roadrunners** bring an offensive efficiency of 96.74 (ranked #346 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.4% from three, they can't rely on the arc. Expect a paint-focused attack. 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Michigan Wolverines -10.5</p>
-  <p><strong>Moneyline:</strong> Michigan St Spartans (+340) | Michigan Wolverines (-442)</p>
+  <p><strong>Spread:</strong> Michigan Wolverines -9.5</p>
+  <p><strong>Moneyline:</strong> Michigan St Spartans (+380) | Michigan Wolverines (-524)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan St Spartans**: 10.5, Edge For Covering Spread: -4.5%
-- **Michigan Wolverines**: -10.5, Edge For Covering Spread: -0.2%
+- **Michigan St Spartans**: 9.5, Edge For Covering Spread: -3.4%
+- **Michigan Wolverines**: -9.5, Edge For Covering Spread: -1.3%
 
 ### Moneyline
-- **Michigan St Spartans Win Probability**: 18.4%, Moneyline Edge: -4.3%
-- **Michigan Wolverines Win Probability**: 81.6%, Moneyline Edge: **0.0%**
+- **Michigan St Spartans Win Probability**: 17.4%, Moneyline Edge: -3.4%
+- **Michigan Wolverines Win Probability**: 82.6%, Moneyline Edge: -1.4%
 
 ### Total
 - **Predicted Total**: 150.0
-- Edge For Covering The Over: -3.1%
+- Edge For Covering The Over: -3.2%
 - Edge For Covering The Under: -1.6%
 
 ---
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Michigan St Spartans (25-5) travels to face Michigan Wolverines (28-2) at Crisler Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Michigan Wolverines favored by 10.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Michigan St Spartans (25-5) travels to face Michigan Wolverines (28-2) at Crisler Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Michigan Wolverines favored by 9.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us Michigan Wolverines has clear advantages, but games aren't played on paper. Michigan St Spartans needs to punch above their weight class to keep this close. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 9.5 points tells us Michigan Wolverines has clear advantages, but games aren't played on paper. Michigan St Spartans needs to punch above their weight class to keep this close. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Michigan St Spartans** bring an offensive efficiency of 117.09 (ranked #47 nationally). This is an elite offense that can score in multiple ways. Their 35.6% three-point shooting is serviceable but won't scare anyone. 

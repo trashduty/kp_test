@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Illinois Fighting Illini -15.5</p>
-  <p><strong>Moneyline:</strong> Illinois Fighting Illini (-1649) | Maryland Terrapins (+895)</p>
+  <p><strong>Moneyline:</strong> Illinois Fighting Illini (-1779) | Maryland Terrapins (+948)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Illinois Fighting Illini**: -15.5, Edge For Covering Spread: **0.6%**
-- **Maryland Terrapins**: 15.5, Edge For Covering Spread: -5.4%
+- **Illinois Fighting Illini**: -15.5, Edge For Covering Spread: **0.2%**
+- **Maryland Terrapins**: 15.5, Edge For Covering Spread: -4.9%
 
 ### Moneyline
-- **Illinois Fighting Illini Win Probability**: 91.7%, Moneyline Edge: -2.6%
-- **Maryland Terrapins Win Probability**: 8.3%, Moneyline Edge: -1.7%
+- **Illinois Fighting Illini Win Probability**: 91.9%, Moneyline Edge: -2.8%
+- **Maryland Terrapins Win Probability**: 8.1%, Moneyline Edge: -1.5%
 
 ### Total
 - **Predicted Total**: 147.0

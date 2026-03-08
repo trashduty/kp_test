@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> South Florida Bulls -16.5</p>
-  <p><strong>Moneyline:</strong> Charlotte 49ers (+1048) | South Florida Bulls (-2049)</p>
+  <p><strong>Moneyline:</strong> Charlotte 49ers (+1000) | South Florida Bulls (-2000)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Charlotte 49ers**: 16.5, Edge For Covering Spread: **0.8%**
-- **South Florida Bulls**: -16.5, Edge For Covering Spread: -5.6%
+- **Charlotte 49ers**: 16.5, Edge For Covering Spread: -0.3%
+- **South Florida Bulls**: -16.5, Edge For Covering Spread: -4.4%
 
 ### Moneyline
-- **Charlotte 49ers Win Probability**: 9.2%, Moneyline Edge: **0.5%**
-- **South Florida Bulls Win Probability**: 90.8%, Moneyline Edge: -4.5%
+- **Charlotte 49ers Win Probability**: 9.4%, Moneyline Edge: **0.3%**
+- **South Florida Bulls Win Probability**: 90.6%, Moneyline Edge: -4.6%
 
 ### Total
 - **Predicted Total**: 153.5

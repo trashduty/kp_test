@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Charleston Cougars -1.5</p>
-  <p><strong>Moneyline:</strong> Towson Tigers (+110) | Charleston Cougars (-135)</p>
+  <p><strong>Spread:</strong> Charleston Cougars -2.5</p>
+  <p><strong>Moneyline:</strong> Towson Tigers (+122) | Charleston Cougars (-143)</p>
   <p><strong>Total:</strong> 133.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Towson Tigers**: 1.5, Edge For Covering Spread: -1.2%
-- **Charleston Cougars**: -1.5, Edge For Covering Spread: -3.5%
+- **Towson Tigers**: 2.5, Edge For Covering Spread: -2.4%
+- **Charleston Cougars**: -2.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Towson Tigers Win Probability**: 45.9%, Moneyline Edge: -1.7%
-- **Charleston Cougars Win Probability**: 54.1%, Moneyline Edge: -3.3%
+- **Towson Tigers Win Probability**: 44.7%, Moneyline Edge: -0.2%
+- **Charleston Cougars Win Probability**: 55.3%, Moneyline Edge: -3.7%
 
 ### Total
 - **Predicted Total**: 133.5
-- Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.1%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Charleston Cougars (21-10) hosts Towson Tigers (18-14) at TD Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Charleston Cougars favored by 1.5 points, with the total sitting at 133.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Charleston Cougars (21-10) hosts Towson Tigers (18-14) at TD Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Charleston Cougars favored by 2.5 points, with the total sitting at 133.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Charleston Cougars's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 133.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Charleston Cougars's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 133.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **Towson Tigers** bring an offensive efficiency of 103.63 (ranked #275 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 28.8% from three, they can't rely on the arc. Expect a paint-focused attack. 

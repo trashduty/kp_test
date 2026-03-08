@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tulsa Golden Hurricane -11.5</p>
-  <p><strong>Moneyline:</strong> Temple Owls (+482) | Tulsa Golden Hurricane (-687)</p>
+  <p><strong>Moneyline:</strong> Temple Owls (+512) | Tulsa Golden Hurricane (-774)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Temple Owls**: 11.5, Edge For Covering Spread: -5.0%
-- **Tulsa Golden Hurricane**: -11.5, Edge For Covering Spread: **0.3%**
+- **Temple Owls**: 11.5, Edge For Covering Spread: -5.6%
+- **Tulsa Golden Hurricane**: -11.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Temple Owls Win Probability**: 14.2%, Moneyline Edge: -3.0%
-- **Tulsa Golden Hurricane Win Probability**: 85.8%, Moneyline Edge: -1.5%
+- **Temple Owls Win Probability**: 13.8%, Moneyline Edge: -2.5%
+- **Tulsa Golden Hurricane Win Probability**: 86.2%, Moneyline Edge: -2.3%
 
 ### Total
-- **Predicted Total**: 153.0
-- Edge For Covering The Over: -3.1%
-- Edge For Covering The Under: -3.1%
+- **Predicted Total**: 153.5
+- Edge For Covering The Over: -1.2%
+- Edge For Covering The Under: -3.5%
 
 ---
 

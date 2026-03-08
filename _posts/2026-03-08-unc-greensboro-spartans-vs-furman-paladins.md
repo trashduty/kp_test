@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Furman Paladins -6.5</p>
-  <p><strong>Moneyline:</strong> UNC Greensboro Spartans (N/A) | Furman Paladins (N/A)</p>
+  <p><strong>Moneyline:</strong> UNC Greensboro Spartans (+225) | Furman Paladins (-275)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Furman Paladins**: -6.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **UNC Greensboro Spartans Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Furman Paladins Win Probability**: N/A, Moneyline Edge: 0.0%
+- **UNC Greensboro Spartans Win Probability**: 27.9%, Moneyline Edge: -2.9%
+- **Furman Paladins Win Probability**: 72.1%, Moneyline Edge: -1.2%
 
 ### Total
 - **Predicted Total**: 148.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -2.6%
 
 ---
 

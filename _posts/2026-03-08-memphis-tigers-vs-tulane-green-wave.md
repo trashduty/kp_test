@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Memphis Tigers -1.5</p>
-  <p><strong>Moneyline:</strong> Memphis Tigers (-116) | Tulane Green Wave (-103)</p>
+  <p><strong>Moneyline:</strong> Memphis Tigers (-115) | Tulane Green Wave (-105)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Tulane Green Wave**: 1.5, Edge For Covering Spread: -4.3%
 
 ### Moneyline
-- **Memphis Tigers Win Probability**: 53.2%, Moneyline Edge: -0.6%
-- **Tulane Green Wave Win Probability**: 46.8%, Moneyline Edge: -4.1%
+- **Memphis Tigers Win Probability**: 53.0%, Moneyline Edge: -0.5%
+- **Tulane Green Wave Win Probability**: 47.0%, Moneyline Edge: -4.3%
 
 ### Total
 - **Predicted Total**: 150.0

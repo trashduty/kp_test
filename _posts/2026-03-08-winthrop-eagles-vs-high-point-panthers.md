@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> High Point Panthers -6.5</p>
-  <p><strong>Moneyline:</strong> Winthrop Eagles (+215) | High Point Panthers (-265)</p>
+  <p><strong>Spread:</strong> High Point Panthers -7.5</p>
+  <p><strong>Moneyline:</strong> Winthrop Eagles (+240) | High Point Panthers (-299)</p>
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Winthrop Eagles**: 6.5, Edge For Covering Spread: **0.8%**
-- **High Point Panthers**: -6.5, Edge For Covering Spread: -5.6%
+- **Winthrop Eagles**: 7.5, Edge For Covering Spread: **0.3%**
+- **High Point Panthers**: -7.5, Edge For Covering Spread: -5.0%
 
 ### Moneyline
-- **Winthrop Eagles Win Probability**: 32.7%, Moneyline Edge: **0.9%**
-- **High Point Panthers Win Probability**: 67.3%, Moneyline Edge: -5.3%
+- **Winthrop Eagles Win Probability**: 31.7%, Moneyline Edge: **2.3%**
+- **High Point Panthers Win Probability**: 68.3%, Moneyline Edge: -6.6%
 
 ### Total
 - **Predicted Total**: 162.0
-- Edge For Covering The Over: -0.0%
-- Edge For Covering The Under: -4.7%
+- Edge For Covering The Over: **0.2%**
+- Edge For Covering The Under: -4.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-High Point Panthers (29-4) hosts Winthrop Eagles (23-10) at Qubein Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into High Point Panthers favored by 6.5 points, with the total sitting at 164.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+High Point Panthers (29-4) hosts Winthrop Eagles (23-10) at Qubein Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into High Point Panthers favored by 7.5 points, with the total sitting at 164.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates High Point Panthers is viewed as the better team, but this isn't an overwhelming edge. Winthrop Eagles has a legitimate path to covering or winning outright. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us High Point Panthers has clear advantages, but games aren't played on paper. Winthrop Eagles needs to punch above their weight class to keep this close. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Winthrop Eagles** bring an offensive efficiency of 113.72 (ranked #81 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.6% three-point shooting is serviceable but won't scare anyone. 

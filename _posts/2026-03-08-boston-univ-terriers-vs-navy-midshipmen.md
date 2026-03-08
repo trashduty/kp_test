@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Navy Midshipmen -6.5</p>
-  <p><strong>Moneyline:</strong> Boston Univ. Terriers (+230) | Navy Midshipmen (-290)</p>
+  <p><strong>Spread:</strong> Navy Midshipmen -7.5</p>
+  <p><strong>Moneyline:</strong> Boston Univ. Terriers (+245) | Navy Midshipmen (-305)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Boston Univ. Terriers**: 6.5, Edge For Covering Spread: -4.7%
-- **Navy Midshipmen**: -6.5, Edge For Covering Spread: -0.0%
+- **Boston Univ. Terriers**: 7.5, Edge For Covering Spread: -5.2%
+- **Navy Midshipmen**: -7.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Boston Univ. Terriers Win Probability**: 24.2%, Moneyline Edge: -6.1%
-- **Navy Midshipmen Win Probability**: 75.8%, Moneyline Edge: **1.5%**
+- **Boston Univ. Terriers Win Probability**: 23.7%, Moneyline Edge: -5.3%
+- **Navy Midshipmen Win Probability**: 76.3%, Moneyline Edge: **1.0%**
 
 ### Total
 - **Predicted Total**: 137.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Navy Midshipmen (26-6) hosts Boston Univ. Terriers (16-16) at Alumni Hall in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Navy Midshipmen favored by 6.5 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Navy Midshipmen (26-6) hosts Boston Univ. Terriers (16-16) at Alumni Hall in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Navy Midshipmen favored by 7.5 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates Navy Midshipmen is viewed as the better team, but this isn't an overwhelming edge. Boston Univ. Terriers has a legitimate path to covering or winning outright. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 7.5 points tells us Navy Midshipmen has clear advantages, but games aren't played on paper. Boston Univ. Terriers needs to punch above their weight class to keep this close. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Boston Univ. Terriers** bring an offensive efficiency of 114.86 (ranked #67 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 39.3% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Nicholls St Colonels -2.5</p>
-  <p><strong>Moneyline:</strong> Northwestern St Demons (+116) | Nicholls St Colonels (-140)</p>
+  <p><strong>Moneyline:</strong> Northwestern St Demons (+124) | Nicholls St Colonels (-146)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Nicholls St Colonels**: -2.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Northwestern St Demons Win Probability**: 42.3%, Moneyline Edge: -3.9%
-- **Nicholls St Colonels Win Probability**: 57.7%, Moneyline Edge: -0.6%
+- **Northwestern St Demons Win Probability**: 41.7%, Moneyline Edge: -2.9%
+- **Nicholls St Colonels Win Probability**: 58.3%, Moneyline Edge: -1.1%
 
 ### Total
 - **Predicted Total**: 141.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 

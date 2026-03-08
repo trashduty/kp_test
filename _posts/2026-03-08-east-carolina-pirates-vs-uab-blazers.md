@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UAB Blazers -10.5</p>
-  <p><strong>Moneyline:</strong> East Carolina Pirates (+377) | UAB Blazers (-510)</p>
+  <p><strong>Moneyline:</strong> East Carolina Pirates (+445) | UAB Blazers (-617)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **East Carolina Pirates**: 10.5, Edge For Covering Spread: -4.8%
-- **UAB Blazers**: -10.5, Edge For Covering Spread: **0.0%**
+- **East Carolina Pirates**: 10.5, Edge For Covering Spread: -4.0%
+- **UAB Blazers**: -10.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **East Carolina Pirates Win Probability**: 17.5%, Moneyline Edge: -3.4%
-- **UAB Blazers Win Probability**: 82.5%, Moneyline Edge: -1.1%
+- **East Carolina Pirates Win Probability**: 16.3%, Moneyline Edge: -2.1%
+- **UAB Blazers Win Probability**: 83.7%, Moneyline Edge: -2.3%
 
 ### Total
 - **Predicted Total**: 148.0
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.9%
+- Edge For Covering The Over: -3.4%
+- Edge For Covering The Under: -1.4%
 
 ---
 
