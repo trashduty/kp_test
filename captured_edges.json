@@ -4694,5 +4694,9 @@
   "Gonzaga Bulldogs vs. Oregon St Beavers|Gonzaga Bulldogs|spread": {
     "captured_at": "2026-03-09T10:21:35.231160+00:00",
     "edge_type": "spread"
+  },
+  "Troy Trojans vs. Georgia Southern Eagles|Georgia Southern Eagles|spread": {
+    "captured_at": "2026-03-09T13:33:41.513742+00:00",
+    "edge_type": "spread"
   }
 }
