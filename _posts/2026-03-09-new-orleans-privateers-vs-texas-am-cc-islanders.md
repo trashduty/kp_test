@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Texas A&M-CC Islanders -1.5</p>
-  <p><strong>Moneyline:</strong> New Orleans Privateers (-106) | Texas A&M-CC Islanders (-113)</p>
+  <p><strong>Spread:</strong> Texas A&M-CC Islanders -2.5</p>
+  <p><strong>Moneyline:</strong> New Orleans Privateers (+110) | Texas A&M-CC Islanders (-130)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **New Orleans Privateers**: 1.5, Edge For Covering Spread: -3.5%
-- **Texas A&M-CC Islanders**: -1.5, Edge For Covering Spread: -1.5%
+- **New Orleans Privateers**: 2.5, Edge For Covering Spread: -1.8%
+- **Texas A&M-CC Islanders**: -2.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **New Orleans Privateers Win Probability**: 47.5%, Moneyline Edge: -4.1%
-- **Texas A&M-CC Islanders Win Probability**: 52.5%, Moneyline Edge: -0.5%
+- **New Orleans Privateers Win Probability**: 46.0%, Moneyline Edge: -1.6%
+- **Texas A&M-CC Islanders Win Probability**: 54.0%, Moneyline Edge: -2.5%
 
 ### Total
-- **Predicted Total**: 145.0
-- Edge For Covering The Over: **0.8%**
-- Edge For Covering The Under: -5.5%
+- **Predicted Total**: 143.5
+- Edge For Covering The Over: -0.2%
+- Edge For Covering The Under: -4.5%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When New Orleans Privateers (15-17) travels to face Texas A&M-CC Islanders (17-14) at American Bank Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Texas A&M-CC Islanders favored by 1.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When New Orleans Privateers (15-17) travels to face Texas A&M-CC Islanders (17-14) at American Bank Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Texas A&M-CC Islanders favored by 2.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Texas A&M-CC Islanders's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Texas A&M-CC Islanders's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **New Orleans Privateers** bring an offensive efficiency of 106.39 (ranked #224 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.2% three-point shooting is serviceable but won't scare anyone. 

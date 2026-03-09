@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> N Colorado Bears -4.5</p>
-  <p><strong>Moneyline:</strong> N Colorado Bears (-196) | Montana Grizzlies (+164)</p>
+  <p><strong>Spread:</strong> N Colorado Bears -3.5</p>
+  <p><strong>Moneyline:</strong> N Colorado Bears (-175) | Montana Grizzlies (+145)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **N Colorado Bears**: -4.5, Edge For Covering Spread: -4.8%
-- **Montana Grizzlies**: 4.5, Edge For Covering Spread: **0.0%**
+- **N Colorado Bears**: -3.5, Edge For Covering Spread: -2.4%
+- **Montana Grizzlies**: 3.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **N Colorado Bears Win Probability**: 62.3%, Moneyline Edge: -3.9%
-- **Montana Grizzlies Win Probability**: 37.7%, Moneyline Edge: -0.2%
+- **N Colorado Bears Win Probability**: 61.0%, Moneyline Edge: -2.7%
+- **Montana Grizzlies Win Probability**: 39.0%, Moneyline Edge: -1.7%
 
 ### Total
 - **Predicted Total**: 152.5
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -1.9%
+- Edge For Covering The Under: -2.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-N Colorado Bears (20-11) travels to face Montana Grizzlies (16-15) at Dahlberg Arena in what shapes up to be a competitive matchup. The early betting action has shaped into N Colorado Bears favored by 4.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+N Colorado Bears (20-11) travels to face Montana Grizzlies (16-15) at Dahlberg Arena in what shapes up to be a competitive matchup. The early betting action has shaped into N Colorado Bears favored by 3.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates N Colorado Bears is viewed as the better team, but this isn't an overwhelming edge. Montana Grizzlies has a legitimate path to covering or winning outright. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.5-point spread indicates N Colorado Bears is viewed as the better team, but this isn't an overwhelming edge. Montana Grizzlies has a legitimate path to covering or winning outright. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **N Colorado Bears** bring an offensive efficiency of 113.36 (ranked #86 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.1% three-point shooting is serviceable but won't scare anyone. 

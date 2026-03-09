@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> East Tennessee St Buccaneers -2.0</p>
-  <p><strong>Moneyline:</strong> East Tennessee St Buccaneers (-140) | Furman Paladins (+117)</p>
+  <p><strong>Spread:</strong> East Tennessee St Buccaneers -1.5</p>
+  <p><strong>Moneyline:</strong> East Tennessee St Buccaneers (-129) | Furman Paladins (+108)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **East Tennessee St Buccaneers**: -2.0, Edge For Covering Spread: -0.1%
-- **Furman Paladins**: 2.0, Edge For Covering Spread: -5.7%
+- **East Tennessee St Buccaneers**: -1.5, Edge For Covering Spread: **0.5%**
+- **Furman Paladins**: 1.5, Edge For Covering Spread: -5.3%
 
 ### Moneyline
-- **East Tennessee St Buccaneers Win Probability**: 60.3%, Moneyline Edge: **2.0%**
-- **Furman Paladins Win Probability**: 39.7%, Moneyline Edge: -6.3%
+- **East Tennessee St Buccaneers Win Probability**: 59.3%, Moneyline Edge: **2.9%**
+- **Furman Paladins Win Probability**: 40.7%, Moneyline Edge: -7.4%
 
 ### Total
-- **Predicted Total**: 141.0
-- Edge For Covering The Over: **0.2%**
-- Edge For Covering The Under: -4.9%
+- **Predicted Total**: 140.0
+- Edge For Covering The Over: -1.0%
+- Edge For Covering The Under: -3.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-East Tennessee St Buccaneers (23-10) travels to face Furman Paladins (21-12) at Timmons Arena in what shapes up to be a competitive matchup. The early betting action has shaped into East Tennessee St Buccaneers favored by 2.0 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+East Tennessee St Buccaneers (23-10) travels to face Furman Paladins (21-12) at Timmons Arena in what shapes up to be a competitive matchup. The early betting action has shaped into East Tennessee St Buccaneers favored by 1.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. East Tennessee St Buccaneers's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. East Tennessee St Buccaneers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **East Tennessee St Buccaneers** bring an offensive efficiency of 115.22 (ranked #65 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.1% three-point shooting is serviceable but won't scare anyone. 

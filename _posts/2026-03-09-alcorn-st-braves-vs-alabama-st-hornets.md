@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama St Hornets -6.5</p>
-  <p><strong>Moneyline:</strong> Alcorn St Braves (+212) | Alabama St Hornets (-259)</p>
+  <p><strong>Moneyline:</strong> Alcorn St Braves (+235) | Alabama St Hornets (-296)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Alabama St Hornets**: -6.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Alcorn St Braves Win Probability**: 30.4%, Moneyline Edge: -1.6%
-- **Alabama St Hornets Win Probability**: 69.6%, Moneyline Edge: -2.5%
+- **Alcorn St Braves Win Probability**: 29.3%, Moneyline Edge: -0.6%
+- **Alabama St Hornets Win Probability**: 70.7%, Moneyline Edge: -4.0%
 
 ### Total
-- **Predicted Total**: 143.5
-- Edge For Covering The Over: -1.1%
-- Edge For Covering The Under: -3.7%
+- **Predicted Total**: 143.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -4.7%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Monmouth Hawks -1.5</p>
-  <p><strong>Moneyline:</strong> Campbell Fighting Camels (+102) | Monmouth Hawks (-122)</p>
+  <p><strong>Moneyline:</strong> Campbell Fighting Camels (+105) | Monmouth Hawks (-126)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Campbell Fighting Camels**: 1.5, Edge For Covering Spread: -5.1%
-- **Monmouth Hawks**: -1.5, Edge For Covering Spread: **0.4%**
+- **Campbell Fighting Camels**: 1.5, Edge For Covering Spread: -1.9%
+- **Monmouth Hawks**: -1.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Campbell Fighting Camels Win Probability**: 44.7%, Moneyline Edge: -4.8%
-- **Monmouth Hawks Win Probability**: 55.3%, Moneyline Edge: **0.4%**
+- **Campbell Fighting Camels Win Probability**: 44.6%, Moneyline Edge: -4.2%
+- **Monmouth Hawks Win Probability**: 55.4%, Moneyline Edge: -0.3%
 
 ### Total
-- **Predicted Total**: 152.0
-- Edge For Covering The Over: -2.0%
-- Edge For Covering The Under: -2.8%
+- **Predicted Total**: 152.5
+- Edge For Covering The Over: -4.5%
+- Edge For Covering The Under: -0.2%
 
 ---
 

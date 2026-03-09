@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Eastern Washington Eagles -3.5</p>
-  <p><strong>Moneyline:</strong> Weber State Wildcats (+125) | Eastern Washington Eagles (-151)</p>
+  <p><strong>Spread:</strong> Eastern Washington Eagles -3.0</p>
+  <p><strong>Moneyline:</strong> Weber State Wildcats (+127) | Eastern Washington Eagles (-155)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Weber State Wildcats**: 3.5, Edge For Covering Spread: -1.3%
-- **Eastern Washington Eagles**: -3.5, Edge For Covering Spread: -3.4%
+- **Weber State Wildcats**: 3.0, Edge For Covering Spread: -2.0%
+- **Eastern Washington Eagles**: -3.0, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **Weber State Wildcats Win Probability**: 41.2%, Moneyline Edge: -3.2%
-- **Eastern Washington Eagles Win Probability**: 58.8%, Moneyline Edge: -1.4%
+- **Weber State Wildcats Win Probability**: 41.0%, Moneyline Edge: -3.0%
+- **Eastern Washington Eagles Win Probability**: 59.0%, Moneyline Edge: -1.8%
 
 ### Total
-- **Predicted Total**: 156.5
-- Edge For Covering The Over: -0.6%
-- Edge For Covering The Under: -5.7%
+- **Predicted Total**: 157.0
+- Edge For Covering The Over: **0.5%**
+- Edge For Covering The Under: -5.3%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Eastern Washington Eagles (13-18) hosts Weber State Wildcats (16-15) at Reese Court in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Eastern Washington Eagles favored by 3.5 points, with the total sitting at 157.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Eastern Washington Eagles (13-18) hosts Weber State Wildcats (16-15) at Reese Court in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Eastern Washington Eagles favored by 3.0 points, with the total sitting at 157.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Eastern Washington Eagles is viewed as the better team, but this isn't an overwhelming edge. Weber State Wildcats has a legitimate path to covering or winning outright. The total of 157.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.0-point spread indicates Eastern Washington Eagles is viewed as the better team, but this isn't an overwhelming edge. Weber State Wildcats has a legitimate path to covering or winning outright. The total of 157.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Weber State Wildcats** bring an offensive efficiency of 111.72 (ranked #108 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.8% three-point shooting is serviceable but won't scare anyone. 

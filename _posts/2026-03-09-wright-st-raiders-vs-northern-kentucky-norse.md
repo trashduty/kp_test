@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Northern Kentucky Norse -1.5</p>
-  <p><strong>Moneyline:</strong> Wright St Raiders (+110) | Northern Kentucky Norse (-130)</p>
+  <p><strong>Moneyline:</strong> Wright St Raiders (+102) | Northern Kentucky Norse (-122)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wright St Raiders**: 1.5, Edge For Covering Spread: **4.0%**
-- **Northern Kentucky Norse**: -1.5, Edge For Covering Spread: -8.8%
+- **Wright St Raiders**: 1.5, Edge For Covering Spread: **1.0%**
+- **Northern Kentucky Norse**: -1.5, Edge For Covering Spread: -5.9%
 
 ### Moneyline
-- **Wright St Raiders Win Probability**: 54.4%, Moneyline Edge: **6.8%**
-- **Northern Kentucky Norse Win Probability**: 45.6%, Moneyline Edge: -10.9%
+- **Wright St Raiders Win Probability**: 54.5%, Moneyline Edge: **5.1%**
+- **Northern Kentucky Norse Win Probability**: 45.5%, Moneyline Edge: -9.6%
 
 ### Total
 - **Predicted Total**: 156.0

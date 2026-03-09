@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Grambling St Tigers -12.5</p>
-  <p><strong>Moneyline:</strong> Miss Valley St Delta Devils (+562) | Grambling St Tigers (-874)</p>
+  <p><strong>Spread:</strong> Grambling St Tigers -13.5</p>
+  <p><strong>Moneyline:</strong> Miss Valley St Delta Devils (+800) | Grambling St Tigers (-1425)</p>
   <p><strong>Total:</strong> 134.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Miss Valley St Delta Devils**: 12.5, Edge For Covering Spread: -2.4%
-- **Grambling St Tigers**: -12.5, Edge For Covering Spread: -2.4%
+- **Miss Valley St Delta Devils**: 13.5, Edge For Covering Spread: **0.9%**
+- **Grambling St Tigers**: -13.5, Edge For Covering Spread: -5.5%
 
 ### Moneyline
-- **Miss Valley St Delta Devils Win Probability**: 13.2%, Moneyline Edge: -1.9%
-- **Grambling St Tigers Win Probability**: 86.8%, Moneyline Edge: -2.9%
+- **Miss Valley St Delta Devils Win Probability**: 11.3%, Moneyline Edge: **0.2%**
+- **Grambling St Tigers Win Probability**: 88.7%, Moneyline Edge: -4.8%
 
 ### Total
 - **Predicted Total**: 135.0
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- Edge For Covering The Over: -3.4%
+- Edge For Covering The Under: -1.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Grambling St Tigers (13-18) hosts Miss Valley St Delta Devils (3-29) at Hobdy Assembly Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Grambling St Tigers favored by 12.5 points, with the total sitting at 134.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Grambling St Tigers (13-18) hosts Miss Valley St Delta Devils (3-29) at Hobdy Assembly Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Grambling St Tigers favored by 13.5 points, with the total sitting at 134.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 12.5-point spread screams mismatch. The books are asking Miss Valley St Delta Devils to hang within two possessions, which based on the profiles, requires Grambling St Tigers to play below their standard. The total of 134.5 suggests a defensive slugfest or slower tempo that limits possessions. 
+The 13.5-point spread screams mismatch. The books are asking Miss Valley St Delta Devils to hang within two possessions, which based on the profiles, requires Grambling St Tigers to play below their standard. The total of 134.5 suggests a defensive slugfest or slower tempo that limits possessions. 
 
 #### Offensive Firepower
 **Miss Valley St Delta Devils** bring an offensive efficiency of 91.03 (ranked #364 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.3% from three, they can't rely on the arc. Expect a paint-focused attack. 
