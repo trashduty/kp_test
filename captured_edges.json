@@ -4702,5 +4702,13 @@
   "Arizona St Sun Devils vs. Baylor Bears|Baylor Bears|moneyline": {
     "captured_at": "2026-03-09T14:24:48.040942+00:00",
     "edge_type": "moneyline"
+  },
+  "Northwestern Wildcats vs. Penn State Nittany Lions|Northwestern Wildcats|moneyline": {
+    "captured_at": "2026-03-09T15:24:40.267474+00:00",
+    "edge_type": "moneyline"
+  },
+  "Arizona St Sun Devils vs. Baylor Bears|Baylor Bears|spread": {
+    "captured_at": "2026-03-09T15:24:40.267978+00:00",
+    "edge_type": "spread"
   }
 }
