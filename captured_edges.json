@@ -4710,5 +4710,9 @@
   "Arizona St Sun Devils vs. Baylor Bears|Baylor Bears|spread": {
     "captured_at": "2026-03-09T15:24:40.267978+00:00",
     "edge_type": "spread"
+  },
+  "UMBC Retrievers vs. UMass Lowell River Hawks|UMBC Retrievers|spread": {
+    "captured_at": "2026-03-09T16:26:27.340870+00:00",
+    "edge_type": "spread"
   }
 }
