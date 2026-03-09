@@ -4698,5 +4698,9 @@
   "Troy Trojans vs. Georgia Southern Eagles|Georgia Southern Eagles|spread": {
     "captured_at": "2026-03-09T13:33:41.513742+00:00",
     "edge_type": "spread"
+  },
+  "Arizona St Sun Devils vs. Baylor Bears|Baylor Bears|moneyline": {
+    "captured_at": "2026-03-09T14:24:48.040942+00:00",
+    "edge_type": "moneyline"
   }
 }
