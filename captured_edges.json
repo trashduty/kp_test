@@ -4666,5 +4666,21 @@
   "Central Arkansas Bears vs. Queens University Royals|over": {
     "captured_at": "2026-03-08T13:19:56.247255+00:00",
     "edge_type": "over"
+  },
+  "Wright St Raiders vs. Northern Kentucky Norse|Wright St Raiders|spread": {
+    "captured_at": "2026-03-09T03:07:13.411528+00:00",
+    "edge_type": "spread"
+  },
+  "Wright St Raiders vs. Northern Kentucky Norse|Wright St Raiders|moneyline": {
+    "captured_at": "2026-03-09T03:07:13.411574+00:00",
+    "edge_type": "moneyline"
+  },
+  "Wright St Raiders vs. Northern Kentucky Norse|under": {
+    "captured_at": "2026-03-09T03:07:13.411614+00:00",
+    "edge_type": "under"
+  },
+  "East Tennessee St Buccaneers vs. Furman Paladins|East Tennessee St Buccaneers|moneyline": {
+    "captured_at": "2026-03-09T03:07:13.411810+00:00",
+    "edge_type": "moneyline"
   }
 }
