@@ -4686,5 +4686,13 @@
   "Lehigh Mountain Hawks vs. Boston Univ. Terriers|over": {
     "captured_at": "2026-03-09T05:31:02.185098+00:00",
     "edge_type": "over"
+  },
+  "UT Rio Grande Valley Vaqueros vs. Nicholls St Colonels|Nicholls St Colonels|spread": {
+    "captured_at": "2026-03-09T10:21:35.230616+00:00",
+    "edge_type": "spread"
+  },
+  "Gonzaga Bulldogs vs. Oregon St Beavers|Gonzaga Bulldogs|spread": {
+    "captured_at": "2026-03-09T10:21:35.231160+00:00",
+    "edge_type": "spread"
   }
 }
