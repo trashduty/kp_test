@@ -4742,5 +4742,9 @@
   "Richmond Spiders vs. Loyola (Chi) Ramblers|Richmond Spiders|moneyline": {
     "captured_at": "2026-03-10T15:24:05.611865+00:00",
     "edge_type": "moneyline"
+  },
+  "UNLV Rebels vs. Wyoming Cowboys|Wyoming Cowboys|spread": {
+    "captured_at": "2026-03-10T16:26:38.818148+00:00",
+    "edge_type": "spread"
   }
 }
