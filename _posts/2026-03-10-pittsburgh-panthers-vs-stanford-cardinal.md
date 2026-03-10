@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Stanford Cardinal -5.5</p>
-  <p><strong>Moneyline:</strong> Pittsburgh Panthers (+180) | Stanford Cardinal (-216)</p>
+  <p><strong>Moneyline:</strong> Pittsburgh Panthers (+187) | Stanford Cardinal (-230)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Pittsburgh Panthers**: 5.5, Edge For Covering Spread: -0.9%
-- **Stanford Cardinal**: -5.5, Edge For Covering Spread: -3.8%
+- **Pittsburgh Panthers**: 5.5, Edge For Covering Spread: -0.6%
+- **Stanford Cardinal**: -5.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Pittsburgh Panthers Win Probability**: 33.9%, Moneyline Edge: -1.8%
-- **Stanford Cardinal Win Probability**: 66.1%, Moneyline Edge: -2.4%
+- **Pittsburgh Panthers Win Probability**: 33.5%, Moneyline Edge: -1.3%
+- **Stanford Cardinal Win Probability**: 66.5%, Moneyline Edge: -3.2%
 
 ### Total
-- **Predicted Total**: 139.0
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -2.9%
+- **Predicted Total**: 138.0
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -4.1%
 
 ---
 

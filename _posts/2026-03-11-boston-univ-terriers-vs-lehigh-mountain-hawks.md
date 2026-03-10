@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Boston Univ. Terriers -1.5</p>
-  <p><strong>Moneyline:</strong> Boston Univ. Terriers (-125) | Lehigh Mountain Hawks (+105)</p>
+  <p><strong>Moneyline:</strong> Boston Univ. Terriers (-127) | Lehigh Mountain Hawks (+107)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Boston Univ. Terriers**: -1.5, Edge For Covering Spread: -4.9%
-- **Lehigh Mountain Hawks**: 1.5, Edge For Covering Spread: **0.2%**
+- **Boston Univ. Terriers**: -1.5, Edge For Covering Spread: -5.5%
+- **Lehigh Mountain Hawks**: 1.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Boston Univ. Terriers Win Probability**: 50.6%, Moneyline Edge: -4.9%
-- **Lehigh Mountain Hawks Win Probability**: 49.4%, Moneyline Edge: **0.6%**
+- **Boston Univ. Terriers Win Probability**: 50.9%, Moneyline Edge: -5.2%
+- **Lehigh Mountain Hawks Win Probability**: 49.1%, Moneyline Edge: **0.9%**
 
 ### Total
-- **Predicted Total**: 142.0
-- Edge For Covering The Over: -1.5%
-- Edge For Covering The Under: -4.9%
+- **Predicted Total**: 142.5
+- Edge For Covering The Over: -0.7%
+- Edge For Covering The Under: -4.1%
 
 ---
 

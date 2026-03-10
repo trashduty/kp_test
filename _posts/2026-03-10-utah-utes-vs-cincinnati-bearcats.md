@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Cincinnati Bearcats -11.5</p>
-  <p><strong>Moneyline:</strong> Utah Utes (+462) | Cincinnati Bearcats (-663)</p>
+  <p><strong>Moneyline:</strong> Utah Utes (+500) | Cincinnati Bearcats (-747)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Utah Utes**: 11.5, Edge For Covering Spread: -0.7%
-- **Cincinnati Bearcats**: -11.5, Edge For Covering Spread: -4.1%
+- **Utah Utes**: 11.5, Edge For Covering Spread: -0.6%
+- **Cincinnati Bearcats**: -11.5, Edge For Covering Spread: -4.7%
 
 ### Moneyline
-- **Utah Utes Win Probability**: 17.0%, Moneyline Edge: -0.8%
-- **Cincinnati Bearcats Win Probability**: 83.0%, Moneyline Edge: -3.9%
+- **Utah Utes Win Probability**: 16.4%, Moneyline Edge: -0.2%
+- **Cincinnati Bearcats Win Probability**: 83.6%, Moneyline Edge: -4.6%
 
 ### Total
-- **Predicted Total**: 140.0
-- Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.1%
+- **Predicted Total**: 138.5
+- Edge For Covering The Over: **0.6%**
+- Edge For Covering The Under: -5.4%
 
 ---
 

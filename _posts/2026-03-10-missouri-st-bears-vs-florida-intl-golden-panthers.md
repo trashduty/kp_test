@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Missouri St Bears -1.5</p>
-  <p><strong>Moneyline:</strong> Missouri St Bears (-112) | Florida Int'l Golden Panthers (-107)</p>
+  <p><strong>Spread:</strong> Florida Int'l Golden Panthers -1.5</p>
+  <p><strong>Moneyline:</strong> Missouri St Bears (-110) | Florida Int'l Golden Panthers (-110)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Missouri St Bears**: -1.5, Edge For Covering Spread: -3.0%
-- **Florida Int'l Golden Panthers**: 1.5, Edge For Covering Spread: -1.5%
+- **Missouri St Bears**: 1.5, Edge For Covering Spread: -4.3%
+- **Florida Int'l Golden Panthers**: -1.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **Missouri St Bears Win Probability**: 47.8%, Moneyline Edge: -5.2%
-- **Florida Int'l Golden Panthers Win Probability**: 52.2%, Moneyline Edge: **0.4%**
+- **Missouri St Bears Win Probability**: 47.5%, Moneyline Edge: -4.9%
+- **Florida Int'l Golden Panthers Win Probability**: 52.5%, Moneyline Edge: **0.1%**
 
 ### Total
-- **Predicted Total**: 153.0
-- Edge For Covering The Over: -2.1%
-- Edge For Covering The Under: -2.6%
+- **Predicted Total**: 152.5
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Florida Int'l Golden Panthers (15-16) hosts Missouri St Bears (14-17) at Ocean Bank Convocation Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Missouri St Bears favored by 1.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Florida Int'l Golden Panthers (15-16) hosts Missouri St Bears (14-17) at Ocean Bank Convocation Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Florida Int'l Golden Panthers favored by 1.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Missouri St Bears's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Florida Int'l Golden Panthers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Missouri St Bears** bring an offensive efficiency of 107.73 (ranked #192 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.4% three-point shooting is serviceable but won't scare anyone. 

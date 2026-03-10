@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Colorado Buffaloes -1.5</p>
-  <p><strong>Moneyline:</strong> Oklahoma St Cowboys (+111) | Colorado Buffaloes (-132)</p>
+  <p><strong>Moneyline:</strong> Oklahoma St Cowboys (+108) | Colorado Buffaloes (-130)</p>
   <p><strong>Total:</strong> 168.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oklahoma St Cowboys**: 1.5, Edge For Covering Spread: -1.8%
-- **Colorado Buffaloes**: -1.5, Edge For Covering Spread: -2.9%
+- **Oklahoma St Cowboys**: 1.5, Edge For Covering Spread: -0.9%
+- **Colorado Buffaloes**: -1.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Oklahoma St Cowboys Win Probability**: 46.2%, Moneyline Edge: -1.2%
-- **Colorado Buffaloes Win Probability**: 53.8%, Moneyline Edge: -3.1%
+- **Oklahoma St Cowboys Win Probability**: 46.5%, Moneyline Edge: -1.6%
+- **Colorado Buffaloes Win Probability**: 53.5%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 165.0
-- Edge For Covering The Over: **1.3%**
-- Edge For Covering The Under: -6.1%
+- Edge For Covering The Over: **0.2%**
+- Edge For Covering The Under: -6.6%
 
 ---
 

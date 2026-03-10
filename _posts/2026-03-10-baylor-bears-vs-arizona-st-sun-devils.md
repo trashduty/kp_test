@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Baylor Bears -3.5</p>
-  <p><strong>Moneyline:</strong> Baylor Bears (-165) | Arizona St Sun Devils (+140)</p>
+  <p><strong>Moneyline:</strong> Baylor Bears (-185) | Arizona St Sun Devils (+152)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Baylor Bears**: -3.5, Edge For Covering Spread: -4.0%
-- **Arizona St Sun Devils**: 3.5, Edge For Covering Spread: -0.8%
+- **Baylor Bears**: -3.5, Edge For Covering Spread: -5.7%
+- **Arizona St Sun Devils**: 3.5, Edge For Covering Spread: **0.9%**
 
 ### Moneyline
-- **Baylor Bears Win Probability**: 59.0%, Moneyline Edge: -3.4%
-- **Arizona St Sun Devils Win Probability**: 41.0%, Moneyline Edge: -0.6%
+- **Baylor Bears Win Probability**: 60.0%, Moneyline Edge: -4.9%
+- **Arizona St Sun Devils Win Probability**: 40.0%, Moneyline Edge: **0.3%**
 
 ### Total
-- **Predicted Total**: 156.0
-- Edge For Covering The Over: **0.2%**
-- Edge For Covering The Under: -4.9%
+- **Predicted Total**: 155.5
+- Edge For Covering The Over: **0.7%**
+- Edge For Covering The Under: -5.5%
 
 ---
 

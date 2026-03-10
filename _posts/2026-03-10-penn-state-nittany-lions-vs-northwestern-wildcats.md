@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Northwestern Wildcats -6.5</p>
-  <p><strong>Moneyline:</strong> Penn State Nittany Lions (+200) | Northwestern Wildcats (-242)</p>
+  <p><strong>Moneyline:</strong> Penn State Nittany Lions (+215) | Northwestern Wildcats (-262)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -28,12 +28,12 @@ All that being said, here's how our model prices this game.
 - **Northwestern Wildcats**: -6.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Penn State Nittany Lions Win Probability**: 29.0%, Moneyline Edge: -4.3%
-- **Northwestern Wildcats Win Probability**: 71.0%, Moneyline Edge: **0.2%**
+- **Penn State Nittany Lions Win Probability**: 28.2%, Moneyline Edge: -3.5%
+- **Northwestern Wildcats Win Probability**: 71.8%, Moneyline Edge: -0.7%
 
 ### Total
-- **Predicted Total**: 146.0
-- Edge For Covering The Over: -0.6%
+- **Predicted Total**: 145.0
+- Edge For Covering The Over: **0.9%**
 - Edge For Covering The Under: -5.7%
 
 ---

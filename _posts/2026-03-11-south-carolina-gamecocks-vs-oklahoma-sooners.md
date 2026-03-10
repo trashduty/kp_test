@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Oklahoma Sooners -6.5</p>
-  <p><strong>Moneyline:</strong> South Carolina Gamecocks (+189) | Oklahoma Sooners (-227)</p>
+  <p><strong>Moneyline:</strong> South Carolina Gamecocks (+194) | Oklahoma Sooners (-235)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Carolina Gamecocks**: 6.5, Edge For Covering Spread: -3.5%
-- **Oklahoma Sooners**: -6.5, Edge For Covering Spread: -1.2%
+- **South Carolina Gamecocks**: 6.5, Edge For Covering Spread: -1.2%
+- **Oklahoma Sooners**: -6.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **South Carolina Gamecocks Win Probability**: 30.1%, Moneyline Edge: -4.5%
-- **Oklahoma Sooners Win Probability**: 69.9%, Moneyline Edge: **0.4%**
+- **South Carolina Gamecocks Win Probability**: 29.8%, Moneyline Edge: -4.2%
+- **Oklahoma Sooners Win Probability**: 70.2%, Moneyline Edge: **0.0%**
 
 ### Total
 - **Predicted Total**: 149.5

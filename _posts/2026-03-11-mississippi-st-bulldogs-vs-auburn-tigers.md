@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Auburn Tigers -7.5</p>
-  <p><strong>Moneyline:</strong> Mississippi St Bulldogs (+220) | Auburn Tigers (-272)</p>
+  <p><strong>Moneyline:</strong> Mississippi St Bulldogs (+230) | Auburn Tigers (-282)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Auburn Tigers**: -7.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Mississippi St Bulldogs Win Probability**: 27.0%, Moneyline Edge: -4.3%
-- **Auburn Tigers Win Probability**: 73.0%, Moneyline Edge: -0.1%
+- **Mississippi St Bulldogs Win Probability**: 26.6%, Moneyline Edge: -3.8%
+- **Auburn Tigers Win Probability**: 73.4%, Moneyline Edge: -0.4%
 
 ### Total
 - **Predicted Total**: 159.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Over: -1.9%
+- Edge For Covering The Under: -2.8%
 
 ---
 

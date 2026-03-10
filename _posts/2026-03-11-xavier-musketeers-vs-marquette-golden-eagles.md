@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Marquette Golden Eagles -4.5</p>
-  <p><strong>Moneyline:</strong> Xavier Musketeers (+142) | Marquette Golden Eagles (-170)</p>
+  <p><strong>Spread:</strong> Marquette Golden Eagles -3.5</p>
+  <p><strong>Moneyline:</strong> Xavier Musketeers (+137) | Marquette Golden Eagles (-162)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Xavier Musketeers**: 4.5, Edge For Covering Spread: **0.8%**
-- **Marquette Golden Eagles**: -4.5, Edge For Covering Spread: -5.6%
+- **Xavier Musketeers**: 3.5, Edge For Covering Spread: **1.1%**
+- **Marquette Golden Eagles**: -3.5, Edge For Covering Spread: -6.1%
 
 ### Moneyline
-- **Xavier Musketeers Win Probability**: 40.8%, Moneyline Edge: -0.5%
-- **Marquette Golden Eagles Win Probability**: 59.2%, Moneyline Edge: -3.8%
+- **Xavier Musketeers Win Probability**: 41.2%, Moneyline Edge: -0.9%
+- **Marquette Golden Eagles Win Probability**: 58.8%, Moneyline Edge: -3.1%
 
 ### Total
 - **Predicted Total**: 155.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.0%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Xavier Musketeers (14-17) travels to face Marquette Golden Eagles (12-19) at Fiserv Forum, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Marquette Golden Eagles favored by 4.5 points, with the total sitting at 154.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Xavier Musketeers (14-17) travels to face Marquette Golden Eagles (12-19) at Fiserv Forum, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Marquette Golden Eagles favored by 3.5 points, with the total sitting at 154.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Marquette Golden Eagles is viewed as the better team, but this isn't an overwhelming edge. Xavier Musketeers has a legitimate path to covering or winning outright. The total of 154.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.5-point spread indicates Marquette Golden Eagles is viewed as the better team, but this isn't an overwhelming edge. Xavier Musketeers has a legitimate path to covering or winning outright. The total of 154.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Xavier Musketeers** bring an offensive efficiency of 109.00 (ranked #166 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.7% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

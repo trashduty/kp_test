@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kentucky Wildcats -6.5</p>
-  <p><strong>Moneyline:</strong> LSU Tigers (+215) | Kentucky Wildcats (-260)</p>
+  <p><strong>Moneyline:</strong> LSU Tigers (+220) | Kentucky Wildcats (-267)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Kentucky Wildcats**: -6.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **LSU Tigers Win Probability**: 30.3%, Moneyline Edge: -1.5%
-- **Kentucky Wildcats Win Probability**: 69.7%, Moneyline Edge: -2.5%
+- **LSU Tigers Win Probability**: 30.0%, Moneyline Edge: -1.2%
+- **Kentucky Wildcats Win Probability**: 70.0%, Moneyline Edge: -2.8%
 
 ### Total
 - **Predicted Total**: 152.0

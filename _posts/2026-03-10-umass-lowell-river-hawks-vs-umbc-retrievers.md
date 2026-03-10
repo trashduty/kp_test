@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UMBC Retrievers -7.5</p>
-  <p><strong>Moneyline:</strong> UMass Lowell River Hawks (+230) | UMBC Retrievers (-280)</p>
+  <p><strong>Spread:</strong> UMBC Retrievers -8.5</p>
+  <p><strong>Moneyline:</strong> UMass Lowell River Hawks (+290) | UMBC Retrievers (-380)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,15 +24,15 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UMass Lowell River Hawks**: 7.5, Edge For Covering Spread: -7.2%
-- **UMBC Retrievers**: -7.5, Edge For Covering Spread: **2.4%**
+- **UMass Lowell River Hawks**: 8.5, Edge For Covering Spread: -7.9%
+- **UMBC Retrievers**: -8.5, Edge For Covering Spread: **3.1%**
 
 ### Moneyline
-- **UMass Lowell River Hawks Win Probability**: 21.6%, Moneyline Edge: -8.7%
-- **UMBC Retrievers Win Probability**: 78.4%, Moneyline Edge: **4.7%**
+- **UMass Lowell River Hawks Win Probability**: 19.2%, Moneyline Edge: -6.4%
+- **UMBC Retrievers Win Probability**: 80.8%, Moneyline Edge: **1.6%**
 
 ### Total
-- **Predicted Total**: 147.5
+- **Predicted Total**: 146.5
 - Edge For Covering The Over: -0.8%
 - Edge For Covering The Under: -3.9%
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UMBC Retrievers (22-8) hosts UMass Lowell River Hawks (15-17) at Chesapeake Employers Insurance Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UMBC Retrievers favored by 7.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UMBC Retrievers (22-8) hosts UMass Lowell River Hawks (15-17) at Chesapeake Employers Insurance Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UMBC Retrievers favored by 8.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us UMBC Retrievers has clear advantages, but games aren't played on paper. UMass Lowell River Hawks needs to punch above their weight class to keep this close. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 8.5 points tells us UMBC Retrievers has clear advantages, but games aren't played on paper. UMass Lowell River Hawks needs to punch above their weight class to keep this close. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **UMass Lowell River Hawks** bring an offensive efficiency of 104.58 (ranked #262 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.1% three-point shooting is serviceable but won't scare anyone. 

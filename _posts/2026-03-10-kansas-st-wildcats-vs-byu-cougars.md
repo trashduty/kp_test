@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> BYU Cougars -10.5</p>
-  <p><strong>Moneyline:</strong> Kansas St Wildcats (+340) | BYU Cougars (-450)</p>
+  <p><strong>Moneyline:</strong> Kansas St Wildcats (+425) | BYU Cougars (-600)</p>
   <p><strong>Total:</strong> 169.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **BYU Cougars**: -10.5, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **Kansas St Wildcats Win Probability**: 22.4%, Moneyline Edge: -0.4%
-- **BYU Cougars Win Probability**: 77.6%, Moneyline Edge: -4.2%
+- **Kansas St Wildcats Win Probability**: 20.6%, Moneyline Edge: **1.5%**
+- **BYU Cougars Win Probability**: 79.4%, Moneyline Edge: -6.3%
 
 ### Total
-- **Predicted Total**: 167.0
-- Edge For Covering The Over: -0.5%
-- Edge For Covering The Under: -4.2%
+- **Predicted Total**: 166.5
+- Edge For Covering The Over: -1.1%
+- Edge For Covering The Under: -3.7%
 
 ---
 

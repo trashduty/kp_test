@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> SMU Mustangs -5.5</p>
-  <p><strong>Moneyline:</strong> Syracuse Orange (+170) | SMU Mustangs (-200)</p>
+  <p><strong>Moneyline:</strong> Syracuse Orange (+170) | SMU Mustangs (-210)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Syracuse Orange**: 5.5, Edge For Covering Spread: -0.8%
-- **SMU Mustangs**: -5.5, Edge For Covering Spread: -4.0%
+- **Syracuse Orange**: 5.5, Edge For Covering Spread: -1.9%
+- **SMU Mustangs**: -5.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Syracuse Orange Win Probability**: 35.4%, Moneyline Edge: -1.7%
-- **SMU Mustangs Win Probability**: 64.6%, Moneyline Edge: -2.0%
+- **Syracuse Orange Win Probability**: 35.2%, Moneyline Edge: -1.9%
+- **SMU Mustangs Win Probability**: 64.8%, Moneyline Edge: -2.9%
 
 ### Total
-- **Predicted Total**: 156.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 155.5
+- Edge For Covering The Over: **0.3%**
+- Edge For Covering The Under: -5.0%
 
 ---
 

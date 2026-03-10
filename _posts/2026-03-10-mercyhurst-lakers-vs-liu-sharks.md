@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> LIU Sharks -6.5</p>
-  <p><strong>Moneyline:</strong> Mercyhurst Lakers (+205) | LIU Sharks (-250)</p>
+  <p><strong>Moneyline:</strong> Mercyhurst Lakers (+215) | LIU Sharks (-260)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **LIU Sharks**: -6.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Mercyhurst Lakers Win Probability**: 29.2%, Moneyline Edge: -3.6%
-- **LIU Sharks Win Probability**: 70.8%, Moneyline Edge: -0.7%
+- **Mercyhurst Lakers Win Probability**: 28.8%, Moneyline Edge: -3.0%
+- **LIU Sharks Win Probability**: 71.2%, Moneyline Edge: -1.0%
 
 ### Total
-- **Predicted Total**: 137.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 136.5
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 

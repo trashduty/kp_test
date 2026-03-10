@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Oregon Ducks -3.5</p>
-  <p><strong>Moneyline:</strong> Maryland Terrapins (+145) | Oregon Ducks (-175)</p>
+  <p><strong>Moneyline:</strong> Maryland Terrapins (+147) | Oregon Ducks (-175)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Maryland Terrapins**: 3.5, Edge For Covering Spread: -0.9%
-- **Oregon Ducks**: -3.5, Edge For Covering Spread: -4.0%
+- **Maryland Terrapins**: 3.5, Edge For Covering Spread: -1.2%
+- **Oregon Ducks**: -3.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Maryland Terrapins Win Probability**: 38.0%, Moneyline Edge: -2.8%
-- **Oregon Ducks Win Probability**: 62.0%, Moneyline Edge: -1.7%
+- **Maryland Terrapins Win Probability**: 37.9%, Moneyline Edge: -2.5%
+- **Oregon Ducks Win Probability**: 62.1%, Moneyline Edge: -1.6%
 
 ### Total
 - **Predicted Total**: 139.5

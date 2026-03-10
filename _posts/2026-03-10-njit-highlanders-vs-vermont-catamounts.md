@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Vermont Catamounts -12.0</p>
-  <p><strong>Moneyline:</strong> NJIT Highlanders (+512) | Vermont Catamounts (-750)</p>
+  <p><strong>Spread:</strong> Vermont Catamounts -12.5</p>
+  <p><strong>Moneyline:</strong> NJIT Highlanders (+595) | Vermont Catamounts (-900)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **NJIT Highlanders**: 12.0, Edge For Covering Spread: -1.2%
-- **Vermont Catamounts**: -12.0, Edge For Covering Spread: -4.1%
+- **NJIT Highlanders**: 12.5, Edge For Covering Spread: **1.7%**
+- **Vermont Catamounts**: -12.5, Edge For Covering Spread: -6.4%
 
 ### Moneyline
-- **NJIT Highlanders Win Probability**: 17.3%, Moneyline Edge: **1.0%**
-- **Vermont Catamounts Win Probability**: 82.7%, Moneyline Edge: -5.5%
+- **NJIT Highlanders Win Probability**: 16.4%, Moneyline Edge: **2.0%**
+- **Vermont Catamounts Win Probability**: 83.6%, Moneyline Edge: -6.4%
 
 ### Total
-- **Predicted Total**: 138.0
-- Edge For Covering The Over: -0.5%
-- Edge For Covering The Under: -4.2%
+- **Predicted Total**: 137.0
+- Edge For Covering The Over: -1.1%
+- Edge For Covering The Under: -5.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Vermont Catamounts (21-11) hosts NJIT Highlanders (16-16) at Patrick Gymnasium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Vermont Catamounts favored by 12.0 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Vermont Catamounts (21-11) hosts NJIT Highlanders (16-16) at Patrick Gymnasium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Vermont Catamounts favored by 12.5 points, with the total sitting at 137.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 12.0-point spread screams mismatch. The books are asking NJIT Highlanders to hang within two possessions, which based on the profiles, requires Vermont Catamounts to play below their standard. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 12.5-point spread screams mismatch. The books are asking NJIT Highlanders to hang within two possessions, which based on the profiles, requires Vermont Catamounts to play below their standard. The total of 137.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **NJIT Highlanders** bring an offensive efficiency of 98.04 (ranked #342 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.4% from three, they can't rely on the arc. Expect a paint-focused attack. 

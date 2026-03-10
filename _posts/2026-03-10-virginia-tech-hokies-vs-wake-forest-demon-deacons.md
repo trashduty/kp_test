@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Virginia Tech Hokies -2.5</p>
-  <p><strong>Moneyline:</strong> Virginia Tech Hokies (-147) | Wake Forest Demon Deacons (+124)</p>
+  <p><strong>Moneyline:</strong> Virginia Tech Hokies (-150) | Wake Forest Demon Deacons (+125)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Virginia Tech Hokies**: -2.5, Edge For Covering Spread: -5.1%
-- **Wake Forest Demon Deacons**: 2.5, Edge For Covering Spread: **0.4%**
+- **Virginia Tech Hokies**: -2.5, Edge For Covering Spread: -4.0%
+- **Wake Forest Demon Deacons**: 2.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Virginia Tech Hokies Win Probability**: 58.4%, Moneyline Edge: -1.1%
-- **Wake Forest Demon Deacons Win Probability**: 41.6%, Moneyline Edge: -3.0%
+- **Virginia Tech Hokies Win Probability**: 58.6%, Moneyline Edge: -1.4%
+- **Wake Forest Demon Deacons Win Probability**: 41.4%, Moneyline Edge: -2.9%
 
 ### Total
 - **Predicted Total**: 151.0

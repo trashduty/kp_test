@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Merrimack Warriors -3.5</p>
-  <p><strong>Moneyline:</strong> Siena Saints (+135) | Merrimack Warriors (-162)</p>
+  <p><strong>Moneyline:</strong> Siena Saints (+136) | Merrimack Warriors (-165)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Siena Saints**: 3.5, Edge For Covering Spread: -0.6%
-- **Merrimack Warriors**: -3.5, Edge For Covering Spread: -4.1%
+- **Siena Saints**: 3.5, Edge For Covering Spread: -1.8%
+- **Merrimack Warriors**: -3.5, Edge For Covering Spread: -3.0%
 
 ### Moneyline
-- **Siena Saints Win Probability**: 42.1%, Moneyline Edge: -0.5%
-- **Merrimack Warriors Win Probability**: 57.9%, Moneyline Edge: -3.9%
+- **Siena Saints Win Probability**: 42.2%, Moneyline Edge: -0.2%
+- **Merrimack Warriors Win Probability**: 57.8%, Moneyline Edge: -4.4%
 
 ### Total
 - **Predicted Total**: 129.0
