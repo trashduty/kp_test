@@ -4714,5 +4714,21 @@
   "UMBC Retrievers vs. UMass Lowell River Hawks|UMBC Retrievers|spread": {
     "captured_at": "2026-03-09T16:26:27.340870+00:00",
     "edge_type": "spread"
+  },
+  "Prairie View Panthers vs. Alcorn St Braves|over": {
+    "captured_at": "2026-03-10T13:32:22.495712+00:00",
+    "edge_type": "over"
+  },
+  "Wright St Raiders vs. Detroit Mercy Titans|Wright St Raiders|moneyline": {
+    "captured_at": "2026-03-10T13:32:22.496608+00:00",
+    "edge_type": "moneyline"
+  },
+  "Hofstra Pride vs. Monmouth Hawks|Hofstra Pride|moneyline": {
+    "captured_at": "2026-03-10T13:32:22.496884+00:00",
+    "edge_type": "moneyline"
+  },
+  "Gonzaga Bulldogs vs. Santa Clara Broncos|Gonzaga Bulldogs|moneyline": {
+    "captured_at": "2026-03-10T13:32:22.497335+00:00",
+    "edge_type": "moneyline"
   }
 }
