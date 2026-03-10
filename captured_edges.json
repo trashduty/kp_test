@@ -4730,5 +4730,17 @@
   "Gonzaga Bulldogs vs. Santa Clara Broncos|Gonzaga Bulldogs|moneyline": {
     "captured_at": "2026-03-10T13:32:22.497335+00:00",
     "edge_type": "moneyline"
+  },
+  "Jackson St Tigers vs. Grambling St Tigers|Jackson St Tigers|spread": {
+    "captured_at": "2026-03-10T15:24:05.610447+00:00",
+    "edge_type": "spread"
+  },
+  "McNeese Cowboys vs. UT Rio Grande Valley Vaqueros|UT Rio Grande Valley Vaqueros|spread": {
+    "captured_at": "2026-03-10T15:24:05.611187+00:00",
+    "edge_type": "spread"
+  },
+  "Richmond Spiders vs. Loyola (Chi) Ramblers|Richmond Spiders|moneyline": {
+    "captured_at": "2026-03-10T15:24:05.611865+00:00",
+    "edge_type": "moneyline"
   }
 }
