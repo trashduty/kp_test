@@ -4746,5 +4746,13 @@
   "UNLV Rebels vs. Wyoming Cowboys|Wyoming Cowboys|spread": {
     "captured_at": "2026-03-10T16:26:38.818148+00:00",
     "edge_type": "spread"
+  },
+  "Fordham Rams vs. GW Revolutionaries|GW Revolutionaries|spread": {
+    "captured_at": "2026-03-10T18:21:24.451328+00:00",
+    "edge_type": "spread"
+  },
+  "Fordham Rams vs. GW Revolutionaries|GW Revolutionaries|moneyline": {
+    "captured_at": "2026-03-10T18:21:24.451371+00:00",
+    "edge_type": "moneyline"
   }
 }
