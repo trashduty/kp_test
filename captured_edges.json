@@ -4758,5 +4758,13 @@
   "Memphis Tigers vs. Tulane Green Wave|Memphis Tigers|moneyline": {
     "captured_at": "2026-03-10T19:19:36.085691+00:00",
     "edge_type": "moneyline"
+  },
+  "NC State Wolfpack vs. Pittsburgh Panthers|NC State Wolfpack|spread": {
+    "captured_at": "2026-03-10T22:10:03.796598+00:00",
+    "edge_type": "spread"
+  },
+  "NC State Wolfpack vs. Pittsburgh Panthers|NC State Wolfpack|moneyline": {
+    "captured_at": "2026-03-10T22:10:03.796644+00:00",
+    "edge_type": "moneyline"
   }
 }
