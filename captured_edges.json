@@ -4786,5 +4786,9 @@
   "TCU Horned Frogs vs. Oklahoma St Cowboys|TCU Horned Frogs|moneyline": {
     "captured_at": "2026-03-11T11:16:18.604697+00:00",
     "edge_type": "moneyline"
+  },
+  "Florida A&M Rattlers vs. Jackson St Tigers|Jackson St Tigers|spread": {
+    "captured_at": "2026-03-11T13:32:14.466543+00:00",
+    "edge_type": "spread"
   }
 }
