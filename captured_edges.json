@@ -4770,5 +4770,13 @@
   "Bethune-Cookman Wildcats vs. Prairie View Panthers|Bethune-Cookman Wildcats|moneyline": {
     "captured_at": "2026-03-11T01:38:01.271210+00:00",
     "edge_type": "moneyline"
+  },
+  "Iowa Hawkeyes vs. Maryland Terrapins|Iowa Hawkeyes|spread": {
+    "captured_at": "2026-03-11T03:01:18.374276+00:00",
+    "edge_type": "spread"
+  },
+  "Iowa Hawkeyes vs. Maryland Terrapins|Iowa Hawkeyes|moneyline": {
+    "captured_at": "2026-03-11T03:01:18.374320+00:00",
+    "edge_type": "moneyline"
   }
 }
