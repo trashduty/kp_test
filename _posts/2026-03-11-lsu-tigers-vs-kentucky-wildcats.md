@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Kentucky Wildcats -6.5</p>
-  <p><strong>Moneyline:</strong> LSU Tigers (+220) | Kentucky Wildcats (-267)</p>
+  <p><strong>Spread:</strong> Kentucky Wildcats -8.5</p>
+  <p><strong>Moneyline:</strong> LSU Tigers (+295) | Kentucky Wildcats (-387)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **LSU Tigers**: 6.5, Edge For Covering Spread: -2.8%
-- **Kentucky Wildcats**: -6.5, Edge For Covering Spread: -1.9%
+- **LSU Tigers**: 8.5, Edge For Covering Spread: -0.8%
+- **Kentucky Wildcats**: -8.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **LSU Tigers Win Probability**: 30.0%, Moneyline Edge: -1.2%
-- **Kentucky Wildcats Win Probability**: 70.0%, Moneyline Edge: -2.8%
+- **LSU Tigers Win Probability**: 27.1%, Moneyline Edge: **1.8%**
+- **Kentucky Wildcats Win Probability**: 72.9%, Moneyline Edge: -6.6%
 
 ### Total
 - **Predicted Total**: 152.0
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Kentucky Wildcats (19-12) hosts LSU Tigers (15-16) at Rupp Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Kentucky Wildcats favored by 6.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Kentucky Wildcats (19-12) hosts LSU Tigers (15-16) at Rupp Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Kentucky Wildcats favored by 8.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates Kentucky Wildcats is viewed as the better team, but this isn't an overwhelming edge. LSU Tigers has a legitimate path to covering or winning outright. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 8.5 points tells us Kentucky Wildcats has clear advantages, but games aren't played on paper. LSU Tigers needs to punch above their weight class to keep this close. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **LSU Tigers** bring an offensive efficiency of 115.45 (ranked #59 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.3% three-point shooting is serviceable but won't scare anyone. 
 Meanwhile, **Kentucky Wildcats** counter with 116.60 offensive efficiency (#50). They're competent on offense without being spectacular. At 34.9% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-LSU Tigers operate at a 68.6 tempo (#165), while Kentucky Wildcats play at 69.7 (#109). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.2) should create a standard flow. 
+LSU Tigers operate at a 68.6 tempo (#165), while Kentucky Wildcats play at 69.7 (#108). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 69.2) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, LSU Tigers shoot 54.2% on two-pointers, while Kentucky Wildcats convert at 54.2%. Both teams are evenly matched in paint efficiency. 
@@ -73,36 +73,36 @@ Kentucky Wildcats features a very strong offense (ranked #50) that should find s
 
 ## LSU Tigers
 
-LSU Tigers comes in ranked #62 overall by KenPom. 
+LSU Tigers comes in ranked #63 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 15-16
 - **Head Coach:** Matt McMahon
-- **KenPom Rank:** #62
+- **KenPom Rank:** #63
 - **Offensive Efficiency:** 115.4 (Rank: #59)
 - **Defensive Efficiency:** 111.3 (Rank: #250)
 - **Tempo:** 68.6 (Rank: #165)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 54.2% (Rank: #85)
-- **3-Point Shooting:** 33.3% (Rank: #212)
+- **2-Point Shooting:** 54.2% (Rank: #86)
+- **3-Point Shooting:** 33.3% (Rank: #210)
 - **Free Throw Shooting:** 76.7% (Rank: #40)
 - **3-Point Rate:** 34.5% (Rank: #282)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 49.1% (Rank: #69)
-- **Opponent 3-Point Shooting:** 35.6% (Rank: #282)
-- **Block Percentage:** 10.5% (Rank: #116)
-- **Steal Rate:** 0.1% (Rank: #244)
+- **Opponent 2-Point Shooting:** 49.1% (Rank: #68)
+- **Opponent 3-Point Shooting:** 35.6% (Rank: #284)
+- **Block Percentage:** 10.5% (Rank: #115)
+- **Steal Rate:** 0.1% (Rank: #243)
 
 ### Team Metrics
 
 - **Assist Rate:** 52.9% (Rank: #168)
 - **Experience:** 2.6 years (Rank: #9)
 - **Bench Minutes:** 31.3% (Rank: #192)
-- **Average Height:** 78.3" (Rank: #55)
+- **Average Height:** 78.3" (Rank: #56)
 
 ---
 
@@ -117,26 +117,26 @@ Kentucky Wildcats comes in ranked #27 overall by KenPom.
 - **KenPom Rank:** #27
 - **Offensive Efficiency:** 116.6 (Rank: #50)
 - **Defensive Efficiency:** 105.8 (Rank: #106)
-- **Tempo:** 69.7 (Rank: #109)
+- **Tempo:** 69.7 (Rank: #108)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 54.2% (Rank: #86)
-- **3-Point Shooting:** 34.9% (Rank: #135)
-- **Free Throw Shooting:** 72.3% (Rank: #193)
-- **3-Point Rate:** 39.4% (Rank: #182)
+- **2-Point Shooting:** 54.2% (Rank: #87)
+- **3-Point Shooting:** 34.9% (Rank: #133)
+- **Free Throw Shooting:** 72.3% (Rank: #194)
+- **3-Point Rate:** 39.4% (Rank: #183)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 49.2% (Rank: #70)
-- **Opponent 3-Point Shooting:** 32.1% (Rank: #72)
+- **Opponent 3-Point Shooting:** 32.1% (Rank: #70)
 - **Block Percentage:** 12.2% (Rank: #45)
-- **Steal Rate:** 0.1% (Rank: #131)
+- **Steal Rate:** 0.1% (Rank: #133)
 
 ### Team Metrics
 
 - **Assist Rate:** 57.3% (Rank: #66)
-- **Experience:** 1.5 years (Rank: #169)
-- **Bench Minutes:** 34.9% (Rank: #106)
+- **Experience:** 1.5 years (Rank: #168)
+- **Bench Minutes:** 34.9% (Rank: #105)
 - **Average Height:** 78.8" (Rank: #18)
 

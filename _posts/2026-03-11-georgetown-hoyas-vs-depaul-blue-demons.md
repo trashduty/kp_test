@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> DePaul Blue Demons -1.5</p>
-  <p><strong>Moneyline:</strong> Georgetown Hoyas (-110) | DePaul Blue Demons (-110)</p>
+  <p><strong>Moneyline:</strong> Georgetown Hoyas (-100) | DePaul Blue Demons (-120)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Georgetown Hoyas**: 1.5, Edge For Covering Spread: **0.7%**
-- **DePaul Blue Demons**: -1.5, Edge For Covering Spread: -5.7%
+- **Georgetown Hoyas**: 1.5, Edge For Covering Spread: **2.0%**
+- **DePaul Blue Demons**: -1.5, Edge For Covering Spread: -6.8%
 
 ### Moneyline
-- **Georgetown Hoyas Win Probability**: 53.0%, Moneyline Edge: **0.6%**
-- **DePaul Blue Demons Win Probability**: 47.0%, Moneyline Edge: -5.4%
+- **Georgetown Hoyas Win Probability**: 51.9%, Moneyline Edge: **1.9%**
+- **DePaul Blue Demons Win Probability**: 48.1%, Moneyline Edge: -6.5%
 
 ### Total
-- **Predicted Total**: 137.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 134.5
+- Edge For Covering The Over: **0.8%**
+- Edge For Covering The Under: -5.6%
 
 ---
 
@@ -49,10 +49,10 @@ A spread under 3 points suggests the books see this as essentially a coin flip. 
 
 #### Offensive Firepower
 **Georgetown Hoyas** bring an offensive efficiency of 109.09 (ranked #164 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.3% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **DePaul Blue Demons** counter with 104.13 offensive efficiency (#268). Points have been hard to come by, making every possession critical. At 32.2% from three, they have adequate spacing but must pick their spots. 
+Meanwhile, **DePaul Blue Demons** counter with 104.13 offensive efficiency (#269). Points have been hard to come by, making every possession critical. At 32.2% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Georgetown Hoyas operate at a 67.5 tempo (#223), while DePaul Blue Demons play at 67.9 (#208). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.7) means fewer possessions, making each one more valuable. 
+Georgetown Hoyas operate at a 67.5 tempo (#222), while DePaul Blue Demons play at 67.9 (#208). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.7) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Georgetown Hoyas shoot 50.7% on two-pointers, while DePaul Blue Demons convert at 51.2%. Both teams are evenly matched in paint efficiency. 
@@ -73,29 +73,29 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Georgetown Hoyas
 
-Georgetown Hoyas comes in ranked #86 overall by KenPom. 
+Georgetown Hoyas comes in ranked #83 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 14-17
 - **Head Coach:** Ed Cooley
-- **KenPom Rank:** #86
+- **KenPom Rank:** #83
 - **Offensive Efficiency:** 109.1 (Rank: #164)
-- **Defensive Efficiency:** 108.4 (Rank: #176)
-- **Tempo:** 67.5 (Rank: #223)
+- **Defensive Efficiency:** 108.4 (Rank: #178)
+- **Tempo:** 67.5 (Rank: #222)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 50.7% (Rank: #228)
+- **2-Point Shooting:** 50.7% (Rank: #227)
 - **3-Point Shooting:** 32.3% (Rank: #264)
 - **Free Throw Shooting:** 73.8% (Rank: #144)
-- **3-Point Rate:** 35.6% (Rank: #259)
+- **3-Point Rate:** 35.6% (Rank: #260)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 50.4% (Rank: #117)
-- **Opponent 3-Point Shooting:** 33.4% (Rank: #143)
+- **Opponent 2-Point Shooting:** 50.4% (Rank: #118)
+- **Opponent 3-Point Shooting:** 33.4% (Rank: #146)
 - **Block Percentage:** 10.8% (Rank: #99)
-- **Steal Rate:** 0.1% (Rank: #144)
+- **Steal Rate:** 0.1% (Rank: #143)
 
 ### Team Metrics
 
@@ -108,29 +108,29 @@ Georgetown Hoyas comes in ranked #86 overall by KenPom.
 
 ## DePaul Blue Demons
 
-DePaul Blue Demons comes in ranked #102 overall by KenPom. 
+DePaul Blue Demons comes in ranked #101 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 16-15
 - **Head Coach:** Chris Holtmann
 - **Home Arena:** Wintrust Arena
-- **KenPom Rank:** #102
-- **Offensive Efficiency:** 104.1 (Rank: #268)
+- **KenPom Rank:** #101
+- **Offensive Efficiency:** 104.1 (Rank: #269)
 - **Defensive Efficiency:** 102.9 (Rank: #62)
 - **Tempo:** 67.9 (Rank: #208)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 51.2% (Rank: #206)
-- **3-Point Shooting:** 32.2% (Rank: #274)
+- **2-Point Shooting:** 51.2% (Rank: #207)
+- **3-Point Shooting:** 32.2% (Rank: #276)
 - **Free Throw Shooting:** 69.3% (Rank: #289)
 - **3-Point Rate:** 39.1% (Rank: #188)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 47.4% (Rank: #36)
-- **Opponent 3-Point Shooting:** 35.8% (Rank: #291)
-- **Block Percentage:** 9.3% (Rank: #175)
+- **Opponent 2-Point Shooting:** 47.4% (Rank: #37)
+- **Opponent 3-Point Shooting:** 35.8% (Rank: #292)
+- **Block Percentage:** 9.3% (Rank: #174)
 - **Steal Rate:** 0.1% (Rank: #122)
 
 ### Team Metrics

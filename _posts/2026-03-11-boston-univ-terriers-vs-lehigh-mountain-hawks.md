@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Boston Univ. Terriers -1.5</p>
-  <p><strong>Moneyline:</strong> Boston Univ. Terriers (-127) | Lehigh Mountain Hawks (+107)</p>
+  <p><strong>Spread:</strong> Boston Univ. Terriers -2.0</p>
+  <p><strong>Moneyline:</strong> Boston Univ. Terriers (-131) | Lehigh Mountain Hawks (+108)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Boston Univ. Terriers**: -1.5, Edge For Covering Spread: -5.5%
-- **Lehigh Mountain Hawks**: 1.5, Edge For Covering Spread: **0.8%**
+- **Boston Univ. Terriers**: -2.0, Edge For Covering Spread: -5.6%
+- **Lehigh Mountain Hawks**: 2.0, Edge For Covering Spread: **0.9%**
 
 ### Moneyline
-- **Boston Univ. Terriers Win Probability**: 50.9%, Moneyline Edge: -5.2%
-- **Lehigh Mountain Hawks Win Probability**: 49.1%, Moneyline Edge: **0.9%**
+- **Boston Univ. Terriers Win Probability**: 51.1%, Moneyline Edge: -5.7%
+- **Lehigh Mountain Hawks Win Probability**: 48.9%, Moneyline Edge: **0.8%**
 
 ### Total
-- **Predicted Total**: 142.5
-- Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.1%
+- **Predicted Total**: 141.0
+- Edge For Covering The Over: -0.6%
+- Edge For Covering The Under: -5.8%
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Boston Univ. Terriers (17-16) travels to face Lehigh Mountain Hawks (17-16) at Stabler Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Boston Univ. Terriers favored by 1.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Boston Univ. Terriers (17-16) travels to face Lehigh Mountain Hawks (17-16) at Stabler Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Boston Univ. Terriers favored by 2.0 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Boston Univ. Terriers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Boston Univ. Terriers's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Boston Univ. Terriers** bring an offensive efficiency of 114.99 (ranked #66 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 39.5% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
+**Boston Univ. Terriers** bring an offensive efficiency of 114.99 (ranked #65 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 39.5% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
 Meanwhile, **Lehigh Mountain Hawks** counter with 104.63 offensive efficiency (#260). Points have been hard to come by, making every possession critical. They're lethal from beyond the arc at 36.2%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
-Boston Univ. Terriers operate at a 63.5 tempo (#361), while Lehigh Mountain Hawks play at 66.7 (#258). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 65.1) means fewer possessions, making each one more valuable. 
+Boston Univ. Terriers operate at a 63.5 tempo (#361), while Lehigh Mountain Hawks play at 66.7 (#257). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 65.1) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Boston Univ. Terriers shoot 57.1% on two-pointers, while Lehigh Mountain Hawks convert at 52.8%. Both teams are evenly matched in paint efficiency. 
@@ -68,7 +68,7 @@ On paper, Boston Univ. Terriers holds the advantage as the higher-ranked team, b
 
 **Key Matchup: Boston Univ. Terriers's Offense vs Lehigh Mountain Hawks's Defense**
 
-Boston Univ. Terriers bring a solid offense (ranked #66) that could exploit Lehigh Mountain Hawks's defensive vulnerabilities (ranked #186). 
+Boston Univ. Terriers bring a solid offense (ranked #65) that could exploit Lehigh Mountain Hawks's defensive vulnerabilities (ranked #186). 
 
 
 ## Boston Univ. Terriers
@@ -79,7 +79,7 @@ Boston Univ. Terriers comes in ranked #253 overall by KenPom. They're dangerous 
 - **Record:** 17-16
 - **Head Coach:** Joe Jones
 - **KenPom Rank:** #253
-- **Offensive Efficiency:** 115.0 (Rank: #66)
+- **Offensive Efficiency:** 115.0 (Rank: #65)
 - **Defensive Efficiency:** 113.9 (Rank: #308)
 - **Tempo:** 63.5 (Rank: #361)
 
@@ -92,10 +92,10 @@ Boston Univ. Terriers comes in ranked #253 overall by KenPom. They're dangerous 
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 53.1% (Rank: #242)
-- **Opponent 3-Point Shooting:** 36.3% (Rank: #318)
-- **Block Percentage:** 9.7% (Rank: #157)
-- **Steal Rate:** 0.1% (Rank: #338)
+- **Opponent 2-Point Shooting:** 53.1% (Rank: #241)
+- **Opponent 3-Point Shooting:** 36.3% (Rank: #319)
+- **Block Percentage:** 9.7% (Rank: #156)
+- **Steal Rate:** 0.1% (Rank: #340)
 
 ### Team Metrics
 
@@ -117,21 +117,21 @@ Lehigh Mountain Hawks comes in ranked #290 overall by KenPom.
 - **KenPom Rank:** #290
 - **Offensive Efficiency:** 104.6 (Rank: #260)
 - **Defensive Efficiency:** 108.7 (Rank: #186)
-- **Tempo:** 66.7 (Rank: #258)
+- **Tempo:** 66.7 (Rank: #257)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 52.8% (Rank: #144)
-- **3-Point Shooting:** 36.2% (Rank: #52)
+- **2-Point Shooting:** 52.8% (Rank: #145)
+- **3-Point Shooting:** 36.2% (Rank: #51)
 - **Free Throw Shooting:** 73.0% (Rank: #167)
 - **3-Point Rate:** 38.3% (Rank: #206)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 51.2% (Rank: #154)
-- **Opponent 3-Point Shooting:** 33.6% (Rank: #160)
+- **Opponent 3-Point Shooting:** 33.6% (Rank: #159)
 - **Block Percentage:** 7.5% (Rank: #290)
-- **Steal Rate:** 0.1% (Rank: #159)
+- **Steal Rate:** 0.1% (Rank: #158)
 
 ### Team Metrics
 
