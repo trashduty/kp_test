@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Kent State Golden Flashes -4.5</p>
-  <p><strong>Moneyline:</strong> Ohio Bobcats (+154) | Kent State Golden Flashes (-185)</p>
+  <p><strong>Spread:</strong> Kent State Golden Flashes -3.5</p>
+  <p><strong>Moneyline:</strong> Ohio Bobcats (+146) | Kent State Golden Flashes (-172)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ohio Bobcats**: 4.5, Edge For Covering Spread: -2.4%
-- **Kent State Golden Flashes**: -4.5, Edge For Covering Spread: -2.4%
+- **Ohio Bobcats**: 3.5, Edge For Covering Spread: -2.8%
+- **Kent State Golden Flashes**: -3.5, Edge For Covering Spread: -2.1%
 
 ### Moneyline
-- **Ohio Bobcats Win Probability**: 35.9%, Moneyline Edge: -3.4%
-- **Kent State Golden Flashes Win Probability**: 64.1%, Moneyline Edge: -0.8%
+- **Ohio Bobcats Win Probability**: 36.6%, Moneyline Edge: -4.1%
+- **Kent State Golden Flashes Win Probability**: 63.4%, Moneyline Edge: **0.1%**
 
 ### Total
-- **Predicted Total**: 160.0
-- Edge For Covering The Over: -3.7%
-- Edge For Covering The Under: -2.6%
+- **Predicted Total**: 159.0
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.0%
 
 ---
 
@@ -42,17 +42,17 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Kent State Golden Flashes (23-8) hosts Ohio Bobcats (15-16) at Memorial Athletic & Convocation Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Kent State Golden Flashes favored by 4.5 points, with the total sitting at 160.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Kent State Golden Flashes (23-8) hosts Ohio Bobcats (15-16) at Memorial Athletic & Convocation Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Kent State Golden Flashes favored by 3.5 points, with the total sitting at 160.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Kent State Golden Flashes is viewed as the better team, but this isn't an overwhelming edge. Ohio Bobcats has a legitimate path to covering or winning outright. The total of 160.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.5-point spread indicates Kent State Golden Flashes is viewed as the better team, but this isn't an overwhelming edge. Ohio Bobcats has a legitimate path to covering or winning outright. The total of 160.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
-**Ohio Bobcats** bring an offensive efficiency of 108.10 (ranked #183 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.3% from three, they can't rely on the arc. Expect a paint-focused attack. 
-Meanwhile, **Kent State Golden Flashes** counter with 113.08 offensive efficiency (#90). They're competent on offense without being spectacular. At 35.6% from three, they have adequate spacing but must pick their spots. 
+**Ohio Bobcats** bring an offensive efficiency of 108.10 (ranked #185 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.3% from three, they can't rely on the arc. Expect a paint-focused attack. 
+Meanwhile, **Kent State Golden Flashes** counter with 113.08 offensive efficiency (#88). They're competent on offense without being spectacular. At 35.6% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Ohio Bobcats operate at a 70.3 tempo (#82), while Kent State Golden Flashes play at 72.3 (#23). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.3) should create a standard flow. 
+Ohio Bobcats operate at a 70.3 tempo (#81), while Kent State Golden Flashes play at 72.3 (#23). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.3) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Ohio Bobcats shoot 54.4% on two-pointers, while Kent State Golden Flashes convert at 51.7%. Both teams are evenly matched in paint efficiency. 
@@ -68,24 +68,24 @@ This looks like a mismatch on paper with Kent State Golden Flashes significantly
 
 **Key Matchup: Kent State Golden Flashes's Offense vs Ohio Bobcats's Defense**
 
-Kent State Golden Flashes features a solid offense (ranked #90) that should find success against Ohio Bobcats's defensive unit (ranked #273). 
+Kent State Golden Flashes features a solid offense (ranked #88) that should find success against Ohio Bobcats's defensive unit (ranked #274). 
 
 
 ## Ohio Bobcats
 
-Ohio Bobcats comes in ranked #227 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Ohio Bobcats comes in ranked #226 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 15-16
 - **Head Coach:** Jeff Boals
-- **KenPom Rank:** #227
-- **Offensive Efficiency:** 108.1 (Rank: #183)
-- **Defensive Efficiency:** 112.2 (Rank: #273)
-- **Tempo:** 70.3 (Rank: #82)
+- **KenPom Rank:** #226
+- **Offensive Efficiency:** 108.1 (Rank: #185)
+- **Defensive Efficiency:** 112.2 (Rank: #274)
+- **Tempo:** 70.3 (Rank: #81)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 54.4% (Rank: #80)
+- **2-Point Shooting:** 54.4% (Rank: #81)
 - **3-Point Shooting:** 30.3% (Rank: #338)
 - **Free Throw Shooting:** 70.8% (Rank: #240)
 - **3-Point Rate:** 38.0% (Rank: #213)
@@ -93,9 +93,9 @@ Ohio Bobcats comes in ranked #227 overall by KenPom. The three-point shot hasn't
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 51.6% (Rank: #172)
-- **Opponent 3-Point Shooting:** 37.2% (Rank: #343)
+- **Opponent 3-Point Shooting:** 37.2% (Rank: #344)
 - **Block Percentage:** 8.5% (Rank: #231)
-- **Steal Rate:** 0.1% (Rank: #281)
+- **Steal Rate:** 0.1% (Rank: #280)
 
 ### Team Metrics
 
@@ -108,35 +108,35 @@ Ohio Bobcats comes in ranked #227 overall by KenPom. The three-point shot hasn't
 
 ## Kent State Golden Flashes
 
-Kent State Golden Flashes comes in ranked #154 overall by KenPom. 
+Kent State Golden Flashes comes in ranked #155 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 23-8
 - **Head Coach:** Rob Senderoff
 - **Home Arena:** Memorial Athletic & Convocation Center
-- **KenPom Rank:** #154
-- **Offensive Efficiency:** 113.1 (Rank: #90)
+- **KenPom Rank:** #155
+- **Offensive Efficiency:** 113.1 (Rank: #88)
 - **Defensive Efficiency:** 109.9 (Rank: #217)
 - **Tempo:** 72.3 (Rank: #23)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 51.7% (Rank: #184)
+- **2-Point Shooting:** 51.7% (Rank: #186)
 - **3-Point Shooting:** 35.6% (Rank: #84)
-- **Free Throw Shooting:** 74.1% (Rank: #127)
+- **Free Throw Shooting:** 74.1% (Rank: #124)
 - **3-Point Rate:** 45.6% (Rank: #54)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.7% (Rank: #179)
-- **Opponent 3-Point Shooting:** 35.3% (Rank: #261)
-- **Block Percentage:** 9.9% (Rank: #145)
+- **Opponent 2-Point Shooting:** 51.7% (Rank: #178)
+- **Opponent 3-Point Shooting:** 35.3% (Rank: #264)
+- **Block Percentage:** 9.9% (Rank: #143)
 - **Steal Rate:** 0.1% (Rank: #217)
 
 ### Team Metrics
 
-- **Assist Rate:** 57.5% (Rank: #63)
+- **Assist Rate:** 57.5% (Rank: #65)
 - **Experience:** 1.9 years (Rank: #71)
-- **Bench Minutes:** 28.4% (Rank: #268)
+- **Bench Minutes:** 28.4% (Rank: #267)
 - **Average Height:** 76.1" (Rank: #345)
 

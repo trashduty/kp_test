@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Miami (OH) RedHawks -7.5</p>
-  <p><strong>Moneyline:</strong> Massachusetts Minutemen (+242) | Miami (OH) RedHawks (-305)</p>
+  <p><strong>Moneyline:</strong> Massachusetts Minutemen (+280) | Miami (OH) RedHawks (-357)</p>
   <p><strong>Total:</strong> 166.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Miami (OH) RedHawks**: -7.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Massachusetts Minutemen Win Probability**: 26.7%, Moneyline Edge: -2.5%
-- **Miami (OH) RedHawks Win Probability**: 73.3%, Moneyline Edge: -2.0%
+- **Massachusetts Minutemen Win Probability**: 25.5%, Moneyline Edge: -0.9%
+- **Miami (OH) RedHawks Win Probability**: 74.5%, Moneyline Edge: -3.6%
 
 ### Total
-- **Predicted Total**: 164.0
-- Edge For Covering The Over: -5.8%
-- Edge For Covering The Under: **1.1%**
+- **Predicted Total**: 163.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -49,7 +49,7 @@ A spread around 7.5 points tells us Miami (OH) RedHawks has clear advantages, bu
 
 #### Offensive Firepower
 **Massachusetts Minutemen** bring an offensive efficiency of 109.83 (ranked #142 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 36.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
-Meanwhile, **Miami (OH) RedHawks** counter with 119.99 offensive efficiency (#20). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 37.6%, giving them spacing and shot creation. 
+Meanwhile, **Miami (OH) RedHawks** counter with 119.99 offensive efficiency (#19). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 37.6%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
 Massachusetts Minutemen operate at a 71.3 tempo (#46), while Miami (OH) RedHawks play at 71.3 (#44). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.3) should create a standard flow. 
@@ -68,75 +68,75 @@ This looks like a mismatch on paper with Miami (OH) RedHawks significantly highe
 
 **Key Matchup: Miami (OH) RedHawks's Offense vs Massachusetts Minutemen's Defense**
 
-Miami (OH) RedHawks features a elite offense (ranked #20) that should find success against Massachusetts Minutemen's defensive unit (ranked #170). 
+Miami (OH) RedHawks features a elite offense (ranked #19) that should find success against Massachusetts Minutemen's defensive unit (ranked #170). 
 
 
 ## Massachusetts Minutemen
 
-Massachusetts Minutemen comes in ranked #201 overall by KenPom. They're dangerous from beyond the arc, shooting 36.1% from three (ranked #58 nationally), so expect them to let it fly from deep. 
+Massachusetts Minutemen comes in ranked #203 overall by KenPom. They're dangerous from beyond the arc, shooting 36.1% from three (ranked #57 nationally), so expect them to let it fly from deep. 
 
 ### Record & Ranking
 - **Record:** 16-15
 - **Head Coach:** Frank Martin
-- **KenPom Rank:** #201
+- **KenPom Rank:** #203
 - **Offensive Efficiency:** 109.8 (Rank: #142)
 - **Defensive Efficiency:** 108.1 (Rank: #170)
 - **Tempo:** 71.3 (Rank: #46)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 52.9% (Rank: #138)
-- **3-Point Shooting:** 36.1% (Rank: #58)
-- **Free Throw Shooting:** 67.5% (Rank: #332)
-- **3-Point Rate:** 35.9% (Rank: #255)
+- **2-Point Shooting:** 52.9% (Rank: #136)
+- **3-Point Shooting:** 36.1% (Rank: #57)
+- **Free Throw Shooting:** 67.5% (Rank: #334)
+- **3-Point Rate:** 35.9% (Rank: #253)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 54.7% (Rank: #302)
-- **Opponent 3-Point Shooting:** 32.8% (Rank: #110)
-- **Block Percentage:** 6.8% (Rank: #321)
+- **Opponent 3-Point Shooting:** 32.8% (Rank: #108)
+- **Block Percentage:** 6.8% (Rank: #320)
 - **Steal Rate:** 0.1% (Rank: #210)
 
 ### Team Metrics
 
-- **Assist Rate:** 59.8% (Rank: #36)
+- **Assist Rate:** 59.8% (Rank: #35)
 - **Experience:** 2.0 years (Rank: #61)
-- **Bench Minutes:** 29.2% (Rank: #253)
+- **Bench Minutes:** 29.2% (Rank: #251)
 - **Average Height:** 76.8" (Rank: #272)
 
 ---
 
 ## Miami (OH) RedHawks
 
-Miami (OH) RedHawks comes in ranked #91 overall by KenPom. They boast one of the nation's top offenses, ranked #20 in efficiency. 
+Miami (OH) RedHawks comes in ranked #90 overall by KenPom. They boast one of the nation's top offenses, ranked #19 in efficiency. 
 
 ### Record & Ranking
 - **Record:** 31-0
 - **Head Coach:** Travis Steele
 - **Home Arena:** Millett Hall
-- **KenPom Rank:** #91
-- **Offensive Efficiency:** 120.0 (Rank: #20)
-- **Defensive Efficiency:** 104.2 (Rank: #79)
+- **KenPom Rank:** #90
+- **Offensive Efficiency:** 120.0 (Rank: #19)
+- **Defensive Efficiency:** 104.2 (Rank: #78)
 - **Tempo:** 71.3 (Rank: #44)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 61.5% (Rank: #3)
-- **3-Point Shooting:** 37.6% (Rank: #25)
-- **Free Throw Shooting:** 75.1% (Rank: #79)
-- **3-Point Rate:** 44.2% (Rank: #83)
+- **3-Point Shooting:** 37.6% (Rank: #23)
+- **Free Throw Shooting:** 75.1% (Rank: #82)
+- **3-Point Rate:** 44.2% (Rank: #84)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.1% (Rank: #149)
+- **Opponent 2-Point Shooting:** 51.1% (Rank: #152)
 - **Opponent 3-Point Shooting:** 33.3% (Rank: #140)
-- **Block Percentage:** 8.3% (Rank: #244)
+- **Block Percentage:** 8.3% (Rank: #245)
 - **Steal Rate:** 0.1% (Rank: #141)
 
 ### Team Metrics
 
-- **Assist Rate:** 50.5% (Rank: #232)
+- **Assist Rate:** 50.5% (Rank: #231)
 - **Experience:** 2.0 years (Rank: #62)
-- **Bench Minutes:** 26.6% (Rank: #301)
-- **Average Height:** 77.5" (Rank: #155)
+- **Bench Minutes:** 26.6% (Rank: #300)
+- **Average Height:** 77.5" (Rank: #154)
 

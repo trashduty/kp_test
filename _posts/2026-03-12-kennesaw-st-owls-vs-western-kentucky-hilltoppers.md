@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Western Kentucky Hilltoppers -1.5</p>
-  <p><strong>Moneyline:</strong> Kennesaw St Owls (+105) | Western Kentucky Hilltoppers (-125)</p>
+  <p><strong>Moneyline:</strong> Kennesaw St Owls (+103) | Western Kentucky Hilltoppers (-123)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kennesaw St Owls**: 1.5, Edge For Covering Spread: -2.4%
-- **Western Kentucky Hilltoppers**: -1.5, Edge For Covering Spread: -4.0%
+- **Kennesaw St Owls**: 1.5, Edge For Covering Spread: -2.2%
+- **Western Kentucky Hilltoppers**: -1.5, Edge For Covering Spread: -4.2%
 
 ### Moneyline
-- **Kennesaw St Owls Win Probability**: 46.4%, Moneyline Edge: -2.4%
-- **Western Kentucky Hilltoppers Win Probability**: 53.6%, Moneyline Edge: -1.9%
+- **Kennesaw St Owls Win Probability**: 46.5%, Moneyline Edge: -2.6%
+- **Western Kentucky Hilltoppers Win Probability**: 53.5%, Moneyline Edge: -1.8%
 
 ### Total
-- **Predicted Total**: 159.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 158.0
+- Edge For Covering The Over: -1.0%
+- Edge For Covering The Under: -3.8%
 
 ---
 
@@ -49,10 +49,10 @@ A spread under 3 points suggests the books see this as essentially a coin flip. 
 
 #### Offensive Firepower
 **Kennesaw St Owls** bring an offensive efficiency of 110.42 (ranked #130 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.7% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Western Kentucky Hilltoppers** counter with 108.79 offensive efficiency (#171). Points have been hard to come by, making every possession critical. At 33.0% from three, they have adequate spacing but must pick their spots. 
+Meanwhile, **Western Kentucky Hilltoppers** counter with 108.79 offensive efficiency (#170). Points have been hard to come by, making every possession critical. At 33.0% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Kennesaw St Owls operate at a 72.0 tempo (#26), while Western Kentucky Hilltoppers play at 70.7 (#70). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.4) should create a standard flow. 
+Kennesaw St Owls operate at a 72.0 tempo (#25), while Western Kentucky Hilltoppers play at 70.7 (#66). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 71.4) should create a standard flow. 
 
 #### The Interior Battle
 Inside the paint, Kennesaw St Owls shoot 50.4% on two-pointers, while Western Kentucky Hilltoppers convert at 45.9%. Both teams are evenly matched in paint efficiency. 
@@ -73,20 +73,20 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Kennesaw St Owls
 
-Kennesaw St Owls comes in ranked #180 overall by KenPom. 
+Kennesaw St Owls comes in ranked #179 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 18-13
 - **Head Coach:** Antoine Pettway
-- **KenPom Rank:** #180
+- **KenPom Rank:** #179
 - **Offensive Efficiency:** 110.4 (Rank: #130)
-- **Defensive Efficiency:** 108.7 (Rank: #184)
-- **Tempo:** 72.0 (Rank: #26)
+- **Defensive Efficiency:** 108.7 (Rank: #187)
+- **Tempo:** 72.0 (Rank: #25)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 50.4% (Rank: #247)
-- **3-Point Shooting:** 33.7% (Rank: #192)
+- **2-Point Shooting:** 50.4% (Rank: #245)
+- **3-Point Shooting:** 33.7% (Rank: #191)
 - **Free Throw Shooting:** 69.8% (Rank: #274)
 - **3-Point Rate:** 43.7% (Rank: #97)
 
@@ -99,7 +99,7 @@ Kennesaw St Owls comes in ranked #180 overall by KenPom.
 
 ### Team Metrics
 
-- **Assist Rate:** 52.2% (Rank: #187)
+- **Assist Rate:** 52.2% (Rank: #186)
 - **Experience:** 1.2 years (Rank: #233)
 - **Bench Minutes:** 38.2% (Rank: #45)
 - **Average Height:** 78.3" (Rank: #52)
@@ -115,27 +115,27 @@ Western Kentucky Hilltoppers comes in ranked #166 overall by KenPom.
 - **Head Coach:** Hank Plona
 - **Home Arena:** E.A. Diddle Arena
 - **KenPom Rank:** #166
-- **Offensive Efficiency:** 108.8 (Rank: #171)
-- **Defensive Efficiency:** 107.2 (Rank: #139)
-- **Tempo:** 70.7 (Rank: #70)
+- **Offensive Efficiency:** 108.8 (Rank: #170)
+- **Defensive Efficiency:** 107.2 (Rank: #141)
+- **Tempo:** 70.7 (Rank: #66)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 45.9% (Rank: #348)
-- **3-Point Shooting:** 33.0% (Rank: #234)
-- **Free Throw Shooting:** 75.5% (Rank: #69)
-- **3-Point Rate:** 39.3% (Rank: #184)
+- **3-Point Shooting:** 33.0% (Rank: #233)
+- **Free Throw Shooting:** 75.5% (Rank: #68)
+- **3-Point Rate:** 39.3% (Rank: #183)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 50.6% (Rank: #128)
-- **Opponent 3-Point Shooting:** 34.3% (Rank: #198)
+- **Opponent 2-Point Shooting:** 50.6% (Rank: #129)
+- **Opponent 3-Point Shooting:** 34.3% (Rank: #202)
 - **Block Percentage:** 7.1% (Rank: #309)
 - **Steal Rate:** 0.1% (Rank: #107)
 
 ### Team Metrics
 
-- **Assist Rate:** 51.2% (Rank: #212)
+- **Assist Rate:** 51.2% (Rank: #211)
 - **Experience:** 1.8 years (Rank: #86)
 - **Bench Minutes:** 40.4% (Rank: #23)
 - **Average Height:** 77.0" (Rank: #247)

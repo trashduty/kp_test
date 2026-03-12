@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Seton Hall Pirates -3.0</p>
-  <p><strong>Moneyline:</strong> Creighton Bluejays (+120) | Seton Hall Pirates (-142)</p>
+  <p><strong>Moneyline:</strong> Creighton Bluejays (+126) | Seton Hall Pirates (-154)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Creighton Bluejays**: 3.0, Edge For Covering Spread: -2.7%
-- **Seton Hall Pirates**: -3.0, Edge For Covering Spread: -2.0%
+- **Creighton Bluejays**: 3.0, Edge For Covering Spread: -0.6%
+- **Seton Hall Pirates**: -3.0, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Creighton Bluejays Win Probability**: 42.3%, Moneyline Edge: -3.1%
-- **Seton Hall Pirates Win Probability**: 57.7%, Moneyline Edge: -1.0%
+- **Creighton Bluejays Win Probability**: 41.6%, Moneyline Edge: -2.6%
+- **Seton Hall Pirates Win Probability**: 58.4%, Moneyline Edge: -2.3%
 
 ### Total
-- **Predicted Total**: 136.0
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -2.9%
+- **Predicted Total**: 133.5
+- Edge For Covering The Over: **0.7%**
+- Edge For Covering The Under: -5.5%
 
 ---
 
@@ -49,10 +49,10 @@ The 3.0-point spread indicates Seton Hall Pirates is viewed as the better team, 
 
 #### Offensive Firepower
 **Creighton Bluejays** bring an offensive efficiency of 109.82 (ranked #144 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.0% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Seton Hall Pirates** counter with 105.84 offensive efficiency (#232). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 30.5%, forcing them to grind in the half court. 
+Meanwhile, **Seton Hall Pirates** counter with 105.84 offensive efficiency (#233). Points have been hard to come by, making every possession critical. The three-point shot hasn't fallen this year at 30.5%, forcing them to grind in the half court. 
 
 #### Tempo & Playing Style
-Creighton Bluejays operate at a 68.5 tempo (#172), while Seton Hall Pirates play at 66.4 (#281). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.5) means fewer possessions, making each one more valuable. 
+Creighton Bluejays operate at a 68.5 tempo (#171), while Seton Hall Pirates play at 66.4 (#284). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 67.5) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Creighton Bluejays shoot 54.6% on two-pointers, while Seton Hall Pirates convert at 48.6%. Creighton Bluejays has a clear edge in interior scoring efficiency. 
@@ -73,35 +73,35 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Creighton Bluejays
 
-Creighton Bluejays comes in ranked #75 overall by KenPom. 
+Creighton Bluejays comes in ranked #73 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 15-16
 - **Head Coach:** Greg McDermott
-- **KenPom Rank:** #75
+- **KenPom Rank:** #73
 - **Offensive Efficiency:** 109.8 (Rank: #144)
-- **Defensive Efficiency:** 109.5 (Rank: #206)
-- **Tempo:** 68.5 (Rank: #172)
+- **Defensive Efficiency:** 109.5 (Rank: #208)
+- **Tempo:** 68.5 (Rank: #171)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 54.6% (Rank: #73)
+- **2-Point Shooting:** 54.6% (Rank: #75)
 - **3-Point Shooting:** 35.0% (Rank: #125)
-- **Free Throw Shooting:** 76.1% (Rank: #54)
-- **3-Point Rate:** 48.0% (Rank: #24)
+- **Free Throw Shooting:** 76.1% (Rank: #53)
+- **3-Point Rate:** 48.0% (Rank: #25)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 50.6% (Rank: #123)
-- **Opponent 3-Point Shooting:** 35.3% (Rank: #262)
+- **Opponent 2-Point Shooting:** 50.6% (Rank: #124)
+- **Opponent 3-Point Shooting:** 35.3% (Rank: #265)
 - **Block Percentage:** 6.2% (Rank: #339)
 - **Steal Rate:** 0.1% (Rank: #249)
 
 ### Team Metrics
 
-- **Assist Rate:** 58.3% (Rank: #57)
+- **Assist Rate:** 58.3% (Rank: #55)
 - **Experience:** 1.9 years (Rank: #81)
-- **Bench Minutes:** 36.0% (Rank: #75)
+- **Bench Minutes:** 36.0% (Rank: #76)
 - **Average Height:** 78.2" (Rank: #61)
 
 ---
@@ -115,9 +115,9 @@ Seton Hall Pirates comes in ranked #51 overall by KenPom. The three-point shot h
 - **Head Coach:** Shaheen Holloway
 - **Home Arena:** Prudential Center
 - **KenPom Rank:** #51
-- **Offensive Efficiency:** 105.8 (Rank: #232)
+- **Offensive Efficiency:** 105.8 (Rank: #233)
 - **Defensive Efficiency:** 98.0 (Rank: #14)
-- **Tempo:** 66.4 (Rank: #281)
+- **Tempo:** 66.4 (Rank: #284)
 
 ### Shooting Breakdown
 
@@ -129,14 +129,14 @@ Seton Hall Pirates comes in ranked #51 overall by KenPom. The three-point shot h
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 45.9% (Rank: #13)
-- **Opponent 3-Point Shooting:** 32.7% (Rank: #105)
+- **Opponent 3-Point Shooting:** 32.7% (Rank: #102)
 - **Block Percentage:** 18.8% (Rank: #1)
-- **Steal Rate:** 0.1% (Rank: #4)
+- **Steal Rate:** 0.1% (Rank: #3)
 
 ### Team Metrics
 
-- **Assist Rate:** 51.3% (Rank: #209)
+- **Assist Rate:** 51.3% (Rank: #208)
 - **Experience:** 2.5 years (Rank: #15)
-- **Bench Minutes:** 36.4% (Rank: #66)
+- **Bench Minutes:** 36.4% (Rank: #63)
 - **Average Height:** 76.2" (Rank: #341)
 
