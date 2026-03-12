@@ -4870,5 +4870,21 @@
   "Utah Tech Trailblazers vs. Abilene Christian Wildcats|Utah Tech Trailblazers|moneyline": {
     "captured_at": "2026-03-12T11:16:00.764760+00:00",
     "edge_type": "moneyline"
+  },
+  "Dayton Flyers vs. St. Bonaventure Bonnies|over": {
+    "captured_at": "2026-03-12T22:08:53.274885+00:00",
+    "edge_type": "over"
+  },
+  "Alabama A&M Bulldogs vs. Prairie View Panthers|over": {
+    "captured_at": "2026-03-12T22:08:53.275094+00:00",
+    "edge_type": "over"
+  },
+  "Arizona Wildcats vs. Iowa State Cyclones|Arizona Wildcats|spread": {
+    "captured_at": "2026-03-12T22:08:53.275982+00:00",
+    "edge_type": "spread"
+  },
+  "Arizona Wildcats vs. Iowa State Cyclones|Arizona Wildcats|moneyline": {
+    "captured_at": "2026-03-12T22:08:53.276021+00:00",
+    "edge_type": "moneyline"
   }
 }
