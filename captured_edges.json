@@ -4842,5 +4842,17 @@
   "Texas Tech Red Raiders vs. Iowa State Cyclones|Texas Tech Red Raiders|spread": {
     "captured_at": "2026-03-12T03:05:00.715526+00:00",
     "edge_type": "spread"
+  },
+  "Georgia Bulldogs vs. Ole Miss Rebels|Georgia Bulldogs|spread": {
+    "captured_at": "2026-03-12T04:38:41.765765+00:00",
+    "edge_type": "spread"
+  },
+  "Duke Blue Devils vs. Florida St Seminoles|Duke Blue Devils|spread": {
+    "captured_at": "2026-03-12T04:38:41.766057+00:00",
+    "edge_type": "spread"
+  },
+  "St. John's Red Storm vs. Providence Friars|over": {
+    "captured_at": "2026-03-12T04:38:41.767509+00:00",
+    "edge_type": "over"
   }
 }
