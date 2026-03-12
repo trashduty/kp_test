@@ -4886,5 +4886,9 @@
   "Arizona Wildcats vs. Iowa State Cyclones|Arizona Wildcats|moneyline": {
     "captured_at": "2026-03-12T22:08:53.276021+00:00",
     "edge_type": "moneyline"
+  },
+  "Arizona Wildcats vs. Iowa State Cyclones|over": {
+    "captured_at": "2026-03-12T23:10:22.833229+00:00",
+    "edge_type": "over"
   }
 }
