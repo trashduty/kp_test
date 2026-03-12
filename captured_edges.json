@@ -4858,5 +4858,9 @@
   "UConn Huskies vs. Xavier Musketeers|under": {
     "captured_at": "2026-03-12T05:27:36.845802+00:00",
     "edge_type": "under"
+  },
+  "San Diego St Aztecs vs. Colorado St Rams|San Diego St Aztecs|moneyline": {
+    "captured_at": "2026-03-12T10:18:28.049632+00:00",
+    "edge_type": "moneyline"
   }
 }
