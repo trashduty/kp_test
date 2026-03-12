@@ -4862,5 +4862,13 @@
   "San Diego St Aztecs vs. Colorado St Rams|San Diego St Aztecs|moneyline": {
     "captured_at": "2026-03-12T10:18:28.049632+00:00",
     "edge_type": "moneyline"
+  },
+  "Villanova Wildcats vs. Georgetown Hoyas|Villanova Wildcats|moneyline": {
+    "captured_at": "2026-03-12T11:16:00.764096+00:00",
+    "edge_type": "moneyline"
+  },
+  "Utah Tech Trailblazers vs. Abilene Christian Wildcats|Utah Tech Trailblazers|moneyline": {
+    "captured_at": "2026-03-12T11:16:00.764760+00:00",
+    "edge_type": "moneyline"
   }
 }
