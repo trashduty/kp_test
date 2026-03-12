@@ -4854,5 +4854,9 @@
   "St. John's Red Storm vs. Providence Friars|over": {
     "captured_at": "2026-03-12T04:38:41.767509+00:00",
     "edge_type": "over"
+  },
+  "UConn Huskies vs. Xavier Musketeers|under": {
+    "captured_at": "2026-03-12T05:27:36.845802+00:00",
+    "edge_type": "under"
   }
 }
