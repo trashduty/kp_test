@@ -4790,5 +4790,57 @@
   "Florida A&M Rattlers vs. Jackson St Tigers|Jackson St Tigers|spread": {
     "captured_at": "2026-03-11T13:32:14.466543+00:00",
     "edge_type": "spread"
+  },
+  "Wisconsin Badgers vs. Washington Huskies|Washington Huskies|spread": {
+    "captured_at": "2026-03-12T03:05:00.712200+00:00",
+    "edge_type": "spread"
+  },
+  "Utah State Aggies vs. UNLV Rebels|Utah State Aggies|moneyline": {
+    "captured_at": "2026-03-12T03:05:00.712597+00:00",
+    "edge_type": "moneyline"
+  },
+  "Purdue Boilermakers vs. Northwestern Wildcats|Purdue Boilermakers|spread": {
+    "captured_at": "2026-03-12T03:05:00.713171+00:00",
+    "edge_type": "spread"
+  },
+  "Purdue Boilermakers vs. Northwestern Wildcats|Purdue Boilermakers|moneyline": {
+    "captured_at": "2026-03-12T03:05:00.713205+00:00",
+    "edge_type": "moneyline"
+  },
+  "Houston Cougars vs. BYU Cougars|Houston Cougars|spread": {
+    "captured_at": "2026-03-12T03:05:00.713523+00:00",
+    "edge_type": "spread"
+  },
+  "Houston Cougars vs. BYU Cougars|Houston Cougars|moneyline": {
+    "captured_at": "2026-03-12T03:05:00.713562+00:00",
+    "edge_type": "moneyline"
+  },
+  "Houston Cougars vs. BYU Cougars|under": {
+    "captured_at": "2026-03-12T03:05:00.713600+00:00",
+    "edge_type": "under"
+  },
+  "Duke Blue Devils vs. Florida St Seminoles|under": {
+    "captured_at": "2026-03-12T03:05:00.713782+00:00",
+    "edge_type": "under"
+  },
+  "Georgia Bulldogs vs. Ole Miss Rebels|Georgia Bulldogs|moneyline": {
+    "captured_at": "2026-03-12T03:05:00.713925+00:00",
+    "edge_type": "moneyline"
+  },
+  "Charlotte 49ers vs. Tulane Green Wave|Charlotte 49ers|spread": {
+    "captured_at": "2026-03-12T03:05:00.714074+00:00",
+    "edge_type": "spread"
+  },
+  "Charlotte 49ers vs. Tulane Green Wave|Charlotte 49ers|moneyline": {
+    "captured_at": "2026-03-12T03:05:00.714108+00:00",
+    "edge_type": "moneyline"
+  },
+  "Davidson Wildcats vs. Loyola (Chi) Ramblers|Davidson Wildcats|moneyline": {
+    "captured_at": "2026-03-12T03:05:00.714449+00:00",
+    "edge_type": "moneyline"
+  },
+  "Texas Tech Red Raiders vs. Iowa State Cyclones|Texas Tech Red Raiders|spread": {
+    "captured_at": "2026-03-12T03:05:00.715526+00:00",
+    "edge_type": "spread"
   }
 }
