@@ -4926,5 +4926,13 @@
   "Akron Zips vs. Kent State Golden Flashes|Akron Zips|spread": {
     "captured_at": "2026-03-13T04:38:01.458937+00:00",
     "edge_type": "spread"
+  },
+  "Hawai'i Rainbow Warriors vs. CSU Fullerton Titans|Hawai'i Rainbow Warriors|moneyline": {
+    "captured_at": "2026-03-13T10:14:58.669325+00:00",
+    "edge_type": "moneyline"
+  },
+  "San Diego St Aztecs vs. New Mexico Lobos|New Mexico Lobos|moneyline": {
+    "captured_at": "2026-03-13T10:14:58.670092+00:00",
+    "edge_type": "moneyline"
   }
 }
