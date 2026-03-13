@@ -4950,5 +4950,9 @@
   "Yale Bulldogs vs. Cornell Big Red|Yale Bulldogs|moneyline": {
     "captured_at": "2026-03-13T19:16:39.878510+00:00",
     "edge_type": "moneyline"
+  },
+  "UMBC Retrievers vs. Vermont Catamounts|UMBC Retrievers|moneyline": {
+    "captured_at": "2026-03-13T20:12:30.239730+00:00",
+    "edge_type": "moneyline"
   }
 }
