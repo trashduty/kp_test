@@ -4890,5 +4890,37 @@
   "Arizona Wildcats vs. Iowa State Cyclones|over": {
     "captured_at": "2026-03-12T23:10:22.833229+00:00",
     "edge_type": "over"
+  },
+  "Vanderbilt Commodores vs. Tennessee Volunteers|Vanderbilt Commodores|spread": {
+    "captured_at": "2026-03-13T03:03:09.505980+00:00",
+    "edge_type": "spread"
+  },
+  "Vanderbilt Commodores vs. Tennessee Volunteers|Vanderbilt Commodores|moneyline": {
+    "captured_at": "2026-03-13T03:03:09.506023+00:00",
+    "edge_type": "moneyline"
+  },
+  "VCU Rams vs. Duquesne Dukes|Duquesne Dukes|spread": {
+    "captured_at": "2026-03-13T03:03:09.506219+00:00",
+    "edge_type": "spread"
+  },
+  "Nebraska Cornhuskers vs. Purdue Boilermakers|Nebraska Cornhuskers|spread": {
+    "captured_at": "2026-03-13T03:03:09.506864+00:00",
+    "edge_type": "spread"
+  },
+  "Akron Zips vs. Kent State Golden Flashes|Akron Zips|moneyline": {
+    "captured_at": "2026-03-13T03:03:09.507346+00:00",
+    "edge_type": "moneyline"
+  },
+  "Utah State Aggies vs. Nevada Wolf Pack|Utah State Aggies|moneyline": {
+    "captured_at": "2026-03-13T03:03:09.507601+00:00",
+    "edge_type": "moneyline"
+  },
+  "UAB Blazers vs. Charlotte 49ers|UAB Blazers|spread": {
+    "captured_at": "2026-03-13T03:03:09.508189+00:00",
+    "edge_type": "spread"
+  },
+  "UAB Blazers vs. Charlotte 49ers|UAB Blazers|moneyline": {
+    "captured_at": "2026-03-13T03:03:09.508224+00:00",
+    "edge_type": "moneyline"
   }
 }
