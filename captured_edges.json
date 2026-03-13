@@ -4934,5 +4934,13 @@
   "San Diego St Aztecs vs. New Mexico Lobos|New Mexico Lobos|moneyline": {
     "captured_at": "2026-03-13T10:14:58.670092+00:00",
     "edge_type": "moneyline"
+  },
+  "UConn Huskies vs. Georgetown Hoyas|Georgetown Hoyas|spread": {
+    "captured_at": "2026-03-13T13:30:16.012760+00:00",
+    "edge_type": "spread"
+  },
+  "San Diego St Aztecs vs. New Mexico Lobos|New Mexico Lobos|spread": {
+    "captured_at": "2026-03-13T13:30:16.014557+00:00",
+    "edge_type": "spread"
   }
 }
