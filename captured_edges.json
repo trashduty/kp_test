@@ -4942,5 +4942,13 @@
   "San Diego St Aztecs vs. New Mexico Lobos|New Mexico Lobos|spread": {
     "captured_at": "2026-03-13T13:30:16.014557+00:00",
     "edge_type": "spread"
+  },
+  "Harvard Crimson vs. Pennsylvania Quakers|Pennsylvania Quakers|spread": {
+    "captured_at": "2026-03-13T19:16:39.878385+00:00",
+    "edge_type": "spread"
+  },
+  "Yale Bulldogs vs. Cornell Big Red|Yale Bulldogs|moneyline": {
+    "captured_at": "2026-03-13T19:16:39.878510+00:00",
+    "edge_type": "moneyline"
   }
 }
