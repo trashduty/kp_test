@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Dayton Flyers -6.5</p>
-  <p><strong>Moneyline:</strong> St. Bonaventure Bonnies (+225) | Dayton Flyers (-280)</p>
+  <p><strong>Moneyline:</strong> St. Bonaventure Bonnies (+240) | Dayton Flyers (-300)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Dayton Flyers**: -6.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **St. Bonaventure Bonnies Win Probability**: 27.7%, Moneyline Edge: -3.0%
-- **Dayton Flyers Win Probability**: 72.3%, Moneyline Edge: -1.4%
+- **St. Bonaventure Bonnies Win Probability**: 27.6%, Moneyline Edge: -1.8%
+- **Dayton Flyers Win Probability**: 72.4%, Moneyline Edge: -2.6%
 
 ### Total
-- **Predicted Total**: 143.0
-- Edge For Covering The Over: **1.5%**
-- Edge For Covering The Under: -6.3%
+- **Predicted Total**: 142.5
+- Edge For Covering The Over: **0.7%**
+- Edge For Covering The Under: -5.5%
 
 ---
 

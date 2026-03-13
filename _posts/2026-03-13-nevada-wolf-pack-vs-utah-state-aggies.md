@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Utah State Aggies -6.5</p>
-  <p><strong>Moneyline:</strong> Nevada Wolf Pack (+215) | Utah State Aggies (-262)</p>
+  <p><strong>Moneyline:</strong> Nevada Wolf Pack (+227) | Utah State Aggies (-282)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Utah State Aggies**: -6.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Nevada Wolf Pack Win Probability**: 30.0%, Moneyline Edge: -1.7%
-- **Utah State Aggies Win Probability**: 70.0%, Moneyline Edge: -2.4%
+- **Nevada Wolf Pack Win Probability**: 29.1%, Moneyline Edge: -1.4%
+- **Utah State Aggies Win Probability**: 70.9%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 146.5
-- Edge For Covering The Over: -0.4%
-- Edge For Covering The Under: -4.3%
+- Edge For Covering The Over: **0.3%**
+- Edge For Covering The Under: -5.0%
 
 ---
 

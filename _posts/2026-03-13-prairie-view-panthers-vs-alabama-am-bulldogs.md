@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Prairie View Panthers -1.5</p>
-  <p><strong>Moneyline:</strong> Prairie View Panthers (-119) | Alabama A&M Bulldogs (-100)</p>
+  <p><strong>Moneyline:</strong> Prairie View Panthers (-116) | Alabama A&M Bulldogs (-103)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,15 +24,15 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Prairie View Panthers**: -1.5, Edge For Covering Spread: -3.9%
-- **Alabama A&M Bulldogs**: 1.5, Edge For Covering Spread: -0.8%
+- **Prairie View Panthers**: -1.5, Edge For Covering Spread: -4.6%
+- **Alabama A&M Bulldogs**: 1.5, Edge For Covering Spread: -0.1%
 
 ### Moneyline
-- **Prairie View Panthers Win Probability**: 50.5%, Moneyline Edge: -3.8%
-- **Alabama A&M Bulldogs Win Probability**: 49.5%, Moneyline Edge: -0.5%
+- **Prairie View Panthers Win Probability**: 49.7%, Moneyline Edge: -4.1%
+- **Alabama A&M Bulldogs Win Probability**: 50.3%, Moneyline Edge: -0.5%
 
 ### Total
-- **Predicted Total**: 146.5
+- **Predicted Total**: 145.5
 - Edge For Covering The Over: **2.7%**
 - Edge For Covering The Under: -7.5%
 

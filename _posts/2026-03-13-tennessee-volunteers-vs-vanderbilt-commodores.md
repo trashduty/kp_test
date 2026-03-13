@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tennessee Volunteers**: 1.5, Edge For Covering Spread: -2.4%
-- **Vanderbilt Commodores**: -1.5, Edge For Covering Spread: -2.4%
+- **Tennessee Volunteers**: 1.5, Edge For Covering Spread: -0.8%
+- **Vanderbilt Commodores**: -1.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
 - **Tennessee Volunteers Win Probability**: 48.9%, Moneyline Edge: -1.1%
 - **Vanderbilt Commodores Win Probability**: 51.1%, Moneyline Edge: -3.5%
 
 ### Total
-- **Predicted Total**: 148.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -4.1%
+- **Predicted Total**: 147.0
+- Edge For Covering The Over: -2.1%
+- Edge For Covering The Under: -4.4%
 
 ---
 

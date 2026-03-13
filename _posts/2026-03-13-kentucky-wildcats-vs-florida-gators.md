@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Florida Gators -10.5</p>
-  <p><strong>Moneyline:</strong> Kentucky Wildcats (+425) | Florida Gators (-600)</p>
+  <p><strong>Spread:</strong> Florida Gators -11.5</p>
+  <p><strong>Moneyline:</strong> Kentucky Wildcats (+537) | Florida Gators (-774)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kentucky Wildcats**: 10.5, Edge For Covering Spread: -1.8%
-- **Florida Gators**: -10.5, Edge For Covering Spread: -2.9%
+- **Kentucky Wildcats**: 11.5, Edge For Covering Spread: -1.3%
+- **Florida Gators**: -11.5, Edge For Covering Spread: -3.4%
 
 ### Moneyline
-- **Kentucky Wildcats Win Probability**: 17.1%, Moneyline Edge: -2.0%
-- **Florida Gators Win Probability**: 82.9%, Moneyline Edge: -2.8%
+- **Kentucky Wildcats Win Probability**: 15.5%, Moneyline Edge: -0.2%
+- **Florida Gators Win Probability**: 84.5%, Moneyline Edge: -4.1%
 
 ### Total
 - **Predicted Total**: 158.0
-- Edge For Covering The Over: -5.2%
-- Edge For Covering The Under: **0.4%**
+- Edge For Covering The Over: -5.7%
+- Edge For Covering The Under: **1.0%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Florida Gators (25-6) hosts Kentucky Wildcats (21-12) at Exactech Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Florida Gators favored by 10.5 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Florida Gators (25-6) hosts Kentucky Wildcats (21-12) at Exactech Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Florida Gators favored by 11.5 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us Florida Gators has clear advantages, but games aren't played on paper. Kentucky Wildcats needs to punch above their weight class to keep this close. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 11.5 points tells us Florida Gators has clear advantages, but games aren't played on paper. Kentucky Wildcats needs to punch above their weight class to keep this close. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Kentucky Wildcats** bring an offensive efficiency of 116.72 (ranked #50 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.5% three-point shooting is serviceable but won't scare anyone. 

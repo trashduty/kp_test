@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arizona Wildcats -4.5</p>
-  <p><strong>Moneyline:</strong> Iowa State Cyclones (+145) | Arizona Wildcats (-172)</p>
+  <p><strong>Moneyline:</strong> Iowa State Cyclones (+155) | Arizona Wildcats (-187)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Iowa State Cyclones**: 4.5, Edge For Covering Spread: -2.6%
-- **Arizona Wildcats**: -4.5, Edge For Covering Spread: -2.2%
+- **Iowa State Cyclones**: 4.5, Edge For Covering Spread: -1.5%
+- **Arizona Wildcats**: -4.5, Edge For Covering Spread: -3.3%
 
 ### Moneyline
-- **Iowa State Cyclones Win Probability**: 38.1%, Moneyline Edge: -2.7%
-- **Arizona Wildcats Win Probability**: 61.9%, Moneyline Edge: -1.4%
+- **Iowa State Cyclones Win Probability**: 37.3%, Moneyline Edge: -1.9%
+- **Arizona Wildcats Win Probability**: 62.7%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 144.5

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Saint Louis Billikens -6.5</p>
-  <p><strong>Moneyline:</strong> GW Revolutionaries (+197) | Saint Louis Billikens (-240)</p>
+  <p><strong>Spread:</strong> Saint Louis Billikens -7.0</p>
+  <p><strong>Moneyline:</strong> GW Revolutionaries (+240) | Saint Louis Billikens (-297)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **GW Revolutionaries**: 6.5, Edge For Covering Spread: -1.2%
-- **Saint Louis Billikens**: -6.5, Edge For Covering Spread: -3.5%
+- **GW Revolutionaries**: 7.0, Edge For Covering Spread: -0.8%
+- **Saint Louis Billikens**: -7.0, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **GW Revolutionaries Win Probability**: 30.9%, Moneyline Edge: -2.7%
-- **Saint Louis Billikens Win Probability**: 69.1%, Moneyline Edge: -1.5%
+- **GW Revolutionaries Win Probability**: 28.8%, Moneyline Edge: -0.6%
+- **Saint Louis Billikens Win Probability**: 71.2%, Moneyline Edge: -3.7%
 
 ### Total
-- **Predicted Total**: 162.5
-- Edge For Covering The Over: -1.4%
-- Edge For Covering The Under: -3.4%
+- **Predicted Total**: 162.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Saint Louis Billikens (27-4) hosts GW Revolutionaries (18-14) at Chaifetz Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Saint Louis Billikens favored by 6.5 points, with the total sitting at 160.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Saint Louis Billikens (27-4) hosts GW Revolutionaries (18-14) at Chaifetz Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Saint Louis Billikens favored by 7.0 points, with the total sitting at 160.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates Saint Louis Billikens is viewed as the better team, but this isn't an overwhelming edge. GW Revolutionaries has a legitimate path to covering or winning outright. The total of 160.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.0 points tells us Saint Louis Billikens has clear advantages, but games aren't played on paper. GW Revolutionaries needs to punch above their weight class to keep this close. The total of 160.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **GW Revolutionaries** bring an offensive efficiency of 116.08 (ranked #53 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.1% three-point shooting is serviceable but won't scare anyone. 

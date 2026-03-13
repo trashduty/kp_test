@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UAB Blazers -5.0</p>
-  <p><strong>Moneyline:</strong> Charlotte 49ers (+166) | UAB Blazers (-200)</p>
+  <p><strong>Spread:</strong> UAB Blazers -5.5</p>
+  <p><strong>Moneyline:</strong> Charlotte 49ers (+195) | UAB Blazers (-239)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Charlotte 49ers**: 5.0, Edge For Covering Spread: **0.6%**
-- **UAB Blazers**: -5.0, Edge For Covering Spread: -5.4%
+- **Charlotte 49ers**: 5.5, Edge For Covering Spread: **1.0%**
+- **UAB Blazers**: -5.5, Edge For Covering Spread: -5.7%
 
 ### Moneyline
-- **Charlotte 49ers Win Probability**: 36.5%, Moneyline Edge: -1.0%
-- **UAB Blazers Win Probability**: 63.5%, Moneyline Edge: -3.2%
+- **Charlotte 49ers Win Probability**: 34.7%, Moneyline Edge: **0.8%**
+- **UAB Blazers Win Probability**: 65.3%, Moneyline Edge: -5.2%
 
 ### Total
 - **Predicted Total**: 145.0
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -3.4%
+- Edge For Covering The Under: -1.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UAB Blazers (20-11) hosts Charlotte 49ers (16-16) at Bartow Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UAB Blazers favored by 5.0 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UAB Blazers (20-11) hosts Charlotte 49ers (16-16) at Bartow Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UAB Blazers favored by 5.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.0-point spread indicates UAB Blazers is viewed as the better team, but this isn't an overwhelming edge. Charlotte 49ers has a legitimate path to covering or winning outright. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 5.5-point spread indicates UAB Blazers is viewed as the better team, but this isn't an overwhelming edge. Charlotte 49ers has a legitimate path to covering or winning outright. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Charlotte 49ers** bring an offensive efficiency of 111.74 (ranked #109 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.1% three-point shooting is serviceable but won't scare anyone. 

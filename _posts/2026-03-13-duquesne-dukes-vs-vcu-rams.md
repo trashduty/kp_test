@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> VCU Rams -9.0</p>
-  <p><strong>Moneyline:</strong> Duquesne Dukes (+292) | VCU Rams (-375)</p>
+  <p><strong>Spread:</strong> VCU Rams -8.5</p>
+  <p><strong>Moneyline:</strong> Duquesne Dukes (+327) | VCU Rams (-427)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Duquesne Dukes**: 9.0, Edge For Covering Spread: -1.6%
-- **VCU Rams**: -9.0, Edge For Covering Spread: -3.2%
+- **Duquesne Dukes**: 8.5, Edge For Covering Spread: -2.0%
+- **VCU Rams**: -8.5, Edge For Covering Spread: -2.7%
 
 ### Moneyline
-- **Duquesne Dukes Win Probability**: 24.7%, Moneyline Edge: -0.8%
-- **VCU Rams Win Probability**: 75.3%, Moneyline Edge: -3.6%
+- **Duquesne Dukes Win Probability**: 23.7%, Moneyline Edge: **0.3%**
+- **VCU Rams Win Probability**: 76.3%, Moneyline Edge: -4.7%
 
 ### Total
-- **Predicted Total**: 154.5
-- Edge For Covering The Over: -0.3%
-- Edge For Covering The Under: -4.5%
+- **Predicted Total**: 152.0
+- Edge For Covering The Over: **1.5%**
+- Edge For Covering The Under: -6.3%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-VCU Rams (24-7) hosts Duquesne Dukes (18-14) at Siegel Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into VCU Rams favored by 9.0 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+VCU Rams (24-7) hosts Duquesne Dukes (18-14) at Siegel Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into VCU Rams favored by 8.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.0 points tells us VCU Rams has clear advantages, but games aren't played on paper. Duquesne Dukes needs to punch above their weight class to keep this close. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 8.5 points tells us VCU Rams has clear advantages, but games aren't played on paper. Duquesne Dukes needs to punch above their weight class to keep this close. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Duquesne Dukes** bring an offensive efficiency of 109.35 (ranked #152 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.1% three-point shooting is serviceable but won't scare anyone. 

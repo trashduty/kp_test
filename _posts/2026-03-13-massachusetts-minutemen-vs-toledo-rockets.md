@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Toledo Rockets -3.5</p>
-  <p><strong>Moneyline:</strong> Massachusetts Minutemen (+135) | Toledo Rockets (-163)</p>
+  <p><strong>Spread:</strong> Toledo Rockets -3.0</p>
+  <p><strong>Moneyline:</strong> Massachusetts Minutemen (+135) | Toledo Rockets (-158)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Massachusetts Minutemen**: 3.5, Edge For Covering Spread: -0.8%
-- **Toledo Rockets**: -3.5, Edge For Covering Spread: -4.0%
+- **Massachusetts Minutemen**: 3.0, Edge For Covering Spread: -0.2%
+- **Toledo Rockets**: -3.0, Edge For Covering Spread: -4.5%
 
 ### Moneyline
-- **Massachusetts Minutemen Win Probability**: 40.2%, Moneyline Edge: -2.3%
-- **Toledo Rockets Win Probability**: 59.8%, Moneyline Edge: -2.3%
+- **Massachusetts Minutemen Win Probability**: 41.4%, Moneyline Edge: -1.1%
+- **Toledo Rockets Win Probability**: 58.6%, Moneyline Edge: -2.7%
 
 ### Total
-- **Predicted Total**: 159.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 159.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Toledo Rockets (18-14) hosts Massachusetts Minutemen (17-15) at Savage Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Toledo Rockets favored by 3.5 points, with the total sitting at 158.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Toledo Rockets (18-14) hosts Massachusetts Minutemen (17-15) at Savage Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Toledo Rockets favored by 3.0 points, with the total sitting at 158.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Toledo Rockets is viewed as the better team, but this isn't an overwhelming edge. Massachusetts Minutemen has a legitimate path to covering or winning outright. The total of 158.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.0-point spread indicates Toledo Rockets is viewed as the better team, but this isn't an overwhelming edge. Massachusetts Minutemen has a legitimate path to covering or winning outright. The total of 158.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Massachusetts Minutemen** bring an offensive efficiency of 110.36 (ranked #132 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.7% three-point shooting is serviceable but won't scare anyone. 

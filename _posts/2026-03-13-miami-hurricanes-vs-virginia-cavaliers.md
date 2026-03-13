@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Virginia Cavaliers -4.0</p>
-  <p><strong>Moneyline:</strong> Miami Hurricanes (+150) | Virginia Cavaliers (-181)</p>
+  <p><strong>Spread:</strong> Virginia Cavaliers -3.5</p>
+  <p><strong>Moneyline:</strong> Miami Hurricanes (+141) | Virginia Cavaliers (-170)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Miami Hurricanes**: 4.0, Edge For Covering Spread: -0.7%
-- **Virginia Cavaliers**: -4.0, Edge For Covering Spread: -4.1%
+- **Miami Hurricanes**: 3.5, Edge For Covering Spread: -1.5%
+- **Virginia Cavaliers**: -3.5, Edge For Covering Spread: -3.3%
 
 ### Moneyline
-- **Miami Hurricanes Win Probability**: 38.9%, Moneyline Edge: -1.1%
-- **Virginia Cavaliers Win Probability**: 61.1%, Moneyline Edge: -3.3%
+- **Miami Hurricanes Win Probability**: 40.7%, Moneyline Edge: -0.8%
+- **Virginia Cavaliers Win Probability**: 59.3%, Moneyline Edge: -3.6%
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -3.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Miami Hurricanes (25-7) travels to face Virginia Cavaliers (28-4) at John Paul Jones Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Virginia Cavaliers favored by 4.0 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Miami Hurricanes (25-7) travels to face Virginia Cavaliers (28-4) at John Paul Jones Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Virginia Cavaliers favored by 3.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.0-point spread indicates Virginia Cavaliers is viewed as the better team, but this isn't an overwhelming edge. Miami Hurricanes has a legitimate path to covering or winning outright. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 3.5-point spread indicates Virginia Cavaliers is viewed as the better team, but this isn't an overwhelming edge. Miami Hurricanes has a legitimate path to covering or winning outright. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Miami Hurricanes** bring an offensive efficiency of 118.54 (ranked #33 nationally). This is an elite offense that can score in multiple ways. Their 35.2% three-point shooting is serviceable but won't scare anyone. 

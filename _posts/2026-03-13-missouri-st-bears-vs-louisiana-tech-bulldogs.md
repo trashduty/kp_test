@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Louisiana Tech Bulldogs -1.5</p>
-  <p><strong>Moneyline:</strong> Missouri St Bears (+102) | Louisiana Tech Bulldogs (-122)</p>
+  <p><strong>Moneyline:</strong> Missouri St Bears (-103) | Louisiana Tech Bulldogs (-116)</p>
   <p><strong>Total:</strong> 132.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Missouri St Bears**: 1.5, Edge For Covering Spread: -1.5%
-- **Louisiana Tech Bulldogs**: -1.5, Edge For Covering Spread: -3.2%
+- **Missouri St Bears**: 1.5, Edge For Covering Spread: -3.8%
+- **Louisiana Tech Bulldogs**: -1.5, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Missouri St Bears Win Probability**: 48.2%, Moneyline Edge: -1.3%
-- **Louisiana Tech Bulldogs Win Probability**: 51.8%, Moneyline Edge: -3.2%
+- **Missouri St Bears Win Probability**: 48.8%, Moneyline Edge: -2.1%
+- **Louisiana Tech Bulldogs Win Probability**: 51.2%, Moneyline Edge: -2.6%
 
 ### Total
-- **Predicted Total**: 133.0
-- Edge For Covering The Over: -5.2%
-- Edge For Covering The Under: **0.4%**
+- **Predicted Total**: 134.0
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.3%
 
 ---
 

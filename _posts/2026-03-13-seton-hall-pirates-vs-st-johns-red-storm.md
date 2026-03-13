@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> St. John's Red Storm -7.5</p>
-  <p><strong>Moneyline:</strong> Seton Hall Pirates (+240) | St. John's Red Storm (-290)</p>
+  <p><strong>Spread:</strong> St. John's Red Storm -8.0</p>
+  <p><strong>Moneyline:</strong> Seton Hall Pirates (+300) | St. John's Red Storm (-400)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Seton Hall Pirates**: 7.5, Edge For Covering Spread: -2.4%
-- **St. John's Red Storm**: -7.5, Edge For Covering Spread: -2.4%
+- **Seton Hall Pirates**: 8.0, Edge For Covering Spread: -1.5%
+- **St. John's Red Storm**: -8.0, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Seton Hall Pirates Win Probability**: 25.7%, Moneyline Edge: -3.7%
-- **St. John's Red Storm Win Probability**: 74.3%, Moneyline Edge: -0.0%
+- **Seton Hall Pirates Win Probability**: 23.4%, Moneyline Edge: -1.6%
+- **St. John's Red Storm Win Probability**: 76.6%, Moneyline Edge: -3.4%
 
 ### Total
 - **Predicted Total**: 134.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-St. John's Red Storm (26-6) hosts Seton Hall Pirates (21-11) at Carnesecca Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into St. John's Red Storm favored by 7.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+St. John's Red Storm (26-6) hosts Seton Hall Pirates (21-11) at Carnesecca Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into St. John's Red Storm favored by 8.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us St. John's Red Storm has clear advantages, but games aren't played on paper. Seton Hall Pirates needs to punch above their weight class to keep this close. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 8.0 points tells us St. John's Red Storm has clear advantages, but games aren't played on paper. Seton Hall Pirates needs to punch above their weight class to keep this close. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Seton Hall Pirates** bring an offensive efficiency of 105.79 (ranked #233 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.7% from three, they can't rely on the arc. Expect a paint-focused attack. 

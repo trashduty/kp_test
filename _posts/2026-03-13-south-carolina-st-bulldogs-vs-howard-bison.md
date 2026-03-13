@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Howard Bison -14.5</p>
-  <p><strong>Moneyline:</strong> South Carolina St Bulldogs (+874) | Howard Bison (-1600)</p>
+  <p><strong>Spread:</strong> Howard Bison -15.5</p>
+  <p><strong>Moneyline:</strong> South Carolina St Bulldogs (+990) | Howard Bison (-1895)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Carolina St Bulldogs**: 14.5, Edge For Covering Spread: -1.8%
-- **Howard Bison**: -14.5, Edge For Covering Spread: -2.9%
+- **South Carolina St Bulldogs**: 15.5, Edge For Covering Spread: -3.2%
+- **Howard Bison**: -15.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **South Carolina St Bulldogs Win Probability**: 9.9%, Moneyline Edge: -0.3%
-- **Howard Bison Win Probability**: 90.1%, Moneyline Edge: -4.0%
+- **South Carolina St Bulldogs Win Probability**: 9.4%, Moneyline Edge: **0.2%**
+- **Howard Bison Win Probability**: 90.6%, Moneyline Edge: -4.4%
 
 ### Total
 - **Predicted Total**: 144.5
-- Edge For Covering The Over: -1.8%
-- Edge For Covering The Under: -2.9%
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Howard Bison (21-10) hosts South Carolina St Bulldogs (10-21) at Burr Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Howard Bison favored by 14.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Howard Bison (21-10) hosts South Carolina St Bulldogs (10-21) at Burr Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Howard Bison favored by 15.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 14.5-point spread screams mismatch. The books are asking South Carolina St Bulldogs to hang within two possessions, which based on the profiles, requires Howard Bison to play below their standard. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 15.5-point spread screams mismatch. The books are asking South Carolina St Bulldogs to hang within two possessions, which based on the profiles, requires Howard Bison to play below their standard. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **South Carolina St Bulldogs** bring an offensive efficiency of 96.75 (ranked #347 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.8% three-point shooting is serviceable but won't scare anyone. 

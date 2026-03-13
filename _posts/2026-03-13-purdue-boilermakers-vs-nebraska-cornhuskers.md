@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Purdue Boilermakers -3.5</p>
-  <p><strong>Moneyline:</strong> Purdue Boilermakers (-178) | Nebraska Cornhuskers (+148)</p>
+  <p><strong>Moneyline:</strong> Purdue Boilermakers (-180) | Nebraska Cornhuskers (+150)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Purdue Boilermakers**: -3.5, Edge For Covering Spread: -3.8%
-- **Nebraska Cornhuskers**: 3.5, Edge For Covering Spread: -0.9%
+- **Purdue Boilermakers**: -3.5, Edge For Covering Spread: -4.1%
+- **Nebraska Cornhuskers**: 3.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Purdue Boilermakers Win Probability**: 60.7%, Moneyline Edge: -3.3%
-- **Nebraska Cornhuskers Win Probability**: 39.3%, Moneyline Edge: -1.0%
+- **Purdue Boilermakers Win Probability**: 60.8%, Moneyline Edge: -3.5%
+- **Nebraska Cornhuskers Win Probability**: 39.2%, Moneyline Edge: -0.8%
 
 ### Total
-- **Predicted Total**: 142.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 143.5
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 

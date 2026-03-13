@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Illinois Fighting Illini -8.0</p>
-  <p><strong>Moneyline:</strong> Wisconsin Badgers (+245) | Illinois Fighting Illini (-300)</p>
+  <p><strong>Spread:</strong> Illinois Fighting Illini -8.5</p>
+  <p><strong>Moneyline:</strong> Wisconsin Badgers (+312) | Illinois Fighting Illini (-405)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wisconsin Badgers**: 8.0, Edge For Covering Spread: -0.9%
-- **Illinois Fighting Illini**: -8.0, Edge For Covering Spread: -3.9%
+- **Wisconsin Badgers**: 8.5, Edge For Covering Spread: **0.8%**
+- **Illinois Fighting Illini**: -8.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **Wisconsin Badgers Win Probability**: 27.9%, Moneyline Edge: -1.1%
-- **Illinois Fighting Illini Win Probability**: 72.1%, Moneyline Edge: -2.9%
+- **Wisconsin Badgers Win Probability**: 25.6%, Moneyline Edge: **1.4%**
+- **Illinois Fighting Illini Win Probability**: 74.4%, Moneyline Edge: -5.8%
 
 ### Total
-- **Predicted Total**: 158.5
-- Edge For Covering The Over: **1.3%**
-- Edge For Covering The Under: -6.0%
+- **Predicted Total**: 158.0
+- Edge For Covering The Over: -1.0%
+- Edge For Covering The Under: -3.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Illinois Fighting Illini (24-7) hosts Wisconsin Badgers (23-9) at State Farm Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Illinois Fighting Illini favored by 8.0 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Illinois Fighting Illini (24-7) hosts Wisconsin Badgers (23-9) at State Farm Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Illinois Fighting Illini favored by 8.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.0 points tells us Illinois Fighting Illini has clear advantages, but games aren't played on paper. Wisconsin Badgers needs to punch above their weight class to keep this close. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 8.5 points tells us Illinois Fighting Illini has clear advantages, but games aren't played on paper. Wisconsin Badgers needs to punch above their weight class to keep this close. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Wisconsin Badgers** bring an offensive efficiency of 119.61 (ranked #20 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.3% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

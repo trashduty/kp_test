@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Alabama Crimson Tide -9.5</p>
-  <p><strong>Moneyline:</strong> Ole Miss Rebels (+340) | Alabama Crimson Tide (-450)</p>
+  <p><strong>Spread:</strong> Alabama Crimson Tide -11.5</p>
+  <p><strong>Moneyline:</strong> Ole Miss Rebels (+540) | Alabama Crimson Tide (-790)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ole Miss Rebels**: 9.5, Edge For Covering Spread: -3.4%
-- **Alabama Crimson Tide**: -9.5, Edge For Covering Spread: -1.3%
+- **Ole Miss Rebels**: 11.5, Edge For Covering Spread: -1.8%
+- **Alabama Crimson Tide**: -11.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Ole Miss Rebels Win Probability**: 19.4%, Moneyline Edge: -3.4%
-- **Alabama Crimson Tide Win Probability**: 80.6%, Moneyline Edge: -1.2%
+- **Ole Miss Rebels Win Probability**: 16.0%, Moneyline Edge: **0.4%**
+- **Alabama Crimson Tide Win Probability**: 84.0%, Moneyline Edge: -4.7%
 
 ### Total
 - **Predicted Total**: 163.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Alabama Crimson Tide (23-8) hosts Ole Miss Rebels (14-19) at Coleman Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Alabama Crimson Tide favored by 9.5 points, with the total sitting at 163.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Alabama Crimson Tide (23-8) hosts Ole Miss Rebels (14-19) at Coleman Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Alabama Crimson Tide favored by 11.5 points, with the total sitting at 163.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Alabama Crimson Tide has clear advantages, but games aren't played on paper. Ole Miss Rebels needs to punch above their weight class to keep this close. The total of 163.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 11.5 points tells us Alabama Crimson Tide has clear advantages, but games aren't played on paper. Ole Miss Rebels needs to punch above their weight class to keep this close. The total of 163.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Ole Miss Rebels** bring an offensive efficiency of 109.01 (ranked #164 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.0% three-point shooting is serviceable but won't scare anyone. 
