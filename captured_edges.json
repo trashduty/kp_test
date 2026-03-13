@@ -4958,5 +4958,9 @@
   "UMBC Retrievers vs. Vermont Catamounts|UMBC Retrievers|spread": {
     "captured_at": "2026-03-13T21:13:19.799910+00:00",
     "edge_type": "spread"
+  },
+  "Louisiana Tech Bulldogs vs. Kennesaw St Owls|Kennesaw St Owls|moneyline": {
+    "captured_at": "2026-03-13T23:11:10.141142+00:00",
+    "edge_type": "moneyline"
   }
 }
