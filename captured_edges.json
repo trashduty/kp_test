@@ -4922,5 +4922,9 @@
   "UAB Blazers vs. Charlotte 49ers|UAB Blazers|moneyline": {
     "captured_at": "2026-03-13T03:03:09.508224+00:00",
     "edge_type": "moneyline"
+  },
+  "Akron Zips vs. Kent State Golden Flashes|Akron Zips|spread": {
+    "captured_at": "2026-03-13T04:38:01.458937+00:00",
+    "edge_type": "spread"
   }
 }
