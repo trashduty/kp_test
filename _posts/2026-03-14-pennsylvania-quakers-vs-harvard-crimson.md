@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Harvard Crimson -2.5</p>
-  <p><strong>Moneyline:</strong> Pennsylvania Quakers (+128) | Harvard Crimson (-153)</p>
+  <p><strong>Moneyline:</strong> Pennsylvania Quakers (+130) | Harvard Crimson (-154)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Pennsylvania Quakers**: 2.5, Edge For Covering Spread: **0.3%**
-- **Harvard Crimson**: -2.5, Edge For Covering Spread: -5.2%
+- **Pennsylvania Quakers**: 2.5, Edge For Covering Spread: **0.9%**
+- **Harvard Crimson**: -2.5, Edge For Covering Spread: -5.8%
 
 ### Moneyline
-- **Pennsylvania Quakers Win Probability**: 45.0%, Moneyline Edge: **1.1%**
-- **Harvard Crimson Win Probability**: 55.0%, Moneyline Edge: -5.6%
+- **Pennsylvania Quakers Win Probability**: 44.9%, Moneyline Edge: **1.4%**
+- **Harvard Crimson Win Probability**: 55.1%, Moneyline Edge: -5.6%
 
 ### Total
 - **Predicted Total**: 136.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -4.1%
+- Edge For Covering The Over: -2.9%
+- Edge For Covering The Under: -1.8%
 
 ---
 

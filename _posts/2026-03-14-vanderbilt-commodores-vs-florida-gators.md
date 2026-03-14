@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Florida Gators -8.5</p>
-  <p><strong>Moneyline:</strong> Vanderbilt Commodores (+280) | Florida Gators (-355)</p>
+  <p><strong>Moneyline:</strong> Vanderbilt Commodores (+317) | Florida Gators (-410)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Vanderbilt Commodores**: 8.5, Edge For Covering Spread: **2.3%**
-- **Florida Gators**: -8.5, Edge For Covering Spread: -6.9%
+- **Vanderbilt Commodores**: 8.5, Edge For Covering Spread: **2.4%**
+- **Florida Gators**: -8.5, Edge For Covering Spread: -7.2%
 
 ### Moneyline
-- **Vanderbilt Commodores Win Probability**: 30.0%, Moneyline Edge: **3.7%**
-- **Florida Gators Win Probability**: 70.0%, Moneyline Edge: -8.1%
+- **Vanderbilt Commodores Win Probability**: 28.1%, Moneyline Edge: **4.2%**
+- **Florida Gators Win Probability**: 71.9%, Moneyline Edge: -8.5%
 
 ### Total
-- **Predicted Total**: 161.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 160.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

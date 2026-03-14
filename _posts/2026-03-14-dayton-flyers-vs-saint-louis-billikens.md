@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Dayton Flyers**: 5.5, Edge For Covering Spread: -2.4%
-- **Saint Louis Billikens**: -5.5, Edge For Covering Spread: -2.4%
+- **Dayton Flyers**: 5.5, Edge For Covering Spread: -1.8%
+- **Saint Louis Billikens**: -5.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Dayton Flyers Win Probability**: 30.9%, Moneyline Edge: -3.0%
-- **Saint Louis Billikens Win Probability**: 69.1%, Moneyline Edge: -1.0%
+- **Dayton Flyers Win Probability**: 31.8%, Moneyline Edge: -2.1%
+- **Saint Louis Billikens Win Probability**: 68.2%, Moneyline Edge: -1.9%
 
 ### Total
-- **Predicted Total**: 150.0
-- Edge For Covering The Over: -0.0%
-- Edge For Covering The Under: -4.7%
+- **Predicted Total**: 149.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 

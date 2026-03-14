@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kennesaw St Owls -1.5</p>
-  <p><strong>Moneyline:</strong> Kennesaw St Owls (-130) | Louisiana Tech Bulldogs (+107)</p>
+  <p><strong>Moneyline:</strong> Kennesaw St Owls (-125) | Louisiana Tech Bulldogs (+105)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,15 +24,15 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kennesaw St Owls**: -1.5, Edge For Covering Spread: **0.4%**
-- **Louisiana Tech Bulldogs**: 1.5, Edge For Covering Spread: -5.2%
+- **Kennesaw St Owls**: -1.5, Edge For Covering Spread: -2.4%
+- **Louisiana Tech Bulldogs**: 1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Kennesaw St Owls Win Probability**: 57.6%, Moneyline Edge: **1.1%**
-- **Louisiana Tech Bulldogs Win Probability**: 42.4%, Moneyline Edge: -5.8%
+- **Kennesaw St Owls Win Probability**: 53.2%, Moneyline Edge: -2.4%
+- **Louisiana Tech Bulldogs Win Probability**: 46.8%, Moneyline Edge: -1.9%
 
 ### Total
-- **Predicted Total**: 142.5
+- **Predicted Total**: 141.5
 - Edge For Covering The Over: -0.7%
 - Edge For Covering The Under: -4.1%
 

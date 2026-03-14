@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Yale Bulldogs -3.5</p>
-  <p><strong>Moneyline:</strong> Yale Bulldogs (-175) | Cornell Big Red (+145)</p>
+  <p><strong>Spread:</strong> Yale Bulldogs -4.5</p>
+  <p><strong>Moneyline:</strong> Yale Bulldogs (-190) | Cornell Big Red (+154)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Yale Bulldogs**: -3.5, Edge For Covering Spread: -0.1%
-- **Cornell Big Red**: 3.5, Edge For Covering Spread: -4.7%
+- **Yale Bulldogs**: -4.5, Edge For Covering Spread: -0.8%
+- **Cornell Big Red**: 4.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Yale Bulldogs Win Probability**: 65.1%, Moneyline Edge: **1.4%**
-- **Cornell Big Red Win Probability**: 34.9%, Moneyline Edge: -5.9%
+- **Yale Bulldogs Win Probability**: 65.8%, Moneyline Edge: **0.3%**
+- **Cornell Big Red Win Probability**: 34.2%, Moneyline Edge: -5.2%
 
 ### Total
 - **Predicted Total**: 165.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Yale Bulldogs (23-5) travels to face Cornell Big Red (15-12) at Newman Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Yale Bulldogs favored by 3.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Yale Bulldogs (23-5) travels to face Cornell Big Red (15-12) at Newman Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Yale Bulldogs favored by 4.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Yale Bulldogs is viewed as the better team, but this isn't an overwhelming edge. Cornell Big Red has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 4.5-point spread indicates Yale Bulldogs is viewed as the better team, but this isn't an overwhelming edge. Cornell Big Red has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Yale Bulldogs** bring an offensive efficiency of 120.52 (ranked #13 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 40.0% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
