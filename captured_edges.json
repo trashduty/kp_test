@@ -4974,5 +4974,9 @@
   "Utah Valley Wolverines vs. Cal Baptist Lancers|Utah Valley Wolverines|moneyline": {
     "captured_at": "2026-03-14T11:08:59.316949+00:00",
     "edge_type": "moneyline"
+  },
+  "Southern Jaguars vs. Prairie View Panthers|Prairie View Panthers|spread": {
+    "captured_at": "2026-03-14T12:14:10.516920+00:00",
+    "edge_type": "spread"
   }
 }
