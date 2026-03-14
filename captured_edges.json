@@ -4966,5 +4966,13 @@
   "Florida Gators vs. Vanderbilt Commodores|Vanderbilt Commodores|spread": {
     "captured_at": "2026-03-14T03:01:46.025824+00:00",
     "edge_type": "spread"
+  },
+  "Utah State Aggies vs. San Diego St Aztecs|Utah State Aggies|moneyline": {
+    "captured_at": "2026-03-14T11:08:59.315699+00:00",
+    "edge_type": "moneyline"
+  },
+  "Utah Valley Wolverines vs. Cal Baptist Lancers|Utah Valley Wolverines|moneyline": {
+    "captured_at": "2026-03-14T11:08:59.316949+00:00",
+    "edge_type": "moneyline"
   }
 }
