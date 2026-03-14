@@ -4978,5 +4978,9 @@
   "Southern Jaguars vs. Prairie View Panthers|Prairie View Panthers|spread": {
     "captured_at": "2026-03-14T12:14:10.516920+00:00",
     "edge_type": "spread"
+  },
+  "Southern Jaguars vs. Prairie View Panthers|over": {
+    "captured_at": "2026-03-14T13:22:16.451977+00:00",
+    "edge_type": "over"
   }
 }
