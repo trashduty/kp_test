@@ -4982,5 +4982,13 @@
   "Southern Jaguars vs. Prairie View Panthers|over": {
     "captured_at": "2026-03-14T13:22:16.451977+00:00",
     "edge_type": "over"
+  },
+  "VCU Rams vs. Dayton Flyers|over": {
+    "captured_at": "2026-03-15T10:10:10.618733+00:00",
+    "edge_type": "over"
+  },
+  "Yale Bulldogs vs. Pennsylvania Quakers|Pennsylvania Quakers|spread": {
+    "captured_at": "2026-03-15T10:10:10.620032+00:00",
+    "edge_type": "spread"
   }
 }
