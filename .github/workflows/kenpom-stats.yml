@@ -1,5 +1,8 @@
 name: Update KenPom Stats
 
+on:
+  workflow_dispatch:  # Allows manual triggering from Actions tab
+  
 jobs:
   update-stats:
     runs-on: ubuntu-latest
