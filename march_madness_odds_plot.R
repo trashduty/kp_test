@@ -54,15 +54,20 @@ championship_odds <- championship_odds %>%
 eff_stats_joined <- eff_stats %>% 
   filter(ORtg_rank < 68, DRtg_rank < 55) %>%
   left_join(ncaa_teams, by = c("Team" = "current_team")) %>%
-  left_join(championship_odds, by = c("Team" = "kenpom"))
+  left_join(championship_odds, by = c("Team" = "kenpom")) %>%
+  # Filter to only include teams with numeric Seed values
+  filter(!is.na(Seed) & !is.na(as.numeric(Seed)))
 
 # Calculate text positions - move text below logos
-text_offset <- 3  # Adjust this value to control how far below the logos the text appears
+text_offset <- 3  # Distance for odds text below logos
+seed_offset <- 5  # Distance for seed text below odds (further down)
+
 eff_stats_joined <- eff_stats_joined %>%
   mutate(
-    text_y = DRtg_rank + text_offset,  # Position text below logos
+    text_y = DRtg_rank + text_offset,  # Position odds text below logos
+    seed_y = DRtg_rank + seed_offset,  # Position seed text below odds
     segment_xend = ORtg_rank,  # Line will be vertical
-    segment_yend = DRtg_rank + (text_offset * 0.8)  # Line ends just before text
+    segment_yend = DRtg_rank + (text_offset * 0.8)  # Line ends just before odds text
   )
 
 # Create the plot
@@ -88,11 +93,18 @@ p <- eff_stats_joined %>%
   # Add championship odds as text below logos with connecting lines
   geom_text(
     aes(y = text_y, label = Odds),
-    size = 5,  # Increased text size
+    size = 5,  # Text size for odds
     fontface = "bold",
     color = "black",
     bg.color = "white",  # Add white background to text
     bg.r = 0.2  # Control the size of the background
+  ) +
+  # Add seed values in red below the odds
+  geom_text(
+    aes(y = seed_y, label = Seed),
+    size = 4,  # Slightly smaller text for seed
+    fontface = "bold",
+    color = "red"
   ) +
   theme_bw() +
   labs(
