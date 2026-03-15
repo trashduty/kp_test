@@ -1,0 +1,110 @@
+name: Killshot Scoring Runs Plot
+
+on:
+  # Manual trigger from GitHub UI
+  workflow_dispatch:
+
+  # Trigger when Killshot data file is updated
+  push:
+    paths:
+      - 'MM Vids/Killshot'
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate-killshot-plot:
+    runs-on: ubuntu-latest
+
+    env:
+      R_LIBS_USER: /home/runner/work/_temp/Library
+
+    steps:
+      - name: 🧾 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: 🧰 Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: '4.3.2'
+
+      - name: 🛠️ Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            libcurl4-openssl-dev \
+            libssl-dev \
+            libxml2-dev \
+            libfontconfig1-dev \
+            libfreetype6-dev \
+            libharfbuzz-dev \
+            libfribidi-dev \
+            libpng-dev \
+            libtiff5-dev \
+            libjpeg-dev \
+            libmagick++-dev \
+            imagemagick \
+            libmagickwand-dev \
+            librsvg2-dev \
+            libwebp-dev
+
+      - name: 🔧 Configure ImageMagick policy for PNG images
+        run: |
+          sudo sed -i 's/rights="none" pattern="PNG"/rights="read|write" pattern="PNG"/' /etc/ImageMagick-6/policy.xml || true
+
+      - name: 📦 Install R packages
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
+        run: |
+          mkdir -p "$R_LIBS_USER"
+          Rscript -e '
+            .libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
+            options(repos = c(CRAN = "https://cloud.r-project.org"))
+            cat("Installing R packages...\n")
+            install.packages(c("tidyverse", "ggimage", "scales"), dependencies = TRUE)
+            cat("R packages installed successfully.\n")
+          '
+
+      - name: 📁 Create output directory
+        run: |
+          mkdir -p docs/plots
+          echo "Output directory docs/plots is ready"
+
+      - name: 📊 Generate killshot scoring runs plot
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
+        run: |
+          echo "Generating killshot scoring runs plot..."
+          if [ ! -f "MM Vids/Killshot" ]; then
+            echo "❌ Error: MM Vids/Killshot not found"
+            exit 1
+          fi
+          ls -la "MM Vids/Killshot"
+          Rscript generate_killshot_plot.R
+
+      - name: 🖼️ Verify generated plot
+        run: |
+          echo "Checking generated plot..."
+          if [ -f "docs/plots/killshot_scoring_runs.png" ]; then
+            echo "✅ killshot_scoring_runs.png generated successfully"
+            ls -la docs/plots/killshot_scoring_runs.png
+          else
+            echo "❌ killshot_scoring_runs.png not found"
+            exit 1
+          fi
+
+      - name: 💾 Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/plots/killshot_scoring_runs.png
+          if git commit -m "📊 Update killshot scoring runs plot ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))"; then
+            git pull --rebase origin main
+            git push
+          else
+            echo "No changes to commit"
+          fi
