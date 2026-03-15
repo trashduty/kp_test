@@ -69,13 +69,6 @@ killshot <- killshot |>
 cat(sprintf("\nTeams with logos: %d / %d\n",
             sum(!is.na(killshot$logo)), nrow(killshot)))
 
-# Calculate means from ALL teams (for reference lines and axis ranges)
-mean_runs_per_game <- mean(killshot$runs_per_game, na.rm = TRUE)
-mean_runs_conceded_per_game <- mean(killshot$runs_conceded_per_game, na.rm = TRUE)
-
-cat(sprintf("\nMean runs per game (all teams): %.3f\n", mean_runs_per_game))
-cat(sprintf("Mean runs conceded per game (all teams): %.3f\n", mean_runs_conceded_per_game))
-
 # Filter to top 70 teams for display (rank is ascending: rank=1 is best)
 top70 <- killshot |>
   filter(rank <= 70)
@@ -96,20 +89,6 @@ timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")
 # scale_y_reverse so better defensive teams appear at top of chart
 
 p <- ggplot(top70, aes(x = runs_per_game, y = runs_conceded_per_game)) +
-  # Quadrant shading using all-team means
-  # Green: high runs_per_game (right) AND low runs_conceded_per_game (good defense)
-  annotate("rect",
-           xmin = mean_runs_per_game, xmax = Inf,
-           ymin = -Inf, ymax = mean_runs_conceded_per_game,
-           alpha = 0.1, fill = "green") +
-  # Red: low runs_per_game (left) AND high runs_conceded_per_game (bad defense)
-  annotate("rect",
-           xmin = -Inf, xmax = mean_runs_per_game,
-           ymin = mean_runs_conceded_per_game, ymax = Inf,
-           alpha = 0.1, fill = "red") +
-  # Mean reference lines (dashed)
-  geom_hline(yintercept = mean_runs_conceded_per_game, linetype = "dashed") +
-  geom_vline(xintercept = mean_runs_per_game, linetype = "dashed") +
   # Team logos
   geom_image(aes(image = logo), size = 0.04, asp = 16/9) +
   theme_bw() +
@@ -124,8 +103,8 @@ p <- ggplot(top70, aes(x = runs_per_game, y = runs_conceded_per_game)) +
   labs(
     x = "Scoring Runs Per Game",
     y = "Scoring Runs Allowed Per Game",
-    title = "Men's CBB Landscape | Top 70 Teams - Scoring Runs",
-    subtitle = "Using data from killshot analysis",
+    title = "Scoring Run Ability/Liability",
+    subtitle = "Using data from evanmiya.com",
     caption = timestamp
   )
 
