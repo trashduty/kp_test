@@ -4990,5 +4990,9 @@
   "Yale Bulldogs vs. Pennsylvania Quakers|Pennsylvania Quakers|spread": {
     "captured_at": "2026-03-15T10:10:10.620032+00:00",
     "edge_type": "spread"
+  },
+  "Michigan Wolverines vs. Purdue Boilermakers|over": {
+    "captured_at": "2026-03-15T11:10:06.974548+00:00",
+    "edge_type": "over"
   }
 }
