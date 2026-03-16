@@ -99,16 +99,24 @@ ap_teams <- tryCatch({
   read_csv("ap_top25.csv", show_col_types = FALSE)
 }, error = function(e) NULL)
 
-# 1. Top 100 Plot (using top 100 means, original team names)
-eff_stats_top100 <- eff_stats |> 
-  slice(1:100) |>  
+# 1. Seeded Teams Plot (using seeded teams' means, show seed numbers)
+eff_stats_seeded <- eff_stats |> 
+  filter(!is.na(Seed)) |>  # Only teams with a seed value
   left_join(ncaa_teams, by = c("Team" = "current_team"))
 
-# Use top 100 means for this plot
-p1 <- create_base_plot(eff_stats_top100, eff_stats_top100, 
-                      "Men's CBB Landscape | Top 100 Teams")
+# Use seeded teams' means for this plot
+# Constants for plot positioning
+SEED_LABEL_OFFSET <- -1.5  # Y-axis offset for seed labels (negative because y-axis is reversed)
 
-ggsave("plots/kenpom_top100_eff.png", plot = p1, width = 14, height = 10, dpi = "retina")
+p1 <- create_base_plot(eff_stats_seeded, eff_stats_seeded, 
+                      "Men's CBB Landscape | Seeded Teams") +
+  geom_text(aes(x = ORtg, y = DRtg + SEED_LABEL_OFFSET, label = Seed),
+            color = "red",
+            fontface = "bold",
+            size = 4,
+            vjust = 1.2)  # Position text below logos (y-axis is reversed)
+
+ggsave("plots/kenpom_seeded_eff.png", plot = p1, width = 14, height = 10, dpi = "retina")
 
 # 2. Individual Conference Plots (using conference-specific means, original team names)
 # Create plots directory if it doesn't exist
