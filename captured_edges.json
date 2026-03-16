@@ -5034,5 +5034,25 @@
   "Texas Tech Red Raiders vs. Akron Zips|Akron Zips|spread": {
     "captured_at": "2026-03-16T01:39:59.619995+00:00",
     "edge_type": "spread"
+  },
+  "Lehigh Mountain Hawks vs. Prairie View Panthers|over": {
+    "captured_at": "2026-03-16T03:11:15.355416+00:00",
+    "edge_type": "over"
+  },
+  "Duke Blue Devils vs. Siena Saints|Siena Saints|spread": {
+    "captured_at": "2026-03-16T03:11:15.356243+00:00",
+    "edge_type": "spread"
+  },
+  "Illinois Fighting Illini vs. Pennsylvania Quakers|Pennsylvania Quakers|spread": {
+    "captured_at": "2026-03-16T03:11:15.357144+00:00",
+    "edge_type": "spread"
+  },
+  "Houston Cougars vs. Idaho Vandals|Idaho Vandals|spread": {
+    "captured_at": "2026-03-16T03:11:15.357749+00:00",
+    "edge_type": "spread"
+  },
+  "Alabama Crimson Tide vs. Hofstra Pride|Hofstra Pride|spread": {
+    "captured_at": "2026-03-16T03:11:15.358618+00:00",
+    "edge_type": "spread"
   }
 }
