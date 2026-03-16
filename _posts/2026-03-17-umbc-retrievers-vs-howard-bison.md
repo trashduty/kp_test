@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UMBC Retrievers -2.5</p>
-  <p><strong>Moneyline:</strong> UMBC Retrievers (-146) | Howard Bison (+122)</p>
+  <p><strong>Spread:</strong> UMBC Retrievers -1.5</p>
+  <p><strong>Moneyline:</strong> UMBC Retrievers (-120) | Howard Bison (-100)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UMBC Retrievers**: -2.5, Edge For Covering Spread: -5.7%
-- **Howard Bison**: 2.5, Edge For Covering Spread: **1.0%**
+- **UMBC Retrievers**: -1.5, Edge For Covering Spread: 0.0%
+- **Howard Bison**: 1.5, Edge For Covering Spread: -4.5%
 
 ### Moneyline
-- **UMBC Retrievers Win Probability**: 53.9%, Moneyline Edge: -5.5%
-- **Howard Bison Win Probability**: 46.1%, Moneyline Edge: **1.1%**
+- **UMBC Retrievers Win Probability**: 51.5%, Moneyline Edge: -3.0%
+- **Howard Bison Win Probability**: 48.5%, Moneyline Edge: -1.5%
 
 ### Total
-- **Predicted Total**: 142.0
-- Edge For Covering The Over: -0.4%
-- Edge For Covering The Under: -4.3%
+- **Predicted Total**: 140.0
+- Edge For Covering The Over: -1.5%
+- Edge For Covering The Under: -3.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UMBC Retrievers (24-8) travels to face Howard Bison (23-10) at Burr Arena in what shapes up to be a competitive matchup. The early betting action has shaped into UMBC Retrievers favored by 2.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UMBC Retrievers (24-8) travels to face Howard Bison (23-10) at Burr Arena in what shapes up to be a competitive matchup. The early betting action has shaped into UMBC Retrievers favored by 1.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. UMBC Retrievers's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. UMBC Retrievers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **UMBC Retrievers** bring an offensive efficiency of 112.78 (ranked #92 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.9% three-point shooting is serviceable but won't scare anyone. 
