@@ -5098,5 +5098,9 @@
   "Wake Forest Demon Deacons vs. Navy Midshipmen|Navy Midshipmen|spread": {
     "captured_at": "2026-03-16T20:16:57.721386+00:00",
     "edge_type": "spread"
+  },
+  "Bradley Braves vs. Dayton Flyers|Bradley Braves|moneyline": {
+    "captured_at": "2026-03-16T21:17:04.737122+00:00",
+    "edge_type": "moneyline"
   }
 }
