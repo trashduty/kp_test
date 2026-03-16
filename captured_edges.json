@@ -5090,5 +5090,13 @@
   "Colorado St Rams vs. Saint Joseph's Hawks|Saint Joseph's Hawks|spread": {
     "captured_at": "2026-03-16T19:27:02.055085+00:00",
     "edge_type": "spread"
+  },
+  "Oklahoma St Cowboys vs. Davidson Wildcats|Davidson Wildcats|spread": {
+    "captured_at": "2026-03-16T20:16:57.720410+00:00",
+    "edge_type": "spread"
+  },
+  "Wake Forest Demon Deacons vs. Navy Midshipmen|Navy Midshipmen|spread": {
+    "captured_at": "2026-03-16T20:16:57.721386+00:00",
+    "edge_type": "spread"
   }
 }
