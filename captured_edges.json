@@ -5058,5 +5058,37 @@
   "Iowa State Cyclones vs. Tennessee St Tigers|Tennessee St Tigers|spread": {
     "captured_at": "2026-03-16T04:57:42.097959+00:00",
     "edge_type": "spread"
+  },
+  "Yale Bulldogs vs. UNC Wilmington Seahawks|Yale Bulldogs|moneyline": {
+    "captured_at": "2026-03-16T19:27:02.052863+00:00",
+    "edge_type": "moneyline"
+  },
+  "Wichita St Shockers vs. Wyoming Cowboys|Wichita St Shockers|moneyline": {
+    "captured_at": "2026-03-16T19:27:02.053041+00:00",
+    "edge_type": "moneyline"
+  },
+  "Wichita St Shockers vs. Wyoming Cowboys|under": {
+    "captured_at": "2026-03-16T19:27:02.053079+00:00",
+    "edge_type": "under"
+  },
+  "Illinois St Redbirds vs. Kent State Golden Flashes|Illinois St Redbirds|moneyline": {
+    "captured_at": "2026-03-16T19:27:02.054250+00:00",
+    "edge_type": "moneyline"
+  },
+  "New Mexico Lobos vs. Sam Houston St Bearkats|Sam Houston St Bearkats|spread": {
+    "captured_at": "2026-03-16T19:27:02.054518+00:00",
+    "edge_type": "spread"
+  },
+  "New Mexico Lobos vs. Sam Houston St Bearkats|under": {
+    "captured_at": "2026-03-16T19:27:02.054566+00:00",
+    "edge_type": "under"
+  },
+  "Nevada Wolf Pack vs. Murray St Racers|under": {
+    "captured_at": "2026-03-16T19:27:02.054874+00:00",
+    "edge_type": "under"
+  },
+  "Colorado St Rams vs. Saint Joseph's Hawks|Saint Joseph's Hawks|spread": {
+    "captured_at": "2026-03-16T19:27:02.055085+00:00",
+    "edge_type": "spread"
   }
 }
