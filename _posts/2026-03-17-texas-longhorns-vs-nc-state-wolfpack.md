@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Texas Longhorns -1.5</p>
+  <p><strong>Spread:</strong> Texas Longhorns -1.0</p>
   <p><strong>Moneyline:</strong> Texas Longhorns (-110) | NC State Wolfpack (-110)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Texas Longhorns**: -1.5, Edge For Covering Spread: -4.0%
-- **NC State Wolfpack**: 1.5, Edge For Covering Spread: -2.9%
+- **Texas Longhorns**: -1.0, Edge For Covering Spread: -4.0%
+- **NC State Wolfpack**: 1.0, Edge For Covering Spread: -2.6%
 
 ### Moneyline
-- **Texas Longhorns Win Probability**: 50.7%, Moneyline Edge: -1.6%
-- **NC State Wolfpack Win Probability**: 49.3%, Moneyline Edge: -3.1%
+- **Texas Longhorns Win Probability**: 49.1%, Moneyline Edge: -3.3%
+- **NC State Wolfpack Win Probability**: 50.9%, Moneyline Edge: -1.5%
 
 ### Total
-- **Predicted Total**: 159.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- **Predicted Total**: 160.5
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -2.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Texas Longhorns (18-14) travels to face NC State Wolfpack (20-13) at Lenovo Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Texas Longhorns favored by 1.5 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Texas Longhorns (18-14) travels to face NC State Wolfpack (20-13) at Lenovo Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Texas Longhorns favored by 1.0 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Texas Longhorns's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Texas Longhorns's 1.0-point cushion reflects home court advantage more than a talent gap. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Texas Longhorns** bring an offensive efficiency of 119.47 (ranked #22 nationally). This is an elite offense that can score in multiple ways. Their 34.9% three-point shooting is serviceable but won't scare anyone. 
