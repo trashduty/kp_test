@@ -5054,5 +5054,9 @@
   "Alabama Crimson Tide vs. Hofstra Pride|Hofstra Pride|spread": {
     "captured_at": "2026-03-16T03:11:15.358618+00:00",
     "edge_type": "spread"
+  },
+  "Iowa State Cyclones vs. Tennessee St Tigers|Tennessee St Tigers|spread": {
+    "captured_at": "2026-03-16T04:57:42.097959+00:00",
+    "edge_type": "spread"
   }
 }
