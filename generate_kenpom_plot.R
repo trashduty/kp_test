@@ -58,8 +58,10 @@ create_base_plot <- function(data, means_data, title_prefix = "") {
     )
 }
 
-# Load KenPom data
-eff_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE)
+# Load KenPom data, stripping any line number prefixes (e.g. "1| ") before parsing
+lines <- readLines("kenpom_stats.csv", warn = FALSE)
+lines <- gsub("^[0-9]+\\| ", "", lines)
+eff_stats <- read_csv(textConnection(lines), show_col_types = FALSE)
 
 cat("Actual column names in kenpom_stats.csv:\n")
 print(colnames(eff_stats))
