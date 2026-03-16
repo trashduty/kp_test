@@ -4994,5 +4994,45 @@
   "Michigan Wolverines vs. Purdue Boilermakers|over": {
     "captured_at": "2026-03-15T11:10:06.974548+00:00",
     "edge_type": "over"
+  },
+  "SMU Mustangs vs. Miami (OH) RedHawks|Miami (OH) RedHawks|spread": {
+    "captured_at": "2026-03-16T01:39:59.615518+00:00",
+    "edge_type": "spread"
+  },
+  "Wisconsin Badgers vs. High Point Panthers|under": {
+    "captured_at": "2026-03-16T01:39:59.615807+00:00",
+    "edge_type": "under"
+  },
+  "Saint Mary's Gaels vs. Texas A&M Aggies|Saint Mary's Gaels|moneyline": {
+    "captured_at": "2026-03-16T01:39:59.616757+00:00",
+    "edge_type": "moneyline"
+  },
+  "Houston Cougars vs. Idaho Vandals|Houston Cougars|spread": {
+    "captured_at": "2026-03-16T01:39:59.617480+00:00",
+    "edge_type": "spread"
+  },
+  "Ohio State Buckeyes vs. TCU Horned Frogs|Ohio State Buckeyes|moneyline": {
+    "captured_at": "2026-03-16T01:39:59.617597+00:00",
+    "edge_type": "moneyline"
+  },
+  "Nebraska Cornhuskers vs. Troy Trojans|Troy Trojans|spread": {
+    "captured_at": "2026-03-16T01:39:59.617799+00:00",
+    "edge_type": "spread"
+  },
+  "Purdue Boilermakers vs. Queens University Royals|Purdue Boilermakers|spread": {
+    "captured_at": "2026-03-16T01:39:59.618781+00:00",
+    "edge_type": "spread"
+  },
+  "UConn Huskies vs. Furman Paladins|Furman Paladins|spread": {
+    "captured_at": "2026-03-16T01:39:59.619041+00:00",
+    "edge_type": "spread"
+  },
+  "Miami Hurricanes vs. Missouri Tigers|Miami Hurricanes|moneyline": {
+    "captured_at": "2026-03-16T01:39:59.619816+00:00",
+    "edge_type": "moneyline"
+  },
+  "Texas Tech Red Raiders vs. Akron Zips|Akron Zips|spread": {
+    "captured_at": "2026-03-16T01:39:59.619995+00:00",
+    "edge_type": "spread"
   }
 }
