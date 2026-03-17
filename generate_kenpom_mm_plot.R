@@ -15,14 +15,14 @@ create_base_plot <- function(data, means_data, title_prefix = "") {
   required_cols <- c("ORtg", "DRtg", "logo")
   missing_cols <- setdiff(required_cols, colnames(data))
   if (length(missing_cols) > 0) {
-    stop(paste("Missing required columns in data:", paste(missing_cols, collapse=", ")))
+    stop(paste("Missing required columns in data:", paste(missing_cols, collapse=", ")))  
   }
   
   # Validate required columns exist in means_data
   required_mean_cols <- c("ORtg", "DRtg")
   missing_mean_cols <- setdiff(required_mean_cols, colnames(means_data))
   if (length(missing_mean_cols) > 0) {
-    stop(paste("Missing required columns in means_data:", paste(missing_mean_cols, collapse=", ")))
+    stop(paste("Missing required columns in means_data:", paste(missing_mean_cols, collapse=", ")))  
   }
   
   # Calculate means using provided data
@@ -30,9 +30,9 @@ create_base_plot <- function(data, means_data, title_prefix = "") {
   mean_DRtg <- mean(means_data$DRtg, na.rm = TRUE)
   
   # Current timestamp
-  timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")
+  timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")  
   
-  ggplot(data, aes(x = ORtg, y = DRtg)) +
+ggplot(data, aes(x = ORtg, y = DRtg)) +
     annotate("rect", xmin = mean_ORtg, xmax = Inf, ymin = -Inf, ymax = mean_DRtg, 
              alpha = 0.1, fill = "green") +
     annotate("rect", xmin = -Inf, xmax = mean_ORtg, ymin = mean_DRtg, ymax = Inf, 
@@ -64,11 +64,15 @@ mm_stats <- read_csv("MM Vids/kenpom_mm.csv", show_col_types = FALSE)
 cat("Actual column names in kenpom_mm.csv:\n")
 print(colnames(mm_stats))
 
-# Load full kenpom_stats.csv to get top 100 means
-full_stats <- read_csv("kenpom_stats.csv", show_col_types = FALSE)
+# Load NCAA teams data
+ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |> 
+  distinct(current_team, .keep_all = TRUE)
+
+cat("\nFirst few NCAA team names in logo file:\n")
+print(head(ncaa_teams$current_team, 20))
 
 # Rename columns for MM data
-mm_stats <- mm_stats |>
+mm_stats <- mm_stats |> 
   rename(
     ORtg = ORtg_value,
     DRtg = DRtg_value,
@@ -76,29 +80,19 @@ mm_stats <- mm_stats |>
     Luck = Luck_value
   )
 
-# Rename columns for full stats
-full_stats <- full_stats |>
-  rename(
-    ORtg = ORtg_value,
-    DRtg = DRtg_value
-  )
-
-# Get top 100 means from full stats
-top_100_means <- full_stats |> slice(1:100)
-
-# Load NCAA teams data
-ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |>
-  distinct(current_team, .keep_all = TRUE)
-
-cat("\nFirst few NCAA team names in logo file:\n")
-print(head(ncaa_teams$current_team, 20))
-
 # Join MM teams with NCAA logos
-mm_stats_with_logos <- mm_stats |>
+mm_stats_with_logos <- mm_stats |> 
   left_join(ncaa_teams, by = c("Team" = "current_team"))
 
-# Create plot using MM teams but top 100 means
-p_mm <- create_base_plot(mm_stats_with_logos, top_100_means,
+# Filter to only teams that have logos (remove rows with missing logo data)
+mm_stats_complete <- mm_stats_with_logos |> 
+  filter(!is.na(logo))
+
+cat("\nNumber of teams with logos:", nrow(mm_stats_complete), "\n")
+cat("Number of teams without logos:", nrow(mm_stats_with_logos) - nrow(mm_stats_complete), "\n")
+
+# Create plot using only teams with logos for both plotting AND calculating means
+p_mm <- create_base_plot(mm_stats_complete, mm_stats_complete,
                         "Men's CBB Landscape | March Madness Teams")
 
 # Save to docs/plots
