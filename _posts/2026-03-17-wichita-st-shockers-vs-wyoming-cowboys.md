@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wichita St Shockers -6.5</p>
-  <p><strong>Moneyline:</strong> Wichita St Shockers (-240) | Wyoming Cowboys (+194)</p>
+  <p><strong>Moneyline:</strong> Wichita St Shockers (-285) | Wyoming Cowboys (+230)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Wichita St Shockers**: -6.5, Edge For Covering Spread: -2.4%
-- **Wyoming Cowboys**: 6.5, Edge For Covering Spread: -2.4%
+- **Wichita St Shockers**: -6.5, Edge For Covering Spread: -2.8%
+- **Wyoming Cowboys**: 6.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Wichita St Shockers Win Probability**: 71.4%, Moneyline Edge: **0.8%**
-- **Wyoming Cowboys Win Probability**: 28.6%, Moneyline Edge: -5.4%
+- **Wichita St Shockers Win Probability**: 71.6%, Moneyline Edge: -2.5%
+- **Wyoming Cowboys Win Probability**: 28.4%, Moneyline Edge: -1.9%
 
 ### Total
-- **Predicted Total**: 146.5
-- Edge For Covering The Over: -5.5%
-- Edge For Covering The Under: **0.7%**
+- **Predicted Total**: 147.0
+- Edge For Covering The Over: -5.2%
+- Edge For Covering The Under: **0.4%**
 
 ---
 

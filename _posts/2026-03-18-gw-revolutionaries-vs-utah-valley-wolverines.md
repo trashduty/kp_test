@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Utah Valley Wolverines**: -1.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **GW Revolutionaries Win Probability**: 42.9%, Moneyline Edge: -4.9%
-- **Utah Valley Wolverines Win Probability**: 57.1%, Moneyline Edge: **0.1%**
+- **GW Revolutionaries Win Probability**: 42.6%, Moneyline Edge: -5.2%
+- **Utah Valley Wolverines Win Probability**: 57.4%, Moneyline Edge: **0.4%**
 
 ### Total
-- **Predicted Total**: 156.5
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -0.7%
+- **Predicted Total**: 157.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.5%
 
 ---
 

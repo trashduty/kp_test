@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Illinois St Redbirds -6.5</p>
-  <p><strong>Moneyline:</strong> Illinois St Redbirds (-237) | Kent State Golden Flashes (+195)</p>
+  <p><strong>Moneyline:</strong> Illinois St Redbirds (-230) | Kent State Golden Flashes (+189)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Kent State Golden Flashes**: 6.5, Edge For Covering Spread: -5.1%
 
 ### Moneyline
-- **Illinois St Redbirds Win Probability**: 72.3%, Moneyline Edge: **1.9%**
-- **Kent State Golden Flashes Win Probability**: 27.7%, Moneyline Edge: -6.2%
+- **Illinois St Redbirds Win Probability**: 71.7%, Moneyline Edge: **2.0%**
+- **Kent State Golden Flashes Win Probability**: 28.3%, Moneyline Edge: -6.2%
 
 ### Total
-- **Predicted Total**: 152.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- **Predicted Total**: 153.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 

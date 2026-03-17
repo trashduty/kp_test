@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Tulsa Golden Hurricane -7.5</p>
-  <p><strong>Moneyline:</strong> Tulsa Golden Hurricane (-287) | Stephen F. Austin Lumberjacks (+230)</p>
+  <p><strong>Moneyline:</strong> Tulsa Golden Hurricane (-335) | Stephen F. Austin Lumberjacks (+265)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Stephen F. Austin Lumberjacks**: 7.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **Tulsa Golden Hurricane Win Probability**: 68.4%, Moneyline Edge: -5.8%
-- **Stephen F. Austin Lumberjacks Win Probability**: 31.6%, Moneyline Edge: **1.3%**
+- **Tulsa Golden Hurricane Win Probability**: 71.6%, Moneyline Edge: -5.4%
+- **Stephen F. Austin Lumberjacks Win Probability**: 28.4%, Moneyline Edge: **1.0%**
 
 ### Total
 - **Predicted Total**: 152.5

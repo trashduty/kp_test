@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Texas Longhorns -1.5</p>
-  <p><strong>Moneyline:</strong> Texas Longhorns (-115) | NC State Wolfpack (-105)</p>
+  <p><strong>Moneyline:</strong> Texas Longhorns (-110) | NC State Wolfpack (-110)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Texas Longhorns**: -1.5, Edge For Covering Spread: -1.4%
-- **NC State Wolfpack**: 1.5, Edge For Covering Spread: -3.9%
+- **Texas Longhorns**: -1.5, Edge For Covering Spread: -2.3%
+- **NC State Wolfpack**: 1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Texas Longhorns Win Probability**: 51.3%, Moneyline Edge: -2.2%
-- **NC State Wolfpack Win Probability**: 48.7%, Moneyline Edge: -2.6%
+- **Texas Longhorns Win Probability**: 49.1%, Moneyline Edge: -3.3%
+- **NC State Wolfpack Win Probability**: 50.9%, Moneyline Edge: -1.5%
 
 ### Total
 - **Predicted Total**: 159.5
-- Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.1%
+- Edge For Covering The Over: **0.3%**
+- Edge For Covering The Under: -5.0%
 
 ---
 

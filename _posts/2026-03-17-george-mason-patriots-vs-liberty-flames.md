@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> George Mason Patriots -5.5</p>
-  <p><strong>Moneyline:</strong> George Mason Patriots (-227) | Liberty Flames (+187)</p>
+  <p><strong>Moneyline:</strong> George Mason Patriots (-232) | Liberty Flames (+190)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **George Mason Patriots**: -5.5, Edge For Covering Spread: -2.4%
-- **Liberty Flames**: 5.5, Edge For Covering Spread: -2.4%
+- **George Mason Patriots**: -5.5, Edge For Covering Spread: -4.1%
+- **Liberty Flames**: 5.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **George Mason Patriots Win Probability**: 67.8%, Moneyline Edge: -1.7%
-- **Liberty Flames Win Probability**: 32.2%, Moneyline Edge: -2.6%
+- **George Mason Patriots Win Probability**: 67.3%, Moneyline Edge: -2.7%
+- **Liberty Flames Win Probability**: 32.7%, Moneyline Edge: -1.7%
 
 ### Total
 - **Predicted Total**: 143.0

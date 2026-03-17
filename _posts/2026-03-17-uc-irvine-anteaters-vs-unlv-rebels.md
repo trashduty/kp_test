@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UC Irvine Anteaters -2.5</p>
-  <p><strong>Moneyline:</strong> UC Irvine Anteaters (-148) | UNLV Rebels (+121)</p>
+  <p><strong>Moneyline:</strong> UC Irvine Anteaters (-153) | UNLV Rebels (+126)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **UNLV Rebels**: 2.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **UC Irvine Anteaters Win Probability**: 59.5%, Moneyline Edge: -0.2%
-- **UNLV Rebels Win Probability**: 40.5%, Moneyline Edge: -4.7%
+- **UC Irvine Anteaters Win Probability**: 60.7%, Moneyline Edge: **0.1%**
+- **UNLV Rebels Win Probability**: 39.3%, Moneyline Edge: -5.0%
 
 ### Total
-- **Predicted Total**: 151.0
-- Edge For Covering The Over: -4.9%
-- Edge For Covering The Under: **0.2%**
+- **Predicted Total**: 152.0
+- Edge For Covering The Over: -4.3%
+- Edge For Covering The Under: -0.4%
 
 ---
 

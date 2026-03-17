@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Wake Forest Demon Deacons -11.5</p>
-  <p><strong>Moneyline:</strong> Navy Midshipmen (+479) | Wake Forest Demon Deacons (-674)</p>
+  <p><strong>Spread:</strong> Wake Forest Demon Deacons -12.5</p>
+  <p><strong>Moneyline:</strong> Navy Midshipmen (+522) | Wake Forest Demon Deacons (-757)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Navy Midshipmen**: 11.5, Edge For Covering Spread: **1.3%**
-- **Wake Forest Demon Deacons**: -11.5, Edge For Covering Spread: -6.0%
+- **Navy Midshipmen**: 12.5, Edge For Covering Spread: -0.8%
+- **Wake Forest Demon Deacons**: -12.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Navy Midshipmen Win Probability**: 19.8%, Moneyline Edge: **2.5%**
-- **Wake Forest Demon Deacons Win Probability**: 80.2%, Moneyline Edge: -6.9%
+- **Navy Midshipmen Win Probability**: 17.2%, Moneyline Edge: **1.1%**
+- **Wake Forest Demon Deacons Win Probability**: 82.8%, Moneyline Edge: -5.5%
 
 ### Total
-- **Predicted Total**: 146.5
-- Edge For Covering The Over: -5.4%
-- Edge For Covering The Under: **0.6%**
+- **Predicted Total**: 147.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Wake Forest Demon Deacons (17-16) hosts Navy Midshipmen (26-7) at Joel Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Wake Forest Demon Deacons favored by 11.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Wake Forest Demon Deacons (17-16) hosts Navy Midshipmen (26-7) at Joel Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Wake Forest Demon Deacons favored by 12.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us Wake Forest Demon Deacons has clear advantages, but games aren't played on paper. Navy Midshipmen needs to punch above their weight class to keep this close. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 12.5-point spread screams mismatch. The books are asking Navy Midshipmen to hang within two possessions, which based on the profiles, requires Wake Forest Demon Deacons to play below their standard. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Navy Midshipmen** bring an offensive efficiency of 112.58 (ranked #94 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 36.0% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

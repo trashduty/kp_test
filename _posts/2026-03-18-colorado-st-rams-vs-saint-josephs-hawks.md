@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Saint Joseph's Hawks**: 5.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Colorado St Rams Win Probability**: 65.0%, Moneyline Edge: -4.2%
-- **Saint Joseph's Hawks Win Probability**: 35.0%, Moneyline Edge: -0.2%
+- **Colorado St Rams Win Probability**: 66.1%, Moneyline Edge: -3.1%
+- **Saint Joseph's Hawks Win Probability**: 33.9%, Moneyline Edge: -1.2%
 
 ### Total
-- **Predicted Total**: 143.0
-- Edge For Covering The Over: -5.2%
-- Edge For Covering The Under: **0.4%**
+- **Predicted Total**: 144.0
+- Edge For Covering The Over: -3.6%
+- Edge For Covering The Under: -1.2%
 
 ---
 

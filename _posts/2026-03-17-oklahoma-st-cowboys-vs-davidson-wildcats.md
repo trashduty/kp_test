@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Oklahoma St Cowboys -8.5</p>
-  <p><strong>Moneyline:</strong> Oklahoma St Cowboys (-362) | Davidson Wildcats (+283)</p>
+  <p><strong>Moneyline:</strong> Oklahoma St Cowboys (-400) | Davidson Wildcats (+310)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,15 +24,15 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oklahoma St Cowboys**: -8.5, Edge For Covering Spread: -6.7%
-- **Davidson Wildcats**: 8.5, Edge For Covering Spread: **2.0%**
+- **Oklahoma St Cowboys**: -8.5, Edge For Covering Spread: -5.1%
+- **Davidson Wildcats**: 8.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Oklahoma St Cowboys Win Probability**: 70.9%, Moneyline Edge: -7.5%
-- **Davidson Wildcats Win Probability**: 29.1%, Moneyline Edge: **3.0%**
+- **Oklahoma St Cowboys Win Probability**: 73.5%, Moneyline Edge: -6.5%
+- **Davidson Wildcats Win Probability**: 26.5%, Moneyline Edge: **2.1%**
 
 ### Total
-- **Predicted Total**: 154.5
+- **Predicted Total**: 153.5
 - Edge For Covering The Over: -5.0%
 - Edge For Covering The Under: **0.3%**
 

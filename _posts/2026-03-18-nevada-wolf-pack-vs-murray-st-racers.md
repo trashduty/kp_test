@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Nevada Wolf Pack**: -8.5, Edge For Covering Spread: -3.7%
-- **Murray St Racers**: 8.5, Edge For Covering Spread: -1.2%
+- **Nevada Wolf Pack**: -8.5, Edge For Covering Spread: -2.1%
+- **Murray St Racers**: 8.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Nevada Wolf Pack Win Probability**: 73.5%, Moneyline Edge: -4.7%
-- **Murray St Racers Win Probability**: 26.5%, Moneyline Edge: **0.1%**
+- **Nevada Wolf Pack Win Probability**: 75.7%, Moneyline Edge: -2.5%
+- **Murray St Racers Win Probability**: 24.3%, Moneyline Edge: -2.0%
 
 ### Total
 - **Predicted Total**: 161.0

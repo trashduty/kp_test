@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Sam Houston St Bearkats**: 11.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **New Mexico Lobos Win Probability**: 80.8%, Moneyline Edge: -6.6%
-- **Sam Houston St Bearkats Win Probability**: 19.2%, Moneyline Edge: **2.2%**
+- **New Mexico Lobos Win Probability**: 81.3%, Moneyline Edge: -6.1%
+- **Sam Houston St Bearkats Win Probability**: 18.7%, Moneyline Edge: **1.7%**
 
 ### Total
-- **Predicted Total**: 162.5
-- Edge For Covering The Over: -6.9%
-- Edge For Covering The Under: **2.1%**
+- **Predicted Total**: 163.0
+- Edge For Covering The Over: -6.1%
+- Edge For Covering The Under: **1.4%**
 
 ---
 

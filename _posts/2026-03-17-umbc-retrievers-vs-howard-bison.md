@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UMBC Retrievers**: -1.5, Edge For Covering Spread: -0.5%
-- **Howard Bison**: 1.5, Edge For Covering Spread: -4.5%
+- **UMBC Retrievers**: -1.5, Edge For Covering Spread: -1.7%
+- **Howard Bison**: 1.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **UMBC Retrievers Win Probability**: 51.5%, Moneyline Edge: -3.0%
-- **Howard Bison Win Probability**: 48.5%, Moneyline Edge: -1.5%
+- **UMBC Retrievers Win Probability**: 52.6%, Moneyline Edge: -2.0%
+- **Howard Bison Win Probability**: 47.4%, Moneyline Edge: -2.6%
 
 ### Total
-- **Predicted Total**: 141.0
-- Edge For Covering The Over: -1.5%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
