@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **Saint Joseph's Hawks Win Probability**: 35.0%, Moneyline Edge: -0.2%
 
 ### Total
-- **Predicted Total**: 143.5
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- **Predicted Total**: 143.0
+- Edge For Covering The Over: -5.2%
+- Edge For Covering The Under: **0.4%**
 
 ---
 

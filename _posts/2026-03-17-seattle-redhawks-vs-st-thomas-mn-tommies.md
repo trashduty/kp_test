@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Seattle Redhawks -1.5</p>
-  <p><strong>Moneyline:</strong> Seattle Redhawks (-133) | St. Thomas (MN) Tommies (+110)</p>
+  <p><strong>Spread:</strong> Seattle Redhawks -2.5</p>
+  <p><strong>Moneyline:</strong> Seattle Redhawks (-135) | St. Thomas (MN) Tommies (+114)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Seattle Redhawks**: -1.5, Edge For Covering Spread: -4.1%
-- **St. Thomas (MN) Tommies**: 1.5, Edge For Covering Spread: -0.5%
+- **Seattle Redhawks**: -2.5, Edge For Covering Spread: -1.0%
+- **St. Thomas (MN) Tommies**: 2.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Seattle Redhawks Win Probability**: 56.7%, Moneyline Edge: -0.4%
-- **St. Thomas (MN) Tommies Win Probability**: 43.3%, Moneyline Edge: -4.4%
+- **Seattle Redhawks Win Probability**: 57.0%, Moneyline Edge: -0.4%
+- **St. Thomas (MN) Tommies Win Probability**: 43.0%, Moneyline Edge: -3.8%
 
 ### Total
 - **Predicted Total**: 145.5
-- Edge For Covering The Over: -5.8%
-- Edge For Covering The Under: **1.0%**
+- Edge For Covering The Over: -5.3%
+- Edge For Covering The Under: **0.6%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Seattle Redhawks (20-13) travels to face St. Thomas (MN) Tommies (24-9) at Anderson Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Seattle Redhawks favored by 1.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Seattle Redhawks (20-13) travels to face St. Thomas (MN) Tommies (24-9) at Anderson Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Seattle Redhawks favored by 2.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Seattle Redhawks's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Seattle Redhawks's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Seattle Redhawks** bring an offensive efficiency of 101.22 (ranked #313 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.6% three-point shooting is serviceable but won't scare anyone. 

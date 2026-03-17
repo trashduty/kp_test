@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Yale Bulldogs -5.5</p>
-  <p><strong>Moneyline:</strong> Yale Bulldogs (-205) | UNC Wilmington Seahawks (+167)</p>
+  <p><strong>Moneyline:</strong> Yale Bulldogs (-210) | UNC Wilmington Seahawks (+172)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **UNC Wilmington Seahawks**: 5.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Yale Bulldogs Win Probability**: 68.2%, Moneyline Edge: **1.0%**
-- **UNC Wilmington Seahawks Win Probability**: 31.8%, Moneyline Edge: -5.7%
+- **Yale Bulldogs Win Probability**: 68.5%, Moneyline Edge: **0.8%**
+- **UNC Wilmington Seahawks Win Probability**: 31.5%, Moneyline Edge: -5.3%
 
 ### Total
 - **Predicted Total**: 145.5
