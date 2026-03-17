@@ -32,7 +32,7 @@ create_base_plot <- function(data, means_data, title_prefix = "") {
   # Current timestamp
   timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")  
   
-ggplot(data, aes(x = ORtg, y = DRtg)) +
+  ggplot(data, aes(x = ORtg, y = DRtg)) +
     annotate("rect", xmin = mean_ORtg, xmax = Inf, ymin = -Inf, ymax = mean_DRtg, 
              alpha = 0.1, fill = "green") +
     annotate("rect", xmin = -Inf, xmax = mean_ORtg, ymin = mean_DRtg, ymax = Inf, 
@@ -63,6 +63,14 @@ mm_stats <- read_csv("MM Vids/kenpom_mm.csv", show_col_types = FALSE)
 
 cat("Actual column names in kenpom_mm.csv:\n")
 print(colnames(mm_stats))
+
+cat("\nTotal rows in kenpom_mm.csv:", nrow(mm_stats), "\n")
+
+# Filter to only rows with team names (remove empty team rows)
+mm_stats <- mm_stats |> 
+  filter(!is.na(Team) & Team != "")
+
+cat("Rows with team names:", nrow(mm_stats), "\n")
 
 # Load NCAA teams data
 ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |> 
