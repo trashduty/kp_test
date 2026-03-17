@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Seattle Redhawks -1.5</p>
-  <p><strong>Moneyline:</strong> Seattle Redhawks (-134) | St. Thomas (MN) Tommies (+111)</p>
+  <p><strong>Moneyline:</strong> Seattle Redhawks (-133) | St. Thomas (MN) Tommies (+110)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **St. Thomas (MN) Tommies**: 1.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **Seattle Redhawks Win Probability**: 56.8%, Moneyline Edge: -0.5%
-- **St. Thomas (MN) Tommies Win Probability**: 43.2%, Moneyline Edge: -4.2%
+- **Seattle Redhawks Win Probability**: 56.7%, Moneyline Edge: -0.4%
+- **St. Thomas (MN) Tommies Win Probability**: 43.3%, Moneyline Edge: -4.4%
 
 ### Total
 - **Predicted Total**: 145.5
