@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **Murray St Racers Win Probability**: 26.5%, Moneyline Edge: **0.1%**
 
 ### Total
-- **Predicted Total**: 160.5
-- Edge For Covering The Over: -6.2%
-- Edge For Covering The Under: **1.4%**
+- **Predicted Total**: 161.0
+- Edge For Covering The Over: -6.5%
+- Edge For Covering The Under: **0.2%**
 
 ---
 
