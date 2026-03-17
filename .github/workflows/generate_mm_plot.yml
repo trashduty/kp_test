@@ -20,10 +20,13 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y libcurl4-openssl-dev libssl-dev libxml2-dev
 
-      - name: Install R packages
-        run: |
-          install.packages(c("tidyverse", "ggimage", "scales"))
-        shell: Rscript {0}
+      - name: Install R dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::tidyverse
+            any::ggimage
+            any::scales
 
       - name: Generate Plot
         run: Rscript generate_mm_plot.R
