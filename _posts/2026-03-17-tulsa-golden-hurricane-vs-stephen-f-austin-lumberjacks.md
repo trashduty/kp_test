@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tulsa Golden Hurricane**: -7.5, Edge For Covering Spread: -5.1%
-- **Stephen F. Austin Lumberjacks**: 7.5, Edge For Covering Spread: **0.4%**
+- **Tulsa Golden Hurricane**: -7.5, Edge For Covering Spread: -4.4%
+- **Stephen F. Austin Lumberjacks**: 7.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
 - **Tulsa Golden Hurricane Win Probability**: 68.4%, Moneyline Edge: -5.8%

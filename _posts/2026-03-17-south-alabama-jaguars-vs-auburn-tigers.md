@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Alabama Jaguars**: 17.5, Edge For Covering Spread: -1.2%
-- **Auburn Tigers**: -17.5, Edge For Covering Spread: -3.5%
+- **South Alabama Jaguars**: 17.5, Edge For Covering Spread: -0.8%
+- **Auburn Tigers**: -17.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
 - **South Alabama Jaguars Win Probability**: 7.8%, Moneyline Edge: -0.9%
