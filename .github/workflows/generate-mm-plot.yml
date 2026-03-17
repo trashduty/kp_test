@@ -1,0 +1,106 @@
+name: Generate March Madness Plot
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-mm-plot:
+    runs-on: ubuntu-latest
+
+    env:
+      R_LIBS_USER: /home/runner/work/_temp/Library
+
+    steps:
+      - name: 🧾 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: 🧰 Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: '4.3.2'
+
+      - name: 🛠️ Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            libcurl4-openssl-dev \
+            libssl-dev \
+            libxml2-dev \
+            libfontconfig1-dev \
+            libfreetype6-dev \
+            libharfbuzz-dev \
+            libfribidi-dev \
+            libpng-dev \
+            libtiff5-dev \
+            libjpeg-dev \
+            libmagick++-dev \
+            imagemagick \
+            libmagickwand-dev \
+            librsvg2-dev \
+            libwebp-dev
+
+      - name: 🔧 Configure ImageMagick policy for PNG images
+        run: |
+          sudo sed -i 's/rights="none" pattern="PNG"/rights="read|write" pattern="PNG"/' /etc/ImageMagick-6/policy.xml || true
+
+      - name: 📦 Install R packages
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
+        run: |
+          mkdir -p "$R_LIBS_USER"
+          Rscript -e '
+            .libPaths(c(Sys.getenv("R_LIBS_USER"), .libPaths()))
+            options(repos = c(CRAN = "https://cloud.r-project.org"))
+            cat("Installing R packages...\n")
+            install.packages(c("tidyverse", "ggimage", "scales"), dependencies = TRUE)
+            cat("R packages installed successfully.\n")
+          '
+
+      - name: 📁 Create output directory
+        run: |
+          mkdir -p docs/plots
+          echo "Output directory docs/plots is ready"
+
+      - name: 📊 Generate March Madness plot
+        env:
+          R_LIBS_USER: /home/runner/work/_temp/Library
+        run: |
+          echo "Generating March Madness efficiency plot..."
+          if [ ! -f "MM Vids/kenpom_mm.csv" ]; then
+            echo "❌ Error: MM Vids/kenpom_mm.csv not found"
+            exit 1
+          fi
+          if [ ! -f "kenpom_stats.csv" ]; then
+            echo "❌ Error: kenpom_stats.csv not found"
+            exit 1
+          fi
+          ls -la "MM Vids/kenpom_mm.csv" kenpom_stats.csv
+          Rscript generate_kenpom_mm_plot.R
+
+      - name: 🖼️ Verify generated plot
+        run: |
+          echo "Checking generated plot..."
+          if [ -f "docs/plots/kenpom_mm_top100_eff.png" ]; then
+            echo "✅ kenpom_mm_top100_eff.png generated successfully"
+            ls -la docs/plots/kenpom_mm_top100_eff.png
+          else
+            echo "❌ kenpom_mm_top100_eff.png not found"
+            exit 1
+          fi
+
+      - name: 💾 Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/plots/kenpom_mm_top100_eff.png
+          if git commit -m "📊 Update March Madness efficiency plot ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))"; then
+            git pull --rebase origin main
+            git push
+          else
+            echo "No changes to commit"
+          fi
