@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Hawai'i Rainbow Warriors**: 15.5, Edge For Covering Spread: -3.7%
-- **Arkansas Razorbacks**: -15.5, Edge For Covering Spread: -1.2%
+- **Hawai'i Rainbow Warriors**: 15.5, Edge For Covering Spread: -3.2%
+- **Arkansas Razorbacks**: -15.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
 - **Hawai'i Rainbow Warriors Win Probability**: 9.7%, Moneyline Edge: -1.2%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 160.0
-- Edge For Covering The Over: -2.0%
-- Edge For Covering The Under: -2.7%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -3.7%
 
 ---
 

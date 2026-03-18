@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> North Carolina Tar Heels -2.5</p>
-  <p><strong>Moneyline:</strong> VCU Rams (+122) | North Carolina Tar Heels (-146)</p>
+  <p><strong>Moneyline:</strong> VCU Rams (+122) | North Carolina Tar Heels (-143)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **North Carolina Tar Heels**: -2.5, Edge For Covering Spread: -1.0%
 
 ### Moneyline
-- **VCU Rams Win Probability**: 42.1%, Moneyline Edge: -2.9%
-- **North Carolina Tar Heels Win Probability**: 57.9%, Moneyline Edge: -1.4%
+- **VCU Rams Win Probability**: 42.1%, Moneyline Edge: -2.8%
+- **North Carolina Tar Heels Win Probability**: 57.9%, Moneyline Edge: -1.1%
 
 ### Total
 - **Predicted Total**: 154.0
