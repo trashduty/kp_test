@@ -83,12 +83,28 @@ create_stats_plot <- function(plot_data, means_data, x_col, y_col,
 
 # ── Load data ────────────────────────────────────────────────────────────────
 
+# Tournament teams (used to filter plots)
+kenpom_mm <- read_csv(file.path("MM Vids", "kenpom_mm.csv"), show_col_types = FALSE)
+
+# Column is Team (capital T)
+mm_teams <- kenpom_mm |>
+  transmute(Team = str_trim(Team)) |>
+  filter(!is.na(Team), Team != "") |>
+  distinct(Team) |>
+  pull(Team)
+
+cat("\nTournament teams loaded from MM Vids/kenpom_mm.csv:", length(mm_teams), "\n")
+
 # All rows (including those without team names) – used for quadrant means
-stats_all <- read_csv("kenpom_stats.csv", show_col_types = FALSE)
+# Filtered to only teams appearing in kenpom_mm.csv
+stats_all <- read_csv("kenpom_stats.csv", show_col_types = FALSE) |>
+  mutate(Team = str_trim(Team)) |>
+  filter(!is.na(Team), Team != "") |>
+  filter(Team %in% mm_teams)
 
 cat("Actual column names in kenpom_stats.csv:\n")
 print(colnames(stats_all))
-cat("\nTotal rows in kenpom_stats.csv:", nrow(stats_all), "\n")
+cat("\nTotal rows in kenpom_stats.csv after MM filter:", nrow(stats_all), "\n")
 
 # NCAA logo data
 ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |>
@@ -99,18 +115,26 @@ print(head(ncaa_teams$current_team, 20))
 
 # Rows with team names joined with logos – used for plotting team images only
 stats_plot_data <- stats_all |>
-  filter(!is.na(Team) & Team != "") |>
   left_join(ncaa_teams, by = c("Team" = "current_team")) |>
   filter(!is.na(logo))
 
-cat("\nTeams with names:", nrow(stats_all |> filter(!is.na(Team) & Team != "")), "\n")
-cat("Teams with logos:", nrow(stats_plot_data), "\n")
+cat("\nTeams with names (after MM filter):", nrow(stats_all), "\n")
+cat("Teams with logos (after MM filter):", nrow(stats_plot_data), "\n")
+
+# Optional: show which MM teams did not match stats (useful for debugging naming mismatches)
+missing_in_stats <- setdiff(mm_teams, stats_all$Team)
+if (length(missing_in_stats) > 0) {
+  cat("\n⚠️ Teams in kenpom_mm.csv not found in kenpom_stats.csv (first 25):\n")
+  print(head(missing_in_stats, 25))
+}
 
 # ── Create output directory ──────────────────────────────────────────────────
 dir.create("docs/plots/kenpom_stats_axes", showWarnings = FALSE, recursive = TRUE)
 
 # ── Plot 1: Rebounding ───────────────────────────────────────────────────────
-# Higher OR_Pct (offensive) = better; lower DOR_Pct (defensive/allowed) = better
+# Higher OR_Pct (offensive) = better
+# Lower DOR_Pct (offensive rebounds allowed / defensive rebounding against you) = better
+# Flip y-axis so best teams are top-right
 p_reb <- create_stats_plot(
   plot_data    = stats_plot_data,
   means_data   = stats_all,
