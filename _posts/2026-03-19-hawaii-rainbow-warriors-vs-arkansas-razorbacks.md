@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arkansas Razorbacks -15.5</p>
-  <p><strong>Moneyline:</strong> Hawai'i Rainbow Warriors (+812) | Arkansas Razorbacks (-1494)</p>
+  <p><strong>Moneyline:</strong> Hawai'i Rainbow Warriors (+855) | Arkansas Razorbacks (-1522)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Arkansas Razorbacks**: -15.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Hawai'i Rainbow Warriors Win Probability**: 9.7%, Moneyline Edge: -1.2%
-- **Arkansas Razorbacks Win Probability**: 90.3%, Moneyline Edge: -3.5%
+- **Hawai'i Rainbow Warriors Win Probability**: 9.5%, Moneyline Edge: -1.0%
+- **Arkansas Razorbacks Win Probability**: 90.5%, Moneyline Edge: -3.4%
 
 ### Total
 - **Predicted Total**: 160.0

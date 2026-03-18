@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **New Mexico Lobos**: -11.5, Edge For Covering Spread: -4.4%
-- **Sam Houston St Bearkats**: 11.5, Edge For Covering Spread: -0.3%
+- **New Mexico Lobos**: -11.5, Edge For Covering Spread: -5.1%
+- **Sam Houston St Bearkats**: 11.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
 - **New Mexico Lobos Win Probability**: 81.0%, Moneyline Edge: -5.6%
