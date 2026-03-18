@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Nebraska Cornhuskers -12.5</p>
+  <p><strong>Spread:</strong> Nebraska Cornhuskers -13.0</p>
   <p><strong>Moneyline:</strong> Troy Trojans (+674) | Nebraska Cornhuskers (-1148)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Troy Trojans**: 12.5, Edge For Covering Spread: -4.0%
-- **Nebraska Cornhuskers**: -12.5, Edge For Covering Spread: -0.9%
+- **Troy Trojans**: 13.0, Edge For Covering Spread: -5.9%
+- **Nebraska Cornhuskers**: -13.0, Edge For Covering Spread: **1.1%**
 
 ### Moneyline
 - **Troy Trojans Win Probability**: 10.2%, Moneyline Edge: -2.8%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 137.5
-- Edge For Covering The Over: -2.2%
-- Edge For Covering The Under: -2.6%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Nebraska Cornhuskers (26-6) hosts Troy Trojans (22-11) at Pinnacle Bank Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Nebraska Cornhuskers favored by 12.5 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Nebraska Cornhuskers (26-6) hosts Troy Trojans (22-11) at Pinnacle Bank Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Nebraska Cornhuskers favored by 13.0 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 12.5-point spread screams mismatch. The books are asking Troy Trojans to hang within two possessions, which based on the profiles, requires Nebraska Cornhuskers to play below their standard. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 13.0-point spread screams mismatch. The books are asking Troy Trojans to hang within two possessions, which based on the profiles, requires Nebraska Cornhuskers to play below their standard. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Troy Trojans** bring an offensive efficiency of 112.20 (ranked #102 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.2% three-point shooting is serviceable but won't scare anyone. 

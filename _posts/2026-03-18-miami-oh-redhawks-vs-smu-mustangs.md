@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> SMU Mustangs -6.5</p>
-  <p><strong>Moneyline:</strong> Miami (OH) RedHawks (+242) | SMU Mustangs (-302)</p>
+  <p><strong>Spread:</strong> SMU Mustangs -7.5</p>
+  <p><strong>Moneyline:</strong> Miami (OH) RedHawks (+255) | SMU Mustangs (-317)</p>
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Miami (OH) RedHawks**: 6.5, Edge For Covering Spread: -1.2%
-- **SMU Mustangs**: -6.5, Edge For Covering Spread: -3.5%
+- **Miami (OH) RedHawks**: 7.5, Edge For Covering Spread: -0.8%
+- **SMU Mustangs**: -7.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Miami (OH) RedHawks Win Probability**: 28.5%, Moneyline Edge: -0.7%
-- **SMU Mustangs Win Probability**: 71.5%, Moneyline Edge: -3.6%
+- **Miami (OH) RedHawks Win Probability**: 28.0%, Moneyline Edge: -0.2%
+- **SMU Mustangs Win Probability**: 72.0%, Moneyline Edge: -4.1%
 
 ### Total
-- **Predicted Total**: 163.0
-- Edge For Covering The Over: -1.0%
-- Edge For Covering The Under: -5.3%
+- **Predicted Total**: 162.5
+- Edge For Covering The Over: -0.8%
+- Edge For Covering The Under: -3.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-SMU Mustangs (20-13) hosts Miami (OH) RedHawks (31-1) at Moody Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into SMU Mustangs favored by 6.5 points, with the total sitting at 164.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+SMU Mustangs (20-13) hosts Miami (OH) RedHawks (31-1) at Moody Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into SMU Mustangs favored by 7.5 points, with the total sitting at 164.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates SMU Mustangs is viewed as the better team, but this isn't an overwhelming edge. Miami (OH) RedHawks has a legitimate path to covering or winning outright. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us SMU Mustangs has clear advantages, but games aren't played on paper. Miami (OH) RedHawks needs to punch above their weight class to keep this close. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Miami (OH) RedHawks** bring an offensive efficiency of 120.00 (ranked #17 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 37.5% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

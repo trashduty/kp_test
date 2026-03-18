@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kennesaw St Owls**: 21.5, Edge For Covering Spread: **0.8%**
-- **Gonzaga Bulldogs**: -21.5, Edge For Covering Spread: -5.6%
+- **Kennesaw St Owls**: 21.5, Edge For Covering Spread: **0.3%**
+- **Gonzaga Bulldogs**: -21.5, Edge For Covering Spread: -5.0%
 
 ### Moneyline
 - **Kennesaw St Owls Win Probability**: 4.8%, Moneyline Edge: -1.0%

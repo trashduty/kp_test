@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Dayton Flyers -1.5</p>
-  <p><strong>Moneyline:</strong> Dayton Flyers (-130) | Bradley Braves (+105)</p>
+  <p><strong>Spread:</strong> Dayton Flyers -2.5</p>
+  <p><strong>Moneyline:</strong> Dayton Flyers (-148) | Bradley Braves (+124)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Dayton Flyers**: -1.5, Edge For Covering Spread: -5.8%
-- **Bradley Braves**: 1.5, Edge For Covering Spread: **0.7%**
+- **Dayton Flyers**: -2.5, Edge For Covering Spread: -4.1%
+- **Bradley Braves**: 2.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Dayton Flyers Win Probability**: 52.8%, Moneyline Edge: -3.7%
-- **Bradley Braves Win Probability**: 47.2%, Moneyline Edge: -1.6%
+- **Dayton Flyers Win Probability**: 54.6%, Moneyline Edge: -5.1%
+- **Bradley Braves Win Probability**: 45.4%, Moneyline Edge: **0.8%**
 
 ### Total
 - **Predicted Total**: 141.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Dayton Flyers (23-11) travels to face Bradley Braves (21-12) at Carver Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Dayton Flyers favored by 1.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Dayton Flyers (23-11) travels to face Bradley Braves (21-12) at Carver Arena in what shapes up to be a competitive matchup. The early betting action has shaped into Dayton Flyers favored by 2.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Dayton Flyers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Dayton Flyers's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Dayton Flyers** bring an offensive efficiency of 108.41 (ranked #175 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.1% three-point shooting is serviceable but won't scare anyone. 

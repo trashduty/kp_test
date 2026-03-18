@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan St Spartans -16.5</p>
-  <p><strong>Moneyline:</strong> North Dakota St Bison (+1048) | Michigan St Spartans (-2223)</p>
+  <p><strong>Moneyline:</strong> North Dakota St Bison (+1000) | Michigan St Spartans (-2000)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Michigan St Spartans**: -16.5, Edge For Covering Spread: -2.5%
 
 ### Moneyline
-- **North Dakota St Bison Win Probability**: 8.2%, Moneyline Edge: -0.5%
-- **Michigan St Spartans Win Probability**: 91.8%, Moneyline Edge: -3.9%
+- **North Dakota St Bison Win Probability**: 8.4%, Moneyline Edge: -0.7%
+- **Michigan St Spartans Win Probability**: 91.6%, Moneyline Edge: -3.6%
 
 ### Total
 - **Predicted Total**: 143.0

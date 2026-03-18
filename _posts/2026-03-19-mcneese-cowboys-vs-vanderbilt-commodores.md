@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **McNeese Cowboys**: 11.5, Edge For Covering Spread: -1.6%
-- **Vanderbilt Commodores**: -11.5, Edge For Covering Spread: -3.2%
+- **McNeese Cowboys**: 11.5, Edge For Covering Spread: -0.8%
+- **Vanderbilt Commodores**: -11.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
 - **McNeese Cowboys Win Probability**: 15.8%, Moneyline Edge: -0.5%

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Duke Blue Devils -28.5</p>
-  <p><strong>Moneyline:</strong> Siena Saints (+3734) | Duke Blue Devils (-33378)</p>
+  <p><strong>Spread:</strong> Duke Blue Devils -27.5</p>
+  <p><strong>Moneyline:</strong> Siena Saints (+3734) | Duke Blue Devils (-28590)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Siena Saints**: 28.5, Edge For Covering Spread: -1.8%
-- **Duke Blue Devils**: -28.5, Edge For Covering Spread: -3.0%
+- **Siena Saints**: 27.5, Edge For Covering Spread: -1.8%
+- **Duke Blue Devils**: -27.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
 - **Siena Saints Win Probability**: 1.8%, Moneyline Edge: -0.8%
-- **Duke Blue Devils Win Probability**: 98.2%, Moneyline Edge: -1.5%
+- **Duke Blue Devils Win Probability**: 98.2%, Moneyline Edge: -1.4%
 
 ### Total
 - **Predicted Total**: 136.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Duke Blue Devils (32-2) hosts Siena Saints (23-11) at Cameron Indoor Stadium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Duke Blue Devils favored by 28.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Duke Blue Devils (32-2) hosts Siena Saints (23-11) at Cameron Indoor Stadium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Duke Blue Devils favored by 27.5 points, with the total sitting at 135.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 28.5-point spread screams mismatch. The books are asking Siena Saints to hang within two possessions, which based on the profiles, requires Duke Blue Devils to play below their standard. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 27.5-point spread screams mismatch. The books are asking Siena Saints to hang within two possessions, which based on the profiles, requires Duke Blue Devils to play below their standard. The total of 135.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Siena Saints** bring an offensive efficiency of 109.69 (ranked #143 nationally). They're solid offensively, capable of putting up points but not overwhelming. At 30.4% from three, they can't rely on the arc. Expect a paint-focused attack. 

@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Idaho Vandals**: 23.5, Edge For Covering Spread: **2.8%**
-- **Houston Cougars**: -23.5, Edge For Covering Spread: -7.6%
+- **Idaho Vandals**: 23.5, Edge For Covering Spread: **3.4%**
+- **Houston Cougars**: -23.5, Edge For Covering Spread: -8.1%
 
 ### Moneyline
 - **Idaho Vandals Win Probability**: 3.4%, Moneyline Edge: -0.5%

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> California Golden Bears -6.5</p>
-  <p><strong>Moneyline:</strong> UIC Flames (+220) | California Golden Bears (-275)</p>
+  <p><strong>Moneyline:</strong> UIC Flames (+202) | California Golden Bears (-250)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UIC Flames**: 6.5, Edge For Covering Spread: -2.4%
-- **California Golden Bears**: -6.5, Edge For Covering Spread: -2.4%
+- **UIC Flames**: 6.5, Edge For Covering Spread: -3.5%
+- **California Golden Bears**: -6.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **UIC Flames Win Probability**: 28.4%, Moneyline Edge: -2.8%
-- **California Golden Bears Win Probability**: 71.6%, Moneyline Edge: -1.8%
+- **UIC Flames Win Probability**: 29.3%, Moneyline Edge: -3.8%
+- **California Golden Bears Win Probability**: 70.7%, Moneyline Edge: -0.8%
 
 ### Total
 - **Predicted Total**: 148.5

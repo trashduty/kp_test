@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Nevada Wolf Pack -8.5</p>
-  <p><strong>Moneyline:</strong> Murray St Racers (+320) | Nevada Wolf Pack (-410)</p>
+  <p><strong>Spread:</strong> Nevada Wolf Pack -7.5</p>
+  <p><strong>Moneyline:</strong> Murray St Racers (+275) | Nevada Wolf Pack (-350)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Murray St Racers**: 8.5, Edge For Covering Spread: -4.0%
-- **Nevada Wolf Pack**: -8.5, Edge For Covering Spread: -0.8%
+- **Murray St Racers**: 7.5, Edge For Covering Spread: -5.1%
+- **Nevada Wolf Pack**: -7.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Murray St Racers Win Probability**: 21.4%, Moneyline Edge: -2.4%
-- **Nevada Wolf Pack Win Probability**: 78.6%, Moneyline Edge: -1.8%
+- **Murray St Racers Win Probability**: 22.8%, Moneyline Edge: -3.9%
+- **Nevada Wolf Pack Win Probability**: 77.2%, Moneyline Edge: -0.5%
 
 ### Total
-- **Predicted Total**: 160.0
-- Edge For Covering The Over: -3.6%
-- Edge For Covering The Under: -1.1%
+- **Predicted Total**: 159.5
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -1.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Nevada Wolf Pack (22-12) hosts Murray St Racers (20-12) at Lawlor Events Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Nevada Wolf Pack favored by 8.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Nevada Wolf Pack (22-12) hosts Murray St Racers (20-12) at Lawlor Events Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Nevada Wolf Pack favored by 7.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Nevada Wolf Pack has clear advantages, but games aren't played on paper. Murray St Racers needs to punch above their weight class to keep this close. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 7.5 points tells us Nevada Wolf Pack has clear advantages, but games aren't played on paper. Murray St Racers needs to punch above their weight class to keep this close. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Murray St Racers** bring an offensive efficiency of 115.23 (ranked #60 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.8% three-point shooting is serviceable but won't scare anyone. 

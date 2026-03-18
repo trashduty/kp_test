@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Texas A&M Aggies**: 3.5, Edge For Covering Spread: -2.4%
-- **Saint Mary's Gaels**: -3.5, Edge For Covering Spread: -2.4%
+- **Texas A&M Aggies**: 3.5, Edge For Covering Spread: -1.2%
+- **Saint Mary's Gaels**: -3.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
 - **Texas A&M Aggies Win Probability**: 40.0%, Moneyline Edge: -2.5%
@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 148.0
-- Edge For Covering The Over: -0.0%
-- Edge For Covering The Under: -4.7%
+- Edge For Covering The Over: -1.0%
+- Edge For Covering The Under: -5.3%
 
 ---
 

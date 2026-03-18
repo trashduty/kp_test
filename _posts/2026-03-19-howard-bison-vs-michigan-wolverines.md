@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Michigan Wolverines -31.5</p>
+  <p><strong>Spread:</strong> Michigan Wolverines -31.0</p>
   <p><strong>Moneyline:</strong> Howard Bison (+5000) | Michigan Wolverines (-50000)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Howard Bison**: 31.5, Edge For Covering Spread: -0.2%
-- **Michigan Wolverines**: -31.5, Edge For Covering Spread: -4.5%
+- **Howard Bison**: 31.0, Edge For Covering Spread: **0.7%**
+- **Michigan Wolverines**: -31.0, Edge For Covering Spread: -5.4%
 
 ### Moneyline
 - **Howard Bison Win Probability**: 1.2%, Moneyline Edge: -0.8%
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Michigan Wolverines (31-3) hosts Howard Bison (23-10) at Crisler Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Michigan Wolverines favored by 31.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Michigan Wolverines (31-3) hosts Howard Bison (23-10) at Crisler Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Michigan Wolverines favored by 31.0 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 31.5-point spread screams mismatch. The books are asking Howard Bison to hang within two possessions, which based on the profiles, requires Michigan Wolverines to play below their standard. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 31.0-point spread screams mismatch. The books are asking Howard Bison to hang within two possessions, which based on the profiles, requires Michigan Wolverines to play below their standard. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Howard Bison** bring an offensive efficiency of 108.18 (ranked #180 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.7% three-point shooting is serviceable but won't scare anyone. 

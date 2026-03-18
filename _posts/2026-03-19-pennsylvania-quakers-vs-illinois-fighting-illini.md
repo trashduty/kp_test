@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **Illinois Fighting Illini Win Probability**: 96.4%, Moneyline Edge: -2.4%
 
 ### Total
-- **Predicted Total**: 150.5
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 151.0
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 
