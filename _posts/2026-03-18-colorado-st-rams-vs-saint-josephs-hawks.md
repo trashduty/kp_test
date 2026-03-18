@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Colorado St Rams -5.5</p>
-  <p><strong>Moneyline:</strong> Colorado St Rams (-225) | Saint Joseph's Hawks (+184)</p>
+  <p><strong>Moneyline:</strong> Colorado St Rams (-235) | Saint Joseph's Hawks (+195)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Saint Joseph's Hawks**: 5.5, Edge For Covering Spread: **0.5%**
 
 ### Moneyline
-- **Colorado St Rams Win Probability**: 66.1%, Moneyline Edge: -3.1%
-- **Saint Joseph's Hawks Win Probability**: 33.9%, Moneyline Edge: -1.2%
+- **Colorado St Rams Win Probability**: 66.6%, Moneyline Edge: -3.5%
+- **Saint Joseph's Hawks Win Probability**: 33.4%, Moneyline Edge: -0.5%
 
 ### Total
 - **Predicted Total**: 144.0

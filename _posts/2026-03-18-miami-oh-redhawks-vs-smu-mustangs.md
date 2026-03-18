@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> SMU Mustangs -6.5</p>
-  <p><strong>Moneyline:</strong> Miami (OH) RedHawks (+242) | SMU Mustangs (-300)</p>
+  <p><strong>Moneyline:</strong> Miami (OH) RedHawks (+240) | SMU Mustangs (-297)</p>
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **SMU Mustangs**: -6.5, Edge For Covering Spread: -5.1%
 
 ### Moneyline
-- **Miami (OH) RedHawks Win Probability**: 31.0%, Moneyline Edge: **1.8%**
-- **SMU Mustangs Win Probability**: 69.0%, Moneyline Edge: -6.0%
+- **Miami (OH) RedHawks Win Probability**: 31.1%, Moneyline Edge: **1.7%**
+- **SMU Mustangs Win Probability**: 68.9%, Moneyline Edge: -6.0%
 
 ### Total
 - **Predicted Total**: 164.0
-- Edge For Covering The Over: -3.5%
-- Edge For Covering The Under: -2.8%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 

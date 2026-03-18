@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Utah Valley Wolverines -1.5</p>
-  <p><strong>Moneyline:</strong> GW Revolutionaries (+109) | Utah Valley Wolverines (-132)</p>
+  <p><strong>Moneyline:</strong> GW Revolutionaries (+110) | Utah Valley Wolverines (-130)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Utah Valley Wolverines**: -1.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **GW Revolutionaries Win Probability**: 42.6%, Moneyline Edge: -5.2%
-- **Utah Valley Wolverines Win Probability**: 57.4%, Moneyline Edge: **0.4%**
+- **GW Revolutionaries Win Probability**: 42.7%, Moneyline Edge: -4.9%
+- **Utah Valley Wolverines Win Probability**: 57.3%, Moneyline Edge: **0.8%**
 
 ### Total
 - **Predicted Total**: 157.0

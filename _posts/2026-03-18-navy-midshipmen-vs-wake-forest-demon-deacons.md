@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wake Forest Demon Deacons -12.5</p>
-  <p><strong>Moneyline:</strong> Navy Midshipmen (+522) | Wake Forest Demon Deacons (-757)</p>
+  <p><strong>Moneyline:</strong> Navy Midshipmen (+500) | Wake Forest Demon Deacons (-700)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Wake Forest Demon Deacons**: -12.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Navy Midshipmen Win Probability**: 17.2%, Moneyline Edge: **1.1%**
-- **Wake Forest Demon Deacons Win Probability**: 82.8%, Moneyline Edge: -5.5%
+- **Navy Midshipmen Win Probability**: 17.5%, Moneyline Edge: **0.8%**
+- **Wake Forest Demon Deacons Win Probability**: 82.5%, Moneyline Edge: -5.0%
 
 ### Total
 - **Predicted Total**: 147.5

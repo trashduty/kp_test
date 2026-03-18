@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Lehigh Mountain Hawks -3.5</p>
-  <p><strong>Moneyline:</strong> Prairie View Panthers (+140) | Lehigh Mountain Hawks (-166)</p>
+  <p><strong>Moneyline:</strong> Prairie View Panthers (+140) | Lehigh Mountain Hawks (-165)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Prairie View Panthers**: 3.5, Edge For Covering Spread: **2.7%**
-- **Lehigh Mountain Hawks**: -3.5, Edge For Covering Spread: -7.4%
+- **Prairie View Panthers**: 3.5, Edge For Covering Spread: **2.2%**
+- **Lehigh Mountain Hawks**: -3.5, Edge For Covering Spread: -7.0%
 
 ### Moneyline
 - **Prairie View Panthers Win Probability**: 45.0%, Moneyline Edge: **3.4%**
