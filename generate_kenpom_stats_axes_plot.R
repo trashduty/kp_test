@@ -110,16 +110,18 @@ cat("Teams with logos:", nrow(stats_plot_data), "\n")
 dir.create("docs/plots/kenpom_stats_axes", showWarnings = FALSE, recursive = TRUE)
 
 # ── Plot 1: Rebounding ───────────────────────────────────────────────────────
+# Higher OR_Pct (offensive) = better; lower DOR_Pct (defensive/allowed) = better
 p_reb <- create_stats_plot(
   plot_data    = stats_plot_data,
   means_data   = stats_all,
   x_col        = "OR_Pct",
   y_col        = "DOR_Pct",
   x_label      = "Offensive Rebounding %",
-  y_label      = "Defensive Rebounding %",
+  y_label      = "Offensive Rebounding Allowed %",
   title_prefix = "Season Stats | Rebounding",
   x_good_high  = TRUE,
-  y_good_high  = TRUE
+  y_good_high  = FALSE,
+  reverse_y    = TRUE
 )
 ggsave("docs/plots/kenpom_stats_axes/kenpom_stats_rebounding.png", plot = p_reb, width = 14, height = 10, dpi = "retina")
 cat("✅ Plot saved to docs/plots/kenpom_stats_axes/kenpom_stats_rebounding.png\n")
