@@ -9,101 +9,197 @@ library(scales)
 cat("🔎 .libPaths():\n")
 print(.libPaths())
 
-# Function to create base plot with specific means
-create_base_plot <- function(data, means_data, title_prefix = "") {
-  # Validate required columns exist in data
-  required_cols <- c("ORtg", "DRtg", "logo")
-  missing_cols <- setdiff(required_cols, colnames(data))
-  if (length(missing_cols) > 0) {
-    stop(paste("Missing required columns in data:", paste(missing_cols, collapse=", ")))  
+# Set timestamp
+timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")
+
+# Generalized plot creation function.
+# plot_data  : rows with logos, used for plotting team images
+# means_data : all rows (incl. those without names), used for quadrant means
+# x_col / y_col     : column names in the data frames
+# x_label / y_label : axis labels
+# x_good_high       : TRUE if higher x values are "good" (green quadrant)
+# y_good_high       : TRUE if higher y values are "good" (green quadrant)
+# reverse_y         : TRUE to flip the y-axis (useful for defensive efficiency)
+create_mm_plot <- function(plot_data, means_data, x_col, y_col,
+                           x_label, y_label, title_prefix,
+                           x_good_high = TRUE, y_good_high = TRUE,
+                           reverse_y = FALSE) {
+  mean_x <- mean(means_data[[x_col]], na.rm = TRUE)
+  mean_y <- mean(means_data[[y_col]], na.rm = TRUE)
+
+  # Determine the "good" (green) and "bad" (red) quadrant boundaries
+  if (x_good_high) {
+    green_xmin <- mean_x; green_xmax <- Inf
+    red_xmin   <- -Inf;   red_xmax   <- mean_x
+  } else {
+    green_xmin <- -Inf;   green_xmax <- mean_x
+    red_xmin   <- mean_x; red_xmax   <- Inf
   }
-  
-  # Validate required columns exist in means_data
-  required_mean_cols <- c("ORtg", "DRtg")
-  missing_mean_cols <- setdiff(required_mean_cols, colnames(means_data))
-  if (length(missing_mean_cols) > 0) {
-    stop(paste("Missing required columns in means_data:", paste(missing_mean_cols, collapse=", ")))  
+
+  if (y_good_high) {
+    green_ymin <- mean_y; green_ymax <- Inf
+    red_ymin   <- -Inf;   red_ymax   <- mean_y
+  } else {
+    green_ymin <- -Inf;   green_ymax <- mean_y
+    red_ymin   <- mean_y; red_ymax   <- Inf
   }
-  
-  # Calculate means using provided data
-  mean_ORtg <- mean(means_data$ORtg, na.rm = TRUE)
-  mean_DRtg <- mean(means_data$DRtg, na.rm = TRUE)
-  
-  # Current timestamp
-  timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S UTC")  
-  
-  ggplot(data, aes(x = ORtg, y = DRtg)) +
-    annotate("rect", xmin = mean_ORtg, xmax = Inf, ymin = -Inf, ymax = mean_DRtg, 
+
+  p <- ggplot(plot_data, aes(x = .data[[x_col]], y = .data[[y_col]])) +
+    annotate("rect",
+             xmin = green_xmin, xmax = green_xmax,
+             ymin = green_ymin, ymax = green_ymax,
              alpha = 0.1, fill = "green") +
-    annotate("rect", xmin = -Inf, xmax = mean_ORtg, ymin = mean_DRtg, ymax = Inf, 
+    annotate("rect",
+             xmin = red_xmin, xmax = red_xmax,
+             ymin = red_ymin, ymax = red_ymax,
              alpha = 0.1, fill = "red") +
-    geom_hline(yintercept = mean_DRtg, linetype = "dashed") +
-    geom_vline(xintercept = mean_ORtg, linetype = "dashed") +
+    geom_hline(yintercept = mean_y, linetype = "dashed") +
+    geom_vline(xintercept = mean_x, linetype = "dashed") +
     geom_image(aes(image = logo), size = 0.04, asp = 16/9) +
     theme_bw() +
     theme(
-      plot.title = element_text(size = 25, face = "bold", hjust = 0.5),
+      plot.title    = element_text(size = 25, face = "bold", hjust = 0.5),
       plot.subtitle = element_text(hjust = 0.5),
-      axis.title = element_text(size = 25),
-      plot.caption = element_text(size = 10, hjust = 1)
+      axis.title    = element_text(size = 25),
+      plot.caption  = element_text(size = 10, hjust = 1)
     ) +
     scale_x_continuous(breaks = pretty_breaks(n = 6)) +
-    scale_y_reverse(breaks = pretty_breaks(n = 6)) +
     labs(
-      x = "Adjusted Offensive Efficiency",
-      y = "Adjusted Defensive Efficiency",
-      title = paste0(title_prefix),
+      x        = x_label,
+      y        = y_label,
+      title    = title_prefix,
       subtitle = "Using data from kenpom.com",
-      caption = timestamp
+      caption  = timestamp
     )
+
+  if (reverse_y) {
+    p <- p + scale_y_reverse(breaks = pretty_breaks(n = 6))
+  } else {
+    p <- p + scale_y_continuous(breaks = pretty_breaks(n = 6))
+  }
+
+  p
 }
 
-# Load March Madness data from the CSV
-mm_stats <- read_csv("MM Vids/kenpom_mm.csv", show_col_types = FALSE)
+# ── Load data ────────────────────────────────────────────────────────────────
+
+# All rows (including those without team names) – used for quadrant means
+mm_stats_all <- read_csv("MM Vids/kenpom_mm.csv", show_col_types = FALSE)
 
 cat("Actual column names in kenpom_mm.csv:\n")
-print(colnames(mm_stats))
+print(colnames(mm_stats_all))
+cat("\nTotal rows in kenpom_mm.csv:", nrow(mm_stats_all), "\n")
 
-cat("\nTotal rows in kenpom_mm.csv:", nrow(mm_stats), "\n")
-
-# Filter to only rows with team names (remove empty team rows)
-mm_stats <- mm_stats |> 
-  filter(!is.na(Team) & Team != "")
-
-cat("Rows with team names:", nrow(mm_stats), "\n")
-
-# Load NCAA teams data
-ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |> 
+# NCAA logo data
+ncaa_teams <- read_csv("ncaa_teams_colors_logos_CBB.csv", show_col_types = FALSE) |>
   distinct(current_team, .keep_all = TRUE)
 
 cat("\nFirst few NCAA team names in logo file:\n")
 print(head(ncaa_teams$current_team, 20))
 
-# Rename columns for MM data
-mm_stats <- mm_stats |> 
-  rename(
-    ORtg = ORtg_value,
-    DRtg = DRtg_value,
-    AdjT = AdjT_value,
-    Luck = Luck_value
-  )
-
-# Join MM teams with NCAA logos
-mm_stats_with_logos <- mm_stats |> 
-  left_join(ncaa_teams, by = c("Team" = "current_team"))
-
-# Filter to only teams that have logos (remove rows with missing logo data)
-mm_stats_complete <- mm_stats_with_logos |> 
+# Rows with team names joined with logos – used for plotting team images only
+mm_plot_data <- mm_stats_all |>
+  filter(!is.na(Team) & Team != "") |>
+  left_join(ncaa_teams, by = c("Team" = "current_team")) |>
   filter(!is.na(logo))
 
-cat("\nNumber of teams with logos:", nrow(mm_stats_complete), "\n")
-cat("Number of teams without logos:", nrow(mm_stats_with_logos) - nrow(mm_stats_complete), "\n")
+cat("\nTeams with names:", nrow(mm_stats_all |> filter(!is.na(Team) & Team != "")), "\n")
+cat("Teams with logos:", nrow(mm_plot_data), "\n")
 
-# Create plot using only teams with logos for both plotting AND calculating means
-p_mm <- create_base_plot(mm_stats_complete, mm_stats_complete,
-                        "Men's CBB Landscape | March Madness Teams")
+# ── Create output directory ──────────────────────────────────────────────────
+dir.create("docs/plots", showWarnings = FALSE, recursive = TRUE)
 
-# Save to docs/plots
-ggsave("docs/plots/kenpom_mm_top100_eff.png", plot = p_mm, width = 14, height = 10, dpi = "retina")
-
+# ── Plot 1: Offensive vs Defensive Efficiency ────────────────────────────────
+p_eff <- create_mm_plot(
+  plot_data    = mm_plot_data,
+  means_data   = mm_stats_all,
+  x_col        = "ORtg_value",
+  y_col        = "DRtg_value",
+  x_label      = "Adjusted Offensive Efficiency",
+  y_label      = "Adjusted Defensive Efficiency",
+  title_prefix = "Men's CBB Landscape | March Madness Teams",
+  x_good_high  = TRUE,
+  y_good_high  = FALSE,
+  reverse_y    = TRUE
+)
+ggsave("docs/plots/kenpom_mm_top100_eff.png", plot = p_eff, width = 14, height = 10, dpi = "retina")
 cat("✅ Plot saved to docs/plots/kenpom_mm_top100_eff.png\n")
+
+# ── Plot 2: Rebounding ───────────────────────────────────────────────────────
+p_reb <- create_mm_plot(
+  plot_data    = mm_plot_data,
+  means_data   = mm_stats_all,
+  x_col        = "OR_Pct",
+  y_col        = "DOR_Pct",
+  x_label      = "Offensive Rebounding %",
+  y_label      = "Defensive Rebounding %",
+  title_prefix = "March Madness | Rebounding",
+  x_good_high  = TRUE,
+  y_good_high  = TRUE
+)
+ggsave("docs/plots/kenpom_mm_rebounding.png", plot = p_reb, width = 14, height = 10, dpi = "retina")
+cat("✅ Plot saved to docs/plots/kenpom_mm_rebounding.png\n")
+
+# ── Plot 3: Offensive Efficiency vs Tempo ────────────────────────────────────
+p_off_tempo <- create_mm_plot(
+  plot_data    = mm_plot_data,
+  means_data   = mm_stats_all,
+  x_col        = "AdjT_value",
+  y_col        = "ORtg_value",
+  x_label      = "Adjusted Tempo",
+  y_label      = "Adjusted Offensive Efficiency",
+  title_prefix = "March Madness | Offensive Efficiency vs. Tempo",
+  x_good_high  = TRUE,
+  y_good_high  = TRUE
+)
+ggsave("docs/plots/kenpom_mm_off_efficiency_tempo.png", plot = p_off_tempo, width = 14, height = 10, dpi = "retina")
+cat("✅ Plot saved to docs/plots/kenpom_mm_off_efficiency_tempo.png\n")
+
+# ── Plot 4: Defensive Efficiency vs Tempo ────────────────────────────────────
+# Lower DRtg_value = better defense → y_good_high = FALSE
+# Slower tempo (lower AdjT) = better for defensive teams → x_good_high = FALSE
+p_def_tempo <- create_mm_plot(
+  plot_data    = mm_plot_data,
+  means_data   = mm_stats_all,
+  x_col        = "AdjT_value",
+  y_col        = "DRtg_value",
+  x_label      = "Adjusted Tempo",
+  y_label      = "Adjusted Defensive Efficiency",
+  title_prefix = "March Madness | Defensive Efficiency vs. Tempo",
+  x_good_high  = FALSE,
+  y_good_high  = FALSE
+)
+ggsave("docs/plots/kenpom_mm_def_efficiency_tempo.png", plot = p_def_tempo, width = 14, height = 10, dpi = "retina")
+cat("✅ Plot saved to docs/plots/kenpom_mm_def_efficiency_tempo.png\n")
+
+# ── Plot 5: Free Throw Rate ──────────────────────────────────────────────────
+# Higher FT_Rate (offensive) = better; lower DFT_Rate (defensive) = better
+p_ft <- create_mm_plot(
+  plot_data    = mm_plot_data,
+  means_data   = mm_stats_all,
+  x_col        = "FT_Rate",
+  y_col        = "DFT_Rate",
+  x_label      = "Offensive Free Throw Rate",
+  y_label      = "Defensive Free Throw Rate",
+  title_prefix = "March Madness | Free Throw Rate",
+  x_good_high  = TRUE,
+  y_good_high  = FALSE
+)
+ggsave("docs/plots/kenpom_mm_ft_rate.png", plot = p_ft, width = 14, height = 10, dpi = "retina")
+cat("✅ Plot saved to docs/plots/kenpom_mm_ft_rate.png\n")
+
+# ── Plot 6: Turnover Percentage ──────────────────────────────────────────────
+# Lower TO_Pct (offensive) = better; higher DTO_Pct (defensive/forced) = better
+p_to <- create_mm_plot(
+  plot_data    = mm_plot_data,
+  means_data   = mm_stats_all,
+  x_col        = "TO_Pct",
+  y_col        = "DTO_Pct",
+  x_label      = "Offensive Turnover %",
+  y_label      = "Defensive Turnover % (Forced)",
+  title_prefix = "March Madness | Turnover Percentage",
+  x_good_high  = FALSE,
+  y_good_high  = TRUE
+)
+ggsave("docs/plots/kenpom_mm_turnover.png", plot = p_to, width = 14, height = 10, dpi = "retina")
+cat("✅ Plot saved to docs/plots/kenpom_mm_turnover.png\n")
