@@ -1,9 +1,9 @@
 Team,Odds
-Duke Blue Devils,300
-Michigan Wolverines,350
-Arizona Wildcats,400
-Florida Gators,650
-Houston Cougars,1000
+Duke Blue Devils,325
+Arizona Wildcats,350
+Michigan Wolverines,375
+Florida Gators,700
+Houston Cougars,1100
 Iowa State Cyclones,1600
 Illinois Fighting Illini,2000
 UConn Huskies,2200
@@ -25,7 +25,6 @@ Texas Tech Red Raiders,12500
 BYU Cougars,15000
 North Carolina Tar Heels,20000
 UCLA Bruins,25000
-NC State Wolfpack,25000
 Clemson Tigers,25000
 Iowa Hawkeyes,25000
 Saint Mary's Gaels,25000
@@ -37,6 +36,7 @@ Ohio State Buckeyes,50000
 Missouri Tigers,50000
 Texas A&M Aggies,50000
 UCF Knights,50000
+Texas Longhorns,75000
 Georgia Bulldogs,75000
 Santa Clara Broncos,75000
 VCU Rams,75000
@@ -47,7 +47,6 @@ Northern Iowa Panthers,100000
 High Point Panthers,100000
 Hofstra Pride,100000
 Akron Zips,100000
-Texas Longhorns,150000
 Miami (OH) RedHawks,200000
 Tennessee St Tigers,200000
 LIU Sharks,200000
@@ -62,7 +61,6 @@ Cal Baptist Lancers,200000
 Pennsylvania Quakers,200000
 Lehigh Mountain Hawks,500000
 Idaho Vandals,500000
-UMBC Retrievers,500000
 Howard Bison,500000
 Prairie View Panthers,500000
 Kennesaw St Owls,500000
