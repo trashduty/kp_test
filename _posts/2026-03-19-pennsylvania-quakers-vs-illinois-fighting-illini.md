@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Illinois Fighting Illini -24.5</p>
-  <p><strong>Moneyline:</strong> Pennsylvania Quakers (+2223) | Illinois Fighting Illini (-8573)</p>
+  <p><strong>Moneyline:</strong> Pennsylvania Quakers (+2500) | Illinois Fighting Illini (-10000)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Illinois Fighting Illini**: -24.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Pennsylvania Quakers Win Probability**: 3.6%, Moneyline Edge: -0.7%
-- **Illinois Fighting Illini Win Probability**: 96.4%, Moneyline Edge: -2.4%
+- **Pennsylvania Quakers Win Probability**: 3.4%, Moneyline Edge: -0.5%
+- **Illinois Fighting Illini Win Probability**: 96.6%, Moneyline Edge: -2.4%
 
 ### Total
 - **Predicted Total**: 150.5
-- Edge For Covering The Over: -2.9%
-- Edge For Covering The Under: -1.8%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

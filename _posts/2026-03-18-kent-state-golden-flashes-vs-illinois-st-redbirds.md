@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Illinois St Redbirds**: -6.5, Edge For Covering Spread: **0.4%**
 
 ### Moneyline
-- **Kent State Golden Flashes Win Probability**: 27.6%, Moneyline Edge: -5.7%
-- **Illinois St Redbirds Win Probability**: 72.4%, Moneyline Edge: **0.9%**
+- **Kent State Golden Flashes Win Probability**: 27.9%, Moneyline Edge: -5.4%
+- **Illinois St Redbirds Win Probability**: 72.1%, Moneyline Edge: **0.7%**
 
 ### Total
 - **Predicted Total**: 153.0

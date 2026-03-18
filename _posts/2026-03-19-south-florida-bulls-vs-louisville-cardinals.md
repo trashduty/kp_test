@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Louisville Cardinals**: -4.5, Edge For Covering Spread: -0.3%
 
 ### Moneyline
-- **South Florida Bulls Win Probability**: 30.6%, Moneyline Edge: -5.1%
-- **Louisville Cardinals Win Probability**: 69.4%, Moneyline Edge: **0.9%**
+- **South Florida Bulls Win Probability**: 31.1%, Moneyline Edge: -4.6%
+- **Louisville Cardinals Win Probability**: 68.9%, Moneyline Edge: **0.4%**
 
 ### Total
 - **Predicted Total**: 164.5

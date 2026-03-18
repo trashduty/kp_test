@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Wisconsin Badgers -9.5</p>
-  <p><strong>Moneyline:</strong> High Point Panthers (+380) | Wisconsin Badgers (-524)</p>
+  <p><strong>Spread:</strong> Wisconsin Badgers -10.0</p>
+  <p><strong>Moneyline:</strong> High Point Panthers (+390) | Wisconsin Badgers (-538)</p>
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **High Point Panthers**: 9.5, Edge For Covering Spread: -2.5%
-- **Wisconsin Badgers**: -9.5, Edge For Covering Spread: -2.2%
+- **High Point Panthers**: 10.0, Edge For Covering Spread: -4.3%
+- **Wisconsin Badgers**: -10.0, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **High Point Panthers Win Probability**: 18.4%, Moneyline Edge: -2.4%
-- **Wisconsin Badgers Win Probability**: 81.6%, Moneyline Edge: -2.4%
+- **High Point Panthers Win Probability**: 18.2%, Moneyline Edge: -2.2%
+- **Wisconsin Badgers Win Probability**: 81.8%, Moneyline Edge: -2.6%
 
 ### Total
 - **Predicted Total**: 164.5
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -2.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Wisconsin Badgers (24-10) hosts High Point Panthers (30-4) at Kohl Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Wisconsin Badgers favored by 9.5 points, with the total sitting at 164.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Wisconsin Badgers (24-10) hosts High Point Panthers (30-4) at Kohl Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Wisconsin Badgers favored by 10.0 points, with the total sitting at 164.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Wisconsin Badgers has clear advantages, but games aren't played on paper. High Point Panthers needs to punch above their weight class to keep this close. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 10.0 points tells us Wisconsin Badgers has clear advantages, but games aren't played on paper. High Point Panthers needs to punch above their weight class to keep this close. The total of 164.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **High Point Panthers** bring an offensive efficiency of 121.19 (ranked #10 nationally). This is an elite offense that can score in multiple ways. Their 34.4% three-point shooting is serviceable but won't scare anyone. 
