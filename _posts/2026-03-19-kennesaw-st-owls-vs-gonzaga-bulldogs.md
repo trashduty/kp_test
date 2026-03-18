@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Gonzaga Bulldogs -20.5</p>
-  <p><strong>Moneyline:</strong> Kennesaw St Owls (+1494) | Gonzaga Bulldogs (-4737)</p>
+  <p><strong>Moneyline:</strong> Kennesaw St Owls (+1448) | Gonzaga Bulldogs (-4737)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kennesaw St Owls**: 20.5, Edge For Covering Spread: -1.6%
-- **Gonzaga Bulldogs**: -20.5, Edge For Covering Spread: -3.2%
+- **Kennesaw St Owls**: 20.5, Edge For Covering Spread: -1.0%
+- **Gonzaga Bulldogs**: -20.5, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **Kennesaw St Owls Win Probability**: 5.0%, Moneyline Edge: -1.3%
-- **Gonzaga Bulldogs Win Probability**: 95.0%, Moneyline Edge: -2.9%
+- **Kennesaw St Owls Win Probability**: 5.1%, Moneyline Edge: -1.4%
+- **Gonzaga Bulldogs Win Probability**: 94.9%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 155.5
