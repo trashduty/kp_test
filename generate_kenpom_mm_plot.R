@@ -157,6 +157,7 @@ cat("✅ Plot saved to docs/plots/kenpom_mm_off_efficiency_tempo.png\n")
 
 # ── Plot 4: Defensive Efficiency vs Tempo ────────────────────────────────────
 # Lower DRtg_value = better defense → y_good_high = FALSE
+# Slower tempo (lower AdjT) = better for defensive teams → x_good_high = FALSE
 p_def_tempo <- create_mm_plot(
   plot_data    = mm_plot_data,
   means_data   = mm_stats_all,
@@ -165,7 +166,7 @@ p_def_tempo <- create_mm_plot(
   x_label      = "Adjusted Tempo",
   y_label      = "Adjusted Defensive Efficiency",
   title_prefix = "March Madness | Defensive Efficiency vs. Tempo",
-  x_good_high  = TRUE,
+  x_good_high  = FALSE,
   y_good_high  = FALSE
 )
 ggsave("docs/plots/kenpom_mm_def_efficiency_tempo.png", plot = p_def_tempo, width = 14, height = 10, dpi = "retina")
