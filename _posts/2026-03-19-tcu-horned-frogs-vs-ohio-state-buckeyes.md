@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Ohio State Buckeyes**: -2.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **TCU Horned Frogs Win Probability**: 39.4%, Moneyline Edge: -5.6%
-- **Ohio State Buckeyes Win Probability**: 60.6%, Moneyline Edge: **1.5%**
+- **TCU Horned Frogs Win Probability**: 39.3%, Moneyline Edge: -5.6%
+- **Ohio State Buckeyes Win Probability**: 60.7%, Moneyline Edge: **1.5%**
 
 ### Total
 - **Predicted Total**: 146.5

@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **South Florida Bulls**: 4.5, Edge For Covering Spread: -4.4%
-- **Louisville Cardinals**: -4.5, Edge For Covering Spread: -0.3%
+- **South Florida Bulls**: 4.5, Edge For Covering Spread: -5.0%
+- **Louisville Cardinals**: -4.5, Edge For Covering Spread: **0.3%**
 
 ### Moneyline
 - **South Florida Bulls Win Probability**: 31.3%, Moneyline Edge: -4.8%
 - **Louisville Cardinals Win Probability**: 68.7%, Moneyline Edge: **0.5%**
 
 ### Total
-- **Predicted Total**: 164.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -0.8%
+- **Predicted Total**: 164.0
+- Edge For Covering The Over: -4.7%
+- Edge For Covering The Under: -0.0%
 
 ---
 

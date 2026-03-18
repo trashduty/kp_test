@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Houston Cougars -23.5</p>
-  <p><strong>Moneyline:</strong> Idaho Vandals (+2642) | Houston Cougars (-10000)</p>
+  <p><strong>Moneyline:</strong> Idaho Vandals (+2800) | Houston Cougars (-10000)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Houston Cougars**: -23.5, Edge For Covering Spread: -7.6%
 
 ### Moneyline
-- **Idaho Vandals Win Probability**: 3.3%, Moneyline Edge: -0.4%
-- **Houston Cougars Win Probability**: 96.7%, Moneyline Edge: -2.3%
+- **Idaho Vandals Win Probability**: 3.2%, Moneyline Edge: -0.3%
+- **Houston Cougars Win Probability**: 96.8%, Moneyline Edge: -2.2%
 
 ### Total
-- **Predicted Total**: 137.0
-- Edge For Covering The Over: -0.5%
-- Edge For Covering The Under: -4.2%
+- **Predicted Total**: 136.0
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.0%
 
 ---
 

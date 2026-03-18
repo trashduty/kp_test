@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Duke Blue Devils -28.5</p>
-  <p><strong>Moneyline:</strong> Siena Saints (+3734) | Duke Blue Devils (-28590)</p>
+  <p><strong>Moneyline:</strong> Siena Saints (+3734) | Duke Blue Devils (-33378)</p>
   <p><strong>Total:</strong> 135.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Siena Saints**: 28.5, Edge For Covering Spread: -1.2%
-- **Duke Blue Devils**: -28.5, Edge For Covering Spread: -3.5%
+- **Siena Saints**: 28.5, Edge For Covering Spread: -1.8%
+- **Duke Blue Devils**: -28.5, Edge For Covering Spread: -3.0%
 
 ### Moneyline
 - **Siena Saints Win Probability**: 1.8%, Moneyline Edge: -0.8%
-- **Duke Blue Devils Win Probability**: 98.2%, Moneyline Edge: -1.4%
+- **Duke Blue Devils Win Probability**: 98.2%, Moneyline Edge: -1.5%
 
 ### Total
 - **Predicted Total**: 136.0

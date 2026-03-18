@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Nevada Wolf Pack -8.5</p>
-  <p><strong>Moneyline:</strong> Murray St Racers (+280) | Nevada Wolf Pack (-350)</p>
+  <p><strong>Moneyline:</strong> Murray St Racers (+300) | Nevada Wolf Pack (-400)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Murray St Racers**: 8.5, Edge For Covering Spread: -3.5%
-- **Nevada Wolf Pack**: -8.5, Edge For Covering Spread: -1.2%
+- **Murray St Racers**: 8.5, Edge For Covering Spread: -4.0%
+- **Nevada Wolf Pack**: -8.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Murray St Racers Win Probability**: 23.1%, Moneyline Edge: -3.2%
-- **Nevada Wolf Pack Win Probability**: 76.9%, Moneyline Edge: -0.9%
+- **Murray St Racers Win Probability**: 22.4%, Moneyline Edge: -2.6%
+- **Nevada Wolf Pack Win Probability**: 77.6%, Moneyline Edge: -2.4%
 
 ### Total
 - **Predicted Total**: 162.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.5%
+- Edge For Covering The Over: -3.6%
+- Edge For Covering The Under: -1.2%
 
 ---
 
