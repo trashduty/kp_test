@@ -11,7 +11,7 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Illinois St Redbirds -6.5</p>
+  <p><strong>Spread:</strong> Illinois St Redbirds -5.5</p>
   <p><strong>Moneyline:</strong> Kent State Golden Flashes (+205) | Illinois St Redbirds (-255)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
@@ -24,8 +24,8 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kent State Golden Flashes**: 6.5, Edge For Covering Spread: -5.7%
-- **Illinois St Redbirds**: -6.5, Edge For Covering Spread: **1.1%**
+- **Kent State Golden Flashes**: 5.5, Edge For Covering Spread: -5.6%
+- **Illinois St Redbirds**: -5.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
 - **Kent State Golden Flashes Win Probability**: 27.7%, Moneyline Edge: -5.1%
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Illinois St Redbirds (20-12) hosts Kent State Golden Flashes (24-9) at CEFCU Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Illinois St Redbirds favored by 6.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Illinois St Redbirds (20-12) hosts Kent State Golden Flashes (24-9) at CEFCU Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Illinois St Redbirds favored by 5.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 6.5-point spread indicates Illinois St Redbirds is viewed as the better team, but this isn't an overwhelming edge. Kent State Golden Flashes has a legitimate path to covering or winning outright. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 5.5-point spread indicates Illinois St Redbirds is viewed as the better team, but this isn't an overwhelming edge. Kent State Golden Flashes has a legitimate path to covering or winning outright. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Kent State Golden Flashes** bring an offensive efficiency of 112.91 (ranked #90 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.3% three-point shooting is serviceable but won't scare anyone. 

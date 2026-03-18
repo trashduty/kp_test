@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Ohio State Buckeyes -2.5</p>
-  <p><strong>Moneyline:</strong> TCU Horned Frogs (+122) | Ohio State Buckeyes (-145)</p>
+  <p><strong>Moneyline:</strong> TCU Horned Frogs (+120) | Ohio State Buckeyes (-143)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **TCU Horned Frogs**: 2.5, Edge For Covering Spread: -2.8%
-- **Ohio State Buckeyes**: -2.5, Edge For Covering Spread: -1.9%
+- **TCU Horned Frogs**: 2.5, Edge For Covering Spread: -4.0%
+- **Ohio State Buckeyes**: -2.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **TCU Horned Frogs Win Probability**: 39.3%, Moneyline Edge: -5.6%
-- **Ohio State Buckeyes Win Probability**: 60.7%, Moneyline Edge: **1.5%**
+- **TCU Horned Frogs Win Probability**: 39.5%, Moneyline Edge: -5.9%
+- **Ohio State Buckeyes Win Probability**: 60.5%, Moneyline Edge: **1.6%**
 
 ### Total
 - **Predicted Total**: 146.5

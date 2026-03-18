@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Georgia Bulldogs -1.5</p>
-  <p><strong>Moneyline:</strong> Saint Louis Billikens (+117) | Georgia Bulldogs (-140)</p>
+  <p><strong>Spread:</strong> Georgia Bulldogs -2.5</p>
+  <p><strong>Moneyline:</strong> Saint Louis Billikens (+121) | Georgia Bulldogs (-145)</p>
   <p><strong>Total:</strong> 171.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Saint Louis Billikens**: 1.5, Edge For Covering Spread: -0.7%
-- **Georgia Bulldogs**: -1.5, Edge For Covering Spread: -4.1%
+- **Saint Louis Billikens**: 2.5, Edge For Covering Spread: -1.9%
+- **Georgia Bulldogs**: -2.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Saint Louis Billikens Win Probability**: 45.0%, Moneyline Edge: -0.9%
-- **Georgia Bulldogs Win Probability**: 55.0%, Moneyline Edge: -3.4%
+- **Saint Louis Billikens Win Probability**: 44.1%, Moneyline Edge: -1.1%
+- **Georgia Bulldogs Win Probability**: 55.9%, Moneyline Edge: -3.4%
 
 ### Total
 - **Predicted Total**: 169.5
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.2%
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Saint Louis Billikens (28-5) travels to face Georgia Bulldogs (22-10) at Stegeman Coliseum, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Georgia Bulldogs favored by 1.5 points, with the total sitting at 171.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Saint Louis Billikens (28-5) travels to face Georgia Bulldogs (22-10) at Stegeman Coliseum, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Georgia Bulldogs favored by 2.5 points, with the total sitting at 171.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Georgia Bulldogs's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 171.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Georgia Bulldogs's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 171.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Saint Louis Billikens** bring an offensive efficiency of 120.31 (ranked #15 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 40.5% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

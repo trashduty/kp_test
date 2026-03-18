@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wisconsin Badgers -10.0</p>
-  <p><strong>Moneyline:</strong> High Point Panthers (+380) | Wisconsin Badgers (-515)</p>
+  <p><strong>Moneyline:</strong> High Point Panthers (+380) | Wisconsin Badgers (-524)</p>
   <p><strong>Total:</strong> 164.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Wisconsin Badgers**: -10.0, Edge For Covering Spread: -1.0%
 
 ### Moneyline
-- **High Point Panthers Win Probability**: 18.5%, Moneyline Edge: -2.4%
-- **Wisconsin Badgers Win Probability**: 81.5%, Moneyline Edge: -2.2%
+- **High Point Panthers Win Probability**: 18.4%, Moneyline Edge: -2.4%
+- **Wisconsin Badgers Win Probability**: 81.6%, Moneyline Edge: -2.4%
 
 ### Total
-- **Predicted Total**: 164.5
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.2%
+- **Predicted Total**: 164.0
+- Edge For Covering The Over: -1.0%
+- Edge For Covering The Under: -3.7%
 
 ---
 

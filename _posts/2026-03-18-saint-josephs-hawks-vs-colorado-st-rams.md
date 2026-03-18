@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Colorado St Rams -5.5</p>
-  <p><strong>Moneyline:</strong> Saint Joseph's Hawks (+205) | Colorado St Rams (-250)</p>
+  <p><strong>Spread:</strong> Colorado St Rams -6.5</p>
+  <p><strong>Moneyline:</strong> Saint Joseph's Hawks (+230) | Colorado St Rams (-285)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Saint Joseph's Hawks**: 5.5, Edge For Covering Spread: **0.1%**
-- **Colorado St Rams**: -5.5, Edge For Covering Spread: -4.8%
+- **Saint Joseph's Hawks**: 6.5, Edge For Covering Spread: -0.9%
+- **Colorado St Rams**: -6.5, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **Saint Joseph's Hawks Win Probability**: 31.7%, Moneyline Edge: -1.1%
-- **Colorado St Rams Win Probability**: 68.3%, Moneyline Edge: -3.2%
+- **Saint Joseph's Hawks Win Probability**: 30.5%, Moneyline Edge: **0.2%**
+- **Colorado St Rams Win Probability**: 69.5%, Moneyline Edge: -4.5%
 
 ### Total
-- **Predicted Total**: 143.5
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- **Predicted Total**: 143.0
+- Edge For Covering The Over: -5.8%
+- Edge For Covering The Under: **1.1%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Colorado St Rams (21-12) hosts Saint Joseph's Hawks (22-11) at Moby Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Colorado St Rams favored by 5.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Colorado St Rams (21-12) hosts Saint Joseph's Hawks (22-11) at Moby Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Colorado St Rams favored by 6.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Colorado St Rams is viewed as the better team, but this isn't an overwhelming edge. Saint Joseph's Hawks has a legitimate path to covering or winning outright. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 6.5-point spread indicates Colorado St Rams is viewed as the better team, but this isn't an overwhelming edge. Saint Joseph's Hawks has a legitimate path to covering or winning outright. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Saint Joseph's Hawks** bring an offensive efficiency of 105.41 (ranked #242 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.8% from three, they can't rely on the arc. Expect a paint-focused attack. 

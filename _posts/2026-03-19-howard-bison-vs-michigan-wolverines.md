@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan Wolverines -31.5</p>
-  <p><strong>Moneyline:</strong> Howard Bison (+4634) | Michigan Wolverines (-50000)</p>
+  <p><strong>Moneyline:</strong> Howard Bison (+5000) | Michigan Wolverines (-50000)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Howard Bison**: 31.5, Edge For Covering Spread: -2.4%
-- **Michigan Wolverines**: -31.5, Edge For Covering Spread: -2.4%
+- **Howard Bison**: 31.5, Edge For Covering Spread: -0.2%
+- **Michigan Wolverines**: -31.5, Edge For Covering Spread: -4.5%
 
 ### Moneyline
-- **Howard Bison Win Probability**: 1.2%, Moneyline Edge: -0.9%
+- **Howard Bison Win Probability**: 1.2%, Moneyline Edge: -0.8%
 - **Michigan Wolverines Win Probability**: 98.8%, Moneyline Edge: -1.0%
 
 ### Total
 - **Predicted Total**: 152.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -2.6%
 
 ---
 

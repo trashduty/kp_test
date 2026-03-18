@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> New Mexico Lobos -11.5</p>
-  <p><strong>Moneyline:</strong> Sam Houston St Bearkats (+550) | New Mexico Lobos (-800)</p>
+  <p><strong>Spread:</strong> New Mexico Lobos -12.5</p>
+  <p><strong>Moneyline:</strong> Sam Houston St Bearkats (+600) | New Mexico Lobos (-900)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Sam Houston St Bearkats**: 11.5, Edge For Covering Spread: **0.4%**
-- **New Mexico Lobos**: -11.5, Edge For Covering Spread: -5.1%
+- **Sam Houston St Bearkats**: 12.5, Edge For Covering Spread: **0.8%**
+- **New Mexico Lobos**: -12.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **Sam Houston St Bearkats Win Probability**: 17.4%, Moneyline Edge: **2.0%**
-- **New Mexico Lobos Win Probability**: 82.6%, Moneyline Edge: -6.3%
+- **Sam Houston St Bearkats Win Probability**: 16.8%, Moneyline Edge: **2.6%**
+- **New Mexico Lobos Win Probability**: 83.2%, Moneyline Edge: -6.8%
 
 ### Total
-- **Predicted Total**: 162.0
-- Edge For Covering The Over: -6.1%
-- Edge For Covering The Under: **1.4%**
+- **Predicted Total**: 161.5
+- Edge For Covering The Over: -5.4%
+- Edge For Covering The Under: **0.6%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-New Mexico Lobos (23-10) hosts Sam Houston St Bearkats (22-11) at The Pit in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into New Mexico Lobos favored by 11.5 points, with the total sitting at 163.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+New Mexico Lobos (23-10) hosts Sam Houston St Bearkats (22-11) at The Pit in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into New Mexico Lobos favored by 12.5 points, with the total sitting at 163.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 11.5 points tells us New Mexico Lobos has clear advantages, but games aren't played on paper. Sam Houston St Bearkats needs to punch above their weight class to keep this close. The total of 163.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 12.5-point spread screams mismatch. The books are asking Sam Houston St Bearkats to hang within two possessions, which based on the profiles, requires New Mexico Lobos to play below their standard. The total of 163.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Sam Houston St Bearkats** bring an offensive efficiency of 113.71 (ranked #77 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 37.3% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Dayton Flyers -1.5</p>
-  <p><strong>Moneyline:</strong> Dayton Flyers (-122) | Bradley Braves (+102)</p>
+  <p><strong>Moneyline:</strong> Dayton Flyers (-130) | Bradley Braves (+105)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Dayton Flyers**: -1.5, Edge For Covering Spread: -2.9%
-- **Bradley Braves**: 1.5, Edge For Covering Spread: -1.8%
+- **Dayton Flyers**: -1.5, Edge For Covering Spread: -5.8%
+- **Bradley Braves**: 1.5, Edge For Covering Spread: **0.7%**
 
 ### Moneyline
-- **Dayton Flyers Win Probability**: 52.3%, Moneyline Edge: -2.7%
-- **Bradley Braves Win Probability**: 47.7%, Moneyline Edge: -1.8%
+- **Dayton Flyers Win Probability**: 52.8%, Moneyline Edge: -3.7%
+- **Bradley Braves Win Probability**: 47.2%, Moneyline Edge: -1.6%
 
 ### Total
-- **Predicted Total**: 143.0
-- Edge For Covering The Over: -2.1%
-- Edge For Covering The Under: -2.6%
+- **Predicted Total**: 141.5
+- Edge For Covering The Over: -1.2%
+- Edge For Covering The Under: -3.5%
 
 ---
 

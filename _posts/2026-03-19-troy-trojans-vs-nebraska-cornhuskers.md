@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Nebraska Cornhuskers -12.5</p>
-  <p><strong>Moneyline:</strong> Troy Trojans (+665) | Nebraska Cornhuskers (-1100)</p>
+  <p><strong>Moneyline:</strong> Troy Trojans (+674) | Nebraska Cornhuskers (-1148)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Troy Trojans**: 12.5, Edge For Covering Spread: -4.7%
-- **Nebraska Cornhuskers**: -12.5, Edge For Covering Spread: -0.0%
+- **Troy Trojans**: 12.5, Edge For Covering Spread: -4.0%
+- **Nebraska Cornhuskers**: -12.5, Edge For Covering Spread: -0.9%
 
 ### Moneyline
 - **Troy Trojans Win Probability**: 10.2%, Moneyline Edge: -2.8%
-- **Nebraska Cornhuskers Win Probability**: 89.8%, Moneyline Edge: -1.9%
+- **Nebraska Cornhuskers Win Probability**: 89.8%, Moneyline Edge: -2.1%
 
 ### Total
 - **Predicted Total**: 137.5
