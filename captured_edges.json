@@ -5102,5 +5102,29 @@
   "Bradley Braves vs. Dayton Flyers|Bradley Braves|moneyline": {
     "captured_at": "2026-03-16T21:17:04.737122+00:00",
     "edge_type": "moneyline"
+  },
+  "Auburn Tigers vs. Seattle Redhawks|under": {
+    "captured_at": "2026-03-20T07:23:58.060242+00:00",
+    "edge_type": "under"
+  },
+  "Auburn Tigers vs. Seattle Redhawks|Seattle Redhawks|spread": {
+    "captured_at": "2026-03-20T07:23:58.060357+00:00",
+    "edge_type": "spread"
+  },
+  "Tulsa Golden Hurricane vs. UNLV Rebels|Tulsa Golden Hurricane|spread": {
+    "captured_at": "2026-03-20T07:23:58.060556+00:00",
+    "edge_type": "spread"
+  },
+  "Tulsa Golden Hurricane vs. UNLV Rebels|Tulsa Golden Hurricane|moneyline": {
+    "captured_at": "2026-03-20T07:23:58.060592+00:00",
+    "edge_type": "moneyline"
+  },
+  "Oklahoma St Cowboys vs. Wichita St Shockers|under": {
+    "captured_at": "2026-03-20T07:23:58.060883+00:00",
+    "edge_type": "under"
+  },
+  "California Golden Bears vs. Saint Joseph's Hawks|under": {
+    "captured_at": "2026-03-20T07:23:58.061082+00:00",
+    "edge_type": "under"
   }
 }
