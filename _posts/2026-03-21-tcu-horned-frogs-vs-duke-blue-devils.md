@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Duke Blue Devils -10.5</p>
-  <p><strong>Moneyline:</strong> TCU Horned Frogs (+444) | Duke Blue Devils (-624)</p>
+  <p><strong>Spread:</strong> Duke Blue Devils -11.5</p>
+  <p><strong>Moneyline:</strong> TCU Horned Frogs (+532) | Duke Blue Devils (-774)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **TCU Horned Frogs**: 10.5, Edge For Covering Spread: -4.2%
-- **Duke Blue Devils**: -10.5, Edge For Covering Spread: -0.7%
+- **TCU Horned Frogs**: 11.5, Edge For Covering Spread: -4.1%
+- **Duke Blue Devils**: -11.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **TCU Horned Frogs Win Probability**: 13.9%, Moneyline Edge: -4.5%
-- **Duke Blue Devils Win Probability**: 86.1%, Moneyline Edge: -0.1%
+- **TCU Horned Frogs Win Probability**: 13.1%, Moneyline Edge: -2.7%
+- **Duke Blue Devils Win Probability**: 86.9%, Moneyline Edge: -1.6%
 
 ### Total
-- **Predicted Total**: 139.5
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -2.2%
+- **Predicted Total**: 140.0
+- Edge For Covering The Over: -3.1%
+- Edge For Covering The Under: -3.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Duke Blue Devils (33-2) hosts TCU Horned Frogs (23-11) at Cameron Indoor Stadium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Duke Blue Devils favored by 10.5 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Duke Blue Devils (33-2) hosts TCU Horned Frogs (23-11) at Cameron Indoor Stadium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Duke Blue Devils favored by 11.5 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us Duke Blue Devils has clear advantages, but games aren't played on paper. TCU Horned Frogs needs to punch above their weight class to keep this close. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 11.5 points tells us Duke Blue Devils has clear advantages, but games aren't played on paper. TCU Horned Frogs needs to punch above their weight class to keep this close. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **TCU Horned Frogs** bring an offensive efficiency of 110.77 (ranked #124 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.3% three-point shooting is serviceable but won't scare anyone. 
@@ -61,7 +61,7 @@ Getting to the line matters too. TCU Horned Frogs's free throw rate sits at 38.3
 #### X-Factors & Intangibles
 Playing at home, Duke Blue Devils get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—TCU Horned Frogs is simply the superior team on paper. 
 From a coaching perspective, Jamie Dixon leads TCU Horned Frogs while Jon Scheyer guides Duke Blue Devils. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Both teams feature strong defenses (#42 and #2), so offense may be at a premium. 
+Both teams feature strong defenses (#43 and #2), so offense may be at a premium. 
 ### Game Storylines
 
 On paper, Duke Blue Devils holds the advantage as the higher-ranked team, but TCU Horned Frogs could make this interesting if they play to their potential. 
@@ -80,41 +80,41 @@ TCU Horned Frogs comes in ranked #43 overall by KenPom. Their defense has been a
 - **Head Coach:** Jamie Dixon
 - **KenPom Rank:** #43
 - **Offensive Efficiency:** 110.8 (Rank: #124)
-- **Defensive Efficiency:** 102.0 (Rank: #42)
+- **Defensive Efficiency:** 102.0 (Rank: #43)
 - **Tempo:** 69.5 (Rank: #116)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 51.3% (Rank: #200)
 - **3-Point Shooting:** 33.3% (Rank: #211)
-- **Free Throw Shooting:** 70.7% (Rank: #249)
+- **Free Throw Shooting:** 70.7% (Rank: #250)
 - **3-Point Rate:** 36.9% (Rank: #233)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 51.3% (Rank: #156)
-- **Opponent 3-Point Shooting:** 33.5% (Rank: #157)
-- **Block Percentage:** 12.6% (Rank: #33)
-- **Steal Rate:** 0.1% (Rank: #86)
+- **Opponent 2-Point Shooting:** 51.3% (Rank: #155)
+- **Opponent 3-Point Shooting:** 33.5% (Rank: #156)
+- **Block Percentage:** 12.6% (Rank: #34)
+- **Steal Rate:** 0.1% (Rank: #85)
 
 ### Team Metrics
 
-- **Assist Rate:** 57.4% (Rank: #64)
+- **Assist Rate:** 57.4% (Rank: #63)
 - **Experience:** 1.8 years (Rank: #100)
-- **Bench Minutes:** 27.3% (Rank: #288)
+- **Bench Minutes:** 27.3% (Rank: #287)
 - **Average Height:** 76.4" (Rank: #322)
 
 ---
 
 ## Duke Blue Devils
 
-Duke Blue Devils comes in ranked #1 overall by KenPom. They boast one of the nation's top offenses, ranked #4 in efficiency. Defensively, they've been rock solid, ranking #2 nationally in efficiency. 
+Duke Blue Devils comes in ranked #2 overall by KenPom. They boast one of the nation's top offenses, ranked #4 in efficiency. Defensively, they've been rock solid, ranking #2 nationally in efficiency. 
 
 ### Record & Ranking
 - **Record:** 33-2
 - **Head Coach:** Jon Scheyer
 - **Home Arena:** Cameron Indoor Stadium
-- **KenPom Rank:** #1
+- **KenPom Rank:** #2
 - **Offensive Efficiency:** 122.2 (Rank: #4)
 - **Defensive Efficiency:** 94.6 (Rank: #2)
 - **Tempo:** 66.9 (Rank: #249)
@@ -122,20 +122,20 @@ Duke Blue Devils comes in ranked #1 overall by KenPom. They boast one of the nat
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 60.0% (Rank: #8)
-- **3-Point Shooting:** 34.6% (Rank: #143)
-- **Free Throw Shooting:** 72.8% (Rank: #175)
+- **3-Point Shooting:** 34.6% (Rank: #142)
+- **Free Throw Shooting:** 72.8% (Rank: #176)
 - **3-Point Rate:** 44.4% (Rank: #82)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 46.4% (Rank: #20)
-- **Opponent 3-Point Shooting:** 30.6% (Rank: #22)
-- **Block Percentage:** 10.3% (Rank: #122)
-- **Steal Rate:** 0.1% (Rank: #44)
+- **Opponent 3-Point Shooting:** 30.6% (Rank: #24)
+- **Block Percentage:** 10.3% (Rank: #123)
+- **Steal Rate:** 0.1% (Rank: #43)
 
 ### Team Metrics
 
-- **Assist Rate:** 58.9% (Rank: #46)
+- **Assist Rate:** 58.9% (Rank: #45)
 - **Experience:** 0.9 years (Rank: #310)
 - **Bench Minutes:** 34.5% (Rank: #109)
 - **Average Height:** 79.3" (Rank: #2)
