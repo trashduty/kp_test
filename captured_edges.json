@@ -5126,5 +5126,9 @@
   "California Golden Bears vs. Saint Joseph's Hawks|under": {
     "captured_at": "2026-03-20T07:23:58.061082+00:00",
     "edge_type": "under"
+  },
+  "Alabama Crimson Tide vs. Texas Tech Red Raiders|Alabama Crimson Tide|moneyline": {
+    "captured_at": "2026-03-21T00:34:59.611625+00:00",
+    "edge_type": "moneyline"
   }
 }
