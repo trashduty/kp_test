@@ -88,7 +88,7 @@ GW Revolutionaries comes in ranked #81 overall by KenPom.
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 56.4% (Rank: #39)
-- **3-Point Shooting:** 35.3% (Rank: #104)
+- **3-Point Shooting:** 35.3% (Rank: #103)
 - **Free Throw Shooting:** 72.1% (Rank: #204)
 - **3-Point Rate:** 46.7% (Rank: #35)
 
@@ -103,7 +103,7 @@ GW Revolutionaries comes in ranked #81 overall by KenPom.
 
 - **Assist Rate:** 55.5% (Rank: #101)
 - **Experience:** 2.4 years (Rank: #26)
-- **Bench Minutes:** 38.2% (Rank: #42)
+- **Bench Minutes:** 38.2% (Rank: #41)
 - **Average Height:** 78.1" (Rank: #73)
 
 ---
@@ -118,7 +118,7 @@ New Mexico Lobos comes in ranked #49 overall by KenPom. They're dangerous from b
 - **Home Arena:** The Pit
 - **KenPom Rank:** #49
 - **Offensive Efficiency:** 114.8 (Rank: #64)
-- **Defensive Efficiency:** 102.0 (Rank: #44)
+- **Defensive Efficiency:** 102.0 (Rank: #43)
 - **Tempo:** 70.6 (Rank: #71)
 
 ### Shooting Breakdown
@@ -130,7 +130,7 @@ New Mexico Lobos comes in ranked #49 overall by KenPom. They're dangerous from b
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 53.7% (Rank: #264)
+- **Opponent 2-Point Shooting:** 53.7% (Rank: #263)
 - **Opponent 3-Point Shooting:** 30.3% (Rank: #15)
 - **Block Percentage:** 9.1% (Rank: #183)
 - **Steal Rate:** 0.1% (Rank: #57)

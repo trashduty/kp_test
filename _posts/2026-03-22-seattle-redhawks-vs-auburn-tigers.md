@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Auburn Tigers -13.5</p>
-  <p><strong>Moneyline:</strong> Seattle Redhawks (+675) | Auburn Tigers (-1100)</p>
+  <p><strong>Moneyline:</strong> Seattle Redhawks (+650) | Auburn Tigers (-1000)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Auburn Tigers**: -13.5, Edge For Covering Spread: -6.7%
 
 ### Moneyline
-- **Seattle Redhawks Win Probability**: 14.2%, Moneyline Edge: **1.3%**
-- **Auburn Tigers Win Probability**: 85.8%, Moneyline Edge: -5.8%
+- **Seattle Redhawks Win Probability**: 13.9%, Moneyline Edge: **0.6%**
+- **Auburn Tigers Win Probability**: 86.1%, Moneyline Edge: -4.8%
 
 ### Total
-- **Predicted Total**: 145.5
-- Edge For Covering The Over: -5.0%
-- Edge For Covering The Under: **0.3%**
+- **Predicted Total**: 145.0
+- Edge For Covering The Over: -5.7%
+- Edge For Covering The Under: **1.0%**
 
 ---
 
@@ -93,28 +93,28 @@ Seattle Redhawks comes in ranked #115 overall by KenPom. Their defense has been 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 48.2% (Rank: #44)
-- **Opponent 3-Point Shooting:** 32.0% (Rank: #67)
+- **Opponent 3-Point Shooting:** 32.0% (Rank: #66)
 - **Block Percentage:** 14.0% (Rank: #14)
-- **Steal Rate:** 0.1% (Rank: #50)
+- **Steal Rate:** 0.1% (Rank: #49)
 
 ### Team Metrics
 
 - **Assist Rate:** 53.5% (Rank: #150)
 - **Experience:** 1.5 years (Rank: #174)
-- **Bench Minutes:** 30.3% (Rank: #213)
+- **Bench Minutes:** 30.3% (Rank: #212)
 - **Average Height:** 77.3" (Rank: #187)
 
 ---
 
 ## Auburn Tigers
 
-Auburn Tigers comes in ranked #39 overall by KenPom. They boast one of the nation's top offenses, ranked #29 in efficiency. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
+Auburn Tigers comes in ranked #38 overall by KenPom. They boast one of the nation's top offenses, ranked #29 in efficiency. Defense has been a struggle, and they'll need to tighten things up to have a chance in this one. 
 
 ### Record & Ranking
 - **Record:** 18-16
 - **Head Coach:** Steven Pearl
 - **Home Arena:** Neville Arena
-- **KenPom Rank:** #39
+- **KenPom Rank:** #38
 - **Offensive Efficiency:** 118.6 (Rank: #29)
 - **Defensive Efficiency:** 113.7 (Rank: #306)
 - **Tempo:** 69.1 (Rank: #145)
@@ -123,12 +123,12 @@ Auburn Tigers comes in ranked #39 overall by KenPom. They boast one of the natio
 
 - **2-Point Shooting:** 53.3% (Rank: #117)
 - **3-Point Shooting:** 33.9% (Rank: #180)
-- **Free Throw Shooting:** 74.5% (Rank: #104)
+- **Free Throw Shooting:** 74.5% (Rank: #103)
 - **3-Point Rate:** 40.2% (Rank: #166)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 52.7% (Rank: #226)
+- **Opponent 2-Point Shooting:** 52.7% (Rank: #225)
 - **Opponent 3-Point Shooting:** 36.5% (Rank: #329)
 - **Block Percentage:** 11.7% (Rank: #58)
 - **Steal Rate:** 0.1% (Rank: #99)

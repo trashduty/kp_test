@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Tulsa Golden Hurricane**: -4.5, Edge For Covering Spread: **2.4%**
 
 ### Moneyline
-- **UNLV Rebels Win Probability**: 30.5%, Moneyline Edge: -8.2%
-- **Tulsa Golden Hurricane Win Probability**: 69.5%, Moneyline Edge: **3.7%**
+- **UNLV Rebels Win Probability**: 31.0%, Moneyline Edge: -7.7%
+- **Tulsa Golden Hurricane Win Probability**: 69.0%, Moneyline Edge: **3.2%**
 
 ### Total
 - **Predicted Total**: 162.0
@@ -48,7 +48,7 @@ Tulsa Golden Hurricane (27-7) hosts UNLV Rebels (18-16) at Reynolds Center in a 
 The 4.5-point spread indicates Tulsa Golden Hurricane is viewed as the better team, but this isn't an overwhelming edge. UNLV Rebels has a legitimate path to covering or winning outright. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
-**UNLV Rebels** bring an offensive efficiency of 110.74 (ranked #125 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.6% three-point shooting is serviceable but won't scare anyone. 
+**UNLV Rebels** bring an offensive efficiency of 110.74 (ranked #124 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.6% three-point shooting is serviceable but won't scare anyone. 
 Meanwhile, **Tulsa Golden Hurricane** counter with 121.38 offensive efficiency (#8). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 39.0%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
@@ -61,14 +61,14 @@ Getting to the line matters too. UNLV Rebels's free throw rate sits at 41.2, ind
 #### X-Factors & Intangibles
 Playing at home, Tulsa Golden Hurricane get the crowd advantage and familiar surroundings. But despite the friendly confines, they're significant underdogs for a reason—UNLV Rebels is simply the superior team on paper. 
 From a coaching perspective, Josh Pastner leads UNLV Rebels while Eric Konkol guides Tulsa Golden Hurricane. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Tulsa Golden Hurricane's offense (#8) could exploit UNLV Rebels's defensive vulnerabilities (#240). 
+Tulsa Golden Hurricane's offense (#8) could exploit UNLV Rebels's defensive vulnerabilities (#239). 
 ### Game Storylines
 
 On paper, Tulsa Golden Hurricane holds the advantage as the higher-ranked team, but UNLV Rebels could make this interesting if they play to their potential. 
 
 **Key Matchup: Tulsa Golden Hurricane's Offense vs UNLV Rebels's Defense**
 
-Tulsa Golden Hurricane features a elite offense (ranked #8) that should find success against UNLV Rebels's defensive unit (ranked #240). 
+Tulsa Golden Hurricane features a elite offense (ranked #8) that should find success against UNLV Rebels's defensive unit (ranked #239). 
 
 
 ## UNLV Rebels
@@ -79,13 +79,13 @@ UNLV Rebels comes in ranked #104 overall by KenPom.
 - **Record:** 18-16
 - **Head Coach:** Josh Pastner
 - **KenPom Rank:** #104
-- **Offensive Efficiency:** 110.7 (Rank: #125)
-- **Defensive Efficiency:** 110.8 (Rank: #240)
+- **Offensive Efficiency:** 110.7 (Rank: #124)
+- **Defensive Efficiency:** 110.8 (Rank: #239)
 - **Tempo:** 70.7 (Rank: #65)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 53.7% (Rank: #93)
+- **2-Point Shooting:** 53.7% (Rank: #92)
 - **3-Point Shooting:** 35.6% (Rank: #83)
 - **Free Throw Shooting:** 68.0% (Rank: #326)
 - **3-Point Rate:** 36.1% (Rank: #247)
@@ -93,13 +93,13 @@ UNLV Rebels comes in ranked #104 overall by KenPom.
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 52.0% (Rank: #193)
-- **Opponent 3-Point Shooting:** 35.2% (Rank: #255)
+- **Opponent 3-Point Shooting:** 35.2% (Rank: #256)
 - **Block Percentage:** 12.7% (Rank: #33)
 - **Steal Rate:** 0.1% (Rank: #127)
 
 ### Team Metrics
 
-- **Assist Rate:** 51.6% (Rank: #201)
+- **Assist Rate:** 51.6% (Rank: #200)
 - **Experience:** 1.4 years (Rank: #184)
 - **Bench Minutes:** 31.3% (Rank: #191)
 - **Average Height:** 77.3" (Rank: #186)
@@ -108,21 +108,21 @@ UNLV Rebels comes in ranked #104 overall by KenPom.
 
 ## Tulsa Golden Hurricane
 
-Tulsa Golden Hurricane comes in ranked #63 overall by KenPom. They're dangerous from beyond the arc, shooting 39.0% from three (ranked #6 nationally), so expect them to let it fly from deep. 
+Tulsa Golden Hurricane comes in ranked #64 overall by KenPom. They're dangerous from beyond the arc, shooting 39.0% from three (ranked #5 nationally), so expect them to let it fly from deep. 
 
 ### Record & Ranking
 - **Record:** 27-7
 - **Head Coach:** Eric Konkol
 - **Home Arena:** Reynolds Center
-- **KenPom Rank:** #63
+- **KenPom Rank:** #64
 - **Offensive Efficiency:** 121.4 (Rank: #8)
 - **Defensive Efficiency:** 106.5 (Rank: #118)
 - **Tempo:** 68.6 (Rank: #166)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 53.9% (Rank: #89)
-- **3-Point Shooting:** 39.0% (Rank: #6)
+- **2-Point Shooting:** 53.9% (Rank: #88)
+- **3-Point Shooting:** 39.0% (Rank: #5)
 - **Free Throw Shooting:** 78.3% (Rank: #14)
 - **3-Point Rate:** 46.6% (Rank: #36)
 

@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **California Golden Bears Win Probability**: 69.7%, Moneyline Edge: -0.4%
 
 ### Total
-- **Predicted Total**: 147.0
-- Edge For Covering The Over: -5.8%
-- Edge For Covering The Under: **1.1%**
+- **Predicted Total**: 147.5
+- Edge For Covering The Over: -5.5%
+- Edge For Covering The Under: **0.7%**
 
 ---
 
@@ -75,14 +75,14 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Saint Joseph's Hawks
 
-Saint Joseph's Hawks comes in ranked #110 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
+Saint Joseph's Hawks comes in ranked #109 overall by KenPom. The three-point shot hasn't been falling this season, so look for them to attack the paint and work inside-out. 
 
 ### Record & Ranking
 - **Record:** 23-11
 - **Head Coach:** Steve Donahue
-- **KenPom Rank:** #110
+- **KenPom Rank:** #109
 - **Offensive Efficiency:** 105.3 (Rank: #243)
-- **Defensive Efficiency:** 102.5 (Rank: #54)
+- **Defensive Efficiency:** 102.5 (Rank: #52)
 - **Tempo:** 68.0 (Rank: #199)
 
 ### Shooting Breakdown
@@ -90,13 +90,13 @@ Saint Joseph's Hawks comes in ranked #110 overall by KenPom. The three-point sho
 - **2-Point Shooting:** 51.7% (Rank: #182)
 - **3-Point Shooting:** 30.8% (Rank: #325)
 - **Free Throw Shooting:** 74.3% (Rank: #114)
-- **3-Point Rate:** 45.1% (Rank: #64)
+- **3-Point Rate:** 45.1% (Rank: #65)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 47.5% (Rank: #38)
-- **Opponent 3-Point Shooting:** 31.5% (Rank: #46)
-- **Block Percentage:** 12.6% (Rank: #36)
+- **Opponent 3-Point Shooting:** 31.5% (Rank: #47)
+- **Block Percentage:** 12.6% (Rank: #35)
 - **Steal Rate:** 0.1% (Rank: #295)
 
 ### Team Metrics
@@ -132,7 +132,7 @@ California Golden Bears comes in ranked #73 overall by KenPom. They're dangerous
 
 - **Opponent 2-Point Shooting:** 52.2% (Rank: #208)
 - **Opponent 3-Point Shooting:** 30.8% (Rank: #31)
-- **Block Percentage:** 8.7% (Rank: #215)
+- **Block Percentage:** 8.7% (Rank: #214)
 - **Steal Rate:** 0.1% (Rank: #267)
 
 ### Team Metrics

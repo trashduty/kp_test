@@ -33,8 +33,8 @@ All that being said, here's how our model prices this game.
 
 ### Total
 - **Predicted Total**: 161.5
-- Edge For Covering The Over: -7.0%
-- Edge For Covering The Under: **2.3%**
+- Edge For Covering The Over: -7.5%
+- Edge For Covering The Under: **2.7%**
 
 ---
 
@@ -75,27 +75,27 @@ Wichita St Shockers bring a middle-of-the-pack offense (ranked #107) that could 
 
 ## Wichita St Shockers
 
-Wichita St Shockers comes in ranked #83 overall by KenPom. 
+Wichita St Shockers comes in ranked #84 overall by KenPom. Their defense has been a calling card this season, making life difficult for opposing offenses. 
 
 ### Record & Ranking
 - **Record:** 23-11
 - **Head Coach:** Paul Mills
-- **KenPom Rank:** #83
+- **KenPom Rank:** #84
 - **Offensive Efficiency:** 111.6 (Rank: #107)
-- **Defensive Efficiency:** 102.2 (Rank: #50)
+- **Defensive Efficiency:** 102.2 (Rank: #47)
 - **Tempo:** 67.5 (Rank: #224)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 49.0% (Rank: #282)
-- **3-Point Shooting:** 33.4% (Rank: #203)
+- **2-Point Shooting:** 49.0% (Rank: #283)
+- **3-Point Shooting:** 33.4% (Rank: #202)
 - **Free Throw Shooting:** 68.4% (Rank: #317)
 - **3-Point Rate:** 33.9% (Rank: #299)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 47.5% (Rank: #39)
-- **Opponent 3-Point Shooting:** 31.1% (Rank: #38)
+- **Opponent 3-Point Shooting:** 31.1% (Rank: #39)
 - **Block Percentage:** 9.8% (Rank: #150)
 - **Steal Rate:** 0.1% (Rank: #236)
 
@@ -110,13 +110,13 @@ Wichita St Shockers comes in ranked #83 overall by KenPom.
 
 ## Oklahoma St Cowboys
 
-Oklahoma St Cowboys comes in ranked #67 overall by KenPom. 
+Oklahoma St Cowboys comes in ranked #68 overall by KenPom. 
 
 ### Record & Ranking
 - **Record:** 20-14
 - **Head Coach:** Steve Lutz
 - **Home Arena:** Gallagher Iba Arena
-- **KenPom Rank:** #67
+- **KenPom Rank:** #68
 - **Offensive Efficiency:** 112.4 (Rank: #97)
 - **Defensive Efficiency:** 111.1 (Rank: #248)
 - **Tempo:** 74.0 (Rank: #6)
@@ -126,18 +126,18 @@ Oklahoma St Cowboys comes in ranked #67 overall by KenPom.
 - **2-Point Shooting:** 52.8% (Rank: #136)
 - **3-Point Shooting:** 34.0% (Rank: #170)
 - **Free Throw Shooting:** 74.9% (Rank: #87)
-- **3-Point Rate:** 35.6% (Rank: #258)
+- **3-Point Rate:** 35.6% (Rank: #257)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 52.6% (Rank: #223)
-- **Opponent 3-Point Shooting:** 35.5% (Rank: #279)
+- **Opponent 3-Point Shooting:** 35.5% (Rank: #280)
 - **Block Percentage:** 7.1% (Rank: #308)
-- **Steal Rate:** 0.1% (Rank: #170)
+- **Steal Rate:** 0.1% (Rank: #169)
 
 ### Team Metrics
 
-- **Assist Rate:** 50.9% (Rank: #221)
+- **Assist Rate:** 50.9% (Rank: #222)
 - **Experience:** 1.7 years (Rank: #110)
 - **Bench Minutes:** 36.8% (Rank: #55)
 - **Average Height:** 77.5" (Rank: #165)

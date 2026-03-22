@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wake Forest Demon Deacons -7.5</p>
-  <p><strong>Moneyline:</strong> Illinois St Redbirds (+260) | Wake Forest Demon Deacons (-325)</p>
+  <p><strong>Moneyline:</strong> Illinois St Redbirds (+245) | Wake Forest Demon Deacons (-310)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Illinois St Redbirds**: 7.5, Edge For Covering Spread: -1.9%
-- **Wake Forest Demon Deacons**: -7.5, Edge For Covering Spread: -2.8%
+- **Illinois St Redbirds**: 7.5, Edge For Covering Spread: -2.4%
+- **Wake Forest Demon Deacons**: -7.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Illinois St Redbirds Win Probability**: 26.3%, Moneyline Edge: -1.5%
-- **Wake Forest Demon Deacons Win Probability**: 73.7%, Moneyline Edge: -2.8%
+- **Illinois St Redbirds Win Probability**: 26.9%, Moneyline Edge: -2.1%
+- **Wake Forest Demon Deacons Win Probability**: 73.1%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 149.0
@@ -48,7 +48,7 @@ Wake Forest Demon Deacons (18-16) hosts Illinois St Redbirds (21-12) at Joel Col
 A spread around 7.5 points tells us Wake Forest Demon Deacons has clear advantages, but games aren't played on paper. Illinois St Redbirds needs to punch above their weight class to keep this close. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
-**Illinois St Redbirds** bring an offensive efficiency of 110.05 (ranked #135 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.9% three-point shooting is serviceable but won't scare anyone. 
+**Illinois St Redbirds** bring an offensive efficiency of 110.05 (ranked #134 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.9% three-point shooting is serviceable but won't scare anyone. 
 Meanwhile, **Wake Forest Demon Deacons** counter with 112.59 offensive efficiency (#94). They're competent on offense without being spectacular. At 34.2% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
@@ -68,7 +68,7 @@ On paper, Wake Forest Demon Deacons holds the advantage as the higher-ranked tea
 
 **Key Matchup: Illinois St Redbirds's Offense vs Wake Forest Demon Deacons's Defense**
 
-Illinois St Redbirds bring a middle-of-the-pack offense (ranked #135) that could exploit Wake Forest Demon Deacons's defensive vulnerabilities (ranked #216). 
+Illinois St Redbirds bring a middle-of-the-pack offense (ranked #134) that could exploit Wake Forest Demon Deacons's defensive vulnerabilities (ranked #216). 
 
 
 ## Illinois St Redbirds
@@ -79,8 +79,8 @@ Illinois St Redbirds comes in ranked #103 overall by KenPom. Their defense has b
 - **Record:** 21-12
 - **Head Coach:** Ryan Pedon
 - **KenPom Rank:** #103
-- **Offensive Efficiency:** 110.0 (Rank: #135)
-- **Defensive Efficiency:** 101.6 (Rank: #39)
+- **Offensive Efficiency:** 110.0 (Rank: #134)
+- **Defensive Efficiency:** 101.6 (Rank: #40)
 - **Tempo:** 67.7 (Rank: #215)
 
 ### Shooting Breakdown
@@ -92,7 +92,7 @@ Illinois St Redbirds comes in ranked #103 overall by KenPom. Their defense has b
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 49.5% (Rank: #81)
+- **Opponent 2-Point Shooting:** 49.5% (Rank: #80)
 - **Opponent 3-Point Shooting:** 33.1% (Rank: #126)
 - **Block Percentage:** 6.1% (Rank: #341)
 - **Steal Rate:** 0.1% (Rank: #262)
@@ -124,19 +124,19 @@ Wake Forest Demon Deacons comes in ranked #75 overall by KenPom.
 - **2-Point Shooting:** 53.8% (Rank: #91)
 - **3-Point Shooting:** 34.2% (Rank: #166)
 - **Free Throw Shooting:** 77.9% (Rank: #20)
-- **3-Point Rate:** 44.0% (Rank: #90)
+- **3-Point Rate:** 44.0% (Rank: #91)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 53.9% (Rank: #275)
-- **Opponent 3-Point Shooting:** 33.0% (Rank: #122)
-- **Block Percentage:** 11.1% (Rank: #82)
-- **Steal Rate:** 0.1% (Rank: #70)
+- **Opponent 2-Point Shooting:** 53.9% (Rank: #274)
+- **Opponent 3-Point Shooting:** 33.0% (Rank: #121)
+- **Block Percentage:** 11.1% (Rank: #81)
+- **Steal Rate:** 0.1% (Rank: #69)
 
 ### Team Metrics
 
 - **Assist Rate:** 53.5% (Rank: #151)
 - **Experience:** 2.1 years (Rank: #48)
-- **Bench Minutes:** 34.4% (Rank: #111)
+- **Bench Minutes:** 34.4% (Rank: #110)
 - **Average Height:** 78.0" (Rank: #81)
 
