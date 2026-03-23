@@ -5174,5 +5174,9 @@
   "Nebraska Cornhuskers vs. Iowa Hawkeyes|Nebraska Cornhuskers|moneyline": {
     "captured_at": "2026-03-23T09:28:08.431371+00:00",
     "edge_type": "moneyline"
+  },
+  "New Mexico Lobos vs. Saint Joseph's Hawks|Saint Joseph's Hawks|spread": {
+    "captured_at": "2026-03-23T23:12:46.773737+00:00",
+    "edge_type": "spread"
   }
 }
