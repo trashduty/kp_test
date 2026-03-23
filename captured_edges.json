@@ -5146,5 +5146,9 @@
   "Purdue Boilermakers vs. Miami Hurricanes|over": {
     "captured_at": "2026-03-21T11:08:29.410993+00:00",
     "edge_type": "over"
+  },
+  "Duke Blue Devils vs. St. John's Red Storm|Duke Blue Devils|moneyline": {
+    "captured_at": "2026-03-23T03:10:15.173129+00:00",
+    "edge_type": "moneyline"
   }
 }
