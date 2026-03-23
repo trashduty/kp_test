@@ -5154,5 +5154,21 @@
   "Iowa State Cyclones vs. Tennessee Volunteers|Iowa State Cyclones|moneyline": {
     "captured_at": "2026-03-23T05:36:10.506175+00:00",
     "edge_type": "moneyline"
+  },
+  "Arizona Wildcats vs. Arkansas Razorbacks|Arizona Wildcats|spread": {
+    "captured_at": "2026-03-23T08:25:16.200566+00:00",
+    "edge_type": "spread"
+  },
+  "Arizona Wildcats vs. Arkansas Razorbacks|Arizona Wildcats|moneyline": {
+    "captured_at": "2026-03-23T08:25:16.200607+00:00",
+    "edge_type": "moneyline"
+  },
+  "Michigan Wolverines vs. Alabama Crimson Tide|Michigan Wolverines|spread": {
+    "captured_at": "2026-03-23T08:25:16.201099+00:00",
+    "edge_type": "spread"
+  },
+  "Michigan Wolverines vs. Alabama Crimson Tide|Michigan Wolverines|moneyline": {
+    "captured_at": "2026-03-23T08:25:16.201137+00:00",
+    "edge_type": "moneyline"
   }
 }
