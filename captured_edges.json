@@ -5170,5 +5170,9 @@
   "Michigan Wolverines vs. Alabama Crimson Tide|Michigan Wolverines|moneyline": {
     "captured_at": "2026-03-23T08:25:16.201137+00:00",
     "edge_type": "moneyline"
+  },
+  "Nebraska Cornhuskers vs. Iowa Hawkeyes|Nebraska Cornhuskers|moneyline": {
+    "captured_at": "2026-03-23T09:28:08.431371+00:00",
+    "edge_type": "moneyline"
   }
 }
