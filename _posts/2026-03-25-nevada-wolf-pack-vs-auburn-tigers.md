@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Auburn Tigers -9.5</p>
-  <p><strong>Moneyline:</strong> Nevada Wolf Pack (+350) | Auburn Tigers (-450)</p>
+  <p><strong>Moneyline:</strong> Nevada Wolf Pack (+350) | Auburn Tigers (-455)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Nevada Wolf Pack**: 9.5, Edge For Covering Spread: **0.4%**
-- **Auburn Tigers**: -9.5, Edge For Covering Spread: -5.1%
+- **Nevada Wolf Pack**: 9.5, Edge For Covering Spread: -1.2%
+- **Auburn Tigers**: -9.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Nevada Wolf Pack Win Probability**: 24.9%, Moneyline Edge: **2.7%**
-- **Auburn Tigers Win Probability**: 75.1%, Moneyline Edge: -6.7%
+- **Nevada Wolf Pack Win Probability**: 22.2%, Moneyline Edge: -0.1%
+- **Auburn Tigers Win Probability**: 77.8%, Moneyline Edge: -4.1%
 
 ### Total
-- **Predicted Total**: 153.0
-- Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- **Predicted Total**: 154.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -121,8 +121,8 @@ Auburn Tigers comes in ranked #40 overall by KenPom. They boast one of the natio
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 53.6% (Rank: #106)
-- **3-Point Shooting:** 33.9% (Rank: #181)
+- **2-Point Shooting:** 53.6% (Rank: #105)
+- **3-Point Shooting:** 33.9% (Rank: #180)
 - **Free Throw Shooting:** 74.5% (Rank: #103)
 - **3-Point Rate:** 40.3% (Rank: #165)
 
