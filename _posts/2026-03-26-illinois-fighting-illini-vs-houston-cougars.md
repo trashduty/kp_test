@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Houston Cougars -3.5</p>
-  <p><strong>Moneyline:</strong> Illinois Fighting Illini (+136) | Houston Cougars (-163)</p>
+  <p><strong>Spread:</strong> Houston Cougars -2.5</p>
+  <p><strong>Moneyline:</strong> Illinois Fighting Illini (+135) | Houston Cougars (-158)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Illinois Fighting Illini**: 3.5, Edge For Covering Spread: -0.1%
-- **Houston Cougars**: -3.5, Edge For Covering Spread: -4.6%
+- **Illinois Fighting Illini**: 2.5, Edge For Covering Spread: -0.5%
+- **Houston Cougars**: -2.5, Edge For Covering Spread: -4.3%
 
 ### Moneyline
-- **Illinois Fighting Illini Win Probability**: 43.3%, Moneyline Edge: **0.9%**
-- **Houston Cougars Win Probability**: 56.7%, Moneyline Edge: -5.3%
+- **Illinois Fighting Illini Win Probability**: 43.5%, Moneyline Edge: **1.0%**
+- **Houston Cougars Win Probability**: 56.5%, Moneyline Edge: -4.8%
 
 ### Total
-- **Predicted Total**: 140.0
-- Edge For Covering The Over: -2.7%
-- Edge For Covering The Under: -2.0%
+- **Predicted Total**: 139.5
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Illinois Fighting Illini (26-8) travels to face Houston Cougars (30-6) at Fertitta Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Houston Cougars favored by 3.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Illinois Fighting Illini (26-8) travels to face Houston Cougars (30-6) at Fertitta Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Houston Cougars favored by 2.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Houston Cougars is viewed as the better team, but this isn't an overwhelming edge. Illinois Fighting Illini has a legitimate path to covering or winning outright. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Houston Cougars's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Illinois Fighting Illini** bring an offensive efficiency of 126.03 (ranked #1 nationally). This is an elite offense that can score in multiple ways. Their 35.0% three-point shooting is serviceable but won't scare anyone. 
@@ -94,7 +94,7 @@ Illinois Fighting Illini comes in ranked #6 overall by KenPom. They boast one of
 
 - **Opponent 2-Point Shooting:** 48.3% (Rank: #46)
 - **Opponent 3-Point Shooting:** 31.0% (Rank: #35)
-- **Block Percentage:** 12.4% (Rank: #39)
+- **Block Percentage:** 12.6% (Rank: #34)
 - **Steal Rate:** 0.1% (Rank: #365)
 
 ### Team Metrics
@@ -130,7 +130,7 @@ Houston Cougars comes in ranked #4 overall by KenPom. Their defense has been a c
 
 - **Opponent 2-Point Shooting:** 45.3% (Rank: #9)
 - **Opponent 3-Point Shooting:** 31.4% (Rank: #43)
-- **Block Percentage:** 12.5% (Rank: #35)
+- **Block Percentage:** 12.5% (Rank: #36)
 - **Steal Rate:** 0.1% (Rank: #30)
 
 ### Team Metrics

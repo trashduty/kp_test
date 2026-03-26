@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Purdue Boilermakers -7.5</p>
-  <p><strong>Moneyline:</strong> Texas Longhorns (+260) | Purdue Boilermakers (-325)</p>
+  <p><strong>Moneyline:</strong> Texas Longhorns (+277) | Purdue Boilermakers (-355)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Texas Longhorns**: 7.5, Edge For Covering Spread: -5.1%
-- **Purdue Boilermakers**: -7.5, Edge For Covering Spread: **0.4%**
+- **Texas Longhorns**: 7.5, Edge For Covering Spread: -4.0%
+- **Purdue Boilermakers**: -7.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Texas Longhorns Win Probability**: 23.4%, Moneyline Edge: -4.4%
-- **Purdue Boilermakers Win Probability**: 76.6%, Moneyline Edge: **0.1%**
+- **Texas Longhorns Win Probability**: 22.7%, Moneyline Edge: -3.8%
+- **Purdue Boilermakers Win Probability**: 77.3%, Moneyline Edge: -0.7%
 
 ### Total
-- **Predicted Total**: 150.5
-- Edge For Covering The Over: -0.4%
-- Edge For Covering The Under: -4.3%
+- **Predicted Total**: 150.0
+- Edge For Covering The Over: **1.3%**
+- Edge For Covering The Under: -6.0%
 
 ---
 
@@ -92,7 +92,7 @@ Texas Longhorns comes in ranked #31 overall by KenPom. They boast one of the nat
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 49.8% (Rank: #91)
+- **Opponent 2-Point Shooting:** 49.8% (Rank: #92)
 - **Opponent 3-Point Shooting:** 35.1% (Rank: #253)
 - **Block Percentage:** 7.7% (Rank: #280)
 - **Steal Rate:** 0.1% (Rank: #288)
@@ -129,7 +129,7 @@ Purdue Boilermakers comes in ranked #8 overall by KenPom. They're dangerous from
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 53.2% (Rank: #244)
-- **Opponent 3-Point Shooting:** 33.9% (Rank: #172)
+- **Opponent 3-Point Shooting:** 33.9% (Rank: #173)
 - **Block Percentage:** 9.0% (Rank: #202)
 - **Steal Rate:** 0.1% (Rank: #251)
 

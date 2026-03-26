@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **Nebraska Cornhuskers Win Probability**: 56.1%, Moneyline Edge: -0.4%
 
 ### Total
-- **Predicted Total**: 133.5
-- Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.1%
+- **Predicted Total**: 133.0
+- Edge For Covering The Over: **0.2%**
+- Edge For Covering The Under: -4.9%
 
 ---
 

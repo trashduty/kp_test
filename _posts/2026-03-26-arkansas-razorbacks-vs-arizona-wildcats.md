@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arizona Wildcats -7.5</p>
-  <p><strong>Moneyline:</strong> Arkansas Razorbacks (+280) | Arizona Wildcats (-360)</p>
+  <p><strong>Moneyline:</strong> Arkansas Razorbacks (+290) | Arizona Wildcats (-375)</p>
   <p><strong>Total:</strong> 166.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arkansas Razorbacks**: 7.5, Edge For Covering Spread: -3.8%
-- **Arizona Wildcats**: -7.5, Edge For Covering Spread: -1.0%
+- **Arkansas Razorbacks**: 7.5, Edge For Covering Spread: -3.2%
+- **Arizona Wildcats**: -7.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Arkansas Razorbacks Win Probability**: 23.1%, Moneyline Edge: -3.2%
-- **Arizona Wildcats Win Probability**: 76.9%, Moneyline Edge: -1.3%
+- **Arkansas Razorbacks Win Probability**: 22.8%, Moneyline Edge: -2.9%
+- **Arizona Wildcats Win Probability**: 77.2%, Moneyline Edge: -1.7%
 
 ### Total
-- **Predicted Total**: 166.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 166.0
+- Edge For Covering The Over: -2.6%
+- Edge For Covering The Under: -3.7%
 
 ---
 
@@ -133,7 +133,7 @@ Arizona Wildcats comes in ranked #2 overall by KenPom. They boast one of the nat
 - **Opponent 2-Point Shooting:** 43.7% (Rank: #2)
 - **Opponent 3-Point Shooting:** 31.1% (Rank: #38)
 - **Block Percentage:** 11.3% (Rank: #74)
-- **Steal Rate:** 0.1% (Rank: #100)
+- **Steal Rate:** 0.1% (Rank: #101)
 
 ### Team Metrics
 
