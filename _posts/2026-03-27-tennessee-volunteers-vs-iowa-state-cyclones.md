@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Iowa State Cyclones -3.5</p>
-  <p><strong>Moneyline:</strong> Tennessee Volunteers (+156) | Iowa State Cyclones (-191)</p>
+  <p><strong>Moneyline:</strong> Tennessee Volunteers (+151) | Iowa State Cyclones (-182)</p>
   <p><strong>Total:</strong> 137.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tennessee Volunteers**: 3.5, Edge For Covering Spread: -1.2%
-- **Iowa State Cyclones**: -3.5, Edge For Covering Spread: -3.5%
+- **Tennessee Volunteers**: 3.5, Edge For Covering Spread: -1.8%
+- **Iowa State Cyclones**: -3.5, Edge For Covering Spread: -2.9%
 
 ### Moneyline
-- **Tennessee Volunteers Win Probability**: 37.6%, Moneyline Edge: -1.4%
-- **Iowa State Cyclones Win Probability**: 62.4%, Moneyline Edge: -3.3%
+- **Tennessee Volunteers Win Probability**: 38.1%, Moneyline Edge: -1.8%
+- **Iowa State Cyclones Win Probability**: 61.9%, Moneyline Edge: -2.6%
 
 ### Total
-- **Predicted Total**: 138.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 139.5
+- Edge For Covering The Over: -3.1%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -61,7 +61,7 @@ Getting to the line matters too. Tennessee Volunteers's free throw rate sits at 
 #### X-Factors & Intangibles
 Playing at home, Iowa State Cyclones get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Rick Barnes leads Tennessee Volunteers while T.J. Otzelberger guides Iowa State Cyclones. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Both teams feature strong defenses (#44 and #4), so offense may be at a premium. 
+Both teams feature strong defenses (#44 and #3), so offense may be at a premium. 
 ### Game Storylines
 
 This matchup features two evenly-matched teams, with Tennessee Volunteers at #14 and Iowa State Cyclones at #7 in the KenPom rankings. Expect a competitive battle throughout. 
@@ -108,7 +108,7 @@ Tennessee Volunteers comes in ranked #14 overall by KenPom. They boast one of th
 
 ## Iowa State Cyclones
 
-Iowa State Cyclones comes in ranked #7 overall by KenPom. They're dangerous from beyond the arc, shooting 38.7% from three (ranked #11 nationally), so expect them to let it fly from deep. Defensively, they've been rock solid, ranking #4 nationally in efficiency. 
+Iowa State Cyclones comes in ranked #7 overall by KenPom. They're dangerous from beyond the arc, shooting 38.7% from three (ranked #9 nationally), so expect them to let it fly from deep. Defensively, they've been rock solid, ranking #3 nationally in efficiency. 
 
 ### Record & Ranking
 - **Record:** 29-7
@@ -116,13 +116,13 @@ Iowa State Cyclones comes in ranked #7 overall by KenPom. They're dangerous from
 - **Home Arena:** Hilton Coliseum
 - **KenPom Rank:** #7
 - **Offensive Efficiency:** 120.0 (Rank: #15)
-- **Defensive Efficiency:** 95.8 (Rank: #4)
+- **Defensive Efficiency:** 95.8 (Rank: #3)
 - **Tempo:** 68.5 (Rank: #174)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 55.6% (Rank: #49)
-- **3-Point Shooting:** 38.7% (Rank: #11)
+- **3-Point Shooting:** 38.7% (Rank: #9)
 - **Free Throw Shooting:** 67.7% (Rank: #330)
 - **3-Point Rate:** 38.8% (Rank: #196)
 
@@ -130,7 +130,7 @@ Iowa State Cyclones comes in ranked #7 overall by KenPom. They're dangerous from
 
 - **Opponent 2-Point Shooting:** 50.8% (Rank: #126)
 - **Opponent 3-Point Shooting:** 32.0% (Rank: #63)
-- **Block Percentage:** 8.6% (Rank: #223)
+- **Block Percentage:** 8.6% (Rank: #224)
 - **Steal Rate:** 0.1% (Rank: #8)
 
 ### Team Metrics

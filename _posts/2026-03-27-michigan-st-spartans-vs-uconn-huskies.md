@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan St Spartans**: 1.5, Edge For Covering Spread: -0.4%
-- **UConn Huskies**: -1.5, Edge For Covering Spread: -4.3%
+- **Michigan St Spartans**: 1.5, Edge For Covering Spread: -0.6%
+- **UConn Huskies**: -1.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
 - **Michigan St Spartans Win Probability**: 46.9%, Moneyline Edge: -0.8%
 - **UConn Huskies Win Probability**: 53.1%, Moneyline Edge: -3.4%
 
 ### Total
-- **Predicted Total**: 136.5
-- Edge For Covering The Over: **1.0%**
-- Edge For Covering The Under: -5.8%
+- **Predicted Total**: 136.0
+- Edge For Covering The Over: **0.2%**
+- Edge For Covering The Under: -4.9%
 
 ---
 
@@ -52,7 +52,7 @@ A spread under 3 points suggests the books see this as essentially a coin flip. 
 Meanwhile, **UConn Huskies** counter with 116.58 offensive efficiency (#44). This offense can match anyone bucket-for-bucket. At 34.7% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
-Michigan St Spartans operate at a 67.0 tempo (#247), while UConn Huskies play at 66.0 (#299). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.5) means fewer possessions, making each one more valuable. 
+Michigan St Spartans operate at a 67.0 tempo (#246), while UConn Huskies play at 66.0 (#299). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The slower pace (averaging 66.5) means fewer possessions, making each one more valuable. 
 
 #### The Interior Battle
 Inside the paint, Michigan St Spartans shoot 53.7% on two-pointers, while UConn Huskies convert at 57.5%. Both teams are evenly matched in paint efficiency. 
@@ -61,7 +61,7 @@ Getting to the line matters too. Michigan St Spartans's free throw rate sits at 
 #### X-Factors & Intangibles
 Playing at home, UConn Huskies get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Tom Izzo leads Michigan St Spartans while Dan Hurley guides UConn Huskies. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Both teams feature strong defenses (#35 and #10), so offense may be at a premium. 
+Both teams feature strong defenses (#35 and #9), so offense may be at a premium. 
 ### Game Storylines
 
 This matchup features two evenly-matched teams, with Michigan St Spartans at #9 and UConn Huskies at #10 in the KenPom rankings. Expect a competitive battle throughout. 
@@ -75,7 +75,7 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## Michigan St Spartans
 
-Michigan St Spartans comes in ranked #9 overall by KenPom. They're dangerous from beyond the arc, shooting 36.5% from three (ranked #38 nationally), so expect them to let it fly from deep. Their defense has been a calling card this season, making life difficult for opposing offenses. 
+Michigan St Spartans comes in ranked #9 overall by KenPom. They're dangerous from beyond the arc, shooting 36.5% from three (ranked #39 nationally), so expect them to let it fly from deep. Their defense has been a calling card this season, making life difficult for opposing offenses. 
 
 ### Record & Ranking
 - **Record:** 27-7
@@ -83,12 +83,12 @@ Michigan St Spartans comes in ranked #9 overall by KenPom. They're dangerous fro
 - **KenPom Rank:** #9
 - **Offensive Efficiency:** 117.4 (Rank: #39)
 - **Defensive Efficiency:** 101.2 (Rank: #35)
-- **Tempo:** 67.0 (Rank: #247)
+- **Tempo:** 67.0 (Rank: #246)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 53.7% (Rank: #97)
-- **3-Point Shooting:** 36.5% (Rank: #38)
+- **3-Point Shooting:** 36.5% (Rank: #39)
 - **Free Throw Shooting:** 76.5% (Rank: #40)
 - **3-Point Rate:** 36.7% (Rank: #236)
 
@@ -110,7 +110,7 @@ Michigan St Spartans comes in ranked #9 overall by KenPom. They're dangerous fro
 
 ## UConn Huskies
 
-UConn Huskies comes in ranked #10 overall by KenPom. They boast one of the nation's top offenses, ranked #44 in efficiency. Defensively, they've been rock solid, ranking #10 nationally in efficiency. 
+UConn Huskies comes in ranked #10 overall by KenPom. They boast one of the nation's top offenses, ranked #44 in efficiency. Defensively, they've been rock solid, ranking #9 nationally in efficiency. 
 
 ### Record & Ranking
 - **Record:** 31-5
@@ -118,22 +118,22 @@ UConn Huskies comes in ranked #10 overall by KenPom. They boast one of the natio
 - **Home Arena:** Gampel Pavilion
 - **KenPom Rank:** #10
 - **Offensive Efficiency:** 116.6 (Rank: #44)
-- **Defensive Efficiency:** 97.8 (Rank: #10)
+- **Defensive Efficiency:** 97.8 (Rank: #9)
 - **Tempo:** 66.0 (Rank: #299)
 
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 57.5% (Rank: #25)
-- **3-Point Shooting:** 34.7% (Rank: #135)
+- **3-Point Shooting:** 34.7% (Rank: #134)
 - **Free Throw Shooting:** 72.2% (Rank: #200)
-- **3-Point Rate:** 40.5% (Rank: #162)
+- **3-Point Rate:** 40.5% (Rank: #161)
 
 ### Defensive Stats
 
 - **Opponent 2-Point Shooting:** 45.7% (Rank: #12)
 - **Opponent 3-Point Shooting:** 30.7% (Rank: #28)
 - **Block Percentage:** 15.0% (Rank: #9)
-- **Steal Rate:** 0.1% (Rank: #109)
+- **Steal Rate:** 0.1% (Rank: #108)
 
 ### Team Metrics
 

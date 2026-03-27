@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Duke Blue Devils -6.5</p>
-  <p><strong>Moneyline:</strong> St. John's Red Storm (+230) | Duke Blue Devils (-282)</p>
+  <p><strong>Moneyline:</strong> St. John's Red Storm (+227) | Duke Blue Devils (-280)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **St. John's Red Storm**: 6.5, Edge For Covering Spread: -3.6%
-- **Duke Blue Devils**: -6.5, Edge For Covering Spread: -1.1%
+- **St. John's Red Storm**: 6.5, Edge For Covering Spread: -4.1%
+- **Duke Blue Devils**: -6.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **St. John's Red Storm Win Probability**: 27.0%, Moneyline Edge: -3.3%
-- **Duke Blue Devils Win Probability**: 73.0%, Moneyline Edge: -0.9%
+- **St. John's Red Storm Win Probability**: 27.2%, Moneyline Edge: -3.4%
+- **Duke Blue Devils Win Probability**: 72.8%, Moneyline Edge: -0.8%
 
 ### Total
 - **Predicted Total**: 142.0
-- Edge For Covering The Over: -1.0%
-- Edge For Covering The Under: -3.7%
+- Edge For Covering The Over: -0.4%
+- Edge For Covering The Under: -4.3%
 
 ---
 
@@ -61,7 +61,7 @@ Getting to the line matters too. St. John's Red Storm's free throw rate sits at 
 #### X-Factors & Intangibles
 Playing at home, Duke Blue Devils get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Rick Pitino leads St. John's Red Storm while Jon Scheyer guides Duke Blue Devils. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Both teams feature strong defenses (#14 and #2), so offense may be at a premium. 
+Both teams feature strong defenses (#13 and #2), so offense may be at a premium. 
 ### Game Storylines
 
 On paper, Duke Blue Devils holds the advantage as the higher-ranked team, but St. John's Red Storm could make this interesting if they play to their potential. 
@@ -73,14 +73,14 @@ Both teams are fairly evenly matched on both ends of the floor. This could come 
 
 ## St. John's Red Storm
 
-St. John's Red Storm comes in ranked #16 overall by KenPom. Their defense has been a calling card this season, making life difficult for opposing offenses. 
+St. John's Red Storm comes in ranked #15 overall by KenPom. Their defense has been a calling card this season, making life difficult for opposing offenses. 
 
 ### Record & Ranking
 - **Record:** 30-6
 - **Head Coach:** Rick Pitino
-- **KenPom Rank:** #16
+- **KenPom Rank:** #15
 - **Offensive Efficiency:** 114.0 (Rank: #71)
-- **Defensive Efficiency:** 98.0 (Rank: #14)
+- **Defensive Efficiency:** 98.0 (Rank: #13)
 - **Tempo:** 70.8 (Rank: #64)
 
 ### Shooting Breakdown
@@ -95,13 +95,13 @@ St. John's Red Storm comes in ranked #16 overall by KenPom. Their defense has be
 - **Opponent 2-Point Shooting:** 47.4% (Rank: #37)
 - **Opponent 3-Point Shooting:** 31.2% (Rank: #39)
 - **Block Percentage:** 12.3% (Rank: #43)
-- **Steal Rate:** 0.1% (Rank: #79)
+- **Steal Rate:** 0.1% (Rank: #78)
 
 ### Team Metrics
 
 - **Assist Rate:** 57.7% (Rank: #61)
 - **Experience:** 2.3 years (Rank: #34)
-- **Bench Minutes:** 31.2% (Rank: #192)
+- **Bench Minutes:** 31.2% (Rank: #191)
 - **Average Height:** 78.2" (Rank: #59)
 
 ---
