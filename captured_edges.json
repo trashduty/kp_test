@@ -5190,5 +5190,17 @@
   "Illinois Fighting Illini vs. Iowa Hawkeyes|over": {
     "captured_at": "2026-03-27T09:22:55.236667+00:00",
     "edge_type": "over"
+  },
+  "Michigan Wolverines vs. Tennessee Volunteers|Michigan Wolverines|spread": {
+    "captured_at": "2026-03-28T08:16:10.611413+00:00",
+    "edge_type": "spread"
+  },
+  "Michigan Wolverines vs. Tennessee Volunteers|Michigan Wolverines|moneyline": {
+    "captured_at": "2026-03-28T08:16:10.611455+00:00",
+    "edge_type": "moneyline"
+  },
+  "Duke Blue Devils vs. UConn Huskies|Duke Blue Devils|moneyline": {
+    "captured_at": "2026-03-28T08:16:10.611645+00:00",
+    "edge_type": "moneyline"
   }
 }
