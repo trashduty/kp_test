@@ -5202,5 +5202,9 @@
   "Duke Blue Devils vs. UConn Huskies|Duke Blue Devils|moneyline": {
     "captured_at": "2026-03-28T08:16:10.611645+00:00",
     "edge_type": "moneyline"
+  },
+  "UConn Huskies vs. Illinois Fighting Illini|over": {
+    "captured_at": "2026-03-30T03:11:09.084678+00:00",
+    "edge_type": "over"
   }
 }
