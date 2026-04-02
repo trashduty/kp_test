@@ -32,9 +32,9 @@ All that being said, here's how our model prices this game.
 - **Illinois St Redbirds Win Probability**: 28.4%, Moneyline Edge: -1.9%
 
 ### Total
-- **Predicted Total**: 149.5
-- Edge For Covering The Over: -1.3%
-- Edge For Covering The Under: -3.5%
+- **Predicted Total**: 150.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 
@@ -49,7 +49,7 @@ The 6.5-point spread indicates Auburn Tigers is viewed as the better team, but t
 
 #### Offensive Firepower
 **Auburn Tigers** bring an offensive efficiency of 118.68 (ranked #28 nationally). This is an elite offense that can score in multiple ways. Their 33.7% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Illinois St Redbirds** counter with 109.73 offensive efficiency (#139). They're competent on offense without being spectacular. At 34.8% from three, they have adequate spacing but must pick their spots. 
+Meanwhile, **Illinois St Redbirds** counter with 109.73 offensive efficiency (#138). They're competent on offense without being spectacular. At 34.8% from three, they have adequate spacing but must pick their spots. 
 
 #### Tempo & Playing Style
 Auburn Tigers operate at a 69.0 tempo (#148), while Illinois St Redbirds play at 67.6 (#219). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 68.3) should create a standard flow. 
@@ -68,7 +68,7 @@ This looks like a mismatch on paper with Auburn Tigers significantly higher in t
 
 **Key Matchup: Illinois St Redbirds's Offense vs Auburn Tigers's Defense**
 
-Illinois St Redbirds features a middle-of-the-pack offense (ranked #139) that should find success against Auburn Tigers's defensive unit (ranked #304). 
+Illinois St Redbirds features a middle-of-the-pack offense (ranked #138) that should find success against Auburn Tigers's defensive unit (ranked #304). 
 
 
 ## Auburn Tigers
@@ -115,7 +115,7 @@ Illinois St Redbirds comes in ranked #94 overall by KenPom. Their defense has be
 - **Head Coach:** Ryan Pedon
 - **Home Arena:** CEFCU Arena
 - **KenPom Rank:** #94
-- **Offensive Efficiency:** 109.7 (Rank: #139)
+- **Offensive Efficiency:** 109.7 (Rank: #138)
 - **Defensive Efficiency:** 101.3 (Rank: #38)
 - **Tempo:** 67.6 (Rank: #219)
 

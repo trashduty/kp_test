@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tulsa Golden Hurricane**: 3.5, Edge For Covering Spread: -0.3%
-- **New Mexico Lobos**: -3.5, Edge For Covering Spread: -4.4%
+- **Tulsa Golden Hurricane**: 3.5, Edge For Covering Spread: **0.4%**
+- **New Mexico Lobos**: -3.5, Edge For Covering Spread: -5.1%
 
 ### Moneyline
 - **Tulsa Golden Hurricane Win Probability**: 40.3%, Moneyline Edge: **0.3%**
 - **New Mexico Lobos Win Probability**: 59.7%, Moneyline Edge: -5.2%
 
 ### Total
-- **Predicted Total**: 160.0
-- Edge For Covering The Over: -4.3%
-- Edge For Covering The Under: -0.4%
+- **Predicted Total**: 160.5
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -1.9%
 
 ---
 
@@ -101,7 +101,7 @@ Tulsa Golden Hurricane comes in ranked #58 overall by KenPom. They're dangerous 
 
 ### Team Metrics
 
-- **Assist Rate:** 55.5% (Rank: #99)
+- **Assist Rate:** 55.5% (Rank: #98)
 - **Experience:** 1.5 years (Rank: #159)
 - **Bench Minutes:** 33.5% (Rank: #134)
 - **Average Height:** 77.5" (Rank: #160)
@@ -110,13 +110,13 @@ Tulsa Golden Hurricane comes in ranked #58 overall by KenPom. They're dangerous 
 
 ## New Mexico Lobos
 
-New Mexico Lobos comes in ranked #44 overall by KenPom. Their defense has been a calling card this season, making life difficult for opposing offenses. 
+New Mexico Lobos comes in ranked #43 overall by KenPom. Their defense has been a calling card this season, making life difficult for opposing offenses. 
 
 ### Record & Ranking
 - **Record:** 26-10
 - **Head Coach:** Eric Olen
 - **Home Arena:** The Pit
-- **KenPom Rank:** #44
+- **KenPom Rank:** #43
 - **Offensive Efficiency:** 115.1 (Rank: #58)
 - **Defensive Efficiency:** 101.4 (Rank: #40)
 - **Tempo:** 70.7 (Rank: #67)
@@ -137,7 +137,7 @@ New Mexico Lobos comes in ranked #44 overall by KenPom. Their defense has been a
 
 ### Team Metrics
 
-- **Assist Rate:** 52.7% (Rank: #169)
+- **Assist Rate:** 52.7% (Rank: #168)
 - **Experience:** 0.9 years (Rank: #313)
 - **Bench Minutes:** 29.7% (Rank: #235)
 - **Average Height:** 77.6" (Rank: #141)
