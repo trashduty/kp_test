@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Michigan Wolverines -1.5</p>
-  <p><strong>Moneyline:</strong> Arizona Wildcats (+102) | Michigan Wolverines (-122)</p>
+  <p><strong>Moneyline:</strong> Arizona Wildcats (+101) | Michigan Wolverines (-121)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Michigan Wolverines**: -1.5, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Arizona Wildcats Win Probability**: 45.4%, Moneyline Edge: -4.0%
-- **Michigan Wolverines Win Probability**: 54.6%, Moneyline Edge: -0.4%
+- **Arizona Wildcats Win Probability**: 45.6%, Moneyline Edge: -4.2%
+- **Michigan Wolverines Win Probability**: 54.4%, Moneyline Edge: -0.3%
 
 ### Total
 - **Predicted Total**: 159.0

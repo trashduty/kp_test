@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Oklahoma Sooners -1.5</p>
-  <p><strong>Moneyline:</strong> Baylor Bears (-105) | Oklahoma Sooners (-114)</p>
+  <p><strong>Moneyline:</strong> Baylor Bears (-102) | Oklahoma Sooners (-118)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Oklahoma Sooners**: -1.5, Edge For Covering Spread: -1.0%
 
 ### Moneyline
-- **Baylor Bears Win Probability**: 46.9%, Moneyline Edge: -4.4%
-- **Oklahoma Sooners Win Probability**: 53.1%, Moneyline Edge: -0.1%
+- **Baylor Bears Win Probability**: 46.4%, Moneyline Edge: -4.1%
+- **Oklahoma Sooners Win Probability**: 53.6%, Moneyline Edge: -0.5%
 
 ### Total
-- **Predicted Total**: 158.0
-- Edge For Covering The Over: -1.5%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 157.5
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 

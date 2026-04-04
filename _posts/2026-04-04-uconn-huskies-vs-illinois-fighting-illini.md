@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Illinois Fighting Illini -1.5</p>
-  <p><strong>Moneyline:</strong> UConn Huskies (+110) | Illinois Fighting Illini (-130)</p>
+  <p><strong>Moneyline:</strong> UConn Huskies (+112) | Illinois Fighting Illini (-135)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UConn Huskies**: 1.5, Edge For Covering Spread: -2.5%
-- **Illinois Fighting Illini**: -1.5, Edge For Covering Spread: -2.1%
+- **UConn Huskies**: 1.5, Edge For Covering Spread: -2.9%
+- **Illinois Fighting Illini**: -1.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **UConn Huskies Win Probability**: 44.9%, Moneyline Edge: -2.7%
-- **Illinois Fighting Illini Win Probability**: 55.1%, Moneyline Edge: -1.5%
+- **UConn Huskies Win Probability**: 44.5%, Moneyline Edge: -2.7%
+- **Illinois Fighting Illini Win Probability**: 55.5%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 140.5
