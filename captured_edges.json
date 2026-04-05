@@ -5218,5 +5218,9 @@
   "Michigan Wolverines vs. UConn Huskies|over": {
     "captured_at": "2026-04-05T16:13:02.947666+00:00",
     "edge_type": "over"
+  },
+  "West Virginia Mountaineers vs. Oklahoma Sooners|Oklahoma Sooners|moneyline": {
+    "captured_at": "2026-04-05T17:12:48.297102+00:00",
+    "edge_type": "moneyline"
   }
 }
