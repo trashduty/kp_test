@@ -29,7 +29,7 @@ All that being said, here's how our model prices this game.
 
 ### Moneyline
 - **Auburn Tigers Win Probability**: 65.5%, Moneyline Edge: -3.8%
-- **Tulsa Golden Hurricane Win Probability**: 34.5%, Moneyline Edge: -0.6%
+- **Tulsa Golden Hurricane Win Probability**: 34.5%, Moneyline Edge: -0.5%
 
 ### Total
 - **Predicted Total**: 160.0
@@ -49,7 +49,7 @@ The 5.5-point spread indicates Auburn Tigers is viewed as the better team, but t
 
 #### Offensive Firepower
 **Auburn Tigers** bring an offensive efficiency of 119.18 (ranked #23 nationally). This is an elite offense that can score in multiple ways. Their 34.2% three-point shooting is serviceable but won't scare anyone. 
-Meanwhile, **Tulsa Golden Hurricane** counter with 120.46 offensive efficiency (#13). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 38.9%, giving them spacing and shot creation. 
+Meanwhile, **Tulsa Golden Hurricane** counter with 120.46 offensive efficiency (#12). This offense can match anyone bucket-for-bucket. They're lethal from beyond the arc at 38.9%, giving them spacing and shot creation. 
 
 #### Tempo & Playing Style
 Auburn Tigers operate at a 68.9 tempo (#155), while Tulsa Golden Hurricane play at 68.8 (#158). Both teams operate at similar speeds, so we shouldn't see much of a tempo conflict. The moderate pace (around 68.9) should create a standard flow. 
@@ -61,7 +61,7 @@ Getting to the line matters too. Auburn Tigers's free throw rate sits at 43.3, i
 #### X-Factors & Intangibles
 Playing at home, Tulsa Golden Hurricane get the crowd advantage and familiar surroundings. In a fairly even matchup, home court becomes magnified as a potential deciding factor. 
 From a coaching perspective, Steven Pearl leads Auburn Tigers while Eric Konkol guides Tulsa Golden Hurricane. Experience and game planning will be critical in what promises to be a tactical chess match. 
-Tulsa Golden Hurricane's offense (#13) could exploit Auburn Tigers's defensive vulnerabilities (#297). 
+Tulsa Golden Hurricane's offense (#12) could exploit Auburn Tigers's defensive vulnerabilities (#297). 
 ### Game Storylines
 
 On paper, Auburn Tigers holds the advantage as the higher-ranked team, but Tulsa Golden Hurricane could make this interesting if they play to their potential. 
@@ -86,7 +86,7 @@ Auburn Tigers comes in ranked #37 overall by KenPom. They boast one of the natio
 ### Shooting Breakdown
 
 - **2-Point Shooting:** 54.1% (Rank: #82)
-- **3-Point Shooting:** 34.2% (Rank: #159)
+- **3-Point Shooting:** 34.2% (Rank: #157)
 - **Free Throw Shooting:** 74.3% (Rank: #109)
 - **3-Point Rate:** 40.2% (Rank: #164)
 
@@ -108,27 +108,27 @@ Auburn Tigers comes in ranked #37 overall by KenPom. They boast one of the natio
 
 ## Tulsa Golden Hurricane
 
-Tulsa Golden Hurricane comes in ranked #55 overall by KenPom. They're dangerous from beyond the arc, shooting 38.9% from three (ranked #5 nationally), so expect them to let it fly from deep. 
+Tulsa Golden Hurricane comes in ranked #56 overall by KenPom. They're dangerous from beyond the arc, shooting 38.9% from three (ranked #5 nationally), so expect them to let it fly from deep. 
 
 ### Record & Ranking
 - **Record:** 30-7
 - **Head Coach:** Eric Konkol
 - **Home Arena:** Reynolds Center
-- **KenPom Rank:** #55
-- **Offensive Efficiency:** 120.5 (Rank: #13)
+- **KenPom Rank:** #56
+- **Offensive Efficiency:** 120.5 (Rank: #12)
 - **Defensive Efficiency:** 106.0 (Rank: #106)
 - **Tempo:** 68.8 (Rank: #158)
 
 ### Shooting Breakdown
 
-- **2-Point Shooting:** 53.2% (Rank: #119)
+- **2-Point Shooting:** 53.2% (Rank: #120)
 - **3-Point Shooting:** 38.9% (Rank: #5)
 - **Free Throw Shooting:** 78.0% (Rank: #17)
 - **3-Point Rate:** 46.8% (Rank: #36)
 
 ### Defensive Stats
 
-- **Opponent 2-Point Shooting:** 50.2% (Rank: #108)
+- **Opponent 2-Point Shooting:** 50.2% (Rank: #107)
 - **Opponent 3-Point Shooting:** 32.1% (Rank: #68)
 - **Block Percentage:** 6.7% (Rank: #321)
 - **Steal Rate:** 0.1% (Rank: #182)
