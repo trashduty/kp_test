@@ -5230,5 +5230,9 @@
   "Gonzaga Bulldogs vs. Purdue Boilermakers|under": {
     "captured_at": "2026-10-26T00:38:55.186720+00:00",
     "edge_type": "under"
+  },
+  "Miami Hurricanes vs. Florida Gators|Florida Gators|moneyline": {
+    "captured_at": "2026-10-26T01:28:53.356080+00:00",
+    "edge_type": "moneyline"
   }
 }
