@@ -5222,5 +5222,13 @@
   "West Virginia Mountaineers vs. Oklahoma Sooners|Oklahoma Sooners|moneyline": {
     "captured_at": "2026-04-05T17:12:48.297102+00:00",
     "edge_type": "moneyline"
+  },
+  "Liberty Flames vs. High Point Panthers|Liberty Flames|spread": {
+    "captured_at": "2026-10-26T00:38:55.186428+00:00",
+    "edge_type": "spread"
+  },
+  "Gonzaga Bulldogs vs. Purdue Boilermakers|under": {
+    "captured_at": "2026-10-26T00:38:55.186720+00:00",
+    "edge_type": "under"
   }
 }
