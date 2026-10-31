@@ -5326,5 +5326,9 @@
   "Stanford Cardinal vs. Eastern Washington Eagles|Eastern Washington Eagles|spread": {
     "captured_at": "2026-10-31T08:10:36.852101+00:00",
     "edge_type": "spread"
+  },
+  "Cornell Big Red vs. Pepperdine Waves|Cornell Big Red|spread": {
+    "captured_at": "2026-10-31T20:07:53.089290+00:00",
+    "edge_type": "spread"
   }
 }
