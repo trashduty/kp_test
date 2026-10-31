@@ -5234,5 +5234,97 @@
   "Miami Hurricanes vs. Florida Gators|Florida Gators|moneyline": {
     "captured_at": "2026-10-26T01:28:53.356080+00:00",
     "edge_type": "moneyline"
+  },
+  "Maryland Terrapins vs. Bucknell Bison|Bucknell Bison|spread": {
+    "captured_at": "2026-10-31T08:10:36.839861+00:00",
+    "edge_type": "spread"
+  },
+  "Pittsburgh Panthers vs. Rider Broncs|Rider Broncs|spread": {
+    "captured_at": "2026-10-31T08:10:36.841358+00:00",
+    "edge_type": "spread"
+  },
+  "Indiana St Sycamores vs. Charlotte 49ers|Indiana St Sycamores|spread": {
+    "captured_at": "2026-10-31T08:10:36.842058+00:00",
+    "edge_type": "spread"
+  },
+  "West Virginia Mountaineers vs. Niagara Purple Eagles|Niagara Purple Eagles|spread": {
+    "captured_at": "2026-10-31T08:10:36.842383+00:00",
+    "edge_type": "spread"
+  },
+  "North Carolina Tar Heels vs. Western Carolina Catamounts|Western Carolina Catamounts|spread": {
+    "captured_at": "2026-10-31T08:10:36.842637+00:00",
+    "edge_type": "spread"
+  },
+  "Xavier Musketeers vs. Mt. St. Mary's Mountaineers|Mt. St. Mary's Mountaineers|spread": {
+    "captured_at": "2026-10-31T08:10:36.842751+00:00",
+    "edge_type": "spread"
+  },
+  "Texas Tech Red Raiders vs. Jackson St Tigers|Jackson St Tigers|spread": {
+    "captured_at": "2026-10-31T08:10:36.843110+00:00",
+    "edge_type": "spread"
+  },
+  "Cincinnati Bearcats vs. American Eagles|American Eagles|spread": {
+    "captured_at": "2026-10-31T08:10:36.843363+00:00",
+    "edge_type": "spread"
+  },
+  "Marquette Golden Eagles vs. Mercyhurst Lakers|Mercyhurst Lakers|spread": {
+    "captured_at": "2026-10-31T08:10:36.846177+00:00",
+    "edge_type": "spread"
+  },
+  "Tulane Green Wave vs. Tenn-Martin Skyhawks|Tulane Green Wave|spread": {
+    "captured_at": "2026-10-31T08:10:36.846934+00:00",
+    "edge_type": "spread"
+  },
+  "TCU Horned Frogs vs. Lindenwood Lions|Lindenwood Lions|spread": {
+    "captured_at": "2026-10-31T08:10:36.847522+00:00",
+    "edge_type": "spread"
+  },
+  "Oklahoma St Cowboys vs. Incarnate Word Cardinals|Incarnate Word Cardinals|spread": {
+    "captured_at": "2026-10-31T08:10:36.847705+00:00",
+    "edge_type": "spread"
+  },
+  "SMU Mustangs vs. Southern Jaguars|Southern Jaguars|spread": {
+    "captured_at": "2026-10-31T08:10:36.847915+00:00",
+    "edge_type": "spread"
+  },
+  "Florida St Seminoles vs. Florida A&M Rattlers|Florida A&M Rattlers|spread": {
+    "captured_at": "2026-10-31T08:10:36.849176+00:00",
+    "edge_type": "spread"
+  },
+  "New Mexico Lobos vs. Utah Tech Trailblazers|Utah Tech Trailblazers|spread": {
+    "captured_at": "2026-10-31T08:10:36.849852+00:00",
+    "edge_type": "spread"
+  },
+  "Utah Utes vs. Long Beach St 49ers|Long Beach St 49ers|spread": {
+    "captured_at": "2026-10-31T08:10:36.850108+00:00",
+    "edge_type": "spread"
+  },
+  "UConn Huskies vs. Gardner-Webb Bulldogs|Gardner-Webb Bulldogs|spread": {
+    "captured_at": "2026-10-31T08:10:36.850220+00:00",
+    "edge_type": "spread"
+  },
+  "Minnesota Golden Gophers vs. North Dakota Fighting Hawks|North Dakota Fighting Hawks|spread": {
+    "captured_at": "2026-10-31T08:10:36.850665+00:00",
+    "edge_type": "spread"
+  },
+  "Baylor Bears vs. Northwestern St Demons|Northwestern St Demons|spread": {
+    "captured_at": "2026-10-31T08:10:36.850946+00:00",
+    "edge_type": "spread"
+  },
+  "Utah State Aggies vs. Idaho State Bengals|Idaho State Bengals|spread": {
+    "captured_at": "2026-10-31T08:10:36.851061+00:00",
+    "edge_type": "spread"
+  },
+  "Oregon St Beavers vs. Weber State Wildcats|Weber State Wildcats|spread": {
+    "captured_at": "2026-10-31T08:10:36.851378+00:00",
+    "edge_type": "spread"
+  },
+  "Arizona St Sun Devils vs. East Tennessee St Buccaneers|East Tennessee St Buccaneers|spread": {
+    "captured_at": "2026-10-31T08:10:36.851842+00:00",
+    "edge_type": "spread"
+  },
+  "Stanford Cardinal vs. Eastern Washington Eagles|Eastern Washington Eagles|spread": {
+    "captured_at": "2026-10-31T08:10:36.852101+00:00",
+    "edge_type": "spread"
   }
 }
