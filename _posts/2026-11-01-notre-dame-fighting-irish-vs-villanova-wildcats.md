@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Villanova Wildcats -7.5</p>
-  <p><strong>Moneyline:</strong> Notre Dame Fighting Irish (+250) | Villanova Wildcats (-320)</p>
+  <p><strong>Moneyline:</strong> Notre Dame Fighting Irish (+250) | Villanova Wildcats (-325)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Notre Dame Fighting Irish**: 7.5, Edge For Covering Spread: -2.4%
-- **Villanova Wildcats**: -7.5, Edge For Covering Spread: -2.4%
+- **Notre Dame Fighting Irish**: 7.5, Edge For Covering Spread: -3.5%
+- **Villanova Wildcats**: -7.5, Edge For Covering Spread: -1.2%
 
 ### Moneyline
-- **Notre Dame Fighting Irish Win Probability**: 27.1%, Moneyline Edge: -1.4%
-- **Villanova Wildcats Win Probability**: 72.9%, Moneyline Edge: -3.3%
+- **Notre Dame Fighting Irish Win Probability**: 27.1%, Moneyline Edge: -1.5%
+- **Villanova Wildcats Win Probability**: 72.9%, Moneyline Edge: -3.6%
 
 ### Total
-- **Predicted Total**: 148.0
-- Edge For Covering The Over: -1.4%
-- Edge For Covering The Under: -3.4%
+- **Predicted Total**: 148.5
+- Edge For Covering The Over: -0.4%
+- Edge For Covering The Under: -4.4%
 
 ---
 
