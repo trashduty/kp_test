@@ -5330,5 +5330,9 @@
   "Cornell Big Red vs. Pepperdine Waves|Cornell Big Red|spread": {
     "captured_at": "2026-10-31T20:07:53.089290+00:00",
     "edge_type": "spread"
+  },
+  "Indiana Hoosiers vs. Eastern Illinois Panthers|Eastern Illinois Panthers|spread": {
+    "captured_at": "2026-11-01T02:13:47.175059+00:00",
+    "edge_type": "spread"
   }
 }
