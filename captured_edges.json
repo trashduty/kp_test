@@ -5338,5 +5338,9 @@
   "Texas Longhorns vs. Chicago St Cougars|Chicago St Cougars|spread": {
     "captured_at": "2026-11-01T19:07:09.148942+00:00",
     "edge_type": "spread"
+  },
+  "Bryant Bulldogs vs. Siena Saints|Siena Saints|moneyline": {
+    "captured_at": "2026-11-01T20:08:18.906467+00:00",
+    "edge_type": "moneyline"
   }
 }
