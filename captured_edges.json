@@ -5334,5 +5334,9 @@
   "Indiana Hoosiers vs. Eastern Illinois Panthers|Eastern Illinois Panthers|spread": {
     "captured_at": "2026-11-01T02:13:47.175059+00:00",
     "edge_type": "spread"
+  },
+  "Texas Longhorns vs. Chicago St Cougars|Chicago St Cougars|spread": {
+    "captured_at": "2026-11-01T19:07:09.148942+00:00",
+    "edge_type": "spread"
   }
 }
