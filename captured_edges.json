@@ -5342,5 +5342,9 @@
   "Bryant Bulldogs vs. Siena Saints|Siena Saints|moneyline": {
     "captured_at": "2026-11-01T20:08:18.906467+00:00",
     "edge_type": "moneyline"
+  },
+  "Bryant Bulldogs vs. Siena Saints|under": {
+    "captured_at": "2026-11-01T21:07:48.335589+00:00",
+    "edge_type": "under"
   }
 }
