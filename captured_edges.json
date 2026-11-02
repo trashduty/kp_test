@@ -5346,5 +5346,17 @@
   "Bryant Bulldogs vs. Siena Saints|under": {
     "captured_at": "2026-11-01T21:07:48.335589+00:00",
     "edge_type": "under"
+  },
+  "Kentucky Wildcats vs. Manhattan Jaspers|Kentucky Wildcats|spread": {
+    "captured_at": "2026-11-02T23:08:14.524680+00:00",
+    "edge_type": "spread"
+  },
+  "Missouri Tigers vs. Cleveland St Vikings|Missouri Tigers|spread": {
+    "captured_at": "2026-11-02T23:08:14.525413+00:00",
+    "edge_type": "spread"
+  },
+  "Kansas St Wildcats vs. South Dakota St Jackrabbits|Kansas St Wildcats|spread": {
+    "captured_at": "2026-11-02T23:08:14.525634+00:00",
+    "edge_type": "spread"
   }
 }
