@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Oklahoma St Cowboys -29.5</p>
-  <p><strong>Moneyline:</strong> Incarnate Word Cardinals (N/A) | Oklahoma St Cowboys (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Oklahoma St Cowboys -27.5</p>
+  <p><strong>Moneyline:</strong> Incarnate Word Cardinals (+4634) | Oklahoma St Cowboys (-66678)</p>
+  <p><strong>Total:</strong> 159.5</p>
 </div>
 
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Incarnate Word Cardinals**: 29.5, Edge For Covering Spread: **2.4%**
-- **Oklahoma St Cowboys**: -29.5, Edge For Covering Spread: -7.2%
+- **Incarnate Word Cardinals**: 27.5, Edge For Covering Spread: **0.8%**
+- **Oklahoma St Cowboys**: -27.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **Incarnate Word Cardinals Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Oklahoma St Cowboys Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Incarnate Word Cardinals Win Probability**: 2.0%, Moneyline Edge: -0.1%
+- **Oklahoma St Cowboys Win Probability**: 98.0%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 160.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Oklahoma St Cowboys (20-15) hosts Incarnate Word Cardinals (12-19) at Gallagher Iba Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Oklahoma St Cowboys favored by 29.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Oklahoma St Cowboys (20-15) hosts Incarnate Word Cardinals (12-19) at Gallagher Iba Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Oklahoma St Cowboys favored by 27.5 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 29.5-point spread screams mismatch. The books are asking Incarnate Word Cardinals to hang within two possessions, which based on the profiles, requires Oklahoma St Cowboys to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 27.5-point spread screams mismatch. The books are asking Incarnate Word Cardinals to hang within two possessions, which based on the profiles, requires Oklahoma St Cowboys to play below their standard. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Incarnate Word Cardinals** bring an offensive efficiency of 107.55 (ranked #195 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

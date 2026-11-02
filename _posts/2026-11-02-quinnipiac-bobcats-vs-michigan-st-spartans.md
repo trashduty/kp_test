@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Michigan St Spartans -30.0</p>
-  <p><strong>Moneyline:</strong> Quinnipiac Bobcats (+6437) | Michigan St Spartans (-66678)</p>
+  <p><strong>Spread:</strong> Michigan St Spartans -29.5</p>
+  <p><strong>Moneyline:</strong> Quinnipiac Bobcats (+5836) | Michigan St Spartans (-66678)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Quinnipiac Bobcats**: 30.0, Edge For Covering Spread: -2.4%
-- **Michigan St Spartans**: -30.0, Edge For Covering Spread: -2.4%
+- **Quinnipiac Bobcats**: 29.5, Edge For Covering Spread: -2.4%
+- **Michigan St Spartans**: -29.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Quinnipiac Bobcats Win Probability**: 1.1%, Moneyline Edge: -0.4%
-- **Michigan St Spartans Win Probability**: 98.9%, Moneyline Edge: -1.0%
+- **Quinnipiac Bobcats Win Probability**: 1.2%, Moneyline Edge: -0.5%
+- **Michigan St Spartans Win Probability**: 98.8%, Moneyline Edge: -1.0%
 
 ### Total
 - **Predicted Total**: 152.0
 - Edge For Covering The Over: -0.1%
-- Edge For Covering The Under: -6.1%
+- Edge For Covering The Under: -4.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Michigan St Spartans (27-8) hosts Quinnipiac Bobcats (19-13) at Breslin Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Michigan St Spartans favored by 30.0 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Michigan St Spartans (27-8) hosts Quinnipiac Bobcats (19-13) at Breslin Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Michigan St Spartans favored by 29.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 30.0-point spread screams mismatch. The books are asking Quinnipiac Bobcats to hang within two possessions, which based on the profiles, requires Michigan St Spartans to play below their standard. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 29.5-point spread screams mismatch. The books are asking Quinnipiac Bobcats to hang within two possessions, which based on the profiles, requires Michigan St Spartans to play below their standard. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Quinnipiac Bobcats** bring an offensive efficiency of 105.30 (ranked #243 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.0% three-point shooting is serviceable but won't scare anyone. 

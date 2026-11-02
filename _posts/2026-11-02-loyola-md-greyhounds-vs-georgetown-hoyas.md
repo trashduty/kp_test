@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Georgetown Hoyas -25.0</p>
-  <p><strong>Moneyline:</strong> Loyola (MD) Greyhounds (N/A) | Georgetown Hoyas (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Georgetown Hoyas -23.5</p>
+  <p><strong>Moneyline:</strong> Loyola (MD) Greyhounds (+2500) | Georgetown Hoyas (-10000)</p>
+  <p><strong>Total:</strong> 150.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Loyola (MD) Greyhounds**: 25.0, Edge For Covering Spread: **0.8%**
-- **Georgetown Hoyas**: -25.0, Edge For Covering Spread: -5.6%
+- **Loyola (MD) Greyhounds**: 23.5, Edge For Covering Spread: -2.4%
+- **Georgetown Hoyas**: -23.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Loyola (MD) Greyhounds Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Georgetown Hoyas Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Loyola (MD) Greyhounds Win Probability**: 2.9%, Moneyline Edge: -1.0%
+- **Georgetown Hoyas Win Probability**: 97.1%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 151.0
 - Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -4.6%
+- Edge For Covering The Under: -3.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Georgetown Hoyas (16-18) hosts Loyola (MD) Greyhounds (12-20) at Capital One Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Georgetown Hoyas favored by 25.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Georgetown Hoyas (16-18) hosts Loyola (MD) Greyhounds (12-20) at Capital One Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Georgetown Hoyas favored by 23.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 25.0-point spread screams mismatch. The books are asking Loyola (MD) Greyhounds to hang within two possessions, which based on the profiles, requires Georgetown Hoyas to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 23.5-point spread screams mismatch. The books are asking Loyola (MD) Greyhounds to hang within two possessions, which based on the profiles, requires Georgetown Hoyas to play below their standard. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Loyola (MD) Greyhounds** bring an offensive efficiency of 106.33 (ranked #224 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.6% three-point shooting is serviceable but won't scare anyone. 

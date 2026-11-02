@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Kansas Jayhawks -22.5</p>
-  <p><strong>Moneyline:</strong> Fordham Rams (+2000) | Kansas Jayhawks (-5654)</p>
+  <p><strong>Spread:</strong> Kansas Jayhawks -23.5</p>
+  <p><strong>Moneyline:</strong> Fordham Rams (+2200) | Kansas Jayhawks (-9000)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Fordham Rams**: 22.5, Edge For Covering Spread: -3.8%
-- **Kansas Jayhawks**: -22.5, Edge For Covering Spread: -1.0%
+- **Fordham Rams**: 23.5, Edge For Covering Spread: -4.1%
+- **Kansas Jayhawks**: -23.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Fordham Rams Win Probability**: 4.3%, Moneyline Edge: -0.5%
-- **Kansas Jayhawks Win Probability**: 95.7%, Moneyline Edge: -2.6%
+- **Fordham Rams Win Probability**: 4.1%, Moneyline Edge: -0.2%
+- **Kansas Jayhawks Win Probability**: 95.9%, Moneyline Edge: -3.0%
 
 ### Total
-- **Predicted Total**: 148.5
-- Edge For Covering The Over: -1.3%
-- Edge For Covering The Under: -3.8%
+- **Predicted Total**: 146.0
+- Edge For Covering The Over: **1.4%**
+- Edge For Covering The Under: -6.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Kansas Jayhawks (24-11) hosts Fordham Rams (17-15) at Allen Fieldhouse in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Kansas Jayhawks favored by 22.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Kansas Jayhawks (24-11) hosts Fordham Rams (17-15) at Allen Fieldhouse in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Kansas Jayhawks favored by 23.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 22.5-point spread screams mismatch. The books are asking Fordham Rams to hang within two possessions, which based on the profiles, requires Kansas Jayhawks to play below their standard. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 23.5-point spread screams mismatch. The books are asking Fordham Rams to hang within two possessions, which based on the profiles, requires Kansas Jayhawks to play below their standard. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Fordham Rams** bring an offensive efficiency of 104.20 (ranked #267 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 28.9% from three, they can't rely on the arc. Expect a paint-focused attack. 

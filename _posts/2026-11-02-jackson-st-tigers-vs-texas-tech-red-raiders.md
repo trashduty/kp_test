@@ -12,8 +12,8 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Texas Tech Red Raiders -34.5</p>
-  <p><strong>Moneyline:</strong> Jackson St Tigers (N/A) | Texas Tech Red Raiders (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Moneyline:</strong> Jackson St Tigers (+7000) | Texas Tech Red Raiders (-50000)</p>
+  <p><strong>Total:</strong> 154.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Jackson St Tigers**: 34.5, Edge For Covering Spread: -0.8%
-- **Texas Tech Red Raiders**: -34.5, Edge For Covering Spread: -4.0%
+- **Jackson St Tigers**: 34.5, Edge For Covering Spread: **0.8%**
+- **Texas Tech Red Raiders**: -34.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **Jackson St Tigers Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Texas Tech Red Raiders Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Jackson St Tigers Win Probability**: 0.9%, Moneyline Edge: -0.5%
+- **Texas Tech Red Raiders Win Probability**: 99.1%, Moneyline Edge: -0.7%
 
 ### Total
-- **Predicted Total**: 156.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -4.6%
+- **Predicted Total**: 156.5
+- Edge For Covering The Over: **0.0%**
+- Edge For Covering The Under: -5.0%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Texas Tech Red Raiders (23-11) hosts Jackson St Tigers (12-21) at United Supermarkets Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Texas Tech Red Raiders favored by 34.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Texas Tech Red Raiders (23-11) hosts Jackson St Tigers (12-21) at United Supermarkets Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Texas Tech Red Raiders favored by 34.5 points, with the total sitting at 154.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 34.5-point spread screams mismatch. The books are asking Jackson St Tigers to hang within two possessions, which based on the profiles, requires Texas Tech Red Raiders to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 34.5-point spread screams mismatch. The books are asking Jackson St Tigers to hang within two possessions, which based on the profiles, requires Texas Tech Red Raiders to play below their standard. The total of 154.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Jackson St Tigers** bring an offensive efficiency of 97.97 (ranked #342 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.4% from three, they can't rely on the arc. Expect a paint-focused attack. 

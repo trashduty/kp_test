@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Kent State Golden Flashes -5.5</p>
-  <p><strong>Moneyline:</strong> Kent State Golden Flashes (-227) | Louisiana Tech Bulldogs (+187)</p>
+  <p><strong>Moneyline:</strong> Kent State Golden Flashes (-250) | Louisiana Tech Bulldogs (+200)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kent State Golden Flashes**: -5.5, Edge For Covering Spread: -4.1%
+- **Kent State Golden Flashes**: -5.5, Edge For Covering Spread: -4.5%
 - **Louisiana Tech Bulldogs**: 5.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Kent State Golden Flashes Win Probability**: 66.0%, Moneyline Edge: -3.5%
-- **Louisiana Tech Bulldogs Win Probability**: 34.0%, Moneyline Edge: -0.7%
+- **Kent State Golden Flashes Win Probability**: 66.8%, Moneyline Edge: -4.7%
+- **Louisiana Tech Bulldogs Win Probability**: 33.2%, Moneyline Edge: -0.1%
 
 ### Total
-- **Predicted Total**: 146.0
-- Edge For Covering The Over: -0.0%
-- Edge For Covering The Under: -4.7%
+- **Predicted Total**: 146.5
+- Edge For Covering The Over: -0.8%
+- Edge For Covering The Under: -4.4%
 
 ---
 

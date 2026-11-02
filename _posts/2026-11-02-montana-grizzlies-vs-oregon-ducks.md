@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Oregon Ducks -16.5</p>
-  <p><strong>Moneyline:</strong> Montana Grizzlies (+1348) | Oregon Ducks (-2808)</p>
+  <p><strong>Spread:</strong> Oregon Ducks -18.5</p>
+  <p><strong>Moneyline:</strong> Montana Grizzlies (+1098) | Oregon Ducks (-3159)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Montana Grizzlies**: 16.5, Edge For Covering Spread: -7.2%
-- **Oregon Ducks**: -16.5, Edge For Covering Spread: **2.4%**
+- **Montana Grizzlies**: 18.5, Edge For Covering Spread: -4.0%
+- **Oregon Ducks**: -18.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Montana Grizzlies Win Probability**: 5.8%, Moneyline Edge: -1.1%
-- **Oregon Ducks Win Probability**: 94.2%, Moneyline Edge: -2.4%
+- **Montana Grizzlies Win Probability**: 6.5%, Moneyline Edge: -1.9%
+- **Oregon Ducks Win Probability**: 93.5%, Moneyline Edge: -3.4%
 
 ### Total
-- **Predicted Total**: 154.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 154.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -4.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Oregon Ducks (12-20) hosts Montana Grizzlies (18-16) at Knight Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Oregon Ducks favored by 16.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Oregon Ducks (12-20) hosts Montana Grizzlies (18-16) at Knight Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Oregon Ducks favored by 18.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 16.5-point spread screams mismatch. The books are asking Montana Grizzlies to hang within two possessions, which based on the profiles, requires Oregon Ducks to play below their standard. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 18.5-point spread screams mismatch. The books are asking Montana Grizzlies to hang within two possessions, which based on the profiles, requires Oregon Ducks to play below their standard. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Montana Grizzlies** bring an offensive efficiency of 106.78 (ranked #211 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.6% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

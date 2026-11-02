@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Cincinnati Bearcats -25.5</p>
-  <p><strong>Moneyline:</strong> American Eagles (N/A) | Cincinnati Bearcats (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Cincinnati Bearcats -23.5</p>
+  <p><strong>Moneyline:</strong> American Eagles (+3000) | Cincinnati Bearcats (-10000)</p>
+  <p><strong>Total:</strong> 147.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **American Eagles**: 25.5, Edge For Covering Spread: **4.0%**
-- **Cincinnati Bearcats**: -25.5, Edge For Covering Spread: -8.8%
+- **American Eagles**: 23.5, Edge For Covering Spread: **0.8%**
+- **Cincinnati Bearcats**: -23.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **American Eagles Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Cincinnati Bearcats Win Probability**: N/A, Moneyline Edge: 0.0%
+- **American Eagles Win Probability**: 3.4%, Moneyline Edge: **0.1%**
+- **Cincinnati Bearcats Win Probability**: 96.6%, Moneyline Edge: -2.4%
 
 ### Total
-- **Predicted Total**: 149.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 151.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Cincinnati Bearcats (18-15) hosts American Eagles (16-16) at Fifth Third Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Cincinnati Bearcats favored by 25.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Cincinnati Bearcats (18-15) hosts American Eagles (16-16) at Fifth Third Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Cincinnati Bearcats favored by 23.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 25.5-point spread screams mismatch. The books are asking American Eagles to hang within two possessions, which based on the profiles, requires Cincinnati Bearcats to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 23.5-point spread screams mismatch. The books are asking American Eagles to hang within two possessions, which based on the profiles, requires Cincinnati Bearcats to play below their standard. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **American Eagles** bring an offensive efficiency of 108.21 (ranked #178 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.0% three-point shooting is serviceable but won't scare anyone. 

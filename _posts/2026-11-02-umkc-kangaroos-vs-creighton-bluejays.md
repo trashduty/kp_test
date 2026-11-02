@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Creighton Bluejays -26.5</p>
-  <p><strong>Moneyline:</strong> UMKC Kangaroos (+3000) | Creighton Bluejays (-10000)</p>
+  <p><strong>Moneyline:</strong> UMKC Kangaroos (+3734) | Creighton Bluejays (-20000)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Creighton Bluejays**: -26.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **UMKC Kangaroos Win Probability**: 2.5%, Moneyline Edge: -0.7%
-- **Creighton Bluejays Win Probability**: 97.5%, Moneyline Edge: -1.5%
+- **UMKC Kangaroos Win Probability**: 2.3%, Moneyline Edge: -0.4%
+- **Creighton Bluejays Win Probability**: 97.7%, Moneyline Edge: -1.8%
 
 ### Total
 - **Predicted Total**: 154.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Over: -2.0%
+- Edge For Covering The Under: -2.7%
 
 ---
 

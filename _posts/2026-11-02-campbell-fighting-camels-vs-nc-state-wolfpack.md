@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> NC State Wolfpack -23.5</p>
-  <p><strong>Moneyline:</strong> Campbell Fighting Camels (+2223) | NC State Wolfpack (-6741)</p>
+  <p><strong>Moneyline:</strong> Campbell Fighting Camels (+2400) | NC State Wolfpack (-10000)</p>
   <p><strong>Total:</strong> 158.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **NC State Wolfpack**: -23.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Campbell Fighting Camels Win Probability**: 4.1%, Moneyline Edge: -0.2%
-- **NC State Wolfpack Win Probability**: 95.9%, Moneyline Edge: -2.6%
+- **Campbell Fighting Camels Win Probability**: 3.9%, Moneyline Edge: -0.1%
+- **NC State Wolfpack Win Probability**: 96.1%, Moneyline Edge: -3.0%
 
 ### Total
 - **Predicted Total**: 160.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -4.6%
+- Edge For Covering The Over: -0.6%
+- Edge For Covering The Under: -4.4%
 
 ---
 

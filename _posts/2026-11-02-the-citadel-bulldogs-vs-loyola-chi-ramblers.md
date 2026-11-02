@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Loyola (Chi) Ramblers -15.5</p>
-  <p><strong>Moneyline:</strong> The Citadel Bulldogs (+960) | Loyola (Chi) Ramblers (-1684)</p>
+  <p><strong>Spread:</strong> Loyola (Chi) Ramblers -15.0</p>
+  <p><strong>Moneyline:</strong> The Citadel Bulldogs (+900) | Loyola (Chi) Ramblers (-1650)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **The Citadel Bulldogs**: 15.5, Edge For Covering Spread: -2.5%
-- **Loyola (Chi) Ramblers**: -15.5, Edge For Covering Spread: -2.1%
+- **The Citadel Bulldogs**: 15.0, Edge For Covering Spread: -4.1%
+- **Loyola (Chi) Ramblers**: -15.0, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **The Citadel Bulldogs Win Probability**: 9.0%, Moneyline Edge: -0.4%
-- **Loyola (Chi) Ramblers Win Probability**: 91.0%, Moneyline Edge: -3.4%
+- **The Citadel Bulldogs Win Probability**: 9.3%, Moneyline Edge: -0.7%
+- **Loyola (Chi) Ramblers Win Probability**: 90.7%, Moneyline Edge: -3.6%
 
 ### Total
 - **Predicted Total**: 145.0
-- Edge For Covering The Over: -0.4%
-- Edge For Covering The Under: -4.4%
+- Edge For Covering The Over: -0.1%
+- Edge For Covering The Under: -4.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Loyola (Chi) Ramblers (9-24) hosts The Citadel Bulldogs (11-22) at Gentile Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Loyola (Chi) Ramblers favored by 15.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Loyola (Chi) Ramblers (9-24) hosts The Citadel Bulldogs (11-22) at Gentile Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Loyola (Chi) Ramblers favored by 15.0 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 15.5-point spread screams mismatch. The books are asking The Citadel Bulldogs to hang within two possessions, which based on the profiles, requires Loyola (Chi) Ramblers to play below their standard. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 15.0-point spread screams mismatch. The books are asking The Citadel Bulldogs to hang within two possessions, which based on the profiles, requires Loyola (Chi) Ramblers to play below their standard. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **The Citadel Bulldogs** bring an offensive efficiency of 102.79 (ranked #293 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 32.0% from three, they can't rely on the arc. Expect a paint-focused attack. 

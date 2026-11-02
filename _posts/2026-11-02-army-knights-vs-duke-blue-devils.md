@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Duke Blue Devils -42.5</p>
-  <p><strong>Moneyline:</strong> Army Knights (N/A) | Duke Blue Devils (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Duke Blue Devils -43.5</p>
+  <p><strong>Moneyline:</strong> Army Knights (+8000) | Duke Blue Devils (-100000)</p>
+  <p><strong>Total:</strong> 150.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Army Knights**: 42.5, Edge For Covering Spread: -2.7%
-- **Duke Blue Devils**: -42.5, Edge For Covering Spread: -2.4%
+- **Army Knights**: 43.5, Edge For Covering Spread: -0.8%
+- **Duke Blue Devils**: -43.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Army Knights Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Duke Blue Devils Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Army Knights Win Probability**: 0.6%, Moneyline Edge: -0.6%
+- **Duke Blue Devils Win Probability**: 99.4%, Moneyline Edge: -0.5%
 
 ### Total
-- **Predicted Total**: 150.5
-- Edge For Covering The Over: -2.6%
-- Edge For Covering The Under: -4.1%
+- **Predicted Total**: 151.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Duke Blue Devils (35-3) hosts Army Knights (11-21) at Cameron Indoor Stadium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Duke Blue Devils favored by 42.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Duke Blue Devils (35-3) hosts Army Knights (11-21) at Cameron Indoor Stadium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Duke Blue Devils favored by 43.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 42.5-point spread screams mismatch. The books are asking Army Knights to hang within two possessions, which based on the profiles, requires Duke Blue Devils to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 43.5-point spread screams mismatch. The books are asking Army Knights to hang within two possessions, which based on the profiles, requires Duke Blue Devils to play below their standard. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Army Knights** bring an offensive efficiency of 103.08 (ranked #286 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.0% three-point shooting is serviceable but won't scare anyone. 

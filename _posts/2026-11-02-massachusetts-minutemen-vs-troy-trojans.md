@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Troy Trojans -3.0</p>
-  <p><strong>Moneyline:</strong> Massachusetts Minutemen (+130) | Troy Trojans (-155)</p>
+  <p><strong>Spread:</strong> Troy Trojans -3.5</p>
+  <p><strong>Moneyline:</strong> Massachusetts Minutemen (+135) | Troy Trojans (-159)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Massachusetts Minutemen**: 3.0, Edge For Covering Spread: -2.4%
-- **Troy Trojans**: -3.0, Edge For Covering Spread: -2.4%
+- **Massachusetts Minutemen**: 3.5, Edge For Covering Spread: -2.4%
+- **Troy Trojans**: -3.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Massachusetts Minutemen Win Probability**: 39.9%, Moneyline Edge: -3.6%
-- **Troy Trojans Win Probability**: 60.1%, Moneyline Edge: -0.7%
+- **Massachusetts Minutemen Win Probability**: 39.5%, Moneyline Edge: -3.0%
+- **Troy Trojans Win Probability**: 60.5%, Moneyline Edge: -1.0%
 
 ### Total
-- **Predicted Total**: 153.5
-- Edge For Covering The Over: -2.4%
+- **Predicted Total**: 154.5
+- Edge For Covering The Over: -2.8%
 - Edge For Covering The Under: -2.4%
 
 ---
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Troy Trojans (22-12) hosts Massachusetts Minutemen (17-16) at Trojan Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Troy Trojans favored by 3.0 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Troy Trojans (22-12) hosts Massachusetts Minutemen (17-16) at Trojan Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Troy Trojans favored by 3.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.0-point spread indicates Troy Trojans is viewed as the better team, but this isn't an overwhelming edge. Massachusetts Minutemen has a legitimate path to covering or winning outright. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.5-point spread indicates Troy Trojans is viewed as the better team, but this isn't an overwhelming edge. Massachusetts Minutemen has a legitimate path to covering or winning outright. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Massachusetts Minutemen** bring an offensive efficiency of 109.88 (ranked #136 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.2% three-point shooting is serviceable but won't scare anyone. 

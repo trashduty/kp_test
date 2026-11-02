@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> George Mason Patriots -17.0</p>
-  <p><strong>Moneyline:</strong> UMBC Retrievers (N/A) | George Mason Patriots (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> George Mason Patriots -17.5</p>
+  <p><strong>Moneyline:</strong> UMBC Retrievers (+1280) | George Mason Patriots (-3000)</p>
+  <p><strong>Total:</strong> 147.5</p>
 </div>
 
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UMBC Retrievers**: 17.0, Edge For Covering Spread: -2.4%
-- **George Mason Patriots**: -17.0, Edge For Covering Spread: -2.4%
+- **UMBC Retrievers**: 17.5, Edge For Covering Spread: -0.8%
+- **George Mason Patriots**: -17.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **UMBC Retrievers Win Probability**: N/A, Moneyline Edge: 0.0%
-- **George Mason Patriots Win Probability**: N/A, Moneyline Edge: 0.0%
+- **UMBC Retrievers Win Probability**: 8.0%, Moneyline Edge: **0.7%**
+- **George Mason Patriots Win Probability**: 92.0%, Moneyline Edge: -4.8%
 
 ### Total
 - **Predicted Total**: 147.0
-- Edge For Covering The Over: -3.1%
+- Edge For Covering The Over: -1.6%
 - Edge For Covering The Under: -3.1%
 
 ---
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-George Mason Patriots (23-10) hosts UMBC Retrievers (24-9) at EagleBank Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into George Mason Patriots favored by 17.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+George Mason Patriots (23-10) hosts UMBC Retrievers (24-9) at EagleBank Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into George Mason Patriots favored by 17.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 17.0-point spread screams mismatch. The books are asking UMBC Retrievers to hang within two possessions, which based on the profiles, requires George Mason Patriots to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 17.5-point spread screams mismatch. The books are asking UMBC Retrievers to hang within two possessions, which based on the profiles, requires George Mason Patriots to play below their standard. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **UMBC Retrievers** bring an offensive efficiency of 112.98 (ranked #86 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 36.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

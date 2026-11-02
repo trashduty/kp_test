@@ -12,8 +12,8 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Ole Miss Rebels -31.5</p>
-  <p><strong>Moneyline:</strong> Alcorn St Braves (N/A) | Ole Miss Rebels (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Moneyline:</strong> Alcorn St Braves (+5836) | Ole Miss Rebels (-66678)</p>
+  <p><strong>Total:</strong> 146.5</p>
 </div>
 
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Ole Miss Rebels**: -31.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Alcorn St Braves Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Ole Miss Rebels Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Alcorn St Braves Win Probability**: 1.3%, Moneyline Edge: -0.4%
+- **Ole Miss Rebels Win Probability**: 98.7%, Moneyline Edge: -1.2%
 
 ### Total
-- **Predicted Total**: 149.0
-- Edge For Covering The Over: -0.1%
-- Edge For Covering The Under: -4.6%
+- **Predicted Total**: 148.0
+- Edge For Covering The Over: **0.1%**
+- Edge For Covering The Under: -5.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Ole Miss Rebels (15-20) hosts Alcorn St Braves (9-23) at The Pavilion at Ole Miss in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Ole Miss Rebels favored by 31.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Ole Miss Rebels (15-20) hosts Alcorn St Braves (9-23) at The Pavilion at Ole Miss in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Ole Miss Rebels favored by 31.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 31.5-point spread screams mismatch. The books are asking Alcorn St Braves to hang within two possessions, which based on the profiles, requires Ole Miss Rebels to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 31.5-point spread screams mismatch. The books are asking Alcorn St Braves to hang within two possessions, which based on the profiles, requires Ole Miss Rebels to play below their standard. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Alcorn St Braves** bring an offensive efficiency of 96.19 (ranked #354 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.3% three-point shooting is serviceable but won't scare anyone. 

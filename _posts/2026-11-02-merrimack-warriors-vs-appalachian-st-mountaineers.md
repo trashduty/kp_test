@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Merrimack Warriors -3.5</p>
-  <p><strong>Moneyline:</strong> Merrimack Warriors (-170) | Appalachian St Mountaineers (+141)</p>
+  <p><strong>Moneyline:</strong> Merrimack Warriors (-170) | Appalachian St Mountaineers (+143)</p>
   <p><strong>Total:</strong> 134.5</p>
 </div>
 
@@ -28,11 +28,11 @@ All that being said, here's how our model prices this game.
 - **Appalachian St Mountaineers**: 3.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Merrimack Warriors Win Probability**: 63.2%, Moneyline Edge: **0.2%**
-- **Appalachian St Mountaineers Win Probability**: 36.8%, Moneyline Edge: -4.7%
+- **Merrimack Warriors Win Probability**: 63.3%, Moneyline Edge: **0.3%**
+- **Appalachian St Mountaineers Win Probability**: 36.7%, Moneyline Edge: -4.4%
 
 ### Total
-- **Predicted Total**: 136.0
+- **Predicted Total**: 135.0
 - Edge For Covering The Over: -1.6%
 - Edge For Covering The Under: -3.2%
 

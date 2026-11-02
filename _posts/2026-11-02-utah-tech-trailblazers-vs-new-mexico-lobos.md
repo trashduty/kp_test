@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> New Mexico Lobos -20.5</p>
-  <p><strong>Moneyline:</strong> Utah Tech Trailblazers (+1576) | New Mexico Lobos (-3557)</p>
+  <p><strong>Spread:</strong> New Mexico Lobos -21.5</p>
+  <p><strong>Moneyline:</strong> Utah Tech Trailblazers (+1716) | New Mexico Lobos (-6004)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Utah Tech Trailblazers**: 20.5, Edge For Covering Spread: -3.5%
-- **New Mexico Lobos**: -20.5, Edge For Covering Spread: -1.2%
+- **Utah Tech Trailblazers**: 21.5, Edge For Covering Spread: -1.2%
+- **New Mexico Lobos**: -21.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Utah Tech Trailblazers Win Probability**: 4.6%, Moneyline Edge: -1.3%
-- **New Mexico Lobos Win Probability**: 95.4%, Moneyline Edge: -1.9%
+- **Utah Tech Trailblazers Win Probability**: 4.4%, Moneyline Edge: -1.1%
+- **New Mexico Lobos Win Probability**: 95.6%, Moneyline Edge: -2.8%
 
 ### Total
-- **Predicted Total**: 156.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- **Predicted Total**: 156.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-New Mexico Lobos (26-11) hosts Utah Tech Trailblazers (19-15) at The Pit in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into New Mexico Lobos favored by 20.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+New Mexico Lobos (26-11) hosts Utah Tech Trailblazers (19-15) at The Pit in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into New Mexico Lobos favored by 21.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 20.5-point spread screams mismatch. The books are asking Utah Tech Trailblazers to hang within two possessions, which based on the profiles, requires New Mexico Lobos to play below their standard. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 21.5-point spread screams mismatch. The books are asking Utah Tech Trailblazers to hang within two possessions, which based on the profiles, requires New Mexico Lobos to play below their standard. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Utah Tech Trailblazers** bring an offensive efficiency of 106.94 (ranked #209 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.0% three-point shooting is serviceable but won't scare anyone. 

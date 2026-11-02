@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Utah State Aggies -27.5</p>
-  <p><strong>Moneyline:</strong> Idaho State Bengals (+5098) | Utah State Aggies (-50000)</p>
+  <p><strong>Spread:</strong> Utah State Aggies -26.5</p>
+  <p><strong>Moneyline:</strong> Idaho State Bengals (+3000) | Utah State Aggies (-20000)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Idaho State Bengals**: 27.5, Edge For Covering Spread: **1.0%**
-- **Utah State Aggies**: -27.5, Edge For Covering Spread: -5.7%
+- **Idaho State Bengals**: 26.5, Edge For Covering Spread: -0.8%
+- **Utah State Aggies**: -26.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Idaho State Bengals Win Probability**: 1.4%, Moneyline Edge: -0.5%
-- **Utah State Aggies Win Probability**: 98.6%, Moneyline Edge: -1.2%
+- **Idaho State Bengals Win Probability**: 2.1%, Moneyline Edge: -1.2%
+- **Utah State Aggies Win Probability**: 97.9%, Moneyline Edge: -1.6%
 
 ### Total
-- **Predicted Total**: 147.0
-- Edge For Covering The Over: -0.1%
-- Edge For Covering The Under: -4.6%
+- **Predicted Total**: 149.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Utah State Aggies (29-7) hosts Idaho State Bengals (13-20) at Dee Glen Smith Spectrum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Utah State Aggies favored by 27.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Utah State Aggies (29-7) hosts Idaho State Bengals (13-20) at Dee Glen Smith Spectrum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Utah State Aggies favored by 26.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 27.5-point spread screams mismatch. The books are asking Idaho State Bengals to hang within two possessions, which based on the profiles, requires Utah State Aggies to play below their standard. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 26.5-point spread screams mismatch. The books are asking Idaho State Bengals to hang within two possessions, which based on the profiles, requires Utah State Aggies to play below their standard. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Idaho State Bengals** bring an offensive efficiency of 109.34 (ranked #148 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.6% three-point shooting is serviceable but won't scare anyone. 

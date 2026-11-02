@@ -12,8 +12,8 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Wake Forest Demon Deacons -31.5</p>
-  <p><strong>Moneyline:</strong> Maryland-Eastern Shore Hawks (N/A) | Wake Forest Demon Deacons (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Moneyline:</strong> Maryland-Eastern Shore Hawks (+5000) | Wake Forest Demon Deacons (-20000)</p>
+  <p><strong>Total:</strong> 141.5</p>
 </div>
 
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Wake Forest Demon Deacons**: -31.5, Edge For Covering Spread: -5.7%
 
 ### Moneyline
-- **Maryland-Eastern Shore Hawks Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Wake Forest Demon Deacons Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Maryland-Eastern Shore Hawks Win Probability**: 1.5%, Moneyline Edge: -0.5%
+- **Wake Forest Demon Deacons Win Probability**: 98.5%, Moneyline Edge: -1.0%
 
 ### Total
-- **Predicted Total**: 142.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 144.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Wake Forest Demon Deacons (18-17) hosts Maryland-Eastern Shore Hawks (9-23) at Joel Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Wake Forest Demon Deacons favored by 31.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Wake Forest Demon Deacons (18-17) hosts Maryland-Eastern Shore Hawks (9-23) at Joel Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Wake Forest Demon Deacons favored by 31.5 points, with the total sitting at 141.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 31.5-point spread screams mismatch. The books are asking Maryland-Eastern Shore Hawks to hang within two possessions, which based on the profiles, requires Wake Forest Demon Deacons to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 31.5-point spread screams mismatch. The books are asking Maryland-Eastern Shore Hawks to hang within two possessions, which based on the profiles, requires Wake Forest Demon Deacons to play below their standard. The total of 141.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Maryland-Eastern Shore Hawks** bring an offensive efficiency of 95.22 (ranked #356 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.0% from three, they can't rely on the arc. Expect a paint-focused attack. 

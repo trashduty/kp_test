@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Gonzaga Bulldogs -5.5</p>
-  <p><strong>Moneyline:</strong> Purdue Boilermakers (+198) | Gonzaga Bulldogs (-240)</p>
+  <p><strong>Spread:</strong> Gonzaga Bulldogs -5.0</p>
+  <p><strong>Moneyline:</strong> Purdue Boilermakers (+185) | Gonzaga Bulldogs (-225)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Purdue Boilermakers**: 5.5, Edge For Covering Spread: **0.8%**
-- **Gonzaga Bulldogs**: -5.5, Edge For Covering Spread: -5.6%
+- **Purdue Boilermakers**: 5.0, Edge For Covering Spread: **0.8%**
+- **Gonzaga Bulldogs**: -5.0, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **Purdue Boilermakers Win Probability**: 33.6%, Moneyline Edge: **0.1%**
-- **Gonzaga Bulldogs Win Probability**: 66.4%, Moneyline Edge: -4.2%
+- **Purdue Boilermakers Win Probability**: 34.3%, Moneyline Edge: -0.8%
+- **Gonzaga Bulldogs Win Probability**: 65.7%, Moneyline Edge: -3.5%
 
 ### Total
-- **Predicted Total**: 155.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 154.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Purdue Boilermakers (30-9) travels to face Gonzaga Bulldogs (31-4) at McCarthey Athletic Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Gonzaga Bulldogs favored by 5.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Purdue Boilermakers (30-9) travels to face Gonzaga Bulldogs (31-4) at McCarthey Athletic Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Gonzaga Bulldogs favored by 5.0 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Gonzaga Bulldogs is viewed as the better team, but this isn't an overwhelming edge. Purdue Boilermakers has a legitimate path to covering or winning outright. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 5.0-point spread indicates Gonzaga Bulldogs is viewed as the better team, but this isn't an overwhelming edge. Purdue Boilermakers has a legitimate path to covering or winning outright. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Purdue Boilermakers** bring an offensive efficiency of 124.79 (ranked #2 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 38.3% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

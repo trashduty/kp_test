@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Marshall Thundering Herd -1.5</p>
-  <p><strong>Moneyline:</strong> Buffalo Bulls (+102) | Marshall Thundering Herd (-122)</p>
+  <p><strong>Moneyline:</strong> Buffalo Bulls (+104) | Marshall Thundering Herd (-125)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -28,12 +28,12 @@ All that being said, here's how our model prices this game.
 - **Marshall Thundering Herd**: -1.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Buffalo Bulls Win Probability**: 47.1%, Moneyline Edge: -2.2%
-- **Marshall Thundering Herd Win Probability**: 52.9%, Moneyline Edge: -2.2%
+- **Buffalo Bulls Win Probability**: 46.9%, Moneyline Edge: -2.0%
+- **Marshall Thundering Herd Win Probability**: 53.1%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 157.5
-- Edge For Covering The Over: -0.7%
+- Edge For Covering The Over: -2.4%
 - Edge For Covering The Under: -4.1%
 
 ---

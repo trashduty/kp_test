@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Tulane Green Wave -9.5</p>
-  <p><strong>Moneyline:</strong> Tenn-Martin Skyhawks (+315) | Tulane Green Wave (-405)</p>
+  <p><strong>Spread:</strong> Tulane Green Wave -7.5</p>
+  <p><strong>Moneyline:</strong> Tenn-Martin Skyhawks (+250) | Tulane Green Wave (-310)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tenn-Martin Skyhawks**: 9.5, Edge For Covering Spread: -5.2%
-- **Tulane Green Wave**: -9.5, Edge For Covering Spread: **0.5%**
+- **Tenn-Martin Skyhawks**: 7.5, Edge For Covering Spread: -7.2%
+- **Tulane Green Wave**: -7.5, Edge For Covering Spread: **1.9%**
 
 ### Moneyline
-- **Tenn-Martin Skyhawks Win Probability**: 19.1%, Moneyline Edge: -5.0%
-- **Tulane Green Wave Win Probability**: 80.9%, Moneyline Edge: **0.8%**
+- **Tenn-Martin Skyhawks Win Probability**: 21.2%, Moneyline Edge: -7.4%
+- **Tulane Green Wave Win Probability**: 78.8%, Moneyline Edge: **3.2%**
 
 ### Total
 - **Predicted Total**: 145.5
-- Edge For Covering The Over: -2.4%
+- Edge For Covering The Over: -0.8%
 - Edge For Covering The Under: -3.9%
 
 ---
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Tenn-Martin Skyhawks (22-11) travels to face Tulane Green Wave (18-15) at Fogelman Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Tulane Green Wave favored by 9.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Tenn-Martin Skyhawks (22-11) travels to face Tulane Green Wave (18-15) at Fogelman Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Tulane Green Wave favored by 7.5 points, with the total sitting at 144.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.5 points tells us Tulane Green Wave has clear advantages, but games aren't played on paper. Tenn-Martin Skyhawks needs to punch above their weight class to keep this close. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 7.5 points tells us Tulane Green Wave has clear advantages, but games aren't played on paper. Tenn-Martin Skyhawks needs to punch above their weight class to keep this close. The total of 144.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Tenn-Martin Skyhawks** bring an offensive efficiency of 102.62 (ranked #297 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.3% from three, they can't rely on the arc. Expect a paint-focused attack. 

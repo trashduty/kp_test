@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Georgia Bulldogs -36.0</p>
-  <p><strong>Moneyline:</strong> North Carolina Central Eagles (N/A) | Georgia Bulldogs (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Georgia Bulldogs -37.5</p>
+  <p><strong>Moneyline:</strong> North Carolina Central Eagles (+15000) | Georgia Bulldogs (-100000)</p>
+  <p><strong>Total:</strong> 157.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **North Carolina Central Eagles**: 36.0, Edge For Covering Spread: -2.4%
-- **Georgia Bulldogs**: -36.0, Edge For Covering Spread: -2.4%
+- **North Carolina Central Eagles**: 37.5, Edge For Covering Spread: -1.9%
+- **Georgia Bulldogs**: -37.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **North Carolina Central Eagles Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Georgia Bulldogs Win Probability**: N/A, Moneyline Edge: 0.0%
+- **North Carolina Central Eagles Win Probability**: 0.5%, Moneyline Edge: -0.2%
+- **Georgia Bulldogs Win Probability**: 99.5%, Moneyline Edge: -0.4%
 
 ### Total
-- **Predicted Total**: 157.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 160.0
+- Edge For Covering The Over: -3.1%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Georgia Bulldogs (22-11) hosts North Carolina Central Eagles (14-18) at Stegeman Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Georgia Bulldogs favored by 36.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Georgia Bulldogs (22-11) hosts North Carolina Central Eagles (14-18) at Stegeman Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Georgia Bulldogs favored by 37.5 points, with the total sitting at 157.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 36.0-point spread screams mismatch. The books are asking North Carolina Central Eagles to hang within two possessions, which based on the profiles, requires Georgia Bulldogs to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 37.5-point spread screams mismatch. The books are asking North Carolina Central Eagles to hang within two possessions, which based on the profiles, requires Georgia Bulldogs to play below their standard. The total of 157.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **North Carolina Central Eagles** bring an offensive efficiency of 101.31 (ranked #312 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.6% three-point shooting is serviceable but won't scare anyone. 

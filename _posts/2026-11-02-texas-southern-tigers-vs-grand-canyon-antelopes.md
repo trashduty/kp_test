@@ -12,8 +12,8 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Grand Canyon Antelopes -28.5</p>
-  <p><strong>Moneyline:</strong> Texas Southern Tigers (N/A) | Grand Canyon Antelopes (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Moneyline:</strong> Texas Southern Tigers (+3500) | Grand Canyon Antelopes (-50000)</p>
+  <p><strong>Total:</strong> 147.5</p>
 </div>
 
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Grand Canyon Antelopes**: -28.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Texas Southern Tigers Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Grand Canyon Antelopes Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Texas Southern Tigers Win Probability**: 1.9%, Moneyline Edge: -0.9%
+- **Grand Canyon Antelopes Win Probability**: 98.1%, Moneyline Edge: -1.7%
 
 ### Total
-- **Predicted Total**: 150.0
-- Edge For Covering The Over: -0.1%
-- Edge For Covering The Under: -4.6%
+- **Predicted Total**: 149.0
+- Edge For Covering The Over: **1.4%**
+- Edge For Covering The Under: -6.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Grand Canyon Antelopes (20-12) hosts Texas Southern Tigers (12-18) at Global Credit Union Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Grand Canyon Antelopes favored by 28.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Grand Canyon Antelopes (20-12) hosts Texas Southern Tigers (12-18) at Global Credit Union Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Grand Canyon Antelopes favored by 28.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 28.5-point spread screams mismatch. The books are asking Texas Southern Tigers to hang within two possessions, which based on the profiles, requires Grand Canyon Antelopes to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 28.5-point spread screams mismatch. The books are asking Texas Southern Tigers to hang within two possessions, which based on the profiles, requires Grand Canyon Antelopes to play below their standard. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Texas Southern Tigers** bring an offensive efficiency of 102.95 (ranked #289 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.1% three-point shooting is serviceable but won't scare anyone. 

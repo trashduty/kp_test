@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Ohio Bobcats -1.0</p>
-  <p><strong>Moneyline:</strong> Ohio Bobcats (-112) | South Alabama Jaguars (-107)</p>
+  <p><strong>Spread:</strong> South Alabama Jaguars -1.0</p>
+  <p><strong>Moneyline:</strong> Ohio Bobcats (-100) | South Alabama Jaguars (-120)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ohio Bobcats**: -1.0, Edge For Covering Spread: **0.4%**
-- **South Alabama Jaguars**: 1.0, Edge For Covering Spread: -5.1%
+- **Ohio Bobcats**: 1.0, Edge For Covering Spread: **1.5%**
+- **South Alabama Jaguars**: -1.0, Edge For Covering Spread: -6.6%
 
 ### Moneyline
-- **Ohio Bobcats Win Probability**: 55.8%, Moneyline Edge: **2.8%**
-- **South Alabama Jaguars Win Probability**: 44.2%, Moneyline Edge: -7.6%
+- **Ohio Bobcats Win Probability**: 54.4%, Moneyline Edge: **4.4%**
+- **South Alabama Jaguars Win Probability**: 45.6%, Moneyline Edge: -9.0%
 
 ### Total
-- **Predicted Total**: 152.5
-- Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.1%
+- **Predicted Total**: 153.5
+- Edge For Covering The Over: -1.9%
+- Edge For Covering The Under: -4.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-South Alabama Jaguars (21-12) hosts Ohio Bobcats (15-17) at Mitchell Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Ohio Bobcats favored by 1.0 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+South Alabama Jaguars (21-12) hosts Ohio Bobcats (15-17) at Mitchell Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into South Alabama Jaguars favored by 1.0 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Ohio Bobcats's 1.0-point cushion reflects home court advantage more than a talent gap. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. South Alabama Jaguars's 1.0-point cushion reflects home court advantage more than a talent gap. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Ohio Bobcats** bring an offensive efficiency of 108.01 (ranked #183 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.1% from three, they can't rely on the arc. Expect a paint-focused attack. 

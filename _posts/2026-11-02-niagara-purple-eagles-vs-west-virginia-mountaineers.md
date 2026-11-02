@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> West Virginia Mountaineers -28.5</p>
-  <p><strong>Moneyline:</strong> Niagara Purple Eagles (+6159) | West Virginia Mountaineers (-66678)</p>
+  <p><strong>Moneyline:</strong> Niagara Purple Eagles (+5238) | West Virginia Mountaineers (-50000)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **West Virginia Mountaineers**: -28.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Niagara Purple Eagles Win Probability**: 1.3%, Moneyline Edge: -0.3%
-- **West Virginia Mountaineers Win Probability**: 98.7%, Moneyline Edge: -1.1%
+- **Niagara Purple Eagles Win Probability**: 1.4%, Moneyline Edge: -0.5%
+- **West Virginia Mountaineers Win Probability**: 98.6%, Moneyline Edge: -1.2%
 
 ### Total
-- **Predicted Total**: 139.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: -3.3%
+- Edge For Covering The Under: -2.2%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> St. John's Red Storm -27.5</p>
-  <p><strong>Moneyline:</strong> Monmouth Hawks (+4121) | St. John's Red Storm (-20000)</p>
+  <p><strong>Moneyline:</strong> Monmouth Hawks (+4634) | St. John's Red Storm (-50000)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Monmouth Hawks**: 27.5, Edge For Covering Spread: -0.3%
-- **St. John's Red Storm**: -27.5, Edge For Covering Spread: -4.4%
+- **Monmouth Hawks**: 27.5, Edge For Covering Spread: **0.8%**
+- **St. John's Red Storm**: -27.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **Monmouth Hawks Win Probability**: 2.2%, Moneyline Edge: -0.2%
-- **St. John's Red Storm Win Probability**: 97.8%, Moneyline Edge: -1.7%
+- **Monmouth Hawks Win Probability**: 2.0%, Moneyline Edge: -0.1%
+- **St. John's Red Storm Win Probability**: 98.0%, Moneyline Edge: -1.8%
 
 ### Total
-- **Predicted Total**: 153.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 154.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -4.6%
 
 ---
 

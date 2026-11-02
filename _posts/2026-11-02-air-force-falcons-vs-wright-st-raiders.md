@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Wright St Raiders -10.0</p>
-  <p><strong>Moneyline:</strong> Air Force Falcons (+370) | Wright St Raiders (-492)</p>
+  <p><strong>Spread:</strong> Wright St Raiders -10.5</p>
+  <p><strong>Moneyline:</strong> Air Force Falcons (+437) | Wright St Raiders (-615)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Air Force Falcons**: 10.0, Edge For Covering Spread: -2.4%
-- **Wright St Raiders**: -10.0, Edge For Covering Spread: -2.4%
+- **Air Force Falcons**: 10.5, Edge For Covering Spread: -0.8%
+- **Wright St Raiders**: -10.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Air Force Falcons Win Probability**: 18.7%, Moneyline Edge: -2.6%
-- **Wright St Raiders Win Probability**: 81.3%, Moneyline Edge: -1.8%
+- **Air Force Falcons Win Probability**: 17.4%, Moneyline Edge: -1.2%
+- **Wright St Raiders Win Probability**: 82.6%, Moneyline Edge: -3.4%
 
 ### Total
-- **Predicted Total**: 155.0
-- Edge For Covering The Over: -6.3%
-- Edge For Covering The Under: **1.5%**
+- **Predicted Total**: 157.0
+- Edge For Covering The Over: -7.6%
+- Edge For Covering The Under: **2.0%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Wright St Raiders (23-12) hosts Air Force Falcons (3-29) at Nutter Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Wright St Raiders favored by 10.0 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Wright St Raiders (23-12) hosts Air Force Falcons (3-29) at Nutter Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Wright St Raiders favored by 10.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.0 points tells us Wright St Raiders has clear advantages, but games aren't played on paper. Air Force Falcons needs to punch above their weight class to keep this close. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 10.5 points tells us Wright St Raiders has clear advantages, but games aren't played on paper. Air Force Falcons needs to punch above their weight class to keep this close. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Air Force Falcons** bring an offensive efficiency of 91.30 (ranked #363 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.6% from three, they can't rely on the arc. Expect a paint-focused attack. 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Utah Utes -20.5</p>
-  <p><strong>Moneyline:</strong> Long Beach St 49ers (+1576) | Utah Utes (-3557)</p>
+  <p><strong>Spread:</strong> Utah Utes -19.5</p>
+  <p><strong>Moneyline:</strong> Long Beach St 49ers (+1649) | Utah Utes (-4500)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Long Beach St 49ers**: 20.5, Edge For Covering Spread: **0.8%**
-- **Utah Utes**: -20.5, Edge For Covering Spread: -5.6%
+- **Long Beach St 49ers**: 19.5, Edge For Covering Spread: **1.4%**
+- **Utah Utes**: -19.5, Edge For Covering Spread: -6.6%
 
 ### Moneyline
-- **Long Beach St 49ers Win Probability**: 5.4%, Moneyline Edge: -0.6%
-- **Utah Utes Win Probability**: 94.6%, Moneyline Edge: -2.7%
+- **Long Beach St 49ers Win Probability**: 5.3%, Moneyline Edge: -0.4%
+- **Utah Utes Win Probability**: 94.7%, Moneyline Edge: -3.2%
 
 ### Total
 - **Predicted Total**: 151.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Utah Utes (10-22) hosts Long Beach St 49ers (10-22) at Huntsman Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Utah Utes favored by 20.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Utah Utes (10-22) hosts Long Beach St 49ers (10-22) at Huntsman Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Utah Utes favored by 19.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 20.5-point spread screams mismatch. The books are asking Long Beach St 49ers to hang within two possessions, which based on the profiles, requires Utah Utes to play below their standard. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 19.5-point spread screams mismatch. The books are asking Long Beach St 49ers to hang within two possessions, which based on the profiles, requires Utah Utes to play below their standard. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Long Beach St 49ers** bring an offensive efficiency of 102.17 (ranked #303 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.7% three-point shooting is serviceable but won't scare anyone. 

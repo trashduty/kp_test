@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Washington Huskies -14.5</p>
-  <p><strong>Moneyline:</strong> Colgate Raiders (N/A) | Washington Huskies (N/A)</p>
+  <p><strong>Moneyline:</strong> Colgate Raiders (+860) | Washington Huskies (-1600)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Washington Huskies**: -14.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Colgate Raiders Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Washington Huskies Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Colgate Raiders Win Probability**: 9.5%, Moneyline Edge: -0.9%
+- **Washington Huskies Win Probability**: 90.5%, Moneyline Edge: -3.6%
 
 ### Total
-- **Predicted Total**: 153.0
+- **Predicted Total**: 154.0
 - Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -4.6%
+- Edge For Covering The Under: -3.1%
 
 ---
 

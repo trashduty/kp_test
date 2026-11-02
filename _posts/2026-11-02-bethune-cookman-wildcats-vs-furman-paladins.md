@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Furman Paladins -4.0</p>
-  <p><strong>Moneyline:</strong> Bethune-Cookman Wildcats (N/A) | Furman Paladins (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Furman Paladins -4.5</p>
+  <p><strong>Moneyline:</strong> Bethune-Cookman Wildcats (+164) | Furman Paladins (-198)</p>
+  <p><strong>Total:</strong> 150.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bethune-Cookman Wildcats**: 4.0, Edge For Covering Spread: -2.4%
-- **Furman Paladins**: -4.0, Edge For Covering Spread: -2.4%
+- **Bethune-Cookman Wildcats**: 4.5, Edge For Covering Spread: -2.4%
+- **Furman Paladins**: -4.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Bethune-Cookman Wildcats Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Furman Paladins Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Bethune-Cookman Wildcats Win Probability**: 34.3%, Moneyline Edge: -3.6%
+- **Furman Paladins Win Probability**: 65.7%, Moneyline Edge: -0.7%
 
 ### Total
-- **Predicted Total**: 151.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 150.0
+- Edge For Covering The Over: -0.0%
+- Edge For Covering The Under: -4.7%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Furman Paladins (22-13) hosts Bethune-Cookman Wildcats (17-15) at Timmons Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Furman Paladins favored by 4.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Furman Paladins (22-13) hosts Bethune-Cookman Wildcats (17-15) at Timmons Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Furman Paladins favored by 4.5 points, with the total sitting at 150.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.0-point spread indicates Furman Paladins is viewed as the better team, but this isn't an overwhelming edge. Bethune-Cookman Wildcats has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 4.5-point spread indicates Furman Paladins is viewed as the better team, but this isn't an overwhelming edge. Bethune-Cookman Wildcats has a legitimate path to covering or winning outright. The total of 150.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Bethune-Cookman Wildcats** bring an offensive efficiency of 103.94 (ranked #273 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.1% three-point shooting is serviceable but won't scare anyone. 

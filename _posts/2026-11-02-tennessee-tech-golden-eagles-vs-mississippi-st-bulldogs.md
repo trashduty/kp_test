@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Mississippi St Bulldogs -18.5</p>
-  <p><strong>Moneyline:</strong> Tennessee Tech Golden Eagles (+1148) | Mississippi St Bulldogs (-2149)</p>
+  <p><strong>Moneyline:</strong> Tennessee Tech Golden Eagles (+1348) | Mississippi St Bulldogs (-3297)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tennessee Tech Golden Eagles**: 18.5, Edge For Covering Spread: -4.0%
+- **Tennessee Tech Golden Eagles**: 18.5, Edge For Covering Spread: -4.7%
 - **Mississippi St Bulldogs**: -18.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Tennessee Tech Golden Eagles Win Probability**: 7.4%, Moneyline Edge: -0.6%
-- **Mississippi St Bulldogs Win Probability**: 92.6%, Moneyline Edge: -2.9%
+- **Tennessee Tech Golden Eagles Win Probability**: 6.8%, Moneyline Edge: -0.1%
+- **Mississippi St Bulldogs Win Probability**: 93.2%, Moneyline Edge: -3.9%
 
 ### Total
-- **Predicted Total**: 158.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- **Predicted Total**: 158.5
+- Edge For Covering The Over: -0.9%
+- Edge For Covering The Under: -5.0%
 
 ---
 

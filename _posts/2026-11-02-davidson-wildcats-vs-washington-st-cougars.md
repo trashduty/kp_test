@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Washington St Cougars -3.0</p>
-  <p><strong>Moneyline:</strong> Davidson Wildcats (+130) | Washington St Cougars (-155)</p>
+  <p><strong>Spread:</strong> Washington St Cougars -2.5</p>
+  <p><strong>Moneyline:</strong> Davidson Wildcats (+124) | Washington St Cougars (-146)</p>
   <p><strong>Total:</strong> 149.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Davidson Wildcats**: 3.0, Edge For Covering Spread: -0.8%
-- **Washington St Cougars**: -3.0, Edge For Covering Spread: -4.0%
+- **Davidson Wildcats**: 2.5, Edge For Covering Spread: **0.4%**
+- **Washington St Cougars**: -2.5, Edge For Covering Spread: -5.1%
 
 ### Moneyline
-- **Davidson Wildcats Win Probability**: 45.1%, Moneyline Edge: **1.6%**
-- **Washington St Cougars Win Probability**: 54.9%, Moneyline Edge: -5.9%
+- **Davidson Wildcats Win Probability**: 45.7%, Moneyline Edge: **1.1%**
+- **Washington St Cougars Win Probability**: 54.3%, Moneyline Edge: -5.1%
 
 ### Total
 - **Predicted Total**: 150.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- Edge For Covering The Over: -0.4%
+- Edge For Covering The Under: -4.3%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Davidson Wildcats (20-14) travels to face Washington St Cougars (12-20) at Beasley Coliseum in what shapes up to be a competitive matchup. The early betting action has shaped into Washington St Cougars favored by 3.0 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Davidson Wildcats (20-14) travels to face Washington St Cougars (12-20) at Beasley Coliseum in what shapes up to be a competitive matchup. The early betting action has shaped into Washington St Cougars favored by 2.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.0-point spread indicates Washington St Cougars is viewed as the better team, but this isn't an overwhelming edge. Davidson Wildcats has a legitimate path to covering or winning outright. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Washington St Cougars's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Davidson Wildcats** bring an offensive efficiency of 107.58 (ranked #194 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.4% three-point shooting is serviceable but won't scare anyone. 

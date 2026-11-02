@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Hawai'i Rainbow Warriors -2.0</p>
-  <p><strong>Moneyline:</strong> Seattle Redhawks (+110) | Hawai'i Rainbow Warriors (-130)</p>
+  <p><strong>Spread:</strong> Hawai'i Rainbow Warriors -1.5</p>
+  <p><strong>Moneyline:</strong> Seattle Redhawks (+105) | Hawai'i Rainbow Warriors (-125)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Seattle Redhawks**: 2.0, Edge For Covering Spread: -0.8%
-- **Hawai'i Rainbow Warriors**: -2.0, Edge For Covering Spread: -4.0%
+- **Seattle Redhawks**: 1.5, Edge For Covering Spread: -0.7%
+- **Hawai'i Rainbow Warriors**: -1.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Seattle Redhawks Win Probability**: 44.9%, Moneyline Edge: -2.8%
-- **Hawai'i Rainbow Warriors Win Probability**: 55.1%, Moneyline Edge: -1.4%
+- **Seattle Redhawks Win Probability**: 45.4%, Moneyline Edge: -3.4%
+- **Hawai'i Rainbow Warriors Win Probability**: 54.6%, Moneyline Edge: -0.9%
 
 ### Total
-- **Predicted Total**: 148.0
-- Edge For Covering The Over: **0.2%**
-- Edge For Covering The Under: -4.9%
+- **Predicted Total**: 146.5
+- Edge For Covering The Over: **0.5%**
+- Edge For Covering The Under: -5.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Seattle Redhawks (21-14) travels to face Hawai'i Rainbow Warriors (24-9) at Stan Sheriff Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Hawai'i Rainbow Warriors favored by 2.0 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Seattle Redhawks (21-14) travels to face Hawai'i Rainbow Warriors (24-9) at Stan Sheriff Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Hawai'i Rainbow Warriors favored by 1.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Hawai'i Rainbow Warriors's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Hawai'i Rainbow Warriors's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Seattle Redhawks** bring an offensive efficiency of 101.52 (ranked #310 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.7% three-point shooting is serviceable but won't scare anyone. 

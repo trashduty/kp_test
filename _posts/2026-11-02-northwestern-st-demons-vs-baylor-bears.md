@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Baylor Bears -30.5</p>
-  <p><strong>Moneyline:</strong> Northwestern St Demons (N/A) | Baylor Bears (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Baylor Bears -31.5</p>
+  <p><strong>Moneyline:</strong> Northwestern St Demons (+6500) | Baylor Bears (-100000)</p>
+  <p><strong>Total:</strong> 148.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northwestern St Demons**: 30.5, Edge For Covering Spread: **2.4%**
-- **Baylor Bears**: -30.5, Edge For Covering Spread: -7.2%
+- **Northwestern St Demons**: 31.5, Edge For Covering Spread: **4.0%**
+- **Baylor Bears**: -31.5, Edge For Covering Spread: -8.8%
 
 ### Moneyline
-- **Northwestern St Demons Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Baylor Bears Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Northwestern St Demons Win Probability**: 1.2%, Moneyline Edge: -0.3%
+- **Baylor Bears Win Probability**: 98.8%, Moneyline Edge: -1.1%
 
 ### Total
-- **Predicted Total**: 149.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- **Predicted Total**: 149.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Baylor Bears (17-17) hosts Northwestern St Demons (10-22) at Foster Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Baylor Bears favored by 30.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Baylor Bears (17-17) hosts Northwestern St Demons (10-22) at Foster Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Baylor Bears favored by 31.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 30.5-point spread screams mismatch. The books are asking Northwestern St Demons to hang within two possessions, which based on the profiles, requires Baylor Bears to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 31.5-point spread screams mismatch. The books are asking Northwestern St Demons to hang within two possessions, which based on the profiles, requires Baylor Bears to play below their standard. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Northwestern St Demons** bring an offensive efficiency of 101.09 (ranked #315 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.2% three-point shooting is serviceable but won't scare anyone. 

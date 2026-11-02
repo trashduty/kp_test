@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Iowa State Cyclones -13.5</p>
-  <p><strong>Moneyline:</strong> Memphis Tigers (+675) | Iowa State Cyclones (-1100)</p>
+  <p><strong>Spread:</strong> Iowa State Cyclones -14.5</p>
+  <p><strong>Moneyline:</strong> Memphis Tigers (+816) | Iowa State Cyclones (-1494)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Memphis Tigers**: 13.5, Edge For Covering Spread: -5.1%
-- **Iowa State Cyclones**: -13.5, Edge For Covering Spread: **0.4%**
+- **Memphis Tigers**: 14.5, Edge For Covering Spread: -2.4%
+- **Iowa State Cyclones**: -14.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Memphis Tigers Win Probability**: 11.7%, Moneyline Edge: -1.2%
-- **Iowa State Cyclones Win Probability**: 88.3%, Moneyline Edge: -3.3%
+- **Memphis Tigers Win Probability**: 10.7%, Moneyline Edge: -0.2%
+- **Iowa State Cyclones Win Probability**: 89.3%, Moneyline Edge: -4.4%
 
 ### Total
 - **Predicted Total**: 156.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Iowa State Cyclones (29-8) hosts Memphis Tigers (13-19) at Hilton Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Iowa State Cyclones favored by 13.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Iowa State Cyclones (29-8) hosts Memphis Tigers (13-19) at Hilton Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Iowa State Cyclones favored by 14.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 13.5-point spread screams mismatch. The books are asking Memphis Tigers to hang within two possessions, which based on the profiles, requires Iowa State Cyclones to play below their standard. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 14.5-point spread screams mismatch. The books are asking Memphis Tigers to hang within two possessions, which based on the profiles, requires Iowa State Cyclones to play below their standard. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Memphis Tigers** bring an offensive efficiency of 104.48 (ranked #262 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.6% from three, they can't rely on the arc. Expect a paint-focused attack. 

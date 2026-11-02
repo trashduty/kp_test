@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Vanderbilt Commodores -32.0</p>
-  <p><strong>Moneyline:</strong> Bellarmine Knights (N/A) | Vanderbilt Commodores (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Vanderbilt Commodores -32.5</p>
+  <p><strong>Moneyline:</strong> Bellarmine Knights (+8000) | Vanderbilt Commodores (-50000)</p>
+  <p><strong>Total:</strong> 157.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bellarmine Knights**: 32.0, Edge For Covering Spread: -0.8%
-- **Vanderbilt Commodores**: -32.0, Edge For Covering Spread: -4.0%
+- **Bellarmine Knights**: 32.5, Edge For Covering Spread: **0.8%**
+- **Vanderbilt Commodores**: -32.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **Bellarmine Knights Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Vanderbilt Commodores Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Bellarmine Knights Win Probability**: 1.0%, Moneyline Edge: -0.2%
+- **Vanderbilt Commodores Win Probability**: 99.0%, Moneyline Edge: -0.8%
 
 ### Total
-- **Predicted Total**: 157.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 158.5
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Vanderbilt Commodores (27-9) hosts Bellarmine Knights (13-19) at Memorial Gym in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Vanderbilt Commodores favored by 32.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Vanderbilt Commodores (27-9) hosts Bellarmine Knights (13-19) at Memorial Gym in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Vanderbilt Commodores favored by 32.5 points, with the total sitting at 157.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 32.0-point spread screams mismatch. The books are asking Bellarmine Knights to hang within two possessions, which based on the profiles, requires Vanderbilt Commodores to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 32.5-point spread screams mismatch. The books are asking Bellarmine Knights to hang within two possessions, which based on the profiles, requires Vanderbilt Commodores to play below their standard. The total of 157.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Bellarmine Knights** bring an offensive efficiency of 118.46 (ranked #29 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 38.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Central Michigan Chippewas -2.5</p>
-  <p><strong>Moneyline:</strong> Central Michigan Chippewas (-146) | UL Monroe Warhawks (+122)</p>
+  <p><strong>Moneyline:</strong> Central Michigan Chippewas (-152) | UL Monroe Warhawks (+123)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Central Michigan Chippewas**: -2.5, Edge For Covering Spread: -0.3%
-- **UL Monroe Warhawks**: 2.5, Edge For Covering Spread: -4.4%
+- **Central Michigan Chippewas**: -2.5, Edge For Covering Spread: -0.8%
+- **UL Monroe Warhawks**: 2.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Central Michigan Chippewas Win Probability**: 59.4%, Moneyline Edge: **0.0%**
-- **UL Monroe Warhawks Win Probability**: 40.6%, Moneyline Edge: -4.5%
+- **Central Michigan Chippewas Win Probability**: 59.7%, Moneyline Edge: -0.7%
+- **UL Monroe Warhawks Win Probability**: 40.3%, Moneyline Edge: -4.5%
 
 ### Total
 - **Predicted Total**: 153.5

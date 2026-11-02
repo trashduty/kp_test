@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Yale Bulldogs -5.0</p>
-  <p><strong>Moneyline:</strong> Howard Bison (N/A) | Yale Bulldogs (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Yale Bulldogs -6.5</p>
+  <p><strong>Moneyline:</strong> Howard Bison (+215) | Yale Bulldogs (-265)</p>
+  <p><strong>Total:</strong> 151.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Howard Bison**: 5.0, Edge For Covering Spread: -2.4%
-- **Yale Bulldogs**: -5.0, Edge For Covering Spread: -2.4%
+- **Howard Bison**: 6.5, Edge For Covering Spread: -1.3%
+- **Yale Bulldogs**: -6.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Howard Bison Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Yale Bulldogs Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Howard Bison Win Probability**: 33.9%, Moneyline Edge: **2.2%**
+- **Yale Bulldogs Win Probability**: 66.1%, Moneyline Edge: -6.5%
 
 ### Total
-- **Predicted Total**: 152.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 153.0
+- Edge For Covering The Over: -1.8%
+- Edge For Covering The Under: -3.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Yale Bulldogs (24-7) hosts Howard Bison (24-11) at Lee Amphitheater in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Yale Bulldogs favored by 5.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Yale Bulldogs (24-7) hosts Howard Bison (24-11) at Lee Amphitheater in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Yale Bulldogs favored by 6.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.0-point spread indicates Yale Bulldogs is viewed as the better team, but this isn't an overwhelming edge. Howard Bison has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 6.5-point spread indicates Yale Bulldogs is viewed as the better team, but this isn't an overwhelming edge. Howard Bison has a legitimate path to covering or winning outright. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Howard Bison** bring an offensive efficiency of 108.80 (ranked #167 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.8% three-point shooting is serviceable but won't scare anyone. 

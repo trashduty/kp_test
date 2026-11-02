@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Maryland Terrapins -32.0</p>
-  <p><strong>Moneyline:</strong> Bucknell Bison (N/A) | Maryland Terrapins (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Maryland Terrapins -31.5</p>
+  <p><strong>Moneyline:</strong> Bucknell Bison (+8000) | Maryland Terrapins (-50000)</p>
+  <p><strong>Total:</strong> 147.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bucknell Bison**: 32.0, Edge For Covering Spread: **2.4%**
-- **Maryland Terrapins**: -32.0, Edge For Covering Spread: -7.2%
+- **Bucknell Bison**: 31.5, Edge For Covering Spread: **2.4%**
+- **Maryland Terrapins**: -31.5, Edge For Covering Spread: -7.2%
 
 ### Moneyline
-- **Bucknell Bison Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Maryland Terrapins Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Bucknell Bison Win Probability**: 1.1%, Moneyline Edge: -0.1%
+- **Maryland Terrapins Win Probability**: 98.9%, Moneyline Edge: -0.9%
 
 ### Total
-- **Predicted Total**: 149.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -4.6%
+- **Predicted Total**: 148.5
+- Edge For Covering The Over: -0.9%
+- Edge For Covering The Under: -4.3%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Maryland Terrapins (12-21) hosts Bucknell Bison (10-23) at Xfinity Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Maryland Terrapins favored by 32.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Maryland Terrapins (12-21) hosts Bucknell Bison (10-23) at Xfinity Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Maryland Terrapins favored by 31.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 32.0-point spread screams mismatch. The books are asking Bucknell Bison to hang within two possessions, which based on the profiles, requires Maryland Terrapins to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 31.5-point spread screams mismatch. The books are asking Bucknell Bison to hang within two possessions, which based on the profiles, requires Maryland Terrapins to play below their standard. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Bucknell Bison** bring an offensive efficiency of 99.49 (ranked #333 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.6% from three, they can't rely on the arc. Expect a paint-focused attack. 

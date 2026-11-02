@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Colorado Buffaloes -17.5</p>
-  <p><strong>Moneyline:</strong> Abilene Christian Wildcats (+1048) | Colorado Buffaloes (-1895)</p>
+  <p><strong>Spread:</strong> Colorado Buffaloes -18.5</p>
+  <p><strong>Moneyline:</strong> Abilene Christian Wildcats (+1348) | Colorado Buffaloes (-3266)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Abilene Christian Wildcats**: 17.5, Edge For Covering Spread: -4.4%
-- **Colorado Buffaloes**: -17.5, Edge For Covering Spread: -0.3%
+- **Abilene Christian Wildcats**: 18.5, Edge For Covering Spread: -4.0%
+- **Colorado Buffaloes**: -18.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Abilene Christian Wildcats Win Probability**: 7.7%, Moneyline Edge: -1.0%
-- **Colorado Buffaloes Win Probability**: 92.3%, Moneyline Edge: -2.7%
+- **Abilene Christian Wildcats Win Probability**: 6.8%, Moneyline Edge: -0.1%
+- **Colorado Buffaloes Win Probability**: 93.2%, Moneyline Edge: -3.9%
 
 ### Total
 - **Predicted Total**: 153.0
-- Edge For Covering The Over: -2.1%
-- Edge For Covering The Under: -2.7%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Colorado Buffaloes (17-16) hosts Abilene Christian Wildcats (14-19) at CU Events Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Colorado Buffaloes favored by 17.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Colorado Buffaloes (17-16) hosts Abilene Christian Wildcats (14-19) at CU Events Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Colorado Buffaloes favored by 18.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 17.5-point spread screams mismatch. The books are asking Abilene Christian Wildcats to hang within two possessions, which based on the profiles, requires Colorado Buffaloes to play below their standard. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 18.5-point spread screams mismatch. The books are asking Abilene Christian Wildcats to hang within two possessions, which based on the profiles, requires Colorado Buffaloes to play below their standard. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Abilene Christian Wildcats** bring an offensive efficiency of 98.28 (ranked #341 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.0% from three, they can't rely on the arc. Expect a paint-focused attack. 

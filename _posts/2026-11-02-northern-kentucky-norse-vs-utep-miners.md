@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UTEP Miners -2.0</p>
-  <p><strong>Moneyline:</strong> Northern Kentucky Norse (+112) | UTEP Miners (-132)</p>
+  <p><strong>Spread:</strong> UTEP Miners -2.5</p>
+  <p><strong>Moneyline:</strong> Northern Kentucky Norse (+126) | UTEP Miners (-150)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northern Kentucky Norse**: 2.0, Edge For Covering Spread: -2.4%
-- **UTEP Miners**: -2.0, Edge For Covering Spread: -2.4%
+- **Northern Kentucky Norse**: 2.5, Edge For Covering Spread: -0.8%
+- **UTEP Miners**: -2.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Northern Kentucky Norse Win Probability**: 42.6%, Moneyline Edge: -4.5%
-- **UTEP Miners Win Probability**: 57.4%, Moneyline Edge: **0.4%**
+- **Northern Kentucky Norse Win Probability**: 41.2%, Moneyline Edge: -3.0%
+- **UTEP Miners Win Probability**: 58.8%, Moneyline Edge: -1.2%
 
 ### Total
 - **Predicted Total**: 149.0
-- Edge For Covering The Over: -1.5%
-- Edge For Covering The Under: -3.2%
+- Edge For Covering The Over: -2.0%
+- Edge For Covering The Under: -2.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Northern Kentucky Norse (20-14) travels to face UTEP Miners (11-20) at Don Haskins Center in what shapes up to be a competitive matchup. The early betting action has shaped into UTEP Miners favored by 2.0 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Northern Kentucky Norse (20-14) travels to face UTEP Miners (11-20) at Don Haskins Center in what shapes up to be a competitive matchup. The early betting action has shaped into UTEP Miners favored by 2.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. UTEP Miners's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. UTEP Miners's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Northern Kentucky Norse** bring an offensive efficiency of 113.59 (ranked #77 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.6% three-point shooting is serviceable but won't scare anyone. 

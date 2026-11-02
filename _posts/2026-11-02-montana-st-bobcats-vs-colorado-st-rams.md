@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Colorado St Rams -10.5</p>
-  <p><strong>Moneyline:</strong> Montana St Bobcats (+430) | Colorado St Rams (-587)</p>
+  <p><strong>Spread:</strong> Colorado St Rams -11.0</p>
+  <p><strong>Moneyline:</strong> Montana St Bobcats (+440) | Colorado St Rams (-612)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Montana St Bobcats**: 10.5, Edge For Covering Spread: -2.4%
-- **Colorado St Rams**: -10.5, Edge For Covering Spread: -2.4%
+- **Montana St Bobcats**: 11.0, Edge For Covering Spread: -0.8%
+- **Colorado St Rams**: -11.0, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Montana St Bobcats Win Probability**: 18.5%, Moneyline Edge: -0.3%
-- **Colorado St Rams Win Probability**: 81.5%, Moneyline Edge: -4.0%
+- **Montana St Bobcats Win Probability**: 18.4%, Moneyline Edge: -0.2%
+- **Colorado St Rams Win Probability**: 81.6%, Moneyline Edge: -4.3%
 
 ### Total
-- **Predicted Total**: 146.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- **Predicted Total**: 146.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Colorado St Rams (21-13) hosts Montana St Bobcats (18-14) at Moby Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Colorado St Rams favored by 10.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Colorado St Rams (21-13) hosts Montana St Bobcats (18-14) at Moby Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Colorado St Rams favored by 11.0 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.5 points tells us Colorado St Rams has clear advantages, but games aren't played on paper. Montana St Bobcats needs to punch above their weight class to keep this close. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 11.0 points tells us Colorado St Rams has clear advantages, but games aren't played on paper. Montana St Bobcats needs to punch above their weight class to keep this close. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Montana St Bobcats** bring an offensive efficiency of 111.38 (ranked #110 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 36.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

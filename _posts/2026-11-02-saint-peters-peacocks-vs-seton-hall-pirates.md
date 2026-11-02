@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Seton Hall Pirates -21.5</p>
-  <p><strong>Moneyline:</strong> Saint Peter's Peacocks (+2096) | Seton Hall Pirates (-5836)</p>
+  <p><strong>Spread:</strong> Seton Hall Pirates -20.5</p>
+  <p><strong>Moneyline:</strong> Saint Peter's Peacocks (+2000) | Seton Hall Pirates (-6000)</p>
   <p><strong>Total:</strong> 138.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Saint Peter's Peacocks**: 21.5, Edge For Covering Spread: -0.7%
-- **Seton Hall Pirates**: -21.5, Edge For Covering Spread: -4.1%
+- **Saint Peter's Peacocks**: 20.5, Edge For Covering Spread: -1.9%
+- **Seton Hall Pirates**: -20.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Saint Peter's Peacocks Win Probability**: 4.7%, Moneyline Edge: **0.2%**
-- **Seton Hall Pirates Win Probability**: 95.3%, Moneyline Edge: -3.0%
+- **Saint Peter's Peacocks Win Probability**: 4.8%, Moneyline Edge: **0.0%**
+- **Seton Hall Pirates Win Probability**: 95.2%, Moneyline Edge: -3.2%
 
 ### Total
-- **Predicted Total**: 139.5
+- **Predicted Total**: 138.0
 - Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Under: -4.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Seton Hall Pirates (21-12) hosts Saint Peter's Peacocks (17-12) at Prudential Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Seton Hall Pirates favored by 21.5 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Seton Hall Pirates (21-12) hosts Saint Peter's Peacocks (17-12) at Prudential Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Seton Hall Pirates favored by 20.5 points, with the total sitting at 138.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 21.5-point spread screams mismatch. The books are asking Saint Peter's Peacocks to hang within two possessions, which based on the profiles, requires Seton Hall Pirates to play below their standard. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 20.5-point spread screams mismatch. The books are asking Saint Peter's Peacocks to hang within two possessions, which based on the profiles, requires Seton Hall Pirates to play below their standard. The total of 138.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Saint Peter's Peacocks** bring an offensive efficiency of 104.83 (ranked #254 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.0% from three, they can't rely on the arc. Expect a paint-focused attack. 

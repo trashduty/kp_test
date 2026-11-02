@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> San Francisco Dons -10.0</p>
-  <p><strong>Moneyline:</strong> Radford Highlanders (N/A) | San Francisco Dons (N/A)</p>
+  <p><strong>Spread:</strong> San Francisco Dons -11.0</p>
+  <p><strong>Moneyline:</strong> Radford Highlanders (+320) | San Francisco Dons (-425)</p>
   <p><strong>Total:</strong> N/A</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Radford Highlanders**: 10.0, Edge For Covering Spread: -4.0%
-- **San Francisco Dons**: -10.0, Edge For Covering Spread: -0.8%
+- **Radford Highlanders**: 11.0, Edge For Covering Spread: -3.5%
+- **San Francisco Dons**: -11.0, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Radford Highlanders Win Probability**: N/A, Moneyline Edge: 0.0%
-- **San Francisco Dons Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Radford Highlanders Win Probability**: 21.4%, Moneyline Edge: -2.4%
+- **San Francisco Dons Win Probability**: 78.6%, Moneyline Edge: -2.3%
 
 ### Total
-- **Predicted Total**: 153.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 154.0
+- Edge For Covering The Over: -2.2%
+- Edge For Covering The Under: -4.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-San Francisco Dons (17-16) hosts Radford Highlanders (16-16) at War Memorial at the Sobrato Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into San Francisco Dons favored by 10.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+San Francisco Dons (17-16) hosts Radford Highlanders (16-16) at War Memorial at the Sobrato Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into San Francisco Dons favored by 11.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.0 points tells us San Francisco Dons has clear advantages, but games aren't played on paper. Radford Highlanders needs to punch above their weight class to keep this close. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 11.0 points tells us San Francisco Dons has clear advantages, but games aren't played on paper. Radford Highlanders needs to punch above their weight class to keep this close. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Radford Highlanders** bring an offensive efficiency of 108.93 (ranked #164 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.5% three-point shooting is serviceable but won't scare anyone. 

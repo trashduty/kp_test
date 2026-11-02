@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Richmond Spiders -13.0</p>
-  <p><strong>Moneyline:</strong> UNC Asheville Bulldogs (N/A) | Richmond Spiders (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Richmond Spiders -12.5</p>
+  <p><strong>Moneyline:</strong> UNC Asheville Bulldogs (+550) | Richmond Spiders (-890)</p>
+  <p><strong>Total:</strong> 147.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **UNC Asheville Bulldogs**: 13.0, Edge For Covering Spread: -0.8%
-- **Richmond Spiders**: -13.0, Edge For Covering Spread: -4.0%
+- **UNC Asheville Bulldogs**: 12.5, Edge For Covering Spread: -1.8%
+- **Richmond Spiders**: -12.5, Edge For Covering Spread: -3.4%
 
 ### Moneyline
-- **UNC Asheville Bulldogs Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Richmond Spiders Win Probability**: N/A, Moneyline Edge: 0.0%
+- **UNC Asheville Bulldogs Win Probability**: 12.8%, Moneyline Edge: -2.6%
+- **Richmond Spiders Win Probability**: 87.2%, Moneyline Edge: -2.7%
 
 ### Total
-- **Predicted Total**: 147.5
+- **Predicted Total**: 148.5
 - Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -3.9%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Richmond Spiders (15-17) hosts UNC Asheville Bulldogs (15-17) at Robins Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Richmond Spiders favored by 13.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Richmond Spiders (15-17) hosts UNC Asheville Bulldogs (15-17) at Robins Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Richmond Spiders favored by 12.5 points, with the total sitting at 147.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 13.0-point spread screams mismatch. The books are asking UNC Asheville Bulldogs to hang within two possessions, which based on the profiles, requires Richmond Spiders to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 12.5-point spread screams mismatch. The books are asking UNC Asheville Bulldogs to hang within two possessions, which based on the profiles, requires Richmond Spiders to play below their standard. The total of 147.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **UNC Asheville Bulldogs** bring an offensive efficiency of 105.67 (ranked #238 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.1% three-point shooting is serviceable but won't scare anyone. 

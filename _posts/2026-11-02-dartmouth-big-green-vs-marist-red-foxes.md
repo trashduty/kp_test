@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Marist Red Foxes -6.5</p>
-  <p><strong>Moneyline:</strong> Dartmouth Big Green (+217) | Marist Red Foxes (-270)</p>
+  <p><strong>Moneyline:</strong> Dartmouth Big Green (+222) | Marist Red Foxes (-275)</p>
   <p><strong>Total:</strong> 141.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Dartmouth Big Green**: 6.5, Edge For Covering Spread: -2.2%
-- **Marist Red Foxes**: -6.5, Edge For Covering Spread: -2.6%
+- **Dartmouth Big Green**: 6.5, Edge For Covering Spread: -2.8%
+- **Marist Red Foxes**: -6.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Dartmouth Big Green Win Probability**: 28.1%, Moneyline Edge: -3.4%
-- **Marist Red Foxes Win Probability**: 71.9%, Moneyline Edge: -1.1%
+- **Dartmouth Big Green Win Probability**: 28.2%, Moneyline Edge: -2.8%
+- **Marist Red Foxes Win Probability**: 71.8%, Moneyline Edge: -1.5%
 
 ### Total
-- **Predicted Total**: 142.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -5.5%
+- **Predicted Total**: 140.5
+- Edge For Covering The Over: **2.3%**
+- Edge For Covering The Under: -7.0%
 
 ---
 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> USC Trojans -26.5</p>
-  <p><strong>Moneyline:</strong> Milwaukee Panthers (+2728) | USC Trojans (-9474)</p>
+  <p><strong>Spread:</strong> USC Trojans -26.0</p>
+  <p><strong>Moneyline:</strong> Milwaukee Panthers (+3500) | USC Trojans (-20000)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Milwaukee Panthers**: 26.5, Edge For Covering Spread: **0.8%**
-- **USC Trojans**: -26.5, Edge For Covering Spread: -5.6%
+- **Milwaukee Panthers**: 26.0, Edge For Covering Spread: -0.2%
+- **USC Trojans**: -26.0, Edge For Covering Spread: -4.5%
 
 ### Moneyline
-- **Milwaukee Panthers Win Probability**: 3.0%, Moneyline Edge: -0.6%
-- **USC Trojans Win Probability**: 97.0%, Moneyline Edge: -1.9%
+- **Milwaukee Panthers Win Probability**: 2.5%, Moneyline Edge: -0.2%
+- **USC Trojans Win Probability**: 97.5%, Moneyline Edge: -2.0%
 
 ### Total
-- **Predicted Total**: 157.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -4.6%
+- **Predicted Total**: 158.0
+- Edge For Covering The Over: -3.1%
+- Edge For Covering The Under: -3.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-USC Trojans (18-14) hosts Milwaukee Panthers (12-20) at Galen Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into USC Trojans favored by 26.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+USC Trojans (18-14) hosts Milwaukee Panthers (12-20) at Galen Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into USC Trojans favored by 26.0 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 26.5-point spread screams mismatch. The books are asking Milwaukee Panthers to hang within two possessions, which based on the profiles, requires USC Trojans to play below their standard. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 26.0-point spread screams mismatch. The books are asking Milwaukee Panthers to hang within two possessions, which based on the profiles, requires USC Trojans to play below their standard. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Milwaukee Panthers** bring an offensive efficiency of 108.22 (ranked #177 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.3% three-point shooting is serviceable but won't scare anyone. 

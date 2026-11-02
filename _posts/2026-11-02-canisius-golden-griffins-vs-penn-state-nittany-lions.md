@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Penn State Nittany Lions -22.5</p>
-  <p><strong>Moneyline:</strong> Canisius Golden Griffins (+1981) | Penn State Nittany Lions (-5455)</p>
+  <p><strong>Moneyline:</strong> Canisius Golden Griffins (+2400) | Penn State Nittany Lions (-10000)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **Penn State Nittany Lions**: -22.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Canisius Golden Griffins Win Probability**: 3.8%, Moneyline Edge: -1.0%
-- **Penn State Nittany Lions Win Probability**: 96.2%, Moneyline Edge: -2.0%
+- **Canisius Golden Griffins Win Probability**: 3.4%, Moneyline Edge: -0.6%
+- **Penn State Nittany Lions Win Probability**: 96.6%, Moneyline Edge: -2.5%
 
 ### Total
 - **Predicted Total**: 153.0

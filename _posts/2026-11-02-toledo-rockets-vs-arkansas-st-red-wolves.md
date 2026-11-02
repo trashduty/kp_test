@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arkansas St Red Wolves -3.5</p>
-  <p><strong>Moneyline:</strong> Toledo Rockets (+135) | Arkansas St Red Wolves (-163)</p>
+  <p><strong>Moneyline:</strong> Toledo Rockets (+145) | Arkansas St Red Wolves (-175)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Toledo Rockets**: 3.5, Edge For Covering Spread: -0.8%
-- **Arkansas St Red Wolves**: -3.5, Edge For Covering Spread: -4.0%
+- **Toledo Rockets**: 3.5, Edge For Covering Spread: -0.5%
+- **Arkansas St Red Wolves**: -3.5, Edge For Covering Spread: -4.2%
 
 ### Moneyline
-- **Toledo Rockets Win Probability**: 42.8%, Moneyline Edge: **0.4%**
-- **Arkansas St Red Wolves Win Probability**: 57.2%, Moneyline Edge: -4.9%
+- **Toledo Rockets Win Probability**: 42.0%, Moneyline Edge: **1.2%**
+- **Arkansas St Red Wolves Win Probability**: 58.0%, Moneyline Edge: -5.7%
 
 ### Total
-- **Predicted Total**: 161.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 163.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.2%
 
 ---
 

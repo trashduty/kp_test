@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Valparaiso Beacons -18.5</p>
-  <p><strong>Moneyline:</strong> Western Illinois Leathernecks (+1248) | Valparaiso Beacons (-2449)</p>
+  <p><strong>Moneyline:</strong> Western Illinois Leathernecks (+1300) | Valparaiso Beacons (-3600)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Western Illinois Leathernecks**: 18.5, Edge For Covering Spread: -5.5%
-- **Valparaiso Beacons**: -18.5, Edge For Covering Spread: **0.8%**
+- **Western Illinois Leathernecks**: 18.5, Edge For Covering Spread: -5.7%
+- **Valparaiso Beacons**: -18.5, Edge For Covering Spread: **1.0%**
 
 ### Moneyline
-- **Western Illinois Leathernecks Win Probability**: 5.6%, Moneyline Edge: -1.8%
-- **Valparaiso Beacons Win Probability**: 94.4%, Moneyline Edge: -1.7%
+- **Western Illinois Leathernecks Win Probability**: 5.4%, Moneyline Edge: -1.7%
+- **Valparaiso Beacons Win Probability**: 94.6%, Moneyline Edge: -2.7%
 
 ### Total
 - **Predicted Total**: 143.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- Edge For Covering The Over: -0.9%
+- Edge For Covering The Under: -4.2%
 
 ---
 

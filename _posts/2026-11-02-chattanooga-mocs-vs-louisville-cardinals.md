@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Louisville Cardinals -29.5</p>
-  <p><strong>Moneyline:</strong> Chattanooga Mocs (+6159) | Louisville Cardinals (-66678)</p>
+  <p><strong>Spread:</strong> Louisville Cardinals -31.5</p>
+  <p><strong>Moneyline:</strong> Chattanooga Mocs (+5836) | Louisville Cardinals (-66678)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Chattanooga Mocs**: 29.5, Edge For Covering Spread: -2.8%
-- **Louisville Cardinals**: -29.5, Edge For Covering Spread: -1.9%
+- **Chattanooga Mocs**: 31.5, Edge For Covering Spread: -0.3%
+- **Louisville Cardinals**: -31.5, Edge For Covering Spread: -4.4%
 
 ### Moneyline
-- **Chattanooga Mocs Win Probability**: 1.0%, Moneyline Edge: -0.6%
-- **Louisville Cardinals Win Probability**: 99.0%, Moneyline Edge: -0.8%
+- **Chattanooga Mocs Win Probability**: 1.1%, Moneyline Edge: -0.6%
+- **Louisville Cardinals Win Probability**: 98.9%, Moneyline Edge: -0.9%
 
 ### Total
-- **Predicted Total**: 157.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 159.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Louisville Cardinals (24-11) hosts Chattanooga Mocs (13-19) at KFC Yum! Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Louisville Cardinals favored by 29.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Louisville Cardinals (24-11) hosts Chattanooga Mocs (13-19) at KFC Yum! Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Louisville Cardinals favored by 31.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 29.5-point spread screams mismatch. The books are asking Chattanooga Mocs to hang within two possessions, which based on the profiles, requires Louisville Cardinals to play below their standard. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 31.5-point spread screams mismatch. The books are asking Chattanooga Mocs to hang within two possessions, which based on the profiles, requires Louisville Cardinals to play below their standard. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Chattanooga Mocs** bring an offensive efficiency of 109.83 (ranked #137 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.0% three-point shooting is serviceable but won't scare anyone. 

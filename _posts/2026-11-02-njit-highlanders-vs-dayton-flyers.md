@@ -12,8 +12,8 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Dayton Flyers -23.5</p>
-  <p><strong>Moneyline:</strong> NJIT Highlanders (N/A) | Dayton Flyers (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Moneyline:</strong> NJIT Highlanders (+3000) | Dayton Flyers (-10000)</p>
+  <p><strong>Total:</strong> 145.5</p>
 </div>
 
 
@@ -25,16 +25,16 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **NJIT Highlanders**: 23.5, Edge For Covering Spread: -2.4%
-- **Dayton Flyers**: -23.5, Edge For Covering Spread: -2.4%
+- **Dayton Flyers**: -23.5, Edge For Covering Spread: -3.1%
 
 ### Moneyline
-- **NJIT Highlanders Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Dayton Flyers Win Probability**: N/A, Moneyline Edge: 0.0%
+- **NJIT Highlanders Win Probability**: 2.6%, Moneyline Edge: -0.6%
+- **Dayton Flyers Win Probability**: 97.4%, Moneyline Edge: -1.6%
 
 ### Total
-- **Predicted Total**: 147.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 147.0
+- Edge For Covering The Over: -0.1%
+- Edge For Covering The Under: -4.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Dayton Flyers (25-12) hosts NJIT Highlanders (16-17) at University of Dayton Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Dayton Flyers favored by 23.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Dayton Flyers (25-12) hosts NJIT Highlanders (16-17) at University of Dayton Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Dayton Flyers favored by 23.5 points, with the total sitting at 145.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 23.5-point spread screams mismatch. The books are asking NJIT Highlanders to hang within two possessions, which based on the profiles, requires Dayton Flyers to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 23.5-point spread screams mismatch. The books are asking NJIT Highlanders to hang within two possessions, which based on the profiles, requires Dayton Flyers to play below their standard. The total of 145.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **NJIT Highlanders** bring an offensive efficiency of 97.65 (ranked #343 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.4% from three, they can't rely on the arc. Expect a paint-focused attack. 

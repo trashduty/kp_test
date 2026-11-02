@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Houston Cougars -27.5</p>
-  <p><strong>Moneyline:</strong> La Salle Explorers (+5000) | Houston Cougars (-33378)</p>
+  <p><strong>Spread:</strong> Houston Cougars -29.5</p>
+  <p><strong>Moneyline:</strong> La Salle Explorers (+4388) | Houston Cougars (-18249)</p>
   <p><strong>Total:</strong> 140.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **La Salle Explorers**: 27.5, Edge For Covering Spread: -2.2%
-- **Houston Cougars**: -27.5, Edge For Covering Spread: -2.6%
+- **La Salle Explorers**: 29.5, Edge For Covering Spread: -0.1%
+- **Houston Cougars**: -29.5, Edge For Covering Spread: -4.9%
 
 ### Moneyline
-- **La Salle Explorers Win Probability**: 1.5%, Moneyline Edge: -0.5%
-- **Houston Cougars Win Probability**: 98.5%, Moneyline Edge: -1.2%
+- **La Salle Explorers Win Probability**: 1.6%, Moneyline Edge: -0.6%
+- **Houston Cougars Win Probability**: 98.4%, Moneyline Edge: -1.1%
 
 ### Total
-- **Predicted Total**: 141.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.5%
+- **Predicted Total**: 139.5
+- Edge For Covering The Over: **0.4%**
+- Edge For Covering The Under: -5.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Houston Cougars (30-7) hosts La Salle Explorers (9-23) at Fertitta Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Houston Cougars favored by 27.5 points, with the total sitting at 140.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Houston Cougars (30-7) hosts La Salle Explorers (9-23) at Fertitta Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Houston Cougars favored by 29.5 points, with the total sitting at 140.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 27.5-point spread screams mismatch. The books are asking La Salle Explorers to hang within two possessions, which based on the profiles, requires Houston Cougars to play below their standard. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 29.5-point spread screams mismatch. The books are asking La Salle Explorers to hang within two possessions, which based on the profiles, requires Houston Cougars to play below their standard. The total of 140.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **La Salle Explorers** bring an offensive efficiency of 100.79 (ranked #318 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 30.0% from three, they can't rely on the arc. Expect a paint-focused attack. 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Charlotte 49ers -3.5</p>
-  <p><strong>Moneyline:</strong> Charlotte 49ers (-172) | Indiana St Sycamores (+143)</p>
+  <p><strong>Spread:</strong> Charlotte 49ers -4.5</p>
+  <p><strong>Moneyline:</strong> Charlotte 49ers (-193) | Indiana St Sycamores (+160)</p>
   <p><strong>Total:</strong> 152.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Charlotte 49ers**: -3.5, Edge For Covering Spread: -7.2%
-- **Indiana St Sycamores**: 3.5, Edge For Covering Spread: **2.4%**
+- **Charlotte 49ers**: -4.5, Edge For Covering Spread: -8.8%
+- **Indiana St Sycamores**: 4.5, Edge For Covering Spread: **4.0%**
 
 ### Moneyline
-- **Charlotte 49ers Win Probability**: 56.5%, Moneyline Edge: -6.8%
-- **Indiana St Sycamores Win Probability**: 43.5%, Moneyline Edge: **2.4%**
+- **Charlotte 49ers Win Probability**: 57.9%, Moneyline Edge: -8.0%
+- **Indiana St Sycamores Win Probability**: 42.1%, Moneyline Edge: **3.7%**
 
 ### Total
 - **Predicted Total**: 153.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Charlotte 49ers (17-17) travels to face Indiana St Sycamores (11-21) at Hulman Center in what shapes up to be a competitive matchup. The early betting action has shaped into Charlotte 49ers favored by 3.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Charlotte 49ers (17-17) travels to face Indiana St Sycamores (11-21) at Hulman Center in what shapes up to be a competitive matchup. The early betting action has shaped into Charlotte 49ers favored by 4.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.5-point spread indicates Charlotte 49ers is viewed as the better team, but this isn't an overwhelming edge. Indiana St Sycamores has a legitimate path to covering or winning outright. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 4.5-point spread indicates Charlotte 49ers is viewed as the better team, but this isn't an overwhelming edge. Indiana St Sycamores has a legitimate path to covering or winning outright. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Charlotte 49ers** bring an offensive efficiency of 111.57 (ranked #108 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.2% three-point shooting is serviceable but won't scare anyone. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Xavier Musketeers -26.5</p>
-  <p><strong>Moneyline:</strong> Mt. St. Mary's Mountaineers (+3000) | Xavier Musketeers (-10000)</p>
+  <p><strong>Moneyline:</strong> Mt. St. Mary's Mountaineers (+3500) | Xavier Musketeers (-17145)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Xavier Musketeers**: -26.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Mt. St. Mary's Mountaineers Win Probability**: 2.6%, Moneyline Edge: -0.6%
-- **Xavier Musketeers Win Probability**: 97.4%, Moneyline Edge: -1.6%
+- **Mt. St. Mary's Mountaineers Win Probability**: 2.4%, Moneyline Edge: -0.4%
+- **Xavier Musketeers Win Probability**: 97.6%, Moneyline Edge: -1.8%
 
 ### Total
-- **Predicted Total**: 157.0
-- Edge For Covering The Over: -0.1%
-- Edge For Covering The Under: -4.6%
+- **Predicted Total**: 157.5
+- Edge For Covering The Over: -0.9%
+- Edge For Covering The Under: -3.9%
 
 ---
 

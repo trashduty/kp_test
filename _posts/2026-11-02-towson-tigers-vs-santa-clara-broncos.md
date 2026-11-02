@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Santa Clara Broncos -13.5</p>
-  <p><strong>Moneyline:</strong> Towson Tigers (+697) | Santa Clara Broncos (-1092)</p>
+  <p><strong>Spread:</strong> Santa Clara Broncos -14.5</p>
+  <p><strong>Moneyline:</strong> Towson Tigers (+774) | Santa Clara Broncos (-1400)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Towson Tigers**: 13.5, Edge For Covering Spread: -2.4%
-- **Santa Clara Broncos**: -13.5, Edge For Covering Spread: -2.4%
+- **Towson Tigers**: 14.5, Edge For Covering Spread: -2.4%
+- **Santa Clara Broncos**: -14.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Towson Tigers Win Probability**: 13.0%, Moneyline Edge: **0.5%**
-- **Santa Clara Broncos Win Probability**: 87.0%, Moneyline Edge: -4.6%
+- **Towson Tigers Win Probability**: 12.5%, Moneyline Edge: **1.0%**
+- **Santa Clara Broncos Win Probability**: 87.5%, Moneyline Edge: -5.8%
 
 ### Total
 - **Predicted Total**: 149.0
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Santa Clara Broncos (26-9) hosts Towson Tigers (19-15) at Leavey Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Santa Clara Broncos favored by 13.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Santa Clara Broncos (26-9) hosts Towson Tigers (19-15) at Leavey Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Santa Clara Broncos favored by 14.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 13.5-point spread screams mismatch. The books are asking Towson Tigers to hang within two possessions, which based on the profiles, requires Santa Clara Broncos to play below their standard. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 14.5-point spread screams mismatch. The books are asking Towson Tigers to hang within two possessions, which based on the profiles, requires Santa Clara Broncos to play below their standard. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Towson Tigers** bring an offensive efficiency of 104.62 (ranked #258 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.4% from three, they can't rely on the arc. Expect a paint-focused attack. 

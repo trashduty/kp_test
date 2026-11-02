@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Queens University Royals -1.5</p>
-  <p><strong>Moneyline:</strong> Queens University Royals (-125) | Winthrop Eagles (+105)</p>
+  <p><strong>Moneyline:</strong> Queens University Royals (-120) | Winthrop Eagles (-100)</p>
   <p><strong>Total:</strong> 165.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Queens University Royals**: -1.5, Edge For Covering Spread: -4.0%
-- **Winthrop Eagles**: 1.5, Edge For Covering Spread: -0.8%
+- **Queens University Royals**: -1.5, Edge For Covering Spread: -2.8%
+- **Winthrop Eagles**: 1.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Queens University Royals Win Probability**: 56.1%, Moneyline Edge: **0.6%**
-- **Winthrop Eagles Win Probability**: 43.9%, Moneyline Edge: -4.9%
+- **Queens University Royals Win Probability**: 55.6%, Moneyline Edge: **1.0%**
+- **Winthrop Eagles Win Probability**: 44.4%, Moneyline Edge: -5.6%
 
 ### Total
-- **Predicted Total**: 166.5
-- Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.1%
+- **Predicted Total**: 167.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

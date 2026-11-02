@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Murray St Racers -8.5</p>
-  <p><strong>Moneyline:</strong> Tennessee St Tigers (+262) | Murray St Racers (-332)</p>
+  <p><strong>Spread:</strong> Murray St Racers -10.5</p>
+  <p><strong>Moneyline:</strong> Tennessee St Tigers (+430) | Murray St Racers (-600)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tennessee St Tigers**: 8.5, Edge For Covering Spread: -0.8%
-- **Murray St Racers**: -8.5, Edge For Covering Spread: -4.0%
+- **Tennessee St Tigers**: 10.5, Edge For Covering Spread: **2.4%**
+- **Murray St Racers**: -10.5, Edge For Covering Spread: -7.2%
 
 ### Moneyline
-- **Tennessee St Tigers Win Probability**: 28.2%, Moneyline Edge: **0.6%**
-- **Murray St Racers Win Probability**: 71.8%, Moneyline Edge: -5.1%
+- **Tennessee St Tigers Win Probability**: 24.0%, Moneyline Edge: **5.2%**
+- **Murray St Racers Win Probability**: 76.0%, Moneyline Edge: -9.7%
 
 ### Total
-- **Predicted Total**: 163.0
-- Edge For Covering The Over: -0.0%
-- Edge For Covering The Under: -6.3%
+- **Predicted Total**: 165.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Murray St Racers (20-13) hosts Tennessee St Tigers (23-10) at CFSB Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Murray St Racers favored by 8.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Murray St Racers (20-13) hosts Tennessee St Tigers (23-10) at CFSB Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Murray St Racers favored by 10.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 8.5 points tells us Murray St Racers has clear advantages, but games aren't played on paper. Tennessee St Tigers needs to punch above their weight class to keep this close. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 10.5 points tells us Murray St Racers has clear advantages, but games aren't played on paper. Tennessee St Tigers needs to punch above their weight class to keep this close. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Tennessee St Tigers** bring an offensive efficiency of 109.69 (ranked #138 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.3% three-point shooting is serviceable but won't scare anyone. 

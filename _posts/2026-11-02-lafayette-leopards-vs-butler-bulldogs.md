@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Butler Bulldogs -22.0</p>
-  <p><strong>Moneyline:</strong> Lafayette Leopards (N/A) | Butler Bulldogs (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Butler Bulldogs -21.5</p>
+  <p><strong>Moneyline:</strong> Lafayette Leopards (+2000) | Butler Bulldogs (-7000)</p>
+  <p><strong>Total:</strong> 149.5</p>
 </div>
 
 
@@ -24,15 +24,15 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Lafayette Leopards**: 22.0, Edge For Covering Spread: -2.4%
-- **Butler Bulldogs**: -22.0, Edge For Covering Spread: -2.4%
+- **Lafayette Leopards**: 21.5, Edge For Covering Spread: -4.0%
+- **Butler Bulldogs**: -21.5, Edge For Covering Spread: -1.0%
 
 ### Moneyline
-- **Lafayette Leopards Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Butler Bulldogs Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Lafayette Leopards Win Probability**: 4.1%, Moneyline Edge: -0.7%
+- **Butler Bulldogs Win Probability**: 95.9%, Moneyline Edge: -2.7%
 
 ### Total
-- **Predicted Total**: 149.5
+- **Predicted Total**: 150.5
 - Edge For Covering The Over: -0.9%
 - Edge For Covering The Under: -3.9%
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Butler Bulldogs (16-16) hosts Lafayette Leopards (11-21) at Hinkle Fieldhouse in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Butler Bulldogs favored by 22.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Butler Bulldogs (16-16) hosts Lafayette Leopards (11-21) at Hinkle Fieldhouse in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Butler Bulldogs favored by 21.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 22.0-point spread screams mismatch. The books are asking Lafayette Leopards to hang within two possessions, which based on the profiles, requires Butler Bulldogs to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 21.5-point spread screams mismatch. The books are asking Lafayette Leopards to hang within two possessions, which based on the profiles, requires Butler Bulldogs to play below their standard. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Lafayette Leopards** bring an offensive efficiency of 102.89 (ranked #291 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.2% three-point shooting is serviceable but won't scare anyone. 

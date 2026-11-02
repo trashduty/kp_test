@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Saint Louis Billikens -24.0</p>
-  <p><strong>Moneyline:</strong> Lehigh Mountain Hawks (N/A) | Saint Louis Billikens (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Saint Louis Billikens -24.5</p>
+  <p><strong>Moneyline:</strong> Lehigh Mountain Hawks (+2800) | Saint Louis Billikens (-9000)</p>
+  <p><strong>Total:</strong> 153.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Lehigh Mountain Hawks**: 24.0, Edge For Covering Spread: **0.8%**
-- **Saint Louis Billikens**: -24.0, Edge For Covering Spread: -5.6%
+- **Lehigh Mountain Hawks**: 24.5, Edge For Covering Spread: **0.8%**
+- **Saint Louis Billikens**: -24.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **Lehigh Mountain Hawks Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Saint Louis Billikens Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Lehigh Mountain Hawks Win Probability**: 3.9%, Moneyline Edge: **0.5%**
+- **Saint Louis Billikens Win Probability**: 96.1%, Moneyline Edge: -2.8%
 
 ### Total
-- **Predicted Total**: 156.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 155.0
+- Edge For Covering The Over: -0.8%
+- Edge For Covering The Under: -4.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Saint Louis Billikens (29-6) hosts Lehigh Mountain Hawks (18-17) at Chaifetz Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Saint Louis Billikens favored by 24.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Saint Louis Billikens (29-6) hosts Lehigh Mountain Hawks (18-17) at Chaifetz Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Saint Louis Billikens favored by 24.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 24.0-point spread screams mismatch. The books are asking Lehigh Mountain Hawks to hang within two possessions, which based on the profiles, requires Saint Louis Billikens to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 24.5-point spread screams mismatch. The books are asking Lehigh Mountain Hawks to hang within two possessions, which based on the profiles, requires Saint Louis Billikens to play below their standard. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Lehigh Mountain Hawks** bring an offensive efficiency of 104.51 (ranked #260 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. The three-ball has been a weapon, connecting at 36.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

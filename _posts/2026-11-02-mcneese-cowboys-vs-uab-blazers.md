@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> McNeese Cowboys -3.5</p>
-  <p><strong>Moneyline:</strong> McNeese Cowboys (-172) | UAB Blazers (+142)</p>
+  <p><strong>Moneyline:</strong> McNeese Cowboys (-179) | UAB Blazers (+145)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **UAB Blazers**: 3.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **McNeese Cowboys Win Probability**: 63.1%, Moneyline Edge: -0.2%
-- **UAB Blazers Win Probability**: 36.9%, Moneyline Edge: -4.4%
+- **McNeese Cowboys Win Probability**: 63.2%, Moneyline Edge: -1.0%
+- **UAB Blazers Win Probability**: 36.8%, Moneyline Edge: -4.0%
 
 ### Total
-- **Predicted Total**: 150.0
-- Edge For Covering The Over: -0.0%
-- Edge For Covering The Under: -4.7%
+- **Predicted Total**: 152.0
+- Edge For Covering The Over: -0.9%
+- Edge For Covering The Under: -4.3%
 
 ---
 

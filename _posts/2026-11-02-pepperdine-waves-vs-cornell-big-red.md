@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Pepperdine Waves -1.5</p>
-  <p><strong>Moneyline:</strong> Pepperdine Waves (-127) | Cornell Big Red (+107)</p>
+  <p><strong>Spread:</strong> Pepperdine Waves -3.5</p>
+  <p><strong>Moneyline:</strong> Pepperdine Waves (-173) | Cornell Big Red (+143)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Pepperdine Waves**: -1.5, Edge For Covering Spread: -5.6%
-- **Cornell Big Red**: 1.5, Edge For Covering Spread: **0.8%**
+- **Pepperdine Waves**: -3.5, Edge For Covering Spread: -8.8%
+- **Cornell Big Red**: 3.5, Edge For Covering Spread: **4.0%**
 
 ### Moneyline
-- **Pepperdine Waves Win Probability**: 50.9%, Moneyline Edge: -5.2%
-- **Cornell Big Red Win Probability**: 49.1%, Moneyline Edge: **0.9%**
+- **Pepperdine Waves Win Probability**: 54.4%, Moneyline Edge: -9.1%
+- **Cornell Big Red Win Probability**: 45.6%, Moneyline Edge: **4.6%**
 
 ### Total
 - **Predicted Total**: 164.0
-- Edge For Covering The Over: -1.5%
-- Edge For Covering The Under: -3.2%
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -4.0%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Cornell Big Red (15-13) hosts Pepperdine Waves (9-23) at Newman Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Pepperdine Waves favored by 1.5 points, with the total sitting at 163.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Cornell Big Red (15-13) hosts Pepperdine Waves (9-23) at Newman Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Pepperdine Waves favored by 3.5 points, with the total sitting at 163.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Pepperdine Waves's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 163.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.5-point spread indicates Pepperdine Waves is viewed as the better team, but this isn't an overwhelming edge. Cornell Big Red has a legitimate path to covering or winning outright. The total of 163.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Pepperdine Waves** bring an offensive efficiency of 100.20 (ranked #324 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.4% from three, they can't rely on the arc. Expect a paint-focused attack. 

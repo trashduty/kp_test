@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Old Dominion Monarchs -1.5</p>
-  <p><strong>Moneyline:</strong> Western Michigan Broncos (+107) | Old Dominion Monarchs (-127)</p>
+  <p><strong>Spread:</strong> Western Michigan Broncos -1.5</p>
+  <p><strong>Moneyline:</strong> Western Michigan Broncos (-123) | Old Dominion Monarchs (+102)</p>
   <p><strong>Total:</strong> 157.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Western Michigan Broncos**: 1.5, Edge For Covering Spread: -0.8%
-- **Old Dominion Monarchs**: -1.5, Edge For Covering Spread: -4.0%
+- **Western Michigan Broncos**: -1.5, Edge For Covering Spread: -5.6%
+- **Old Dominion Monarchs**: 1.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **Western Michigan Broncos Win Probability**: 45.6%, Moneyline Edge: -2.6%
-- **Old Dominion Monarchs Win Probability**: 54.4%, Moneyline Edge: -1.7%
+- **Western Michigan Broncos Win Probability**: 48.9%, Moneyline Edge: -6.4%
+- **Old Dominion Monarchs Win Probability**: 51.1%, Moneyline Edge: **1.7%**
 
 ### Total
-- **Predicted Total**: 159.0
-- Edge For Covering The Over: -1.5%
-- Edge For Covering The Under: -4.9%
+- **Predicted Total**: 158.5
+- Edge For Covering The Over: -0.7%
+- Edge For Covering The Under: -4.5%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Old Dominion Monarchs (12-21) hosts Western Michigan Broncos (10-21) at Chartway Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Old Dominion Monarchs favored by 1.5 points, with the total sitting at 157.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Old Dominion Monarchs (12-21) hosts Western Michigan Broncos (10-21) at Chartway Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Western Michigan Broncos favored by 1.5 points, with the total sitting at 157.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Old Dominion Monarchs's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 157.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Western Michigan Broncos's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 157.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Western Michigan Broncos** bring an offensive efficiency of 106.59 (ranked #216 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.3% three-point shooting is serviceable but won't scare anyone. 

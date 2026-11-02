@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> St. Thomas (MN) Tommies -3.0</p>
-  <p><strong>Moneyline:</strong> St. Thomas (MN) Tommies (N/A) | Presbyterian Blue Hose (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> St. Thomas (MN) Tommies -2.5</p>
+  <p><strong>Moneyline:</strong> St. Thomas (MN) Tommies (-160) | Presbyterian Blue Hose (+135)</p>
+  <p><strong>Total:</strong> 146.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **St. Thomas (MN) Tommies**: -3.0, Edge For Covering Spread: -5.6%
-- **Presbyterian Blue Hose**: 3.0, Edge For Covering Spread: **0.8%**
+- **St. Thomas (MN) Tommies**: -2.5, Edge For Covering Spread: -4.1%
+- **Presbyterian Blue Hose**: 2.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **St. Thomas (MN) Tommies Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Presbyterian Blue Hose Win Probability**: N/A, Moneyline Edge: 0.0%
+- **St. Thomas (MN) Tommies Win Probability**: 55.0%, Moneyline Edge: -6.5%
+- **Presbyterian Blue Hose Win Probability**: 45.0%, Moneyline Edge: **2.4%**
 
 ### Total
-- **Predicted Total**: 148.0
-- Edge For Covering The Over: -0.0%
-- Edge For Covering The Under: -4.7%
+- **Predicted Total**: 147.5
+- Edge For Covering The Over: **1.0%**
+- Edge For Covering The Under: -5.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-St. Thomas (MN) Tommies (24-10) travels to face Presbyterian Blue Hose (15-18) at Templeton P.E. Center in what shapes up to be a competitive matchup. The early betting action has shaped into St. Thomas (MN) Tommies favored by 3.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+St. Thomas (MN) Tommies (24-10) travels to face Presbyterian Blue Hose (15-18) at Templeton P.E. Center in what shapes up to be a competitive matchup. The early betting action has shaped into St. Thomas (MN) Tommies favored by 2.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.0-point spread indicates St. Thomas (MN) Tommies is viewed as the better team, but this isn't an overwhelming edge. Presbyterian Blue Hose has a legitimate path to covering or winning outright. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. St. Thomas (MN) Tommies's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **St. Thomas (MN) Tommies** bring an offensive efficiency of 115.96 (ranked #49 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.0% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

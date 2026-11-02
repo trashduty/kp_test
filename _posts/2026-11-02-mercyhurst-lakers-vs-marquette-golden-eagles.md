@@ -12,8 +12,8 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Marquette Golden Eagles -30.5</p>
-  <p><strong>Moneyline:</strong> Mercyhurst Lakers (N/A) | Marquette Golden Eagles (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Moneyline:</strong> Mercyhurst Lakers (+4500) | Marquette Golden Eagles (-15000)</p>
+  <p><strong>Total:</strong> 148.5</p>
 </div>
 
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Marquette Golden Eagles**: -30.5, Edge For Covering Spread: -7.2%
 
 ### Moneyline
-- **Mercyhurst Lakers Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Marquette Golden Eagles Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Mercyhurst Lakers Win Probability**: 1.6%, Moneyline Edge: -0.6%
+- **Marquette Golden Eagles Win Probability**: 98.4%, Moneyline Edge: -0.9%
 
 ### Total
-- **Predicted Total**: 149.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 149.0
+- Edge For Covering The Over: -0.1%
+- Edge For Covering The Under: -4.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Marquette Golden Eagles (12-20) hosts Mercyhurst Lakers (17-17) at Fiserv Forum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Marquette Golden Eagles favored by 30.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Marquette Golden Eagles (12-20) hosts Mercyhurst Lakers (17-17) at Fiserv Forum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Marquette Golden Eagles favored by 30.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 30.5-point spread screams mismatch. The books are asking Mercyhurst Lakers to hang within two possessions, which based on the profiles, requires Marquette Golden Eagles to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 30.5-point spread screams mismatch. The books are asking Mercyhurst Lakers to hang within two possessions, which based on the profiles, requires Marquette Golden Eagles to play below their standard. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Mercyhurst Lakers** bring an offensive efficiency of 103.72 (ranked #277 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.1% three-point shooting is serviceable but won't scare anyone. 

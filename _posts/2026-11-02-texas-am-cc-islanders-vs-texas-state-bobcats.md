@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Texas State Bobcats -9.0</p>
-  <p><strong>Moneyline:</strong> Texas A&M-CC Islanders (N/A) | Texas State Bobcats (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Texas State Bobcats -10.5</p>
+  <p><strong>Moneyline:</strong> Texas A&M-CC Islanders (+340) | Texas State Bobcats (-455)</p>
+  <p><strong>Total:</strong> 143.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Texas A&M-CC Islanders**: 9.0, Edge For Covering Spread: -4.1%
-- **Texas State Bobcats**: -9.0, Edge For Covering Spread: -0.7%
+- **Texas A&M-CC Islanders**: 10.5, Edge For Covering Spread: -0.7%
+- **Texas State Bobcats**: -10.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Texas A&M-CC Islanders Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Texas State Bobcats Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Texas A&M-CC Islanders Win Probability**: 20.2%, Moneyline Edge: -2.6%
+- **Texas State Bobcats Win Probability**: 79.8%, Moneyline Edge: -2.2%
 
 ### Total
-- **Predicted Total**: 145.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 144.5
+- Edge For Covering The Over: **0.6%**
+- Edge For Covering The Under: -5.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Texas A&M-CC Islanders (18-15) enters hostile territory as they take on Texas State Bobcats (19-13) at Strahan Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Texas State Bobcats favored by 9.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Texas A&M-CC Islanders (18-15) enters hostile territory as they take on Texas State Bobcats (19-13) at Strahan Arena in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Texas State Bobcats favored by 10.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 9.0 points tells us Texas State Bobcats has clear advantages, but games aren't played on paper. Texas A&M-CC Islanders needs to punch above their weight class to keep this close. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 10.5 points tells us Texas State Bobcats has clear advantages, but games aren't played on paper. Texas A&M-CC Islanders needs to punch above their weight class to keep this close. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Texas A&M-CC Islanders** bring an offensive efficiency of 102.84 (ranked #292 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.0% three-point shooting is serviceable but won't scare anyone. 

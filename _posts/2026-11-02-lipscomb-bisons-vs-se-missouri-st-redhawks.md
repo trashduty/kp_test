@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Lipscomb Bisons -1.0</p>
-  <p><strong>Moneyline:</strong> Lipscomb Bisons (N/A) | SE Missouri St Redhawks (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Lipscomb Bisons -2.5</p>
+  <p><strong>Moneyline:</strong> Lipscomb Bisons (-120) | SE Missouri St Redhawks (-103)</p>
+  <p><strong>Total:</strong> 152.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Lipscomb Bisons**: -1.0, Edge For Covering Spread: -0.8%
-- **SE Missouri St Redhawks**: 1.0, Edge For Covering Spread: -4.0%
+- **Lipscomb Bisons**: -2.5, Edge For Covering Spread: -2.4%
+- **SE Missouri St Redhawks**: 2.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Lipscomb Bisons Win Probability**: N/A, Moneyline Edge: 0.0%
-- **SE Missouri St Redhawks Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Lipscomb Bisons Win Probability**: 54.5%, Moneyline Edge: -0.0%
+- **SE Missouri St Redhawks Win Probability**: 45.5%, Moneyline Edge: -5.3%
 
 ### Total
-- **Predicted Total**: 154.0
-- Edge For Covering The Over: -1.5%
-- Edge For Covering The Under: -4.9%
+- **Predicted Total**: 153.5
+- Edge For Covering The Over: -0.7%
+- Edge For Covering The Under: -4.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Lipscomb Bisons (19-13) travels to face SE Missouri St Redhawks (20-13) at Show Me Center in what shapes up to be a competitive matchup. The early betting action has shaped into Lipscomb Bisons favored by 1.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Lipscomb Bisons (19-13) travels to face SE Missouri St Redhawks (20-13) at Show Me Center in what shapes up to be a competitive matchup. The early betting action has shaped into Lipscomb Bisons favored by 2.5 points, with the total sitting at 152.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Lipscomb Bisons's 1.0-point cushion reflects home court advantage more than a talent gap. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Lipscomb Bisons's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 152.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Lipscomb Bisons** bring an offensive efficiency of 110.19 (ranked #132 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.7% three-point shooting is serviceable but won't scare anyone. 

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Nevada Wolf Pack -12.5</p>
-  <p><strong>Moneyline:</strong> Robert Morris Colonials (+550) | Nevada Wolf Pack (-800)</p>
+  <p><strong>Spread:</strong> Nevada Wolf Pack -13.5</p>
+  <p><strong>Moneyline:</strong> Robert Morris Colonials (+612) | Nevada Wolf Pack (-1055)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Robert Morris Colonials**: 12.5, Edge For Covering Spread: -4.1%
-- **Nevada Wolf Pack**: -12.5, Edge For Covering Spread: -0.7%
+- **Robert Morris Colonials**: 13.5, Edge For Covering Spread: -2.4%
+- **Nevada Wolf Pack**: -13.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Robert Morris Colonials Win Probability**: 14.3%, Moneyline Edge: -1.1%
-- **Nevada Wolf Pack Win Probability**: 85.7%, Moneyline Edge: -3.2%
+- **Robert Morris Colonials Win Probability**: 13.5%, Moneyline Edge: -0.5%
+- **Nevada Wolf Pack Win Probability**: 86.5%, Moneyline Edge: -4.8%
 
 ### Total
-- **Predicted Total**: 144.0
-- Edge For Covering The Over: -2.1%
-- Edge For Covering The Under: -2.7%
+- **Predicted Total**: 145.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Nevada Wolf Pack (24-13) hosts Robert Morris Colonials (22-11) at Lawlor Events Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Nevada Wolf Pack favored by 12.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Nevada Wolf Pack (24-13) hosts Robert Morris Colonials (22-11) at Lawlor Events Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Nevada Wolf Pack favored by 13.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 12.5-point spread screams mismatch. The books are asking Robert Morris Colonials to hang within two possessions, which based on the profiles, requires Nevada Wolf Pack to play below their standard. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 13.5-point spread screams mismatch. The books are asking Robert Morris Colonials to hang within two possessions, which based on the profiles, requires Nevada Wolf Pack to play below their standard. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Robert Morris Colonials** bring an offensive efficiency of 114.07 (ranked #71 nationally). They're solid offensively, capable of putting up points but not overwhelming. The three-ball has been a weapon, connecting at 38.0% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

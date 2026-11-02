@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Iona Gaels -1.0</p>
-  <p><strong>Moneyline:</strong> Vermont Catamounts (N/A) | Iona Gaels (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Iona Gaels -1.5</p>
+  <p><strong>Moneyline:</strong> Vermont Catamounts (-105) | Iona Gaels (-115)</p>
+  <p><strong>Total:</strong> 146.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Vermont Catamounts**: 1.0, Edge For Covering Spread: -2.4%
-- **Iona Gaels**: -1.0, Edge For Covering Spread: -2.4%
+- **Vermont Catamounts**: 1.5, Edge For Covering Spread: -2.9%
+- **Iona Gaels**: -1.5, Edge For Covering Spread: -1.8%
 
 ### Moneyline
-- **Vermont Catamounts Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Iona Gaels Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Vermont Catamounts Win Probability**: 47.0%, Moneyline Edge: -4.3%
+- **Iona Gaels Win Probability**: 53.0%, Moneyline Edge: -0.4%
 
 ### Total
-- **Predicted Total**: 149.0
-- Edge For Covering The Over: **0.2%**
-- Edge For Covering The Under: -4.9%
+- **Predicted Total**: 147.5
+- Edge For Covering The Over: **1.0%**
+- Edge For Covering The Under: -5.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Vermont Catamounts (22-12) travels to face Iona Gaels (18-14) at Hynes Athletics Center in what shapes up to be a competitive matchup. The early betting action has shaped into Iona Gaels favored by 1.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Vermont Catamounts (22-12) travels to face Iona Gaels (18-14) at Hynes Athletics Center in what shapes up to be a competitive matchup. The early betting action has shaped into Iona Gaels favored by 1.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Iona Gaels's 1.0-point cushion reflects home court advantage more than a talent gap. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Iona Gaels's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Vermont Catamounts** bring an offensive efficiency of 110.62 (ranked #126 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.3% three-point shooting is serviceable but won't scare anyone. 

@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UCF Knights -22.0</p>
-  <p><strong>Moneyline:</strong> Florida Gulf Coast Eagles (N/A) | UCF Knights (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> UCF Knights -22.5</p>
+  <p><strong>Moneyline:</strong> Florida Gulf Coast Eagles (+2200) | UCF Knights (-8000)</p>
+  <p><strong>Total:</strong> 151.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Gulf Coast Eagles**: 22.0, Edge For Covering Spread: -0.8%
-- **UCF Knights**: -22.0, Edge For Covering Spread: -4.0%
+- **Florida Gulf Coast Eagles**: 22.5, Edge For Covering Spread: -0.8%
+- **UCF Knights**: -22.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Florida Gulf Coast Eagles Win Probability**: N/A, Moneyline Edge: 0.0%
-- **UCF Knights Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Florida Gulf Coast Eagles Win Probability**: 4.1%, Moneyline Edge: -0.2%
+- **UCF Knights Win Probability**: 95.9%, Moneyline Edge: -2.9%
 
 ### Total
-- **Predicted Total**: 153.0
-- Edge For Covering The Over: -0.1%
-- Edge For Covering The Under: -4.6%
+- **Predicted Total**: 154.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-UCF Knights (21-12) hosts Florida Gulf Coast Eagles (16-18) at Addition Financial Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UCF Knights favored by 22.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+UCF Knights (21-12) hosts Florida Gulf Coast Eagles (16-18) at Addition Financial Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into UCF Knights favored by 22.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 22.0-point spread screams mismatch. The books are asking Florida Gulf Coast Eagles to hang within two possessions, which based on the profiles, requires UCF Knights to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 22.5-point spread screams mismatch. The books are asking Florida Gulf Coast Eagles to hang within two possessions, which based on the profiles, requires UCF Knights to play below their standard. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Florida Gulf Coast Eagles** bring an offensive efficiency of 109.61 (ranked #143 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.2% three-point shooting is serviceable but won't scare anyone. 

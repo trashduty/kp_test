@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Pittsburgh Panthers -27.5</p>
-  <p><strong>Moneyline:</strong> Rider Broncs (+4121) | Pittsburgh Panthers (-20000)</p>
+  <p><strong>Moneyline:</strong> Rider Broncs (+4446) | Pittsburgh Panthers (-37506)</p>
   <p><strong>Total:</strong> 142.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Rider Broncs**: 27.5, Edge For Covering Spread: -3.5%
-- **Pittsburgh Panthers**: -27.5, Edge For Covering Spread: -1.2%
+- **Rider Broncs**: 27.5, Edge For Covering Spread: -0.7%
+- **Pittsburgh Panthers**: -27.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Rider Broncs Win Probability**: 2.2%, Moneyline Edge: -0.2%
-- **Pittsburgh Panthers Win Probability**: 97.8%, Moneyline Edge: -1.7%
+- **Rider Broncs Win Probability**: 2.1%, Moneyline Edge: -0.1%
+- **Pittsburgh Panthers Win Probability**: 97.9%, Moneyline Edge: -1.8%
 
 ### Total
 - **Predicted Total**: 143.5

@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Columbia Lions -3.0</p>
-  <p><strong>Moneyline:</strong> Elon Phoenix (+135) | Columbia Lions (-160)</p>
+  <p><strong>Spread:</strong> Columbia Lions -3.5</p>
+  <p><strong>Moneyline:</strong> Elon Phoenix (+140) | Columbia Lions (-170)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Elon Phoenix**: 3.0, Edge For Covering Spread: -4.0%
-- **Columbia Lions**: -3.0, Edge For Covering Spread: -0.8%
+- **Elon Phoenix**: 3.5, Edge For Covering Spread: -4.0%
+- **Columbia Lions**: -3.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Elon Phoenix Win Probability**: 39.5%, Moneyline Edge: -3.1%
-- **Columbia Lions Win Probability**: 60.5%, Moneyline Edge: -1.1%
+- **Elon Phoenix Win Probability**: 38.9%, Moneyline Edge: -2.7%
+- **Columbia Lions Win Probability**: 61.1%, Moneyline Edge: -1.9%
 
 ### Total
 - **Predicted Total**: 152.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Columbia Lions (16-12) hosts Elon Phoenix (14-18) at Levien Gymnasium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Columbia Lions favored by 3.0 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Columbia Lions (16-12) hosts Elon Phoenix (14-18) at Levien Gymnasium in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Columbia Lions favored by 3.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 3.0-point spread indicates Columbia Lions is viewed as the better team, but this isn't an overwhelming edge. Elon Phoenix has a legitimate path to covering or winning outright. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 3.5-point spread indicates Columbia Lions is viewed as the better team, but this isn't an overwhelming edge. Elon Phoenix has a legitimate path to covering or winning outright. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Elon Phoenix** bring an offensive efficiency of 111.08 (ranked #121 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.3% three-point shooting is serviceable but won't scare anyone. 

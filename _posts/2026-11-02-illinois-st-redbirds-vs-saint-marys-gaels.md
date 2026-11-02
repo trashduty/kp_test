@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Saint Mary's Gaels -7.0</p>
-  <p><strong>Moneyline:</strong> Illinois St Redbirds (+230) | Saint Mary's Gaels (-285)</p>
+  <p><strong>Spread:</strong> Saint Mary's Gaels -6.5</p>
+  <p><strong>Moneyline:</strong> Illinois St Redbirds (+225) | Saint Mary's Gaels (-282)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Illinois St Redbirds**: 7.0, Edge For Covering Spread: -4.0%
-- **Saint Mary's Gaels**: -7.0, Edge For Covering Spread: -0.8%
+- **Illinois St Redbirds**: 6.5, Edge For Covering Spread: -6.7%
+- **Saint Mary's Gaels**: -6.5, Edge For Covering Spread: **1.1%**
 
 ### Moneyline
-- **Illinois St Redbirds Win Probability**: 25.5%, Moneyline Edge: -4.8%
-- **Saint Mary's Gaels Win Probability**: 74.5%, Moneyline Edge: **0.5%**
+- **Illinois St Redbirds Win Probability**: 25.7%, Moneyline Edge: -5.1%
+- **Saint Mary's Gaels Win Probability**: 74.3%, Moneyline Edge: **0.4%**
 
 ### Total
-- **Predicted Total**: 147.0
-- Edge For Covering The Over: -1.4%
-- Edge For Covering The Under: -3.4%
+- **Predicted Total**: 148.0
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Saint Mary's Gaels (27-6) hosts Illinois St Redbirds (23-13) at University Credit Union Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Saint Mary's Gaels favored by 7.0 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Saint Mary's Gaels (27-6) hosts Illinois St Redbirds (23-13) at University Credit Union Pavilion in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Saint Mary's Gaels favored by 6.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.0 points tells us Saint Mary's Gaels has clear advantages, but games aren't played on paper. Illinois St Redbirds needs to punch above their weight class to keep this close. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 6.5-point spread indicates Saint Mary's Gaels is viewed as the better team, but this isn't an overwhelming edge. Illinois St Redbirds has a legitimate path to covering or winning outright. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Illinois St Redbirds** bring an offensive efficiency of 109.53 (ranked #145 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 34.9% three-point shooting is serviceable but won't scare anyone. 

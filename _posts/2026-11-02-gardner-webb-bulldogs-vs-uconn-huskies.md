@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> UConn Huskies -38.5</p>
-  <p><strong>Moneyline:</strong> Gardner-Webb Bulldogs (+30000) | UConn Huskies (-100000)</p>
+  <p><strong>Moneyline:</strong> Gardner-Webb Bulldogs (+10444) | UConn Huskies (-100000)</p>
   <p><strong>Total:</strong> 147.5</p>
 </div>
 
@@ -28,8 +28,8 @@ All that being said, here's how our model prices this game.
 - **UConn Huskies**: -38.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Gardner-Webb Bulldogs Win Probability**: 0.2%, Moneyline Edge: -0.1%
-- **UConn Huskies Win Probability**: 99.8%, Moneyline Edge: -0.1%
+- **Gardner-Webb Bulldogs Win Probability**: 0.5%, Moneyline Edge: -0.4%
+- **UConn Huskies Win Probability**: 99.5%, Moneyline Edge: -0.4%
 
 ### Total
 - **Predicted Total**: 148.0

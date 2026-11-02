@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Florida Gators -4.5</p>
-  <p><strong>Moneyline:</strong> Florida Gators (-205) | Miami Hurricanes (+170)</p>
+  <p><strong>Spread:</strong> Florida Gators -5.5</p>
+  <p><strong>Moneyline:</strong> Florida Gators (-210) | Miami Hurricanes (+170)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida Gators**: -4.5, Edge For Covering Spread: **0.8%**
-- **Miami Hurricanes**: 4.5, Edge For Covering Spread: -5.6%
+- **Florida Gators**: -5.5, Edge For Covering Spread: -0.8%
+- **Miami Hurricanes**: 5.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Florida Gators Win Probability**: 68.9%, Moneyline Edge: **1.7%**
-- **Miami Hurricanes Win Probability**: 31.1%, Moneyline Edge: -6.0%
+- **Florida Gators Win Probability**: 68.7%, Moneyline Edge: **0.9%**
+- **Miami Hurricanes Win Probability**: 31.3%, Moneyline Edge: -5.7%
 
 ### Total
-- **Predicted Total**: 161.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 160.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Florida Gators (27-8) travels to face Miami Hurricanes (26-9) at Watsco Center in what shapes up to be a competitive matchup. The early betting action has shaped into Florida Gators favored by 4.5 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Florida Gators (27-8) travels to face Miami Hurricanes (26-9) at Watsco Center in what shapes up to be a competitive matchup. The early betting action has shaped into Florida Gators favored by 5.5 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Florida Gators is viewed as the better team, but this isn't an overwhelming edge. Miami Hurricanes has a legitimate path to covering or winning outright. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 5.5-point spread indicates Florida Gators is viewed as the better team, but this isn't an overwhelming edge. Miami Hurricanes has a legitimate path to covering or winning outright. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Florida Gators** bring an offensive efficiency of 120.98 (ranked #9 nationally). This is an elite offense that can score in multiple ways. At 31.2% from three, they can't rely on the arc. Expect a paint-focused attack. 

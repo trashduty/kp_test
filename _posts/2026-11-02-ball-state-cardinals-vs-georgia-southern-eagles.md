@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Ball State Cardinals -1.5</p>
-  <p><strong>Moneyline:</strong> Ball State Cardinals (-132) | Georgia Southern Eagles (+112)</p>
+  <p><strong>Spread:</strong> Ball State Cardinals -2.5</p>
+  <p><strong>Moneyline:</strong> Ball State Cardinals (-142) | Georgia Southern Eagles (+115)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Ball State Cardinals**: -1.5, Edge For Covering Spread: -0.8%
-- **Georgia Southern Eagles**: 1.5, Edge For Covering Spread: -4.0%
+- **Ball State Cardinals**: -2.5, Edge For Covering Spread: -0.8%
+- **Georgia Southern Eagles**: 2.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Ball State Cardinals Win Probability**: 57.9%, Moneyline Edge: **0.9%**
-- **Georgia Southern Eagles Win Probability**: 42.1%, Moneyline Edge: -5.0%
+- **Ball State Cardinals Win Probability**: 58.4%, Moneyline Edge: -0.3%
+- **Georgia Southern Eagles Win Probability**: 41.6%, Moneyline Edge: -4.8%
 
 ### Total
-- **Predicted Total**: 156.0
+- **Predicted Total**: 157.0
 - Edge For Covering The Over: -4.9%
-- Edge For Covering The Under: -1.5%
+- Edge For Covering The Under: **0.2%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Georgia Southern Eagles (21-16) hosts Ball State Cardinals (12-19) at Hill Convocation Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Ball State Cardinals favored by 1.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Georgia Southern Eagles (21-16) hosts Ball State Cardinals (12-19) at Hill Convocation Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Ball State Cardinals favored by 2.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Ball State Cardinals's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Ball State Cardinals's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Ball State Cardinals** bring an offensive efficiency of 100.08 (ranked #327 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.4% from three, they can't rely on the arc. Expect a paint-focused attack. 

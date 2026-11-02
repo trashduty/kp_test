@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Indiana Hoosiers -34.5</p>
-  <p><strong>Moneyline:</strong> Eastern Illinois Panthers (+12000) | Indiana Hoosiers (-100000)</p>
+  <p><strong>Moneyline:</strong> Eastern Illinois Panthers (+8000) | Indiana Hoosiers (-50000)</p>
   <p><strong>Total:</strong> 143.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Eastern Illinois Panthers**: 34.5, Edge For Covering Spread: **1.2%**
-- **Indiana Hoosiers**: -34.5, Edge For Covering Spread: -6.0%
+- **Eastern Illinois Panthers**: 34.5, Edge For Covering Spread: **1.0%**
+- **Indiana Hoosiers**: -34.5, Edge For Covering Spread: -5.7%
 
 ### Moneyline
-- **Eastern Illinois Panthers Win Probability**: 0.6%, Moneyline Edge: -0.2%
-- **Indiana Hoosiers Win Probability**: 99.4%, Moneyline Edge: -0.5%
+- **Eastern Illinois Panthers Win Probability**: 0.8%, Moneyline Edge: -0.4%
+- **Indiana Hoosiers Win Probability**: 99.2%, Moneyline Edge: -0.6%
 
 ### Total
 - **Predicted Total**: 145.5
-- Edge For Covering The Over: **0.6%**
-- Edge For Covering The Under: -5.4%
+- Edge For Covering The Over: **1.1%**
+- Edge For Covering The Under: -5.9%
 
 ---
 

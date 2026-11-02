@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Belmont Bruins -16.0</p>
-  <p><strong>Moneyline:</strong> Southern Indiana Screaming Eagles (+1030) | Belmont Bruins (-1851)</p>
+  <p><strong>Spread:</strong> Belmont Bruins -17.0</p>
+  <p><strong>Moneyline:</strong> Southern Indiana Screaming Eagles (+1200) | Belmont Bruins (-2860)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Southern Indiana Screaming Eagles**: 16.0, Edge For Covering Spread: -5.6%
-- **Belmont Bruins**: -16.0, Edge For Covering Spread: **0.8%**
+- **Southern Indiana Screaming Eagles**: 17.0, Edge For Covering Spread: -4.0%
+- **Belmont Bruins**: -17.0, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Southern Indiana Screaming Eagles Win Probability**: 7.8%, Moneyline Edge: -1.1%
-- **Belmont Bruins Win Probability**: 92.2%, Moneyline Edge: -2.6%
+- **Southern Indiana Screaming Eagles Win Probability**: 7.2%, Moneyline Edge: -0.5%
+- **Belmont Bruins Win Probability**: 92.8%, Moneyline Edge: -3.8%
 
 ### Total
-- **Predicted Total**: 152.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 154.5
+- Edge For Covering The Over: -3.5%
+- Edge For Covering The Under: -1.2%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Belmont Bruins (26-6) hosts Southern Indiana Screaming Eagles (7-23) at Curb Event Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Belmont Bruins favored by 16.0 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Belmont Bruins (26-6) hosts Southern Indiana Screaming Eagles (7-23) at Curb Event Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Belmont Bruins favored by 17.0 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 16.0-point spread screams mismatch. The books are asking Southern Indiana Screaming Eagles to hang within two possessions, which based on the profiles, requires Belmont Bruins to play below their standard. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 17.0-point spread screams mismatch. The books are asking Southern Indiana Screaming Eagles to hang within two possessions, which based on the profiles, requires Belmont Bruins to play below their standard. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Southern Indiana Screaming Eagles** bring an offensive efficiency of 97.15 (ranked #344 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 29.9% from three, they can't rely on the arc. Expect a paint-focused attack. 

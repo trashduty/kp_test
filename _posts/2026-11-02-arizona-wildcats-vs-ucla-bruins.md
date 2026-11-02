@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arizona Wildcats -4.5</p>
-  <p><strong>Moneyline:</strong> Arizona Wildcats (-200) | UCLA Bruins (+165)</p>
+  <p><strong>Moneyline:</strong> Arizona Wildcats (-195) | UCLA Bruins (+162)</p>
   <p><strong>Total:</strong> 150.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Arizona Wildcats**: -4.5, Edge For Covering Spread: **0.8%**
-- **UCLA Bruins**: 4.5, Edge For Covering Spread: -5.6%
+- **Arizona Wildcats**: -4.5, Edge For Covering Spread: -1.9%
+- **UCLA Bruins**: 4.5, Edge For Covering Spread: -3.5%
 
 ### Moneyline
-- **Arizona Wildcats Win Probability**: 65.9%, Moneyline Edge: -0.7%
-- **UCLA Bruins Win Probability**: 34.1%, Moneyline Edge: -3.7%
+- **Arizona Wildcats Win Probability**: 65.7%, Moneyline Edge: -0.4%
+- **UCLA Bruins Win Probability**: 34.3%, Moneyline Edge: -3.9%
 
 ### Total
-- **Predicted Total**: 150.5
-- Edge For Covering The Over: -0.8%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 151.0
+- Edge For Covering The Over: -1.4%
+- Edge For Covering The Under: -4.0%
 
 ---
 

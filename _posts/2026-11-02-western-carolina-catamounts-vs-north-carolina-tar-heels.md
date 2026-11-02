@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> North Carolina Tar Heels -22.5</p>
-  <p><strong>Moneyline:</strong> Western Carolina Catamounts (+1981) | North Carolina Tar Heels (-5455)</p>
+  <p><strong>Moneyline:</strong> Western Carolina Catamounts (+2400) | North Carolina Tar Heels (-10000)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **North Carolina Tar Heels**: -22.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Western Carolina Catamounts Win Probability**: 4.0%, Moneyline Edge: -0.8%
-- **North Carolina Tar Heels Win Probability**: 96.0%, Moneyline Edge: -2.2%
+- **Western Carolina Catamounts Win Probability**: 3.8%, Moneyline Edge: -0.2%
+- **North Carolina Tar Heels Win Probability**: 96.2%, Moneyline Edge: -2.8%
 
 ### Total
-- **Predicted Total**: 155.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 156.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> BYU Cougars -3.5</p>
-  <p><strong>Moneyline:</strong> Ohio State Buckeyes (+125) | BYU Cougars (-148)</p>
+  <p><strong>Moneyline:</strong> Ohio State Buckeyes (+135) | BYU Cougars (-162)</p>
   <p><strong>Total:</strong> 160.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **BYU Cougars**: -3.5, Edge For Covering Spread: -7.2%
 
 ### Moneyline
-- **Ohio State Buckeyes Win Probability**: 46.3%, Moneyline Edge: **1.9%**
-- **BYU Cougars Win Probability**: 53.7%, Moneyline Edge: -6.0%
+- **Ohio State Buckeyes Win Probability**: 45.4%, Moneyline Edge: **2.8%**
+- **BYU Cougars Win Probability**: 54.6%, Moneyline Edge: -7.2%
 
 ### Total
 - **Predicted Total**: 160.0
 - Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- Edge For Covering The Under: -2.3%
 
 ---
 

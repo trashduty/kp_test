@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Temple Owls -15.0</p>
-  <p><strong>Moneyline:</strong> Central Connecticut St Blue Devils (N/A) | Temple Owls (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Temple Owls -15.5</p>
+  <p><strong>Moneyline:</strong> Central Connecticut St Blue Devils (+1048) | Temple Owls (-2100)</p>
+  <p><strong>Total:</strong> 143.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Central Connecticut St Blue Devils**: 15.0, Edge For Covering Spread: -4.1%
-- **Temple Owls**: -15.0, Edge For Covering Spread: -0.7%
+- **Central Connecticut St Blue Devils**: 15.5, Edge For Covering Spread: -4.1%
+- **Temple Owls**: -15.5, Edge For Covering Spread: -0.7%
 
 ### Moneyline
-- **Central Connecticut St Blue Devils Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Temple Owls Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Central Connecticut St Blue Devils Win Probability**: 7.7%, Moneyline Edge: -1.0%
+- **Temple Owls Win Probability**: 92.3%, Moneyline Edge: -3.1%
 
 ### Total
-- **Predicted Total**: 145.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -4.6%
+- **Predicted Total**: 144.5
+- Edge For Covering The Over: -0.9%
+- Edge For Covering The Under: -3.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Temple Owls (16-16) hosts Central Connecticut St Blue Devils (18-12) at The Liacouras Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Temple Owls favored by 15.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Temple Owls (16-16) hosts Central Connecticut St Blue Devils (18-12) at The Liacouras Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Temple Owls favored by 15.5 points, with the total sitting at 143.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 15.0-point spread screams mismatch. The books are asking Central Connecticut St Blue Devils to hang within two possessions, which based on the profiles, requires Temple Owls to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 15.5-point spread screams mismatch. The books are asking Central Connecticut St Blue Devils to hang within two possessions, which based on the profiles, requires Temple Owls to play below their standard. The total of 143.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Central Connecticut St Blue Devils** bring an offensive efficiency of 107.72 (ranked #189 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.8% three-point shooting is serviceable but won't scare anyone. 

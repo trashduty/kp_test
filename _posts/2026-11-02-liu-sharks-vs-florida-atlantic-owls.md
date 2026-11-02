@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Florida Atlantic Owls -10.0</p>
-  <p><strong>Moneyline:</strong> LIU Sharks (N/A) | Florida Atlantic Owls (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Florida Atlantic Owls -10.5</p>
+  <p><strong>Moneyline:</strong> LIU Sharks (+425) | Florida Atlantic Owls (-650)</p>
+  <p><strong>Total:</strong> 153.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **LIU Sharks**: 10.0, Edge For Covering Spread: -5.6%
-- **Florida Atlantic Owls**: -10.0, Edge For Covering Spread: **0.8%**
+- **LIU Sharks**: 10.5, Edge For Covering Spread: -5.6%
+- **Florida Atlantic Owls**: -10.5, Edge For Covering Spread: **0.8%**
 
 ### Moneyline
-- **LIU Sharks Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Florida Atlantic Owls Win Probability**: N/A, Moneyline Edge: 0.0%
+- **LIU Sharks Win Probability**: 16.0%, Moneyline Edge: -3.0%
+- **Florida Atlantic Owls Win Probability**: 84.0%, Moneyline Edge: -2.7%
 
 ### Total
-- **Predicted Total**: 155.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -4.7%
+- **Predicted Total**: 154.5
+- Edge For Covering The Over: -1.1%
+- Edge For Covering The Under: -3.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Florida Atlantic Owls (18-15) hosts LIU Sharks (24-11) at Baldwin Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Florida Atlantic Owls favored by 10.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Florida Atlantic Owls (18-15) hosts LIU Sharks (24-11) at Baldwin Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Florida Atlantic Owls favored by 10.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.0 points tells us Florida Atlantic Owls has clear advantages, but games aren't played on paper. LIU Sharks needs to punch above their weight class to keep this close. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 10.5 points tells us Florida Atlantic Owls has clear advantages, but games aren't played on paper. LIU Sharks needs to punch above their weight class to keep this close. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **LIU Sharks** bring an offensive efficiency of 107.67 (ranked #190 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.8% three-point shooting is serviceable but won't scare anyone. 

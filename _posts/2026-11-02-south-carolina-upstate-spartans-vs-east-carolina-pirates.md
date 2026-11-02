@@ -12,8 +12,8 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> East Carolina Pirates -13.0</p>
-  <p><strong>Moneyline:</strong> South Carolina Upstate Spartans (N/A) | East Carolina Pirates (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Moneyline:</strong> South Carolina Upstate Spartans (+638) | East Carolina Pirates (-997)</p>
+  <p><strong>Total:</strong> 149.5</p>
 </div>
 
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **East Carolina Pirates**: -13.0, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **South Carolina Upstate Spartans Win Probability**: N/A, Moneyline Edge: 0.0%
-- **East Carolina Pirates Win Probability**: N/A, Moneyline Edge: 0.0%
+- **South Carolina Upstate Spartans Win Probability**: 11.5%, Moneyline Edge: -2.1%
+- **East Carolina Pirates Win Probability**: 88.5%, Moneyline Edge: -2.4%
 
 ### Total
-- **Predicted Total**: 151.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -3.9%
+- **Predicted Total**: 152.0
+- Edge For Covering The Over: -1.6%
+- Edge For Covering The Under: -3.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-East Carolina Pirates (11-20) hosts South Carolina Upstate Spartans (13-19) at Williams Arena at Minges Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into East Carolina Pirates favored by 13.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+East Carolina Pirates (11-20) hosts South Carolina Upstate Spartans (13-19) at Williams Arena at Minges Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into East Carolina Pirates favored by 13.0 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 13.0-point spread screams mismatch. The books are asking South Carolina Upstate Spartans to hang within two possessions, which based on the profiles, requires East Carolina Pirates to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 13.0-point spread screams mismatch. The books are asking South Carolina Upstate Spartans to hang within two possessions, which based on the profiles, requires East Carolina Pirates to play below their standard. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **South Carolina Upstate Spartans** bring an offensive efficiency of 100.67 (ranked #319 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.4% from three, they can't rely on the arc. Expect a paint-focused attack. 

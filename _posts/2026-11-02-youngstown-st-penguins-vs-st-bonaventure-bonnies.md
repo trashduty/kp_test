@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> St. Bonaventure Bonnies -10.0</p>
-  <p><strong>Moneyline:</strong> Youngstown St Penguins (+365) | St. Bonaventure Bonnies (-480)</p>
+  <p><strong>Spread:</strong> St. Bonaventure Bonnies -10.5</p>
+  <p><strong>Moneyline:</strong> Youngstown St Penguins (+447) | St. Bonaventure Bonnies (-617)</p>
   <p><strong>Total:</strong> 151.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Youngstown St Penguins**: 10.0, Edge For Covering Spread: -2.4%
-- **St. Bonaventure Bonnies**: -10.0, Edge For Covering Spread: -2.4%
+- **Youngstown St Penguins**: 10.5, Edge For Covering Spread: -2.8%
+- **St. Bonaventure Bonnies**: -10.5, Edge For Covering Spread: -1.9%
 
 ### Moneyline
-- **Youngstown St Penguins Win Probability**: 17.3%, Moneyline Edge: -4.2%
-- **St. Bonaventure Bonnies Win Probability**: 82.7%, Moneyline Edge: -0.1%
+- **Youngstown St Penguins Win Probability**: 15.5%, Moneyline Edge: -2.8%
+- **St. Bonaventure Bonnies Win Probability**: 84.5%, Moneyline Edge: -1.5%
 
 ### Total
-- **Predicted Total**: 152.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 153.5
+- Edge For Covering The Over: -2.8%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-St. Bonaventure Bonnies (17-17) hosts Youngstown St Penguins (15-17) at Reilly Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into St. Bonaventure Bonnies favored by 10.0 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+St. Bonaventure Bonnies (17-17) hosts Youngstown St Penguins (15-17) at Reilly Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into St. Bonaventure Bonnies favored by 10.5 points, with the total sitting at 151.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 10.0 points tells us St. Bonaventure Bonnies has clear advantages, but games aren't played on paper. Youngstown St Penguins needs to punch above their weight class to keep this close. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread around 10.5 points tells us St. Bonaventure Bonnies has clear advantages, but games aren't played on paper. Youngstown St Penguins needs to punch above their weight class to keep this close. The total of 151.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Youngstown St Penguins** bring an offensive efficiency of 109.13 (ranked #155 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.7% three-point shooting is serviceable but won't scare anyone. 

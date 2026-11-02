@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> DePaul Blue Demons -23.5</p>
-  <p><strong>Moneyline:</strong> West Georgia Wolves (+2465) | DePaul Blue Demons (-8471)</p>
+  <p><strong>Spread:</strong> DePaul Blue Demons -24.5</p>
+  <p><strong>Moneyline:</strong> West Georgia Wolves (+2897) | DePaul Blue Demons (-10000)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **West Georgia Wolves**: 23.5, Edge For Covering Spread: -0.8%
-- **DePaul Blue Demons**: -23.5, Edge For Covering Spread: -4.0%
+- **West Georgia Wolves**: 24.5, Edge For Covering Spread: -0.7%
+- **DePaul Blue Demons**: -24.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **West Georgia Wolves Win Probability**: 3.8%, Moneyline Edge: -0.1%
-- **DePaul Blue Demons Win Probability**: 96.2%, Moneyline Edge: -2.7%
+- **West Georgia Wolves Win Probability**: 3.6%, Moneyline Edge: **0.2%**
+- **DePaul Blue Demons Win Probability**: 96.4%, Moneyline Edge: -2.6%
 
 ### Total
-- **Predicted Total**: 147.5
-- Edge For Covering The Over: -0.3%
-- Edge For Covering The Under: -5.9%
+- **Predicted Total**: 146.5
+- Edge For Covering The Over: **0.2%**
+- Edge For Covering The Under: -4.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-DePaul Blue Demons (16-16) hosts West Georgia Wolves (15-17) at Wintrust Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into DePaul Blue Demons favored by 23.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+DePaul Blue Demons (16-16) hosts West Georgia Wolves (15-17) at Wintrust Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into DePaul Blue Demons favored by 24.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 23.5-point spread screams mismatch. The books are asking West Georgia Wolves to hang within two possessions, which based on the profiles, requires DePaul Blue Demons to play below their standard. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 24.5-point spread screams mismatch. The books are asking West Georgia Wolves to hang within two possessions, which based on the profiles, requires DePaul Blue Demons to play below their standard. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **West Georgia Wolves** bring an offensive efficiency of 105.99 (ranked #229 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.1% three-point shooting is serviceable but won't scare anyone. 

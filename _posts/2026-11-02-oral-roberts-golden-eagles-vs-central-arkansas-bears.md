@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Central Arkansas Bears -8.5</p>
-  <p><strong>Moneyline:</strong> Oral Roberts Golden Eagles (+315) | Central Arkansas Bears (-405)</p>
+  <p><strong>Moneyline:</strong> Oral Roberts Golden Eagles (+310) | Central Arkansas Bears (-420)</p>
   <p><strong>Total:</strong> 154.5</p>
 </div>
 
@@ -24,16 +24,16 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Oral Roberts Golden Eagles**: 8.5, Edge For Covering Spread: **0.4%**
-- **Central Arkansas Bears**: -8.5, Edge For Covering Spread: -5.1%
+- **Oral Roberts Golden Eagles**: 8.5, Edge For Covering Spread: -0.8%
+- **Central Arkansas Bears**: -8.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Oral Roberts Golden Eagles Win Probability**: 23.6%, Moneyline Edge: -0.5%
-- **Central Arkansas Bears Win Probability**: 76.4%, Moneyline Edge: -3.7%
+- **Oral Roberts Golden Eagles Win Probability**: 23.6%, Moneyline Edge: -0.8%
+- **Central Arkansas Bears Win Probability**: 76.4%, Moneyline Edge: -4.4%
 
 ### Total
 - **Predicted Total**: 155.0
-- Edge For Covering The Over: -1.6%
+- Edge For Covering The Over: -3.6%
 - Edge For Covering The Under: -3.2%
 
 ---

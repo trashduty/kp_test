@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> GW Revolutionaries -16.0</p>
-  <p><strong>Moneyline:</strong> Navy Midshipmen (N/A) | GW Revolutionaries (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> GW Revolutionaries -16.5</p>
+  <p><strong>Moneyline:</strong> Navy Midshipmen (+950) | GW Revolutionaries (-2000)</p>
+  <p><strong>Total:</strong> 148.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Navy Midshipmen**: 16.0, Edge For Covering Spread: **0.8%**
-- **GW Revolutionaries**: -16.0, Edge For Covering Spread: -5.6%
+- **Navy Midshipmen**: 16.5, Edge For Covering Spread: **0.8%**
+- **GW Revolutionaries**: -16.5, Edge For Covering Spread: -6.0%
 
 ### Moneyline
-- **Navy Midshipmen Win Probability**: N/A, Moneyline Edge: 0.0%
-- **GW Revolutionaries Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Navy Midshipmen Win Probability**: 10.0%, Moneyline Edge: **0.5%**
+- **GW Revolutionaries Win Probability**: 90.0%, Moneyline Edge: -5.3%
 
 ### Total
-- **Predicted Total**: 149.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -5.4%
+- **Predicted Total**: 150.0
+- Edge For Covering The Over: -0.6%
+- Edge For Covering The Under: -4.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-GW Revolutionaries (19-16) hosts Navy Midshipmen (26-8) at Charles E. Smith Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into GW Revolutionaries favored by 16.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+GW Revolutionaries (19-16) hosts Navy Midshipmen (26-8) at Charles E. Smith Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into GW Revolutionaries favored by 16.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 16.0-point spread screams mismatch. The books are asking Navy Midshipmen to hang within two possessions, which based on the profiles, requires GW Revolutionaries to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 16.5-point spread screams mismatch. The books are asking Navy Midshipmen to hang within two possessions, which based on the profiles, requires GW Revolutionaries to play below their standard. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Navy Midshipmen** bring an offensive efficiency of 112.47 (ranked #94 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 35.8% three-point shooting is serviceable but won't scare anyone. 

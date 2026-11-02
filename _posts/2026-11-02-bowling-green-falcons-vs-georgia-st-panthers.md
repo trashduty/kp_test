@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Georgia St Panthers -4.0</p>
-  <p><strong>Moneyline:</strong> Bowling Green Falcons (+152) | Georgia St Panthers (-182)</p>
+  <p><strong>Spread:</strong> Georgia St Panthers -4.5</p>
+  <p><strong>Moneyline:</strong> Bowling Green Falcons (+152) | Georgia St Panthers (-185)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Bowling Green Falcons**: 4.0, Edge For Covering Spread: **0.8%**
-- **Georgia St Panthers**: -4.0, Edge For Covering Spread: -5.6%
+- **Bowling Green Falcons**: 4.5, Edge For Covering Spread: **0.8%**
+- **Georgia St Panthers**: -4.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
 - **Bowling Green Falcons Win Probability**: 41.5%, Moneyline Edge: **1.8%**
-- **Georgia St Panthers Win Probability**: 58.5%, Moneyline Edge: -6.1%
+- **Georgia St Panthers Win Probability**: 58.5%, Moneyline Edge: -6.4%
 
 ### Total
-- **Predicted Total**: 156.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 157.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Bowling Green Falcons (18-14) travels to face Georgia St Panthers (10-22) at GSU Convocation Center in what shapes up to be a competitive matchup. The early betting action has shaped into Georgia St Panthers favored by 4.0 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Bowling Green Falcons (18-14) travels to face Georgia St Panthers (10-22) at GSU Convocation Center in what shapes up to be a competitive matchup. The early betting action has shaped into Georgia St Panthers favored by 4.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.0-point spread indicates Georgia St Panthers is viewed as the better team, but this isn't an overwhelming edge. Bowling Green Falcons has a legitimate path to covering or winning outright. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 4.5-point spread indicates Georgia St Panthers is viewed as the better team, but this isn't an overwhelming edge. Bowling Green Falcons has a legitimate path to covering or winning outright. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Bowling Green Falcons** bring an offensive efficiency of 109.23 (ranked #150 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.4% three-point shooting is serviceable but won't scare anyone. 

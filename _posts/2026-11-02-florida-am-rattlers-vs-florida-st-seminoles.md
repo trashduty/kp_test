@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Florida St Seminoles -25.0</p>
-  <p><strong>Moneyline:</strong> Florida A&M Rattlers (N/A) | Florida St Seminoles (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Florida St Seminoles -25.5</p>
+  <p><strong>Moneyline:</strong> Florida A&M Rattlers (+3000) | Florida St Seminoles (-10000)</p>
+  <p><strong>Total:</strong> 155.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Florida A&M Rattlers**: 25.0, Edge For Covering Spread: **1.1%**
-- **Florida St Seminoles**: -25.0, Edge For Covering Spread: -6.1%
+- **Florida A&M Rattlers**: 25.5, Edge For Covering Spread: **2.4%**
+- **Florida St Seminoles**: -25.5, Edge For Covering Spread: -7.2%
 
 ### Moneyline
-- **Florida A&M Rattlers Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Florida St Seminoles Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Florida A&M Rattlers Win Probability**: 3.6%, Moneyline Edge: **0.4%**
+- **Florida St Seminoles Win Probability**: 96.4%, Moneyline Edge: -2.6%
 
 ### Total
-- **Predicted Total**: 156.5
-- Edge For Covering The Over: -3.9%
-- Edge For Covering The Under: -2.7%
+- **Predicted Total**: 155.5
+- Edge For Covering The Over: -0.9%
+- Edge For Covering The Under: -3.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Florida St Seminoles (18-15) hosts Florida A&M Rattlers (15-16) at Donald L. Tucker Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Florida St Seminoles favored by 25.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Florida St Seminoles (18-15) hosts Florida A&M Rattlers (15-16) at Donald L. Tucker Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Florida St Seminoles favored by 25.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 25.0-point spread screams mismatch. The books are asking Florida A&M Rattlers to hang within two possessions, which based on the profiles, requires Florida St Seminoles to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 25.5-point spread screams mismatch. The books are asking Florida A&M Rattlers to hang within two possessions, which based on the profiles, requires Florida St Seminoles to play below their standard. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Florida A&M Rattlers** bring an offensive efficiency of 99.32 (ranked #335 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 32.6% three-point shooting is serviceable but won't scare anyone. 

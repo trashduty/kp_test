@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Clemson Tigers -26.0</p>
-  <p><strong>Moneyline:</strong> Stetson Hatters (N/A) | Clemson Tigers (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Clemson Tigers -25.5</p>
+  <p><strong>Moneyline:</strong> Stetson Hatters (+3500) | Clemson Tigers (-20000)</p>
+  <p><strong>Total:</strong> 146.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Stetson Hatters**: 26.0, Edge For Covering Spread: **0.8%**
-- **Clemson Tigers**: -26.0, Edge For Covering Spread: -5.6%
+- **Stetson Hatters**: 25.5, Edge For Covering Spread: -0.7%
+- **Clemson Tigers**: -25.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Stetson Hatters Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Clemson Tigers Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Stetson Hatters Win Probability**: 2.9%, Moneyline Edge: **0.1%**
+- **Clemson Tigers Win Probability**: 97.1%, Moneyline Edge: -2.4%
 
 ### Total
-- **Predicted Total**: 148.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- **Predicted Total**: 146.5
+- Edge For Covering The Over: **0.6%**
+- Edge For Covering The Under: -5.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Clemson Tigers (24-11) hosts Stetson Hatters (12-21) at Littlejohn Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Clemson Tigers favored by 26.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Clemson Tigers (24-11) hosts Stetson Hatters (12-21) at Littlejohn Coliseum in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Clemson Tigers favored by 25.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 26.0-point spread screams mismatch. The books are asking Stetson Hatters to hang within two possessions, which based on the profiles, requires Clemson Tigers to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 25.5-point spread screams mismatch. The books are asking Stetson Hatters to hang within two possessions, which based on the profiles, requires Clemson Tigers to play below their standard. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Stetson Hatters** bring an offensive efficiency of 105.73 (ranked #235 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 36.0% three-point shooting is serviceable but won't scare anyone. 

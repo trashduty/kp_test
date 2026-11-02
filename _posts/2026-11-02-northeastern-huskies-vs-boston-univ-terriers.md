@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Pick'em</p>
-  <p><strong>Moneyline:</strong> Northeastern Huskies (N/A) | Boston Univ. Terriers (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Boston Univ. Terriers -1.5</p>
+  <p><strong>Moneyline:</strong> Northeastern Huskies (-108) | Boston Univ. Terriers (-112)</p>
+  <p><strong>Total:</strong> 149.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Northeastern Huskies**: -0.0, Edge For Covering Spread: -4.0%
-- **Boston Univ. Terriers**: 0.0, Edge For Covering Spread: -0.8%
+- **Northeastern Huskies**: 1.5, Edge For Covering Spread: -1.9%
+- **Boston Univ. Terriers**: -1.5, Edge For Covering Spread: -2.8%
 
 ### Moneyline
-- **Northeastern Huskies Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Boston Univ. Terriers Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Northeastern Huskies Win Probability**: 48.7%, Moneyline Edge: -3.3%
+- **Boston Univ. Terriers Win Probability**: 51.3%, Moneyline Edge: -1.5%
 
 ### Total
-- **Predicted Total**: 150.5
-- Edge For Covering The Over: N/A
-- Edge For Covering The Under: N/A
+- **Predicted Total**: 151.0
+- Edge For Covering The Over: -1.5%
+- Edge For Covering The Under: -5.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Boston Univ. Terriers (17-17) hosts Northeastern Huskies (7-24) at Case Gym in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Boston Univ. Terriers favored by 0.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Boston Univ. Terriers (17-17) hosts Northeastern Huskies (7-24) at Case Gym in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Boston Univ. Terriers favored by 1.5 points, with the total sitting at 149.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Boston Univ. Terriers's 0.0-point cushion reflects home court advantage more than a talent gap. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Boston Univ. Terriers's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 149.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Northeastern Huskies** bring an offensive efficiency of 107.10 (ranked #207 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 33.7% three-point shooting is serviceable but won't scare anyone. 

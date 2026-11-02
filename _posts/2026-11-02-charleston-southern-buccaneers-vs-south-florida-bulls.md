@@ -12,8 +12,8 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> South Florida Bulls -19.5</p>
-  <p><strong>Moneyline:</strong> Charleston Southern Buccaneers (N/A) | South Florida Bulls (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Moneyline:</strong> Charleston Southern Buccaneers (+1400) | South Florida Bulls (-3598)</p>
+  <p><strong>Total:</strong> 157.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Charleston Southern Buccaneers**: 19.5, Edge For Covering Spread: -4.0%
-- **South Florida Bulls**: -19.5, Edge For Covering Spread: -0.8%
+- **Charleston Southern Buccaneers**: 19.5, Edge For Covering Spread: -4.4%
+- **South Florida Bulls**: -19.5, Edge For Covering Spread: -0.5%
 
 ### Moneyline
-- **Charleston Southern Buccaneers Win Probability**: N/A, Moneyline Edge: 0.0%
-- **South Florida Bulls Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Charleston Southern Buccaneers Win Probability**: 5.7%, Moneyline Edge: -1.0%
+- **South Florida Bulls Win Probability**: 94.3%, Moneyline Edge: -3.0%
 
 ### Total
-- **Predicted Total**: 159.5
-- Edge For Covering The Over: -0.9%
-- Edge For Covering The Under: -5.4%
+- **Predicted Total**: 160.0
+- Edge For Covering The Over: -0.1%
+- Edge For Covering The Under: -4.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-South Florida Bulls (25-9) hosts Charleston Southern Buccaneers (15-17) at Yuengling Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into South Florida Bulls favored by 19.5 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+South Florida Bulls (25-9) hosts Charleston Southern Buccaneers (15-17) at Yuengling Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into South Florida Bulls favored by 19.5 points, with the total sitting at 157.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 19.5-point spread screams mismatch. The books are asking Charleston Southern Buccaneers to hang within two possessions, which based on the profiles, requires South Florida Bulls to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 19.5-point spread screams mismatch. The books are asking Charleston Southern Buccaneers to hang within two possessions, which based on the profiles, requires South Florida Bulls to play below their standard. The total of 157.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Charleston Southern Buccaneers** bring an offensive efficiency of 107.64 (ranked #192 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 35.6% three-point shooting is serviceable but won't scare anyone. 

@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> TCU Horned Frogs -28.5</p>
-  <p><strong>Moneyline:</strong> Lindenwood Lions (+4121) | TCU Horned Frogs (-20000)</p>
+  <p><strong>Moneyline:</strong> Lindenwood Lions (+3500) | TCU Horned Frogs (-20000)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Lindenwood Lions**: 28.5, Edge For Covering Spread: -0.8%
-- **TCU Horned Frogs**: -28.5, Edge For Covering Spread: -4.0%
+- **Lindenwood Lions**: 28.5, Edge For Covering Spread: -1.3%
+- **TCU Horned Frogs**: -28.5, Edge For Covering Spread: -3.8%
 
 ### Moneyline
-- **Lindenwood Lions Win Probability**: 1.7%, Moneyline Edge: -0.7%
-- **TCU Horned Frogs Win Probability**: 98.3%, Moneyline Edge: -1.2%
+- **Lindenwood Lions Win Probability**: 1.9%, Moneyline Edge: -0.9%
+- **TCU Horned Frogs Win Probability**: 98.1%, Moneyline Edge: -1.4%
 
 ### Total
-- **Predicted Total**: 155.0
-- Edge For Covering The Over: -0.1%
-- Edge For Covering The Under: -4.6%
+- **Predicted Total**: 155.5
+- Edge For Covering The Over: -0.9%
+- Edge For Covering The Under: -3.9%
 
 ---
 

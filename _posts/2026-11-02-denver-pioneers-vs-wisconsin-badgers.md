@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Wisconsin Badgers -22.5</p>
-  <p><strong>Moneyline:</strong> Denver Pioneers (+1981) | Wisconsin Badgers (-5455)</p>
+  <p><strong>Spread:</strong> Wisconsin Badgers -23.5</p>
+  <p><strong>Moneyline:</strong> Denver Pioneers (+2800) | Wisconsin Badgers (-10000)</p>
   <p><strong>Total:</strong> 159.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Denver Pioneers**: 22.5, Edge For Covering Spread: -7.2%
-- **Wisconsin Badgers**: -22.5, Edge For Covering Spread: **2.4%**
+- **Denver Pioneers**: 23.5, Edge For Covering Spread: -8.1%
+- **Wisconsin Badgers**: -23.5, Edge For Covering Spread: **2.6%**
 
 ### Moneyline
-- **Denver Pioneers Win Probability**: 3.8%, Moneyline Edge: -1.0%
-- **Wisconsin Badgers Win Probability**: 96.2%, Moneyline Edge: -2.0%
+- **Denver Pioneers Win Probability**: 3.2%, Moneyline Edge: -0.3%
+- **Wisconsin Badgers Win Probability**: 96.8%, Moneyline Edge: -2.2%
 
 ### Total
 - **Predicted Total**: 160.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Wisconsin Badgers (24-11) hosts Denver Pioneers (15-17) at Kohl Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Wisconsin Badgers favored by 22.5 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Wisconsin Badgers (24-11) hosts Denver Pioneers (15-17) at Kohl Center in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Wisconsin Badgers favored by 23.5 points, with the total sitting at 159.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 22.5-point spread screams mismatch. The books are asking Denver Pioneers to hang within two possessions, which based on the profiles, requires Wisconsin Badgers to play below their standard. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 23.5-point spread screams mismatch. The books are asking Denver Pioneers to hang within two possessions, which based on the profiles, requires Wisconsin Badgers to play below their standard. The total of 159.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Denver Pioneers** bring an offensive efficiency of 116.11 (ranked #45 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.8% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

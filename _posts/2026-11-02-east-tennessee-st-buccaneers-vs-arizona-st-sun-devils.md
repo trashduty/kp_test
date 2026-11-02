@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Arizona St Sun Devils -17.5</p>
-  <p><strong>Moneyline:</strong> East Tennessee St Buccaneers (+1048) | Arizona St Sun Devils (-1895)</p>
+  <p><strong>Moneyline:</strong> East Tennessee St Buccaneers (+1124) | Arizona St Sun Devils (-2860)</p>
   <p><strong>Total:</strong> 145.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **East Tennessee St Buccaneers**: 17.5, Edge For Covering Spread: **0.8%**
-- **Arizona St Sun Devils**: -17.5, Edge For Covering Spread: -5.6%
+- **East Tennessee St Buccaneers**: 17.5, Edge For Covering Spread: **2.4%**
+- **Arizona St Sun Devils**: -17.5, Edge For Covering Spread: -7.4%
 
 ### Moneyline
-- **East Tennessee St Buccaneers Win Probability**: 9.2%, Moneyline Edge: **0.5%**
-- **Arizona St Sun Devils Win Probability**: 90.8%, Moneyline Edge: -4.2%
+- **East Tennessee St Buccaneers Win Probability**: 9.1%, Moneyline Edge: **0.9%**
+- **Arizona St Sun Devils Win Probability**: 90.9%, Moneyline Edge: -5.7%
 
 ### Total
-- **Predicted Total**: 148.0
-- Edge For Covering The Over: -0.1%
-- Edge For Covering The Under: -6.1%
+- **Predicted Total**: 147.5
+- Edge For Covering The Over: **0.6%**
+- Edge For Covering The Under: -5.4%
 
 ---
 

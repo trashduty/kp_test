@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Miami (OH) RedHawks -1.0</p>
-  <p><strong>Moneyline:</strong> Miami (OH) RedHawks (-112) | James Madison Dukes (-107)</p>
+  <p><strong>Spread:</strong> Pick'em</p>
+  <p><strong>Moneyline:</strong> Miami (OH) RedHawks (-110) | James Madison Dukes (-110)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Miami (OH) RedHawks**: -1.0, Edge For Covering Spread: -2.8%
-- **James Madison Dukes**: 1.0, Edge For Covering Spread: -1.9%
+- **Miami (OH) RedHawks**: -0.0, Edge For Covering Spread: -2.9%
+- **James Madison Dukes**: 0.0, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **Miami (OH) RedHawks Win Probability**: 51.6%, Moneyline Edge: -1.4%
-- **James Madison Dukes Win Probability**: 48.4%, Moneyline Edge: -3.4%
+- **Miami (OH) RedHawks Win Probability**: 51.4%, Moneyline Edge: -1.0%
+- **James Madison Dukes Win Probability**: 48.6%, Moneyline Edge: -3.8%
 
 ### Total
 - **Predicted Total**: 156.5
-- Edge For Covering The Over: -0.7%
-- Edge For Covering The Under: -4.1%
+- Edge For Covering The Over: N/A
+- Edge For Covering The Under: N/A
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Miami (OH) RedHawks (32-2) travels to face James Madison Dukes (18-15) at Atlantic Union Bank Center in what shapes up to be a competitive matchup. The early betting action has shaped into Miami (OH) RedHawks favored by 1.0 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Miami (OH) RedHawks (32-2) travels to face James Madison Dukes (18-15) at Atlantic Union Bank Center in what shapes up to be a competitive matchup. The early betting action has shaped into James Madison Dukes favored by 0.0 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Miami (OH) RedHawks's 1.0-point cushion reflects home court advantage more than a talent gap. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. James Madison Dukes's 0.0-point cushion reflects home court advantage more than a talent gap. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Miami (OH) RedHawks** bring an offensive efficiency of 119.33 (ranked #19 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 37.1% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

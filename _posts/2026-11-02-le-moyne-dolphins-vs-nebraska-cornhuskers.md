@@ -11,9 +11,9 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Nebraska Cornhuskers -34.0</p>
-  <p><strong>Moneyline:</strong> Le Moyne Dolphins (N/A) | Nebraska Cornhuskers (N/A)</p>
-  <p><strong>Total:</strong> N/A</p>
+  <p><strong>Spread:</strong> Nebraska Cornhuskers -33.5</p>
+  <p><strong>Moneyline:</strong> Le Moyne Dolphins (+6000) | Nebraska Cornhuskers (-20000)</p>
+  <p><strong>Total:</strong> 153.5</p>
 </div>
 
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Le Moyne Dolphins**: 34.0, Edge For Covering Spread: -2.4%
-- **Nebraska Cornhuskers**: -34.0, Edge For Covering Spread: -2.4%
+- **Le Moyne Dolphins**: 33.5, Edge For Covering Spread: -4.0%
+- **Nebraska Cornhuskers**: -33.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Le Moyne Dolphins Win Probability**: N/A, Moneyline Edge: 0.0%
-- **Nebraska Cornhuskers Win Probability**: N/A, Moneyline Edge: 0.0%
+- **Le Moyne Dolphins Win Probability**: 1.0%, Moneyline Edge: -0.7%
+- **Nebraska Cornhuskers Win Probability**: 99.0%, Moneyline Edge: -0.5%
 
 ### Total
-- **Predicted Total**: 154.0
-- Edge For Covering The Over: -1.6%
-- Edge For Covering The Under: -3.1%
+- **Predicted Total**: 153.5
+- Edge For Covering The Over: -0.9%
+- Edge For Covering The Under: -3.9%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Nebraska Cornhuskers (28-7) hosts Le Moyne Dolphins (15-17) at Pinnacle Bank Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Nebraska Cornhuskers favored by 34.0 points, with the total sitting at nan. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Nebraska Cornhuskers (28-7) hosts Le Moyne Dolphins (15-17) at Pinnacle Bank Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Nebraska Cornhuskers favored by 33.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 34.0-point spread screams mismatch. The books are asking Le Moyne Dolphins to hang within two possessions, which based on the profiles, requires Nebraska Cornhuskers to play below their standard. The total of nan points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 33.5-point spread screams mismatch. The books are asking Le Moyne Dolphins to hang within two possessions, which based on the profiles, requires Nebraska Cornhuskers to play below their standard. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Le Moyne Dolphins** bring an offensive efficiency of 104.89 (ranked #252 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.3% three-point shooting is serviceable but won't scare anyone. 

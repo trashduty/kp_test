@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Minnesota Golden Gophers -26.5</p>
-  <p><strong>Moneyline:</strong> North Dakota Fighting Hawks (+5098) | Minnesota Golden Gophers (-50000)</p>
+  <p><strong>Moneyline:</strong> North Dakota Fighting Hawks (+2800) | Minnesota Golden Gophers (-10000)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -28,11 +28,11 @@ All that being said, here's how our model prices this game.
 - **Minnesota Golden Gophers**: -26.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **North Dakota Fighting Hawks Win Probability**: 2.1%, Moneyline Edge: **0.2%**
-- **Minnesota Golden Gophers Win Probability**: 97.9%, Moneyline Edge: -1.9%
+- **North Dakota Fighting Hawks Win Probability**: 2.9%, Moneyline Edge: -0.5%
+- **Minnesota Golden Gophers Win Probability**: 97.1%, Moneyline Edge: -1.9%
 
 ### Total
-- **Predicted Total**: 146.0
+- **Predicted Total**: 147.0
 - Edge For Covering The Over: -3.1%
 - Edge For Covering The Under: -3.1%
 

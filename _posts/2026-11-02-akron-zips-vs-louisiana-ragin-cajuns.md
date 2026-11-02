@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Akron Zips -5.5</p>
-  <p><strong>Moneyline:</strong> Akron Zips (-232) | Louisiana Ragin' Cajuns (+190)</p>
+  <p><strong>Moneyline:</strong> Akron Zips (-237) | Louisiana Ragin' Cajuns (+192)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Louisiana Ragin' Cajuns**: 5.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Akron Zips Win Probability**: 68.5%, Moneyline Edge: -1.4%
-- **Louisiana Ragin' Cajuns Win Probability**: 31.5%, Moneyline Edge: -3.0%
+- **Akron Zips Win Probability**: 68.7%, Moneyline Edge: -1.7%
+- **Louisiana Ragin' Cajuns Win Probability**: 31.3%, Moneyline Edge: -2.8%
 
 ### Total
-- **Predicted Total**: 148.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -1.6%
+- **Predicted Total**: 148.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 
