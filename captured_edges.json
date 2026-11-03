@@ -5358,5 +5358,13 @@
   "Kansas St Wildcats vs. South Dakota St Jackrabbits|Kansas St Wildcats|spread": {
     "captured_at": "2026-11-02T23:08:14.525634+00:00",
     "edge_type": "spread"
+  },
+  "Georgia Tech Yellow Jackets vs. Hampton Pirates|Hampton Pirates|spread": {
+    "captured_at": "2026-11-03T01:10:09.984562+00:00",
+    "edge_type": "spread"
+  },
+  "Virginia Cavaliers vs. Drexel Dragons|Drexel Dragons|spread": {
+    "captured_at": "2026-11-03T01:10:09.984763+00:00",
+    "edge_type": "spread"
   }
 }
