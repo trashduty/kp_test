@@ -5366,5 +5366,9 @@
   "Virginia Cavaliers vs. Drexel Dragons|Drexel Dragons|spread": {
     "captured_at": "2026-11-03T01:10:09.984763+00:00",
     "edge_type": "spread"
+  },
+  "Boston College Eagles vs. Wagner Seahawks|Boston College Eagles|spread": {
+    "captured_at": "2026-11-03T05:09:44.696343+00:00",
+    "edge_type": "spread"
   }
 }
