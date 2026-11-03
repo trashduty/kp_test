@@ -5374,5 +5374,9 @@
   "LSU Tigers vs. New Orleans Privateers|New Orleans Privateers|spread": {
     "captured_at": "2026-11-03T06:15:19.993313+00:00",
     "edge_type": "spread"
+  },
+  "Wichita St Shockers vs. CSU Northridge Matadors|Wichita St Shockers|spread": {
+    "captured_at": "2026-11-03T20:10:27.217288+00:00",
+    "edge_type": "spread"
   }
 }
