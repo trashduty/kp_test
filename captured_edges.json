@@ -5378,5 +5378,9 @@
   "Wichita St Shockers vs. CSU Northridge Matadors|Wichita St Shockers|spread": {
     "captured_at": "2026-11-03T20:10:27.217288+00:00",
     "edge_type": "spread"
+  },
+  "South Dakota Coyotes vs. Northern Kentucky Norse|South Dakota Coyotes|spread": {
+    "captured_at": "2026-11-03T22:08:29.470939+00:00",
+    "edge_type": "spread"
   }
 }
