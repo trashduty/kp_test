@@ -5370,5 +5370,9 @@
   "Boston College Eagles vs. Wagner Seahawks|Boston College Eagles|spread": {
     "captured_at": "2026-11-03T05:09:44.696343+00:00",
     "edge_type": "spread"
+  },
+  "LSU Tigers vs. New Orleans Privateers|New Orleans Privateers|spread": {
+    "captured_at": "2026-11-03T06:15:19.993313+00:00",
+    "edge_type": "spread"
   }
 }
