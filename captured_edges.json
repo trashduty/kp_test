@@ -5390,5 +5390,21 @@
   "Duke Blue Devils vs. Coastal Carolina Chanticleers|Coastal Carolina Chanticleers|spread": {
     "captured_at": "2026-11-04T18:10:56.049362+00:00",
     "edge_type": "spread"
+  },
+  "Princeton Tigers vs. Hofstra Pride|Princeton Tigers|moneyline": {
+    "captured_at": "2026-11-04T19:07:03.119378+00:00",
+    "edge_type": "moneyline"
+  },
+  "Virginia Tech Hokies vs. Mercer Bears|Virginia Tech Hokies|spread": {
+    "captured_at": "2026-11-04T19:07:03.119679+00:00",
+    "edge_type": "spread"
+  },
+  "Michigan St Spartans vs. Toledo Rockets|Toledo Rockets|spread": {
+    "captured_at": "2026-11-04T19:07:03.119995+00:00",
+    "edge_type": "spread"
+  },
+  "Loyola (Chi) Ramblers vs. West Georgia Wolves|West Georgia Wolves|spread": {
+    "captured_at": "2026-11-04T19:07:03.120363+00:00",
+    "edge_type": "spread"
   }
 }
