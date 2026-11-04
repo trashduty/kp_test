@@ -5406,5 +5406,9 @@
   "Loyola (Chi) Ramblers vs. West Georgia Wolves|West Georgia Wolves|spread": {
     "captured_at": "2026-11-04T19:07:03.120363+00:00",
     "edge_type": "spread"
+  },
+  "South Alabama Jaguars vs. Jacksonville St Gamecocks|Jacksonville St Gamecocks|spread": {
+    "captured_at": "2026-11-04T22:08:11.691631+00:00",
+    "edge_type": "spread"
   }
 }
