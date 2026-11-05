@@ -5446,5 +5446,13 @@
   "Rider Broncs vs. New Hampshire Wildcats|over": {
     "captured_at": "2026-11-05T00:24:51.175572+00:00",
     "edge_type": "over"
+  },
+  "Alcorn St Braves vs. Howard Bison|Howard Bison|spread": {
+    "captured_at": "2026-11-05T02:12:45.908885+00:00",
+    "edge_type": "spread"
+  },
+  "Manhattan Jaspers vs. Albany Great Danes|Albany Great Danes|spread": {
+    "captured_at": "2026-11-05T02:12:45.909520+00:00",
+    "edge_type": "spread"
   }
 }
