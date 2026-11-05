@@ -5414,5 +5414,37 @@
   "Marist Red Foxes vs. UMBC Retrievers|Marist Red Foxes|moneyline": {
     "captured_at": "2026-11-04T23:08:08.956482+00:00",
     "edge_type": "moneyline"
+  },
+  "Quinnipiac Bobcats vs. Bryant Bulldogs|Quinnipiac Bobcats|spread": {
+    "captured_at": "2026-11-05T00:24:51.174739+00:00",
+    "edge_type": "spread"
+  },
+  "Quinnipiac Bobcats vs. Bryant Bulldogs|Quinnipiac Bobcats|moneyline": {
+    "captured_at": "2026-11-05T00:24:51.174772+00:00",
+    "edge_type": "moneyline"
+  },
+  "Merrimack Warriors vs. UMass Lowell River Hawks|Merrimack Warriors|spread": {
+    "captured_at": "2026-11-05T00:24:51.175106+00:00",
+    "edge_type": "spread"
+  },
+  "Merrimack Warriors vs. UMass Lowell River Hawks|Merrimack Warriors|moneyline": {
+    "captured_at": "2026-11-05T00:24:51.175129+00:00",
+    "edge_type": "moneyline"
+  },
+  "Alcorn St Braves vs. Howard Bison|Howard Bison|moneyline": {
+    "captured_at": "2026-11-05T00:24:51.175401+00:00",
+    "edge_type": "moneyline"
+  },
+  "Rider Broncs vs. New Hampshire Wildcats|New Hampshire Wildcats|spread": {
+    "captured_at": "2026-11-05T00:24:51.175496+00:00",
+    "edge_type": "spread"
+  },
+  "Rider Broncs vs. New Hampshire Wildcats|New Hampshire Wildcats|moneyline": {
+    "captured_at": "2026-11-05T00:24:51.175544+00:00",
+    "edge_type": "moneyline"
+  },
+  "Rider Broncs vs. New Hampshire Wildcats|over": {
+    "captured_at": "2026-11-05T00:24:51.175572+00:00",
+    "edge_type": "over"
   }
 }
