@@ -5454,5 +5454,45 @@
   "Manhattan Jaspers vs. Albany Great Danes|Albany Great Danes|spread": {
     "captured_at": "2026-11-05T02:12:45.909520+00:00",
     "edge_type": "spread"
+  },
+  "Florida St Seminoles vs. Troy Trojans|Troy Trojans|spread": {
+    "captured_at": "2026-11-05T20:09:02.006391+00:00",
+    "edge_type": "spread"
+  },
+  "NC State Wolfpack vs. East Tennessee St Buccaneers|NC State Wolfpack|spread": {
+    "captured_at": "2026-11-05T20:09:02.006503+00:00",
+    "edge_type": "spread"
+  },
+  "Kentucky Wildcats vs. James Madison Dukes|James Madison Dukes|spread": {
+    "captured_at": "2026-11-05T20:09:02.006554+00:00",
+    "edge_type": "spread"
+  },
+  "Saint Louis Billikens vs. Missouri Tigers|Missouri Tigers|moneyline": {
+    "captured_at": "2026-11-05T20:09:02.006606+00:00",
+    "edge_type": "moneyline"
+  },
+  "Saint Louis Billikens vs. Missouri Tigers|under": {
+    "captured_at": "2026-11-05T20:09:02.006632+00:00",
+    "edge_type": "under"
+  },
+  "Texas A&M Aggies vs. Northern Kentucky Norse|Northern Kentucky Norse|spread": {
+    "captured_at": "2026-11-05T20:09:02.006836+00:00",
+    "edge_type": "spread"
+  },
+  "Marquette Golden Eagles vs. Detroit Mercy Titans|Detroit Mercy Titans|spread": {
+    "captured_at": "2026-11-05T20:09:02.006926+00:00",
+    "edge_type": "spread"
+  },
+  "Minnesota Golden Gophers vs. St. Thomas (MN) Tommies|St. Thomas (MN) Tommies|spread": {
+    "captured_at": "2026-11-05T20:09:02.007030+00:00",
+    "edge_type": "spread"
+  },
+  "Ole Miss Rebels vs. Central Arkansas Bears|Central Arkansas Bears|spread": {
+    "captured_at": "2026-11-05T20:09:02.007245+00:00",
+    "edge_type": "spread"
+  },
+  "Iowa Hawkeyes vs. Eastern Illinois Panthers|Eastern Illinois Panthers|spread": {
+    "captured_at": "2026-11-05T20:09:02.007290+00:00",
+    "edge_type": "spread"
   }
 }
