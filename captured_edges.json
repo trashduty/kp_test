@@ -5494,5 +5494,13 @@
   "Iowa Hawkeyes vs. Eastern Illinois Panthers|Eastern Illinois Panthers|spread": {
     "captured_at": "2026-11-05T20:09:02.007290+00:00",
     "edge_type": "spread"
+  },
+  "Virginia Cavaliers vs. Northeastern Huskies|Northeastern Huskies|spread": {
+    "captured_at": "2026-11-05T22:09:20.634212+00:00",
+    "edge_type": "spread"
+  },
+  "Xavier Musketeers vs. Eastern Michigan Eagles|Eastern Michigan Eagles|spread": {
+    "captured_at": "2026-11-05T22:09:20.634681+00:00",
+    "edge_type": "spread"
   }
 }
