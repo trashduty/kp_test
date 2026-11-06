@@ -5546,5 +5546,17 @@
   "LSU Tigers vs. Texas Southern Tigers|under": {
     "captured_at": "2026-11-06T08:12:44.746190+00:00",
     "edge_type": "under"
+  },
+  "Memphis Tigers vs. VCU Rams|VCU Rams|spread": {
+    "captured_at": "2026-11-06T20:09:28.345707+00:00",
+    "edge_type": "spread"
+  },
+  "Memphis Tigers vs. VCU Rams|VCU Rams|moneyline": {
+    "captured_at": "2026-11-06T20:09:28.345755+00:00",
+    "edge_type": "moneyline"
+  },
+  "UC Santa Barbara Gauchos vs. Oakland Golden Grizzlies|under": {
+    "captured_at": "2026-11-06T20:09:28.346291+00:00",
+    "edge_type": "under"
   }
 }
