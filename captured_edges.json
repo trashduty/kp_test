@@ -5510,5 +5510,21 @@
   "Wright St Raiders vs. Florida Atlantic Owls|Florida Atlantic Owls|spread": {
     "captured_at": "2026-11-06T00:25:07.705874+00:00",
     "edge_type": "spread"
+  },
+  "Villanova Wildcats vs. Holy Cross Crusaders|Villanova Wildcats|spread": {
+    "captured_at": "2026-11-06T04:10:46.962002+00:00",
+    "edge_type": "spread"
+  },
+  "Georgia Bulldogs vs. Presbyterian Blue Hose|Georgia Bulldogs|spread": {
+    "captured_at": "2026-11-06T04:10:46.962202+00:00",
+    "edge_type": "spread"
+  },
+  "Georgia Bulldogs vs. Presbyterian Blue Hose|over": {
+    "captured_at": "2026-11-06T04:10:46.962229+00:00",
+    "edge_type": "over"
+  },
+  "UAB Blazers vs. Nicholls St Colonels|under": {
+    "captured_at": "2026-11-06T04:10:46.962845+00:00",
+    "edge_type": "under"
   }
 }
