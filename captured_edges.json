@@ -5526,5 +5526,21 @@
   "UAB Blazers vs. Nicholls St Colonels|under": {
     "captured_at": "2026-11-06T04:10:46.962845+00:00",
     "edge_type": "under"
+  },
+  "South Carolina Upstate Spartans vs. South Carolina St Bulldogs|South Carolina St Bulldogs|spread": {
+    "captured_at": "2026-11-06T06:16:52.216497+00:00",
+    "edge_type": "spread"
+  },
+  "Brown Bears vs. Boston Univ. Terriers|under": {
+    "captured_at": "2026-11-06T06:16:52.217189+00:00",
+    "edge_type": "under"
+  },
+  "Louisiana Ragin' Cajuns vs. Texas A&M-CC Islanders|Louisiana Ragin' Cajuns|moneyline": {
+    "captured_at": "2026-11-06T06:16:52.218112+00:00",
+    "edge_type": "moneyline"
+  },
+  "Miami Hurricanes vs. Wagner Seahawks|Miami Hurricanes|spread": {
+    "captured_at": "2026-11-06T06:16:52.218989+00:00",
+    "edge_type": "spread"
   }
 }
