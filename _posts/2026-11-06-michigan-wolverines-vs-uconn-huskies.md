@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> UConn Huskies -5.5</p>
-  <p><strong>Moneyline:</strong> Michigan Wolverines (+195) | UConn Huskies (-240)</p>
+  <p><strong>Spread:</strong> UConn Huskies -7.0</p>
+  <p><strong>Moneyline:</strong> Michigan Wolverines (+240) | UConn Huskies (-300)</p>
   <p><strong>Total:</strong> 146.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan Wolverines**: 5.5, Edge For Covering Spread: **0.9%**
-- **UConn Huskies**: -5.5, Edge For Covering Spread: -5.9%
+- **Michigan Wolverines**: 7.0, Edge For Covering Spread: -0.1%
+- **UConn Huskies**: -7.0, Edge For Covering Spread: -5.3%
 
 ### Moneyline
-- **Michigan Wolverines Win Probability**: 35.7%, Moneyline Edge: **1.8%**
-- **UConn Huskies Win Probability**: 64.3%, Moneyline Edge: -6.3%
+- **Michigan Wolverines Win Probability**: 32.6%, Moneyline Edge: **3.2%**
+- **UConn Huskies Win Probability**: 67.4%, Moneyline Edge: -7.6%
 
 ### Total
-- **Predicted Total**: 146.5
-- Edge For Covering The Over: -2.4%
-- Edge For Covering The Under: -2.4%
+- **Predicted Total**: 145.0
+- Edge For Covering The Over: -2.7%
+- Edge For Covering The Under: -2.5%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Michigan Wolverines (37-3) travels to face UConn Huskies (34-6) at Gampel Pavilion, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into UConn Huskies favored by 5.5 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Michigan Wolverines (37-3) travels to face UConn Huskies (34-6) at Gampel Pavilion, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into UConn Huskies favored by 7.0 points, with the total sitting at 146.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates UConn Huskies is viewed as the better team, but this isn't an overwhelming edge. Michigan Wolverines has a legitimate path to covering or winning outright. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread around 7.0 points tells us UConn Huskies has clear advantages, but games aren't played on paper. Michigan Wolverines needs to punch above their weight class to keep this close. The total of 146.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Michigan Wolverines** bring an offensive efficiency of 121.74 (ranked #6 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.8% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 
