@@ -5558,5 +5558,33 @@
   "UC Santa Barbara Gauchos vs. Oakland Golden Grizzlies|under": {
     "captured_at": "2026-11-06T20:09:28.346291+00:00",
     "edge_type": "under"
+  },
+  "Gonzaga Bulldogs vs. New Mexico St Aggies|New Mexico St Aggies|spread": {
+    "captured_at": "2026-11-06T21:07:23.409203+00:00",
+    "edge_type": "spread"
+  },
+  "Furman Paladins vs. Northern Iowa Panthers|under": {
+    "captured_at": "2026-11-06T21:07:23.409492+00:00",
+    "edge_type": "under"
+  },
+  "Providence Friars vs. Nebraska Cornhuskers|Nebraska Cornhuskers|moneyline": {
+    "captured_at": "2026-11-06T21:07:23.409810+00:00",
+    "edge_type": "moneyline"
+  },
+  "Canisius Golden Griffins vs. St. Bonaventure Bonnies|Canisius Golden Griffins|spread": {
+    "captured_at": "2026-11-06T21:07:23.409925+00:00",
+    "edge_type": "spread"
+  },
+  "Georgetown Hoyas vs. Maryland Terrapins|Maryland Terrapins|spread": {
+    "captured_at": "2026-11-06T21:07:23.410613+00:00",
+    "edge_type": "spread"
+  },
+  "Georgetown Hoyas vs. Maryland Terrapins|Maryland Terrapins|moneyline": {
+    "captured_at": "2026-11-06T21:07:23.410654+00:00",
+    "edge_type": "moneyline"
+  },
+  "Santa Clara Broncos vs. Sacramento St Hornets|Sacramento St Hornets|spread": {
+    "captured_at": "2026-11-06T21:07:23.411593+00:00",
+    "edge_type": "spread"
   }
 }
