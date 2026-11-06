@@ -5542,5 +5542,9 @@
   "Miami Hurricanes vs. Wagner Seahawks|Miami Hurricanes|spread": {
     "captured_at": "2026-11-06T06:16:52.218989+00:00",
     "edge_type": "spread"
+  },
+  "LSU Tigers vs. Texas Southern Tigers|under": {
+    "captured_at": "2026-11-06T08:12:44.746190+00:00",
+    "edge_type": "under"
   }
 }
