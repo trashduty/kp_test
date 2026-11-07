@@ -5634,5 +5634,25 @@
   "St. John's Red Storm vs. Iona Gaels|over": {
     "captured_at": "2026-11-07T20:08:06.693567+00:00",
     "edge_type": "over"
+  },
+  "Air Force Falcons vs. Idaho State Bengals|under": {
+    "captured_at": "2026-11-07T21:07:19.155024+00:00",
+    "edge_type": "under"
+  },
+  "Temple Owls vs. Richmond Spiders|Temple Owls|spread": {
+    "captured_at": "2026-11-07T21:07:19.155536+00:00",
+    "edge_type": "spread"
+  },
+  "CSU Bakersfield Roadrunners vs. North Dakota St Bison|under": {
+    "captured_at": "2026-11-07T21:07:19.155729+00:00",
+    "edge_type": "under"
+  },
+  "CSU Bakersfield Roadrunners vs. North Dakota St Bison|North Dakota St Bison|spread": {
+    "captured_at": "2026-11-07T21:07:19.155834+00:00",
+    "edge_type": "spread"
+  },
+  "Penn State Nittany Lions vs. Pittsburgh Panthers|under": {
+    "captured_at": "2026-11-07T21:07:19.156031+00:00",
+    "edge_type": "under"
   }
 }
