@@ -5618,5 +5618,9 @@
   "Nevada Wolf Pack vs. Saint Mary's Gaels|Nevada Wolf Pack|spread": {
     "captured_at": "2026-11-07T18:09:17.545744+00:00",
     "edge_type": "spread"
+  },
+  "Nevada Wolf Pack vs. Saint Mary's Gaels|Nevada Wolf Pack|moneyline": {
+    "captured_at": "2026-11-07T19:06:41.899336+00:00",
+    "edge_type": "moneyline"
   }
 }
