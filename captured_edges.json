@@ -5594,5 +5594,17 @@
   "Grand Canyon Antelopes vs. Bethune-Cookman Wildcats|Bethune-Cookman Wildcats|spread": {
     "captured_at": "2026-11-07T00:22:41.791948+00:00",
     "edge_type": "spread"
+  },
+  "Abilene Christian Wildcats vs. Lamar Cardinals|Lamar Cardinals|spread": {
+    "captured_at": "2026-11-07T05:08:39.215007+00:00",
+    "edge_type": "spread"
+  },
+  "Miami (OH) RedHawks vs. Bellarmine Knights|Bellarmine Knights|spread": {
+    "captured_at": "2026-11-07T05:08:39.216919+00:00",
+    "edge_type": "spread"
+  },
+  "Murray St Racers vs. Northwestern St Demons|Northwestern St Demons|spread": {
+    "captured_at": "2026-11-07T05:08:39.219545+00:00",
+    "edge_type": "spread"
   }
 }
