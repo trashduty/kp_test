@@ -5654,5 +5654,21 @@
   "Penn State Nittany Lions vs. Pittsburgh Panthers|under": {
     "captured_at": "2026-11-07T21:07:19.156031+00:00",
     "edge_type": "under"
+  },
+  "Boise State Broncos vs. Butler Bulldogs|under": {
+    "captured_at": "2026-11-07T22:07:33.795989+00:00",
+    "edge_type": "under"
+  },
+  "Western Michigan Broncos vs. Campbell Fighting Camels|over": {
+    "captured_at": "2026-11-07T22:07:33.796293+00:00",
+    "edge_type": "over"
+  },
+  "Temple Owls vs. Richmond Spiders|Temple Owls|moneyline": {
+    "captured_at": "2026-11-07T22:07:33.796702+00:00",
+    "edge_type": "moneyline"
+  },
+  "CSU Bakersfield Roadrunners vs. North Dakota St Bison|North Dakota St Bison|moneyline": {
+    "captured_at": "2026-11-07T22:07:33.796890+00:00",
+    "edge_type": "moneyline"
   }
 }
