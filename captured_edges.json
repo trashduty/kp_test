@@ -5606,5 +5606,9 @@
   "Murray St Racers vs. Northwestern St Demons|Northwestern St Demons|spread": {
     "captured_at": "2026-11-07T05:08:39.219545+00:00",
     "edge_type": "spread"
+  },
+  "Nebraska Cornhuskers vs. Providence Friars|Nebraska Cornhuskers|moneyline": {
+    "captured_at": "2026-11-07T16:08:54.859755+00:00",
+    "edge_type": "moneyline"
   }
 }
