@@ -5586,5 +5586,13 @@
   "Santa Clara Broncos vs. Sacramento St Hornets|Sacramento St Hornets|spread": {
     "captured_at": "2026-11-06T21:07:23.411593+00:00",
     "edge_type": "spread"
+  },
+  "High Point Panthers vs. Washington St Cougars|High Point Panthers|spread": {
+    "captured_at": "2026-11-07T00:22:41.789602+00:00",
+    "edge_type": "spread"
+  },
+  "Grand Canyon Antelopes vs. Bethune-Cookman Wildcats|Bethune-Cookman Wildcats|spread": {
+    "captured_at": "2026-11-07T00:22:41.791948+00:00",
+    "edge_type": "spread"
   }
 }
