@@ -5622,5 +5622,17 @@
   "Nevada Wolf Pack vs. Saint Mary's Gaels|Nevada Wolf Pack|moneyline": {
     "captured_at": "2026-11-07T19:06:41.899336+00:00",
     "edge_type": "moneyline"
+  },
+  "Boise State Broncos vs. Butler Bulldogs|Butler Bulldogs|spread": {
+    "captured_at": "2026-11-07T20:08:06.693227+00:00",
+    "edge_type": "spread"
+  },
+  "Boise State Broncos vs. Butler Bulldogs|Butler Bulldogs|moneyline": {
+    "captured_at": "2026-11-07T20:08:06.693264+00:00",
+    "edge_type": "moneyline"
+  },
+  "St. John's Red Storm vs. Iona Gaels|over": {
+    "captured_at": "2026-11-07T20:08:06.693567+00:00",
+    "edge_type": "over"
   }
 }
