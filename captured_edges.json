@@ -5614,5 +5614,9 @@
   "Virginia Cavaliers vs. Arkansas Razorbacks|Arkansas Razorbacks|spread": {
     "captured_at": "2026-11-07T17:07:10.066328+00:00",
     "edge_type": "spread"
+  },
+  "Nevada Wolf Pack vs. Saint Mary's Gaels|Nevada Wolf Pack|spread": {
+    "captured_at": "2026-11-07T18:09:17.545744+00:00",
+    "edge_type": "spread"
   }
 }
