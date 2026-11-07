@@ -5670,5 +5670,9 @@
   "CSU Bakersfield Roadrunners vs. North Dakota St Bison|North Dakota St Bison|moneyline": {
     "captured_at": "2026-11-07T22:07:33.796890+00:00",
     "edge_type": "moneyline"
+  },
+  "Hawai'i Rainbow Warriors vs. UT-Arlington Mavericks|UT-Arlington Mavericks|spread": {
+    "captured_at": "2026-11-07T23:07:09.120027+00:00",
+    "edge_type": "spread"
   }
 }
