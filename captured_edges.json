@@ -5610,5 +5610,9 @@
   "Nebraska Cornhuskers vs. Providence Friars|Nebraska Cornhuskers|moneyline": {
     "captured_at": "2026-11-07T16:08:54.859755+00:00",
     "edge_type": "moneyline"
+  },
+  "Virginia Cavaliers vs. Arkansas Razorbacks|Arkansas Razorbacks|spread": {
+    "captured_at": "2026-11-07T17:07:10.066328+00:00",
+    "edge_type": "spread"
   }
 }
