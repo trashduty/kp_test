@@ -5718,5 +5718,9 @@
   "New Hampshire Wildcats vs. Sacred Heart Pioneers|New Hampshire Wildcats|moneyline": {
     "captured_at": "2026-11-08T15:07:15.320488+00:00",
     "edge_type": "moneyline"
+  },
+  "Texas Tech Red Raiders vs. Illinois Fighting Illini|under": {
+    "captured_at": "2026-11-08T18:09:32.966460+00:00",
+    "edge_type": "under"
   }
 }
