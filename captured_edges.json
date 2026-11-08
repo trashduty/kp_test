@@ -5682,5 +5682,21 @@
   "Kentucky Wildcats vs. Kansas Jayhawks|Kansas Jayhawks|moneyline": {
     "captured_at": "2026-11-08T11:07:12.058456+00:00",
     "edge_type": "moneyline"
+  },
+  "Maine Black Bears vs. Manhattan Jaspers|Maine Black Bears|spread": {
+    "captured_at": "2026-11-08T13:07:28.651079+00:00",
+    "edge_type": "spread"
+  },
+  "Maine Black Bears vs. Manhattan Jaspers|Maine Black Bears|moneyline": {
+    "captured_at": "2026-11-08T13:07:28.651121+00:00",
+    "edge_type": "moneyline"
+  },
+  "Lehigh Mountain Hawks vs. Brown Bears|Lehigh Mountain Hawks|moneyline": {
+    "captured_at": "2026-11-08T13:07:28.651741+00:00",
+    "edge_type": "moneyline"
+  },
+  "Drake Bulldogs vs. Southern Jaguars|Drake Bulldogs|spread": {
+    "captured_at": "2026-11-08T13:07:28.651892+00:00",
+    "edge_type": "spread"
   }
 }
