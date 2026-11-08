@@ -5746,5 +5746,25 @@
   "Purdue Boilermakers vs. Illinois St Redbirds|Illinois St Redbirds|spread": {
     "captured_at": "2026-11-08T22:07:58.678237+00:00",
     "edge_type": "spread"
+  },
+  "Alabama Crimson Tide vs. Oakland Golden Grizzlies|Oakland Golden Grizzlies|spread": {
+    "captured_at": "2026-11-08T23:07:32.618030+00:00",
+    "edge_type": "spread"
+  },
+  "Missouri Tigers vs. SIU-Edwardsville Cougars|SIU-Edwardsville Cougars|spread": {
+    "captured_at": "2026-11-08T23:07:32.618255+00:00",
+    "edge_type": "spread"
+  },
+  "Oklahoma Sooners vs. North Alabama Lions|North Alabama Lions|spread": {
+    "captured_at": "2026-11-08T23:07:32.618365+00:00",
+    "edge_type": "spread"
+  },
+  "Auburn Tigers vs. Appalachian St Mountaineers|Appalachian St Mountaineers|spread": {
+    "captured_at": "2026-11-08T23:07:32.618605+00:00",
+    "edge_type": "spread"
+  },
+  "Stanford Cardinal vs. Rice Owls|Rice Owls|spread": {
+    "captured_at": "2026-11-08T23:07:32.618931+00:00",
+    "edge_type": "spread"
   }
 }
