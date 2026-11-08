@@ -5698,5 +5698,21 @@
   "Drake Bulldogs vs. Southern Jaguars|Drake Bulldogs|spread": {
     "captured_at": "2026-11-08T13:07:28.651892+00:00",
     "edge_type": "spread"
+  },
+  "Dartmouth Big Green vs. Central Connecticut St Blue Devils|Dartmouth Big Green|spread": {
+    "captured_at": "2026-11-08T14:07:30.271837+00:00",
+    "edge_type": "spread"
+  },
+  "Dartmouth Big Green vs. Central Connecticut St Blue Devils|Dartmouth Big Green|moneyline": {
+    "captured_at": "2026-11-08T14:07:30.271887+00:00",
+    "edge_type": "moneyline"
+  },
+  "Vermont Catamounts vs. Quinnipiac Bobcats|Quinnipiac Bobcats|spread": {
+    "captured_at": "2026-11-08T14:07:30.272165+00:00",
+    "edge_type": "spread"
+  },
+  "William & Mary Tribe vs. Norfolk St Spartans|Norfolk St Spartans|spread": {
+    "captured_at": "2026-11-08T14:07:30.273904+00:00",
+    "edge_type": "spread"
   }
 }
