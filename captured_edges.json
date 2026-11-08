@@ -5722,5 +5722,21 @@
   "Texas Tech Red Raiders vs. Illinois Fighting Illini|under": {
     "captured_at": "2026-11-08T18:09:32.966460+00:00",
     "edge_type": "under"
+  },
+  "Alabama Crimson Tide vs. Oakland Golden Grizzlies|under": {
+    "captured_at": "2026-11-08T21:07:09.739455+00:00",
+    "edge_type": "under"
+  },
+  "LSU Tigers vs. Louisiana Tech Bulldogs|under": {
+    "captured_at": "2026-11-08T21:07:09.739618+00:00",
+    "edge_type": "under"
+  },
+  "LSU Tigers vs. Louisiana Tech Bulldogs|Louisiana Tech Bulldogs|spread": {
+    "captured_at": "2026-11-08T21:07:09.739817+00:00",
+    "edge_type": "spread"
+  },
+  "Seton Hall Pirates vs. Charlotte 49ers|over": {
+    "captured_at": "2026-11-08T21:07:09.739940+00:00",
+    "edge_type": "over"
   }
 }
