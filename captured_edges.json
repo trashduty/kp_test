@@ -5674,5 +5674,13 @@
   "Hawai'i Rainbow Warriors vs. UT-Arlington Mavericks|UT-Arlington Mavericks|spread": {
     "captured_at": "2026-11-07T23:07:09.120027+00:00",
     "edge_type": "spread"
+  },
+  "Kentucky Wildcats vs. Kansas Jayhawks|Kansas Jayhawks|spread": {
+    "captured_at": "2026-11-08T11:07:12.058378+00:00",
+    "edge_type": "spread"
+  },
+  "Kentucky Wildcats vs. Kansas Jayhawks|Kansas Jayhawks|moneyline": {
+    "captured_at": "2026-11-08T11:07:12.058456+00:00",
+    "edge_type": "moneyline"
   }
 }
