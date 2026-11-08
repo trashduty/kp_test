@@ -5738,5 +5738,13 @@
   "Seton Hall Pirates vs. Charlotte 49ers|over": {
     "captured_at": "2026-11-08T21:07:09.739940+00:00",
     "edge_type": "over"
+  },
+  "Ohio State Buckeyes vs. Marshall Thundering Herd|Marshall Thundering Herd|spread": {
+    "captured_at": "2026-11-08T22:07:58.677162+00:00",
+    "edge_type": "spread"
+  },
+  "Purdue Boilermakers vs. Illinois St Redbirds|Illinois St Redbirds|spread": {
+    "captured_at": "2026-11-08T22:07:58.678237+00:00",
+    "edge_type": "spread"
   }
 }
