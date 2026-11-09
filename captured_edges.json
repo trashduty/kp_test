@@ -5778,5 +5778,33 @@
   "Iowa Hawkeyes vs. Virginia Tech Hokies|Virginia Tech Hokies|spread": {
     "captured_at": "2026-11-09T20:09:23.617014+00:00",
     "edge_type": "spread"
+  },
+  "Toledo Rockets vs. Wright St Raiders|under": {
+    "captured_at": "2026-11-09T21:07:56.599323+00:00",
+    "edge_type": "under"
+  },
+  "Fordham Rams vs. Iona Gaels|Iona Gaels|spread": {
+    "captured_at": "2026-11-09T21:07:56.599475+00:00",
+    "edge_type": "spread"
+  },
+  "Northeastern Huskies vs. Harvard Crimson|Harvard Crimson|moneyline": {
+    "captured_at": "2026-11-09T21:07:56.599648+00:00",
+    "edge_type": "moneyline"
+  },
+  "Villanova Wildcats vs. La Salle Explorers|La Salle Explorers|spread": {
+    "captured_at": "2026-11-09T21:07:56.599751+00:00",
+    "edge_type": "spread"
+  },
+  "Villanova Wildcats vs. La Salle Explorers|under": {
+    "captured_at": "2026-11-09T21:07:56.599782+00:00",
+    "edge_type": "under"
+  },
+  "TCU Horned Frogs vs. UL Monroe Warhawks|under": {
+    "captured_at": "2026-11-09T21:07:56.600222+00:00",
+    "edge_type": "under"
+  },
+  "San Francisco Dons vs. Montana Grizzlies|Montana Grizzlies|spread": {
+    "captured_at": "2026-11-09T21:07:56.600464+00:00",
+    "edge_type": "spread"
   }
 }
