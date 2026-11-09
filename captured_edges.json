@@ -5770,5 +5770,9 @@
   "Oregon St Beavers vs. Eastern Washington Eagles|Eastern Washington Eagles|spread": {
     "captured_at": "2026-11-09T01:10:17.640955+00:00",
     "edge_type": "spread"
+  },
+  "Oregon St Beavers vs. Eastern Washington Eagles|under": {
+    "captured_at": "2026-11-09T02:13:28.209993+00:00",
+    "edge_type": "under"
   }
 }
