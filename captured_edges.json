@@ -5806,5 +5806,41 @@
   "San Francisco Dons vs. Montana Grizzlies|Montana Grizzlies|spread": {
     "captured_at": "2026-11-09T21:07:56.600464+00:00",
     "edge_type": "spread"
+  },
+  "Duquesne Dukes vs. Washington St Cougars|Duquesne Dukes|moneyline": {
+    "captured_at": "2026-11-09T23:07:36.245553+00:00",
+    "edge_type": "moneyline"
+  },
+  "Xavier Musketeers vs. Detroit Mercy Titans|Detroit Mercy Titans|spread": {
+    "captured_at": "2026-11-09T23:07:36.245780+00:00",
+    "edge_type": "spread"
+  },
+  "Dayton Flyers vs. Siena Saints|Dayton Flyers|spread": {
+    "captured_at": "2026-11-09T23:07:36.245901+00:00",
+    "edge_type": "spread"
+  },
+  "North Carolina Tar Heels vs. Wyoming Cowboys|Wyoming Cowboys|spread": {
+    "captured_at": "2026-11-09T23:07:36.246489+00:00",
+    "edge_type": "spread"
+  },
+  "Northern Iowa Panthers vs. Green Bay Phoenix|Northern Iowa Panthers|moneyline": {
+    "captured_at": "2026-11-09T23:07:36.246953+00:00",
+    "edge_type": "moneyline"
+  },
+  "Baylor Bears vs. Yale Bulldogs|Yale Bulldogs|spread": {
+    "captured_at": "2026-11-09T23:07:36.247053+00:00",
+    "edge_type": "spread"
+  },
+  "Saint Louis Billikens vs. Northern Kentucky Norse|Northern Kentucky Norse|spread": {
+    "captured_at": "2026-11-09T23:07:36.247173+00:00",
+    "edge_type": "spread"
+  },
+  "Arizona St Sun Devils vs. Hofstra Pride|over": {
+    "captured_at": "2026-11-09T23:07:36.247771+00:00",
+    "edge_type": "over"
+  },
+  "Arizona St Sun Devils vs. Hofstra Pride|Hofstra Pride|spread": {
+    "captured_at": "2026-11-09T23:07:36.247829+00:00",
+    "edge_type": "spread"
   }
 }
