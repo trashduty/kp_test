@@ -5774,5 +5774,9 @@
   "Oregon St Beavers vs. Eastern Washington Eagles|under": {
     "captured_at": "2026-11-09T02:13:28.209993+00:00",
     "edge_type": "under"
+  },
+  "Iowa Hawkeyes vs. Virginia Tech Hokies|Virginia Tech Hokies|spread": {
+    "captured_at": "2026-11-09T20:09:23.617014+00:00",
+    "edge_type": "spread"
   }
 }
