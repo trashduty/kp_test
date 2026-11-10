@@ -5890,5 +5890,9 @@
   "New Haven Chargers vs. Army Knights|over": {
     "captured_at": "2026-11-10T04:10:17.488716+00:00",
     "edge_type": "over"
+  },
+  "Air Force Falcons vs. Loyola (Chi) Ramblers|under": {
+    "captured_at": "2026-11-10T21:07:59.707697+00:00",
+    "edge_type": "under"
   }
 }
