@@ -5842,5 +5842,25 @@
   "Arizona St Sun Devils vs. Hofstra Pride|Hofstra Pride|spread": {
     "captured_at": "2026-11-09T23:07:36.247829+00:00",
     "edge_type": "spread"
+  },
+  "Providence Friars vs. Bryant Bulldogs|Bryant Bulldogs|spread": {
+    "captured_at": "2026-11-10T00:23:16.723262+00:00",
+    "edge_type": "spread"
+  },
+  "Baylor Bears vs. Yale Bulldogs|under": {
+    "captured_at": "2026-11-10T00:23:16.725304+00:00",
+    "edge_type": "under"
+  },
+  "Northern Iowa Panthers vs. Green Bay Phoenix|Northern Iowa Panthers|spread": {
+    "captured_at": "2026-11-10T00:23:16.725992+00:00",
+    "edge_type": "spread"
+  },
+  "Wisconsin Badgers vs. Fairfield Stags|Fairfield Stags|spread": {
+    "captured_at": "2026-11-10T00:23:16.726274+00:00",
+    "edge_type": "spread"
+  },
+  "Utah Utes vs. Weber State Wildcats|Utah Utes|spread": {
+    "captured_at": "2026-11-10T00:23:16.726689+00:00",
+    "edge_type": "spread"
   }
 }
