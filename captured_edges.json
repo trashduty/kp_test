@@ -5894,5 +5894,29 @@
   "Air Force Falcons vs. Loyola (Chi) Ramblers|under": {
     "captured_at": "2026-11-10T21:07:59.707697+00:00",
     "edge_type": "under"
+  },
+  "Temple Owls vs. Charleston Cougars|Temple Owls|spread": {
+    "captured_at": "2026-11-10T22:08:15.512109+00:00",
+    "edge_type": "spread"
+  },
+  "Temple Owls vs. Charleston Cougars|Temple Owls|moneyline": {
+    "captured_at": "2026-11-10T22:08:15.512155+00:00",
+    "edge_type": "moneyline"
+  },
+  "Delaware Blue Hens vs. James Madison Dukes|Delaware Blue Hens|spread": {
+    "captured_at": "2026-11-10T22:08:15.512768+00:00",
+    "edge_type": "spread"
+  },
+  "Florida Atlantic Owls vs. William & Mary Tribe|Florida Atlantic Owls|spread": {
+    "captured_at": "2026-11-10T22:08:15.513019+00:00",
+    "edge_type": "spread"
+  },
+  "South Carolina Gamecocks vs. Saint Peter's Peacocks|Saint Peter's Peacocks|spread": {
+    "captured_at": "2026-11-10T22:08:15.513130+00:00",
+    "edge_type": "spread"
+  },
+  "South Carolina Gamecocks vs. Saint Peter's Peacocks|over": {
+    "captured_at": "2026-11-10T22:08:15.513170+00:00",
+    "edge_type": "over"
   }
 }
