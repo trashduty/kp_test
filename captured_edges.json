@@ -5918,5 +5918,41 @@
   "South Carolina Gamecocks vs. Saint Peter's Peacocks|over": {
     "captured_at": "2026-11-10T22:08:15.513170+00:00",
     "edge_type": "over"
+  },
+  "IUPUI Jaguars vs. Southern Indiana Screaming Eagles|under": {
+    "captured_at": "2026-11-10T23:07:32.408884+00:00",
+    "edge_type": "under"
+  },
+  "Princeton Tigers vs. Stony Brook Seawolves|Princeton Tigers|spread": {
+    "captured_at": "2026-11-10T23:07:32.409677+00:00",
+    "edge_type": "spread"
+  },
+  "Princeton Tigers vs. Stony Brook Seawolves|Princeton Tigers|moneyline": {
+    "captured_at": "2026-11-10T23:07:32.409721+00:00",
+    "edge_type": "moneyline"
+  },
+  "Indiana St Sycamores vs. Milwaukee Panthers|Indiana St Sycamores|spread": {
+    "captured_at": "2026-11-10T23:07:32.410217+00:00",
+    "edge_type": "spread"
+  },
+  "Florida Atlantic Owls vs. William & Mary Tribe|Florida Atlantic Owls|moneyline": {
+    "captured_at": "2026-11-10T23:07:32.410645+00:00",
+    "edge_type": "moneyline"
+  },
+  "Sam Houston St Bearkats vs. Pepperdine Waves|Sam Houston St Bearkats|spread": {
+    "captured_at": "2026-11-10T23:07:32.410765+00:00",
+    "edge_type": "spread"
+  },
+  "Sam Houston St Bearkats vs. Pepperdine Waves|Sam Houston St Bearkats|moneyline": {
+    "captured_at": "2026-11-10T23:07:32.410805+00:00",
+    "edge_type": "moneyline"
+  },
+  "Houston Cougars vs. Jacksonville St Gamecocks|Jacksonville St Gamecocks|spread": {
+    "captured_at": "2026-11-10T23:07:32.411140+00:00",
+    "edge_type": "spread"
+  },
+  "Arkansas Razorbacks vs. Robert Morris Colonials|Robert Morris Colonials|spread": {
+    "captured_at": "2026-11-10T23:07:32.411533+00:00",
+    "edge_type": "spread"
   }
 }
