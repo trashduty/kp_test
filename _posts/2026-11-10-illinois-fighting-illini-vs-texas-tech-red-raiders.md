@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Illinois Fighting Illini -1.5</p>
-  <p><strong>Moneyline:</strong> Illinois Fighting Illini (-135) | Texas Tech Red Raiders (+114)</p>
+  <p><strong>Spread:</strong> Illinois Fighting Illini -2.0</p>
+  <p><strong>Moneyline:</strong> Illinois Fighting Illini (-133) | Texas Tech Red Raiders (+111)</p>
   <p><strong>Total:</strong> 161.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Illinois Fighting Illini**: -1.5, Edge For Covering Spread: -3.2%
-- **Texas Tech Red Raiders**: 1.5, Edge For Covering Spread: -1.6%
+- **Illinois Fighting Illini**: -2.0, Edge For Covering Spread: -3.4%
+- **Texas Tech Red Raiders**: 2.0, Edge For Covering Spread: -1.6%
 
 ### Moneyline
-- **Illinois Fighting Illini Win Probability**: 54.1%, Moneyline Edge: -3.3%
-- **Texas Tech Red Raiders Win Probability**: 45.9%, Moneyline Edge: -0.7%
+- **Illinois Fighting Illini Win Probability**: 53.8%, Moneyline Edge: -3.3%
+- **Texas Tech Red Raiders Win Probability**: 46.2%, Moneyline Edge: -1.2%
 
 ### Total
-- **Predicted Total**: 159.0
-- Edge For Covering The Over: -6.6%
-- Edge For Covering The Under: **1.9%**
+- **Predicted Total**: 162.0
+- Edge For Covering The Over: -10.0%
+- Edge For Covering The Under: **5.3%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Illinois Fighting Illini (28-9) travels to face Texas Tech Red Raiders (23-11) at United Supermarkets Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Illinois Fighting Illini favored by 1.5 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Illinois Fighting Illini (28-9) travels to face Texas Tech Red Raiders (23-11) at United Supermarkets Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Illinois Fighting Illini favored by 2.0 points, with the total sitting at 161.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Illinois Fighting Illini's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Illinois Fighting Illini's 2.0-point cushion reflects home court advantage more than a talent gap. The total of 161.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Illinois Fighting Illini** bring an offensive efficiency of 124.95 (ranked #1 nationally). This is an elite offense that can score in multiple ways. Their 34.5% three-point shooting is serviceable but won't scare anyone. 

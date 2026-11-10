@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Kansas Jayhawks -5.0</p>
-  <p><strong>Moneyline:</strong> Kansas Jayhawks (-278) | Kentucky Wildcats (+225)</p>
+  <p><strong>Spread:</strong> Kansas Jayhawks -4.5</p>
+  <p><strong>Moneyline:</strong> Kansas Jayhawks (-198) | Kentucky Wildcats (+165)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,12 +24,12 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Kansas Jayhawks**: -5.0, Edge For Covering Spread: **0.8%**
-- **Kentucky Wildcats**: 5.0, Edge For Covering Spread: -5.6%
+- **Kansas Jayhawks**: -4.5, Edge For Covering Spread: **0.8%**
+- **Kentucky Wildcats**: 4.5, Edge For Covering Spread: -5.6%
 
 ### Moneyline
-- **Kansas Jayhawks Win Probability**: 71.8%, Moneyline Edge: -1.8%
-- **Kentucky Wildcats Win Probability**: 28.2%, Moneyline Edge: -2.5%
+- **Kansas Jayhawks Win Probability**: 68.4%, Moneyline Edge: **1.9%**
+- **Kentucky Wildcats Win Probability**: 31.6%, Moneyline Edge: -6.1%
 
 ### Total
 - **Predicted Total**: 155.5
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Kansas Jayhawks (24-11) travels to face Kentucky Wildcats (22-14) at Rupp Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Kansas Jayhawks favored by 5.0 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Kansas Jayhawks (24-11) travels to face Kentucky Wildcats (22-14) at Rupp Arena, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Kansas Jayhawks favored by 4.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.0-point spread indicates Kansas Jayhawks is viewed as the better team, but this isn't an overwhelming edge. Kentucky Wildcats has a legitimate path to covering or winning outright. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 4.5-point spread indicates Kansas Jayhawks is viewed as the better team, but this isn't an overwhelming edge. Kentucky Wildcats has a legitimate path to covering or winning outright. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Kansas Jayhawks** bring an offensive efficiency of 108.97 (ranked #162 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. Their 34.6% three-point shooting is serviceable but won't scare anyone. 

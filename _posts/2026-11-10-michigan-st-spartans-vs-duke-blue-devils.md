@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Duke Blue Devils -6.5</p>
-  <p><strong>Moneyline:</strong> Michigan St Spartans (+225) | Duke Blue Devils (-278)</p>
+  <p><strong>Moneyline:</strong> Michigan St Spartans (+228) | Duke Blue Devils (-280)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan St Spartans**: 6.5, Edge For Covering Spread: -0.5%
-- **Duke Blue Devils**: -6.5, Edge For Covering Spread: -4.2%
+- **Michigan St Spartans**: 6.5, Edge For Covering Spread: -0.8%
+- **Duke Blue Devils**: -6.5, Edge For Covering Spread: -4.0%
 
 ### Moneyline
-- **Michigan St Spartans Win Probability**: 32.2%, Moneyline Edge: **1.5%**
-- **Duke Blue Devils Win Probability**: 67.8%, Moneyline Edge: -5.8%
+- **Michigan St Spartans Win Probability**: 32.1%, Moneyline Edge: **1.6%**
+- **Duke Blue Devils Win Probability**: 67.9%, Moneyline Edge: -5.8%
 
 ### Total
-- **Predicted Total**: 149.0
-- Edge For Covering The Over: -3.2%
-- Edge For Covering The Under: -3.2%
+- **Predicted Total**: 148.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
