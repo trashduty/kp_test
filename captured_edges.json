@@ -5886,5 +5886,9 @@
   "BYU Cougars vs. Queens University Royals|under": {
     "captured_at": "2026-11-10T01:09:13.882185+00:00",
     "edge_type": "under"
+  },
+  "New Haven Chargers vs. Army Knights|over": {
+    "captured_at": "2026-11-10T04:10:17.488716+00:00",
+    "edge_type": "over"
   }
 }
