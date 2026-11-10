@@ -5862,5 +5862,29 @@
   "Utah Utes vs. Weber State Wildcats|Utah Utes|spread": {
     "captured_at": "2026-11-10T00:23:16.726689+00:00",
     "edge_type": "spread"
+  },
+  "Wake Forest Demon Deacons vs. Charleston Southern Buccaneers|Wake Forest Demon Deacons|spread": {
+    "captured_at": "2026-11-10T01:09:13.877421+00:00",
+    "edge_type": "spread"
+  },
+  "New Haven Chargers vs. Army Knights|Army Knights|spread": {
+    "captured_at": "2026-11-10T01:09:13.877968+00:00",
+    "edge_type": "spread"
+  },
+  "UT Rio Grande Valley Vaqueros vs. Texas State Bobcats|under": {
+    "captured_at": "2026-11-10T01:09:13.879141+00:00",
+    "edge_type": "under"
+  },
+  "Ole Miss Rebels vs. SE Louisiana Lions|SE Louisiana Lions|spread": {
+    "captured_at": "2026-11-10T01:09:13.880866+00:00",
+    "edge_type": "spread"
+  },
+  "Virginia Cavaliers vs. Bucknell Bison|Bucknell Bison|spread": {
+    "captured_at": "2026-11-10T01:09:13.881621+00:00",
+    "edge_type": "spread"
+  },
+  "BYU Cougars vs. Queens University Royals|under": {
+    "captured_at": "2026-11-10T01:09:13.882185+00:00",
+    "edge_type": "under"
   }
 }
