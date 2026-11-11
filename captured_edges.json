@@ -5974,5 +5974,9 @@
   "San Diego St Aztecs vs. Bethune-Cookman Wildcats|Bethune-Cookman Wildcats|spread": {
     "captured_at": "2026-11-11T01:09:25.914069+00:00",
     "edge_type": "spread"
+  },
+  "Florida A&M Rattlers vs. UMKC Kangaroos|Florida A&M Rattlers|spread": {
+    "captured_at": "2026-11-11T02:11:35.468495+00:00",
+    "edge_type": "spread"
   }
 }
