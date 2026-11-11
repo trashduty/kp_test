@@ -5962,5 +5962,17 @@
   "Nebraska Cornhuskers vs. Lindenwood Lions|Lindenwood Lions|spread": {
     "captured_at": "2026-11-11T00:24:20.312805+00:00",
     "edge_type": "spread"
+  },
+  "Albany Great Danes vs. Dartmouth Big Green|Albany Great Danes|spread": {
+    "captured_at": "2026-11-11T01:09:25.913423+00:00",
+    "edge_type": "spread"
+  },
+  "Albany Great Danes vs. Dartmouth Big Green|Albany Great Danes|moneyline": {
+    "captured_at": "2026-11-11T01:09:25.913472+00:00",
+    "edge_type": "moneyline"
+  },
+  "San Diego St Aztecs vs. Bethune-Cookman Wildcats|Bethune-Cookman Wildcats|spread": {
+    "captured_at": "2026-11-11T01:09:25.914069+00:00",
+    "edge_type": "spread"
   }
 }
