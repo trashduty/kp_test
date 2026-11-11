@@ -5978,5 +5978,9 @@
   "Florida A&M Rattlers vs. UMKC Kangaroos|Florida A&M Rattlers|spread": {
     "captured_at": "2026-11-11T02:11:35.468495+00:00",
     "edge_type": "spread"
+  },
+  "Boise State Broncos vs. Oakland Golden Grizzlies|under": {
+    "captured_at": "2026-11-11T03:11:01.573628+00:00",
+    "edge_type": "under"
   }
 }
