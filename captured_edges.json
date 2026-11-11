@@ -5954,5 +5954,13 @@
   "Arkansas Razorbacks vs. Robert Morris Colonials|Robert Morris Colonials|spread": {
     "captured_at": "2026-11-10T23:07:32.411533+00:00",
     "edge_type": "spread"
+  },
+  "UNC Wilmington Seahawks vs. Kent State Golden Flashes|UNC Wilmington Seahawks|moneyline": {
+    "captured_at": "2026-11-11T00:24:20.310632+00:00",
+    "edge_type": "moneyline"
+  },
+  "Nebraska Cornhuskers vs. Lindenwood Lions|Lindenwood Lions|spread": {
+    "captured_at": "2026-11-11T00:24:20.312805+00:00",
+    "edge_type": "spread"
   }
 }
