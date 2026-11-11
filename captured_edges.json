@@ -5998,5 +5998,9 @@
   "Texas A&M Aggies vs. Oklahoma St Cowboys|under": {
     "captured_at": "2026-11-11T19:07:57.739349+00:00",
     "edge_type": "under"
+  },
+  "George Mason Patriots vs. UMKC Kangaroos|UMKC Kangaroos|spread": {
+    "captured_at": "2026-11-11T21:13:34.404308+00:00",
+    "edge_type": "spread"
   }
 }
