@@ -6014,5 +6014,25 @@
   "Brown Bears vs. Canisius Golden Griffins|Canisius Golden Griffins|spread": {
     "captured_at": "2026-11-11T22:08:24.202312+00:00",
     "edge_type": "spread"
+  },
+  "Rhode Island Rams vs. Maryland-Eastern Shore Hawks|under": {
+    "captured_at": "2026-11-11T23:08:03.705536+00:00",
+    "edge_type": "under"
+  },
+  "West Virginia Mountaineers vs. Mercer Bears|Mercer Bears|spread": {
+    "captured_at": "2026-11-11T23:08:03.706331+00:00",
+    "edge_type": "spread"
+  },
+  "South Alabama Jaguars vs. Loyola Marymount Lions|Loyola Marymount Lions|spread": {
+    "captured_at": "2026-11-11T23:08:03.707071+00:00",
+    "edge_type": "spread"
+  },
+  "South Alabama Jaguars vs. Loyola Marymount Lions|Loyola Marymount Lions|moneyline": {
+    "captured_at": "2026-11-11T23:08:03.707109+00:00",
+    "edge_type": "moneyline"
+  },
+  "BYU Cougars vs. Montana St Bobcats|under": {
+    "captured_at": "2026-11-11T23:08:03.707307+00:00",
+    "edge_type": "under"
   }
 }
