@@ -5982,5 +5982,17 @@
   "Boise State Broncos vs. Oakland Golden Grizzlies|under": {
     "captured_at": "2026-11-11T03:11:01.573628+00:00",
     "edge_type": "under"
+  },
+  "St. John's Red Storm vs. Colgate Raiders|Colgate Raiders|spread": {
+    "captured_at": "2026-11-11T04:10:32.061255+00:00",
+    "edge_type": "spread"
+  },
+  "West Georgia Wolves vs. UNC Asheville Bulldogs|West Georgia Wolves|moneyline": {
+    "captured_at": "2026-11-11T04:10:32.062148+00:00",
+    "edge_type": "moneyline"
+  },
+  "Abilene Christian Wildcats vs. Stephen F. Austin Lumberjacks|Stephen F. Austin Lumberjacks|moneyline": {
+    "captured_at": "2026-11-11T04:10:32.063020+00:00",
+    "edge_type": "moneyline"
   }
 }
