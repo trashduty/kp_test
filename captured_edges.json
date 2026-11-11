@@ -5994,5 +5994,9 @@
   "Abilene Christian Wildcats vs. Stephen F. Austin Lumberjacks|Stephen F. Austin Lumberjacks|moneyline": {
     "captured_at": "2026-11-11T04:10:32.063020+00:00",
     "edge_type": "moneyline"
+  },
+  "Texas A&M Aggies vs. Oklahoma St Cowboys|under": {
+    "captured_at": "2026-11-11T19:07:57.739349+00:00",
+    "edge_type": "under"
   }
 }
