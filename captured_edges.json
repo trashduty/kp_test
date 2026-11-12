@@ -6034,5 +6034,9 @@
   "BYU Cougars vs. Montana St Bobcats|under": {
     "captured_at": "2026-11-11T23:08:03.707307+00:00",
     "edge_type": "under"
+  },
+  "BYU Cougars vs. Montana St Bobcats|Montana St Bobcats|spread": {
+    "captured_at": "2026-11-12T00:24:59.409964+00:00",
+    "edge_type": "spread"
   }
 }
