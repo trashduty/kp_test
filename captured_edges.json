@@ -6134,5 +6134,17 @@
   "Utah State Aggies vs. UC San Diego Tritons|under": {
     "captured_at": "2026-11-12T22:08:19.423350+00:00",
     "edge_type": "under"
+  },
+  "Arkansas Razorbacks vs. Central Arkansas Bears|under": {
+    "captured_at": "2026-11-12T23:07:11.284524+00:00",
+    "edge_type": "under"
+  },
+  "Auburn Tigers vs. Arizona Wildcats|Auburn Tigers|spread": {
+    "captured_at": "2026-11-12T23:07:11.284927+00:00",
+    "edge_type": "spread"
+  },
+  "Utah State Aggies vs. UC San Diego Tritons|UC San Diego Tritons|spread": {
+    "captured_at": "2026-11-12T23:07:11.285489+00:00",
+    "edge_type": "spread"
   }
 }
