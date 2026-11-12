@@ -6058,5 +6058,81 @@
   "Northwestern Wildcats vs. DePaul Blue Demons|Northwestern Wildcats|moneyline": {
     "captured_at": "2026-11-12T20:09:19.894082+00:00",
     "edge_type": "moneyline"
+  },
+  "Miami Hurricanes vs. North Alabama Lions|North Alabama Lions|spread": {
+    "captured_at": "2026-11-12T22:08:19.420934+00:00",
+    "edge_type": "spread"
+  },
+  "Tennessee Volunteers vs. Tennessee St Tigers|Tennessee St Tigers|spread": {
+    "captured_at": "2026-11-12T22:08:19.421152+00:00",
+    "edge_type": "spread"
+  },
+  "GW Revolutionaries vs. Harvard Crimson|over": {
+    "captured_at": "2026-11-12T22:08:19.421206+00:00",
+    "edge_type": "over"
+  },
+  "NC State Wolfpack vs. Troy Trojans|Troy Trojans|spread": {
+    "captured_at": "2026-11-12T22:08:19.421309+00:00",
+    "edge_type": "spread"
+  },
+  "Kentucky Wildcats vs. Northern Arizona Lumberjacks|Northern Arizona Lumberjacks|spread": {
+    "captured_at": "2026-11-12T22:08:19.421435+00:00",
+    "edge_type": "spread"
+  },
+  "Michigan St Spartans vs. Northern Iowa Panthers|Northern Iowa Panthers|spread": {
+    "captured_at": "2026-11-12T22:08:19.421697+00:00",
+    "edge_type": "spread"
+  },
+  "Illinois Fighting Illini vs. Sam Houston St Bearkats|under": {
+    "captured_at": "2026-11-12T22:08:19.421778+00:00",
+    "edge_type": "under"
+  },
+  "Illinois Fighting Illini vs. Sam Houston St Bearkats|Sam Houston St Bearkats|spread": {
+    "captured_at": "2026-11-12T22:08:19.421820+00:00",
+    "edge_type": "spread"
+  },
+  "Purdue Boilermakers vs. Ohio Bobcats|Ohio Bobcats|spread": {
+    "captured_at": "2026-11-12T22:08:19.421873+00:00",
+    "edge_type": "spread"
+  },
+  "Florida Gators vs. Merrimack Warriors|Merrimack Warriors|spread": {
+    "captured_at": "2026-11-12T22:08:19.422008+00:00",
+    "edge_type": "spread"
+  },
+  "UConn Huskies vs. Ohio State Buckeyes|Ohio State Buckeyes|spread": {
+    "captured_at": "2026-11-12T22:08:19.422082+00:00",
+    "edge_type": "spread"
+  },
+  "Middle Tennessee Blue Raiders vs. SE Missouri St Redhawks|Middle Tennessee Blue Raiders|spread": {
+    "captured_at": "2026-11-12T22:08:19.422208+00:00",
+    "edge_type": "spread"
+  },
+  "Middle Tennessee Blue Raiders vs. SE Missouri St Redhawks|Middle Tennessee Blue Raiders|moneyline": {
+    "captured_at": "2026-11-12T22:08:19.422229+00:00",
+    "edge_type": "moneyline"
+  },
+  "UCF Knights vs. Georgia Southern Eagles|Georgia Southern Eagles|spread": {
+    "captured_at": "2026-11-12T22:08:19.422355+00:00",
+    "edge_type": "spread"
+  },
+  "Arkansas Razorbacks vs. Central Arkansas Bears|Central Arkansas Bears|spread": {
+    "captured_at": "2026-11-12T22:08:19.422424+00:00",
+    "edge_type": "spread"
+  },
+  "Duke Blue Devils vs. SIU-Edwardsville Cougars|SIU-Edwardsville Cougars|spread": {
+    "captured_at": "2026-11-12T22:08:19.422669+00:00",
+    "edge_type": "spread"
+  },
+  "SMU Mustangs vs. Ball State Cardinals|Ball State Cardinals|spread": {
+    "captured_at": "2026-11-12T22:08:19.423012+00:00",
+    "edge_type": "spread"
+  },
+  "Arizona St Sun Devils vs. UL Monroe Warhawks|UL Monroe Warhawks|spread": {
+    "captured_at": "2026-11-12T22:08:19.423216+00:00",
+    "edge_type": "spread"
+  },
+  "Utah State Aggies vs. UC San Diego Tritons|under": {
+    "captured_at": "2026-11-12T22:08:19.423350+00:00",
+    "edge_type": "under"
   }
 }
