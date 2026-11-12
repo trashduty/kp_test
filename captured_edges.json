@@ -6042,5 +6042,9 @@
   "Bradley Braves vs. Coppin St Eagles|Bradley Braves|spread": {
     "captured_at": "2026-11-12T01:09:35.867126+00:00",
     "edge_type": "spread"
+  },
+  "Sacred Heart Pioneers vs. Central Connecticut St Blue Devils|Sacred Heart Pioneers|moneyline": {
+    "captured_at": "2026-11-12T02:12:14.468244+00:00",
+    "edge_type": "moneyline"
   }
 }
