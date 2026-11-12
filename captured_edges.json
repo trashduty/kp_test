@@ -6046,5 +6046,17 @@
   "Sacred Heart Pioneers vs. Central Connecticut St Blue Devils|Sacred Heart Pioneers|moneyline": {
     "captured_at": "2026-11-12T02:12:14.468244+00:00",
     "edge_type": "moneyline"
+  },
+  "Mississippi St Bulldogs vs. Xavier Musketeers|under": {
+    "captured_at": "2026-11-12T20:09:19.893840+00:00",
+    "edge_type": "under"
+  },
+  "Northwestern Wildcats vs. DePaul Blue Demons|Northwestern Wildcats|spread": {
+    "captured_at": "2026-11-12T20:09:19.894040+00:00",
+    "edge_type": "spread"
+  },
+  "Northwestern Wildcats vs. DePaul Blue Demons|Northwestern Wildcats|moneyline": {
+    "captured_at": "2026-11-12T20:09:19.894082+00:00",
+    "edge_type": "moneyline"
   }
 }
