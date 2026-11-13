@@ -6194,5 +6194,25 @@
   "Oakland Golden Grizzlies vs. Northern Iowa Panthers|Northern Iowa Panthers|moneyline": {
     "captured_at": "2026-11-13T22:07:53.663730+00:00",
     "edge_type": "moneyline"
+  },
+  "California Golden Bears vs. Utah Tech Trailblazers|under": {
+    "captured_at": "2026-11-13T23:08:25.698281+00:00",
+    "edge_type": "under"
+  },
+  "North Texas Mean Green vs. South Alabama Jaguars|North Texas Mean Green|spread": {
+    "captured_at": "2026-11-13T23:08:25.698873+00:00",
+    "edge_type": "spread"
+  },
+  "Youngstown St Penguins vs. Marshall Thundering Herd|under": {
+    "captured_at": "2026-11-13T23:08:25.699067+00:00",
+    "edge_type": "under"
+  },
+  "Siena Saints vs. Brown Bears|under": {
+    "captured_at": "2026-11-13T23:08:25.699625+00:00",
+    "edge_type": "under"
+  },
+  "Grand Canyon Antelopes vs. UL Monroe Warhawks|UL Monroe Warhawks|spread": {
+    "captured_at": "2026-11-13T23:08:25.700725+00:00",
+    "edge_type": "spread"
   }
 }
