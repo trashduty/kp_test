@@ -6174,5 +6174,25 @@
   "Florida St Seminoles vs. Texas A&M-CC Islanders|Texas A&M-CC Islanders|spread": {
     "captured_at": "2026-11-13T06:15:51.995877+00:00",
     "edge_type": "spread"
+  },
+  "North Dakota Fighting Hawks vs. Montana Grizzlies|Montana Grizzlies|spread": {
+    "captured_at": "2026-11-13T22:07:53.662160+00:00",
+    "edge_type": "spread"
+  },
+  "North Dakota Fighting Hawks vs. Montana Grizzlies|Montana Grizzlies|moneyline": {
+    "captured_at": "2026-11-13T22:07:53.662207+00:00",
+    "edge_type": "moneyline"
+  },
+  "Pacific Tigers vs. Air Force Falcons|under": {
+    "captured_at": "2026-11-13T22:07:53.663126+00:00",
+    "edge_type": "under"
+  },
+  "Oakland Golden Grizzlies vs. Northern Iowa Panthers|Northern Iowa Panthers|spread": {
+    "captured_at": "2026-11-13T22:07:53.663695+00:00",
+    "edge_type": "spread"
+  },
+  "Oakland Golden Grizzlies vs. Northern Iowa Panthers|Northern Iowa Panthers|moneyline": {
+    "captured_at": "2026-11-13T22:07:53.663730+00:00",
+    "edge_type": "moneyline"
   }
 }
