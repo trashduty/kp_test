@@ -6146,5 +6146,9 @@
   "Utah State Aggies vs. UC San Diego Tritons|UC San Diego Tritons|spread": {
     "captured_at": "2026-11-12T23:07:11.285489+00:00",
     "edge_type": "spread"
+  },
+  "Idaho Vandals vs. Cal Poly Mustangs|under": {
+    "captured_at": "2026-11-13T00:24:53.673037+00:00",
+    "edge_type": "under"
   }
 }
