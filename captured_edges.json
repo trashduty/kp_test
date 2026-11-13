@@ -6154,5 +6154,21 @@
   "Charlotte 49ers vs. Appalachian St Mountaineers|over": {
     "captured_at": "2026-11-13T01:09:14.663662+00:00",
     "edge_type": "over"
+  },
+  "Vanderbilt Commodores vs. Prairie View Panthers|Prairie View Panthers|spread": {
+    "captured_at": "2026-11-13T04:10:36.056915+00:00",
+    "edge_type": "spread"
+  },
+  "Fordham Rams vs. LIU Sharks|LIU Sharks|spread": {
+    "captured_at": "2026-11-13T04:10:36.057088+00:00",
+    "edge_type": "spread"
+  },
+  "Lehigh Mountain Hawks vs. Marist Red Foxes|Lehigh Mountain Hawks|moneyline": {
+    "captured_at": "2026-11-13T04:10:36.057431+00:00",
+    "edge_type": "moneyline"
+  },
+  "Cal Baptist Lancers vs. Arkansas-Pine Bluff Golden Lions|Arkansas-Pine Bluff Golden Lions|spread": {
+    "captured_at": "2026-11-13T04:10:36.058393+00:00",
+    "edge_type": "spread"
   }
 }
