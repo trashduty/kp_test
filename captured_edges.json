@@ -6150,5 +6150,9 @@
   "Idaho Vandals vs. Cal Poly Mustangs|under": {
     "captured_at": "2026-11-13T00:24:53.673037+00:00",
     "edge_type": "under"
+  },
+  "Charlotte 49ers vs. Appalachian St Mountaineers|over": {
+    "captured_at": "2026-11-13T01:09:14.663662+00:00",
+    "edge_type": "over"
   }
 }
