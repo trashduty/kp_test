@@ -6274,5 +6274,17 @@
   "Iowa State Cyclones vs. Niagara Purple Eagles|Niagara Purple Eagles|spread": {
     "captured_at": "2026-11-14T19:06:54.278755+00:00",
     "edge_type": "spread"
+  },
+  "Boston Univ. Terriers vs. Dartmouth Big Green|under": {
+    "captured_at": "2026-11-14T20:08:24.943674+00:00",
+    "edge_type": "under"
+  },
+  "Buffalo Bulls vs. Canisius Golden Griffins|Canisius Golden Griffins|spread": {
+    "captured_at": "2026-11-14T20:08:24.944330+00:00",
+    "edge_type": "spread"
+  },
+  "Wisconsin Badgers vs. Coastal Carolina Chanticleers|Coastal Carolina Chanticleers|spread": {
+    "captured_at": "2026-11-14T20:08:24.944543+00:00",
+    "edge_type": "spread"
   }
 }
