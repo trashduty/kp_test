@@ -6286,5 +6286,53 @@
   "Wisconsin Badgers vs. Coastal Carolina Chanticleers|Coastal Carolina Chanticleers|spread": {
     "captured_at": "2026-11-14T20:08:24.944543+00:00",
     "edge_type": "spread"
+  },
+  "Boston Univ. Terriers vs. Dartmouth Big Green|Boston Univ. Terriers|moneyline": {
+    "captured_at": "2026-11-14T21:07:14.464642+00:00",
+    "edge_type": "moneyline"
+  },
+  "Georgia St Panthers vs. Norfolk St Spartans|Norfolk St Spartans|spread": {
+    "captured_at": "2026-11-14T21:07:14.464724+00:00",
+    "edge_type": "spread"
+  },
+  "Boston College Eagles vs. New Hampshire Wildcats|New Hampshire Wildcats|spread": {
+    "captured_at": "2026-11-14T21:07:14.464825+00:00",
+    "edge_type": "spread"
+  },
+  "Holy Cross Crusaders vs. Albany Great Danes|Holy Cross Crusaders|spread": {
+    "captured_at": "2026-11-14T21:07:14.464868+00:00",
+    "edge_type": "spread"
+  },
+  "Charleston Cougars vs. South Carolina St Bulldogs|South Carolina St Bulldogs|spread": {
+    "captured_at": "2026-11-14T21:07:14.464962+00:00",
+    "edge_type": "spread"
+  },
+  "Michigan Wolverines vs. William & Mary Tribe|William & Mary Tribe|spread": {
+    "captured_at": "2026-11-14T21:07:14.465137+00:00",
+    "edge_type": "spread"
+  },
+  "Alabama A&M Bulldogs vs. Cleveland St Vikings|Alabama A&M Bulldogs|moneyline": {
+    "captured_at": "2026-11-14T21:07:14.465510+00:00",
+    "edge_type": "moneyline"
+  },
+  "Loyola Marymount Lions vs. Chicago St Cougars|Chicago St Cougars|spread": {
+    "captured_at": "2026-11-14T21:07:14.465552+00:00",
+    "edge_type": "spread"
+  },
+  "James Madison Dukes vs. Mercyhurst Lakers|Mercyhurst Lakers|spread": {
+    "captured_at": "2026-11-14T21:07:14.465615+00:00",
+    "edge_type": "spread"
+  },
+  "San Diego St Aztecs vs. New Mexico St Aggies|San Diego St Aztecs|spread": {
+    "captured_at": "2026-11-14T21:07:14.465735+00:00",
+    "edge_type": "spread"
+  },
+  "Penn State Nittany Lions vs. New Haven Chargers|New Haven Chargers|spread": {
+    "captured_at": "2026-11-14T21:07:14.465820+00:00",
+    "edge_type": "spread"
+  },
+  "UTEP Miners vs. Florida A&M Rattlers|Florida A&M Rattlers|spread": {
+    "captured_at": "2026-11-14T21:07:14.466298+00:00",
+    "edge_type": "spread"
   }
 }
