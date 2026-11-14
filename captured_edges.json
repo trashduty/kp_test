@@ -6262,5 +6262,9 @@
   "Campbell Fighting Camels vs. South Carolina Upstate Spartans|Campbell Fighting Camels|moneyline": {
     "captured_at": "2026-11-14T05:08:47.285028+00:00",
     "edge_type": "moneyline"
+  },
+  "Cornell Big Red vs. UNC Greensboro Spartans|Cornell Big Red|spread": {
+    "captured_at": "2026-11-14T07:09:01.785198+00:00",
+    "edge_type": "spread"
   }
 }
