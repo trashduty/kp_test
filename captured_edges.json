@@ -6258,5 +6258,9 @@
   "Arkansas-Little Rock Trojans vs. Northwestern St Demons|Northwestern St Demons|spread": {
     "captured_at": "2026-11-14T03:10:05.874870+00:00",
     "edge_type": "spread"
+  },
+  "Campbell Fighting Camels vs. South Carolina Upstate Spartans|Campbell Fighting Camels|moneyline": {
+    "captured_at": "2026-11-14T05:08:47.285028+00:00",
+    "edge_type": "moneyline"
   }
 }
