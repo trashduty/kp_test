@@ -6222,5 +6222,41 @@
   "Morehead St Eagles vs. IUPUI Jaguars|under": {
     "captured_at": "2026-11-14T02:12:43.860995+00:00",
     "edge_type": "under"
+  },
+  "Texas Tech Red Raiders vs. Stonehill Skyhawks|Stonehill Skyhawks|spread": {
+    "captured_at": "2026-11-14T03:10:05.867664+00:00",
+    "edge_type": "spread"
+  },
+  "Maine Black Bears vs. Drexel Dragons|Maine Black Bears|spread": {
+    "captured_at": "2026-11-14T03:10:05.868199+00:00",
+    "edge_type": "spread"
+  },
+  "South Florida Bulls vs. Coppin St Eagles|Coppin St Eagles|spread": {
+    "captured_at": "2026-11-14T03:10:05.869265+00:00",
+    "edge_type": "spread"
+  },
+  "North Florida Ospreys vs. The Citadel Bulldogs|North Florida Ospreys|spread": {
+    "captured_at": "2026-11-14T03:10:05.869527+00:00",
+    "edge_type": "spread"
+  },
+  "North Florida Ospreys vs. The Citadel Bulldogs|North Florida Ospreys|moneyline": {
+    "captured_at": "2026-11-14T03:10:05.869570+00:00",
+    "edge_type": "moneyline"
+  },
+  "St. Bonaventure Bonnies vs. Lafayette Leopards|St. Bonaventure Bonnies|spread": {
+    "captured_at": "2026-11-14T03:10:05.870654+00:00",
+    "edge_type": "spread"
+  },
+  "East Carolina Pirates vs. Delaware St Hornets|Delaware St Hornets|spread": {
+    "captured_at": "2026-11-14T03:10:05.871268+00:00",
+    "edge_type": "spread"
+  },
+  "UT-Arlington Mavericks vs. UT Rio Grande Valley Vaqueros|UT-Arlington Mavericks|moneyline": {
+    "captured_at": "2026-11-14T03:10:05.872969+00:00",
+    "edge_type": "moneyline"
+  },
+  "Arkansas-Little Rock Trojans vs. Northwestern St Demons|Northwestern St Demons|spread": {
+    "captured_at": "2026-11-14T03:10:05.874870+00:00",
+    "edge_type": "spread"
   }
 }
