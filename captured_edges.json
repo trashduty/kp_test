@@ -6334,5 +6334,13 @@
   "UTEP Miners vs. Florida A&M Rattlers|Florida A&M Rattlers|spread": {
     "captured_at": "2026-11-14T21:07:14.466298+00:00",
     "edge_type": "spread"
+  },
+  "San Diego St Aztecs vs. New Mexico St Aggies|San Diego St Aztecs|moneyline": {
+    "captured_at": "2026-11-14T22:07:31.785502+00:00",
+    "edge_type": "moneyline"
+  },
+  "UTSA Roadrunners vs. Texas State Bobcats|UTSA Roadrunners|spread": {
+    "captured_at": "2026-11-14T22:07:31.786822+00:00",
+    "edge_type": "spread"
   }
 }
