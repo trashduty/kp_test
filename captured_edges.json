@@ -6266,5 +6266,13 @@
   "Cornell Big Red vs. UNC Greensboro Spartans|Cornell Big Red|spread": {
     "captured_at": "2026-11-14T07:09:01.785198+00:00",
     "edge_type": "spread"
+  },
+  "Nebraska Cornhuskers vs. Boise State Broncos|under": {
+    "captured_at": "2026-11-14T19:06:54.278639+00:00",
+    "edge_type": "under"
+  },
+  "Iowa State Cyclones vs. Niagara Purple Eagles|Niagara Purple Eagles|spread": {
+    "captured_at": "2026-11-14T19:06:54.278755+00:00",
+    "edge_type": "spread"
   }
 }
