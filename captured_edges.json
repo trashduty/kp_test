@@ -6374,5 +6374,29 @@
   "UCLA Bruins vs. Long Beach St 49ers|Long Beach St 49ers|spread": {
     "captured_at": "2026-11-15T20:08:34.992460+00:00",
     "edge_type": "spread"
+  },
+  "UMBC Retrievers vs. Iona Gaels|over": {
+    "captured_at": "2026-11-15T23:08:23.411052+00:00",
+    "edge_type": "over"
+  },
+  "Maryland Terrapins vs. Alcorn St Braves|Alcorn St Braves|spread": {
+    "captured_at": "2026-11-15T23:08:23.411277+00:00",
+    "edge_type": "spread"
+  },
+  "Ohio State Buckeyes vs. Prairie View Panthers|Prairie View Panthers|spread": {
+    "captured_at": "2026-11-15T23:08:23.411494+00:00",
+    "edge_type": "spread"
+  },
+  "Kentucky Wildcats vs. Grambling St Tigers|Grambling St Tigers|spread": {
+    "captured_at": "2026-11-15T23:08:23.412265+00:00",
+    "edge_type": "spread"
+  },
+  "Kentucky Wildcats vs. Grambling St Tigers|under": {
+    "captured_at": "2026-11-15T23:08:23.412318+00:00",
+    "edge_type": "under"
+  },
+  "Texas A&M Aggies vs. SE Louisiana Lions|SE Louisiana Lions|spread": {
+    "captured_at": "2026-11-15T23:08:23.414087+00:00",
+    "edge_type": "spread"
   }
 }
