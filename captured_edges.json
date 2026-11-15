@@ -6342,5 +6342,9 @@
   "UTSA Roadrunners vs. Texas State Bobcats|UTSA Roadrunners|spread": {
     "captured_at": "2026-11-14T22:07:31.786822+00:00",
     "edge_type": "spread"
+  },
+  "Eastern Illinois Panthers vs. Fort Wayne Mastodons|Fort Wayne Mastodons|moneyline": {
+    "captured_at": "2026-11-15T00:27:08.440655+00:00",
+    "edge_type": "moneyline"
   }
 }
