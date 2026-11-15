@@ -6346,5 +6346,33 @@
   "Eastern Illinois Panthers vs. Fort Wayne Mastodons|Fort Wayne Mastodons|moneyline": {
     "captured_at": "2026-11-15T00:27:08.440655+00:00",
     "edge_type": "moneyline"
+  },
+  "Kent State Golden Flashes vs. Eastern Kentucky Colonels|under": {
+    "captured_at": "2026-11-15T20:08:34.991126+00:00",
+    "edge_type": "under"
+  },
+  "Clemson Tigers vs. The Citadel Bulldogs|The Citadel Bulldogs|spread": {
+    "captured_at": "2026-11-15T20:08:34.991261+00:00",
+    "edge_type": "spread"
+  },
+  "Drake Bulldogs vs. Tarleton State Texans|Tarleton State Texans|spread": {
+    "captured_at": "2026-11-15T20:08:34.991619+00:00",
+    "edge_type": "spread"
+  },
+  "Missouri St Bears vs. Abilene Christian Wildcats|Abilene Christian Wildcats|spread": {
+    "captured_at": "2026-11-15T20:08:34.991744+00:00",
+    "edge_type": "spread"
+  },
+  "Minnesota Golden Gophers vs. Western Illinois Leathernecks|Western Illinois Leathernecks|spread": {
+    "captured_at": "2026-11-15T20:08:34.991819+00:00",
+    "edge_type": "spread"
+  },
+  "North Dakota Fighting Hawks vs. SIU-Edwardsville Cougars|under": {
+    "captured_at": "2026-11-15T20:08:34.992173+00:00",
+    "edge_type": "under"
+  },
+  "UCLA Bruins vs. Long Beach St 49ers|Long Beach St 49ers|spread": {
+    "captured_at": "2026-11-15T20:08:34.992460+00:00",
+    "edge_type": "spread"
   }
 }
