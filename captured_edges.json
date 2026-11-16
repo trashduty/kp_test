@@ -6402,5 +6402,57 @@
   "Pittsburgh Panthers vs. Villanova Wildcats|Villanova Wildcats|spread": {
     "captured_at": "2026-11-16T21:08:24.813895+00:00",
     "edge_type": "spread"
+  },
+  "Miami Hurricanes vs. Rider Broncs|Rider Broncs|spread": {
+    "captured_at": "2026-11-16T22:08:29.579077+00:00",
+    "edge_type": "spread"
+  },
+  "Davidson Wildcats vs. Charlotte 49ers|over": {
+    "captured_at": "2026-11-16T22:08:29.579235+00:00",
+    "edge_type": "over"
+  },
+  "Providence Friars vs. Sacred Heart Pioneers|Sacred Heart Pioneers|spread": {
+    "captured_at": "2026-11-16T22:08:29.579475+00:00",
+    "edge_type": "spread"
+  },
+  "Georgia Tech Yellow Jackets vs. Norfolk St Spartans|under": {
+    "captured_at": "2026-11-16T22:08:29.579744+00:00",
+    "edge_type": "under"
+  },
+  "Florida St Seminoles vs. Ball State Cardinals|Ball State Cardinals|spread": {
+    "captured_at": "2026-11-16T22:08:29.580178+00:00",
+    "edge_type": "spread"
+  },
+  "UAB Blazers vs. Florida Int'l Golden Panthers|UAB Blazers|spread": {
+    "captured_at": "2026-11-16T22:08:29.580383+00:00",
+    "edge_type": "spread"
+  },
+  "UAB Blazers vs. Florida Int'l Golden Panthers|UAB Blazers|moneyline": {
+    "captured_at": "2026-11-16T22:08:29.580412+00:00",
+    "edge_type": "moneyline"
+  },
+  "SMU Mustangs vs. Oral Roberts Golden Eagles|Oral Roberts Golden Eagles|spread": {
+    "captured_at": "2026-11-16T22:08:29.580595+00:00",
+    "edge_type": "spread"
+  },
+  "DePaul Blue Demons vs. Maryland-Eastern Shore Hawks|Maryland-Eastern Shore Hawks|spread": {
+    "captured_at": "2026-11-16T22:08:29.580658+00:00",
+    "edge_type": "spread"
+  },
+  "Vanderbilt Commodores vs. Eastern Illinois Panthers|Eastern Illinois Panthers|spread": {
+    "captured_at": "2026-11-16T22:08:29.580759+00:00",
+    "edge_type": "spread"
+  },
+  "Ole Miss Rebels vs. Nicholls St Colonels|Nicholls St Colonels|spread": {
+    "captured_at": "2026-11-16T22:08:29.581046+00:00",
+    "edge_type": "spread"
+  },
+  "Virginia Cavaliers vs. Old Dominion Monarchs|Old Dominion Monarchs|spread": {
+    "captured_at": "2026-11-16T22:08:29.581187+00:00",
+    "edge_type": "spread"
+  },
+  "Gonzaga Bulldogs vs. Montana St Bobcats|Montana St Bobcats|spread": {
+    "captured_at": "2026-11-16T22:08:29.581580+00:00",
+    "edge_type": "spread"
   }
 }
