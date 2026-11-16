@@ -6398,5 +6398,9 @@
   "Texas A&M Aggies vs. SE Louisiana Lions|SE Louisiana Lions|spread": {
     "captured_at": "2026-11-15T23:08:23.414087+00:00",
     "edge_type": "spread"
+  },
+  "Pittsburgh Panthers vs. Villanova Wildcats|Villanova Wildcats|spread": {
+    "captured_at": "2026-11-16T21:08:24.813895+00:00",
+    "edge_type": "spread"
   }
 }
