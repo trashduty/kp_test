@@ -6454,5 +6454,17 @@
   "Gonzaga Bulldogs vs. Montana St Bobcats|Montana St Bobcats|spread": {
     "captured_at": "2026-11-16T22:08:29.581580+00:00",
     "edge_type": "spread"
+  },
+  "Xavier Musketeers vs. Cleveland St Vikings|Cleveland St Vikings|spread": {
+    "captured_at": "2026-11-16T23:07:40.731918+00:00",
+    "edge_type": "spread"
+  },
+  "UC Davis Aggies vs. Alabama St Hornets|Alabama St Hornets|spread": {
+    "captured_at": "2026-11-16T23:07:40.733727+00:00",
+    "edge_type": "spread"
+  },
+  "Cal Baptist Lancers vs. Seattle Redhawks|Cal Baptist Lancers|spread": {
+    "captured_at": "2026-11-16T23:07:40.734053+00:00",
+    "edge_type": "spread"
   }
 }
