@@ -6482,5 +6482,13 @@
   "Wyoming Cowboys vs. Sam Houston St Bearkats|Sam Houston St Bearkats|spread": {
     "captured_at": "2026-11-17T01:09:58.738819+00:00",
     "edge_type": "spread"
+  },
+  "Southern Illinois Salukis vs. Liberty Flames|Liberty Flames|moneyline": {
+    "captured_at": "2026-11-17T03:11:17.356054+00:00",
+    "edge_type": "moneyline"
+  },
+  "Illinois St Redbirds vs. Bellarmine Knights|Bellarmine Knights|spread": {
+    "captured_at": "2026-11-17T03:11:17.357715+00:00",
+    "edge_type": "spread"
   }
 }
