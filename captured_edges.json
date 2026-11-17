@@ -6526,5 +6526,37 @@
   "UCLA Bruins vs. CSU Fullerton Titans|CSU Fullerton Titans|spread": {
     "captured_at": "2026-11-17T21:08:44.319998+00:00",
     "edge_type": "spread"
+  },
+  "Marquette Golden Eagles vs. Northern Illinois Huskies|Northern Illinois Huskies|spread": {
+    "captured_at": "2026-11-17T22:09:06.875867+00:00",
+    "edge_type": "spread"
+  },
+  "Cincinnati Bearcats vs. Youngstown St Penguins|Youngstown St Penguins|spread": {
+    "captured_at": "2026-11-17T22:09:06.876127+00:00",
+    "edge_type": "spread"
+  },
+  "Oklahoma Sooners vs. Campbell Fighting Camels|Campbell Fighting Camels|spread": {
+    "captured_at": "2026-11-17T22:09:06.876396+00:00",
+    "edge_type": "spread"
+  },
+  "LSU Tigers vs. UL Monroe Warhawks|UL Monroe Warhawks|spread": {
+    "captured_at": "2026-11-17T22:09:06.876528+00:00",
+    "edge_type": "spread"
+  },
+  "Loyola (Chi) Ramblers vs. Wichita St Shockers|Wichita St Shockers|spread": {
+    "captured_at": "2026-11-17T22:09:06.877003+00:00",
+    "edge_type": "spread"
+  },
+  "Arizona St Sun Devils vs. Oakland Golden Grizzlies|Oakland Golden Grizzlies|spread": {
+    "captured_at": "2026-11-17T22:09:06.877691+00:00",
+    "edge_type": "spread"
+  },
+  "BYU Cougars vs. N Colorado Bears|under": {
+    "captured_at": "2026-11-17T22:09:06.877969+00:00",
+    "edge_type": "under"
+  },
+  "BYU Cougars vs. N Colorado Bears|N Colorado Bears|spread": {
+    "captured_at": "2026-11-17T22:09:06.878211+00:00",
+    "edge_type": "spread"
   }
 }
