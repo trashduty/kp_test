@@ -6494,5 +6494,37 @@
   "Omaha Mavericks vs. Lamar Cardinals|under": {
     "captured_at": "2026-11-17T10:09:44.468168+00:00",
     "edge_type": "under"
+  },
+  "Penn State Nittany Lions vs. IUPUI Jaguars|under": {
+    "captured_at": "2026-11-17T21:08:44.318910+00:00",
+    "edge_type": "under"
+  },
+  "Ohio Bobcats vs. Morehead St Eagles|Morehead St Eagles|spread": {
+    "captured_at": "2026-11-17T21:08:44.319012+00:00",
+    "edge_type": "spread"
+  },
+  "Towson Tigers vs. James Madison Dukes|James Madison Dukes|spread": {
+    "captured_at": "2026-11-17T21:08:44.319104+00:00",
+    "edge_type": "spread"
+  },
+  "South Carolina Gamecocks vs. Elon Phoenix|Elon Phoenix|spread": {
+    "captured_at": "2026-11-17T21:08:44.319196+00:00",
+    "edge_type": "spread"
+  },
+  "St. John's Red Storm vs. Siena Saints|Siena Saints|spread": {
+    "captured_at": "2026-11-17T21:08:44.319319+00:00",
+    "edge_type": "spread"
+  },
+  "Utah State Aggies vs. Weber State Wildcats|under": {
+    "captured_at": "2026-11-17T21:08:44.319510+00:00",
+    "edge_type": "under"
+  },
+  "Utah State Aggies vs. Weber State Wildcats|Weber State Wildcats|spread": {
+    "captured_at": "2026-11-17T21:08:44.319561+00:00",
+    "edge_type": "spread"
+  },
+  "UCLA Bruins vs. CSU Fullerton Titans|CSU Fullerton Titans|spread": {
+    "captured_at": "2026-11-17T21:08:44.319998+00:00",
+    "edge_type": "spread"
   }
 }
