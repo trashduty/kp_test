@@ -6466,5 +6466,13 @@
   "Cal Baptist Lancers vs. Seattle Redhawks|Cal Baptist Lancers|spread": {
     "captured_at": "2026-11-16T23:07:40.734053+00:00",
     "edge_type": "spread"
+  },
+  "South Florida Bulls vs. Tennessee St Tigers|under": {
+    "captured_at": "2026-11-17T00:25:02.223119+00:00",
+    "edge_type": "under"
+  },
+  "Georgia Southern Eagles vs. Middle Tennessee Blue Raiders|under": {
+    "captured_at": "2026-11-17T00:25:02.225720+00:00",
+    "edge_type": "under"
   }
 }
