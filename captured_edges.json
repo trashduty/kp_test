@@ -6474,5 +6474,13 @@
   "Georgia Southern Eagles vs. Middle Tennessee Blue Raiders|under": {
     "captured_at": "2026-11-17T00:25:02.225720+00:00",
     "edge_type": "under"
+  },
+  "Southern Miss Golden Eagles vs. UT-Arlington Mavericks|UT-Arlington Mavericks|spread": {
+    "captured_at": "2026-11-17T01:09:58.737696+00:00",
+    "edge_type": "spread"
+  },
+  "Wyoming Cowboys vs. Sam Houston St Bearkats|Sam Houston St Bearkats|spread": {
+    "captured_at": "2026-11-17T01:09:58.738819+00:00",
+    "edge_type": "spread"
   }
 }
