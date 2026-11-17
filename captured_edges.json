@@ -6490,5 +6490,9 @@
   "Illinois St Redbirds vs. Bellarmine Knights|Bellarmine Knights|spread": {
     "captured_at": "2026-11-17T03:11:17.357715+00:00",
     "edge_type": "spread"
+  },
+  "Omaha Mavericks vs. Lamar Cardinals|under": {
+    "captured_at": "2026-11-17T10:09:44.468168+00:00",
+    "edge_type": "under"
   }
 }
