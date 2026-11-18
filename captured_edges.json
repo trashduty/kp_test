@@ -6618,5 +6618,17 @@
   "Missouri Tigers vs. Alcorn St Braves|Alcorn St Braves|spread": {
     "captured_at": "2026-11-18T03:11:39.510621+00:00",
     "edge_type": "spread"
+  },
+  "Winthrop Eagles vs. Chattanooga Mocs|Winthrop Eagles|moneyline": {
+    "captured_at": "2026-11-18T04:11:00.619261+00:00",
+    "edge_type": "moneyline"
+  },
+  "Texas Tech Red Raiders vs. New Orleans Privateers|New Orleans Privateers|spread": {
+    "captured_at": "2026-11-18T04:11:00.621635+00:00",
+    "edge_type": "spread"
+  },
+  "San Diego St Aztecs vs. Texas Southern Tigers|Texas Southern Tigers|spread": {
+    "captured_at": "2026-11-18T04:11:00.623694+00:00",
+    "edge_type": "spread"
   }
 }
