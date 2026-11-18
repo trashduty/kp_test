@@ -6558,5 +6558,9 @@
   "BYU Cougars vs. N Colorado Bears|N Colorado Bears|spread": {
     "captured_at": "2026-11-17T22:09:06.878211+00:00",
     "edge_type": "spread"
+  },
+  "Loyola (Chi) Ramblers vs. Wichita St Shockers|Wichita St Shockers|moneyline": {
+    "captured_at": "2026-11-18T01:09:44.863059+00:00",
+    "edge_type": "moneyline"
   }
 }
