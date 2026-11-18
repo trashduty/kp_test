@@ -6574,5 +6574,49 @@
   "Baylor Bears vs. Jackson St Tigers|Jackson St Tigers|spread": {
     "captured_at": "2026-11-18T02:13:41.920741+00:00",
     "edge_type": "spread"
+  },
+  "Georgetown Hoyas vs. Navy Midshipmen|Navy Midshipmen|spread": {
+    "captured_at": "2026-11-18T03:11:39.504010+00:00",
+    "edge_type": "spread"
+  },
+  "UNC Asheville Bulldogs vs. Tennessee Tech Golden Eagles|UNC Asheville Bulldogs|spread": {
+    "captured_at": "2026-11-18T03:11:39.504566+00:00",
+    "edge_type": "spread"
+  },
+  "Yale Bulldogs vs. Vermont Catamounts|Yale Bulldogs|moneyline": {
+    "captured_at": "2026-11-18T03:11:39.504913+00:00",
+    "edge_type": "moneyline"
+  },
+  "George Mason Patriots vs. North Carolina Central Eagles|North Carolina Central Eagles|spread": {
+    "captured_at": "2026-11-18T03:11:39.505027+00:00",
+    "edge_type": "spread"
+  },
+  "Holy Cross Crusaders vs. Brown Bears|Holy Cross Crusaders|spread": {
+    "captured_at": "2026-11-18T03:11:39.505976+00:00",
+    "edge_type": "spread"
+  },
+  "Lafayette Leopards vs. Binghamton Bearcats|over": {
+    "captured_at": "2026-11-18T03:11:39.506240+00:00",
+    "edge_type": "over"
+  },
+  "Charleston Southern Buccaneers vs. Wofford Terriers|under": {
+    "captured_at": "2026-11-18T03:11:39.506623+00:00",
+    "edge_type": "under"
+  },
+  "Charleston Southern Buccaneers vs. Wofford Terriers|Charleston Southern Buccaneers|spread": {
+    "captured_at": "2026-11-18T03:11:39.506728+00:00",
+    "edge_type": "spread"
+  },
+  "Arkansas St Red Wolves vs. Arkansas-Pine Bluff Golden Lions|Arkansas-Pine Bluff Golden Lions|spread": {
+    "captured_at": "2026-11-18T03:11:39.508552+00:00",
+    "edge_type": "spread"
+  },
+  "Creighton Bluejays vs. Bethune-Cookman Wildcats|Bethune-Cookman Wildcats|spread": {
+    "captured_at": "2026-11-18T03:11:39.509883+00:00",
+    "edge_type": "spread"
+  },
+  "Missouri Tigers vs. Alcorn St Braves|Alcorn St Braves|spread": {
+    "captured_at": "2026-11-18T03:11:39.510621+00:00",
+    "edge_type": "spread"
   }
 }
