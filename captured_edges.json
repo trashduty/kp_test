@@ -6642,5 +6642,13 @@
   "West Virginia Mountaineers vs. Kansas Jayhawks|under": {
     "captured_at": "2026-11-18T08:12:15.900794+00:00",
     "edge_type": "under"
+  },
+  "West Virginia Mountaineers vs. Kansas Jayhawks|West Virginia Mountaineers|spread": {
+    "captured_at": "2026-11-18T10:09:26.174140+00:00",
+    "edge_type": "spread"
+  },
+  "Auburn Tigers vs. UNLV Rebels|under": {
+    "captured_at": "2026-11-18T10:09:26.175408+00:00",
+    "edge_type": "under"
   }
 }
