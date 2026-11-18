@@ -6638,5 +6638,9 @@
   "Winthrop Eagles vs. Chattanooga Mocs|Winthrop Eagles|spread": {
     "captured_at": "2026-11-18T05:09:42.637298+00:00",
     "edge_type": "spread"
+  },
+  "West Virginia Mountaineers vs. Kansas Jayhawks|under": {
+    "captured_at": "2026-11-18T08:12:15.900794+00:00",
+    "edge_type": "under"
   }
 }
