@@ -6650,5 +6650,29 @@
   "Auburn Tigers vs. UNLV Rebels|under": {
     "captured_at": "2026-11-18T10:09:26.175408+00:00",
     "edge_type": "under"
+  },
+  "Murray St Racers vs. NC State Wolfpack|NC State Wolfpack|moneyline": {
+    "captured_at": "2026-11-18T22:08:56.497927+00:00",
+    "edge_type": "moneyline"
+  },
+  "Texas Longhorns vs. Southern Utah Thunderbirds|Southern Utah Thunderbirds|spread": {
+    "captured_at": "2026-11-18T22:08:56.499001+00:00",
+    "edge_type": "spread"
+  },
+  "Seton Hall Pirates vs. Wisconsin Badgers|Seton Hall Pirates|spread": {
+    "captured_at": "2026-11-18T22:08:56.499345+00:00",
+    "edge_type": "spread"
+  },
+  "Washington Huskies vs. Utah Tech Trailblazers|under": {
+    "captured_at": "2026-11-18T22:08:56.499617+00:00",
+    "edge_type": "under"
+  },
+  "Santa Clara Broncos vs. VCU Rams|Santa Clara Broncos|moneyline": {
+    "captured_at": "2026-11-18T22:08:56.500212+00:00",
+    "edge_type": "moneyline"
+  },
+  "USC Trojans vs. Tarleton State Texans|Tarleton State Texans|spread": {
+    "captured_at": "2026-11-18T22:08:56.500486+00:00",
+    "edge_type": "spread"
   }
 }
