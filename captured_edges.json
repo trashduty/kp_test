@@ -6630,5 +6630,13 @@
   "San Diego St Aztecs vs. Texas Southern Tigers|Texas Southern Tigers|spread": {
     "captured_at": "2026-11-18T04:11:00.623694+00:00",
     "edge_type": "spread"
+  },
+  "UNC Asheville Bulldogs vs. Tennessee Tech Golden Eagles|under": {
+    "captured_at": "2026-11-18T05:09:42.637114+00:00",
+    "edge_type": "under"
+  },
+  "Winthrop Eagles vs. Chattanooga Mocs|Winthrop Eagles|spread": {
+    "captured_at": "2026-11-18T05:09:42.637298+00:00",
+    "edge_type": "spread"
   }
 }
