@@ -6562,5 +6562,17 @@
   "Loyola (Chi) Ramblers vs. Wichita St Shockers|Wichita St Shockers|moneyline": {
     "captured_at": "2026-11-18T01:09:44.863059+00:00",
     "edge_type": "moneyline"
+  },
+  "Notre Dame Fighting Irish vs. Rutgers Scarlet Knights|under": {
+    "captured_at": "2026-11-18T02:13:41.917033+00:00",
+    "edge_type": "under"
+  },
+  "Florida Gators vs. Houston Cougars|under": {
+    "captured_at": "2026-11-18T02:13:41.917251+00:00",
+    "edge_type": "under"
+  },
+  "Baylor Bears vs. Jackson St Tigers|Jackson St Tigers|spread": {
+    "captured_at": "2026-11-18T02:13:41.920741+00:00",
+    "edge_type": "spread"
   }
 }
