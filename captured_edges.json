@@ -6714,5 +6714,45 @@
   "Florida St Seminoles vs. Green Bay Phoenix|Green Bay Phoenix|spread": {
     "captured_at": "2026-11-19T21:08:23.359730+00:00",
     "edge_type": "spread"
+  },
+  "Miami Hurricanes vs. Manhattan Jaspers|Manhattan Jaspers|spread": {
+    "captured_at": "2026-11-19T22:08:50.589015+00:00",
+    "edge_type": "spread"
+  },
+  "Southern Illinois Salukis vs. Tenn-Martin Skyhawks|under": {
+    "captured_at": "2026-11-19T22:08:50.589250+00:00",
+    "edge_type": "under"
+  },
+  "Southern Illinois Salukis vs. Tenn-Martin Skyhawks|Southern Illinois Salukis|moneyline": {
+    "captured_at": "2026-11-19T22:08:50.589399+00:00",
+    "edge_type": "moneyline"
+  },
+  "Purdue Boilermakers vs. Oakland Golden Grizzlies|Oakland Golden Grizzlies|spread": {
+    "captured_at": "2026-11-19T22:08:50.589853+00:00",
+    "edge_type": "spread"
+  },
+  "Pittsburgh Panthers vs. Central Michigan Chippewas|Central Michigan Chippewas|spread": {
+    "captured_at": "2026-11-19T22:08:50.590449+00:00",
+    "edge_type": "spread"
+  },
+  "Tennessee Volunteers vs. Coastal Carolina Chanticleers|Coastal Carolina Chanticleers|spread": {
+    "captured_at": "2026-11-19T22:08:50.590752+00:00",
+    "edge_type": "spread"
+  },
+  "Xavier Musketeers vs. Iowa Hawkeyes|Xavier Musketeers|moneyline": {
+    "captured_at": "2026-11-19T22:08:50.591102+00:00",
+    "edge_type": "moneyline"
+  },
+  "Illinois Fighting Illini vs. Eastern Illinois Panthers|Eastern Illinois Panthers|spread": {
+    "captured_at": "2026-11-19T22:08:50.591902+00:00",
+    "edge_type": "spread"
+  },
+  "Boise State Broncos vs. Sam Houston St Bearkats|under": {
+    "captured_at": "2026-11-19T22:08:50.592072+00:00",
+    "edge_type": "under"
+  },
+  "North Carolina Tar Heels vs. Marshall Thundering Herd|Marshall Thundering Herd|spread": {
+    "captured_at": "2026-11-19T22:08:50.592222+00:00",
+    "edge_type": "spread"
   }
 }
