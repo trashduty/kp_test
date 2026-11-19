@@ -6694,5 +6694,13 @@
   "Louisville Cardinals vs. Stetson Hatters|Stetson Hatters|spread": {
     "captured_at": "2026-11-19T03:11:26.377476+00:00",
     "edge_type": "spread"
+  },
+  "Kansas Jayhawks vs. Houston Cougars|under": {
+    "captured_at": "2026-11-19T04:11:10.530639+00:00",
+    "edge_type": "under"
+  },
+  "Kansas Jayhawks vs. Houston Cougars|Houston Cougars|moneyline": {
+    "captured_at": "2026-11-19T04:11:10.530711+00:00",
+    "edge_type": "moneyline"
   }
 }
