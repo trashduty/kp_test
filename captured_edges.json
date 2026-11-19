@@ -6674,5 +6674,9 @@
   "USC Trojans vs. Tarleton State Texans|Tarleton State Texans|spread": {
     "captured_at": "2026-11-18T22:08:56.500486+00:00",
     "edge_type": "spread"
+  },
+  "TCU Horned Frogs vs. Texas A&M Aggies|Texas A&M Aggies|moneyline": {
+    "captured_at": "2026-11-19T00:25:06.688877+00:00",
+    "edge_type": "moneyline"
   }
 }
