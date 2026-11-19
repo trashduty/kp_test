@@ -6702,5 +6702,13 @@
   "Kansas Jayhawks vs. Houston Cougars|Houston Cougars|moneyline": {
     "captured_at": "2026-11-19T04:11:10.530711+00:00",
     "edge_type": "moneyline"
+  },
+  "Notre Dame Fighting Irish vs. Auburn Tigers|Auburn Tigers|moneyline": {
+    "captured_at": "2026-11-19T08:12:50.723079+00:00",
+    "edge_type": "moneyline"
+  },
+  "Rutgers Scarlet Knights vs. UNLV Rebels|UNLV Rebels|spread": {
+    "captured_at": "2026-11-19T08:12:50.723988+00:00",
+    "edge_type": "spread"
   }
 }
