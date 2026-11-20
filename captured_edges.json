@@ -6782,5 +6782,9 @@
   "Maryland Terrapins vs. Wagner Seahawks|Wagner Seahawks|spread": {
     "captured_at": "2026-11-20T05:09:28.057424+00:00",
     "edge_type": "spread"
+  },
+  "Seton Hall Pirates vs. NC State Wolfpack|NC State Wolfpack|moneyline": {
+    "captured_at": "2026-11-20T14:09:36.278490+00:00",
+    "edge_type": "moneyline"
   }
 }
