@@ -6754,5 +6754,9 @@
   "North Carolina Tar Heels vs. Marshall Thundering Herd|Marshall Thundering Herd|spread": {
     "captured_at": "2026-11-19T22:08:50.592222+00:00",
     "edge_type": "spread"
+  },
+  "Middle Tennessee Blue Raiders vs. Temple Owls|Middle Tennessee Blue Raiders|spread": {
+    "captured_at": "2026-11-20T00:22:32.041791+00:00",
+    "edge_type": "spread"
   }
 }
