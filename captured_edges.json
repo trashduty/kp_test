@@ -6786,5 +6786,21 @@
   "Seton Hall Pirates vs. NC State Wolfpack|NC State Wolfpack|moneyline": {
     "captured_at": "2026-11-20T14:09:36.278490+00:00",
     "edge_type": "moneyline"
+  },
+  "Wichita St Shockers vs. New Mexico Lobos|Wichita St Shockers|spread": {
+    "captured_at": "2026-11-20T21:08:07.033839+00:00",
+    "edge_type": "spread"
+  },
+  "Wichita St Shockers vs. New Mexico Lobos|Wichita St Shockers|moneyline": {
+    "captured_at": "2026-11-20T21:08:07.033889+00:00",
+    "edge_type": "moneyline"
+  },
+  "Duke Blue Devils vs. Washington St Cougars|Washington St Cougars|spread": {
+    "captured_at": "2026-11-20T21:08:07.034600+00:00",
+    "edge_type": "spread"
+  },
+  "Michigan St Spartans vs. Detroit Mercy Titans|Detroit Mercy Titans|spread": {
+    "captured_at": "2026-11-20T21:08:07.034708+00:00",
+    "edge_type": "spread"
   }
 }
