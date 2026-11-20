@@ -6802,5 +6802,17 @@
   "Michigan St Spartans vs. Detroit Mercy Titans|Detroit Mercy Titans|spread": {
     "captured_at": "2026-11-20T21:08:07.034708+00:00",
     "edge_type": "spread"
+  },
+  "Saint Peter's Peacocks vs. Stony Brook Seawolves|Saint Peter's Peacocks|spread": {
+    "captured_at": "2026-11-20T22:07:57.746986+00:00",
+    "edge_type": "spread"
+  },
+  "Wichita St Shockers vs. New Mexico Lobos|under": {
+    "captured_at": "2026-11-20T22:07:57.747289+00:00",
+    "edge_type": "under"
+  },
+  "UTSA Roadrunners vs. Air Force Falcons|under": {
+    "captured_at": "2026-11-20T22:07:57.748082+00:00",
+    "edge_type": "under"
   }
 }
