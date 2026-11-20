@@ -6758,5 +6758,21 @@
   "Middle Tennessee Blue Raiders vs. Temple Owls|Middle Tennessee Blue Raiders|spread": {
     "captured_at": "2026-11-20T00:22:32.041791+00:00",
     "edge_type": "spread"
+  },
+  "Holy Cross Crusaders vs. Harvard Crimson|Holy Cross Crusaders|spread": {
+    "captured_at": "2026-11-20T03:11:16.209257+00:00",
+    "edge_type": "spread"
+  },
+  "Missouri Tigers vs. Le Moyne Dolphins|Le Moyne Dolphins|spread": {
+    "captured_at": "2026-11-20T03:11:16.211671+00:00",
+    "edge_type": "spread"
+  },
+  "Arkansas Razorbacks vs. Miss Valley St Delta Devils|Miss Valley St Delta Devils|spread": {
+    "captured_at": "2026-11-20T03:11:16.211982+00:00",
+    "edge_type": "spread"
+  },
+  "Fresno St Bulldogs vs. Alabama St Hornets|Alabama St Hornets|spread": {
+    "captured_at": "2026-11-20T03:11:16.213246+00:00",
+    "edge_type": "spread"
   }
 }
