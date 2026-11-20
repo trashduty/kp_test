@@ -6814,5 +6814,13 @@
   "UTSA Roadrunners vs. Air Force Falcons|under": {
     "captured_at": "2026-11-20T22:07:57.748082+00:00",
     "edge_type": "under"
+  },
+  "Cleveland St Vikings vs. Kent State Golden Flashes|Cleveland St Vikings|spread": {
+    "captured_at": "2026-11-20T23:08:17.548755+00:00",
+    "edge_type": "spread"
+  },
+  "Elon Phoenix vs. Morehead St Eagles|Morehead St Eagles|spread": {
+    "captured_at": "2026-11-20T23:08:17.550175+00:00",
+    "edge_type": "spread"
   }
 }
