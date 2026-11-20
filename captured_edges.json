@@ -6778,5 +6778,9 @@
   "Virginia Cavaliers vs. Loyola (MD) Greyhounds|Loyola (MD) Greyhounds|spread": {
     "captured_at": "2026-11-20T04:11:02.784486+00:00",
     "edge_type": "spread"
+  },
+  "Maryland Terrapins vs. Wagner Seahawks|Wagner Seahawks|spread": {
+    "captured_at": "2026-11-20T05:09:28.057424+00:00",
+    "edge_type": "spread"
   }
 }
