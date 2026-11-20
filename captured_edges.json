@@ -6774,5 +6774,9 @@
   "Fresno St Bulldogs vs. Alabama St Hornets|Alabama St Hornets|spread": {
     "captured_at": "2026-11-20T03:11:16.213246+00:00",
     "edge_type": "spread"
+  },
+  "Virginia Cavaliers vs. Loyola (MD) Greyhounds|Loyola (MD) Greyhounds|spread": {
+    "captured_at": "2026-11-20T04:11:02.784486+00:00",
+    "edge_type": "spread"
   }
 }
