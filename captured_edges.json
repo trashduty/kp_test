@@ -6854,5 +6854,21 @@
   "Vermont Catamounts vs. Brown Bears|Vermont Catamounts|moneyline": {
     "captured_at": "2026-11-21T03:10:48.323568+00:00",
     "edge_type": "moneyline"
+  },
+  "Austin Peay Governors vs. UT Rio Grande Valley Vaqueros|Austin Peay Governors|spread": {
+    "captured_at": "2026-11-21T04:09:57.281408+00:00",
+    "edge_type": "spread"
+  },
+  "Austin Peay Governors vs. UT Rio Grande Valley Vaqueros|Austin Peay Governors|moneyline": {
+    "captured_at": "2026-11-21T04:09:57.281450+00:00",
+    "edge_type": "moneyline"
+  },
+  "Binghamton Bearcats vs. Army Knights|Binghamton Bearcats|spread": {
+    "captured_at": "2026-11-21T04:09:57.281724+00:00",
+    "edge_type": "spread"
+  },
+  "Vermont Catamounts vs. Brown Bears|Vermont Catamounts|spread": {
+    "captured_at": "2026-11-21T04:09:57.283482+00:00",
+    "edge_type": "spread"
   }
 }
