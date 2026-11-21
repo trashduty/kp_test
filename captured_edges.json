@@ -6826,5 +6826,21 @@
   "North Florida Ospreys vs. Arkansas-Little Rock Trojans|North Florida Ospreys|spread": {
     "captured_at": "2026-11-21T01:09:39.400097+00:00",
     "edge_type": "spread"
+  },
+  "Binghamton Bearcats vs. Army Knights|Binghamton Bearcats|moneyline": {
+    "captured_at": "2026-11-21T02:12:20.964950+00:00",
+    "edge_type": "moneyline"
+  },
+  "Georgetown Hoyas vs. Coppin St Eagles|Coppin St Eagles|spread": {
+    "captured_at": "2026-11-21T02:12:20.965746+00:00",
+    "edge_type": "spread"
+  },
+  "Massachusetts Minutemen vs. Maine Black Bears|Maine Black Bears|spread": {
+    "captured_at": "2026-11-21T02:12:20.965915+00:00",
+    "edge_type": "spread"
+  },
+  "Tennessee Tech Golden Eagles vs. Presbyterian Blue Hose|under": {
+    "captured_at": "2026-11-21T02:12:20.966471+00:00",
+    "edge_type": "under"
   }
 }
