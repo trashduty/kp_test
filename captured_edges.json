@@ -6902,5 +6902,17 @@
   "USC Trojans vs. Louisiana Ragin' Cajuns|Louisiana Ragin' Cajuns|spread": {
     "captured_at": "2026-11-21T22:07:34.104619+00:00",
     "edge_type": "spread"
+  },
+  "South Alabama Jaguars vs. West Florida Argonauts|under": {
+    "captured_at": "2026-11-21T23:07:33.789204+00:00",
+    "edge_type": "under"
+  },
+  "Albany Great Danes vs. Mercyhurst Lakers|Mercyhurst Lakers|spread": {
+    "captured_at": "2026-11-21T23:07:33.789543+00:00",
+    "edge_type": "spread"
+  },
+  "Texas State Bobcats vs. McNeese Cowboys|McNeese Cowboys|spread": {
+    "captured_at": "2026-11-21T23:07:33.789639+00:00",
+    "edge_type": "spread"
   }
 }
