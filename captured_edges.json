@@ -6874,5 +6874,33 @@
   "Jacksonville Dolphins vs. Central Arkansas Bears|Jacksonville Dolphins|spread": {
     "captured_at": "2026-11-21T05:09:18.340287+00:00",
     "edge_type": "spread"
+  },
+  "Youngstown St Penguins vs. William & Mary Tribe|under": {
+    "captured_at": "2026-11-21T22:07:34.103534+00:00",
+    "edge_type": "under"
+  },
+  "Texas Longhorns vs. Southern Indiana Screaming Eagles|Southern Indiana Screaming Eagles|spread": {
+    "captured_at": "2026-11-21T22:07:34.103835+00:00",
+    "edge_type": "spread"
+  },
+  "Oklahoma St Cowboys vs. Virginia Tech Hokies|over": {
+    "captured_at": "2026-11-21T22:07:34.103923+00:00",
+    "edge_type": "over"
+  },
+  "Oklahoma St Cowboys vs. Virginia Tech Hokies|Virginia Tech Hokies|moneyline": {
+    "captured_at": "2026-11-21T22:07:34.103973+00:00",
+    "edge_type": "moneyline"
+  },
+  "UCLA Bruins vs. Delaware Blue Hens|Delaware Blue Hens|spread": {
+    "captured_at": "2026-11-21T22:07:34.104418+00:00",
+    "edge_type": "spread"
+  },
+  "Portland Pilots vs. Cal Baptist Lancers|Cal Baptist Lancers|spread": {
+    "captured_at": "2026-11-21T22:07:34.104471+00:00",
+    "edge_type": "spread"
+  },
+  "USC Trojans vs. Louisiana Ragin' Cajuns|Louisiana Ragin' Cajuns|spread": {
+    "captured_at": "2026-11-21T22:07:34.104619+00:00",
+    "edge_type": "spread"
   }
 }
