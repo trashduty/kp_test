@@ -6842,5 +6842,17 @@
   "Tennessee Tech Golden Eagles vs. Presbyterian Blue Hose|under": {
     "captured_at": "2026-11-21T02:12:20.966471+00:00",
     "edge_type": "under"
+  },
+  "LSU Tigers vs. Queens University Royals|Queens University Royals|spread": {
+    "captured_at": "2026-11-21T03:10:48.320710+00:00",
+    "edge_type": "spread"
+  },
+  "Indiana St Sycamores vs. Middle Tennessee Blue Raiders|under": {
+    "captured_at": "2026-11-21T03:10:48.321658+00:00",
+    "edge_type": "under"
+  },
+  "Vermont Catamounts vs. Brown Bears|Vermont Catamounts|moneyline": {
+    "captured_at": "2026-11-21T03:10:48.323568+00:00",
+    "edge_type": "moneyline"
   }
 }
