@@ -6966,5 +6966,21 @@
   "BYU Cougars vs. Washington Huskies|under": {
     "captured_at": "2026-11-22T22:07:57.407457+00:00",
     "edge_type": "under"
+  },
+  "Florida Int'l Golden Panthers vs. Long Beach St 49ers|under": {
+    "captured_at": "2026-11-22T23:08:02.551808+00:00",
+    "edge_type": "under"
+  },
+  "Oregon St Beavers vs. Tulsa Golden Hurricane|Tulsa Golden Hurricane|spread": {
+    "captured_at": "2026-11-22T23:08:02.551957+00:00",
+    "edge_type": "spread"
+  },
+  "Kansas Jayhawks vs. Denver Pioneers|Denver Pioneers|spread": {
+    "captured_at": "2026-11-22T23:08:02.552388+00:00",
+    "edge_type": "spread"
+  },
+  "Pepperdine Waves vs. UNC Greensboro Spartans|UNC Greensboro Spartans|spread": {
+    "captured_at": "2026-11-22T23:08:02.552541+00:00",
+    "edge_type": "spread"
   }
 }
