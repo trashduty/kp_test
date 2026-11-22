@@ -6962,5 +6962,9 @@
   "Arizona Wildcats vs. Colorado St Rams|Colorado St Rams|spread": {
     "captured_at": "2026-11-22T21:07:37.764245+00:00",
     "edge_type": "spread"
+  },
+  "BYU Cougars vs. Washington Huskies|under": {
+    "captured_at": "2026-11-22T22:07:57.407457+00:00",
+    "edge_type": "under"
   }
 }
