@@ -6946,5 +6946,13 @@
   "Boston College Eagles vs. NJIT Highlanders|NJIT Highlanders|spread": {
     "captured_at": "2026-11-22T00:26:26.870535+00:00",
     "edge_type": "spread"
+  },
+  "South Alabama Jaguars vs. West Florida Argonauts|West Florida Argonauts|spread": {
+    "captured_at": "2026-11-22T01:09:15.948810+00:00",
+    "edge_type": "spread"
+  },
+  "Portland St Vikings vs. CSU Fullerton Titans|under": {
+    "captured_at": "2026-11-22T01:09:15.949309+00:00",
+    "edge_type": "under"
   }
 }
