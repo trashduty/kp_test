@@ -6914,5 +6914,37 @@
   "Texas State Bobcats vs. McNeese Cowboys|McNeese Cowboys|spread": {
     "captured_at": "2026-11-21T23:07:33.789639+00:00",
     "edge_type": "spread"
+  },
+  "American Eagles vs. Towson Tigers|American Eagles|moneyline": {
+    "captured_at": "2026-11-22T00:26:26.868772+00:00",
+    "edge_type": "moneyline"
+  },
+  "Cincinnati Bearcats vs. UMass Lowell River Hawks|UMass Lowell River Hawks|spread": {
+    "captured_at": "2026-11-22T00:26:26.869427+00:00",
+    "edge_type": "spread"
+  },
+  "Richmond Spiders vs. Liberty Flames|Richmond Spiders|spread": {
+    "captured_at": "2026-11-22T00:26:26.870024+00:00",
+    "edge_type": "spread"
+  },
+  "Richmond Spiders vs. Liberty Flames|Richmond Spiders|moneyline": {
+    "captured_at": "2026-11-22T00:26:26.870047+00:00",
+    "edge_type": "moneyline"
+  },
+  "Loyola Marymount Lions vs. UC Irvine Anteaters|over": {
+    "captured_at": "2026-11-22T00:26:26.870106+00:00",
+    "edge_type": "over"
+  },
+  "Samford Bulldogs vs. UNC Asheville Bulldogs|under": {
+    "captured_at": "2026-11-22T00:26:26.870296+00:00",
+    "edge_type": "under"
+  },
+  "Rice Owls vs. Lamar Cardinals|under": {
+    "captured_at": "2026-11-22T00:26:26.870391+00:00",
+    "edge_type": "under"
+  },
+  "Boston College Eagles vs. NJIT Highlanders|NJIT Highlanders|spread": {
+    "captured_at": "2026-11-22T00:26:26.870535+00:00",
+    "edge_type": "spread"
   }
 }
