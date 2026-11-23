@@ -7030,5 +7030,17 @@
   "Tenn-Martin Skyhawks vs. Temple Owls|under": {
     "captured_at": "2026-11-23T10:09:42.971095+00:00",
     "edge_type": "under"
+  },
+  "Purdue Boilermakers vs. DePaul Blue Demons|DePaul Blue Demons|spread": {
+    "captured_at": "2026-11-23T22:07:50.183903+00:00",
+    "edge_type": "spread"
+  },
+  "Rutgers Scarlet Knights vs. Sacred Heart Pioneers|over": {
+    "captured_at": "2026-11-23T22:07:50.184015+00:00",
+    "edge_type": "over"
+  },
+  "Ohio State Buckeyes vs. Vanderbilt Commodores|under": {
+    "captured_at": "2026-11-23T22:07:50.184123+00:00",
+    "edge_type": "under"
   }
 }
