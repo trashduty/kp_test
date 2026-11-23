@@ -7014,5 +7014,13 @@
   "California Golden Bears vs. Alabama St Hornets|Alabama St Hornets|spread": {
     "captured_at": "2026-11-23T02:14:16.823435+00:00",
     "edge_type": "spread"
+  },
+  "IUPUI Jaguars vs. William & Mary Tribe|William & Mary Tribe|moneyline": {
+    "captured_at": "2026-11-23T03:12:46.696336+00:00",
+    "edge_type": "moneyline"
+  },
+  "North Florida Ospreys vs. Central Arkansas Bears|North Florida Ospreys|spread": {
+    "captured_at": "2026-11-23T03:12:46.697976+00:00",
+    "edge_type": "spread"
   }
 }
