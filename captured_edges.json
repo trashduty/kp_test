@@ -7006,5 +7006,13 @@
   "Alabama Crimson Tide vs. Baylor Bears|under": {
     "captured_at": "2026-11-23T00:27:03.479491+00:00",
     "edge_type": "under"
+  },
+  "Illinois Fighting Illini vs. Winthrop Eagles|Winthrop Eagles|spread": {
+    "captured_at": "2026-11-23T02:14:16.823072+00:00",
+    "edge_type": "spread"
+  },
+  "California Golden Bears vs. Alabama St Hornets|Alabama St Hornets|spread": {
+    "captured_at": "2026-11-23T02:14:16.823435+00:00",
+    "edge_type": "spread"
   }
 }
