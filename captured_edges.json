@@ -6982,5 +6982,29 @@
   "Pepperdine Waves vs. UNC Greensboro Spartans|UNC Greensboro Spartans|spread": {
     "captured_at": "2026-11-22T23:08:02.552541+00:00",
     "edge_type": "spread"
+  },
+  "Southern Utah Thunderbirds vs. Arkansas St Red Wolves|Southern Utah Thunderbirds|spread": {
+    "captured_at": "2026-11-23T00:27:03.476061+00:00",
+    "edge_type": "spread"
+  },
+  "Georgia St Panthers vs. Tulane Green Wave|Tulane Green Wave|spread": {
+    "captured_at": "2026-11-23T00:27:03.476265+00:00",
+    "edge_type": "spread"
+  },
+  "Georgia St Panthers vs. Tulane Green Wave|Tulane Green Wave|moneyline": {
+    "captured_at": "2026-11-23T00:27:03.476308+00:00",
+    "edge_type": "moneyline"
+  },
+  "Belmont Bruins vs. Yale Bulldogs|over": {
+    "captured_at": "2026-11-23T00:27:03.476436+00:00",
+    "edge_type": "over"
+  },
+  "Northern Kentucky Norse vs. Georgia Southern Eagles|under": {
+    "captured_at": "2026-11-23T00:27:03.477106+00:00",
+    "edge_type": "under"
+  },
+  "Alabama Crimson Tide vs. Baylor Bears|under": {
+    "captured_at": "2026-11-23T00:27:03.479491+00:00",
+    "edge_type": "under"
   }
 }
