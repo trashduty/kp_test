@@ -7022,5 +7022,13 @@
   "North Florida Ospreys vs. Central Arkansas Bears|North Florida Ospreys|spread": {
     "captured_at": "2026-11-23T03:12:46.697976+00:00",
     "edge_type": "spread"
+  },
+  "Tenn-Martin Skyhawks vs. Temple Owls|Tenn-Martin Skyhawks|spread": {
+    "captured_at": "2026-11-23T10:09:42.971037+00:00",
+    "edge_type": "spread"
+  },
+  "Tenn-Martin Skyhawks vs. Temple Owls|under": {
+    "captured_at": "2026-11-23T10:09:42.971095+00:00",
+    "edge_type": "under"
   }
 }
