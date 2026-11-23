@@ -7042,5 +7042,29 @@
   "Ohio State Buckeyes vs. Vanderbilt Commodores|under": {
     "captured_at": "2026-11-23T22:07:50.184123+00:00",
     "edge_type": "under"
+  },
+  "Santa Clara Broncos vs. Nevada Wolf Pack|Santa Clara Broncos|moneyline": {
+    "captured_at": "2026-11-23T23:08:50.275213+00:00",
+    "edge_type": "moneyline"
+  },
+  "Florida Gators vs. Milwaukee Panthers|Milwaukee Panthers|spread": {
+    "captured_at": "2026-11-23T23:08:50.275390+00:00",
+    "edge_type": "spread"
+  },
+  "UMKC Kangaroos vs. Green Bay Phoenix|over": {
+    "captured_at": "2026-11-23T23:08:50.275638+00:00",
+    "edge_type": "over"
+  },
+  "Notre Dame Fighting Irish vs. Central Michigan Chippewas|Central Michigan Chippewas|spread": {
+    "captured_at": "2026-11-23T23:08:50.276023+00:00",
+    "edge_type": "spread"
+  },
+  "Missouri Tigers vs. Evansville Purple Aces|Evansville Purple Aces|spread": {
+    "captured_at": "2026-11-23T23:08:50.276368+00:00",
+    "edge_type": "spread"
+  },
+  "UC Santa Barbara Gauchos vs. UNC Greensboro Spartans|UNC Greensboro Spartans|spread": {
+    "captured_at": "2026-11-23T23:08:50.276446+00:00",
+    "edge_type": "spread"
   }
 }
