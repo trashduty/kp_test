@@ -7162,5 +7162,13 @@
   "Wofford Terriers vs. Queens University Royals|Queens University Royals|moneyline": {
     "captured_at": "2026-11-24T04:11:29.373416+00:00",
     "edge_type": "moneyline"
+  },
+  "Chattanooga Mocs vs. Delaware St Hornets|Delaware St Hornets|spread": {
+    "captured_at": "2026-11-24T05:10:03.335353+00:00",
+    "edge_type": "spread"
+  },
+  "Air Force Falcons vs. Army Knights|under": {
+    "captured_at": "2026-11-24T05:10:03.336520+00:00",
+    "edge_type": "under"
   }
 }
