@@ -7106,5 +7106,37 @@
   "South Alabama Jaguars vs. Florida A&M Rattlers|Florida A&M Rattlers|spread": {
     "captured_at": "2026-11-24T01:10:02.930676+00:00",
     "edge_type": "spread"
+  },
+  "Florida Int'l Golden Panthers vs. Southern Utah Thunderbirds|Florida Int'l Golden Panthers|spread": {
+    "captured_at": "2026-11-24T02:13:47.719235+00:00",
+    "edge_type": "spread"
+  },
+  "BYU Cougars vs. Ole Miss Rebels|Ole Miss Rebels|spread": {
+    "captured_at": "2026-11-24T02:13:47.719441+00:00",
+    "edge_type": "spread"
+  },
+  "BYU Cougars vs. Ole Miss Rebels|Ole Miss Rebels|moneyline": {
+    "captured_at": "2026-11-24T02:13:47.719465+00:00",
+    "edge_type": "moneyline"
+  },
+  "BYU Cougars vs. Ole Miss Rebels|under": {
+    "captured_at": "2026-11-24T02:13:47.719491+00:00",
+    "edge_type": "under"
+  },
+  "Harvard Crimson vs. Boston Univ. Terriers|Harvard Crimson|moneyline": {
+    "captured_at": "2026-11-24T02:13:47.720352+00:00",
+    "edge_type": "moneyline"
+  },
+  "Indiana Hoosiers vs. Jacksonville Dolphins|Jacksonville Dolphins|spread": {
+    "captured_at": "2026-11-24T02:13:47.720871+00:00",
+    "edge_type": "spread"
+  },
+  "Louisiana Tech Bulldogs vs. Alcorn St Braves|Alcorn St Braves|spread": {
+    "captured_at": "2026-11-24T02:13:47.721196+00:00",
+    "edge_type": "spread"
+  },
+  "Washington Huskies vs. Clemson Tigers|under": {
+    "captured_at": "2026-11-24T02:13:47.721757+00:00",
+    "edge_type": "under"
   }
 }
