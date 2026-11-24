@@ -7098,5 +7098,13 @@
   "Florida St Seminoles vs. UNC Asheville Bulldogs|under": {
     "captured_at": "2026-11-24T00:23:04.641205+00:00",
     "edge_type": "under"
+  },
+  "Furman Paladins vs. Elon Phoenix|under": {
+    "captured_at": "2026-11-24T01:10:02.927145+00:00",
+    "edge_type": "under"
+  },
+  "South Alabama Jaguars vs. Florida A&M Rattlers|Florida A&M Rattlers|spread": {
+    "captured_at": "2026-11-24T01:10:02.930676+00:00",
+    "edge_type": "spread"
   }
 }
