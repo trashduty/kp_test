@@ -7066,5 +7066,37 @@
   "UC Santa Barbara Gauchos vs. UNC Greensboro Spartans|UNC Greensboro Spartans|spread": {
     "captured_at": "2026-11-23T23:08:50.276446+00:00",
     "edge_type": "spread"
+  },
+  "Detroit Mercy Titans vs. North Dakota Fighting Hawks|over": {
+    "captured_at": "2026-11-24T00:23:04.636483+00:00",
+    "edge_type": "over"
+  },
+  "Old Dominion Monarchs vs. Hampton Pirates|over": {
+    "captured_at": "2026-11-24T00:23:04.638227+00:00",
+    "edge_type": "over"
+  },
+  "Weber State Wildcats vs. Tarleton State Texans|Tarleton State Texans|spread": {
+    "captured_at": "2026-11-24T00:23:04.638569+00:00",
+    "edge_type": "spread"
+  },
+  "Weber State Wildcats vs. Tarleton State Texans|Tarleton State Texans|moneyline": {
+    "captured_at": "2026-11-24T00:23:04.638612+00:00",
+    "edge_type": "moneyline"
+  },
+  "Santa Clara Broncos vs. Nevada Wolf Pack|Santa Clara Broncos|spread": {
+    "captured_at": "2026-11-24T00:23:04.639392+00:00",
+    "edge_type": "spread"
+  },
+  "UMKC Kangaroos vs. Green Bay Phoenix|UMKC Kangaroos|moneyline": {
+    "captured_at": "2026-11-24T00:23:04.640305+00:00",
+    "edge_type": "moneyline"
+  },
+  "Boise State Broncos vs. Idaho State Bengals|under": {
+    "captured_at": "2026-11-24T00:23:04.640769+00:00",
+    "edge_type": "under"
+  },
+  "Florida St Seminoles vs. UNC Asheville Bulldogs|under": {
+    "captured_at": "2026-11-24T00:23:04.641205+00:00",
+    "edge_type": "under"
   }
 }
