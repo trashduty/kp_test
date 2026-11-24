@@ -7138,5 +7138,25 @@
   "Washington Huskies vs. Clemson Tigers|under": {
     "captured_at": "2026-11-24T02:13:47.721757+00:00",
     "edge_type": "under"
+  },
+  "Wofford Terriers vs. Queens University Royals|Queens University Royals|spread": {
+    "captured_at": "2026-11-24T03:11:34.698026+00:00",
+    "edge_type": "spread"
+  },
+  "Robert Morris Colonials vs. Lamar Cardinals|under": {
+    "captured_at": "2026-11-24T03:11:34.698376+00:00",
+    "edge_type": "under"
+  },
+  "Robert Morris Colonials vs. Lamar Cardinals|Robert Morris Colonials|spread": {
+    "captured_at": "2026-11-24T03:11:34.698435+00:00",
+    "edge_type": "spread"
+  },
+  "South Florida Bulls vs. Stetson Hatters|Stetson Hatters|spread": {
+    "captured_at": "2026-11-24T03:11:34.699379+00:00",
+    "edge_type": "spread"
+  },
+  "Loyola (MD) Greyhounds vs. Rider Broncs|Loyola (MD) Greyhounds|moneyline": {
+    "captured_at": "2026-11-24T03:11:34.699944+00:00",
+    "edge_type": "moneyline"
   }
 }
