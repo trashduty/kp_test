@@ -7170,5 +7170,13 @@
   "Air Force Falcons vs. Army Knights|under": {
     "captured_at": "2026-11-24T05:10:03.336520+00:00",
     "edge_type": "under"
+  },
+  "Wisconsin Badgers vs. Northeastern Huskies|Northeastern Huskies|spread": {
+    "captured_at": "2026-11-24T22:08:23.252933+00:00",
+    "edge_type": "spread"
+  },
+  "Charlotte 49ers vs. Northern Iowa Panthers|over": {
+    "captured_at": "2026-11-24T22:08:23.253189+00:00",
+    "edge_type": "over"
   }
 }
