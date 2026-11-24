@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Miami Hurricanes -7.5</p>
-  <p><strong>Moneyline:</strong> TCU Horned Frogs (+250) | Miami Hurricanes (-328)</p>
+  <p><strong>Spread:</strong> Miami Hurricanes -6.5</p>
+  <p><strong>Moneyline:</strong> TCU Horned Frogs (+220) | Miami Hurricanes (-275)</p>
   <p><strong>Total:</strong> 155.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **TCU Horned Frogs**: 7.5, Edge For Covering Spread: -1.2%
-- **Miami Hurricanes**: -7.5, Edge For Covering Spread: -3.9%
+- **TCU Horned Frogs**: 6.5, Edge For Covering Spread: -2.6%
+- **Miami Hurricanes**: -6.5, Edge For Covering Spread: -2.2%
 
 ### Moneyline
-- **TCU Horned Frogs Win Probability**: 27.6%, Moneyline Edge: -1.0%
-- **Miami Hurricanes Win Probability**: 72.4%, Moneyline Edge: -4.2%
+- **TCU Horned Frogs Win Probability**: 28.5%, Moneyline Edge: -2.7%
+- **Miami Hurricanes Win Probability**: 71.5%, Moneyline Edge: -1.8%
 
 ### Total
-- **Predicted Total**: 154.5
-- Edge For Covering The Over: -5.5%
-- Edge For Covering The Under: **0.7%**
+- **Predicted Total**: 153.5
+- Edge For Covering The Over: -3.9%
+- Edge For Covering The Under: -0.8%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When TCU Horned Frogs (23-12) travels to face Miami Hurricanes (26-9) at Watsco Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Miami Hurricanes favored by 7.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When TCU Horned Frogs (23-12) travels to face Miami Hurricanes (26-9) at Watsco Center, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Miami Hurricanes favored by 6.5 points, with the total sitting at 155.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread around 7.5 points tells us Miami Hurricanes has clear advantages, but games aren't played on paper. TCU Horned Frogs needs to punch above their weight class to keep this close. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 6.5-point spread indicates Miami Hurricanes is viewed as the better team, but this isn't an overwhelming edge. TCU Horned Frogs has a legitimate path to covering or winning outright. The total of 155.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **TCU Horned Frogs** bring an offensive efficiency of 109.99 (ranked #135 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.2% three-point shooting is serviceable but won't scare anyone. 

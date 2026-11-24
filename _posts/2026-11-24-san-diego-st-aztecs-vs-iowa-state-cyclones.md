@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Iowa State Cyclones -7.5</p>
-  <p><strong>Moneyline:</strong> San Diego St Aztecs (+267) | Iowa State Cyclones (-356)</p>
+  <p><strong>Moneyline:</strong> San Diego St Aztecs (+270) | Iowa State Cyclones (-342)</p>
   <p><strong>Total:</strong> 144.5</p>
 </div>
 
@@ -28,13 +28,13 @@ All that being said, here's how our model prices this game.
 - **Iowa State Cyclones**: -7.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **San Diego St Aztecs Win Probability**: 25.9%, Moneyline Edge: -1.3%
-- **Iowa State Cyclones Win Probability**: 74.1%, Moneyline Edge: -4.0%
+- **San Diego St Aztecs Win Probability**: 25.9%, Moneyline Edge: -1.1%
+- **Iowa State Cyclones Win Probability**: 74.1%, Moneyline Edge: -3.3%
 
 ### Total
-- **Predicted Total**: 144.0
-- Edge For Covering The Over: -3.6%
-- Edge For Covering The Under: -1.5%
+- **Predicted Total**: 142.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 

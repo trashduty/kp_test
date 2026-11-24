@@ -12,7 +12,7 @@ categories: [basketball, preview]
 <div class="betting-lines">
   <h3>Betting Lines</h3>
   <p><strong>Spread:</strong> Alabama Crimson Tide -1.5</p>
-  <p><strong>Moneyline:</strong> Baylor Bears (+102) | Alabama Crimson Tide (-126)</p>
+  <p><strong>Moneyline:</strong> Baylor Bears (+104) | Alabama Crimson Tide (-125)</p>
   <p><strong>Total:</strong> 178.5</p>
 </div>
 
@@ -25,16 +25,16 @@ All that being said, here's how our model prices this game.
 
 ### Spread
 - **Baylor Bears**: 1.5, Edge For Covering Spread: -2.4%
-- **Alabama Crimson Tide**: -1.5, Edge For Covering Spread: -2.6%
+- **Alabama Crimson Tide**: -1.5, Edge For Covering Spread: -2.4%
 
 ### Moneyline
-- **Baylor Bears Win Probability**: 45.0%, Moneyline Edge: -4.5%
-- **Alabama Crimson Tide Win Probability**: 55.0%, Moneyline Edge: -0.7%
+- **Baylor Bears Win Probability**: 44.9%, Moneyline Edge: -4.0%
+- **Alabama Crimson Tide Win Probability**: 55.1%, Moneyline Edge: -0.5%
 
 ### Total
-- **Predicted Total**: 175.5
+- **Predicted Total**: 173.5
 - Edge For Covering The Over: -5.8%
-- Edge For Covering The Under: **1.0%**
+- Edge For Covering The Under: -0.7%
 
 ---
 

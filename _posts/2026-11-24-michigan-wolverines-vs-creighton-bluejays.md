@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Michigan Wolverines -4.5</p>
-  <p><strong>Moneyline:</strong> Michigan Wolverines (-225) | Creighton Bluejays (+177)</p>
+  <p><strong>Spread:</strong> Michigan Wolverines -6.5</p>
+  <p><strong>Moneyline:</strong> Michigan Wolverines (-250) | Creighton Bluejays (+205)</p>
   <p><strong>Total:</strong> 163.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Michigan Wolverines**: -4.5, Edge For Covering Spread: -3.8%
-- **Creighton Bluejays**: 4.5, Edge For Covering Spread: -1.2%
+- **Michigan Wolverines**: -6.5, Edge For Covering Spread: -4.0%
+- **Creighton Bluejays**: 6.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **Michigan Wolverines Win Probability**: 65.9%, Moneyline Edge: -3.3%
-- **Creighton Bluejays Win Probability**: 34.1%, Moneyline Edge: -1.9%
+- **Michigan Wolverines Win Probability**: 67.3%, Moneyline Edge: -4.2%
+- **Creighton Bluejays Win Probability**: 32.7%, Moneyline Edge: -0.1%
 
 ### Total
-- **Predicted Total**: 162.0
+- **Predicted Total**: 161.0
 - Edge For Covering The Over: -4.7%
-- Edge For Covering The Under: -0.0%
+- Edge For Covering The Under: -1.6%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Michigan Wolverines (37-3) travels to face Creighton Bluejays (16-18) at CHI Health Center Omaha in what shapes up to be a competitive matchup. The early betting action has shaped into Michigan Wolverines favored by 4.5 points, with the total sitting at 163.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Michigan Wolverines (37-3) enters hostile territory as they take on Creighton Bluejays (16-18) at CHI Health Center Omaha in what the oddsmakers see as a significant talent gap. The early betting action has shaped into Michigan Wolverines favored by 6.5 points, with the total sitting at 163.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 4.5-point spread indicates Michigan Wolverines is viewed as the better team, but this isn't an overwhelming edge. Creighton Bluejays has a legitimate path to covering or winning outright. The total of 163.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 6.5-point spread indicates Michigan Wolverines is viewed as the better team, but this isn't an overwhelming edge. Creighton Bluejays has a legitimate path to covering or winning outright. The total of 163.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Michigan Wolverines** bring an offensive efficiency of 121.74 (ranked #6 nationally). This is an elite offense that can score in multiple ways. The three-ball has been a weapon, connecting at 36.8% from deep. They'll look to stretch the floor and create driving lanes through that perimeter threat. 

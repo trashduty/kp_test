@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Tennessee Volunteers -5.5</p>
-  <p><strong>Moneyline:</strong> Tennessee Volunteers (-225) | Maryland Terrapins (+185)</p>
+  <p><strong>Spread:</strong> Tennessee Volunteers -4.5</p>
+  <p><strong>Moneyline:</strong> Tennessee Volunteers (-218) | Maryland Terrapins (+180)</p>
   <p><strong>Total:</strong> 148.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tennessee Volunteers**: -5.5, Edge For Covering Spread: -2.4%
-- **Maryland Terrapins**: 5.5, Edge For Covering Spread: -2.4%
+- **Tennessee Volunteers**: -4.5, Edge For Covering Spread: -0.7%
+- **Maryland Terrapins**: 4.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Tennessee Volunteers Win Probability**: 67.2%, Moneyline Edge: -2.0%
-- **Maryland Terrapins Win Probability**: 32.8%, Moneyline Edge: -2.3%
+- **Tennessee Volunteers Win Probability**: 66.9%, Moneyline Edge: -1.7%
+- **Maryland Terrapins Win Probability**: 33.1%, Moneyline Edge: -2.6%
 
 ### Total
-- **Predicted Total**: 146.0
-- Edge For Covering The Over: -4.1%
-- Edge For Covering The Under: -2.2%
+- **Predicted Total**: 145.0
+- Edge For Covering The Over: -3.6%
+- Edge For Covering The Under: -1.1%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-Tennessee Volunteers (25-12) travels to face Maryland Terrapins (12-21) at Xfinity Center in what shapes up to be a competitive matchup. The early betting action has shaped into Tennessee Volunteers favored by 5.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+Tennessee Volunteers (25-12) travels to face Maryland Terrapins (12-21) at Xfinity Center in what shapes up to be a competitive matchup. The early betting action has shaped into Tennessee Volunteers favored by 4.5 points, with the total sitting at 148.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-The 5.5-point spread indicates Tennessee Volunteers is viewed as the better team, but this isn't an overwhelming edge. Maryland Terrapins has a legitimate path to covering or winning outright. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+The 4.5-point spread indicates Tennessee Volunteers is viewed as the better team, but this isn't an overwhelming edge. Maryland Terrapins has a legitimate path to covering or winning outright. The total of 148.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Tennessee Volunteers** bring an offensive efficiency of 116.04 (ranked #48 nationally). This is an elite offense that can score in multiple ways. Their 33.4% three-point shooting is serviceable but won't scare anyone. 
