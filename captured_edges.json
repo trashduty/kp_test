@@ -7290,5 +7290,25 @@
   "Creighton Bluejays vs. TCU Horned Frogs|Creighton Bluejays|moneyline": {
     "captured_at": "2026-11-25T04:11:58.720157+00:00",
     "edge_type": "moneyline"
+  },
+  "Alabama Crimson Tide vs. Kansas St Wildcats|under": {
+    "captured_at": "2026-11-25T10:09:47.378345+00:00",
+    "edge_type": "under"
+  },
+  "Alabama Crimson Tide vs. Kansas St Wildcats|Alabama Crimson Tide|spread": {
+    "captured_at": "2026-11-25T10:09:47.378418+00:00",
+    "edge_type": "spread"
+  },
+  "Oregon Ducks vs. Texas Tech Red Raiders|under": {
+    "captured_at": "2026-11-25T10:09:47.378601+00:00",
+    "edge_type": "under"
+  },
+  "Colorado St Rams vs. Clemson Tigers|under": {
+    "captured_at": "2026-11-25T10:09:47.378794+00:00",
+    "edge_type": "under"
+  },
+  "Colorado St Rams vs. Clemson Tigers|Colorado St Rams|spread": {
+    "captured_at": "2026-11-25T10:09:47.378856+00:00",
+    "edge_type": "spread"
   }
 }
