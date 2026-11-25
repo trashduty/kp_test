@@ -7178,5 +7178,13 @@
   "Charlotte 49ers vs. Northern Iowa Panthers|over": {
     "captured_at": "2026-11-24T22:08:23.253189+00:00",
     "edge_type": "over"
+  },
+  "Miami (OH) RedHawks vs. Eastern Kentucky Colonels|under": {
+    "captured_at": "2026-11-25T00:24:59.053452+00:00",
+    "edge_type": "under"
+  },
+  "UConn Huskies vs. Duke Blue Devils|under": {
+    "captured_at": "2026-11-25T00:24:59.054416+00:00",
+    "edge_type": "under"
   }
 }
