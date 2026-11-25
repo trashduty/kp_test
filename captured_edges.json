@@ -7310,5 +7310,17 @@
   "Colorado St Rams vs. Clemson Tigers|Colorado St Rams|spread": {
     "captured_at": "2026-11-25T10:09:47.378856+00:00",
     "edge_type": "spread"
+  },
+  "Charleston Cougars vs. Kennesaw St Owls|Kennesaw St Owls|spread": {
+    "captured_at": "2026-11-25T15:10:07.038756+00:00",
+    "edge_type": "spread"
+  },
+  "Charleston Cougars vs. Kennesaw St Owls|Kennesaw St Owls|moneyline": {
+    "captured_at": "2026-11-25T15:10:07.038801+00:00",
+    "edge_type": "moneyline"
+  },
+  "UTEP Miners vs. Eastern Michigan Eagles|UTEP Miners|moneyline": {
+    "captured_at": "2026-11-25T15:10:07.039732+00:00",
+    "edge_type": "moneyline"
   }
 }
