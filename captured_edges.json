@@ -7198,5 +7198,61 @@
   "Loyola Marymount Lions vs. Eastern Washington Eagles|Eastern Washington Eagles|spread": {
     "captured_at": "2026-11-25T01:09:38.688903+00:00",
     "edge_type": "spread"
+  },
+  "South Dakota Coyotes vs. Arkansas-Pine Bluff Golden Lions|Arkansas-Pine Bluff Golden Lions|spread": {
+    "captured_at": "2026-11-25T02:13:56.095533+00:00",
+    "edge_type": "spread"
+  },
+  "Oklahoma St Cowboys vs. Jackson St Tigers|Jackson St Tigers|spread": {
+    "captured_at": "2026-11-25T02:13:56.095901+00:00",
+    "edge_type": "spread"
+  },
+  "New Orleans Privateers vs. Grambling St Tigers|New Orleans Privateers|moneyline": {
+    "captured_at": "2026-11-25T02:13:56.096042+00:00",
+    "edge_type": "moneyline"
+  },
+  "New Orleans Privateers vs. Grambling St Tigers|under": {
+    "captured_at": "2026-11-25T02:13:56.096075+00:00",
+    "edge_type": "under"
+  },
+  "Marshall Thundering Herd vs. Prairie View Panthers|Prairie View Panthers|spread": {
+    "captured_at": "2026-11-25T02:13:56.096207+00:00",
+    "edge_type": "spread"
+  },
+  "Northwestern St Demons vs. West Florida Argonauts|Northwestern St Demons|moneyline": {
+    "captured_at": "2026-11-25T02:13:56.096992+00:00",
+    "edge_type": "moneyline"
+  },
+  "Syracuse Orange vs. Albany Great Danes|Albany Great Danes|spread": {
+    "captured_at": "2026-11-25T02:13:56.097131+00:00",
+    "edge_type": "spread"
+  },
+  "The Citadel Bulldogs vs. South Carolina Upstate Spartans|The Citadel Bulldogs|moneyline": {
+    "captured_at": "2026-11-25T02:13:56.097241+00:00",
+    "edge_type": "moneyline"
+  },
+  "Northern Kentucky Norse vs. Bellarmine Knights|Bellarmine Knights|spread": {
+    "captured_at": "2026-11-25T02:13:56.097685+00:00",
+    "edge_type": "spread"
+  },
+  "New Mexico Lobos vs. Miss Valley St Delta Devils|Miss Valley St Delta Devils|spread": {
+    "captured_at": "2026-11-25T02:13:56.098189+00:00",
+    "edge_type": "spread"
+  },
+  "Hawai'i Rainbow Warriors vs. Incarnate Word Cardinals|Incarnate Word Cardinals|spread": {
+    "captured_at": "2026-11-25T02:13:56.098510+00:00",
+    "edge_type": "spread"
+  },
+  "San Diego St Aztecs vs. Maryland Terrapins|under": {
+    "captured_at": "2026-11-25T02:13:56.098799+00:00",
+    "edge_type": "under"
+  },
+  "Iowa State Cyclones vs. Tennessee Volunteers|Iowa State Cyclones|spread": {
+    "captured_at": "2026-11-25T02:13:56.098984+00:00",
+    "edge_type": "spread"
+  },
+  "Creighton Bluejays vs. TCU Horned Frogs|under": {
+    "captured_at": "2026-11-25T02:13:56.099099+00:00",
+    "edge_type": "under"
   }
 }
