@@ -7186,5 +7186,17 @@
   "UConn Huskies vs. Duke Blue Devils|under": {
     "captured_at": "2026-11-25T00:24:59.054416+00:00",
     "edge_type": "under"
+  },
+  "Florida Int'l Golden Panthers vs. Arkansas St Red Wolves|Florida Int'l Golden Panthers|moneyline": {
+    "captured_at": "2026-11-25T01:09:38.687765+00:00",
+    "edge_type": "moneyline"
+  },
+  "Nebraska Cornhuskers vs. Southern Jaguars|Southern Jaguars|spread": {
+    "captured_at": "2026-11-25T01:09:38.688321+00:00",
+    "edge_type": "spread"
+  },
+  "Loyola Marymount Lions vs. Eastern Washington Eagles|Eastern Washington Eagles|spread": {
+    "captured_at": "2026-11-25T01:09:38.688903+00:00",
+    "edge_type": "spread"
   }
 }
