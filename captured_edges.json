@@ -7254,5 +7254,21 @@
   "Creighton Bluejays vs. TCU Horned Frogs|under": {
     "captured_at": "2026-11-25T02:13:56.099099+00:00",
     "edge_type": "under"
+  },
+  "Long Beach St 49ers vs. Southern Utah Thunderbirds|over": {
+    "captured_at": "2026-11-25T03:11:37.385415+00:00",
+    "edge_type": "over"
+  },
+  "New Orleans Privateers vs. Grambling St Tigers|New Orleans Privateers|spread": {
+    "captured_at": "2026-11-25T03:11:37.387355+00:00",
+    "edge_type": "spread"
+  },
+  "Richmond Spiders vs. Bethune-Cookman Wildcats|Bethune-Cookman Wildcats|spread": {
+    "captured_at": "2026-11-25T03:11:37.389161+00:00",
+    "edge_type": "spread"
+  },
+  "UNC Wilmington Seahawks vs. St. Thomas (MN) Tommies|St. Thomas (MN) Tommies|spread": {
+    "captured_at": "2026-11-25T03:11:37.390383+00:00",
+    "edge_type": "spread"
   }
 }
