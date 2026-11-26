@@ -7358,5 +7358,13 @@
   "Jacksonville St Gamecocks vs. Pacific Tigers|Pacific Tigers|spread": {
     "captured_at": "2026-11-26T02:13:25.297965+00:00",
     "edge_type": "spread"
+  },
+  "Indiana Hoosiers vs. Bowling Green Falcons|Bowling Green Falcons|spread": {
+    "captured_at": "2026-11-26T21:08:31.503818+00:00",
+    "edge_type": "spread"
+  },
+  "Illinois Fighting Illini vs. Western Kentucky Hilltoppers|Western Kentucky Hilltoppers|spread": {
+    "captured_at": "2026-11-26T21:08:31.503871+00:00",
+    "edge_type": "spread"
   }
 }
