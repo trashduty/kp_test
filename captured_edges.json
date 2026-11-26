@@ -7378,5 +7378,9 @@
   "Washington St Cougars vs. Idaho Vandals|Idaho Vandals|spread": {
     "captured_at": "2026-11-26T22:08:51.425981+00:00",
     "edge_type": "spread"
+  },
+  "Wake Forest Demon Deacons vs. Memphis Tigers|over": {
+    "captured_at": "2026-11-26T23:08:23.558672+00:00",
+    "edge_type": "over"
   }
 }
