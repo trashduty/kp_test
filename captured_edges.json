@@ -7342,5 +7342,17 @@
   "Pacific Tigers vs. Omaha Mavericks|Pacific Tigers|moneyline": {
     "captured_at": "2026-11-26T00:24:22.008476+00:00",
     "edge_type": "moneyline"
+  },
+  "Omaha Mavericks vs. UC Davis Aggies|UC Davis Aggies|spread": {
+    "captured_at": "2026-11-26T01:09:36.973025+00:00",
+    "edge_type": "spread"
+  },
+  "Omaha Mavericks vs. UC Davis Aggies|UC Davis Aggies|moneyline": {
+    "captured_at": "2026-11-26T01:09:36.973053+00:00",
+    "edge_type": "moneyline"
+  },
+  "Jacksonville St Gamecocks vs. Pacific Tigers|Pacific Tigers|moneyline": {
+    "captured_at": "2026-11-26T01:09:36.973404+00:00",
+    "edge_type": "moneyline"
   }
 }
