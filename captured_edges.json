@@ -7330,5 +7330,17 @@
   "UC Davis Aggies vs. Jacksonville St Gamecocks|over": {
     "captured_at": "2026-11-25T23:08:18.361932+00:00",
     "edge_type": "over"
+  },
+  "Pittsburgh Panthers vs. DePaul Blue Demons|DePaul Blue Demons|spread": {
+    "captured_at": "2026-11-26T00:24:22.008003+00:00",
+    "edge_type": "spread"
+  },
+  "Pacific Tigers vs. Omaha Mavericks|under": {
+    "captured_at": "2026-11-26T00:24:22.008379+00:00",
+    "edge_type": "under"
+  },
+  "Pacific Tigers vs. Omaha Mavericks|Pacific Tigers|moneyline": {
+    "captured_at": "2026-11-26T00:24:22.008476+00:00",
+    "edge_type": "moneyline"
   }
 }
