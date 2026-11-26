@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> TCU Horned Frogs -1.5</p>
-  <p><strong>Moneyline:</strong> TCU Horned Frogs (-120) | Creighton Bluejays (-100)</p>
+  <p><strong>Spread:</strong> Creighton Bluejays -1.5</p>
+  <p><strong>Moneyline:</strong> TCU Horned Frogs (-108) | Creighton Bluejays (-111)</p>
   <p><strong>Total:</strong> 156.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **TCU Horned Frogs**: -1.5, Edge For Covering Spread: -4.8%
-- **Creighton Bluejays**: 1.5, Edge For Covering Spread: **0.3%**
+- **TCU Horned Frogs**: 1.5, Edge For Covering Spread: -4.7%
+- **Creighton Bluejays**: -1.5, Edge For Covering Spread: -0.8%
 
 ### Moneyline
-- **TCU Horned Frogs Win Probability**: 46.6%, Moneyline Edge: -8.0%
-- **Creighton Bluejays Win Probability**: 53.4%, Moneyline Edge: **3.4%**
+- **TCU Horned Frogs Win Probability**: 45.3%, Moneyline Edge: -6.6%
+- **Creighton Bluejays Win Probability**: 54.7%, Moneyline Edge: **2.0%**
 
 ### Total
 - **Predicted Total**: 155.0
-- Edge For Covering The Over: -4.9%
-- Edge For Covering The Under: **0.2%**
+- Edge For Covering The Over: -3.2%
+- Edge For Covering The Under: -1.5%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-TCU Horned Frogs (23-12) travels to face Creighton Bluejays (16-18) at CHI Health Center Omaha in what shapes up to be a competitive matchup. The early betting action has shaped into TCU Horned Frogs favored by 1.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+TCU Horned Frogs (23-12) travels to face Creighton Bluejays (16-18) at CHI Health Center Omaha in what shapes up to be a competitive matchup. The early betting action has shaped into Creighton Bluejays favored by 1.5 points, with the total sitting at 156.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. TCU Horned Frogs's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Creighton Bluejays's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 156.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **TCU Horned Frogs** bring an offensive efficiency of 109.99 (ranked #135 nationally). They're solid offensively, capable of putting up points but not overwhelming. Their 33.2% three-point shooting is serviceable but won't scare anyone. 

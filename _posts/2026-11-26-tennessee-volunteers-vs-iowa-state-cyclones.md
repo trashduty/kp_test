@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Iowa State Cyclones -1.5</p>
-  <p><strong>Moneyline:</strong> Tennessee Volunteers (-100) | Iowa State Cyclones (-120)</p>
+  <p><strong>Spread:</strong> Iowa State Cyclones -2.5</p>
+  <p><strong>Moneyline:</strong> Tennessee Volunteers (+125) | Iowa State Cyclones (-150)</p>
   <p><strong>Total:</strong> 139.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Tennessee Volunteers**: 1.5, Edge For Covering Spread: -4.5%
-- **Iowa State Cyclones**: -1.5, Edge For Covering Spread: 0.0%
+- **Tennessee Volunteers**: 2.5, Edge For Covering Spread: -0.7%
+- **Iowa State Cyclones**: -2.5, Edge For Covering Spread: -4.1%
 
 ### Moneyline
-- **Tennessee Volunteers Win Probability**: 46.6%, Moneyline Edge: -3.4%
-- **Iowa State Cyclones Win Probability**: 53.4%, Moneyline Edge: -1.1%
+- **Tennessee Volunteers Win Probability**: 43.8%, Moneyline Edge: -0.7%
+- **Iowa State Cyclones Win Probability**: 56.2%, Moneyline Edge: -3.8%
 
 ### Total
 - **Predicted Total**: 138.0
-- Edge For Covering The Over: -6.1%
-- Edge For Covering The Under: **1.3%**
+- Edge For Covering The Over: -4.9%
+- Edge For Covering The Under: **0.2%**
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-When Tennessee Volunteers (25-12) travels to face Iowa State Cyclones (29-8) at Hilton Coliseum, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Iowa State Cyclones favored by 1.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+When Tennessee Volunteers (25-12) travels to face Iowa State Cyclones (29-8) at Hilton Coliseum, we're looking at a matchup between two programs with similar profiles in the national landscape. The early betting action has shaped into Iowa State Cyclones favored by 2.5 points, with the total sitting at 139.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Iowa State Cyclones's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
+A spread under 3 points suggests the books see this as essentially a coin flip. Iowa State Cyclones's 2.5-point cushion reflects home court advantage more than a talent gap. The total of 139.5 sits right around league average, indicating a standard pace without extreme scoring expectations either way. 
 
 #### Offensive Firepower
 **Tennessee Volunteers** bring an offensive efficiency of 116.04 (ranked #48 nationally). This is an elite offense that can score in multiple ways. Their 33.4% three-point shooting is serviceable but won't scare anyone. 

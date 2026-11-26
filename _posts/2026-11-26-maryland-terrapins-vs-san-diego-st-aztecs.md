@@ -11,8 +11,8 @@ categories: [basketball, preview]
 
 <div class="betting-lines">
   <h3>Betting Lines</h3>
-  <p><strong>Spread:</strong> Maryland Terrapins -1.5</p>
-  <p><strong>Moneyline:</strong> Maryland Terrapins (-120) | San Diego St Aztecs (-100)</p>
+  <p><strong>Spread:</strong> Maryland Terrapins -4.5</p>
+  <p><strong>Moneyline:</strong> Maryland Terrapins (-195) | San Diego St Aztecs (+162)</p>
   <p><strong>Total:</strong> 153.5</p>
 </div>
 
@@ -24,17 +24,17 @@ categories: [basketball, preview]
 All that being said, here's how our model prices this game.
 
 ### Spread
-- **Maryland Terrapins**: -1.5, Edge For Covering Spread: -1.6%
-- **San Diego St Aztecs**: 1.5, Edge For Covering Spread: -2.9%
+- **Maryland Terrapins**: -4.5, Edge For Covering Spread: -7.2%
+- **San Diego St Aztecs**: 4.5, Edge For Covering Spread: **2.4%**
 
 ### Moneyline
-- **Maryland Terrapins Win Probability**: 51.3%, Moneyline Edge: -3.2%
-- **San Diego St Aztecs Win Probability**: 48.7%, Moneyline Edge: -1.3%
+- **Maryland Terrapins Win Probability**: 57.2%, Moneyline Edge: -8.9%
+- **San Diego St Aztecs Win Probability**: 42.8%, Moneyline Edge: **4.7%**
 
 ### Total
-- **Predicted Total**: 152.0
-- Edge For Covering The Over: -4.9%
-- Edge For Covering The Under: **0.2%**
+- **Predicted Total**: 152.5
+- Edge For Covering The Over: -2.4%
+- Edge For Covering The Under: -2.4%
 
 ---
 
@@ -42,10 +42,10 @@ To see predictions for spreads, moneylines, and totals for every D1 men's colleg
 
 ### Game Analysis & Betting Breakdown
 #### Setting the Stage
-San Diego St Aztecs (22-11) hosts Maryland Terrapins (12-21) at Viejas Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Maryland Terrapins favored by 1.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
+San Diego St Aztecs (22-11) hosts Maryland Terrapins (12-21) at Viejas Arena in a game where the home team finds itself as the underdog in their own building. The early betting action has shaped into Maryland Terrapins favored by 4.5 points, with the total sitting at 153.5. These numbers tell us a story, but let's dig deeper into what's really happening on the court.
 
 #### Breaking Down the Spread
-A spread under 3 points suggests the books see this as essentially a coin flip. Maryland Terrapins's 1.5-point cushion reflects home court advantage more than a talent gap. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
+The 4.5-point spread indicates Maryland Terrapins is viewed as the better team, but this isn't an overwhelming edge. San Diego St Aztecs has a legitimate path to covering or winning outright. The total of 153.5 points to a track meet. The books are anticipating fireworks with both teams getting their shots up. 
 
 #### Offensive Firepower
 **Maryland Terrapins** bring an offensive efficiency of 104.03 (ranked #272 nationally). Scoring has been a struggle, and they'll need their best offensive showing to hit their number. At 31.6% from three, they can't rely on the arc. Expect a paint-focused attack. 
