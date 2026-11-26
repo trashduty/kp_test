@@ -7366,5 +7366,17 @@
   "Illinois Fighting Illini vs. Western Kentucky Hilltoppers|Western Kentucky Hilltoppers|spread": {
     "captured_at": "2026-11-26T21:08:31.503871+00:00",
     "edge_type": "spread"
+  },
+  "Virginia Tech Hokies vs. Old Dominion Monarchs|Old Dominion Monarchs|spread": {
+    "captured_at": "2026-11-26T22:08:51.423891+00:00",
+    "edge_type": "spread"
+  },
+  "North Carolina Tar Heels vs. West Virginia Mountaineers|North Carolina Tar Heels|spread": {
+    "captured_at": "2026-11-26T22:08:51.425372+00:00",
+    "edge_type": "spread"
+  },
+  "Washington St Cougars vs. Idaho Vandals|Idaho Vandals|spread": {
+    "captured_at": "2026-11-26T22:08:51.425981+00:00",
+    "edge_type": "spread"
   }
 }
