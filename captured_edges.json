@@ -7354,5 +7354,9 @@
   "Jacksonville St Gamecocks vs. Pacific Tigers|Pacific Tigers|moneyline": {
     "captured_at": "2026-11-26T01:09:36.973404+00:00",
     "edge_type": "moneyline"
+  },
+  "Jacksonville St Gamecocks vs. Pacific Tigers|Pacific Tigers|spread": {
+    "captured_at": "2026-11-26T02:13:25.297965+00:00",
+    "edge_type": "spread"
   }
 }
