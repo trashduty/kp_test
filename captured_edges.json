@@ -7478,5 +7478,17 @@
   "Richmond Spiders vs. VMI Keydets|VMI Keydets|spread": {
     "captured_at": "2026-11-27T22:08:51.224457+00:00",
     "edge_type": "spread"
+  },
+  "Hofstra Pride vs. Merrimack Warriors|Hofstra Pride|moneyline": {
+    "captured_at": "2026-11-27T23:08:03.010506+00:00",
+    "edge_type": "moneyline"
+  },
+  "Utah Valley Wolverines vs. San Jos\u00e9 St Spartans|Utah Valley Wolverines|spread": {
+    "captured_at": "2026-11-27T23:08:03.010699+00:00",
+    "edge_type": "spread"
+  },
+  "CSU Fullerton Titans vs. Weber State Wildcats|CSU Fullerton Titans|spread": {
+    "captured_at": "2026-11-27T23:08:03.011327+00:00",
+    "edge_type": "spread"
   }
 }
