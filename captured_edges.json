@@ -7458,5 +7458,25 @@
   "Drake Bulldogs vs. North Dakota St Bison|over": {
     "captured_at": "2026-11-27T21:08:13.193000+00:00",
     "edge_type": "over"
+  },
+  "Boise State Broncos vs. North Texas Mean Green|Boise State Broncos|moneyline": {
+    "captured_at": "2026-11-27T22:08:51.223358+00:00",
+    "edge_type": "moneyline"
+  },
+  "Towson Tigers vs. Buffalo Bulls|Buffalo Bulls|spread": {
+    "captured_at": "2026-11-27T22:08:51.223433+00:00",
+    "edge_type": "spread"
+  },
+  "Utah Valley Wolverines vs. San Jos\u00e9 St Spartans|Utah Valley Wolverines|moneyline": {
+    "captured_at": "2026-11-27T22:08:51.223813+00:00",
+    "edge_type": "moneyline"
+  },
+  "CSU Bakersfield Roadrunners vs. Northern Arizona Lumberjacks|over": {
+    "captured_at": "2026-11-27T22:08:51.224145+00:00",
+    "edge_type": "over"
+  },
+  "Richmond Spiders vs. VMI Keydets|VMI Keydets|spread": {
+    "captured_at": "2026-11-27T22:08:51.224457+00:00",
+    "edge_type": "spread"
   }
 }
