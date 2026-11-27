@@ -7382,5 +7382,13 @@
   "Wake Forest Demon Deacons vs. Memphis Tigers|over": {
     "captured_at": "2026-11-26T23:08:23.558672+00:00",
     "edge_type": "over"
+  },
+  "Indiana Hoosiers vs. Bowling Green Falcons|over": {
+    "captured_at": "2026-11-27T00:24:56.856116+00:00",
+    "edge_type": "over"
+  },
+  "Houston Cougars vs. Oakland Golden Grizzlies|Oakland Golden Grizzlies|spread": {
+    "captured_at": "2026-11-27T00:24:56.856490+00:00",
+    "edge_type": "spread"
   }
 }
