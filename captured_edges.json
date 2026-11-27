@@ -7426,5 +7426,9 @@
   "UC Santa Barbara Gauchos vs. Lehigh Mountain Hawks|Lehigh Mountain Hawks|spread": {
     "captured_at": "2026-11-27T02:13:45.894819+00:00",
     "edge_type": "spread"
+  },
+  "Vanderbilt Commodores vs. Southern Jaguars|Southern Jaguars|spread": {
+    "captured_at": "2026-11-27T04:11:35.528751+00:00",
+    "edge_type": "spread"
   }
 }
