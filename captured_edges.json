@@ -7430,5 +7430,9 @@
   "Vanderbilt Commodores vs. Southern Jaguars|Southern Jaguars|spread": {
     "captured_at": "2026-11-27T04:11:35.528751+00:00",
     "edge_type": "spread"
+  },
+  "Alabama Crimson Tide vs. Miami Hurricanes|Miami Hurricanes|moneyline": {
+    "captured_at": "2026-11-27T08:12:19.314125+00:00",
+    "edge_type": "moneyline"
   }
 }
