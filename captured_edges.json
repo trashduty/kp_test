@@ -7390,5 +7390,21 @@
   "Houston Cougars vs. Oakland Golden Grizzlies|Oakland Golden Grizzlies|spread": {
     "captured_at": "2026-11-27T00:24:56.856490+00:00",
     "edge_type": "spread"
+  },
+  "Merrimack Warriors vs. Vermont Catamounts|Merrimack Warriors|spread": {
+    "captured_at": "2026-11-27T01:10:02.263724+00:00",
+    "edge_type": "spread"
+  },
+  "UNC Wilmington Seahawks vs. Princeton Tigers|Princeton Tigers|spread": {
+    "captured_at": "2026-11-27T01:10:02.264603+00:00",
+    "edge_type": "spread"
+  },
+  "Virginia Tech Hokies vs. Old Dominion Monarchs|over": {
+    "captured_at": "2026-11-27T01:10:02.266320+00:00",
+    "edge_type": "over"
+  },
+  "East Tennessee St Buccaneers vs. Charleston Southern Buccaneers|under": {
+    "captured_at": "2026-11-27T01:10:02.267298+00:00",
+    "edge_type": "under"
   }
 }
