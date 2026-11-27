@@ -7438,5 +7438,25 @@
   "Oregon Ducks vs. Maryland Terrapins|Oregon Ducks|spread": {
     "captured_at": "2026-11-27T15:08:59.937389+00:00",
     "edge_type": "spread"
+  },
+  "Fort Wayne Mastodons vs. Wofford Terriers|Fort Wayne Mastodons|moneyline": {
+    "captured_at": "2026-11-27T21:08:13.191292+00:00",
+    "edge_type": "moneyline"
+  },
+  "George Mason Patriots vs. Marist Red Foxes|Marist Red Foxes|spread": {
+    "captured_at": "2026-11-27T21:08:13.191782+00:00",
+    "edge_type": "spread"
+  },
+  "UMKC Kangaroos vs. SE Missouri St Redhawks|UMKC Kangaroos|spread": {
+    "captured_at": "2026-11-27T21:08:13.192290+00:00",
+    "edge_type": "spread"
+  },
+  "UMKC Kangaroos vs. SE Missouri St Redhawks|UMKC Kangaroos|moneyline": {
+    "captured_at": "2026-11-27T21:08:13.192332+00:00",
+    "edge_type": "moneyline"
+  },
+  "Drake Bulldogs vs. North Dakota St Bison|over": {
+    "captured_at": "2026-11-27T21:08:13.193000+00:00",
+    "edge_type": "over"
   }
 }
