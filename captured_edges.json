@@ -7406,5 +7406,25 @@
   "East Tennessee St Buccaneers vs. Charleston Southern Buccaneers|under": {
     "captured_at": "2026-11-27T01:10:02.267298+00:00",
     "edge_type": "under"
+  },
+  "Maine Black Bears vs. Le Moyne Dolphins|Le Moyne Dolphins|moneyline": {
+    "captured_at": "2026-11-27T02:13:45.892948+00:00",
+    "edge_type": "moneyline"
+  },
+  "UCLA Bruins vs. Georgetown Hoyas|under": {
+    "captured_at": "2026-11-27T02:13:45.893060+00:00",
+    "edge_type": "under"
+  },
+  "Butler Bulldogs vs. Bellarmine Knights|Bellarmine Knights|spread": {
+    "captured_at": "2026-11-27T02:13:45.893224+00:00",
+    "edge_type": "spread"
+  },
+  "Missouri Tigers vs. Arkansas-Pine Bluff Golden Lions|Arkansas-Pine Bluff Golden Lions|spread": {
+    "captured_at": "2026-11-27T02:13:45.893637+00:00",
+    "edge_type": "spread"
+  },
+  "UC Santa Barbara Gauchos vs. Lehigh Mountain Hawks|Lehigh Mountain Hawks|spread": {
+    "captured_at": "2026-11-27T02:13:45.894819+00:00",
+    "edge_type": "spread"
   }
 }
