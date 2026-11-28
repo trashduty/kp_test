@@ -7490,5 +7490,37 @@
   "CSU Fullerton Titans vs. Weber State Wildcats|CSU Fullerton Titans|spread": {
     "captured_at": "2026-11-27T23:08:03.011327+00:00",
     "edge_type": "spread"
+  },
+  "Georgia Tech Yellow Jackets vs. Alcorn St Braves|Alcorn St Braves|spread": {
+    "captured_at": "2026-11-28T00:23:06.225264+00:00",
+    "edge_type": "spread"
+  },
+  "Colgate Raiders vs. Vermont Catamounts|Vermont Catamounts|moneyline": {
+    "captured_at": "2026-11-28T00:23:06.225469+00:00",
+    "edge_type": "moneyline"
+  },
+  "UNC Asheville Bulldogs vs. Georgia Southern Eagles|under": {
+    "captured_at": "2026-11-28T00:23:06.226007+00:00",
+    "edge_type": "under"
+  },
+  "North Carolina A&T Aggies vs. Delaware St Hornets|Delaware St Hornets|spread": {
+    "captured_at": "2026-11-28T00:23:06.226953+00:00",
+    "edge_type": "spread"
+  },
+  "Iowa Hawkeyes vs. Prairie View Panthers|Prairie View Panthers|spread": {
+    "captured_at": "2026-11-28T00:23:06.227383+00:00",
+    "edge_type": "spread"
+  },
+  "High Point Panthers vs. The Citadel Bulldogs|The Citadel Bulldogs|spread": {
+    "captured_at": "2026-11-28T00:23:06.227586+00:00",
+    "edge_type": "spread"
+  },
+  "Navy Midshipmen vs. Central Connecticut St Blue Devils|Central Connecticut St Blue Devils|spread": {
+    "captured_at": "2026-11-28T00:23:06.227797+00:00",
+    "edge_type": "spread"
+  },
+  "Furman Paladins vs. Austin Peay Governors|Furman Paladins|moneyline": {
+    "captured_at": "2026-11-28T00:23:06.230277+00:00",
+    "edge_type": "moneyline"
   }
 }
