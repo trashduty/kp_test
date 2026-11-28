@@ -7546,5 +7546,9 @@
   "Lafayette Leopards vs. Maine Black Bears|Maine Black Bears|spread": {
     "captured_at": "2026-11-28T02:12:27.616841+00:00",
     "edge_type": "spread"
+  },
+  "San Diego St Aztecs vs. Texas Tech Red Raiders|under": {
+    "captured_at": "2026-11-28T05:09:00.599782+00:00",
+    "edge_type": "under"
   }
 }
