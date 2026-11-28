@@ -7522,5 +7522,21 @@
   "Furman Paladins vs. Austin Peay Governors|Furman Paladins|moneyline": {
     "captured_at": "2026-11-28T00:23:06.230277+00:00",
     "edge_type": "moneyline"
+  },
+  "Pepperdine Waves vs. Lehigh Mountain Hawks|Lehigh Mountain Hawks|spread": {
+    "captured_at": "2026-11-28T01:09:39.710321+00:00",
+    "edge_type": "spread"
+  },
+  "New Mexico St Aggies vs. Denver Pioneers|New Mexico St Aggies|moneyline": {
+    "captured_at": "2026-11-28T01:09:39.713399+00:00",
+    "edge_type": "moneyline"
+  },
+  "San Francisco Dons vs. Bethune-Cookman Wildcats|Bethune-Cookman Wildcats|spread": {
+    "captured_at": "2026-11-28T01:09:39.716718+00:00",
+    "edge_type": "spread"
+  },
+  "Duquesne Dukes vs. South Carolina St Bulldogs|South Carolina St Bulldogs|spread": {
+    "captured_at": "2026-11-28T01:09:39.716907+00:00",
+    "edge_type": "spread"
   }
 }
