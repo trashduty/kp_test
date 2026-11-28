@@ -7538,5 +7538,13 @@
   "Duquesne Dukes vs. South Carolina St Bulldogs|South Carolina St Bulldogs|spread": {
     "captured_at": "2026-11-28T01:09:39.716907+00:00",
     "edge_type": "spread"
+  },
+  "Bradley Braves vs. Chicago St Cougars|Chicago St Cougars|spread": {
+    "captured_at": "2026-11-28T02:12:27.614122+00:00",
+    "edge_type": "spread"
+  },
+  "Lafayette Leopards vs. Maine Black Bears|Maine Black Bears|spread": {
+    "captured_at": "2026-11-28T02:12:27.616841+00:00",
+    "edge_type": "spread"
   }
 }
